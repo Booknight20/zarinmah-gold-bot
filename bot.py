@@ -199,7 +199,7 @@ def create_message(prices):
 # ارسال به کانال
 # =========================
 
-def send_to_telegram(message):
+def send_to_telegram(message) :
 
     if not TELEGRAM_BOT_TOKEN:
         raise ValueError(
