@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
-from telegram import Bot
+
 
 
 # =========================
@@ -199,26 +199,39 @@ def create_message(prices):
 # ارسال به کانال
 # =========================
 
-def send_to_telegram(message) :
+def send_to_telegram(message):
 
     if not TELEGRAM_BOT_TOKEN:
-        raise ValueError(
-            "TELEGRAM_BOT_TOKEN تنظیم نشده است."
+        raise ValueError("TELEGRAM_BOT_TOKEN تنظیم نشده است.")
+
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+
+    data = {
+        "chat_id": CHANNEL_USERNAME,
+        "text": message,
+        "parse_mode": "Markdown",
+        "disable_web_page_preview": True
+    }
+
+    response = requests.post(
+        url,
+        data=data,
+        timeout=30
+    )
+
+    print("Telegram HTTP Status:", response.status_code)
+    print("Telegram Response:", response.text)
+
+    response.raise_for_status()
+
+    result = response.json()
+
+    if not result.get("ok"):
+        raise RuntimeError(
+            f"Telegram API Error: {result}"
         )
 
-    bot = Bot(token=TELEGRAM_BOT_TOKEN)
-
-    import asyncio
-
-    async def send():
-        await bot.send_message(
-            chat_id=CHANNEL_USERNAME,
-            text=message,
-            parse_mode="Markdown",
-            disable_web_page_preview=True
-        )
-
-    asyncio.run(send())
+    print("✅ پیام با موفقیت به تلگرام ارسال شد.")
 
 
 # =========================
