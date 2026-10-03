@@ -28,7 +28,7 @@ TGJU_URLS = {
     "gold18": "https://www.tgju.org/profile/geram18",
     "coin": "https://www.tgju.org/profile/sekee",
     "half": "https://www.tgju.org/profile/nim",
-    "quarter": "https://gem.tgju.org/profile/rob",
+    "quarter": "https://www.tgju.org/profile/rob",
     "dollar": "https://www.tgju.org/profile/price_dollar_rl",
 }
 
