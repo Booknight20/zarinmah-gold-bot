@@ -28,7 +28,7 @@ TGJU_URLS = {
     "gold18": "https://www.tgju.org/profile/geram18",
     "coin": "https://www.tgju.org/profile/sekee",
     "half": "https://www.tgju.org/profile/nim",
-    "quarter": "https://www.tgju.org/profile/rob",
+    "quarter": "https://gem.tgju.org/profile/rob",
     "dollar": "https://www.tgju.org/profile/price_dollar_rl",
 }
 
@@ -124,39 +124,39 @@ def get_all_prices():
 # ساخت متن پیام
 # ==========================================
 
-🌙✨ **زرین ماه**
-💎 *قیمت لحظه‌ای طلا، سکه و دلار*
+def build_message(prices):
 
-━━━━━━━━━━━━━━━━━━
+    now = datetime.now(TEHRAN)
 
-🟡 **طلای ۱۸ عیار**
-💰 هر گرم: **{قیمت} تومان**
+    update_time = now.strftime("%H:%M")
 
-🪙 **سکه امامی**
-💰 **{قیمت} تومان**
+    return f"""🌙 زرین ماه | قیمت طلا، سکه و دلار 💰
 
-🪙 **نیم‌سکه**
-💰 **{قیمت} تومان**
+🕒 آخرین بروزرسانی: {update_time}
 
-🪙 **ربع‌سکه**
-💰 **{قیمت} تومان**
+🟡 طلای ۱۸ عیار
+💰 هر گرم: {prices["gold18"]:,} تومان
 
-💵 **دلار آزاد**
-💰 **{قیمت} تومان**
+🪙 سکه امامی
+💰 {prices["coin"]:,} تومان
 
-━━━━━━━━━━━━━━━━━━
+🪙 نیم‌سکه
+💰 {prices["half"]:,} تومان
 
-🕒 **آخرین بروزرسانی:** {ساعت}
+🪙 ربع‌سکه
+💰 {prices["quarter"]:,} تومان
 
-📊 منبع نرخ‌ها: **TGJU**
-⚠️ قیمت‌ها لحظه‌ای تغییر می‌کنند.
+💵 دلار آزاد
+💰 {prices["dollar"]:,} تومان
 
-━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━
 
-🌙 **زرین ماه**
+⚠️ قیمت‌ها بر اساس آخرین نرخ دریافت‌شده از TGJU هستند و ممکن است در هر لحظه تغییر کنند.
+
+🌙 زرین ماه
 ✨ ویترین طلای کم‌اجرت
 
-📲 **@ZarinMahGold**
+📲 @ZarinMahGold
 """
 
 
