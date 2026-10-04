@@ -2,32 +2,37 @@ name: ZarinMah Gold Bot
 
 on:
   schedule:
-
-    # پست ساعتی
     - cron: "5 * * * *"
       timezone: "Asia/Tehran"
-
-    # گزارش روزانه ساعت 11 تهران
     - cron: "0 11 * * *"
       timezone: "Asia/Tehran"
 
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "نوع تست"
+        required: true
+        default: hourly
+        type: choice
+        options:
+          - hourly
+          - daily
 
 permissions:
   contents: write
 
 jobs:
-
   hourly:
     if: >
-      github.event_name == 'workflow_dispatch' ||
-      github.event.schedule == '5 * * * *'
+      (github.event_name == 'schedule' &&
+       github.event.schedule == '5 * * * *') ||
+      (github.event_name == 'workflow_dispatch' &&
+       inputs.mode == 'hourly')
 
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: Checkout repository
+      - name: Get repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -36,15 +41,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run hourly bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           BOT_MODE: hourly
-        run: |
-          python bot.py
+        run: python bot.py
 
       - name: Save market data
         run: |
@@ -60,17 +63,17 @@ jobs:
             git push
           fi
 
-
   daily:
     if: >
-      github.event_name == 'schedule' &&
-      github.event.schedule == '0 11 * * *'
+      (github.event_name == 'schedule' &&
+       github.event.schedule == '0 11 * * *') ||
+      (github.event_name == 'workflow_dispatch' &&
+       inputs.mode == 'daily')
 
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: Checkout repository
+      - name: Get repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -79,15 +82,13 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run daily report
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           BOT_MODE: daily
-        run: |
-          python bot.py
+        run: python bot.py
 
       - name: Save market data
         run: |
