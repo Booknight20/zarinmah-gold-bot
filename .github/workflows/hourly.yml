@@ -1,46 +1,17 @@
-name: ZarinMah Gold Bot
+name: ZarinMah Hourly Gold Price
 
 on:
   schedule:
-    # ارسال ساعتی - دقیقه 17 هر ساعت
     - cron: "17 * * * *"
       timezone: "Asia/Tehran"
 
-    # گزارش روزانه - ساعت 11 تهران
-    - cron: "0 11 * * *"
-      timezone: "Asia/Tehran"
-
   workflow_dispatch:
-    inputs:
-      mode:
-        description: "نوع تست"
-        required: true
-        default: hourly
-        type: choice
-        options:
-          - hourly
-          - daily
 
 permissions:
   contents: write
-  
-concurrency:
-  group: zarinmah-gold-bot
-  cancel-in-progress: false
-  
+
 jobs:
-
-  # ==========================================
-  # HOURLY
-  # ==========================================
-
-  hourly:
-
-    if: >
-      (github.event_name == 'schedule' &&
-       github.event.schedule == '17 * * * *') ||
-      (github.event_name == 'workflow_dispatch' &&
-       inputs.mode == 'hourly')
+  run-bot:
 
     runs-on: ubuntu-latest
 
@@ -56,121 +27,24 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run hourly bot with retry
+      - name: Run bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          BOT_MODE: hourly
         run: |
-          for attempt in 1 2 3
-          do
-            echo "===================================="
-            echo "Hourly bot attempt: $attempt / 3"
-            echo "===================================="
+          python bot.py
 
-            if python bot.py
-            then
-              echo "Hourly bot completed successfully."
-              exit 0
-            fi
-
-            if [ "$attempt" -lt 3 ]
-            then
-              echo "Bot failed."
-              echo "Waiting 30 seconds before retry..."
-              sleep 30
-            fi
-          done
-
-          echo "Hourly bot failed after 3 attempts."
-          exit 1
-
-      - name: Save market data
+      - name: Save previous prices
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add previous_prices.json market_history.json
+          git add previous_prices.json
 
-          if git diff --cached --quiet
-          then
-            echo "No market data changes."
+          if git diff --cached --quiet; then
+            echo "No changes to previous prices."
           else
-            git commit -m "Update market data"
-            git push
-          fi
-
-
-  # ==========================================
-  # DAILY
-  # ==========================================
-
-  daily:
-
-    if: >
-      (github.event_name == 'schedule' &&
-       github.event.schedule == '0 11 * * *') ||
-      (github.event_name == 'workflow_dispatch' &&
-       inputs.mode == 'daily')
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - name: Get repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Run daily bot with retry
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          BOT_MODE: daily
-        run: |
-          for attempt in 1 2 3
-          do
-            echo "===================================="
-            echo "Daily bot attempt: $attempt / 3"
-            echo "===================================="
-
-            if python bot.py
-            then
-              echo "Daily bot completed successfully."
-              exit 0
-            fi
-
-            if [ "$attempt" -lt 3 ]
-            then
-              echo "Bot failed."
-              echo "Waiting 30 seconds before retry..."
-              sleep 30
-            fi
-          done
-
-          echo "Daily bot failed after 3 attempts."
-          exit 1
-
-      - name: Save market data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add previous_prices.json market_history.json
-
-          if git diff --cached --quiet
-          then
-            echo "No market data changes."
-          else
-            git commit -m "Update market data"
+            git commit -m "Update previous prices"
             git push
           fi
