@@ -23,7 +23,11 @@ on:
 
 permissions:
   contents: write
-
+  
+concurrency:
+  group: zarinmah-gold-bot
+  cancel-in-progress: false
+  
 jobs:
 
   # ==========================================
