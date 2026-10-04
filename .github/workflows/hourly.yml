@@ -1,8 +1,13 @@
-name: ZarinMah Hourly Gold Price
+name: ZarinMah Scheduled Bot
 
 on:
   schedule:
+    # قیمت ساعتی
     - cron: "17 * * * *"
+      timezone: "Asia/Tehran"
+
+    # تحلیل روزانه
+    - cron: "45 11 * * *"
       timezone: "Asia/Tehran"
 
   workflow_dispatch:
@@ -11,7 +16,16 @@ permissions:
   contents: write
 
 jobs:
-  run-bot:
+
+  # =====================================
+  # قیمت ساعتی
+  # =====================================
+
+  hourly-price:
+
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      github.event.schedule == '17 * * * *'
 
     runs-on: ubuntu-latest
 
@@ -29,7 +43,7 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run bot
+      - name: Run hourly price bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: |
@@ -48,3 +62,36 @@ jobs:
             git commit -m "Update previous prices"
             git push
           fi
+
+
+  # =====================================
+  # تحلیل روزانه ساعت 11:45
+  # =====================================
+
+  daily-analysis:
+
+    if: >
+      github.event_name == 'schedule' &&
+      github.event.schedule == '45 11 * * *'
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Get repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run daily analysis
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          python daily_analysis.py
