@@ -2,7 +2,7 @@ name: ZarinMah Gold Bot
 
 on:
   schedule:
-    # ارسال ساعتی - دقیقه 5 هر ساعت
+    # ارسال ساعتی - دقیقه 17 هر ساعت
     - cron: "17 * * * *"
       timezone: "Asia/Tehran"
 
