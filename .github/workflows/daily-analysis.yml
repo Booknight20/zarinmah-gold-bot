@@ -2,8 +2,7 @@ name: ZarinMah Daily Market Analysis
 
 on:
   schedule:
-    - cron: "45 11 * * *"
-      timezone: "Asia/Tehran"
+    - cron: "15 8 * * *"
 
   workflow_dispatch:
 
@@ -11,13 +10,10 @@ permissions:
   contents: read
 
 jobs:
-
   daily-analysis:
-
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Get repository
         uses: actions/checkout@v4
 
