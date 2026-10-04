@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import time
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
@@ -8,29 +9,20 @@ import requests
 from bs4 import BeautifulSoup
 
 
-# ==========================================
-# تنظیمات
-# ==========================================
+# =========================
+# CONFIG
+# =========================
 
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 BOT_MODE = os.environ.get("BOT_MODE", "hourly")
 
 CHANNEL = "@ZarinMahGold"
-
 TEHRAN = ZoneInfo("Asia/Tehran")
 
 PREVIOUS_FILE = "previous_prices.json"
 HISTORY_FILE = "market_history.json"
 
 MAX_HISTORY_DAYS = 30
-
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/128.0 Safari/537.36"
-    )
-}
 
 TGJU_URLS = {
     "gold18": "https://www.tgju.org/profile/geram18",
@@ -40,149 +32,291 @@ TGJU_URLS = {
     "dollar": "https://www.tgju.org/profile/price_dollar_rl",
 }
 
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/128.0 Safari/537.36"
+    )
+}
 
-# ==========================================
-# اعداد فارسی / عربی
-# ==========================================
+
+# =========================
+# DATE / CALENDAR
+# =========================
+
+WEEKDAYS_FA = [
+    "دوشنبه",
+    "سه‌شنبه",
+    "چهارشنبه",
+    "پنجشنبه",
+    "جمعه",
+    "شنبه",
+    "یکشنبه",
+]
+
+PERSIAN_MONTHS = [
+    "فروردین",
+    "اردیبهشت",
+    "خرداد",
+    "تیر",
+    "مرداد",
+    "شهریور",
+    "مهر",
+    "آبان",
+    "آذر",
+    "دی",
+    "بهمن",
+    "اسفند",
+]
+
+
+def gregorian_to_jalali(gy, gm, gd):
+    """
+    تبدیل تاریخ میلادی به شمسی.
+    """
+    g_days_in_month = [
+        31, 28, 31, 30, 31, 30,
+        31, 31, 30, 31, 30, 31
+    ]
+
+    j_days_in_month = [
+        31, 31, 31, 31, 31, 31,
+        30, 30, 30, 30, 30, 29
+    ]
+
+    gy2 = gy - 1600
+    gm2 = gm - 1
+    gd2 = gd - 1
+
+    g_day_no = (
+        365 * gy2
+        + (gy2 + 3) // 4
+        - (gy2 + 99) // 100
+        + (gy2 + 399) // 400
+    )
+
+    for i in range(gm2):
+        g_day_no += g_days_in_month[i]
+
+    if gm2 > 1 and (
+        gy % 4 == 0 and
+        (gy % 100 != 0 or gy % 400 == 0)
+    ):
+        g_day_no += 1
+
+    g_day_no += gd2
+
+    j_day_no = g_day_no - 79
+
+    j_np = j_day_no // 12053
+    j_day_no %= 12053
+
+    jy = 979 + 33 * j_np + 4 * (j_day_no // 1461)
+    j_day_no %= 1461
+
+    if j_day_no >= 366:
+        jy += (j_day_no - 1) // 365
+        j_day_no = (j_day_no - 1) % 365
+
+    i = 0
+
+    while (
+        i < 11
+        and j_day_no >= j_days_in_month[i]
+    ):
+        j_day_no -= j_days_in_month[i]
+        i += 1
+
+    jm = i + 1
+    jd = j_day_no + 1
+
+    return jy, jm, jd
+
+
+def get_jalali_date(dt):
+    return gregorian_to_jalali(
+        dt.year,
+        dt.month,
+        dt.day
+    )
+
+
+def get_date_info():
+    now = datetime.now(TEHRAN)
+
+    jy, jm, jd = get_jalali_date(now)
+
+    weekday = WEEKDAYS_FA[now.weekday()]
+    jalali_date = (
+        f"{jd} {PERSIAN_MONTHS[jm - 1]} {jy}"
+    )
+
+    gregorian_date = now.strftime("%Y/%m/%d")
+
+    return {
+        "now": now,
+        "weekday": weekday,
+        "jalali": jalali_date,
+        "gregorian": gregorian_date,
+    }
+
+
+# =========================
+# OCCASIONS
+# =========================
+
+OCCASIONS = {
+    # نمونه مناسبت‌های ثابت
+    # این بخش قابل توسعه است.
+}
+
+
+def get_today_occasions():
+    info = get_date_info()
+    jy, jm, jd = get_jalali_date(info["now"])
+
+    key = f"{jm:02d}-{jd:02d}"
+
+    occasions = OCCASIONS.get(key, [])
+
+    if not occasions:
+        return "امروز مناسبت ثبت‌شده‌ای در فهرست این ربات ندارد."
+
+    return "\n".join(
+        f"• {item}"
+        for item in occasions
+    )
+
+
+# =========================
+# NUMBER HELPERS
+# =========================
 
 def normalize_digits(text):
-
     table = str.maketrans(
         "۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩",
         "01234567890123456789"
     )
-
     return text.translate(table)
 
-
-# ==========================================
-# دریافت قیمت TGJU
-# ==========================================
-
-def get_tgju_price(url):
-
-    print(f"در حال دریافت: {url}")
-
-    response = requests.get(
-        url,
-        headers=HEADERS,
-        timeout=30
-    )
-
-    response.raise_for_status()
-
-    soup = BeautifulSoup(
-        response.text,
-        "html.parser"
-    )
-
-    page_text = soup.get_text(
-        " ",
-        strip=True
-    )
-
-    page_text = normalize_digits(page_text)
-
-    patterns = [
-        r"نرخ فعلی\s*:\s*:?\s*([\d,]+)",
-        r"نرخ فعلی::\s*([\d,]+)",
-    ]
-
-    for pattern in patterns:
-
-        match = re.search(
-            pattern,
-            page_text
-        )
-
-        if match:
-
-            value = match.group(1)
-            value = value.replace(",", "")
-
-            price = int(value)
-
-            print(
-                f"قیمت ریالی: {price:,}"
-            )
-
-            return price
-
-    raise RuntimeError(
-        f"قیمت فعلی از TGJU پیدا نشد: {url}"
-    )
-
-
-# ==========================================
-# ریال به تومان
-# ==========================================
 
 def rial_to_toman(value):
     return value // 10
 
 
-# ==========================================
-# دریافت تمام قیمت‌ها
-# ==========================================
+# =========================
+# TGJU
+# =========================
+
+def get_tgju_price(url):
+    max_attempts = 5
+
+    for attempt in range(1, max_attempts + 1):
+        try:
+            response = requests.get(
+                url,
+                headers=HEADERS,
+                timeout=30,
+            )
+
+            response.raise_for_status()
+
+            soup = BeautifulSoup(
+                response.text,
+                "html.parser"
+            )
+
+            page_text = normalize_digits(
+                soup.get_text(
+                    " ",
+                    strip=True
+                )
+            )
+
+            patterns = [
+                r"نرخ فعلی\s*:\s*:?\s*([\d,]+)",
+                r"نرخ فعلی::\s*([\d,]+)",
+            ]
+
+            for pattern in patterns:
+                match = re.search(
+                    pattern,
+                    page_text
+                )
+
+                if match:
+                    value = match.group(1)
+                    value = value.replace(",", "")
+                    return int(value)
+
+            raise RuntimeError(
+                f"قیمت فعلی از TGJU پیدا نشد: {url}"
+            )
+
+        except Exception as error:
+            print(
+                f"TGJU attempt {attempt}/{max_attempts}: "
+                f"{error}"
+            )
+
+            if attempt < max_attempts:
+                wait_seconds = attempt * 5
+
+                print(
+                    f"Retrying in "
+                    f"{wait_seconds} seconds..."
+                )
+
+                time.sleep(wait_seconds)
+
+    raise RuntimeError(
+        f"دریافت قیمت از TGJU پس از "
+        f"{max_attempts} تلاش ناموفق بود."
+    )
+
 
 def get_all_prices():
-
     prices = {}
 
     for name, url in TGJU_URLS.items():
-
         rial_price = get_tgju_price(url)
-
-        toman_price = rial_to_toman(
+        prices[name] = rial_to_toman(
             rial_price
-        )
-
-        prices[name] = toman_price
-
-        print(
-            f"{name}: {toman_price:,} تومان"
         )
 
     return prices
 
 
-# ==========================================
-# previous_prices.json
-# ==========================================
+# =========================
+# PREVIOUS PRICES
+# =========================
 
 def load_previous_prices():
-
     if not os.path.exists(PREVIOUS_FILE):
-
         return None
 
     try:
-
         with open(
             PREVIOUS_FILE,
             "r",
             encoding="utf-8"
         ) as file:
-
             return json.load(file)
 
     except Exception as error:
-
         print(
-            f"⚠️ خطا در خواندن previous_prices: {error}"
+            f"Could not load previous prices: {error}"
         )
-
         return None
 
 
 def save_current_prices(prices):
-
     with open(
         PREVIOUS_FILE,
         "w",
         encoding="utf-8"
     ) as file:
-
         json.dump(
             prices,
             file,
@@ -190,57 +324,41 @@ def save_current_prices(prices):
             indent=2
         )
 
-    print(
-        "✅ previous_prices.json ذخیره شد."
-    )
 
+# =========================
+# MARKET HISTORY
+# =========================
 
-# ==========================================
-# market_history.json
-# ==========================================
-
-def load_market_history():
-
+def load_history():
     if not os.path.exists(HISTORY_FILE):
-
-        print(
-            "⚪ market_history.json وجود ندارد."
-        )
-
         return []
 
     try:
-
         with open(
             HISTORY_FILE,
             "r",
             encoding="utf-8"
         ) as file:
-
             data = json.load(file)
 
-            if isinstance(data, list):
-                return data
-
-            return []
-
-    except Exception as error:
-
-        print(
-            f"⚠️ خطا در خواندن تاریخچه: {error}"
-        )
+        if isinstance(data, list):
+            return data
 
         return []
 
+    except Exception as error:
+        print(
+            f"Could not load history: {error}"
+        )
+        return []
 
-def save_market_history(history):
 
+def save_history(history):
     with open(
         HISTORY_FILE,
         "w",
         encoding="utf-8"
     ) as file:
-
         json.dump(
             history,
             file,
@@ -248,19 +366,14 @@ def save_market_history(history):
             indent=2
         )
 
-    print(
-        f"✅ تاریخچه ذخیره شد: {len(history)} رکورد"
-    )
-
 
 def add_history_record(history, prices):
-
     now = datetime.now(TEHRAN)
 
     record = {
         "timestamp": now.isoformat(),
         "date": now.strftime("%Y-%m-%d"),
-        "time": now.strftime("%H:%M"),
+        "time": now.strftime("%H:%M:%S"),
         "gold18": prices["gold18"],
         "coin": prices["coin"],
         "half": prices["half"],
@@ -274,236 +387,54 @@ def add_history_record(history, prices):
         days=MAX_HISTORY_DAYS
     )
 
-    cleaned = []
+    filtered = []
 
     for item in history:
-
         try:
-
             item_time = datetime.fromisoformat(
                 item["timestamp"]
             )
 
             if item_time >= cutoff:
-
-                cleaned.append(item)
+                filtered.append(item)
 
         except Exception:
-
             continue
 
-    cleaned.sort(
-        key=lambda x: x["timestamp"]
-    )
-
-    return cleaned
+    return filtered
 
 
-# ==========================================
-# تبدیل تاریخ میلادی به شمسی
-# ==========================================
+# =========================
+# MARKET ANALYSIS
+# =========================
 
-def gregorian_to_jalali(gy, gm, gd):
-
-    g_days_in_month = [
-        31, 28, 31, 30, 31, 30,
-        31, 31, 30, 31, 30, 31
-    ]
-
-    j_days_in_month = [
-        31, 31, 31, 31, 31, 31,
-        30, 30, 30, 30, 30, 30,
-        29
-    ]
-
-    gy2 = gy - 1600
-
-    if gy2 >= 0:
-        gy_calc = gy2
-    else:
-        gy_calc = gy2 - 1
-
-    days = (
-        365 * gy_calc
-        + (gy_calc + 3) // 4
-        - (gy_calc + 99) // 100
-        + (gy_calc + 399) // 400
-    )
-
-    for i in range(gm - 1):
-        days += g_days_in_month[i]
-
-    if (
-        gm > 2
-        and gy % 4 == 0
-        and (
-            gy % 100 != 0
-            or gy % 400 == 0
-        )
-    ):
-        days += 1
-
-    days += gd - 1
-    days -= 79
-
-    j_np = days // 12053
-    days %= 12053
-
-    jy = 979 + 33 * j_np
-
-    jy += 4 * (days // 1461)
-
-    days %= 1461
-
-    if days > 365:
-
-        jy += (days - 1) // 365
-        days = (days - 1) % 365
-
-    for i in range(12):
-
-        if days < j_days_in_month[i]:
-
-            jm = i + 1
-            jd = days + 1
-
-            return jy, jm, jd
-
-        days -= j_days_in_month[i]
-
-    return jy, 12, 30
-
-
-WEEKDAYS = {
-    0: "دوشنبه",
-    1: "سه‌شنبه",
-    2: "چهارشنبه",
-    3: "پنجشنبه",
-    4: "جمعه",
-    5: "شنبه",
-    6: "یکشنبه",
-}
-
-JALALI_MONTHS = {
-    1: "فروردین",
-    2: "اردیبهشت",
-    3: "خرداد",
-    4: "تیر",
-    5: "مرداد",
-    6: "شهریور",
-    7: "مهر",
-    8: "آبان",
-    9: "آذر",
-    10: "دی",
-    11: "بهمن",
-    12: "اسفند",
-}
-
-
-# ==========================================
-# مناسبت‌ها
-# ==========================================
-
-OCCASIONS = {
-
-    (1, 1): "نوروز و آغاز سال نو",
-    (1, 2): "عید نوروز",
-    (1, 3): "عید نوروز",
-    (1, 4): "عید نوروز",
-    (1, 12): "روز جمهوری اسلامی ایران",
-    (1, 13): "روز طبیعت",
-
-    (2, 12): "روز معلم",
-
-    (3, 14): "رحلت امام خمینی (ره)",
-    (3, 15): "قیام ۱۵ خرداد",
-
-    (5, 11): "روز ملی صنعت و معدن",
-
-    (6, 1): "روز پزشک",
-
-    (7, 1): "آغاز سال تحصیلی",
-    (7, 20): "روز بزرگداشت حافظ",
-
-    (8, 13): "روز دانش‌آموز",
-
-    (9, 16): "روز دانشجو",
-
-    (11, 22): "پیروزی انقلاب اسلامی",
-
-    (12, 29): "روز ملی شدن صنعت نفت",
-}
-
-
-def get_occasion(jm, jd):
-
-    occasion = OCCASIONS.get(
-        (jm, jd)
-    )
-
-    if occasion:
-
-        return (
-            f"🎉 مناسبت امروز: {occasion}"
-        )
-
-    return (
-        "📅 مناسبت ویژه‌ای برای امروز "
-        "در تقویم ثابت ربات ثبت نشده است."
-    )
-
-
-# ==========================================
-# تغییر درصدی
-# ==========================================
-
-def percent_change(current, old):
-
-    if old is None:
-        return None
-
-    if old == 0:
-        return None
-
-    return (
-        (current - old) / old
-    ) * 100
-
-
-def format_percent(value):
-
-    if value is None:
-        return "نامشخص"
-
-    sign = "+" if value > 0 else ""
-
-    return f"{sign}{value:.2f}%"
-
-
-# ==========================================
-# پیدا کردن قیمت نزدیک به زمان مورد نظر
-# ==========================================
-
-def find_oldest_before(
+def historical_change(
     history,
-    target_time
+    current_price,
+    key,
+    hours
 ):
+    if not history or current_price <= 0:
+        return None
+
+    now = datetime.now(TEHRAN)
+
+    target = now - timedelta(
+        hours=hours
+    )
 
     candidates = []
 
     for item in history:
-
         try:
-
             item_time = datetime.fromisoformat(
                 item["timestamp"]
             )
 
-            if item_time <= target_time:
+            if item_time <= target:
                 candidates.append(item)
 
         except Exception:
-
             continue
 
     if not candidates:
@@ -513,126 +444,49 @@ def find_oldest_before(
         key=lambda x: x["timestamp"]
     )
 
-    return candidates[-1]
-
-
-# ==========================================
-# محاسبه بازدهی تاریخی
-# ==========================================
-
-def historical_change(
-    history,
-    current_price,
-    key,
-    hours
-):
-
-    now = datetime.now(TEHRAN)
-
-    target = now - timedelta(
-        hours=hours
-    )
-
-    old_record = find_oldest_before(
-        history,
-        target
-    )
-
-    if not old_record:
-        return None
-
-    old_price = old_record.get(key)
+    old_price = candidates[-1].get(key)
 
     if not old_price:
         return None
 
-    return percent_change(
-        current_price,
-        old_price
-    )
+    return (
+        (current_price - old_price)
+        / old_price
+    ) * 100
 
-
-# ==========================================
-# پیدا کردن رکوردهای یک بازه
-# ==========================================
 
 def get_window_records(
     history,
     hours
 ):
-
     now = datetime.now(TEHRAN)
 
-    start = now - timedelta(
+    cutoff = now - timedelta(
         hours=hours
     )
 
     result = []
 
     for item in history:
-
         try:
-
             item_time = datetime.fromisoformat(
                 item["timestamp"]
             )
 
-            if (
-                start
-                <= item_time
-                <= now
-            ):
-
+            if item_time >= cutoff:
                 result.append(item)
 
         except Exception:
-
             continue
 
     return result
 
-
-# ==========================================
-# سقف و کف واقعی تاریخچه
-# ==========================================
-
-def get_high_low(
-    history,
-    key,
-    hours
-):
-
-    records = get_window_records(
-        history,
-        hours
-    )
-
-    values = []
-
-    for item in records:
-
-        value = item.get(key)
-
-        if isinstance(value, (int, float)):
-
-            values.append(value)
-
-    if not values:
-        return None, None
-
-    return max(values), min(values)
-
-
-# ==========================================
-# حمایت / مقاومت بر اساس تاریخچه
-# ==========================================
 
 def get_real_levels(
     history,
     key,
     current_price
 ):
-
     records = get_window_records(
         history,
         72
@@ -641,138 +495,84 @@ def get_real_levels(
     values = []
 
     for item in records:
-
         value = item.get(key)
 
         if isinstance(value, (int, float)):
-
             values.append(value)
 
-    if len(values) < 3:
+    if not values:
+        return None, None
 
-        # اگر تاریخچه هنوز کم است
-        # فقط یک محدوده بسیار تقریبی
-        return (
-            int(current_price * 0.99),
-            int(current_price * 1.01)
-        )
-
-    values.sort()
-
-    # سه سطح پایین‌تر از قیمت
-    lower = [
-        x for x in values
-        if x < current_price
+    supports = [
+        value
+        for value in values
+        if value < current_price
     ]
 
-    # سه سطح بالاتر از قیمت
-    upper = [
-        x for x in values
-        if x > current_price
+    resistances = [
+        value
+        for value in values
+        if value > current_price
     ]
 
-    if lower:
-
-        support = max(lower)
-
-    else:
-
-        support = min(values)
-
-    if upper:
-
-        resistance = min(upper)
-
-    else:
-
-        resistance = max(values)
-
-    return (
-        int(support),
-        int(resistance)
+    support = max(supports) if supports else None
+    resistance = (
+        min(resistances)
+        if resistances
+        else None
     )
 
-
-# ==========================================
-# تشخیص روند
-# ==========================================
-
-def determine_trend(
-    history,
-    prices,
-    key
-):
-
-    changes = []
-
-    for hours in [
-        6,
-        24,
-        72
-    ]:
-
-        change = historical_change(
-            history,
-            prices[key],
-            key,
-            hours
+    if support is None:
+        support = int(
+            current_price * 0.99
         )
 
-        if change is not None:
-
-            changes.append(
-                change
-            )
-
-    if not changes:
-
-        return (
-            "نامشخص",
-            None
+    if resistance is None:
+        resistance = int(
+            current_price * 1.01
         )
 
-    average = sum(changes) / len(
-        changes
-    )
+    return support, resistance
+
+
+def determine_trend(changes):
+    values = [
+        value
+        for value in changes
+        if value is not None
+    ]
+
+    if not values:
+        return "نامشخص"
+
+    average = sum(values) / len(values)
 
     if average >= 1:
-
-        return (
-            "صعودی",
-            average
-        )
+        return "صعودی 🟢"
 
     if average <= -1:
+        return "نزولی 🔴"
 
-        return (
-            "نزولی",
-            average
-        )
-
-    return (
-        "خنثی / نوسانی",
-        average
-    )
+    return "خنثی ⚪"
 
 
-# ==========================================
-# تحلیل واقعی بازار
-# ==========================================
+def format_percent(value):
+    if value is None:
+        return "داده کافی نیست"
+
+    if value > 0:
+        return f"🟢 +{value:.2f}%"
+
+    if value < 0:
+        return f"🔴 {value:.2f}%"
+
+    return "⚪ 0.00%"
+
 
 def analyze_market(
-    history,
-    prices
+    prices,
+    history
 ):
-
-    if len(history) < 3:
-
-        return (
-            "📊 تحلیل بازار\n\n"
-            "⚠️ هنوز تاریخچه کافی جمع نشده است.\n"
-            "بعد از چند ساعت فعالیت ربات، "
-            "تحلیل روند دقیق‌تر خواهد شد."
-        )
-
     gold_6h = historical_change(
         history,
         prices["gold18"],
@@ -808,216 +608,162 @@ def analyze_market(
         24
     )
 
-    gold_trend, _ = determine_trend(
-        history,
-        prices,
-        "gold18"
-    )
+    gold_trend = determine_trend([
+        gold_6h,
+        gold_24h,
+        gold_72h,
+    ])
 
-    dollar_trend, _ = determine_trend(
-        history,
-        prices,
-        "dollar"
-    )
+    coin_trend = determine_trend([
+        coin_24h
+    ])
 
-    coin_trend, _ = determine_trend(
-        history,
-        prices,
-        "coin"
-    )
+    dollar_trend = determine_trend([
+        dollar_24h
+    ])
 
-    lines = [
-        "📊 تحلیل مبتنی بر تاریخچه بازار",
-        "",
-        f"🟡 طلای ۱۸ عیار:",
-        f"۶ ساعت: {format_percent(gold_6h)}",
-        f"۲۴ ساعت: {format_percent(gold_24h)}",
-        f"۷۲ ساعت: {format_percent(gold_72h)}",
-        "",
-        f"🪙 سکه امامی ۲۴ ساعت:",
-        f"{format_percent(coin_24h)}",
-        "",
-        f"💵 دلار آزاد ۲۴ ساعت:",
-        f"{format_percent(dollar_24h)}",
-        "",
-        "📌 روند فعلی:",
-        f"طلا: {gold_trend}",
-        f"سکه: {coin_trend}",
-        f"دلار: {dollar_trend}",
-    ]
-
-    # تشخیص هم‌جهتی
     positive = 0
     negative = 0
 
     for value in [
         gold_24h,
         coin_24h,
-        dollar_24h
+        dollar_24h,
     ]:
-
         if value is not None:
-
             if value > 0.3:
                 positive += 1
-
             elif value < -0.3:
                 negative += 1
 
     if positive >= 2:
-
         conclusion = (
-            "🟢 جمع‌بندی: مومنتوم کوتاه‌مدت "
-            "بازار متمایل به صعود است."
+            "تمایل کلی بازار در ۲۴ ساعت اخیر "
+            "مثبت و متمایل به صعود بوده است."
         )
 
     elif negative >= 2:
-
         conclusion = (
-            "🔴 جمع‌بندی: مومنتوم کوتاه‌مدت "
-            "بازار متمایل به نزول است."
+            "تمایل کلی بازار در ۲۴ ساعت اخیر "
+            "منفی و متمایل به نزول بوده است."
         )
 
     else:
-
         conclusion = (
-            "🟡 جمع‌بندی: بازار در وضعیت "
-            "خنثی/نوسانی قرار دارد."
+            "بازار در مجموع در وضعیت متعادل "
+            "یا نوسانی قرار دارد."
         )
 
-    lines.extend([
-        "",
-        conclusion
-    ])
+    return {
+        "gold_6h": gold_6h,
+        "gold_24h": gold_24h,
+        "gold_72h": gold_72h,
+        "coin_24h": coin_24h,
+        "dollar_24h": dollar_24h,
+        "gold_trend": gold_trend,
+        "coin_trend": coin_trend,
+        "dollar_trend": dollar_trend,
+        "conclusion": conclusion,
+    }
 
-    return "\n".join(lines)
 
-
-# ==========================================
-# پیش‌بینی سناریویی
-# ==========================================
+# =========================
+# FORECAST
+# =========================
 
 def build_forecast(
-    history,
-    prices
+    prices,
+    analysis
 ):
+    gold_24h = analysis["gold_24h"]
+    gold_72h = analysis["gold_72h"]
+    dollar_24h = analysis["dollar_24h"]
 
-    gold_24h = historical_change(
-        history,
-        prices["gold18"],
-        "gold18",
-        24
-    )
+    score = 0
 
-    gold_72h = historical_change(
-        history,
-        prices["gold18"],
-        "gold18",
-        72
-    )
+    for value, weight in [
+        (gold_24h, 2),
+        (gold_72h, 1),
+        (dollar_24h, 1),
+    ]:
+        if value is None:
+            continue
 
-    dollar_24h = historical_change(
-        history,
-        prices["dollar"],
-        "dollar",
-        24
-    )
+        if value > 0.5:
+            score += weight
 
-    if gold_24h is None:
+        elif value < -0.5:
+            score -= weight
 
-        return (
-            "🔮 سناریوی کوتاه‌مدت\n\n"
-            "برای ارائه سناریوی معتبرتر، "
-            "ابتدا باید تاریخچه بیشتری جمع شود."
-        )
+    if score >= 2:
+        main_scenario = "سناریوی غالب: صعودی 🟢"
 
-    momentum = gold_24h
-
-    if gold_72h is not None:
-
-        momentum = (
-            gold_24h * 0.65
-            + gold_72h * 0.35
-        )
-
-    if (
-        dollar_24h is not None
-        and dollar_24h > 0.5
-    ):
-
-        momentum += 0.25
-
-    elif (
-        dollar_24h is not None
-        and dollar_24h < -0.5
-    ):
-
-        momentum -= 0.25
-
-    if momentum >= 1:
-
-        main_scenario = (
-            "🟢 سناریوی صعودی"
-        )
-
-        detail = (
-            "روند تاریخی کوتاه‌مدت مثبت است. "
-            "در صورت حفظ رشد دلار و تداوم تقاضا، "
-            "احتمال ادامه حرکت صعودی بیشتر می‌شود."
-        )
-
-    elif momentum <= -1:
-
-        main_scenario = (
-            "🔴 سناریوی نزولی"
-        )
-
-        detail = (
-            "روند تاریخی کوتاه‌مدت منفی است. "
-            "در صورت تداوم افت دلار و فشار فروش، "
-            "احتمال ادامه اصلاح افزایش می‌یابد."
-        )
+    elif score <= -2:
+        main_scenario = "سناریوی غالب: نزولی 🔴"
 
     else:
+        main_scenario = "سناریوی غالب: خنثی / نوسانی ⚪"
 
-        main_scenario = (
-            "🟡 سناریوی خنثی / نوسانی"
-        )
-
-        detail = (
-            "روند کوتاه‌مدت سیگنال قدرتمندی "
-            "در یک جهت نشان نمی‌دهد و نوسان "
-            "در محدوده فعلی محتمل‌تر است."
-        )
-
-    return (
-        "🔮 سناریوی کوتاه‌مدت\n\n"
-        f"{main_scenario}\n"
-        f"{detail}\n\n"
-        "سناریوی صعودی:\n"
-        "عبور از سقف‌های اخیر و افزایش تقاضا "
-        "می‌تواند حرکت صعودی را تقویت کند.\n\n"
-        "سناریوی خنثی:\n"
-        "تثبیت دلار و کاهش نوسان می‌تواند "
-        "قیمت را در محدوده فعلی نگه دارد.\n\n"
-        "سناریوی نزولی:\n"
-        "شکست کف‌های اخیر و افت دلار می‌تواند "
-        "باعث افزایش فشار اصلاحی شود."
+    bullish = (
+        "در صورت ادامه رشد طلا و دلار و عبور "
+        "از مقاومت، احتمال ادامه حرکت صعودی بیشتر می‌شود."
     )
 
+    neutral = (
+        "در صورت نوسان محدود قیمت‌ها بین حمایت و مقاومت، "
+        "احتمال ادامه حرکت نوسانی بیشتر است."
+    )
 
-# ==========================================
-# پیام ساعتی
-# ==========================================
+    bearish = (
+        "در صورت شکست حمایت و کاهش همزمان طلا یا دلار، "
+        "ریسک ادامه افت قیمت افزایش پیدا می‌کند."
+    )
+
+    return {
+        "main": main_scenario,
+        "bullish": bullish,
+        "neutral": neutral,
+        "bearish": bearish,
+    }
+
+
+# =========================
+# CHANGE TEXT
+# =========================
+
+def get_change_text(
+    current,
+    previous
+):
+    if previous is None:
+        return "🆕 اولین ثبت"
+
+    difference = current - previous
+
+    if difference > 0:
+        return (
+            f"🟢 ▲ +{difference:,} تومان"
+        )
+
+    if difference < 0:
+        return (
+            f"🔴 ▼ {difference:,} تومان"
+        )
+
+    return "⚪ ➖ بدون تغییر"
+
+
+# =========================
+# HOURLY MESSAGE
+# =========================
 
 def build_hourly_message(
     prices,
     previous_prices
 ):
+    info = get_date_info()
 
-    now = datetime.now(TEHRAN)
-
-    update_time = now.strftime(
+    update_time = info["now"].strftime(
         "%H:%M"
     )
 
@@ -1097,129 +843,134 @@ def build_hourly_message(
 """
 
 
-# ==========================================
-# پیام روزانه
-# ==========================================
+# =========================
+# DAILY MESSAGE
+# =========================
 
 def build_daily_message(
     prices,
-    previous_prices,
     history
 ):
+    info = get_date_info()
 
-    now = datetime.now(TEHRAN)
-
-    jy, jm, jd = gregorian_to_jalali(
-        now.year,
-        now.month,
-        now.day
+    analysis = analyze_market(
+        prices,
+        history
     )
 
-    weekday = WEEKDAYS[
-        now.weekday()
-    ]
-
-    month_name = JALALI_MONTHS[jm]
-
-    gregorian_date = now.strftime(
-        "%Y/%m/%d"
+    forecast = build_forecast(
+        prices,
+        analysis
     )
 
-    support, resistance = get_real_levels(
+    gold_support, gold_resistance = get_real_levels(
         history,
         "gold18",
         prices["gold18"]
     )
 
-    occasion = get_occasion(
-        jm,
-        jd
+    coin_support, coin_resistance = get_real_levels(
+        history,
+        "coin",
+        prices["coin"]
     )
 
-    analysis = analyze_market(
-        history,
-        prices
-    )
-
-    forecast = build_forecast(
-        history,
-        prices
-    )
+    occasions = get_today_occasions()
 
     history_count = len(history)
 
     return f"""🌙✨ زرین ماه
-☀️ گزارش ویژه روزانه بازار
+📊 گزارش روزانه بازار طلا، سکه و دلار
 
 ━━━━━━━━━━━━━━━━━━
 
-📅 تاریخ امروز
+📅 {info["weekday"]}
+🗓 تاریخ شمسی: {info["jalali"]}
+📆 تاریخ میلادی: {info["gregorian"]}
 
-{weekday}
-📆 {jd} {month_name} {jy}
-🗓 میلادی: {gregorian_date}
-
-{occasion}
+🎉 مناسبت‌های امروز:
+{occasions}
 
 ━━━━━━━━━━━━━━━━━━
 
-💎 قیمت‌های فعلی
+💰 قیمت‌های فعلی
 
 🟡 طلای ۱۸ عیار
-💰 {prices["gold18"]:,} تومان
+{prices["gold18"]:,} تومان
 
 🪙 سکه امامی
-💰 {prices["coin"]:,} تومان
+{prices["coin"]:,} تومان
 
 💵 دلار آزاد
-💰 {prices["dollar"]:,} تومان
+{prices["dollar"]:,} تومان
 
 ━━━━━━━━━━━━━━━━━━
 
-{analysis}
+📈 تحلیل بازار
+
+🟡 طلای ۱۸ عیار
+۶ ساعت: {format_percent(analysis["gold_6h"])}
+۲۴ ساعت: {format_percent(analysis["gold_24h"])}
+۷۲ ساعت: {format_percent(analysis["gold_72h"])}
+روند: {analysis["gold_trend"]}
+
+🪙 سکه امامی
+۲۴ ساعت: {format_percent(analysis["coin_24h"])}
+روند: {analysis["coin_trend"]}
+
+💵 دلار آزاد
+۲۴ ساعت: {format_percent(analysis["dollar_24h"])}
+روند: {analysis["dollar_trend"]}
+
+📌 جمع‌بندی:
+{analysis["conclusion"]}
 
 ━━━━━━━━━━━━━━━━━━
 
-📈 محدوده‌های مهم طلای ۱۸ عیار
+🎯 حمایت و مقاومت
 
-🟢 حمایت تاریخی نزدیک:
-{support:,} تومان
+🟡 طلای ۱۸ عیار
+حمایت: {gold_support:,} تومان
+مقاومت: {gold_resistance:,} تومان
 
-🔴 مقاومت تاریخی نزدیک:
-{resistance:,} تومان
-
-📌 این سطوح از روی قیمت‌های ثبت‌شده
-در تاریخچه اخیر ربات محاسبه شده‌اند.
-
-━━━━━━━━━━━━━━━━━━
-
-{forecast}
+🪙 سکه امامی
+حمایت: {coin_support:,} تومان
+مقاومت: {coin_resistance:,} تومان
 
 ━━━━━━━━━━━━━━━━━━
 
-💡 یادآوری امروز
+🔮 چشم‌انداز کوتاه‌مدت
 
-در بازار ایران، دلار، اونس جهانی،
-اخبار اقتصادی و سیاسی و میزان تقاضا
-می‌توانند باعث تغییر سریع قیمت طلا شوند.
+{forecast["main"]}
 
-━━━━━━━━━━━━━━━━━━
+🟢 سناریوی صعودی:
+{forecast["bullish"]}
 
-⚠️ سلب مسئولیت
+⚪ سناریوی خنثی:
+{forecast["neutral"]}
 
-این تحلیل بر اساس داده‌های تاریخی
-ثبت‌شده توسط ربات و شرایط فعلی بازار
-تهیه شده و صرفاً احتمالی است.
-
-این محتوا توصیه قطعی برای خرید یا
-فروش طلا، سکه یا ارز نیست.
+🔴 سناریوی نزولی:
+{forecast["bearish"]}
 
 ━━━━━━━━━━━━━━━━━━
 
-📊 منبع قیمت‌ها: TGJU
-📚 تعداد رکوردهای تاریخچه: {history_count}
+⏰ یادآوری امروز
 
-🕚 گزارش روزانه: ساعت ۱۱:۰۰ تهران
+بازار طلا و ارز می‌تواند در طول روز
+با سرعت زیادی تغییر کند.
+برای تصمیم‌گیری، قیمت لحظه‌ای و
+شرایط بازار را دوباره بررسی کنید.
+
+⚠️ این تحلیل صرفاً احتمالی و بر اساس
+داده‌های ثبت‌شده بازار است و به هیچ عنوان
+توصیه قطعی خرید یا فروش نیست.
+
+📊 تعداد داده‌های تاریخی استفاده‌شده:
+{history_count}
+
+📚 منبع قیمت‌ها: TGJU
+
+━━━━━━━━━━━━━━━━━━
 
 🌙 زرین ماه
 ✨ ویترین طلای کم‌اجرت
@@ -1228,50 +979,18 @@ def build_daily_message(
 """
 
 
-# ==========================================
-# متن تغییر قیمت
-# ==========================================
-
-def get_change_text(
-    current,
-    previous
-):
-
-    if previous is None:
-
-        return "🆕 اولین ثبت"
-
-    difference = current - previous
-
-    if difference > 0:
-
-        return (
-            f"🟢 ▲ +{difference:,} تومان"
-        )
-
-    if difference < 0:
-
-        return (
-            f"🔴 ▼ {difference:,} تومان"
-        )
-
-    return "⚪ ➖ بدون تغییر"
-
-
-# ==========================================
-# ارسال تلگرام
-# ==========================================
+# =========================
+# TELEGRAM
+# =========================
 
 def send_to_telegram(message):
-
     if not BOT_TOKEN:
-
         raise RuntimeError(
             "TELEGRAM_BOT_TOKEN تنظیم نشده است."
         )
 
     url = (
-        "https://api.telegram.org/"
+        f"https://api.telegram.org/"
         f"bot{BOT_TOKEN}/sendMessage"
     )
 
@@ -1281,55 +1000,84 @@ def send_to_telegram(message):
         "disable_web_page_preview": True,
     }
 
-    response = requests.post(
-        url,
-        data=data,
-        timeout=30
+    max_attempts = 5
+
+    for attempt in range(
+        1,
+        max_attempts + 1
+    ):
+        try:
+            response = requests.post(
+                url,
+                data=data,
+                timeout=30,
+            )
+
+            if response.ok:
+                result = response.json()
+
+                if result.get("ok"):
+                    print(
+                        "Telegram message sent "
+                        f"successfully on attempt "
+                        f"{attempt}."
+                    )
+
+                    return result
+
+                print(
+                    "Telegram API rejected request:"
+                )
+                print(result)
+
+            else:
+                print(
+                    f"Telegram HTTP error "
+                    f"{response.status_code}: "
+                    f"{response.text}"
+                )
+
+        except requests.RequestException as error:
+            print(
+                f"Telegram connection error "
+                f"on attempt {attempt}: {error}"
+            )
+
+        if attempt < max_attempts:
+            wait_seconds = attempt * 10
+
+            print(
+                f"Retrying Telegram in "
+                f"{wait_seconds} seconds..."
+            )
+
+            time.sleep(wait_seconds)
+
+    raise RuntimeError(
+        "ارسال پیام به تلگرام پس از "
+        "۵ تلاش ناموفق بود."
     )
 
-    print(
-        "Telegram status:",
-        response.status_code
-    )
 
-    print(
-        "Telegram response:",
-        response.text
-    )
-
-    if not response.ok:
-
-        raise RuntimeError(
-            f"Telegram API error: {response.text}"
-        )
-
-    result = response.json()
-
-    if not result.get("ok"):
-
-        raise RuntimeError(
-            f"Telegram API error: {result}"
-        )
-
-    print(
-        "✅ پیام با موفقیت ارسال شد."
-    )
-
-
-# ==========================================
-# اجرای اصلی
-# ==========================================
+# =========================
+# MAIN
+# =========================
 
 def main():
+    print(
+        f"Starting ZarinMah bot "
+        f"in mode: {BOT_MODE}"
+    )
 
-    print("================================")
-    print("🌙 ZarinMah Gold Bot")
-    print(f"Mode: {BOT_MODE}")
-    print("================================")
+    if not BOT_TOKEN:
+        raise RuntimeError(
+            "TELEGRAM_BOT_TOKEN تنظیم نشده است."
+        )
 
     previous_prices = load_previous_prices()
+    history = load_history()
 
-    history = load_market_history()
+    print("Fetching current prices...")
 
     prices = get_all_prices()
 
@@ -1342,61 +1090,45 @@ def main():
     ]
 
     for item in required:
-
         if not prices.get(item):
-
             raise RuntimeError(
                 f"قیمت {item} دریافت نشد."
             )
 
-    # --------------------------------------
-    # ثبت قیمت جدید در تاریخچه
-    # --------------------------------------
+    print("Current prices:")
+    print(prices)
 
-    history = add_history_record(
+    # ثبت snapshot جدید
+    updated_history = add_history_record(
         history,
         prices
     )
 
-    # --------------------------------------
-    # ساخت پیام
-    # --------------------------------------
-
     if BOT_MODE == "daily":
-
         message = build_daily_message(
             prices,
-            previous_prices,
-            history
+            updated_history
         )
 
     else:
-
         message = build_hourly_message(
             prices,
             previous_prices
         )
 
-    print("\n----- پیام نهایی -----")
-    print(message)
-    print("----------------------\n")
-
-    # --------------------------------------
-    # ابتدا تلگرام
-    # --------------------------------------
-
-    send_to_telegram(message)
-
-    # --------------------------------------
-    # سپس ذخیره فایل‌ها
-    # --------------------------------------
-
-    save_current_prices(
-        prices
+    print(
+        f"Sending {BOT_MODE} message..."
     )
 
-    save_market_history(
-        history
+    # اول ارسال
+    send_to_telegram(message)
+
+    # فقط بعد از ارسال موفق ذخیره کن
+    save_current_prices(prices)
+    save_history(updated_history)
+
+    print(
+        "Bot completed successfully."
     )
 
 
