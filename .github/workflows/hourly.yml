@@ -2,8 +2,11 @@ name: ZarinMah Gold Bot
 
 on:
   schedule:
+    # ارسال ساعتی - دقیقه 5 هر ساعت
     - cron: "5 * * * *"
       timezone: "Asia/Tehran"
+
+    # گزارش روزانه - ساعت 11 تهران
     - cron: "0 11 * * *"
       timezone: "Asia/Tehran"
 
@@ -22,7 +25,13 @@ permissions:
   contents: write
 
 jobs:
+
+  # ==========================================
+  # HOURLY
+  # ==========================================
+
   hourly:
+
     if: >
       (github.event_name == 'schedule' &&
        github.event.schedule == '5 * * * *') ||
@@ -32,6 +41,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Get repository
         uses: actions/checkout@v4
 
@@ -41,13 +51,37 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Run hourly bot
+      - name: Run hourly bot with retry
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           BOT_MODE: hourly
-        run: python bot.py
+        run: |
+          for attempt in 1 2 3
+          do
+            echo "===================================="
+            echo "Hourly bot attempt: $attempt / 3"
+            echo "===================================="
+
+            if python bot.py
+            then
+              echo "Hourly bot completed successfully."
+              exit 0
+            fi
+
+            if [ "$attempt" -lt 3 ]
+            then
+              echo "Bot failed."
+              echo "Waiting 30 seconds before retry..."
+              sleep 30
+            fi
+          done
+
+          echo "Hourly bot failed after 3 attempts."
+          exit 1
 
       - name: Save market data
         run: |
@@ -56,14 +90,21 @@ jobs:
 
           git add previous_prices.json market_history.json
 
-          if git diff --cached --quiet; then
-            echo "No changes."
+          if git diff --cached --quiet
+          then
+            echo "No market data changes."
           else
-            git commit -m "Update market history"
+            git commit -m "Update market data"
             git push
           fi
 
+
+  # ==========================================
+  # DAILY
+  # ==========================================
+
   daily:
+
     if: >
       (github.event_name == 'schedule' &&
        github.event.schedule == '0 11 * * *') ||
@@ -73,6 +114,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Get repository
         uses: actions/checkout@v4
 
@@ -82,13 +124,37 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Run daily report
+      - name: Run daily bot with retry
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           BOT_MODE: daily
-        run: python bot.py
+        run: |
+          for attempt in 1 2 3
+          do
+            echo "===================================="
+            echo "Daily bot attempt: $attempt / 3"
+            echo "===================================="
+
+            if python bot.py
+            then
+              echo "Daily bot completed successfully."
+              exit 0
+            fi
+
+            if [ "$attempt" -lt 3 ]
+            then
+              echo "Bot failed."
+              echo "Waiting 30 seconds before retry..."
+              sleep 30
+            fi
+          done
+
+          echo "Daily bot failed after 3 attempts."
+          exit 1
 
       - name: Save market data
         run: |
@@ -97,9 +163,10 @@ jobs:
 
           git add previous_prices.json market_history.json
 
-          if git diff --cached --quiet; then
-            echo "No changes."
+          if git diff --cached --quiet
+          then
+            echo "No market data changes."
           else
-            git commit -m "Update market history"
+            git commit -m "Update market data"
             git push
           fi
