@@ -1,9 +1,6 @@
-name: ZarinMah Daily Market Analysis
+name: ZarinMah Daily Market Analysis Manual
 
 on:
-  schedule:
-    - cron: "15 8 * * *"
-
   workflow_dispatch:
 
 permissions:
