@@ -1,55 +1,55 @@
 name: ZarinMah Watchdog
 
 on:
-repository_dispatch:
-types:
-- watchdog
-workflow_dispatch:
+  repository_dispatch:
+    types:
+      - watchdog
+  workflow_dispatch:
 
 permissions:
-contents: write
-actions: read
+  contents: write
+  actions: read
 
 jobs:
-watchdog:
-runs-on: ubuntu-latest
+  watchdog:
+    runs-on: ubuntu-latest
 
-steps:
-  - name: Get repository
-    uses: actions/checkout@v4
+    steps:
+      - name: Get repository
+        uses: actions/checkout@v4
 
-  - name: Setup Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: "3.12"
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-  - name: Install dependencies
-    run: |
-      pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
 
-  - name: Run watchdog
-    env:
-      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      GITHUB_TOKEN: ${{ github.token }}
-      GITHUB_REPOSITORY: ${{ github.repository }}
-    run: |
-      python watchdog.py
+      - name: Run watchdog
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python watchdog.py
 
-  - name: Save watchdog send status
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Save watchdog send status
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      if [ -f send_status.json ]; then
-        git add send_status.json
-      else
-        echo "No send_status.json file to save."
-        exit 0
-      fi
+          if [ -f send_status.json ]; then
+            git add send_status.json
+          else
+            echo "No send_status.json file to save."
+            exit 0
+          fi
 
-      if git diff --cached --quiet; then
-        echo "No send status changes."
-      else
-        git commit -m "Update watchdog send status"
-        git push
-      fi
+          if git diff --cached --quiet; then
+            echo "No send status changes."
+          else
+            git commit -m "Update watchdog send status"
+            git push
+          fi
