@@ -18,6 +18,7 @@ CHANNEL = "@ZarinMahGold"
 TEHRAN = ZoneInfo("Asia/Tehran")
 
 PREVIOUS_FILE = "previous_prices.json"
+STATUS_FILE = "send_status.json"
 
 SOURCE_URL = "https://gheymat.online/prices"
 
@@ -49,6 +50,7 @@ PRICE_CODES = {
 # =========================
 
 def normalize_digits(value):
+
     table = str.maketrans(
         "۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩",
         "01234567890123456789",
@@ -102,14 +104,20 @@ def parse_price_text(value):
     # مثال:
     # 26,432,000
     if "," in number_text:
+
         try:
-            number = float(number_text.replace(",", ""))
+            number = float(
+                number_text.replace(",", "")
+            )
+
         except ValueError:
             return None
 
     else:
+
         try:
             number = float(number_text)
+
         except ValueError:
             return None
 
@@ -135,6 +143,7 @@ def parse_price_text(value):
 # =========================
 
 def find_price_row(soup, code):
+
     code = code.upper()
 
     for row in soup.find_all("tr"):
@@ -192,6 +201,7 @@ def get_price_online_price(code):
             )
 
             if not cells:
+
                 raise RuntimeError(
                     f"ردیف {code} "
                     f"در صفحه قیمت آنلاین پیدا نشد."
@@ -213,6 +223,7 @@ def get_price_online_price(code):
             )
 
             if price is None or price <= 0:
+
                 raise RuntimeError(
                     f"قیمت {code} "
                     f"قابل استخراج نیست: "
@@ -304,6 +315,62 @@ def save_current_prices(prices):
 
         json.dump(
             prices,
+            file,
+            ensure_ascii=False,
+            indent=2
+        )
+
+
+# =========================
+# وضعیت ارسال
+# =========================
+
+def load_send_status():
+
+    if not os.path.exists(
+        STATUS_FILE
+    ):
+        return {}
+
+    try:
+
+        with open(
+            STATUS_FILE,
+            "r",
+            encoding="utf-8"
+        ) as file:
+
+            return json.load(file)
+
+    except Exception as error:
+
+        print(
+            "Could not load send status:",
+            error
+        )
+
+        return {}
+
+
+def save_hourly_send_status(slot):
+
+    status = load_send_status()
+
+    status["hourly"] = {
+        "slot": slot,
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat()
+    }
+
+    with open(
+        STATUS_FILE,
+        "w",
+        encoding="utf-8"
+    ) as file:
+
+        json.dump(
+            status,
             file,
             ensure_ascii=False,
             indent=2
@@ -495,12 +562,68 @@ def main():
         "================================"
     )
 
+    # ---------------------------------
+    # تشخیص اجرای زمان‌بندی‌شده / Watchdog
+    # ---------------------------------
+
+    scheduled_run = (
+        os.environ.get("SCHEDULED_RUN")
+        == "true"
+    )
+
+    watchdog_retry = (
+        os.environ.get("WATCHDOG_RETRY")
+        == "true"
+    )
+
+    now = datetime.now(
+        TEHRAN
+    )
+
+    current_slot = now.strftime(
+        "%Y-%m-%d %H"
+    )
+
+    # ---------------------------------
+    # جلوگیری از ارسال تکراری
+    # ---------------------------------
+
+    if scheduled_run or watchdog_retry:
+
+        status = load_send_status()
+
+        last_hourly_slot = (
+            status
+            .get("hourly", {})
+            .get("slot")
+        )
+
+        if last_hourly_slot == current_slot:
+
+            print(
+                f"Hourly post for "
+                f"{current_slot} "
+                f"has already been sent."
+            )
+
+            print(
+                "Skipping duplicate message."
+            )
+
+            return
+
+    # ---------------------------------
     # قیمت قبلی
+    # ---------------------------------
+
     previous_prices = (
         load_previous_prices()
     )
 
+    # ---------------------------------
     # قیمت جدید
+    # ---------------------------------
+
     print(
         "Fetching latest prices..."
     )
@@ -512,7 +635,10 @@ def main():
         prices
     )
 
+    # ---------------------------------
     # بررسی همه قیمت‌ها
+    # ---------------------------------
+
     required = [
         "gold18",
         "coin",
@@ -529,7 +655,10 @@ def main():
                 f"قیمت {item} معتبر دریافت نشد."
             )
 
+    # ---------------------------------
     # ساخت پیام
+    # ---------------------------------
+
     message = build_message(
         prices,
         previous_prices
@@ -539,7 +668,10 @@ def main():
         "Sending message to Telegram..."
     )
 
+    # ---------------------------------
     # ارسال پیام
+    # ---------------------------------
+
     send_to_telegram(
         message
     )
@@ -548,7 +680,24 @@ def main():
         "Telegram message sent successfully."
     )
 
+    # ---------------------------------
+    # ثبت وضعیت ارسال
+    # ---------------------------------
+
+    if scheduled_run or watchdog_retry:
+
+        save_hourly_send_status(
+            current_slot
+        )
+
+        print(
+            "Hourly send status saved."
+        )
+
+    # ---------------------------------
     # فقط بعد از ارسال موفق ذخیره کن
+    # ---------------------------------
+
     save_current_prices(
         prices
     )
