@@ -46,20 +46,21 @@ jobs:
       - name: Run hourly price bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          SCHEDULED_RUN: "true"
         run: |
           python bot.py
 
-      - name: Save previous prices
+      - name: Save send status and previous prices
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add previous_prices.json
+          git add previous_prices.json send_status.json
 
           if git diff --cached --quiet; then
-            echo "No changes to previous prices."
+            echo "No changes to save."
           else
-            git commit -m "Update previous prices"
+            git commit -m "Update price bot status"
             git push
           fi
 
@@ -95,3 +96,17 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: |
           python daily_analysis.py
+
+      - name: Save daily send status
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add send_status.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+          else
+            git commit -m "Update daily analysis status"
+            git push
+          fi
