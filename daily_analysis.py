@@ -1,3 +1,4 @@
+```python
 import json
 import os
 from datetime import datetime
@@ -20,6 +21,8 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 CHANNEL = "@ZarinMahGold"
 
 TEHRAN = ZoneInfo("Asia/Tehran")
+
+STATUS_FILE = "send_status.json"
 
 OCCASIONS_URL = (
     "https://raw.githubusercontent.com/"
@@ -65,6 +68,76 @@ GREGORIAN_MONTHS = [
     "November",
     "December",
 ]
+
+
+# =========================
+# وضعیت ارسال
+# =========================
+
+def load_send_status():
+    if not os.path.exists(STATUS_FILE):
+        return {
+            "hourly": {},
+            "daily": {},
+        }
+
+    try:
+        with open(
+            STATUS_FILE,
+            "r",
+            encoding="utf-8",
+        ) as file:
+            data = json.load(file)
+
+        if not isinstance(data, dict):
+            return {
+                "hourly": {},
+                "daily": {},
+            }
+
+        data.setdefault("hourly", {})
+        data.setdefault("daily", {})
+
+        return data
+
+    except Exception as error:
+        print(
+            "Could not load send status:",
+            error,
+        )
+
+        return {
+            "hourly": {},
+            "daily": {},
+        }
+
+
+def save_daily_send_status(slot):
+    status = load_send_status()
+
+    status["daily"] = {
+        "slot": slot,
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
+    }
+
+    with open(
+        STATUS_FILE,
+        "w",
+        encoding="utf-8",
+    ) as file:
+        json.dump(
+            status,
+            file,
+            ensure_ascii=False,
+            indent=2,
+        )
+
+    print(
+        "Daily send status saved:",
+        slot,
+    )
 
 
 # =========================
@@ -133,7 +206,10 @@ def get_occasions(today):
             date = item.get("date", {})
             date_type = date.get("type")
             date_values = date.get("date", [])
-            event_name = item.get("event_name", "").strip()
+            event_name = item.get(
+                "event_name",
+                "",
+            ).strip()
 
             if not event_name:
                 continue
@@ -151,9 +227,13 @@ def get_occasions(today):
                     if (
                         day == jalali.day
                         and month_name
-                        == PERSIAN_MONTHS[jalali.month - 1]
+                        == PERSIAN_MONTHS[
+                            jalali.month - 1
+                        ]
                     ):
-                        occasions.append(event_name)
+                        occasions.append(
+                            event_name
+                        )
 
             # مناسبت‌های میلادی
             elif date_type == "gregorian":
@@ -166,7 +246,9 @@ def get_occasions(today):
                     month_name = date_values[1]
 
                     current_month_name = (
-                        GREGORIAN_MONTHS[now.month - 1]
+                        GREGORIAN_MONTHS[
+                            now.month - 1
+                        ]
                     )
 
                     if (
@@ -174,7 +256,9 @@ def get_occasions(today):
                         and month_name
                         == current_month_name
                     ):
-                        occasions.append(event_name)
+                        occasions.append(
+                            event_name
+                        )
 
         # حذف موارد تکراری
         unique = []
@@ -489,126 +573,5 @@ def build_message():
 
 💰 وضعیت امروز بازار
 
-🟡 طلای ۱۸ عیار
-💵 {prices["gold18"]:,} تومان
-📈 تغییر: {gold_change}
-📊 روند: {analysis["gold_trend"]}
-
-🪙 سکه امامی
-💵 {prices["coin"]:,} تومان
-📈 تغییر: {coin_change}
-📊 روند: {analysis["coin_trend"]}
-
-💵 دلار آزاد
-💵 {prices["dollar"]:,} تومان
-📈 تغییر: {dollar_change}
-📊 روند: {analysis["dollar_trend"]}
-
-━━━━━━━━━━━━━━━━━━
-
-📊 تحلیل امروز بازار
-
-{analysis["summary"]}
-
-━━━━━━━━━━━━━━━━━━
-
-🧭 جمع‌بندی
-
-در حال حاضر، بررسی هم‌زمان طلا، سکه و دلار
-برای تشخیص جهت حرکت بازار اهمیت بیشتری دارد.
-
-💡 نکته امروز برای خریداران طلا
-
-{analysis["buyer_note"]}
-
-⚠️ این مطلب صرفاً بر اساس داده‌های قیمتی ثبت‌شده تهیه شده و توصیه قطعی خرید یا فروش نیست.
-
-━━━━━━━━━━━━━━━━━━
-
-🕚 زمان انتشار: ۱۱:۴۵
-
-📊 منبع قیمت‌ها: قیمت آنلاین
-
-🌙 زرین ماه
-✨ ویترین طلای کم‌اجرت
-
-📲 @ZarinMahGold
-"""
-
-
-# =========================
-# ارسال تلگرام
-# =========================
-
-def send_to_telegram(message):
-
-    if not BOT_TOKEN:
-
-        raise RuntimeError(
-            "TELEGRAM_BOT_TOKEN تنظیم نشده است."
-        )
-
-    url = (
-        f"https://api.telegram.org/"
-        f"bot{BOT_TOKEN}/sendMessage"
-    )
-
-    data = {
-        "chat_id": CHANNEL,
-        "text": message,
-    }
-
-    response = requests.post(
-        url,
-        data=data,
-        timeout=30,
-    )
-
-    print(
-        "Telegram status:",
-        response.status_code,
-    )
-
-    print(
-        "Telegram response:",
-        response.text,
-    )
-
-    response.raise_for_status()
-
-    result = response.json()
-
-    if not result.get("ok"):
-
-        raise RuntimeError(
-            f"Telegram API error: {result}"
-        )
-
-
-# =========================
-# اجرای اصلی
-# =========================
-
-def main():
-
-    print(
-        "Starting daily ZarinMah analysis..."
-    )
-
-    message = build_message()
-
-    print(
-        message
-    )
-
-    send_to_telegram(
-        message
-    )
-
-    print(
-        "Daily analysis sent successfully."
-    )
-
-
-if __name__ == "__main__":
-    main()
+🟡 طلای ۱۸ عی
+```
