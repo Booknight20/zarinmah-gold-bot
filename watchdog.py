@@ -1,7 +1,6 @@
 import json
 import os
 import sys
-import subprocess
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
@@ -67,26 +66,27 @@ def load_send_status():
         }
 
 
-def get_workflow_runs(workflow_file, created_after):
+def get_workflow_runs(workflow_file, scheduled_time):
     url = (
         f"https://api.github.com/repos/{REPO}"
         f"/actions/workflows/{workflow_file}/runs"
     )
 
-    params = {
-        "per_page": 50,
-        "event": "schedule",
-    }
-
     response = requests.get(
         url,
         headers=github_headers(),
-        params=params,
+        params={
+            "per_page": 50,
+            "event": "schedule",
+        },
         timeout=30,
     )
 
     if response.status_code != 200:
-        print("GitHub API error:", response.status_code)
+        print(
+            "GitHub API error while reading workflow runs:",
+            response.status_code,
+        )
         print(response.text)
         return []
 
@@ -94,77 +94,53 @@ def get_workflow_runs(workflow_file, created_after):
 
     runs = []
 
+    # اجازه می‌دهیم اجرای GitHub کمی زودتر یا دیرتر از cron ثبت شود.
+    window_start = scheduled_time - timedelta(minutes=5)
+    window_end = scheduled_time + timedelta(minutes=25)
+
     for run in data.get("workflow_runs", []):
         created_at = run.get("created_at")
 
         if not created_at:
             continue
 
-        created_dt = datetime.fromisoformat(
-            created_at.replace("Z", "+00:00")
-        )
+        try:
+            created_dt = datetime.fromisoformat(
+                created_at.replace("Z", "+00:00")
+            )
+        except Exception:
+            continue
 
-        if created_dt >= created_after:
+        if window_start <= created_dt <= window_end:
             runs.append(run)
 
     return runs
 
 
 def workflow_status(workflow_file, scheduled_time):
-    """
-    بررسی می‌کند آیا اجرای schedule مربوط به ساعت موردنظر
-    در GitHub Actions وجود دارد یا نه.
-    """
-
-    # scheduled_time به وقت تهران است.
-    # GitHub زمان را UTC برمی‌گرداند.
-    scheduled_utc = scheduled_time.astimezone(ZoneInfo("UTC"))
-
-    # کمی قبل از زمان موردنظر را هم پوشش می‌دهیم.
-    search_from = scheduled_utc - timedelta(minutes=5)
-
     runs = get_workflow_runs(
         workflow_file,
-        search_from,
+        scheduled_time,
     )
 
-    matching_runs = []
-
-    for run in runs:
-        created_at = run.get("created_at")
-
-        if not created_at:
-            continue
-
-        created_dt = datetime.fromisoformat(
-            created_at.replace("Z", "+00:00")
-        )
-
-        # اجرای موردنظر باید تقریباً حوالی زمان schedule باشد.
-        if created_dt >= search_from:
-            matching_runs.append(run)
-
-    if not matching_runs:
-        print(
-            "No scheduled GitHub Actions run found "
-            "for the target period."
-        )
+    if not runs:
         return "missing"
 
-    matching_runs.sort(
+    runs.sort(
         key=lambda run: run.get("created_at", ""),
         reverse=True,
     )
 
-    run = matching_runs[0]
+    run = runs[0]
+
+    print("Found scheduled workflow run:")
+    print("Run ID:", run.get("id"))
+    print("Run created:", run.get("created_at"))
+    print("Run status:", run.get("status"))
+    print("Run conclusion:", run.get("conclusion"))
 
     status = run.get("status")
     conclusion = run.get("conclusion")
-
-    print("Latest scheduled workflow:", run.get("id"))
-    print("Workflow created:", run.get("created_at"))
-    print("Workflow status:", status)
-    print("Workflow conclusion:", conclusion)
 
     if status != "completed":
         return "running"
@@ -175,87 +151,79 @@ def workflow_status(workflow_file, scheduled_time):
     return "failed"
 
 
-def run_script(script_name, retry_type):
-    print(
-        f"Running {script_name} "
-        f"as {retry_type} watchdog retry..."
+def trigger_workflow(workflow_file):
+    url = (
+        f"https://api.github.com/repos/{REPO}"
+        f"/actions/workflows/{workflow_file}/dispatches"
     )
 
-    env = os.environ.copy()
+    payload = {
+        "ref": "main"
+    }
 
-    env["WATCHDOG_RETRY"] = "true"
+    print("Triggering GitHub workflow...")
+    print("Workflow:", workflow_file)
+    print("Repository:", REPO)
 
-    # بسیار مهم:
-    # اگر این متغیر باقی بماند bot.py تصور می‌کند اجرای اصلی schedule است.
-    env.pop(
-        "SCHEDULED_RUN",
-        None,
+    response = requests.post(
+        url,
+        headers=github_headers(),
+        json=payload,
+        timeout=30,
     )
-
-    result = subprocess.run(
-        [
-            sys.executable,
-            script_name,
-        ],
-        capture_output=True,
-        text=True,
-        env=env,
-    )
-
-    print("STDOUT:")
-    print(result.stdout)
-
-    if result.stderr:
-        print("STDERR:")
-        print(result.stderr)
-
-    if result.returncode != 0:
-        print(
-            f"{script_name} failed with exit code "
-            f"{result.returncode}"
-        )
-
-        return False
 
     print(
-        f"{retry_type} retry completed successfully."
+        "GitHub trigger response:",
+        response.status_code,
     )
 
-    return True
+    if response.status_code == 204:
+        print("GitHub workflow triggered successfully.")
+        return True
+
+    print("GitHub trigger failed.")
+    print(response.text)
+
+    return False
 
 
 def check_hourly(now, status):
     """
-    Watchdog هر ۱۰ دقیقه اجرا می‌شود.
+    Scheduled hourly workflow:
+    every hour at minute 17.
 
-    همیشه ساعت قبل را بررسی می‌کنیم.
+    Watchdog runs every 10 minutes.
 
-    مثال:
-        19:40 -> بررسی ارسال ساعت 19
-        19:50 -> بررسی ارسال ساعت 19
-        20:00 -> بررسی ارسال ساعت 19
-        20:10 -> بررسی ارسال ساعت 20
+    Before minute 27:
+        check the previous hour.
 
-    بنابراین اگر اجرای ساعت 19 انجام نشده باشد،
-    Watchdog آن را جبران می‌کند.
+    From minute 27 onward:
+        check the current hour.
+
+    Example:
+        19:20 -> check 18:17
+        19:30 -> check 19:17
+        19:40 -> check 19:17
+        19:50 -> check 19:17
     """
 
-    # اگر قبل از ساعت 00:10 هستیم، ساعت قبلی مربوط به روز قبل است.
-    target_time = now.replace(
-        second=0,
-        microsecond=0,
-    ) - timedelta(
-        hours=1
-    )
+    if now.minute >= 27:
+        target_time = now.replace(
+            minute=17,
+            second=0,
+            microsecond=0,
+        )
+    else:
+        previous_hour = now - timedelta(hours=1)
+
+        target_time = previous_hour.replace(
+            minute=17,
+            second=0,
+            microsecond=0,
+        )
 
     scheduled_slot = target_time.strftime(
         "%Y-%m-%d %H"
-    )
-
-    scheduled_time = target_time.replace(
-        minute=17,
-        second=0,
-        microsecond=0,
     )
 
     print()
@@ -263,9 +231,7 @@ def check_hourly(now, status):
     print("Target slot:", scheduled_slot)
     print(
         "Expected scheduled time:",
-        scheduled_time.strftime(
-            "%Y-%m-%d %H:%M:%S %Z"
-        ),
+        target_time.strftime("%Y-%m-%d %H:%M:%S %z"),
     )
 
     hourly_status = status.get(
@@ -273,15 +239,11 @@ def check_hourly(now, status):
         {},
     )
 
-    sent_slot = hourly_status.get(
-        "slot"
-    )
+    sent_slot = hourly_status.get("slot")
 
-    # اگر قبلاً ارسال شده، هیچ کاری نکن.
     if sent_slot == scheduled_slot:
         print(
-            "Hourly post was already sent "
-            f"for {scheduled_slot}."
+            "Hourly post was already sent according to send_status.json."
         )
         print("No retry needed.")
         return
@@ -292,21 +254,19 @@ def check_hourly(now, status):
     )
 
     attempted_slot = watchdog_status.get(
-        "hourly_retry_slot"
+        "hourly_trigger_slot"
     )
 
-    # جلوگیری از اجرای چندباره watchdog برای یک ساعت.
     if attempted_slot == scheduled_slot:
         print(
-            "Hourly watchdog retry was already "
-            f"attempted for {scheduled_slot}."
+            "Watchdog already triggered this slot."
         )
-        print("No second retry will be performed.")
+        print("No second trigger will be performed.")
         return
 
     workflow_state = workflow_status(
         HOURLY_WORKFLOW,
-        scheduled_time,
+        target_time,
     )
 
     print(
@@ -314,162 +274,53 @@ def check_hourly(now, status):
         workflow_state,
     )
 
-    # اگر workflow هنوز در حال اجراست،
-    # اجازه بده خودش پیام را ارسال کند.
-    if workflow_state == "running":
+    if workflow_state == "success":
         print(
-            "Hourly workflow is still running."
+            "Scheduled GitHub Actions run completed successfully."
         )
         print(
-            "No watchdog retry will be performed."
+            "No retry will be performed."
         )
         return
 
-    # اگر workflow موفق بوده ولی send_status هنوز ثبت نشده،
-    # برای احتیاط retry نمی‌کنیم چون ممکن است commit وضعیت
-    # هنوز انجام نشده باشد.
-    #
-    # در حالت فعلی، اگر status موفق باشد اما send_status
-    # ثبت نشده باشد، اجازه retry داده می‌شود.
-    if workflow_state == "success":
+    if workflow_state == "running":
         print(
-            "Scheduled workflow completed successfully, "
-            "but send_status does not confirm the post."
+            "Scheduled GitHub Actions run is still running."
         )
         print(
-            "Starting watchdog retry to guarantee delivery."
+            "No retry will be performed."
         )
+        return
 
-    elif workflow_state == "failed":
+    if workflow_state == "failed":
         print(
-            "Scheduled workflow failed."
-        )
-        print(
-            "Starting watchdog retry..."
-        )
-
-    elif workflow_state == "missing":
-        print(
-            "Scheduled workflow was not found."
-        )
-        print(
-            "Starting watchdog retry..."
-        )
-
-    # قبل از اجرای retry ثبت می‌کنیم تا اگر cron
-    # دوباره خیلی سریع اجرا شد، دوباره ارسال نکند.
-    watchdog_status[
-        "hourly_retry_slot"
-    ] = scheduled_slot
-
-    success = run_script(
-        "bot.py",
-        "Hourly",
-    )
-
-    if success:
-        print(
-            "Hourly watchdog retry finished successfully."
+            "Scheduled GitHub Actions run failed."
         )
     else:
         print(
-            "Hourly watchdog retry FAILED."
+            "No scheduled GitHub Actions run found for the target period."
         )
-
-
-def check_daily(now, status):
-    """
-    تحلیل روزانه در 11:45 اجرا می‌شود.
-
-    Watchdog حوالی 12:00 بررسی می‌کند.
-    """
-
-    if not (
-        now.hour == 12
-    ):
-        return
-
-    scheduled_date = now.strftime(
-        "%Y-%m-%d"
-    )
-
-    scheduled_time = now.replace(
-        hour=11,
-        minute=45,
-        second=0,
-        microsecond=0,
-    )
-
-    print()
-    print("Checking daily analysis...")
-    print("Target date:", scheduled_date)
-
-    daily_status = status.get(
-        "daily",
-        {},
-    )
-
-    sent_date = daily_status.get(
-        "slot"
-    )
-
-    if sent_date == scheduled_date:
-        print(
-            "Daily analysis was already sent."
-        )
-        print("No retry needed.")
-        return
-
-    watchdog_status = status.setdefault(
-        "watchdog",
-        {},
-    )
-
-    attempted_date = watchdog_status.get(
-        "daily_retry_date"
-    )
-
-    if attempted_date == scheduled_date:
-        print(
-            "Daily watchdog retry was already "
-            "attempted for this date."
-        )
-        print("No second retry will be performed.")
-        return
-
-    workflow_state = workflow_status(
-        HOURLY_WORKFLOW,
-        scheduled_time,
-    )
 
     print(
-        "Daily workflow state:",
-        workflow_state,
+        "Starting GitHub workflow retry..."
     )
 
-    if workflow_state == "running":
+    success = trigger_workflow(
+        HOURLY_WORKFLOW
+    )
+
+    if success:
+        watchdog_status[
+            "hourly_trigger_slot"
+        ] = scheduled_slot
+
         print(
-            "Daily workflow is still running."
+            "Hourly GitHub retry triggered successfully."
         )
-        print("No retry will be performed.")
-        return
-
-    print(
-        "Daily analysis was not confirmed."
-    )
-
-    print(
-        "Starting daily watchdog retry..."
-    )
-
-    watchdog_status[
-        "daily_retry_date"
-    ] = scheduled_date
-
-    run_script(
-        "daily_analysis.py",
-        "Daily",
-    )
+    else:
+        print(
+            "Hourly GitHub retry could not be triggered."
+        )
 
 
 def main():
@@ -515,11 +366,6 @@ def main():
     )
 
     check_hourly(
-        now,
-        status,
-    )
-
-    check_daily(
         now,
         status,
     )
