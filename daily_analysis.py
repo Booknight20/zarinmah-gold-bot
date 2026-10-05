@@ -1,4 +1,3 @@
-```python
 import json
 import os
 from datetime import datetime
@@ -79,6 +78,7 @@ def load_send_status():
         return {
             "hourly": {},
             "daily": {},
+            "watchdog": {},
         }
 
     try:
@@ -90,13 +90,11 @@ def load_send_status():
             data = json.load(file)
 
         if not isinstance(data, dict):
-            return {
-                "hourly": {},
-                "daily": {},
-            }
+            data = {}
 
         data.setdefault("hourly", {})
         data.setdefault("daily", {})
+        data.setdefault("watchdog", {})
 
         return data
 
@@ -109,6 +107,7 @@ def load_send_status():
         return {
             "hourly": {},
             "daily": {},
+            "watchdog": {},
         }
 
 
@@ -172,7 +171,9 @@ def get_today_info():
         f"{jalali.year}"
     )
 
-    date_text = to_persian_digits(date_text)
+    date_text = to_persian_digits(
+        date_text
+    )
 
     return {
         "now": now,
@@ -206,6 +207,7 @@ def get_occasions(today):
             date = item.get("date", {})
             date_type = date.get("type")
             date_values = date.get("date", [])
+
             event_name = item.get(
                 "event_name",
                 "",
@@ -218,8 +220,10 @@ def get_occasions(today):
             if date_type == "shamsi":
                 if len(date_values) >= 2:
                     try:
-                        day = int(date_values[0])
-                    except ValueError:
+                        day = int(
+                            date_values[0]
+                        )
+                    except (ValueError, TypeError):
                         continue
 
                     month_name = date_values[1]
@@ -239,8 +243,10 @@ def get_occasions(today):
             elif date_type == "gregorian":
                 if len(date_values) >= 2:
                     try:
-                        day = int(date_values[0])
-                    except ValueError:
+                        day = int(
+                            date_values[0]
+                        )
+                    except (ValueError, TypeError):
                         continue
 
                     month_name = date_values[1]
@@ -260,7 +266,6 @@ def get_occasions(today):
                             event_name
                         )
 
-        # حذف موارد تکراری
         unique = []
 
         for occasion in occasions:
@@ -283,6 +288,9 @@ def get_occasions(today):
 # =========================
 
 def percent_change(current, previous):
+    if current is None:
+        return None
+
     if previous is None or previous == 0:
         return None
 
@@ -310,6 +318,42 @@ def trend_label(change_percent):
 
 
 # =========================
+# فرمت قیمت
+# =========================
+
+def format_price(value):
+    if value is None:
+        return "نامشخص"
+
+    try:
+        number = float(value)
+    except (ValueError, TypeError):
+        return str(value)
+
+    if number.is_integer():
+        text = f"{int(number):,}"
+    else:
+        text = f"{number:,.2f}"
+
+    return to_persian_digits(text)
+
+
+# =========================
+# فرمت درصد
+# =========================
+
+def change_text(value):
+    if value is None:
+        return "بدون داده قبلی"
+
+    sign = "+" if value > 0 else ""
+
+    text = f"{sign}{value:.2f}%"
+
+    return to_persian_digits(text)
+
+
+# =========================
 # ساخت تحلیل
 # =========================
 
@@ -321,23 +365,31 @@ def build_analysis(prices, previous):
     dollar_old = previous.get("dollar")
 
     gold_pct = percent_change(
-        prices["gold18"],
+        prices.get("gold18"),
         gold_old,
     )
 
     coin_pct = percent_change(
-        prices["coin"],
+        prices.get("coin"),
         coin_old,
     )
 
     dollar_pct = percent_change(
-        prices["dollar"],
+        prices.get("dollar"),
         dollar_old,
     )
 
-    gold_trend = trend_label(gold_pct)
-    coin_trend = trend_label(coin_pct)
-    dollar_trend = trend_label(dollar_pct)
+    gold_trend = trend_label(
+        gold_pct
+    )
+
+    coin_trend = trend_label(
+        coin_pct
+    )
+
+    dollar_trend = trend_label(
+        dollar_pct
+    )
 
     parts = []
 
@@ -510,13 +562,18 @@ def build_analysis(prices, previous):
 
 
 # =========================
-# قالب پیام
+# ساخت پیام
 # =========================
 
 def build_message():
     today = get_today_info()
 
     prices = get_all_prices()
+
+    if not prices:
+        raise RuntimeError(
+            "No price data received."
+        )
 
     previous = load_previous_prices()
 
@@ -540,16 +597,17 @@ def build_message():
             "🎉 مناسبت ویژه‌ای در داده تقویم پیدا نشد."
         )
 
-    def change_text(value):
+    gold_price = format_price(
+        prices.get("gold18")
+    )
 
-        if value is None:
-            return "بدون داده قبلی"
+    coin_price = format_price(
+        prices.get("coin")
+    )
 
-        sign = "+" if value > 0 else ""
-
-        return (
-            f"{sign}{value:.2f}%"
-        )
+    dollar_price = format_price(
+        prices.get("dollar")
+    )
 
     gold_change = change_text(
         analysis["gold_pct"]
@@ -573,5 +631,184 @@ def build_message():
 
 💰 وضعیت امروز بازار
 
-🟡 طلای ۱۸ عی
-```
+🟡 طلای ۱۸ عیار
+💵 {gold_price} تومان
+📊 تغییر: {gold_change}
+📈 روند: {analysis["gold_trend"]}
+
+🪙 سکه امامی
+💵 {coin_price} تومان
+📊 تغییر: {coin_change}
+📈 روند: {analysis["coin_trend"]}
+
+💵 دلار
+💵 {dollar_price} تومان
+📊 تغییر: {dollar_change}
+📈 روند: {analysis["dollar_trend"]}
+
+━━━━━━━━━━━━━━━━━━
+
+📌 جمع‌بندی بازار
+
+{analysis["summary"]}
+
+━━━━━━━━━━━━━━━━━━
+
+🛍 نکته برای خریداران
+
+{analysis["buyer_note"]}
+
+━━━━━━━━━━━━━━━━━━
+
+🌙 زرین ماه
+«ویترین طلای کم‌اجرت»
+
+📲 @ZarinMahGold
+"""
+
+
+# =========================
+# ارسال به تلگرام
+# =========================
+
+def send_to_telegram(message):
+    if not BOT_TOKEN:
+        raise RuntimeError(
+            "TELEGRAM_BOT_TOKEN is missing."
+        )
+
+    url = (
+        f"https://api.telegram.org/"
+        f"bot{BOT_TOKEN}/sendMessage"
+    )
+
+    payload = {
+        "chat_id": CHANNEL,
+        "text": message,
+    }
+
+    response = requests.post(
+        url,
+        json=payload,
+        timeout=30,
+    )
+
+    if response.status_code != 200:
+        print(
+            "Telegram API error:",
+            response.status_code,
+        )
+        print(response.text)
+
+        response.raise_for_status()
+
+    data = response.json()
+
+    if not data.get("ok"):
+        raise RuntimeError(
+            f"Telegram returned an error: {data}"
+        )
+
+    print(
+        "Daily analysis sent successfully."
+    )
+
+
+# =========================
+# اجرای اصلی
+# =========================
+
+def main():
+    now = datetime.now(TEHRAN)
+
+    current_slot = now.strftime(
+        "%Y-%m-%d"
+    )
+
+    scheduled_run = (
+        os.environ.get("SCHEDULED_RUN")
+        == "true"
+    )
+
+    watchdog_retry = (
+        os.environ.get("WATCHDOG_RETRY")
+        == "true"
+    )
+
+    print(
+        "==================================="
+    )
+
+    print(
+        "ZarinMah Daily Analysis"
+    )
+
+    print(
+        "Tehran time:",
+        now.strftime(
+            "%Y-%m-%d %H:%M:%S"
+        ),
+    )
+
+    print(
+        "Scheduled run:",
+        scheduled_run,
+    )
+
+    print(
+        "Watchdog retry:",
+        watchdog_retry,
+    )
+
+    print(
+        "==================================="
+    )
+
+    # فقط اجرای زمان‌بندی‌شده یا Watchdog
+    # اجازه ثبت وضعیت و جلوگیری از ارسال تکراری دارند.
+    if scheduled_run or watchdog_retry:
+
+        status = load_send_status()
+
+        daily_status = status.get(
+            "daily",
+            {},
+        )
+
+        if (
+            daily_status.get("slot")
+            == current_slot
+        ):
+
+            print(
+                "Daily analysis already sent for:",
+                current_slot,
+            )
+
+            return
+
+    # ساخت پیام
+    message = build_message()
+
+    print(
+        "Generated daily analysis:"
+    )
+
+    print(message)
+
+    # ارسال
+    send_to_telegram(message)
+
+    # ثبت وضعیت
+    if scheduled_run or watchdog_retry:
+        save_daily_send_status(
+            current_slot
+        )
+
+    print(
+        "Daily analysis completed."
+    )
+
+
+if __name__ == "__main__":
+    main()
