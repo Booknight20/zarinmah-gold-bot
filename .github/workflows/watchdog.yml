@@ -4,7 +4,6 @@ on:
 repository_dispatch:
 types:
 - watchdog
-
 workflow_dispatch:
 
 permissions:
@@ -17,7 +16,6 @@ runs-on: ubuntu-latest
 
 ```
 steps:
-
   - name: Get repository
     uses: actions/checkout@v4
 
@@ -27,18 +25,17 @@ steps:
       python-version: "3.12"
 
   - name: Install dependencies
-    run: |
-      pip install -r requirements.txt
+    run: pip install -r requirements.txt
 
   - name: Run watchdog
     env:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       GITHUB_TOKEN: ${{ github.token }}
       GITHUB_REPOSITORY: ${{ github.repository }}
-    run: |
-      python watchdog.py
+    run: python watchdog.py
 
   - name: Save watchdog send status
+    shell: bash
     run: |
       git config user.name "github-actions[bot]"
       git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
