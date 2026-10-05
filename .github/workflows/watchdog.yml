@@ -14,7 +14,6 @@ jobs:
 watchdog:
 runs-on: ubuntu-latest
 
-```
 steps:
   - name: Get repository
     uses: actions/checkout@v4
@@ -54,4 +53,3 @@ steps:
         git commit -m "Update watchdog send status"
         git push
       fi
-```
