@@ -1,4 +1,3 @@
-```python
 import json
 import os
 import sys
@@ -8,10 +7,6 @@ from zoneinfo import ZoneInfo
 
 import requests
 
-
-# ==============================
-# تنظیمات
-# ==============================
 
 TEHRAN_TZ = ZoneInfo("Asia/Tehran")
 
@@ -25,12 +20,7 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 STATUS_FILE = "send_status.json"
 
 HOURLY_WORKFLOW = "hourly.yml"
-DAILY_WORKFLOW = "daily-analysis.yml"
 
-
-# ==============================
-# ابزارهای کمکی
-# ==============================
 
 def github_headers():
     return {
@@ -41,16 +31,13 @@ def github_headers():
 
 
 def load_send_status():
-    """
-    وضعیت آخرین ارسال‌های موفق را از send_status.json می‌خواند.
-    """
-
     if not os.path.exists(STATUS_FILE):
         print("send_status.json not found.")
 
         return {
             "hourly": {},
             "daily": {},
+            "watchdog": {},
         }
 
     try:
@@ -59,38 +46,28 @@ def load_send_status():
             "r",
             encoding="utf-8",
         ) as file:
-
             data = json.load(file)
 
         if not isinstance(data, dict):
-            return {
-                "hourly": {},
-                "daily": {},
-            }
+            data = {}
 
         data.setdefault("hourly", {})
         data.setdefault("daily", {})
+        data.setdefault("watchdog", {})
 
         return data
 
     except Exception as error:
-
-        print(
-            "Could not load send status:",
-            error,
-        )
+        print("Could not load send status:", error)
 
         return {
             "hourly": {},
             "daily": {},
+            "watchdog": {},
         }
 
 
 def get_workflow_runs(workflow_file, created_after):
-    """
-    اجرای Workflow را بعد از زمان مشخص پیدا می‌کند.
-    """
-
     url = (
         f"https://api.github.com/repos/{REPO}"
         f"/actions/workflows/{workflow_file}/runs"
@@ -109,102 +86,52 @@ def get_workflow_runs(workflow_file, created_after):
     )
 
     if response.status_code != 200:
-
-        print(
-            "GitHub API error:",
-            response.status_code,
-        )
-
-        print(
-            response.text
-        )
-
+        print("GitHub API error:", response.status_code)
+        print(response.text)
         return []
 
     data = response.json()
 
     runs = []
 
-    for run in data.get(
-        "workflow_runs",
-        [],
-    ):
-
-        created_at = run.get(
-            "created_at"
-        )
+    for run in data.get("workflow_runs", []):
+        created_at = run.get("created_at")
 
         if not created_at:
             continue
 
         created_dt = datetime.fromisoformat(
-            created_at.replace(
-                "Z",
-                "+00:00",
-            )
+            created_at.replace("Z", "+00:00")
         )
 
         if created_dt >= created_after:
-
             runs.append(run)
 
     return runs
 
 
 def workflow_status(workflow_file, scheduled_time):
-    """
-    وضعیت اجرای Workflow مربوط به زمان موردنظر را بررسی می‌کند.
-
-    خروجی:
-    - "running"
-    - "success"
-    - "failed"
-    - "missing"
-    """
-
     runs = get_workflow_runs(
         workflow_file,
-        scheduled_time - timedelta(
-            minutes=5
-        ),
+        scheduled_time - timedelta(minutes=5),
     )
 
     if not runs:
         return "missing"
 
-    # جدیدترین اجرا
     runs.sort(
-        key=lambda run: run.get(
-            "created_at",
-            "",
-        ),
+        key=lambda run: run.get("created_at", ""),
         reverse=True,
     )
 
     run = runs[0]
 
-    status = run.get(
-        "status"
-    )
+    status = run.get("status")
+    conclusion = run.get("conclusion")
 
-    conclusion = run.get(
-        "conclusion"
-    )
-
-    print(
-        "Latest workflow:",
-        run.get("id"),
-    )
-
-    print(
-        "Workflow status:",
-        status,
-    )
-
-    print(
-        "Workflow conclusion:",
-        conclusion,
-    )
+    print("Latest workflow:", run.get("id"))
+    print("Workflow status:", status)
+    print("Workflow conclusion:", conclusion)
 
     if status != "completed":
         return "running"
@@ -216,19 +143,14 @@ def workflow_status(workflow_file, scheduled_time):
 
 
 def run_script(script_name, retry_type):
-    """
-    اجرای ربات با حالت Watchdog Retry.
-    """
-
     print(
-        f"Running {script_name} as watchdog retry..."
+        f"Running {script_name} as {retry_type} watchdog retry..."
     )
 
     env = os.environ.copy()
 
     env["WATCHDOG_RETRY"] = "true"
 
-    # در حالت Retry نباید SCHEDULED_RUN فعال باشد.
     env.pop(
         "SCHEDULED_RUN",
         None,
@@ -248,32 +170,36 @@ def run_script(script_name, retry_type):
     print(result.stdout)
 
     if result.stderr:
-
         print("STDERR:")
         print(result.stderr)
 
     if result.returncode != 0:
-
-        raise RuntimeError(
-            f"{script_name} failed "
-            f"with exit code {result.returncode}"
+        print(
+            f"{script_name} failed with exit code "
+            f"{result.returncode}"
         )
+
+        return False
 
     print(
         f"{retry_type} retry completed successfully."
     )
 
+    return True
 
-# ==============================
-# بررسی ارسال ساعتی
-# ==============================
 
 def check_hourly(now, status):
     """
-    ساعت XX:27 بررسی می‌کند که پیام XX:17 ارسال شده یا نه.
+    با cron هر ۱۰ دقیقه:
+    قیمت ساعت 17 دقیقه بعد از گذشت حداقل 10 دقیقه بررسی می‌شود.
+
+    اولین اجرای مناسب بعد از 17 دقیقه، ساعت XX:30 است.
     """
 
-    if now.minute != 27:
+    if not (
+        now.minute >= 27
+        and now.minute <= 36
+    ):
         return
 
     scheduled_slot = now.strftime(
@@ -286,42 +212,36 @@ def check_hourly(now, status):
         microsecond=0,
     )
 
-    print(
-        "Checking hourly price post..."
-    )
-
-    # ------------------------------
-    # اول وضعیت واقعی ارسال
-    # ------------------------------
+    print("Checking hourly price post...")
+    print("Target slot:", scheduled_slot)
 
     hourly_status = status.get(
         "hourly",
         {},
     )
 
-    sent_slot = hourly_status.get(
-        "slot"
-    )
+    sent_slot = hourly_status.get("slot")
 
     if sent_slot == scheduled_slot:
-
-        print(
-            "Hourly post was already sent:"
-        )
-
-        print(
-            scheduled_slot
-        )
-
-        print(
-            "No retry needed."
-        )
-
+        print("Hourly post was already sent.")
+        print("No retry needed.")
         return
 
-    # ------------------------------
-    # وضعیت Workflow
-    # ------------------------------
+    watchdog_status = status.setdefault(
+        "watchdog",
+        {},
+    )
+
+    attempted_slot = watchdog_status.get(
+        "hourly_retry_slot"
+    )
+
+    if attempted_slot == scheduled_slot:
+        print(
+            "Hourly watchdog retry was already attempted."
+        )
+        print("No second retry will be performed.")
+        return
 
     workflow_state = workflow_status(
         HOURLY_WORKFLOW,
@@ -333,23 +253,12 @@ def check_hourly(now, status):
         workflow_state,
     )
 
-    # اگر Workflow هنوز در حال اجراست،
-    # فعلاً Retry نمی‌کنیم تا دوباره ارسال نشود.
-
     if workflow_state == "running":
-
         print(
             "Hourly workflow is still running."
         )
-
-        print(
-            "No retry will be performed."
-        )
-
+        print("No retry will be performed.")
         return
-
-    # اگر ارسال ثبت نشده و Workflow موفق هم نبوده،
-    # Watchdog یک بار ربات را اجرا می‌کند.
 
     print(
         "Hourly post was not confirmed."
@@ -359,26 +268,28 @@ def check_hourly(now, status):
         "Starting hourly watchdog retry..."
     )
 
+    watchdog_status[
+        "hourly_retry_slot"
+    ] = scheduled_slot
+
     run_script(
         "bot.py",
         "Hourly",
     )
 
 
-# ==============================
-# بررسی تحلیل روزانه
-# ==============================
-
 def check_daily(now, status):
     """
-    ساعت 11:55 بررسی می‌کند که تحلیل 11:45 ارسال شده یا نه.
+    تحلیل روزانه در 11:45 اجرا می‌شود.
+
+    چون cron هر 10 دقیقه است،
+    Watchdog در 12:00 آن را بررسی می‌کند.
     """
 
     if not (
-        now.hour == 11
-        and now.minute == 55
+        now.hour == 12
+        and now.minute <= 9
     ):
-
         return
 
     scheduled_date = now.strftime(
@@ -392,45 +303,41 @@ def check_daily(now, status):
         microsecond=0,
     )
 
-    print(
-        "Checking daily analysis..."
-    )
-
-    # ------------------------------
-    # اول وضعیت واقعی ارسال
-    # ------------------------------
+    print("Checking daily analysis...")
+    print("Target date:", scheduled_date)
 
     daily_status = status.get(
         "daily",
         {},
     )
 
-    sent_date = daily_status.get(
-        "slot"
-    )
+    sent_date = daily_status.get("slot")
 
     if sent_date == scheduled_date:
-
         print(
-            "Daily analysis was already sent:"
+            "Daily analysis was already sent."
         )
-
-        print(
-            scheduled_date
-        )
-
-        print(
-            "No retry needed."
-        )
-
+        print("No retry needed.")
         return
 
-    # ------------------------------
-    # وضعیت Workflow
-    # ------------------------------
+    watchdog_status = status.setdefault(
+        "watchdog",
+        {},
+    )
+
+    attempted_date = watchdog_status.get(
+        "daily_retry_date"
+    )
+
+    if attempted_date == scheduled_date:
+        print(
+            "Daily watchdog retry was already attempted."
+        )
+        print("No second retry will be performed.")
+        return
 
     workflow_state = workflow_status(
-        DAILY_WORKFLOW,
+        HOURLY_WORKFLOW,
         scheduled_time,
     )
 
@@ -439,23 +346,12 @@ def check_daily(now, status):
         workflow_state,
     )
 
-    # اگر Workflow هنوز در حال اجراست،
-    # صبر می‌کنیم.
-
     if workflow_state == "running":
-
         print(
             "Daily workflow is still running."
         )
-
-        print(
-            "No retry will be performed."
-        )
-
+        print("No retry will be performed.")
         return
-
-    # اگر ارسال ثبت نشده باشد،
-    # تحلیل روزانه اجرا می‌شود.
 
     print(
         "Daily analysis was not confirmed."
@@ -465,24 +361,21 @@ def check_daily(now, status):
         "Starting daily watchdog retry..."
     )
 
+    watchdog_status[
+        "daily_retry_date"
+    ] = scheduled_date
+
     run_script(
         "daily_analysis.py",
         "Daily",
     )
 
 
-# ==============================
-# اجرای اصلی
-# ==============================
-
 def main():
-
     if not GITHUB_TOKEN:
-
         print(
             "ERROR: GITHUB_TOKEN is missing."
         )
-
         sys.exit(1)
 
     now = datetime.now(
@@ -508,12 +401,9 @@ def main():
         "==================================="
     )
 
-    # وضعیت ارسال‌ها
     status = load_send_status()
 
-    print(
-        "Current send status:"
-    )
+    print("Current send status:")
 
     print(
         json.dumps(
@@ -523,23 +413,18 @@ def main():
         )
     )
 
-    # بررسی قیمت ساعتی
     check_hourly(
         now,
         status,
     )
 
-    # بررسی تحلیل روزانه
     check_daily(
         now,
         status,
     )
 
-    print(
-        "Watchdog finished."
-    )
+    print("Watchdog finished.")
 
 
 if __name__ == "__main__":
     main()
-```
