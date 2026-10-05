@@ -2,11 +2,9 @@ name: ZarinMah Scheduled Bot
 
 on:
   schedule:
-    # قیمت ساعتی
     - cron: "17 * * * *"
       timezone: "Asia/Tehran"
 
-    # تحلیل روزانه
     - cron: "45 11 * * *"
       timezone: "Asia/Tehran"
 
@@ -16,13 +14,7 @@ permissions:
   contents: write
 
 jobs:
-
-  # =====================================
-  # قیمت ساعتی
-  # =====================================
-
   hourly-price:
-
     if: >
       github.event_name == 'workflow_dispatch' ||
       github.event.schedule == '17 * * * *'
@@ -30,7 +22,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Get repository
         uses: actions/checkout@v4
 
@@ -64,13 +55,7 @@ jobs:
             git push
           fi
 
-
-  # =====================================
-  # تحلیل روزانه ساعت 11:45
-  # =====================================
-
   daily-analysis:
-
     if: >
       github.event_name == 'schedule' &&
       github.event.schedule == '45 11 * * *'
@@ -78,7 +63,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Get repository
         uses: actions/checkout@v4
 
@@ -94,6 +78,7 @@ jobs:
       - name: Run daily analysis
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          SCHEDULED_RUN: "true"
         run: |
           python daily_analysis.py
 
@@ -102,7 +87,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add send_status.json
+          if [ -f send_status.json ]; then
+            git add send_status.json
+          else
+            echo "No send_status.json file to save."
+            exit 0
+          fi
 
           if git diff --cached --quiet; then
             echo "No changes to save."
