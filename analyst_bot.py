@@ -34,7 +34,6 @@ ANALYSTS = {
 
 
 MARKET_KEYWORDS = [
-    # طلا و سکه
     "طلا",
     "طلای ۱۸",
     "طلای 18",
@@ -48,8 +47,6 @@ MARKET_KEYWORDS = [
     "ربع سکه",
     "حباب طلا",
     "حباب سکه",
-
-    # ارز
     "دلار",
     "دلار آزاد",
     "ارز",
@@ -61,8 +58,6 @@ MARKET_KEYWORDS = [
     "ریال",
     "مرکز مبادله",
     "دلار محاسباتی",
-
-    # بورس
     "بورس",
     "بازار سرمایه",
     "شاخص",
@@ -75,24 +70,18 @@ MARKET_KEYWORDS = [
     "ارزش معاملات",
     "ارزش بازار",
     "عرضه اولیه",
-
-    # جریان پول
     "ورود پول حقیقی",
     "خروج پول حقیقی",
     "پول حقیقی",
     "پول هوشمند",
     "جریان نقدینگی",
     "نقدینگی",
-
-    # صندوق‌ها
     "صندوق طلا",
     "صندوق‌های طلا",
     "صندوق نقره",
     "صندوق‌های نقره",
     "گواهی سپرده",
     "گواهی سپرده شمش",
-
-    # عوامل کلان
     "نرخ بهره",
     "فدرال رزرو",
     "تورم",
@@ -109,11 +98,8 @@ MARKET_KEYWORDS = [
     "اوراق",
     "بازده اوراق",
     "بازدهی",
-
-    # ارزش‌گذاری
     "ارزش ذاتی",
     "حباب صندوق",
-    "دلار محاسباتی",
 ]
 
 
@@ -219,13 +205,14 @@ def normalize(text):
 
 
 def load_seen():
+    default = {
+        "sources": {}
+    }
+
     if not os.path.exists(
         SEEN_FILE
     ):
-        return {
-            "initialized": False,
-            "post_ids": [],
-        }
+        return default
 
     try:
         with open(
@@ -239,16 +226,11 @@ def load_seen():
             data,
             dict,
         ):
-            data = {}
+            return default
 
         data.setdefault(
-            "initialized",
-            False,
-        )
-
-        data.setdefault(
-            "post_ids",
-            [],
+            "sources",
+            {}
         )
 
         return data
@@ -259,10 +241,7 @@ def load_seen():
             error,
         )
 
-        return {
-            "initialized": False,
-            "post_ids": [],
-        }
+        return default
 
 
 def save_seen(data):
@@ -311,7 +290,6 @@ def fetch_channel(channel):
 
     page = response.text
 
-    # ساختار عمومی پیام‌های کانال عمومی تلگرام
     pattern = re.compile(
         r'<a class="tgme_widget_message_date[^"]*"'
         r'\s+href="([^"]+)"[^>]*>.*?</a>'
@@ -384,14 +362,12 @@ def is_relevant(text):
         len(market_matches) * 2
     )
 
-    # متن‌های طولانی‌تر و تحلیلی‌تر
     if len(text) > 350:
         score += 1
 
     if len(text) > 700:
         score += 1
 
-    # محتوای تبلیغاتی خالص حذف شود
     if (
         len(promotional_matches) >= 2
         and len(market_matches) < 4
@@ -402,7 +378,6 @@ def is_relevant(text):
             market_matches,
         )
 
-    # حداقل ارتباط مشخص با بازار
     if score < 4:
         return (
             False,
@@ -427,8 +402,6 @@ def build_title(text):
     if lines:
         first = lines[0]
 
-        # اگر اولین خط خیلی طولانی نباشد،
-        # به عنوان تیتر استفاده می‌شود.
         if (
             len(first) <= 120
             and not first.startswith("@")
@@ -506,7 +479,7 @@ def build_summary(text):
 
 
 def make_item(
-    analyst_name,
+    source_name,
     post,
     score,
     market_matches,
@@ -526,16 +499,126 @@ def make_item(
     )
 
     return {
-        "analyst": analyst_name,
+        "analyst": source_name,
         "title": title,
         "summary": summary,
-        "source": analyst_name,
+        "source": source_name,
         "link": post["link"],
         "analysis_score": score,
         "market_matches": market_matches,
         "priority": priority,
         "collected_at": now_iso(),
     }
+
+
+def initialize_source(
+    seen,
+    source_name,
+    posts,
+):
+    """
+    اگر این منبع برای اولین بار دیده می‌شود،
+    تمام پست‌های فعلی فقط ثبت می‌شوند.
+    """
+
+    sources = seen.setdefault(
+        "sources",
+        {},
+    )
+
+    if source_name in sources:
+        return False
+
+    post_ids = [
+        post["link"]
+        for post in posts
+        if post.get("link")
+    ]
+
+    sources[source_name] = {
+        "initialized_at": now_iso(),
+        "post_ids": list(
+            dict.fromkeys(
+                post_ids
+            )
+        )[-3000:],
+    }
+
+    print()
+    print(
+        "Initialized source:",
+        source_name,
+    )
+
+    print(
+        "Existing posts registered:",
+        len(
+            sources[source_name][
+                "post_ids"
+            ]
+        ),
+    )
+
+    return True
+
+
+def source_has_post(
+    seen,
+    source_name,
+    post_id,
+):
+    sources = seen.setdefault(
+        "sources",
+        {},
+    )
+
+    source_data = sources.setdefault(
+        source_name,
+        {
+            "initialized_at": now_iso(),
+            "post_ids": [],
+        },
+    )
+
+    return post_id in source_data.get(
+        "post_ids",
+        [],
+    )
+
+
+def mark_source_post(
+    seen,
+    source_name,
+    post_id,
+):
+    sources = seen.setdefault(
+        "sources",
+        {},
+    )
+
+    source_data = sources.setdefault(
+        source_name,
+        {
+            "initialized_at": now_iso(),
+            "post_ids": [],
+        },
+    )
+
+    post_ids = source_data.setdefault(
+        "post_ids",
+        [],
+    )
+
+    if post_id not in post_ids:
+        post_ids.append(
+            post_id
+        )
+
+    source_data["post_ids"] = list(
+        dict.fromkeys(
+            post_ids
+        )
+    )[-3000:]
 
 
 def main():
@@ -551,14 +634,14 @@ def main():
 
     seen = load_seen()
 
-    all_posts = []
+    ready = []
 
-    for analyst_name, config in ANALYSTS.items():
+    for source_name, config in ANALYSTS.items():
 
         print()
         print(
             "Reading:",
-            analyst_name,
+            source_name,
         )
 
         try:
@@ -578,100 +661,64 @@ def main():
             len(posts),
         )
 
+        # هر منبع جداگانه initialize می‌شود.
+        is_new_source = initialize_source(
+            seen,
+            source_name,
+            posts,
+        )
+
+        if is_new_source:
+            continue
+
         for post in posts:
-            all_posts.append(
-                (
-                    analyst_name,
-                    post,
+
+            post_id = post.get(
+                "link"
+            )
+
+            if not post_id:
+                continue
+
+            if source_has_post(
+                seen,
+                source_name,
+                post_id,
+            ):
+                continue
+
+            # ابتدا ثبت شود تا در اجرای بعد
+            # دوباره وارد صف نشود.
+            mark_source_post(
+                seen,
+                source_name,
+                post_id,
+            )
+
+            relevant, score, market_matches = (
+                is_relevant(
+                    post["text"]
                 )
             )
 
-    # اولین اجرا:
-    # پست‌های موجود فقط ثبت می‌شوند.
-    if not seen.get(
-        "initialized",
-        False,
-    ):
+            if not relevant:
+                continue
 
-        for _, post in all_posts:
-            seen["post_ids"].append(
-                post["link"]
+            item = make_item(
+                source_name,
+                post,
+                score,
+                market_matches,
             )
 
-        seen["initialized"] = True
-
-        seen["post_ids"] = list(
-            dict.fromkeys(
-                seen["post_ids"]
+            ready.append(
+                item
             )
-        )[-3000:]
-
-        save_seen(
-            seen
-        )
-
-        save_ready(
-            []
-        )
-
-        print()
-        print(
-            "Analyst collector initialized."
-        )
-
-        print(
-            "Existing analyst posts "
-            "will not be published."
-        )
-
-        return
-
-    ready = []
-
-    for analyst_name, post in all_posts:
-
-        post_id = post["link"]
-
-        if post_id in seen[
-            "post_ids"
-        ]:
-            continue
-
-        seen["post_ids"].append(
-            post_id
-        )
-
-        relevant, score, market_matches = (
-            is_relevant(
-                post["text"]
-            )
-        )
-
-        if not relevant:
-            continue
-
-        item = make_item(
-            analyst_name,
-            post,
-            score,
-            market_matches,
-        )
-
-        ready.append(
-            item
-        )
-
-    seen["post_ids"] = list(
-        dict.fromkeys(
-            seen["post_ids"]
-        )
-    )[-3000:]
 
     save_seen(
         seen
     )
 
-    # مهم‌ترین تحلیل‌ها اول
     ready.sort(
         key=lambda item: item.get(
             "analysis_score",
