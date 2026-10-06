@@ -31,12 +31,16 @@ jobs:
         run: |
           python news_bot.py
 
-      - name: Save collected news
+      - name: Filter news
+        run: |
+          python news_filter.py
+
+      - name: Save news data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add news_items.json
+          git add news_items.json news_filtered.json
 
           if git diff --cached --quiet; then
             echo "No new news."
