@@ -37,10 +37,7 @@ def parse_datetime(value):
         return None
 
 
-def load_json_file(
-    filename,
-    default,
-):
+def load_json_file(filename, default):
     if not os.path.exists(filename):
         return default
 
@@ -57,14 +54,10 @@ def load_json_file(
             f"Could not load {filename}:",
             error,
         )
-
         return default
 
 
-def save_json_file(
-    filename,
-    data,
-):
+def save_json_file(filename, data):
     with open(
         filename,
         "w",
@@ -154,7 +147,16 @@ def send_to_telegram(message):
             "Telegram message failed."
         )
 
-    return response.json()
+    result = response.json()
+
+    if not result.get("ok"):
+        print(result)
+
+        raise RuntimeError(
+            "Telegram API returned ok=false."
+        )
+
+    return result
 
 
 def get_collected_datetime(item):
@@ -174,16 +176,62 @@ def get_sort_value(item):
     )
 
 
+def initialize_publisher(published):
+    """
+    اولین اجرا فقط نقطه شروع را ثبت می‌کند.
+    خبرهای قدیمی منتشر نمی‌شوند.
+    """
+
+    meta = published.get(
+        "__meta__"
+    )
+
+    if isinstance(meta, dict):
+        initialized_at = parse_datetime(
+            meta.get(
+                "initialized_at"
+            )
+        )
+
+        if initialized_at:
+            return initialized_at, False
+
+    initialized_at = (
+        datetime.now().astimezone()
+    )
+
+    published["__meta__"] = {
+        "initialized_at": (
+            initialized_at.isoformat()
+        )
+    }
+
+    save_json_file(
+        PUBLISHED_FILE,
+        published,
+    )
+
+    return initialized_at, True
+
+
 def main():
-    print("===================================")
-    print("ZarinMah News Publisher")
-    print("===================================")
+    print(
+        "==================================="
+    )
+    print(
+        "ZarinMah News Publisher"
+    )
+    print(
+        "==================================="
+    )
 
     if not TELEGRAM_BOT_TOKEN:
         print(
             "ERROR: TELEGRAM_BOT_TOKEN is missing."
         )
-        return
+        raise RuntimeError(
+            "TELEGRAM_BOT_TOKEN is missing."
+        )
 
     news = load_json_file(
         INPUT_FILE,
@@ -201,73 +249,33 @@ def main():
     ):
         published = {}
 
-    # ---------------------------------
-    # اولین اجرا:
-    # فقط نقطه شروع را ثبت می‌کنیم.
-    # هیچ خبر قدیمی منتشر نمی‌شود.
-    # ---------------------------------
-
-    meta = published.get(
-        "__meta__"
+    initialized_at, is_first_run = (
+        initialize_publisher(
+            published
+        )
     )
 
-    if not isinstance(
-        meta,
-        dict,
-    ):
-        published["__meta__"] = {
-            "initialized_at": now_iso()
-        }
-
-        save_json_file(
-            PUBLISHED_FILE,
-            published,
-        )
-
+    if is_first_run:
         print(
             "Publisher initialized."
         )
-
         print(
             "No old news will be published "
             "on the first run."
         )
-
         return
-
-    initialized_at = parse_datetime(
-        meta.get(
-            "initialized_at"
-        )
-    )
-
-    if initialized_at is None:
-        initialized_at = (
-            datetime.now().astimezone()
-        )
-
-        published["__meta__"][
-            "initialized_at"
-        ] = initialized_at.isoformat()
-
-        save_json_file(
-            PUBLISHED_FILE,
-            published,
-        )
 
     print(
         "Publisher initialized at:",
         initialized_at.isoformat(),
     )
 
-    # ---------------------------------
-    # فقط خبرهای high
-    # ---------------------------------
-
     high_priority_news = [
         item
         for item in news
-        if item.get("priority") == "high"
+        if item.get(
+            "priority"
+        ) == "high"
     ]
 
     high_priority_news.sort(
@@ -286,10 +294,8 @@ def main():
     )
 
     sent_count = 0
-
-    # ---------------------------------
-    # انتشار خبرهای جدید
-    # ---------------------------------
+    failed_count = 0
+    skipped_count = 0
 
     for item in high_priority_news:
 
@@ -303,8 +309,8 @@ def main():
             item
         )
 
-        # قبلاً منتشر شده؟
         if news_id in published:
+            skipped_count += 1
             continue
 
         collected_at = (
@@ -313,17 +319,24 @@ def main():
             )
         )
 
-        # زمان جمع‌آوری نامعتبر
         if collected_at is None:
             print(
                 "Skipping news with invalid "
-                "collection time:",
-                item.get("title"),
+                "collection time:"
             )
+            print(
+                item.get(
+                    "title",
+                    "",
+                )
+            )
+            skipped_count += 1
             continue
 
-        # خبر مربوط به قبل از شروع Publisher است
+        # خبرهای قبل از فعال شدن Publisher
+        # منتشر نمی‌شوند.
         if collected_at <= initialized_at:
+            skipped_count += 1
             continue
 
         message = build_message(
@@ -331,12 +344,16 @@ def main():
         )
 
         if not message.strip():
+            skipped_count += 1
             continue
 
         print()
         print(
             "Publishing:",
-            item.get("title"),
+            item.get(
+                "title",
+                "",
+            ),
         )
 
         try:
@@ -351,12 +368,18 @@ def main():
                 "Publishing failed:",
                 error,
             )
+
+            failed_count += 1
+
+            # برای اینکه GitHub Workflow قرمز شود
+            # و Watchdog بتواند Retry کند،
+            # از این خبر عبور می‌کنیم ولی خطا را ثبت می‌کنیم.
             continue
 
         message_id = (
             telegram_result.get(
                 "result",
-                {}
+                {},
             ).get(
                 "message_id"
             )
@@ -381,6 +404,8 @@ def main():
             ),
         }
 
+        # بلافاصله بعد از موفقیت ذخیره می‌کنیم
+        # تا Retry باعث ارسال دوباره نشود.
         save_json_file(
             PUBLISHED_FILE,
             published,
@@ -389,14 +414,39 @@ def main():
         sent_count += 1
 
     print()
-    print("===================================")
-    print("Publishing finished")
-    print("===================================")
+    print(
+        "==================================="
+    )
+    print(
+        "Publishing finished"
+    )
+    print(
+        "==================================="
+    )
 
     print(
         "Published this run:",
         sent_count,
     )
+
+    print(
+        "Already published/skipped:",
+        skipped_count,
+    )
+
+    print(
+        "Failed this run:",
+        failed_count,
+    )
+
+    # اگر حتی یک ارسال ناموفق بوده،
+    # Workflow باید قرمز شود.
+    # این باعث می‌شود Watchdog آن را Retry کند.
+    if failed_count > 0:
+        raise RuntimeError(
+            f"{failed_count} Telegram "
+            "publication(s) failed."
+        )
 
 
 if __name__ == "__main__":
