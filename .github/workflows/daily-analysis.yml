@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   daily-analysis:
@@ -26,5 +26,20 @@ jobs:
       - name: Run daily analysis
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          SCHEDULED_RUN: "true"
         run: |
           python daily_analysis.py
+
+      - name: Save daily send status
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add send_status.json
+
+          if git diff --cached --quiet; then
+            echo "No daily status changes."
+          else
+            git commit -m "Update daily analysis status"
+            git push
+          fi
