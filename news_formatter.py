@@ -53,20 +53,9 @@ def clean_text(text):
         text,
     )
 
-    text = text.replace(
-        "\u200c",
-        " ",
-    )
-
-    text = text.replace(
-        "\u200f",
-        " ",
-    )
-
-    text = text.replace(
-        "\ufeff",
-        " ",
-    )
+    text = text.replace("\u200c", " ")
+    text = text.replace("\u200f", " ")
+    text = text.replace("\ufeff", " ")
 
     text = re.sub(
         r"\s+",
@@ -77,39 +66,84 @@ def clean_text(text):
     return text.strip()
 
 
-def normalize_title(title):
+def remove_date_and_time(title):
     title = clean_text(title)
 
-    # حذف عبارت‌های زائد ابتدای تیتر
-    prefixes = [
-        "گزارش ",
-        "جزئیات ",
-        "آخرین اخبار ",
-        "آخرین خبر ",
-        "تصاویر ",
-        "ویدئو ",
-        "طبق اعلام ",
-    ]
+    # حذف تاریخ‌های شمسی با اعداد فارسی یا لاتین
+    title = re.sub(
+        r"\b(?:[۰-۹0-9]{1,2})\s+"
+        r"(?:فروردین|اردیبهشت|خرداد|تیر|مرداد|شهریور|"
+        r"مهر|آبان|آذر|دی|بهمن|اسفند)\s+"
+        r"[۰-۹0-9]{4}\b",
+        "",
+        title,
+    )
 
-    for prefix in prefixes:
-        if title.startswith(prefix):
-            title = title[
-                len(prefix):
-            ].strip()
+    # حذف تاریخ‌های عددی
+    title = re.sub(
+        r"\b[۰-۹0-9]{1,2}[/-][۰-۹0-9]{1,2}[/-][۰-۹0-9]{2,4}\b",
+        "",
+        title,
+    )
 
-    # حذف فاصله‌های چندگانه
+    # حذف کلمات زمانی رایج
+    title = re.sub(
+        r"\b(?:امروز|دیروز|فردا|"
+        r"دوشنبه|سه شنبه|چهارشنبه|پنجشنبه|جمعه|شنبه|یکشنبه)\b",
+        "",
+        title,
+        flags=re.IGNORECASE,
+    )
+
     title = re.sub(
         r"\s+",
         " ",
         title,
+    ).strip()
+
+    return title
+
+
+def build_short_title(title):
+    title = clean_text(title)
+
+    title = remove_date_and_time(
+        title
     )
 
-    # محدود کردن طول تیتر
-    if len(title) > 100:
-        title = (
-            title[:97].rstrip()
-            + "..."
+    title = re.sub(
+        r"^(?:نرخ|قیمت)\s+",
+        "",
+        title,
+    )
+
+    title = title.replace(
+        " / ",
+        "؛ ",
+    )
+
+    # برای تیترهای قیمتی رایج
+    if (
+        "دلار" in title
+        and "طلا" in title
+        and "یورو" in title
+    ):
+        return (
+            "دلار، طلا و یورو؛ "
+            "بازار امروز چه تغییری کرد؟"
         )
+
+    if (
+        "طلا" in title
+        and "سکه" in title
+    ):
+        return (
+            "طلا و سکه؛ "
+            + title[:70]
+        ).strip()
+
+    if len(title) > 80:
+        title = title[:77].rstrip() + "..."
 
     return title
 
@@ -120,9 +154,9 @@ def split_sentences(text):
     if not text:
         return []
 
-    # جدا کردن جمله‌های فارسی و انگلیسی
+    # جدا کردن جمله با نقطه، علامت سؤال و نقطه‌ویرگول فارسی
     parts = re.split(
-        r"(?<=[.!؟])\s+",
+        r"(?<=[.!؟؛])\s+",
         text,
     )
 
@@ -133,91 +167,62 @@ def split_sentences(text):
     ]
 
 
-def remove_redundant_opening(text):
-    """
-    فقط عبارت‌های خبری تکراری را حذف می‌کند.
-    اطلاعات اصلی خبر دست‌نخورده باقی می‌ماند.
-    """
+def build_summary(summary):
+    summary = clean_text(summary)
 
-    patterns = [
-        r"^طبق اعلام[^،:؛]*[،:؛]\s*",
-        r"^به گزارش[^،:؛]*[،:؛]\s*",
-        r"^براساس اعلام[^،:؛]*[،:؛]\s*",
-        r"^بر اساس اعلام[^،:؛]*[،:؛]\s*",
-        r"^بررسی‌ها نشان می‌دهد[،:؛]\s*",
-    ]
-
-    for pattern in patterns:
-        text = re.sub(
-            pattern,
-            "",
-            text,
-            flags=re.IGNORECASE,
-        )
-
-    return text.strip()
-
-
-def build_summary(item):
-    raw_summary = clean_text(
-        item.get("summary", "")
-    )
-
-    if not raw_summary:
+    if not summary:
         return (
-            "جزئیات بیشتر در منبع اصلی خبر "
-            "در دسترس است."
+            "جزئیات بیشتر در منبع اصلی "
+            "خبر موجود است."
         )
-
-    summary = remove_redundant_opening(
-        raw_summary
-    )
 
     sentences = split_sentences(
         summary
     )
 
-    # حداکثر ۳ جمله
+    # اگر متن یک جمله دارد، در محل نقطه‌ویرگول تقسیمش می‌کنیم
+    if len(sentences) == 1 and "؛" in summary:
+        parts = [
+            part.strip()
+            for part in summary.split("؛")
+            if part.strip()
+        ]
+
+        if len(parts) >= 2:
+            sentences = parts
+
     selected = sentences[:3]
 
-    if selected:
-        summary = " ".join(
-            selected
-        ).strip()
-    else:
-        summary = clean_text(
-            summary
-        )
+    result = "\n".join(
+        selected
+    ).strip()
 
-    # کوتاه کردن خلاصه خیلی طولانی
-    if len(summary) > 420:
-        summary = (
-            summary[:417].rstrip()
+    if not result:
+        result = summary
+
+    if len(result) > 450:
+        result = (
+            result[:447].rstrip()
             + "..."
         )
 
-    return summary
-
-
-def build_source(source):
-    source = clean_text(source)
-
-    if not source:
-        return "منبع نامشخص"
-
-    return source
+    return result
 
 
 def format_news(item):
-    title = normalize_title(
+    original_title = clean_text(
         item.get("title", "")
     )
 
-    summary = build_summary(
-        item
+    short_title = build_short_title(
+        original_title
     )
 
-    source = build_source(
+    summary = build_summary(
+        item.get("summary", "")
+    )
+
+    source = clean_text(
         item.get("source", "")
     )
 
@@ -226,7 +231,7 @@ def format_news(item):
     )
 
     return {
-        "title": title,
+        "title": short_title,
         "summary": summary,
         "source": source,
         "link": link,
@@ -250,36 +255,11 @@ def format_news(item):
 
 
 def build_telegram_preview(item):
-    """
-    متن پیشنهادی برای انتشار آینده در تلگرام.
-    فعلاً ارسال انجام نمی‌شود.
-    """
-
-    title = item.get(
-        "title",
-        "",
-    )
-
-    summary = item.get(
-        "summary",
-        "",
-    )
-
-    source = item.get(
-        "source",
-        "",
-    )
-
-    link = item.get(
-        "link",
-        "",
-    )
-
     return (
-        f"📰 {title}\n\n"
-        f"{summary}\n\n"
-        f"📌 منبع: {source}\n"
-        f"🔗 {link}"
+        f"📰 {item['title']}\n\n"
+        f"{item['summary']}\n\n"
+        f"📌 منبع: {item['source']}\n"
+        f"🔗 {item['link']}"
     )
 
 
@@ -333,28 +313,7 @@ def main():
     for item in ready_news[:5]:
         print()
         print(
-            "TITLE:",
-            item["title"],
-        )
-        print(
-            "SUMMARY:",
-            item["summary"],
-        )
-        print(
-            "SOURCE:",
-            item["source"],
-        )
-        print(
-            "LINK:",
-            item["link"],
-        )
-        print(
-            "TELEGRAM PREVIEW:"
-        )
-        print(
-            item[
-                "telegram_preview"
-            ]
+            item["telegram_preview"]
         )
 
 
