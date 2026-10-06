@@ -1,5 +1,7 @@
 import json
 import os
+import re
+from difflib import SequenceMatcher
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -86,9 +88,168 @@ def clean_text(text):
     if not text:
         return ""
 
+    text = str(text)
+
+    text = re.sub(
+        r"<[^>]+>",
+        " ",
+        text,
+    )
+
+    text = text.replace("\u200c", " ")
+    text = text.replace("\u200f", " ")
+    text = text.replace("\ufeff", " ")
+
     return " ".join(
-        str(text).split()
+        text.split()
     ).strip()
+
+
+def normalize_title(title):
+    title = clean_text(title)
+
+    title = title.replace("ي", "ی")
+    title = title.replace("ى", "ی")
+    title = title.replace("ك", "ک")
+    title = title.replace("ۀ", "ه")
+    title = title.replace("ة", "ه")
+
+    title = re.sub(
+        r"[«»“”\"'`،؛:,.!?؟()\[\]{}<>/\\|*_+=~\-–—]",
+        " ",
+        title,
+    )
+
+    title = re.sub(
+        r"\s+",
+        " ",
+        title,
+    )
+
+    return title.strip().lower()
+
+
+def title_tokens(title):
+    normalized = normalize_title(title)
+
+    tokens = normalized.split()
+
+    # چند کلمه عمومی که ارزش تشخیص خبر ندارند
+    common_words = {
+        "امروز",
+        "جدید",
+        "آخرین",
+        "گزارش",
+        "جزئیات",
+        "اعلام",
+        "خبر",
+        "مهم",
+        "تازه",
+        "شد",
+        "شدند",
+        "کرد",
+        "کردند",
+        "است",
+        "هست",
+        "به",
+        "از",
+        "در",
+        "با",
+        "برای",
+        "این",
+        "آن",
+        "یک",
+    }
+
+    return {
+        token
+        for token in tokens
+        if token not in common_words
+        and len(token) > 1
+    }
+
+
+def titles_are_duplicate(title1, title2):
+    normalized1 = normalize_title(title1)
+    normalized2 = normalize_title(title2)
+
+    if not normalized1 or not normalized2:
+        return False
+
+    # یکسان بودن دقیق عنوان
+    if normalized1 == normalized2:
+        return True
+
+    tokens1 = title_tokens(title1)
+    tokens2 = title_tokens(title2)
+
+    if not tokens1 or not tokens2:
+        return False
+
+    intersection = tokens1 & tokens2
+    union = tokens1 | tokens2
+
+    token_similarity = (
+        len(intersection) / len(union)
+        if union
+        else 0
+    )
+
+    text_similarity = SequenceMatcher(
+        None,
+        normalized1,
+        normalized2,
+    ).ratio()
+
+    # خبرهای تقریباً یکسان
+    if text_similarity >= 0.92:
+        return True
+
+    # عنوان‌هایی با تفاوت جزئی بین رسانه‌ها
+    if (
+        text_similarity >= 0.84
+        and token_similarity >= 0.72
+    ):
+        return True
+
+    return False
+
+
+def is_duplicate(item, existing_items):
+    link = clean_text(
+        item.get("link")
+    )
+
+    title = clean_text(
+        item.get("title")
+    )
+
+    # ابتدا لینک
+    for old_item in existing_items:
+        old_link = clean_text(
+            old_item.get("link")
+        )
+
+        if (
+            link
+            and old_link
+            and link == old_link
+        ):
+            return True
+
+    # بعد عنوان
+    for old_item in existing_items:
+        old_title = clean_text(
+            old_item.get("title")
+        )
+
+        if titles_are_duplicate(
+            title,
+            old_title,
+        ):
+            return True
+
+    return False
 
 
 def get_entry_summary(entry):
@@ -110,7 +271,10 @@ def get_entry_published(entry):
     return clean_text(published)
 
 
-def collect_from_source(source_name, rss_url):
+def collect_from_source(
+    source_name,
+    rss_url,
+):
     print()
     print("===================================")
     print("Reading:", source_name)
@@ -146,11 +310,13 @@ def collect_from_source(source_name, rss_url):
         [],
     )
 
-    print("Entries found:", len(entries))
+    print(
+        "Entries found:",
+        len(entries),
+    )
 
     collected = []
 
-    # برای جلوگیری از ورود تعداد بسیار زیاد خبر
     for entry in entries[:30]:
         title = clean_text(
             entry.get("title")
@@ -186,11 +352,19 @@ def collect_from_source(source_name, rss_url):
 def collect_news():
     old_news = load_news()
 
-    existing_links = {
-        item.get("link")
-        for item in old_news
-        if item.get("link")
-    }
+    # ابتدا خود دیتای قبلی را هم پاک‌سازی می‌کنیم
+    unique_news = []
+
+    for item in old_news:
+        if is_duplicate(
+            item,
+            unique_news,
+        ):
+            continue
+
+        unique_news.append(item)
+
+    existing_before = len(unique_news)
 
     new_items = []
 
@@ -198,6 +372,7 @@ def collect_news():
     failed_count = 0
 
     for source_name, rss_url in NEWS_SOURCES.items():
+
         items = collect_from_source(
             source_name,
             rss_url,
@@ -209,41 +384,72 @@ def collect_news():
             failed_count += 1
 
         for item in items:
-            link = item.get("link")
 
-            if not link:
+            if is_duplicate(
+                item,
+                unique_news,
+            ):
                 continue
 
-            if link in existing_links:
-                continue
-
+            unique_news.append(item)
             new_items.append(item)
-            existing_links.add(link)
 
-    all_news = old_news + new_items
+    # جدیدترین خبرها اول
+    unique_news.sort(
+        key=lambda item: item.get(
+            "collected_at",
+            "",
+        ),
+        reverse=True,
+    )
 
-    # جدیدترین خبرها ابتدا
-    all_news.reverse()
+    # حجم فایل
+    unique_news = unique_news[:2000]
 
-    # محدود کردن حجم فایل
-    all_news = all_news[:2000]
+    save_news(unique_news)
 
-    save_news(all_news)
+    duplicates_removed = (
+        existing_before
+        + sum(
+            1
+            for _ in new_items
+        )
+        - len(unique_news)
+    )
 
     print()
     print("===================================")
     print("Collection finished")
     print("===================================")
-    print("Sources:", len(NEWS_SOURCES))
-    print("Successful sources:", success_count)
-    print("Failed/empty sources:", failed_count)
-    print("New news:", len(new_items))
-    print("Total saved:", len(all_news))
+    print(
+        "Sources:",
+        len(NEWS_SOURCES),
+    )
+    print(
+        "Successful sources:",
+        success_count,
+    )
+    print(
+        "Failed/empty sources:",
+        failed_count,
+    )
+    print(
+        "New unique news:",
+        len(new_items),
+    )
+    print(
+        "Total unique saved:",
+        len(unique_news),
+    )
 
 
 def main():
-    print("===================================")
-    print("ZarinMah News Collector")
+    print(
+        "==================================="
+    )
+    print(
+        "ZarinMah News Collector"
+    )
     print(
         "Tehran time:",
         datetime.now(
@@ -252,7 +458,9 @@ def main():
             "%Y-%m-%d %H:%M:%S"
         ),
     )
-    print("===================================")
+    print(
+        "==================================="
+    )
 
     collect_news()
 
