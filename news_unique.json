@@ -218,34 +218,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۳ مهر ۱۴۰۵ در زمان بسته شدن بازار/ یورو چقدر قیمت خورد؟ + جدول",
-    "link": "https://www.khabaronline.ir/news/2284245/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
-    "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد.",
-    "published": "Mon, 05 Oct 2026 18:58:00 GMT",
-    "collected_at": "2026-10-06T15:15:23.092328+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۴ مهر ۱۴۰۵ در زمان بازگشایی بازار/ دلار چقدر قیمت خورد؟ + جدول",
     "link": "https://www.khabaronline.ir/news/2284295/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B4-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
     "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد.",
@@ -600,30 +572,6 @@
     "summary": "قیمت طلا در بازار تهران امروز ۱۴ مهرماه اعلام شد و هر گرم طلای ۲۴ عیار در کانال ۳۵ میلیون تومان ماند.",
     "published": "Tue, 06 Oct 2026 04:29:02 GMT",
     "collected_at": "2026-10-06T15:15:23.092280+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا ۱۸ عیار امروز سه‌شنبه ۱۴ مهر ۱۴۰۵",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4299942-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
-    "summary": "<img src=\"https://cdn.donya-e-eqtesad.com/thumbnail/4xXNjlJhhh5h/CjRxp5qG1cmEWIlhaH818SDXWP2hNFnwfxyAiaICmUsGadYJ8OFNnlSj37wf3nzT_KglO0XoLDej22-b--HhLWynkjodOUWmG7yo5NYeXyVLe02csxIZ5g,,/fKZqVQtpJ6op.jpg\" /> <div>طبق اعلام سایت اتحادیه‌ طلا و‌جواهر ​​​قیمت گرم طلا ۱۸ عیار با افزایش، به 26 میلیون و 644 هزار و 900 تومان رسید.</div>",
-    "published": "Tue, 06 Oct 2026 10:52:44 +0000",
-    "collected_at": "2026-10-06T15:15:20.764937+03:30",
     "market_score": 7,
     "market_matches": {
       "gold": [
