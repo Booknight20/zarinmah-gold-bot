@@ -1,6 +1,7 @@
 import hashlib
 import json
 import os
+from datetime import datetime
 
 import requests
 
@@ -17,7 +18,29 @@ TELEGRAM_BOT_TOKEN = os.environ.get(
 )
 
 
-def load_json_file(filename, default):
+def now_iso():
+    return datetime.now().astimezone().isoformat()
+
+
+def parse_datetime(value):
+    if not value:
+        return None
+
+    try:
+        return datetime.fromisoformat(
+            value.replace(
+                "Z",
+                "+00:00",
+            )
+        )
+    except Exception:
+        return None
+
+
+def load_json_file(
+    filename,
+    default,
+):
     if not os.path.exists(filename):
         return default
 
@@ -27,19 +50,21 @@ def load_json_file(filename, default):
             "r",
             encoding="utf-8",
         ) as file:
-            data = json.load(file)
-
-        return data
+            return json.load(file)
 
     except Exception as error:
         print(
             f"Could not load {filename}:",
             error,
         )
+
         return default
 
 
-def save_json_file(filename, data):
+def save_json_file(
+    filename,
+    data,
+):
     with open(
         filename,
         "w",
@@ -124,11 +149,21 @@ def send_to_telegram(message):
 
     if response.status_code != 200:
         print(response.text)
+
         raise RuntimeError(
             "Telegram message failed."
         )
 
     return response.json()
+
+
+def get_collected_datetime(item):
+    return parse_datetime(
+        item.get(
+            "collected_at",
+            "",
+        )
+    )
 
 
 def get_sort_value(item):
@@ -166,6 +201,69 @@ def main():
     ):
         published = {}
 
+    # ---------------------------------
+    # اولین اجرا:
+    # فقط نقطه شروع را ثبت می‌کنیم.
+    # هیچ خبر قدیمی منتشر نمی‌شود.
+    # ---------------------------------
+
+    meta = published.get(
+        "__meta__"
+    )
+
+    if not isinstance(
+        meta,
+        dict,
+    ):
+        published["__meta__"] = {
+            "initialized_at": now_iso()
+        }
+
+        save_json_file(
+            PUBLISHED_FILE,
+            published,
+        )
+
+        print(
+            "Publisher initialized."
+        )
+
+        print(
+            "No old news will be published "
+            "on the first run."
+        )
+
+        return
+
+    initialized_at = parse_datetime(
+        meta.get(
+            "initialized_at"
+        )
+    )
+
+    if initialized_at is None:
+        initialized_at = (
+            datetime.now().astimezone()
+        )
+
+        published["__meta__"][
+            "initialized_at"
+        ] = initialized_at.isoformat()
+
+        save_json_file(
+            PUBLISHED_FILE,
+            published,
+        )
+
+    print(
+        "Publisher initialized at:",
+        initialized_at.isoformat(),
+    )
+
+    # ---------------------------------
+    # فقط خبرهای high
+    # ---------------------------------
+
     high_priority_news = [
         item
         for item in news
@@ -178,11 +276,20 @@ def main():
     )
 
     print(
+        "Total ready news:",
+        len(news),
+    )
+
+    print(
         "High priority news:",
         len(high_priority_news),
     )
 
     sent_count = 0
+
+    # ---------------------------------
+    # انتشار خبرهای جدید
+    # ---------------------------------
 
     for item in high_priority_news:
 
@@ -192,12 +299,36 @@ def main():
             )
             break
 
-        news_id = create_news_id(item)
+        news_id = create_news_id(
+            item
+        )
 
+        # قبلاً منتشر شده؟
         if news_id in published:
             continue
 
-        message = build_message(item)
+        collected_at = (
+            get_collected_datetime(
+                item
+            )
+        )
+
+        # زمان جمع‌آوری نامعتبر
+        if collected_at is None:
+            print(
+                "Skipping news with invalid "
+                "collection time:",
+                item.get("title"),
+            )
+            continue
+
+        # خبر مربوط به قبل از شروع Publisher است
+        if collected_at <= initialized_at:
+            continue
+
+        message = build_message(
+            item
+        )
 
         if not message.strip():
             continue
@@ -209,8 +340,10 @@ def main():
         )
 
         try:
-            telegram_result = send_to_telegram(
-                message
+            telegram_result = (
+                send_to_telegram(
+                    message
+                )
             )
 
         except Exception as error:
@@ -219,6 +352,15 @@ def main():
                 error,
             )
             continue
+
+        message_id = (
+            telegram_result.get(
+                "result",
+                {}
+            ).get(
+                "message_id"
+            )
+        )
 
         published[news_id] = {
             "title": item.get(
@@ -233,17 +375,9 @@ def main():
                 "link",
                 "",
             ),
-            "published_at": item.get(
-                "collected_at",
-                "",
-            ),
+            "published_at": now_iso(),
             "telegram_message_id": (
-                telegram_result.get(
-                    "result",
-                    {}
-                ).get(
-                    "message_id"
-                )
+                message_id
             ),
         }
 
@@ -258,6 +392,7 @@ def main():
     print("===================================")
     print("Publishing finished")
     print("===================================")
+
     print(
         "Published this run:",
         sent_count,
