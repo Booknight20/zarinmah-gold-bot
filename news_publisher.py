@@ -1,4 +1,5 @@
 import hashlib
+import html
 import json
 import os
 from datetime import datetime
@@ -28,10 +29,7 @@ def parse_datetime(value):
 
     try:
         return datetime.fromisoformat(
-            value.replace(
-                "Z",
-                "+00:00",
-            )
+            value.replace("Z", "+00:00")
         )
     except Exception:
         return None
@@ -100,15 +98,35 @@ def build_message(item):
         item.get("source", "")
     ).strip()
 
-    link = str(
+    news_link = str(
         item.get("link", "")
     ).strip()
 
+    safe_title = html.escape(
+        title
+    )
+
+    safe_summary = html.escape(
+        summary
+    )
+
+    safe_source = html.escape(
+        source
+    )
+
+    safe_news_link = html.escape(
+        news_link,
+        quote=True,
+    )
+
     return (
-        f"📰 {title}\n\n"
-        f"{summary}\n\n"
-        f"📌 منبع: {source}\n"
-        f"🔗 {link}"
+        "🌙 <b>زرین ماه</b>\n\n"
+        f"📰 <b>{safe_title}</b>\n\n"
+        f"{safe_summary}\n\n"
+        f"📌 <b>منبع:</b> {safe_source}\n"
+        f'<a href="{safe_news_link}">🔗 مشاهده خبر کامل</a>\n\n'
+        "🌙 <b>برای دنبال‌کردن اخبار و تحلیل‌های بیشتر زرین ماه:</b>\n\n"
+        '<a href="https://t.me/Zarimahgold">🔗 عضویت در کانال تلگرام زرین ماه</a>'
     )
 
 
@@ -126,7 +144,8 @@ def send_to_telegram(message):
     payload = {
         "chat_id": CHANNEL,
         "text": message,
-        "disable_web_page_preview": False,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
     }
 
     response = requests.post(
@@ -177,20 +196,13 @@ def get_sort_value(item):
 
 
 def initialize_publisher(published):
-    """
-    اولین اجرا فقط نقطه شروع را ثبت می‌کند.
-    خبرهای قدیمی منتشر نمی‌شوند.
-    """
-
     meta = published.get(
         "__meta__"
     )
 
     if isinstance(meta, dict):
         initialized_at = parse_datetime(
-            meta.get(
-                "initialized_at"
-            )
+            meta.get("initialized_at")
         )
 
         if initialized_at:
@@ -273,9 +285,7 @@ def main():
     high_priority_news = [
         item
         for item in news
-        if item.get(
-            "priority"
-        ) == "high"
+        if item.get("priority") == "high"
     ]
 
     high_priority_news.sort(
@@ -314,9 +324,7 @@ def main():
             continue
 
         collected_at = (
-            get_collected_datetime(
-                item
-            )
+            get_collected_datetime(item)
         )
 
         if collected_at is None:
@@ -333,8 +341,6 @@ def main():
             skipped_count += 1
             continue
 
-        # خبرهای قبل از فعال شدن Publisher
-        # منتشر نمی‌شوند.
         if collected_at <= initialized_at:
             skipped_count += 1
             continue
@@ -370,10 +376,6 @@ def main():
             )
 
             failed_count += 1
-
-            # برای اینکه GitHub Workflow قرمز شود
-            # و Watchdog بتواند Retry کند،
-            # از این خبر عبور می‌کنیم ولی خطا را ثبت می‌کنیم.
             continue
 
         message_id = (
@@ -404,8 +406,6 @@ def main():
             ),
         }
 
-        # بلافاصله بعد از موفقیت ذخیره می‌کنیم
-        # تا Retry باعث ارسال دوباره نشود.
         save_json_file(
             PUBLISHED_FILE,
             published,
@@ -439,9 +439,6 @@ def main():
         failed_count,
     )
 
-    # اگر حتی یک ارسال ناموفق بوده،
-    # Workflow باید قرمز شود.
-    # این باعث می‌شود Watchdog آن را Retry کند.
     if failed_count > 0:
         raise RuntimeError(
             f"{failed_count} Telegram "
