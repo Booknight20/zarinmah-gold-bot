@@ -27,36 +27,93 @@ ANALYSTS = {
     "علیرضا محرابی": {
         "channel": "AlirezaMehrabi_ir",
     },
+    "ره‌آورد ۳۶۵": {
+        "channel": "rahavard365",
+    },
 }
 
 
 MARKET_KEYWORDS = [
+    # طلا و سکه
     "طلا",
     "طلای ۱۸",
     "طلای 18",
-    "اونس",
+    "طلای آبشده",
     "آبشده",
+    "اونس",
+    "اونس جهانی",
     "سکه",
+    "سکه امامی",
+    "نیم سکه",
+    "ربع سکه",
+    "حباب طلا",
+    "حباب سکه",
+
+    # ارز
     "دلار",
+    "دلار آزاد",
     "ارز",
+    "نرخ ارز",
+    "بازار ارز",
     "یورو",
     "درهم",
+    "پوند",
+    "ریال",
+    "مرکز مبادله",
+    "دلار محاسباتی",
+
+    # بورس
     "بورس",
-    "شاخص",
-    "فرابورس",
     "بازار سرمایه",
+    "شاخص",
+    "شاخص کل",
+    "شاخص کل بورس",
+    "شاخص هم وزن",
+    "شاخص هم‌وزن",
+    "فرابورس",
+    "نماد",
+    "ارزش معاملات",
+    "ارزش بازار",
+    "عرضه اولیه",
+
+    # جریان پول
+    "ورود پول حقیقی",
+    "خروج پول حقیقی",
+    "پول حقیقی",
+    "پول هوشمند",
+    "جریان نقدینگی",
+    "نقدینگی",
+
+    # صندوق‌ها
     "صندوق طلا",
-    "حباب",
+    "صندوق‌های طلا",
+    "صندوق نقره",
+    "صندوق‌های نقره",
+    "گواهی سپرده",
+    "گواهی سپرده شمش",
+
+    # عوامل کلان
     "نرخ بهره",
     "فدرال رزرو",
     "تورم",
     "بانک مرکزی",
-    "نقدینگی",
+    "سیاست پولی",
+    "سیاست ارزی",
+    "پایه پولی",
+    "کسری بودجه",
+    "رشد اقتصادی",
+    "رکود",
+    "قیمت نفت",
     "نفت",
     "تحریم",
     "اوراق",
     "بازده اوراق",
-    "سیاست پولی",
+    "بازدهی",
+
+    # ارزش‌گذاری
+    "ارزش ذاتی",
+    "حباب صندوق",
+    "دلار محاسباتی",
 ]
 
 
@@ -73,6 +130,8 @@ PROMOTIONAL_KEYWORDS = [
     "عضویت ویژه",
     "vip",
     "خرید",
+    "اشتراک",
+    "اشتراک ویژه",
 ]
 
 
@@ -151,6 +210,11 @@ def normalize(text):
         "ی",
     )
 
+    text = text.replace(
+        "ة",
+        "ه",
+    )
+
     return text.lower()
 
 
@@ -189,7 +253,12 @@ def load_seen():
 
         return data
 
-    except Exception:
+    except Exception as error:
+        print(
+            "Could not load seen data:",
+            error,
+        )
+
         return {
             "initialized": False,
             "post_ids": [],
@@ -224,12 +293,8 @@ def save_ready(data):
         )
 
 
-def fetch_channel(
-    channel,
-):
-    url = (
-        f"https://t.me/s/{channel}"
-    )
+def fetch_channel(channel):
+    url = f"https://t.me/s/{channel}"
 
     response = requests.get(
         url,
@@ -244,8 +309,9 @@ def fetch_channel(
 
     response.raise_for_status()
 
-    html_text = response.text
+    page = response.text
 
+    # ساختار عمومی پیام‌های کانال عمومی تلگرام
     pattern = re.compile(
         r'<a class="tgme_widget_message_date[^"]*"'
         r'\s+href="([^"]+)"[^>]*>.*?</a>'
@@ -258,7 +324,7 @@ def fetch_channel(
     posts = []
 
     for match in pattern.finditer(
-        html_text
+        page
     ):
         link = match.group(1)
         raw_text = match.group(2)
@@ -291,9 +357,11 @@ def find_matches(
     matches = []
 
     for keyword in keywords:
-        if normalize(
+        keyword_normalized = normalize(
             keyword
-        ) in normalized:
+        )
+
+        if keyword_normalized in normalized:
             matches.append(
                 keyword
             )
@@ -301,9 +369,7 @@ def find_matches(
     return matches
 
 
-def is_relevant(
-    text,
-):
+def is_relevant(text):
     market_matches = find_matches(
         text,
         MARKET_KEYWORDS,
@@ -318,21 +384,37 @@ def is_relevant(
         len(market_matches) * 2
     )
 
+    # متن‌های طولانی‌تر و تحلیلی‌تر
     if len(text) > 350:
         score += 1
 
-    # مطالب کاملاً تبلیغاتی حذف شوند
+    if len(text) > 700:
+        score += 1
+
+    # محتوای تبلیغاتی خالص حذف شود
     if (
         len(promotional_matches) >= 2
-        and score < 8
+        and len(market_matches) < 4
     ):
-        return False, score
+        return (
+            False,
+            score,
+            market_matches,
+        )
 
-    # حداقل یک ارتباط مشخص با بازار
+    # حداقل ارتباط مشخص با بازار
     if score < 4:
-        return False, score
+        return (
+            False,
+            score,
+            market_matches,
+        )
 
-    return True, score
+    return (
+        True,
+        score,
+        market_matches,
+    )
 
 
 def build_title(text):
@@ -345,11 +427,11 @@ def build_title(text):
     if lines:
         first = lines[0]
 
+        # اگر اولین خط خیلی طولانی نباشد،
+        # به عنوان تیتر استفاده می‌شود.
         if (
             len(first) <= 120
-            and not first.startswith(
-                "@"
-            )
+            and not first.startswith("@")
         ):
             return first
 
@@ -375,7 +457,6 @@ def build_title(text):
 def build_summary(text):
     text = text.strip()
 
-    # حذف تیتر تکراری
     lines = [
         line.strip()
         for line in text.splitlines()
@@ -415,7 +496,6 @@ def build_summary(text):
     if not summary:
         summary = content
 
-    # خلاصه کوتاه و کنترل‌شده
     if len(summary) > 360:
         summary = (
             summary[:357].rstrip()
@@ -429,6 +509,7 @@ def make_item(
     analyst_name,
     post,
     score,
+    market_matches,
 ):
     title = build_title(
         post["text"]
@@ -438,6 +519,12 @@ def make_item(
         post["text"]
     )
 
+    priority = (
+        "high"
+        if score >= 8
+        else "medium"
+    )
+
     return {
         "analyst": analyst_name,
         "title": title,
@@ -445,11 +532,8 @@ def make_item(
         "source": analyst_name,
         "link": post["link"],
         "analysis_score": score,
-        "priority": (
-            "high"
-            if score >= 8
-            else "medium"
-        ),
+        "market_matches": market_matches,
+        "priority": priority,
         "collected_at": now_iso(),
     }
 
@@ -503,8 +587,7 @@ def main():
             )
 
     # اولین اجرا:
-    # پست‌های موجود فقط علامت‌گذاری می‌شوند
-    # و چیزی منتشر نمی‌شود.
+    # پست‌های موجود فقط ثبت می‌شوند.
     if not seen.get(
         "initialized",
         False,
@@ -521,13 +604,15 @@ def main():
             dict.fromkeys(
                 seen["post_ids"]
             )
-        )[-2000:]
+        )[-3000:]
 
         save_seen(
             seen
         )
 
-        save_ready([])
+        save_ready(
+            []
+        )
 
         print()
         print(
@@ -556,8 +641,10 @@ def main():
             post_id
         )
 
-        relevant, score = is_relevant(
-            post["text"]
+        relevant, score, market_matches = (
+            is_relevant(
+                post["text"]
+            )
         )
 
         if not relevant:
@@ -567,6 +654,7 @@ def main():
             analyst_name,
             post,
             score,
+            market_matches,
         )
 
         ready.append(
@@ -577,7 +665,7 @@ def main():
         dict.fromkeys(
             seen["post_ids"]
         )
-    )[-2000:]
+    )[-3000:]
 
     save_seen(
         seen
