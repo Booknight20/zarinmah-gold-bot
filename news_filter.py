@@ -86,7 +86,7 @@ ECONOMIC_DRIVER_KEYWORDS = [
 ]
 
 
-# رویدادهایی که می‌توانند اثر جدی اقتصادی/بازاری داشته باشند
+# رویدادهای مهمی که می‌توانند اثر اقتصادی و بازاری داشته باشند
 MAJOR_EVENT_KEYWORDS = [
     "ایران و آمریکا",
     "ایران آمریکا",
@@ -157,7 +157,18 @@ def find_matches(text, keywords):
     for keyword in keywords:
         keyword_normalized = normalize_text(keyword)
 
-        if keyword_normalized in text:
+        # جلوگیری از تطبیق اشتباه داخل کلمات دیگر
+        # مثال:
+        # "طلا" باید با "طلا" و "طلای" تطبیق کند
+        # ولی نباید با "اطلاعات" تطبیق کند.
+        pattern = (
+            r"(?<![\w])"
+            + re.escape(keyword_normalized)
+            + r"(?:ی|ها|های)?"
+            + r"(?![\w])"
+        )
+
+        if re.search(pattern, text):
             matches.append(keyword)
 
     return matches
@@ -190,30 +201,29 @@ def analyze_news(item):
         MAJOR_EVENT_KEYWORDS,
     )
 
-    # امتیاز
+    # محاسبه امتیاز ارتباط با بازار
     score = 0
 
-    # خبر مستقیم بازار امتیاز بالایی می‌گیرد
+    # خبر مستقیم بازار امتیاز بالا می‌گیرد
     score += total_market_matches * 3
 
-    # عوامل اقتصادی امتیاز می‌دهند
+    # عوامل اقتصادی
     score += len(driver_matches) * 2
 
-    # رویدادهای مهم ژئوپلیتیک
+    # رویدادهای مهم
     score += len(major_event_matches) * 2
 
-    # قوانین ورود به فیلتر
     include = False
 
-    # 1) خبر مستقیم طلا/ارز/بورس
+    # خبر مستقیم درباره طلا، ارز یا بورس
     if total_market_matches >= 1:
         include = True
 
-    # 2) حداقل دو عامل اقتصادی مستقل
+    # حداقل دو عامل اقتصادی
     elif len(driver_matches) >= 2:
         include = True
 
-    # 3) رویداد مهم + عامل اقتصادی
+    # رویداد مهم + عامل اقتصادی
     elif (
         len(major_event_matches) >= 1
         and len(driver_matches) >= 1
@@ -255,7 +265,7 @@ def main():
 
         filtered_news.append(new_item)
 
-    # خبرهای قوی‌تر اول
+    # خبرهای مرتبط‌تر اول
     filtered_news.sort(
         key=lambda item: item.get(
             "market_score",
