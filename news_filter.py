@@ -1,85 +1,121 @@
 import json
 import os
+import re
 
 
 NEWS_FILE = "news_items.json"
 FILTERED_FILE = "news_filtered.json"
 
 
-STRONG_KEYWORDS = [
-    # طلا
-    "طلا",
-    "طلای جهانی",
-    "اونس طلا",
-    "اونس جهانی",
-    "طلای آبشده",
-    "آبشده",
-    "مثقال طلا",
+# بازارهای هدف
+MARKET_KEYWORDS = {
+    "gold": [
+        "طلا",
+        "اونس طلا",
+        "اونس جهانی",
+        "طلای جهانی",
+        "طلای آبشده",
+        "آبشده",
+        "مثقال طلا",
+        "گرم طلا",
+        "طلای ۱۸ عیار",
+        "طلای 24 عیار",
+    ],
+    "currency": [
+        "دلار",
+        "دلار آزاد",
+        "دلار آمریکا",
+        "نرخ دلار",
+        "ارز",
+        "نرخ ارز",
+        "بازار ارز",
+        "یورو",
+        "درهم",
+        "پوند",
+        "ریال",
+        "مرکز مبادله",
+        "حراج ارز",
+    ],
+    "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "فرابورس",
+        "ارزش معاملات",
+        "ورود پول حقیقی",
+        "خروج پول حقیقی",
+        "عرضه اولیه",
+        "صف خرید",
+        "صف فروش",
+        "دامنه نوسان",
+        "شاخص بورس",
+    ],
+}
 
-    # سکه
-    "سکه",
-    "سکه امامی",
-    "بهار آزادی",
-    "نیم سکه",
-    "ربع سکه",
 
-    # ارز
-    "دلار",
-    "دلار آزاد",
-    "دلار آمریکا",
-    "یورو",
-    "پوند",
-    "درهم",
-    "لیر",
-    "ریال",
-
-    # بانک مرکزی و سیاست پولی
+# عوامل اقتصادی و پولی مؤثر بر بازارها
+ECONOMIC_DRIVER_KEYWORDS = [
     "بانک مرکزی",
     "نرخ بهره",
     "سیاست پولی",
+    "تورم",
     "نقدینگی",
     "پایه پولی",
-
-    # عوامل مهم جهانی
     "فدرال رزرو",
-    "FED",
+    "fed",
+    "cpi",
+    "pce",
     "تورم آمریکا",
-    "شاخص قیمت مصرف کننده",
-    "CPI",
-    "PCE",
     "اشتغال آمریکا",
     "بازده اوراق",
     "اوراق خزانه آمریکا",
-
-    # عوامل مهم داخلی
-    "مرکز مبادله",
-    "حراج سکه",
-    "عرضه سکه",
-    "ذخایر ارزی",
-    "نرخ ارز",
-    "بازار ارز",
-
-        # بورس و بازار سرمایه
-    "بورس",
-    "بازار سرمایه",
-    "شاخص کل",
-    "شاخص هم وزن",
-    "فرابورس",
-    "ورود پول حقیقی",
-    "خروج پول حقیقی",
-    "ارزش معاملات",
-    "عرضه اولیه",
-]
-
-
-SECONDARY_KEYWORDS = [
-    "تورم",
-    "تحریم",
-    "صادرات نفت",
+    "شاخص دلار",
+    "dxy",
     "قیمت نفت",
     "نفت",
-    "بورس",
+    "تحریم",
+    "تحریم نفتی",
+    "صادرات نفت",
+    "ذخایر ارزی",
+    "سیاست ارزی",
+    "کسری بودجه",
+    "بودجه",
+    "رشد اقتصادی",
+    "رکود",
 ]
+
+
+# رویدادهایی که می‌توانند اثر جدی اقتصادی/بازاری داشته باشند
+MAJOR_EVENT_KEYWORDS = [
+    "ایران و آمریکا",
+    "ایران آمریکا",
+    "مذاکرات ایران و آمریکا",
+    "مذاکرات هسته‌ای",
+    "برجام",
+    "تحریم‌های جدید",
+    "تحریم جدید",
+    "جنگ",
+    "آتش‌بس",
+    "تنش نظامی",
+    "تنش منطقه‌ای",
+    "درگیری منطقه‌ای",
+    "تنگه هرمز",
+]
+
+
+def normalize_text(text):
+    text = text or ""
+
+    text = text.replace("ي", "ی")
+    text = text.replace("ى", "ی")
+    text = text.replace("ك", "ک")
+    text = text.replace("ۀ", "ه")
+    text = text.replace("ة", "ه")
+
+    text = re.sub(r"\s+", " ", text)
+
+    return text.strip().lower()
 
 
 def load_news():
@@ -115,49 +151,134 @@ def save_filtered_news(news):
         )
 
 
-def is_relevant(item):
-    title = item.get("title", "").strip()
+def find_matches(text, keywords):
+    matches = []
 
-    if not title:
-        return False
+    for keyword in keywords:
+        keyword_normalized = normalize_text(keyword)
 
-    title_lower = title.lower()
+        if keyword_normalized in text:
+            matches.append(keyword)
 
-    strong_matches = [
-        keyword.lower()
-        for keyword in STRONG_KEYWORDS
-        if keyword.lower() in title_lower
-    ]
+    return matches
 
-    if strong_matches:
-        return True
 
-    secondary_matches = [
-        keyword.lower()
-        for keyword in SECONDARY_KEYWORDS
-        if keyword.lower() in title_lower
-    ]
+def analyze_news(item):
+    title = item.get("title", "")
+    text = normalize_text(title)
 
-    return len(secondary_matches) >= 2
+    market_matches = {}
+    total_market_matches = 0
+
+    for market_name, keywords in MARKET_KEYWORDS.items():
+        matches = find_matches(
+            text,
+            keywords,
+        )
+
+        if matches:
+            market_matches[market_name] = matches
+            total_market_matches += len(matches)
+
+    driver_matches = find_matches(
+        text,
+        ECONOMIC_DRIVER_KEYWORDS,
+    )
+
+    major_event_matches = find_matches(
+        text,
+        MAJOR_EVENT_KEYWORDS,
+    )
+
+    # امتیاز
+    score = 0
+
+    # خبر مستقیم بازار امتیاز بالایی می‌گیرد
+    score += total_market_matches * 3
+
+    # عوامل اقتصادی امتیاز می‌دهند
+    score += len(driver_matches) * 2
+
+    # رویدادهای مهم ژئوپلیتیک
+    score += len(major_event_matches) * 2
+
+    # قوانین ورود به فیلتر
+    include = False
+
+    # 1) خبر مستقیم طلا/ارز/بورس
+    if total_market_matches >= 1:
+        include = True
+
+    # 2) حداقل دو عامل اقتصادی مستقل
+    elif len(driver_matches) >= 2:
+        include = True
+
+    # 3) رویداد مهم + عامل اقتصادی
+    elif (
+        len(major_event_matches) >= 1
+        and len(driver_matches) >= 1
+    ):
+        include = True
+
+    return {
+        "include": include,
+        "score": score,
+        "market_matches": market_matches,
+        "driver_matches": driver_matches,
+        "major_event_matches": major_event_matches,
+    }
 
 
 def main():
     print("===================================")
-    print("ZarinMah News Filter")
+    print("ZarinMah Market News Filter")
     print("===================================")
 
     news = load_news()
 
-    filtered_news = [
-        item
-        for item in news
-        if is_relevant(item)
-    ]
+    filtered_news = []
+
+    for item in news:
+        analysis = analyze_news(item)
+
+        if not analysis["include"]:
+            continue
+
+        new_item = dict(item)
+
+        new_item["market_score"] = analysis["score"]
+        new_item["market_matches"] = analysis["market_matches"]
+        new_item["driver_matches"] = analysis["driver_matches"]
+        new_item["major_event_matches"] = analysis[
+            "major_event_matches"
+        ]
+
+        filtered_news.append(new_item)
+
+    # خبرهای قوی‌تر اول
+    filtered_news.sort(
+        key=lambda item: item.get(
+            "market_score",
+            0,
+        ),
+        reverse=True,
+    )
 
     save_filtered_news(filtered_news)
 
     print("Total news:", len(news))
-    print("Relevant news:", len(filtered_news))
+    print("Market-related news:", len(filtered_news))
+
+    print()
+    print("Top filtered news:")
+
+    for item in filtered_news[:10]:
+        print(
+            "-",
+            item.get("market_score"),
+            "|",
+            item.get("title"),
+        )
 
 
 if __name__ == "__main__":
