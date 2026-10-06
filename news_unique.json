@@ -436,6 +436,36 @@
     "medium_impact_matches": []
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "صعود شاخص بورس، بدون بازدهی دلاری / مورد عجیب جهانی در ایران /چه برنامه ای برای جلوگیری از مهاجرت پول اجرا شد؟",
+    "link": "https://www.khabaronline.ir/news/2284729/%D8%B5%D8%B9%D9%88%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%AF%D9%88%D9%86-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D9%88%D8%B1%D8%AF-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "summary": "این روزها، خبرهای رشد شاخص بورس از زبان مدیران مرتبط این بازار در هر رسانه ای به چشم می خورد. شادی زایدالوصف رد شدن از سکوی 7 میلیون واحدی شاخص.",
+    "published": "Tue, 06 Oct 2026 16:52:35 GMT",
+    "collected_at": "2026-10-06T20:41:30.405395+03:30",
+    "market_score": 16,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "بورس",
+        "شاخص بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [
+      "بورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "تابناک",
     "title": "خیز بورس برای فتح قله ۸ میلیونی؛ هجوم نقدینگی به بازار سرمایه",
     "link": "https://www.tabnak.ir/fa/news/1397537/خیز-بورس-برای-فتح-قله-8-میلیونی-هجوم-نقدینگی-به-بازار-سرمایه",
@@ -943,6 +973,30 @@
     "high_impact_matches": [
       "تنگه هرمز"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "پهپادهای انتحاری یمن، مواضع نیروهای وابسته به عربستان را درهم کوبیدند +فیلم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300087-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1%DB%8C-%DB%8C%D9%85%D9%86-%D9%85%D9%88%D8%A7%D8%B6%D8%B9-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D8%A8%D8%B3%D8%AA%D9%87-%D8%A8%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%B1%D8%A7-%D8%AF%D8%B1%D9%87%D9%85-%DA%A9%D9%88%D8%A8%DB%8C%D8%AF%D9%86%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "پهپادهای انتحاری یمن، مواضع نظامیان تحت امر عربستان سعودی را به آتش کشید.",
+    "published": "Tue, 06 Oct 2026 16:57:38 +0000",
+    "collected_at": "2026-10-06T20:41:27.255664+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
