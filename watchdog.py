@@ -19,6 +19,7 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 STATUS_FILE = "send_status.json"
 
 HOURLY_WORKFLOW = "hourly.yml"
+DAILY_WORKFLOW = "daily-analysis.yml"
 
 
 def github_headers():
@@ -31,8 +32,6 @@ def github_headers():
 
 def load_send_status():
     if not os.path.exists(STATUS_FILE):
-        print("send_status.json not found.")
-
         return {
             "hourly": {},
             "daily": {},
@@ -40,11 +39,7 @@ def load_send_status():
         }
 
     try:
-        with open(
-            STATUS_FILE,
-            "r",
-            encoding="utf-8",
-        ) as file:
+        with open(STATUS_FILE, "r", encoding="utf-8") as file:
             data = json.load(file)
 
         if not isinstance(data, dict):
@@ -66,39 +61,56 @@ def load_send_status():
         }
 
 
-def get_workflow_runs(workflow_file, scheduled_time):
+def get_workflow_runs(workflow_file, event=None):
     url = (
         f"https://api.github.com/repos/{REPO}"
         f"/actions/workflows/{workflow_file}/runs"
     )
 
+    params = {
+        "per_page": 50,
+    }
+
+    if event:
+        params["event"] = event
+
     response = requests.get(
         url,
         headers=github_headers(),
-        params={
-            "per_page": 50,
-            "event": "schedule",
-        },
+        params=params,
         timeout=30,
     )
 
+    print(
+        f"GitHub API status for {workflow_file}:",
+        response.status_code,
+    )
+
     if response.status_code != 200:
-        print(
-            "GitHub API error while reading workflow runs:",
-            response.status_code,
-        )
         print(response.text)
         return []
 
-    data = response.json()
+    return response.json().get(
+        "workflow_runs",
+        [],
+    )
 
-    runs = []
 
-    # اجازه می‌دهیم اجرای GitHub کمی زودتر یا دیرتر از cron ثبت شود.
+def get_scheduled_workflow_state(
+    workflow_file,
+    scheduled_time,
+):
+    runs = get_workflow_runs(
+        workflow_file,
+        event="schedule",
+    )
+
     window_start = scheduled_time - timedelta(minutes=5)
     window_end = scheduled_time + timedelta(minutes=25)
 
-    for run in data.get("workflow_runs", []):
+    matching_runs = []
+
+    for run in runs:
         created_at = run.get("created_at")
 
         if not created_at:
@@ -112,40 +124,83 @@ def get_workflow_runs(workflow_file, scheduled_time):
             continue
 
         if window_start <= created_dt <= window_end:
-            runs.append(run)
+            matching_runs.append(run)
 
-    return runs
-
-
-def workflow_status(workflow_file, scheduled_time):
-    runs = get_workflow_runs(
-        workflow_file,
-        scheduled_time,
-    )
-
-    if not runs:
+    if not matching_runs:
         return "missing"
 
-    runs.sort(
+    matching_runs.sort(
         key=lambda run: run.get("created_at", ""),
         reverse=True,
     )
 
-    run = runs[0]
+    run = matching_runs[0]
 
-    print("Found scheduled workflow run:")
+    print("Found scheduled workflow:")
     print("Run ID:", run.get("id"))
-    print("Run created:", run.get("created_at"))
-    print("Run status:", run.get("status"))
-    print("Run conclusion:", run.get("conclusion"))
+    print("Created:", run.get("created_at"))
+    print("Status:", run.get("status"))
+    print("Conclusion:", run.get("conclusion"))
 
-    status = run.get("status")
-    conclusion = run.get("conclusion")
-
-    if status != "completed":
+    if run.get("status") != "completed":
         return "running"
 
-    if conclusion == "success":
+    if run.get("conclusion") == "success":
+        return "success"
+
+    return "failed"
+
+
+def get_manual_workflow_state(
+    workflow_file,
+    target_date,
+):
+    runs = get_workflow_runs(
+        workflow_file,
+        event="workflow_dispatch",
+    )
+
+    matching_runs = []
+
+    for run in runs:
+        created_at = run.get("created_at")
+
+        if not created_at:
+            continue
+
+        try:
+            created_dt = datetime.fromisoformat(
+                created_at.replace("Z", "+00:00")
+            )
+            created_tehran = created_dt.astimezone(
+                TEHRAN_TZ
+            )
+        except Exception:
+            continue
+
+        if created_tehran.date() == target_date.date():
+            matching_runs.append(run)
+
+    if not matching_runs:
+        return "missing"
+
+    matching_runs.sort(
+        key=lambda run: run.get("created_at", ""),
+        reverse=True,
+    )
+
+    run = matching_runs[0]
+
+    print("Found daily workflow:")
+    print("Run ID:", run.get("id"))
+    print("Created:", run.get("created_at"))
+    print("Status:", run.get("status"))
+    print("Conclusion:", run.get("conclusion"))
+
+    if run.get("status") != "completed":
+        return "running"
+
+    if run.get("conclusion") == "success":
         return "success"
 
     return "failed"
@@ -161,6 +216,7 @@ def trigger_workflow(workflow_file):
         "ref": "main"
     }
 
+    print()
     print("Triggering GitHub workflow...")
     print("Workflow:", workflow_file)
     print("Repository:", REPO)
@@ -178,7 +234,9 @@ def trigger_workflow(workflow_file):
     )
 
     if response.status_code == 204:
-        print("GitHub workflow triggered successfully.")
+        print(
+            "GitHub workflow triggered successfully."
+        )
         return True
 
     print("GitHub trigger failed.")
@@ -188,25 +246,6 @@ def trigger_workflow(workflow_file):
 
 
 def check_hourly(now, status):
-    """
-    Scheduled hourly workflow:
-    every hour at minute 17.
-
-    Watchdog runs every 10 minutes.
-
-    Before minute 27:
-        check the previous hour.
-
-    From minute 27 onward:
-        check the current hour.
-
-    Example:
-        19:20 -> check 18:17
-        19:30 -> check 19:17
-        19:40 -> check 19:17
-        19:50 -> check 19:17
-    """
-
     if now.minute >= 27:
         target_time = now.replace(
             minute=17,
@@ -231,15 +270,15 @@ def check_hourly(now, status):
     print("Target slot:", scheduled_slot)
     print(
         "Expected scheduled time:",
-        target_time.strftime("%Y-%m-%d %H:%M:%S %z"),
+        target_time.strftime(
+            "%Y-%m-%d %H:%M:%S %z"
+        ),
     )
 
-    hourly_status = status.get(
+    sent_slot = status.get(
         "hourly",
         {},
-    )
-
-    sent_slot = hourly_status.get("slot")
+    ).get("slot")
 
     if sent_slot == scheduled_slot:
         print(
@@ -259,12 +298,11 @@ def check_hourly(now, status):
 
     if attempted_slot == scheduled_slot:
         print(
-            "Watchdog already triggered this slot."
+            "Watchdog already triggered this hourly slot."
         )
-        print("No second trigger will be performed.")
         return
 
-    workflow_state = workflow_status(
+    workflow_state = get_scheduled_workflow_state(
         HOURLY_WORKFLOW,
         target_time,
     )
@@ -276,33 +314,18 @@ def check_hourly(now, status):
 
     if workflow_state == "success":
         print(
-            "Scheduled GitHub Actions run completed successfully."
-        )
-        print(
-            "No retry will be performed."
+            "Scheduled hourly workflow completed successfully."
         )
         return
 
     if workflow_state == "running":
         print(
-            "Scheduled GitHub Actions run is still running."
-        )
-        print(
-            "No retry will be performed."
+            "Scheduled hourly workflow is still running."
         )
         return
 
-    if workflow_state == "failed":
-        print(
-            "Scheduled GitHub Actions run failed."
-        )
-    else:
-        print(
-            "No scheduled GitHub Actions run found for the target period."
-        )
-
     print(
-        "Starting GitHub workflow retry..."
+        "Scheduled hourly workflow was not confirmed."
     )
 
     success = trigger_workflow(
@@ -315,11 +338,105 @@ def check_hourly(now, status):
         ] = scheduled_slot
 
         print(
-            "Hourly GitHub retry triggered successfully."
+            "Hourly workflow retry triggered successfully."
         )
-    else:
+
+
+def check_daily(now, status):
+    """
+    Daily analysis should normally be completed
+    after the daily analysis window.
+
+    Watchdog checks it between 12:00 and 12:29 Tehran time.
+    """
+
+    if not (
+        now.hour == 12
+        and now.minute <= 29
+    ):
+        return
+
+    target_date = now.replace(
+        hour=11,
+        minute=45,
+        second=0,
+        microsecond=0,
+    )
+
+    today = now.strftime(
+        "%Y-%m-%d"
+    )
+
+    print()
+    print("Checking daily market analysis...")
+    print("Target date:", today)
+
+    daily_status = status.get(
+        "daily",
+        {},
+    )
+
+    sent_date = daily_status.get("slot")
+
+    if sent_date == today:
         print(
-            "Hourly GitHub retry could not be triggered."
+            "Daily analysis was already sent according to send_status.json."
+        )
+        print("No retry needed.")
+        return
+
+    watchdog_status = status.setdefault(
+        "watchdog",
+        {},
+    )
+
+    attempted_date = watchdog_status.get(
+        "daily_trigger_date"
+    )
+
+    if attempted_date == today:
+        print(
+            "Watchdog already triggered daily analysis today."
+        )
+        return
+
+    workflow_state = get_manual_workflow_state(
+        DAILY_WORKFLOW,
+        target_date,
+    )
+
+    print(
+        "Daily workflow state:",
+        workflow_state,
+    )
+
+    if workflow_state == "success":
+        print(
+            "Daily analysis workflow completed successfully."
+        )
+        return
+
+    if workflow_state == "running":
+        print(
+            "Daily analysis workflow is still running."
+        )
+        return
+
+    print(
+        "Daily analysis workflow was not confirmed."
+    )
+
+    success = trigger_workflow(
+        DAILY_WORKFLOW
+    )
+
+    if success:
+        watchdog_status[
+            "daily_trigger_date"
+        ] = today
+
+        print(
+            "Daily analysis workflow triggered successfully."
         )
 
 
@@ -337,18 +454,13 @@ def main():
     print(
         "==================================="
     )
-
-    print(
-        "ZarinMah Watchdog"
-    )
-
+    print("ZarinMah Watchdog")
     print(
         "Tehran time:",
         now.strftime(
             "%Y-%m-%d %H:%M:%S"
         ),
     )
-
     print(
         "==================================="
     )
@@ -356,7 +468,6 @@ def main():
     status = load_send_status()
 
     print("Current send status:")
-
     print(
         json.dumps(
             status,
@@ -366,6 +477,11 @@ def main():
     )
 
     check_hourly(
+        now,
+        status,
+    )
+
+    check_daily(
         now,
         status,
     )
