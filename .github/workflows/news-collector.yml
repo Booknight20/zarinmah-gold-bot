@@ -10,6 +10,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: zarinmah-news-collector
+  cancel-in-progress: false
+
 jobs:
   collect-news:
     runs-on: ubuntu-latest
@@ -17,6 +21,8 @@ jobs:
     steps:
       - name: Get repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -44,11 +50,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add news_items.json news_filtered.json news_ranked.json
+          git add news_items.json
+          git add news_filtered.json
+          git add news_ranked.json
 
           if git diff --cached --quiet; then
             echo "No new news."
-          else
-            git commit -m "Update news data"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update news data"
+
+          git pull --rebase origin main
+
+          git push origin main
