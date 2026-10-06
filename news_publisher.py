@@ -10,6 +10,8 @@ PUBLISHED_FILE = "news_published.json"
 
 CHANNEL = "@ZarinMahGold"
 
+MAX_NEWS_PER_RUN = 2
+
 TELEGRAM_BOT_TOKEN = os.environ.get(
     "TELEGRAM_BOT_TOKEN"
 )
@@ -34,7 +36,6 @@ def load_json_file(filename, default):
             f"Could not load {filename}:",
             error,
         )
-
         return default
 
 
@@ -53,11 +54,6 @@ def save_json_file(filename, data):
 
 
 def create_news_id(item):
-    """
-    شناسه پایدار برای جلوگیری از انتشار دوباره.
-    اول لینک و در صورت نبود لینک، عنوان استفاده می‌شود.
-    """
-
     link = str(
         item.get("link", "")
     ).strip()
@@ -69,9 +65,7 @@ def create_news_id(item):
     base = link or title
 
     return hashlib.sha256(
-        base.encode(
-            "utf-8"
-        )
+        base.encode("utf-8")
     ).hexdigest()
 
 
@@ -137,6 +131,14 @@ def send_to_telegram(message):
     return response.json()
 
 
+def get_sort_value(item):
+    return (
+        item.get("published")
+        or item.get("collected_at")
+        or ""
+    )
+
+
 def main():
     print("===================================")
     print("ZarinMah News Publisher")
@@ -164,16 +166,16 @@ def main():
     ):
         published = {}
 
-    print(
-        "Ready news:",
-        len(news),
-    )
-
     high_priority_news = [
         item
         for item in news
         if item.get("priority") == "high"
     ]
+
+    high_priority_news.sort(
+        key=get_sort_value,
+        reverse=True,
+    )
 
     print(
         "High priority news:",
@@ -181,13 +183,18 @@ def main():
     )
 
     sent_count = 0
-    skipped_count = 0
 
     for item in high_priority_news:
+
+        if sent_count >= MAX_NEWS_PER_RUN:
+            print(
+                "Maximum news per run reached."
+            )
+            break
+
         news_id = create_news_id(item)
 
         if news_id in published:
-            skipped_count += 1
             continue
 
         message = build_message(item)
@@ -226,11 +233,9 @@ def main():
                 "link",
                 "",
             ),
-            "published_at": (
-                item.get(
-                    "collected_at",
-                    "",
-                )
+            "published_at": item.get(
+                "collected_at",
+                "",
             ),
             "telegram_message_id": (
                 telegram_result.get(
@@ -254,12 +259,8 @@ def main():
     print("Publishing finished")
     print("===================================")
     print(
-        "Published:",
+        "Published this run:",
         sent_count,
-    )
-    print(
-        "Already published:",
-        skipped_count,
     )
 
 
