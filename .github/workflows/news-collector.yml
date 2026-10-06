@@ -49,6 +49,10 @@ jobs:
         run: |
           python news_deduper.py
 
+      - name: Format news
+        run: |
+          python news_formatter.py
+
       - name: Save news data
         run: |
           git config user.name "github-actions[bot]"
@@ -58,6 +62,7 @@ jobs:
           git add news_filtered.json
           git add news_ranked.json
           git add news_unique.json
+          git add news_ready.json
 
           if git diff --cached --quiet; then
             echo "No news data changes."
