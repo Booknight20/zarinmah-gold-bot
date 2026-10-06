@@ -53,11 +53,21 @@ jobs:
         run: |
           python news_formatter.py
 
+      - name: Collect analyst posts
+        run: |
+          python analyst_bot.py
+
       - name: Publish important news
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: |
           python news_publisher.py
+
+      - name: Publish analyst summaries
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          python analyst_publisher.py
 
       - name: Save news data
         run: |
@@ -70,13 +80,16 @@ jobs:
           git add news_unique.json
           git add news_ready.json
           git add news_published.json
+          git add analyst_ready.json
+          git add analyst_seen.json
+          git add analyst_published.json
 
           if git diff --cached --quiet; then
             echo "No news data changes."
             exit 0
           fi
 
-          git commit -m "Update news data"
+          git commit -m "Update news and analyst data"
 
           git pull --rebase origin main
 
