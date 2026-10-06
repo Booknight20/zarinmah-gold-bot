@@ -6,22 +6,68 @@ NEWS_FILE = "news_items.json"
 FILTERED_FILE = "news_filtered.json"
 
 
-KEYWORDS = [
+STRONG_KEYWORDS = [
+    # طلا
     "طلا",
+    "طلای جهانی",
+    "اونس طلا",
+    "اونس جهانی",
+    "طلای آبشده",
+    "آبشده",
+    "مثقال طلا",
+
+    # سکه
     "سکه",
+    "سکه امامی",
+    "بهار آزادی",
+    "نیم سکه",
+    "ربع سکه",
+
+    # ارز
     "دلار",
-    "ارز",
-    "اونس",
+    "دلار آزاد",
+    "دلار آمریکا",
+    "یورو",
+    "پوند",
+    "درهم",
+    "لیر",
+    "ریال",
+
+    # بانک مرکزی و سیاست پولی
     "بانک مرکزی",
     "نرخ بهره",
-    "تورم",
-    "اقتصاد",
-    "بورس",
-    "بازار",
-    "نفت",
+    "سیاست پولی",
+    "نقدینگی",
+    "پایه پولی",
+
+    # عوامل مهم جهانی
     "فدرال رزرو",
+    "FED",
+    "تورم آمریکا",
+    "شاخص قیمت مصرف کننده",
+    "CPI",
+    "PCE",
+    "اشتغال آمریکا",
+    "بازده اوراق",
+    "اوراق خزانه آمریکا",
+
+    # عوامل مهم داخلی
+    "مرکز مبادله",
+    "حراج سکه",
+    "عرضه سکه",
+    "ذخایر ارزی",
+    "نرخ ارز",
+    "بازار ارز",
+]
+
+
+SECONDARY_KEYWORDS = [
+    "تورم",
     "تحریم",
-    "برجام",
+    "صادرات نفت",
+    "قیمت نفت",
+    "نفت",
+    "بورس",
 ]
 
 
@@ -59,12 +105,29 @@ def save_filtered_news(news):
 
 
 def is_relevant(item):
-    title = item.get("title", "")
+    title = item.get("title", "").strip()
 
-    return any(
-        keyword in title
-        for keyword in KEYWORDS
-    )
+    if not title:
+        return False
+
+    title_lower = title.lower()
+
+    strong_matches = [
+        keyword.lower()
+        for keyword in STRONG_KEYWORDS
+        if keyword.lower() in title_lower
+    ]
+
+    if strong_matches:
+        return True
+
+    secondary_matches = [
+        keyword.lower()
+        for keyword in SECONDARY_KEYWORDS
+        if keyword.lower() in title_lower
+    ]
+
+    return len(secondary_matches) >= 2
 
 
 def main():
