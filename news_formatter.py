@@ -66,10 +66,68 @@ def clean_text(text):
     return text.strip()
 
 
+def remove_source_opening(text):
+    """
+    حذف عبارت‌های معرفی منبع از ابتدای خلاصه،
+    بدون حذف محتوای اصلی خبر.
+    """
+
+    text = clean_text(text)
+
+    patterns = [
+        r"^طبق اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
+        r"^بر اساس اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
+        r"^براساس اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
+        r"^به گزارش(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
+        r"^بنابر اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
+        r"^برپایه اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
+        r"^بر مبنای اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
+        r"^طبق گزارش(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
+        r"^به نقل از(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
+    ]
+
+    previous = None
+
+    while previous != text:
+        previous = text
+
+        for pattern in patterns:
+            text = re.sub(
+                pattern,
+                "",
+                text,
+                flags=re.IGNORECASE,
+            ).strip()
+
+    return text
+
+
+def remove_redundant_phrases(text):
+    """
+    حذف چند عبارت خبری رایج که ارزش محتوایی ندارند.
+    """
+
+    patterns = [
+        r"^این خبر می‌افزاید[،:؛]\s*",
+        r"^این خبر می‌گوید[،:؛]\s*",
+        r"^در همین حال[،:؛]\s*",
+        r"^همچنین[،:؛]\s*",
+    ]
+
+    for pattern in patterns:
+        text = re.sub(
+            pattern,
+            "",
+            text,
+            flags=re.IGNORECASE,
+        ).strip()
+
+    return text
+
+
 def remove_date_and_time(title):
     title = clean_text(title)
 
-    # حذف تاریخ‌های شمسی با اعداد فارسی یا لاتین
     title = re.sub(
         r"\b(?:[۰-۹0-9]{1,2})\s+"
         r"(?:فروردین|اردیبهشت|خرداد|تیر|مرداد|شهریور|"
@@ -79,17 +137,16 @@ def remove_date_and_time(title):
         title,
     )
 
-    # حذف تاریخ‌های عددی
     title = re.sub(
         r"\b[۰-۹0-9]{1,2}[/-][۰-۹0-9]{1,2}[/-][۰-۹0-9]{2,4}\b",
         "",
         title,
     )
 
-    # حذف کلمات زمانی رایج
     title = re.sub(
         r"\b(?:امروز|دیروز|فردا|"
-        r"دوشنبه|سه شنبه|چهارشنبه|پنجشنبه|جمعه|شنبه|یکشنبه)\b",
+        r"دوشنبه|سه شنبه|سه‌شنبه|چهارشنبه|"
+        r"پنجشنبه|جمعه|شنبه|یکشنبه)\b",
         "",
         title,
         flags=re.IGNORECASE,
@@ -122,7 +179,6 @@ def build_short_title(title):
         "؛ ",
     )
 
-    # برای تیترهای قیمتی رایج
     if (
         "دلار" in title
         and "طلا" in title
@@ -137,13 +193,13 @@ def build_short_title(title):
         "طلا" in title
         and "سکه" in title
     ):
-        return (
-            "طلا و سکه؛ "
-            + title[:70]
-        ).strip()
+        if len(title) > 85:
+            title = title[:82].rstrip() + "..."
 
-    if len(title) > 80:
-        title = title[:77].rstrip() + "..."
+        return title
+
+    if len(title) > 90:
+        title = title[:87].rstrip() + "..."
 
     return title
 
@@ -154,7 +210,6 @@ def split_sentences(text):
     if not text:
         return []
 
-    # جدا کردن جمله با نقطه، علامت سؤال و نقطه‌ویرگول فارسی
     parts = re.split(
         r"(?<=[.!؟؛])\s+",
         text,
@@ -176,30 +231,42 @@ def build_summary(summary):
             "خبر موجود است."
         )
 
+    summary = remove_source_opening(
+        summary
+    )
+
+    summary = remove_redundant_phrases(
+        summary
+    )
+
     sentences = split_sentences(
         summary
     )
 
-    # اگر متن یک جمله دارد، در محل نقطه‌ویرگول تقسیمش می‌کنیم
-    if len(sentences) == 1 and "؛" in summary:
-        parts = [
+    # اگر خلاصه یک جمله طولانی باشد،
+    # از نقطه‌ویرگول برای تقسیم آن استفاده می‌کنیم.
+    if len(sentences) == 1:
+        semicolon_parts = [
             part.strip()
             for part in summary.split("؛")
             if part.strip()
         ]
 
-        if len(parts) >= 2:
-            sentences = parts
+        if len(semicolon_parts) >= 2:
+            sentences = semicolon_parts
 
     selected = sentences[:3]
+
+    if not selected:
+        selected = [
+            summary
+        ]
 
     result = "\n".join(
         selected
     ).strip()
 
-    if not result:
-        result = summary
-
+    # جلوگیری از طولانی شدن بیش از حد متن
     if len(result) > 450:
         result = (
             result[:447].rstrip()
