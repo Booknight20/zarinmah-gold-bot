@@ -2,11 +2,9 @@ name: ZarinMah Scheduled Bot
 
 on:
   schedule:
-    # انتشار قیمت هر ساعت در دقیقه 17
     - cron: "17 * * * *"
       timezone: "Asia/Tehran"
 
-    # تحلیل روزانه ساعت 11:45 تهران
     - cron: "45 11 * * *"
       timezone: "Asia/Tehran"
 
@@ -15,92 +13,85 @@ on:
 permissions:
   contents: write
 
+
 jobs:
 
   # =====================================================
-  # ربات قیمت ساعتی
+  # قیمت ساعتی
   # =====================================================
 
   hourly-price:
+    name: Hourly Gold Price
+
     if: >
       github.event_name == 'workflow_dispatch' ||
-      github.event.schedule == '17 * * * *'
+      (
+        github.event_name == 'schedule' &&
+        github.event.schedule == '17 * * * *'
+      )
 
     runs-on: ubuntu-latest
 
     steps:
 
-      # -------------------------------------------------
-      # دریافت Repository
-      # -------------------------------------------------
+      # ---------------------------------------------------
+      # Checkout
+      # ---------------------------------------------------
 
-      - name: Get repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # -------------------------------------------------
+      # ---------------------------------------------------
       # Python
-      # -------------------------------------------------
+      # ---------------------------------------------------
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # -------------------------------------------------
-      # Dependencies
-      # -------------------------------------------------
+      # ---------------------------------------------------
+      # نصب کتابخانه‌ها
+      # ---------------------------------------------------
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests beautifulsoup4
 
-      # -------------------------------------------------
-      # بررسی ساعت انتشار
-      #
-      # 09:00 تا 21:59 = فعال
-      # 22:00 تا 08:59 = خاموش
-      # -------------------------------------------------
+      # ---------------------------------------------------
+      # بررسی ساعت تهران
+      # ---------------------------------------------------
 
-      - name: Check price publishing window
+      - name: Check Tehran time
         run: |
-          CURRENT_HOUR=$(TZ=Asia/Tehran date +%H)
-
           echo "================================="
-          echo "Tehran hour: $CURRENT_HOUR"
+          echo "Tehran time:"
+          TZ=Asia/Tehran date
           echo "================================="
 
-          if [ "$CURRENT_HOUR" -lt 9 ] || [ "$CURRENT_HOUR" -ge 22 ]; then
-            echo "Price publishing is disabled between 22:00 and 08:59 Tehran time."
-            exit 0
-          fi
-
-          echo "Price publishing window is active."
-
-      # -------------------------------------------------
+      # ---------------------------------------------------
       # اجرای ربات قیمت
-      # -------------------------------------------------
+      # ---------------------------------------------------
 
-      - name: Run hourly price bot
+      - name: Run price bot
         env:
+          # Telegram
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+
+          # Eitaa
+          EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
+          EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
+
+          # اجرای زمان‌بندی‌شده
           SCHEDULED_RUN: "true"
+
+          # لاگ کامل Python
           PYTHONUNBUFFERED: "1"
+
         run: |
-          CURRENT_HOUR=$(TZ=Asia/Tehran date +%H)
-
-          echo "================================="
-          echo "Starting ZarinMah price bot"
-          echo "Tehran hour: $CURRENT_HOUR"
-          echo "================================="
-
-          if [ "$CURRENT_HOUR" -lt 9 ] || [ "$CURRENT_HOUR" -ge 22 ]; then
-            echo "Price publishing is disabled."
-            exit 0
-          fi
-
           set +e
 
           python -u bot.py 2>&1 | tee bot_output.log
@@ -113,9 +104,9 @@ jobs:
 
           exit $BOT_EXIT_CODE
 
-      # -------------------------------------------------
-      # نمایش لاگ ربات برای اطمینان
-      # -------------------------------------------------
+      # ---------------------------------------------------
+      # نمایش لاگ ربات
+      # ---------------------------------------------------
 
       - name: Show price bot log
         if: always()
@@ -127,31 +118,33 @@ jobs:
           if [ -f bot_output.log ]; then
             cat bot_output.log
           else
-            echo "bot_output.log was not created."
+            echo "bot_output.log not found"
           fi
 
-      # -------------------------------------------------
-      # ذخیره وضعیت و قیمت‌های قبلی
-      # -------------------------------------------------
+          echo "================================="
 
-      - name: Save send status and previous prices
-        if: success()
+      # ---------------------------------------------------
+      # ذخیره وضعیت قیمت
+      # ---------------------------------------------------
+
+      - name: Save price state
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add previous_prices.json
-          git add send_status.json
+          git add previous_prices.json send_status.json || true
 
           if git diff --cached --quiet; then
-            echo "No changes to save."
-          else
-            git commit -m "Update price bot status"
-
-            git pull --rebase origin main
-
-            git push origin main
+            echo "No state changes to commit."
+            exit 0
           fi
+
+          git commit -m "Update price bot state"
+
+          git pull --rebase origin main
+
+          git push origin HEAD:main
 
 
   # =====================================================
@@ -159,80 +152,79 @@ jobs:
   # =====================================================
 
   daily-analysis:
+    name: Daily Market Analysis
+
     if: >
-      github.event_name == 'schedule' &&
-      github.event.schedule == '45 11 * * *'
+      github.event_name == 'workflow_dispatch' ||
+      (
+        github.event_name == 'schedule' &&
+        github.event.schedule == '45 11 * * *'
+      )
 
     runs-on: ubuntu-latest
 
     steps:
 
-      # -------------------------------------------------
-      # دریافت Repository
-      # -------------------------------------------------
+      # ---------------------------------------------------
+      # Checkout
+      # ---------------------------------------------------
 
-      - name: Get repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # -------------------------------------------------
+      # ---------------------------------------------------
       # Python
-      # -------------------------------------------------
+      # ---------------------------------------------------
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # -------------------------------------------------
-      # Dependencies
-      # -------------------------------------------------
+      # ---------------------------------------------------
+      # نصب کتابخانه‌ها
+      # ---------------------------------------------------
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests beautifulsoup4
 
-      # -------------------------------------------------
+      # ---------------------------------------------------
       # اجرای تحلیل روزانه
-      # -------------------------------------------------
+      # ---------------------------------------------------
 
       - name: Run daily analysis
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          SCHEDULED_RUN: "true"
-          PYTHONUNBUFFERED: "1"
-        run: |
-          echo "================================="
-          echo "Starting daily market analysis"
-          echo "================================="
 
+          EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
+          EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
+
+        run: |
           python -u daily_analysis.py
 
-      # -------------------------------------------------
-      # ذخیره وضعیت تحلیل روزانه
-      # -------------------------------------------------
+      # ---------------------------------------------------
+      # ذخیره وضعیت
+      # ---------------------------------------------------
 
-      - name: Save daily send status
-        if: success()
+      - name: Save daily analysis state
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if [ -f send_status.json ]; then
-            git add send_status.json
-          else
-            echo "No send_status.json file to save."
+          git add send_status.json || true
+
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
             exit 0
           fi
 
-          if git diff --cached --quiet; then
-            echo "No changes to save."
-          else
-            git commit -m "Update daily analysis status"
+          git commit -m "Update daily analysis state"
 
-            git pull --rebase origin main
+          git pull --rebase origin main
 
-            git push origin main
-          fi
+          git push origin HEAD:main
