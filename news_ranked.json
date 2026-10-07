@@ -100,38 +100,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مشرق",
-    "title": "سیاست اصلی بانک مرکزی کنترل تورم است/ تامین حدود ۲۵ میلیارد دلار ارز واردات/ ترامپ دنبال ابرتورم برای ایران بود/ برای همه سناریوها برنامه داریم",
-    "link": "https://www.mashreghnews.ir/news/1844102/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%A7%D8%B5%D9%84%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%AA%D9%88%D8%B1%D9%85-%D8%A7%D8%B3%D8%AA-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%AD%D8%AF%D9%88%D8%AF-%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "همتی گفت: التهابات ارزی هم به تورم کمک می کند ولی ما برای آن هم حتما برنامه دارد؛ شتاب تورم گرفته شده است.",
-    "published": "Tue, 06 Oct 2026 18:58:00 GMT",
-    "collected_at": "2026-10-06T23:12:02.085134+03:30",
-    "market_score": 27,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "بانک مرکزی",
-      "تورم"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی",
-      "تورم"
-    ],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "انتقاد تند حاجی دلیگانی از گرانی ها / مگر از قیمت دلار خبر ندارید؟ / نرخ ارز چگونه قیمت همه چیز را تعیین می کند؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300142-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D8%AA%D9%86%D8%AF-%D8%AD%D8%A7%D8%AC%DB%8C-%D8%AF%D9%84%DB%8C%DA%AF%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D9%85%DA%AF%D8%B1-%D8%A7%D8%B2-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AE%D8%A8%D8%B1-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D8%AF-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D9%85%D9%87-%DA%86%DB%8C%D8%B2-%D8%B1%D8%A7-%D8%AA%D8%B9%DB%8C%DB%8C%D9%86-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
@@ -1515,31 +1483,6 @@
     ]
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "علت کاهش رشد نقدینگی از زبان رئیس کل بانک مرکزی +فیلم",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300172-%D8%B9%D9%84%D8%AA-%DA%A9%D8%A7%D9%87%D8%B4-%D8%B1%D8%B4%D8%AF-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%A7%D8%B2-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B1%D8%A6%DB%8C%D8%B3-%DA%A9%D9%84-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
-    "summary": "رئیس بانک مرکزی درباره علت کاهش نقدینگی گفت: به این دلیل بود که اجازه نمی دهیم خارج از دستورالعمل کاری انجام شود.",
-    "published": "Tue, 06 Oct 2026 20:00:04 +0000",
-    "collected_at": "2026-10-06T23:42:04.914626+03:30",
-    "market_score": 7,
-    "market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی",
-      "نقدینگی"
-    ],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": [
-      "نقدینگی"
-    ]
-  },
-  {
     "source": "تابناک",
     "title": "مردانی که رشوه 60 دلاری جاسوس موساد را رد کردند",
     "link": "https://www.tabnak.ir/fa/news/1397768/مردانی-که-رشوه-60-دلاری-جاسوس-موساد-را-رد-کردند",
@@ -1945,30 +1888,6 @@
     ],
     "stock_matches": [],
     "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "ادعای عجیب ترامپ درباره استعفای وزیر نفت ایران و تنگه هرمز",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300175-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA%D8%B9%D9%81%D8%A7%DB%8C-%D9%88%D8%B2%DB%8C%D8%B1-%D9%86%D9%81%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
-    "summary": "رئیس جمهور آمریکا ادعا کرد: وزیر نفت ایران همین الان استعفا داد و گفت: «ما هیچ اقتصادی نداریم، هیچ نفتی نداریم، هیچ چیز نداریم»",
-    "published": "Tue, 06 Oct 2026 20:09:12 +0000",
-    "collected_at": "2026-10-06T23:42:04.914597+03:30",
-    "market_score": 5,
-    "market_matches": {},
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [
-      "تنگه هرمز"
-    ],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "تنگه هرمز"
-    ],
     "medium_impact_matches": []
   },
   {
