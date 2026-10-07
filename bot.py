@@ -33,7 +33,7 @@ HEADERS = {
 
 
 # =========================================================
-# منابع رسمی TGJU
+# فقط منابع رسمی TGJU
 # =========================================================
 
 PRICE_SOURCES = {
@@ -86,64 +86,27 @@ def clean_text(value):
     if not value:
         return ""
 
-    text = html.unescape(
-        str(value)
-    )
+    text = html.unescape(str(value))
 
-    text = text.replace(
-        "\u200c",
-        " ",
-    )
+    text = text.replace("\u200c", " ")
+    text = text.replace("\u200f", " ")
+    text = text.replace("\ufeff", " ")
 
-    text = text.replace(
-        "\u200f",
-        " ",
-    )
+    text = text.replace("٬", ",")
+    text = text.replace("،", ",")
 
-    text = text.replace(
-        "\ufeff",
-        " ",
-    )
-
-    text = text.replace(
-        "٬",
-        ",",
-    )
-
-    text = text.replace(
-        "،",
-        ",",
-    )
-
-    text = re.sub(
-        r"\r\n?",
-        "\n",
-        text,
-    )
-
-    text = re.sub(
-        r"[ \t]+",
-        " ",
-        text,
-    )
-
-    text = re.sub(
-        r"\n+",
-        "\n",
-        text,
-    )
+    text = re.sub(r"\r\n?", "\n", text)
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n+", "\n", text)
 
     return text.strip()
 
 
 # =========================================================
-# تبدیل عدد به تومان
+# تبدیل عدد
 # =========================================================
 
-def parse_number(
-    value,
-    unit="toman",
-):
+def parse_number(value, unit="toman"):
     if not value:
         return None
 
@@ -151,15 +114,8 @@ def parse_number(
         clean_text(value)
     )
 
-    text = text.replace(
-        ",",
-        "",
-    )
-
-    text = text.replace(
-        " ",
-        "",
-    )
+    text = text.replace(",", "")
+    text = text.replace(" ", "")
 
     match = re.search(
         r"\d+(?:\.\d+)?",
@@ -179,13 +135,11 @@ def parse_number(
     if unit == "rial":
         number /= 10
 
-    return int(
-        round(number)
-    )
+    return int(round(number))
 
 
 # =========================================================
-# دریافت پست‌های کانال عمومی تلگرام
+# دریافت پست‌های کانال
 # =========================================================
 
 def fetch_channel_posts(
@@ -201,14 +155,10 @@ def fetch_channel_posts(
         max_pages + 1,
     ):
 
-        url = (
-            f"https://t.me/s/{channel}"
-        )
+        url = f"https://t.me/s/{channel}"
 
         if before:
-            url += (
-                f"?before={before}"
-            )
+            url += f"?before={before}"
 
         print(
             f"Reading {channel} "
@@ -239,7 +189,7 @@ def fetch_channel_posts(
 
         for wrapper in wrappers:
 
-            node = wrapper.select_one(
+            text_node = wrapper.select_one(
                 "div.tgme_widget_message_text"
             )
 
@@ -247,11 +197,11 @@ def fetch_channel_posts(
                 "a.tgme_widget_message_date"
             )
 
-            if not node or not date_node:
+            if not text_node or not date_node:
                 continue
 
             text = clean_text(
-                node.get_text(
+                text_node.get_text(
                     "\n",
                     strip=True,
                 )
@@ -262,11 +212,13 @@ def fetch_channel_posts(
                 "",
             )
 
-            if (
-                not text
-                or not link
-                or link in seen
-            ):
+            if not text:
+                continue
+
+            if not link:
+                continue
+
+            if link in seen:
                 continue
 
             seen.add(link)
@@ -301,14 +253,13 @@ def fetch_channel_posts(
 
             if match:
                 ids.append(
-                    int(
-                        match.group(1)
-                    )
+                    int(match.group(1))
                 )
 
         if not ids:
             break
 
+        # برای رفتن به پست‌های قدیمی‌تر
         next_before = str(
             min(ids)
         )
@@ -327,7 +278,7 @@ def fetch_channel_posts(
 
 
 # =========================================================
-# استخراج قیمت بعد از یک برچسب
+# استخراج اولین قیمت بعد از برچسب
 # =========================================================
 
 def first_price_after(
@@ -383,14 +334,13 @@ def first_price_after(
 
 
 # =========================================================
-# پارسر کانال TGJU طلا
+# TGJU طلا
 # =========================================================
 
-def parse_gold_post(
-    text,
-):
+def parse_gold_post(text):
+
     patterns = [
-        r"طلای\s*(?:18|۱۸)\s*عیار\s*(?:هر\s*گرم)?",
+        r"طلای\s*(?:18|۱۸)\s*عیار",
         r"هر\s*گرم\s*طلای\s*(?:18|۱۸)\s*عیار",
         r"گرم\s*طلای\s*(?:18|۱۸)\s*عیار",
     ]
@@ -410,41 +360,21 @@ def parse_gold_post(
                 "gold18": value
             }
 
-    for line in clean_text(
-        text
-    ).splitlines():
-
-        for pattern in patterns:
-
-            value = first_price_after(
-                line,
-                pattern,
-                100_000,
-                500_000_000,
-                "rial",
-            )
-
-            if value:
-                return {
-                    "gold18": value
-                }
-
     return {}
 
 
 # =========================================================
-# پارسر کانال TGJU ارز
+# TGJU ارز
 # =========================================================
 
-def parse_currency_post(
-    text,
-):
+def parse_currency_post(text):
+
     text = normalize_digits(
         clean_text(text)
     )
 
-    # فقط نرخ اصلی #قیمت_دلار
-    # نه توافقی، هرات، سلیمانیه و دولتی
+    # فقط بخش اصلی #قیمت_دلار
+    # نه توافقی، هرات، سلیمانیه و غیره
 
     section_match = re.search(
         r"#قیمت[_\s]*دلار\b"
@@ -488,12 +418,11 @@ def parse_currency_post(
 
 
 # =========================================================
-# پارسر کانال TGJU سکه
+# TGJU سکه
 # =========================================================
 
-def parse_coin_post(
-    text,
-):
+def parse_coin_post(text):
+
     text = normalize_digits(
         clean_text(text)
     )
@@ -548,24 +477,6 @@ def parse_coin_post(
         )
 
         if not match:
-
-            label = {
-                "coin": r"سکه\s*امامی",
-                "half": r"نیم\s*سکه",
-                "quarter": r"ربع\s*سکه",
-            }[asset]
-
-            value = first_price_after(
-                text,
-                label,
-                ranges[asset][0],
-                ranges[asset][1],
-                "rial",
-            )
-
-            if value:
-                result[asset] = value
-
             continue
 
         value = parse_number(
@@ -573,11 +484,13 @@ def parse_coin_post(
             "rial",
         )
 
+        minimum, maximum = ranges[
+            asset
+        ]
+
         if (
             value
-            and ranges[asset][0]
-            <= value
-            <= ranges[asset][1]
+            and minimum <= value <= maximum
         ):
             result[asset] = value
 
@@ -586,11 +499,13 @@ def parse_coin_post(
 
 # =========================================================
 # دریافت آخرین قیمت از هر کانال
+# مهم: از جدیدترین پست به قدیمی‌ترین
 # =========================================================
 
 def get_latest_parsed(
     channel_key,
 ):
+
     config = PRICE_SOURCES[
         channel_key
     ]
@@ -609,36 +524,44 @@ def get_latest_parsed(
 
     latest = {}
 
+    # -----------------------------------------------------
+    # نکته اصلی:
+    # Telegram HTML می‌تواند پست‌ها را قدیمی -> جدید برگرداند.
+    # بنابراین عمداً reversed می‌کنیم.
+    # -----------------------------------------------------
+
     for index, post in enumerate(
-        posts
+        reversed(posts),
+        start=1,
     ):
 
         parsed = parser(
             post["text"]
         )
 
-        if parsed:
+        if not parsed:
+            continue
 
-            print(
-                f"{config['name']} "
-                f"parsed post #{index + 1}:",
-                parsed,
-            )
+        print(
+            f"{config['name']} "
+            f"latest candidate #{index}:",
+            parsed,
+        )
 
         for asset, price in (
             parsed.items()
         ):
 
-            if asset in latest:
-                continue
+            if asset not in latest:
 
-            latest[asset] = {
-                "price": price,
-                "link": post["link"],
-            }
+                latest[asset] = {
+                    "price": price,
+                    "link": post["link"],
+                }
 
-        # وقتی قیمت مورد نیاز پیدا شد،
-        # پست‌های قدیمی‌تر لازم نیست.
+        # -------------------------------------------------
+        # وقتی قیمت مورد نیاز پیدا شد، توقف
+        # -------------------------------------------------
 
         if (
             channel_key == "gold"
@@ -666,7 +589,8 @@ def get_latest_parsed(
             break
 
     print(
-        "Parsed prices:"
+        f"{config['name']} "
+        "latest parsed prices:"
     )
 
     print(
@@ -681,58 +605,56 @@ def get_latest_parsed(
 
 
 # =========================================================
-# دریافت قیمت‌های رسمی TGJU
+# دریافت قیمت رسمی
 # =========================================================
 
-def get_verified_prices():
+def get_official_prices():
 
     prices = {}
 
     # -----------------------------------------------------
-    # طلا
+    # طلای ۱۸
     # -----------------------------------------------------
 
-    gold_source = get_latest_parsed(
+    gold = get_latest_parsed(
         "gold"
     )
 
-    if "gold18" not in gold_source:
+    if "gold18" not in gold:
 
         raise RuntimeError(
             "قیمت طلای ۱۸ عیار "
-            "از کانال رسمی TGJU پیدا نشد."
+            "در آخرین پست‌های TGJU پیدا نشد."
         )
 
     prices["gold18"] = (
-        gold_source["gold18"]["price"]
+        gold["gold18"]["price"]
     )
 
     # -----------------------------------------------------
     # دلار
     # -----------------------------------------------------
 
-    currency_source = (
-        get_latest_parsed(
-            "currency"
-        )
+    currency = get_latest_parsed(
+        "currency"
     )
 
-    if "dollar" not in currency_source:
+    if "dollar" not in currency:
 
         raise RuntimeError(
             "قیمت دلار اصلی "
-            "از کانال رسمی TGJU پیدا نشد."
+            "در آخرین پست‌های TGJU پیدا نشد."
         )
 
     prices["dollar"] = (
-        currency_source["dollar"]["price"]
+        currency["dollar"]["price"]
     )
 
     # -----------------------------------------------------
-    # سکه‌ها
+    # سکه
     # -----------------------------------------------------
 
-    coin_source = get_latest_parsed(
+    coin = get_latest_parsed(
         "coin"
     )
 
@@ -742,19 +664,23 @@ def get_verified_prices():
         "quarter",
     ):
 
-        if asset not in coin_source:
+        if asset not in coin:
 
             raise RuntimeError(
                 f"قیمت {asset} "
-                "از کانال رسمی TGJU پیدا نشد."
+                "در آخرین پست‌های TGJU پیدا نشد."
             )
 
         prices[asset] = (
-            coin_source[asset]["price"]
+            coin[asset]["price"]
         )
 
     print(
-        "OFFICIAL TGJU VERIFIED PRICES:"
+        "================================"
+    )
+
+    print(
+        "LATEST OFFICIAL TGJU PRICES:"
     )
 
     print(
@@ -787,9 +713,7 @@ def load_previous_prices():
             encoding="utf-8",
         ) as file:
 
-            return json.load(
-                file
-            )
+            return json.load(file)
 
     except Exception as error:
 
@@ -838,9 +762,7 @@ def load_send_status():
             encoding="utf-8",
         ) as file:
 
-            return json.load(
-                file
-            )
+            return json.load(file)
 
     except Exception as error:
 
@@ -923,16 +845,14 @@ def build_message(
 
     previous = previous or {}
 
-    update_time = (
-        datetime.now(
-            TEHRAN
-        ).strftime(
-            "%H:%M"
-        )
+    update_time = datetime.now(
+        TEHRAN
+    ).strftime(
+        "%H:%M"
     )
 
     return f"""🌙✨ زرین ماه
-💎 قیمت رسمی TGJU طلا، سکه و دلار
+💎 آخرین قیمت رسمی TGJU
 
 ━━━━━━━━━━━━━━━━━━
 
@@ -991,7 +911,7 @@ def build_message(
 
 
 # =========================================================
-# ارسال تلگرام
+# ارسال به تلگرام
 # =========================================================
 
 def send_to_telegram(
@@ -1038,8 +958,7 @@ def send_to_telegram(
     ):
 
         raise RuntimeError(
-            f"Telegram API error: "
-            f"{result}"
+            f"Telegram API error: {result}"
         )
 
 
@@ -1163,11 +1082,11 @@ def main():
     )
 
     # =====================================================
-    # دریافت قیمت رسمی TGJU
+    # آخرین قیمت رسمی TGJU
     # =====================================================
 
     prices = (
-        get_verified_prices()
+        get_official_prices()
     )
 
     # =====================================================
@@ -1226,7 +1145,7 @@ def main():
 
 
 # =========================================================
-# شروع برنامه
+# شروع
 # =========================================================
 
 if __name__ == "__main__":
