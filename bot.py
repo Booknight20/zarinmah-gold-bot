@@ -66,7 +66,7 @@ PRICE_SOURCES = {
 
 
 # =========================================================
-# دارایی‌ها
+# دارایی‌های مورد نیاز
 # =========================================================
 
 ASSETS = [
@@ -79,7 +79,7 @@ ASSETS = [
 
 
 # =========================================================
-# حداکثر اختلاف قابل قبول بین منابع
+# حداکثر اختلاف مجاز بین منابع
 # =========================================================
 
 TOLERANCES = {
@@ -133,6 +133,7 @@ def clean_text(value):
         " ",
     )
 
+    # جداکننده هزارگان فارسی/عربی
     text = text.replace(
         "٬",
         ",",
@@ -165,7 +166,30 @@ def clean_text(value):
 
 
 # =========================================================
-# تبدیل قیمت به تومان
+# نرمال‌سازی برای جستجو
+# =========================================================
+
+def normalize_for_search(text):
+    text = normalize_digits(
+        clean_text(text)
+    )
+
+    text = text.replace(
+        "‌",
+        " ",
+    )
+
+    text = re.sub(
+        r"\s+",
+        " ",
+        text,
+    )
+
+    return text.strip()
+
+
+# =========================================================
+# تبدیل عدد به تومان
 # =========================================================
 
 def parse_number(
@@ -213,30 +237,7 @@ def parse_number(
 
 
 # =========================================================
-# نرمال‌سازی برای جستجوی دقیق‌تر
-# =========================================================
-
-def normalize_for_search(text):
-    text = normalize_digits(
-        clean_text(text)
-    )
-
-    text = text.replace(
-        "‌",
-        " ",
-    )
-
-    text = re.sub(
-        r"\s+",
-        " ",
-        text,
-    )
-
-    return text.strip()
-
-
-# =========================================================
-# واکشی پست‌های کانال عمومی تلگرام
+# واکشی پست‌های عمومی تلگرام
 # =========================================================
 
 def fetch_channel_posts(
@@ -388,7 +389,146 @@ def fetch_channel_posts(
 
 
 # =========================================================
-# استخراج طلای ۱۸ عیار
+# استخراج قیمت از یک خط تومان
+# =========================================================
+
+def extract_toman_from_line(
+    line,
+    label_pattern,
+    minimum,
+    maximum,
+):
+    if not re.search(
+        label_pattern,
+        line,
+        flags=re.IGNORECASE,
+    ):
+        return None
+
+    matches = re.findall(
+        r"([\d,]+)\s*تومان",
+        line,
+        flags=re.IGNORECASE,
+    )
+
+    if not matches:
+        return None
+
+    # معمولاً اولین عدد، قیمت مورد نظر است.
+    for raw_value in matches:
+
+        price = parse_number(
+            raw_value,
+            "toman",
+        )
+
+        if (
+            price
+            and minimum <= price <= maximum
+        ):
+            return price
+
+    return None
+
+
+# =========================================================
+# استخراج قیمت طلای ۱۸ از یک خط
+# =========================================================
+
+def extract_gold18_from_line(
+    line,
+):
+    pattern = (
+        r"طلای\s*(?:18|۱۸)"
+        r"\s*عیار"
+    )
+
+    return extract_toman_from_line(
+        line,
+        pattern,
+        1_000_000,
+        500_000_000,
+    )
+
+
+# =========================================================
+# استخراج دلار از یک خط
+# =========================================================
+
+def extract_dollar_from_line(
+    line,
+):
+    pattern = (
+        r"دلار\s*آمریکا\s*فروش"
+    )
+
+    return extract_toman_from_line(
+        line,
+        pattern,
+        100_000,
+        1_000_000,
+    )
+
+
+# =========================================================
+# استخراج سکه امامی از یک خط
+# =========================================================
+
+def extract_coin_from_line(
+    line,
+):
+    pattern = (
+        r"سکه\s*امامی"
+    )
+
+    return extract_toman_from_line(
+        line,
+        pattern,
+        10_000_000,
+        1_000_000_000,
+    )
+
+
+# =========================================================
+# استخراج نیم سکه از یک خط
+# =========================================================
+
+def extract_half_from_line(
+    line,
+):
+    pattern = (
+        r"نیم\s*سکه"
+    )
+
+    return extract_toman_from_line(
+        line,
+        pattern,
+        5_000_000,
+        500_000_000,
+    )
+
+
+# =========================================================
+# استخراج ربع سکه از یک خط
+# =========================================================
+
+def extract_quarter_from_line(
+    line,
+):
+    pattern = (
+        r"ربع\s*سکه"
+    )
+
+    return extract_toman_from_line(
+        line,
+        pattern,
+        2_000_000,
+        300_000_000,
+    )
+
+
+# =========================================================
+# استخراج طلای ۱۸ عمومی
 # =========================================================
 
 def extract_gold18(
@@ -403,28 +543,14 @@ def extract_gold18(
         (
             r"طلای\s*(?:18|۱۸)\s*عیار"
             r".{0,120}?"
-            r"[:：]\s*([\d,]+)"
-            r"\s*(تومان|ریال)?"
-        ),
-        (
-            r"طلای\s*(?:18|۱۸)\s*عیار"
-            r".{0,160}?"
             r"([\d,]+)"
             r"\s*(تومان|ریال)"
         ),
         (
             r"طلای\s*(?:18|۱۸)\s*عیار"
-            r".{0,200}?"
+            r".{0,150}?"
             r"قیمت\s*لحظه\s*ای"
-            r"\s*[:：]?\s*"
-            r"([\d,]+)"
-            r"\s*(تومان|ریال)?"
-        ),
-        (
-            r"طلای\s*(?:18|۱۸)\s*عیار"
-            r".{0,200}?"
-            r"فروش"
-            r".{0,60}?"
+            r".{0,40}?"
             r"([\d,]+)"
             r"\s*(تومان|ریال)?"
         ),
@@ -441,7 +567,10 @@ def extract_gold18(
         if not match:
             continue
 
-        explicit_unit = match.group(2)
+        raw_value = match.group(1)
+        explicit_unit = (
+            match.group(2)
+        )
 
         detected_unit = unit
 
@@ -452,7 +581,7 @@ def extract_gold18(
             detected_unit = "toman"
 
         price = parse_number(
-            match.group(1),
+            raw_value,
             detected_unit,
         )
 
@@ -481,8 +610,7 @@ def extract_dollar(
 
     # =====================================================
     # TGJU
-    # فقط بخش اصلی #قیمت_دلار خوانده می‌شود
-    # تا نرخ توافقی، هرات، سلیمانیه و دولتی اشتباه نشوند.
+    # فقط #قیمت_دلار اصلی
     # =====================================================
 
     tgju_match = re.search(
@@ -496,7 +624,9 @@ def extract_dollar(
 
     if tgju_match:
 
-        section = tgju_match.group(1)
+        section = tgju_match.group(
+            1
+        )
 
         live_match = re.search(
             r"قیمت\s*لحظه\s*ای"
@@ -522,18 +652,59 @@ def extract_dollar(
                     price
                 )
 
-        # اگر قیمت لحظه‌ای نبود،
-        # اولین قیمت ریالی معتبر همان بخش را می‌گیریم.
+    # =====================================================
+    # منابع تومان
+    # =====================================================
 
-        if not candidates:
+    for line in text.splitlines():
 
-            for match in re.finditer(
-                r"([\d,]+)\s*ریال",
-                section,
-            ):
+        line = normalize_for_search(
+            line
+        )
+
+        price = extract_dollar_from_line(
+            line
+        )
+
+        if price:
+            candidates.append(
+                price
+            )
+
+    # =====================================================
+    # fallback برای متن‌های یک‌خطی
+    # =====================================================
+
+    if not candidates:
+
+        patterns = [
+            (
+                r"دلار\s*آمریکا\s*فروش"
+                r".{0,120}?"
+                r"([\d,]+)"
+                r"\s*تومان"
+            ),
+            (
+                r"دلار\s*فروش"
+                r".{0,100}?"
+                r"([\d,]+)"
+                r"\s*تومان"
+            ),
+        ]
+
+        for pattern in patterns:
+
+            matches = re.finditer(
+                pattern,
+                text,
+                flags=re.IGNORECASE | re.DOTALL,
+            )
+
+            for match in matches:
+
                 price = parse_number(
                     match.group(1),
-                    "rial",
+                    "toman",
                 )
 
                 if (
@@ -543,62 +714,6 @@ def extract_dollar(
                     candidates.append(
                         price
                     )
-
-    # =====================================================
-    # مثقال / نوسان
-    # =====================================================
-
-    toman_patterns = [
-        (
-            r"دلار\s*آمریکا\s*فروش"
-            r".{0,120}?"
-            r"[:：]\s*"
-            r"([\d,]+)"
-            r"\s*تومان"
-        ),
-        (
-            r"دلار\s*آمریکا"
-            r".{0,150}?"
-            r"فروش"
-            r".{0,60}?"
-            r"([\d,]+)"
-            r"\s*تومان"
-        ),
-        (
-            r"دلار\s*فروش"
-            r".{0,100}?"
-            r"([\d,]+)"
-            r"\s*تومان"
-        ),
-        (
-            r"دلار\s*[:：]\s*"
-            r"([\d,]+)"
-            r"\s*تومان"
-        ),
-    ]
-
-    for pattern in toman_patterns:
-
-        matches = re.finditer(
-            pattern,
-            text,
-            flags=re.IGNORECASE | re.DOTALL,
-        )
-
-        for match in matches:
-
-            price = parse_number(
-                match.group(1),
-                "toman",
-            )
-
-            if (
-                price
-                and 100_000 <= price <= 1_000_000
-            ):
-                candidates.append(
-                    price
-                )
 
     if not candidates:
         return None
@@ -624,61 +739,35 @@ def extract_coin(
         text
     )
 
-    patterns = [
-        (
+    for line in text.splitlines():
+
+        line = normalize_for_search(
+            line
+        )
+
+        matches = re.findall(
             r"سکه\s*امامی"
-            r"\s*\(\s*تک\s*فروشی\s*\)"
-            r".{0,100}?"
-            r"[:：]\s*([\d,]+)"
-            r"\s*(تومان|ریال)?"
-        ),
-        (
-            r"سکه\s*امامی"
-            r".{0,120}?"
-            r"[:：]\s*([\d,]+)"
-            r"\s*(تومان|ریال)?"
-        ),
-        (
-            r"سکه\s*امامی"
-            r".{0,120}?"
-            r"فروش"
-            r".{0,80}?"
+            r".*?"
             r"([\d,]+)"
-            r"\s*(تومان|ریال)?"
-        ),
-    ]
-
-    for pattern in patterns:
-
-        match = re.search(
-            pattern,
-            text,
-            flags=re.IGNORECASE | re.DOTALL,
+            r"\s*(تومان|ریال)",
+            line,
+            flags=re.IGNORECASE,
         )
 
-        if not match:
-            continue
+        for match in matches:
 
-        explicit_unit = match.group(2)
+            price = parse_number(
+                match[0],
+                "rial"
+                if match[1] == "ریال"
+                else "toman",
+            )
 
-        detected_unit = unit
-
-        if explicit_unit == "ریال":
-            detected_unit = "rial"
-
-        elif explicit_unit == "تومان":
-            detected_unit = "toman"
-
-        price = parse_number(
-            match.group(1),
-            detected_unit,
-        )
-
-        if (
-            price
-            and 10_000_000 <= price <= 1_000_000_000
-        ):
-            return price
+            if (
+                price
+                and 10_000_000 <= price <= 1_000_000_000
+            ):
+                return price
 
     return None
 
@@ -695,54 +784,31 @@ def extract_half(
         text
     )
 
-    patterns = [
-        (
+    for line in text.splitlines():
+
+        matches = re.findall(
             r"نیم\s*سکه"
-            r".{0,120}?"
-            r"[:：]\s*([\d,]+)"
-            r"\s*(تومان|ریال)?"
-        ),
-        (
-            r"نیم\s*سکه"
-            r".{0,120}?"
-            r"فروش"
-            r".{0,80}?"
+            r".*?"
             r"([\d,]+)"
-            r"\s*(تومان|ریال)?"
-        ),
-    ]
-
-    for pattern in patterns:
-
-        match = re.search(
-            pattern,
-            text,
-            flags=re.IGNORECASE | re.DOTALL,
+            r"\s*(تومان|ریال)",
+            line,
+            flags=re.IGNORECASE,
         )
 
-        if not match:
-            continue
+        for match in matches:
 
-        explicit_unit = match.group(2)
+            price = parse_number(
+                match[0],
+                "rial"
+                if match[1] == "ریال"
+                else "toman",
+            )
 
-        detected_unit = unit
-
-        if explicit_unit == "ریال":
-            detected_unit = "rial"
-
-        elif explicit_unit == "تومان":
-            detected_unit = "toman"
-
-        price = parse_number(
-            match.group(1),
-            detected_unit,
-        )
-
-        if (
-            price
-            and 5_000_000 <= price <= 500_000_000
-        ):
-            return price
+            if (
+                price
+                and 5_000_000 <= price <= 500_000_000
+            ):
+                return price
 
     return None
 
@@ -759,54 +825,31 @@ def extract_quarter(
         text
     )
 
-    patterns = [
-        (
+    for line in text.splitlines():
+
+        matches = re.findall(
             r"ربع\s*سکه"
-            r".{0,120}?"
-            r"[:：]\s*([\d,]+)"
-            r"\s*(تومان|ریال)?"
-        ),
-        (
-            r"ربع\s*سکه"
-            r".{0,120}?"
-            r"فروش"
-            r".{0,80}?"
+            r".*?"
             r"([\d,]+)"
-            r"\s*(تومان|ریال)?"
-        ),
-    ]
-
-    for pattern in patterns:
-
-        match = re.search(
-            pattern,
-            text,
-            flags=re.IGNORECASE | re.DOTALL,
+            r"\s*(تومان|ریال)",
+            line,
+            flags=re.IGNORECASE,
         )
 
-        if not match:
-            continue
+        for match in matches:
 
-        explicit_unit = match.group(2)
+            price = parse_number(
+                match[0],
+                "rial"
+                if match[1] == "ریال"
+                else "toman",
+            )
 
-        detected_unit = unit
-
-        if explicit_unit == "ریال":
-            detected_unit = "rial"
-
-        elif explicit_unit == "تومان":
-            detected_unit = "toman"
-
-        price = parse_number(
-            match.group(1),
-            detected_unit,
-        )
-
-        if (
-            price
-            and 2_000_000 <= price <= 300_000_000
-        ):
-            return price
+            if (
+                price
+                and 2_000_000 <= price <= 300_000_000
+            ):
+                return price
 
     return None
 
@@ -876,232 +919,119 @@ def parse_mesghal_post(
 ):
     result = {}
 
-    text = normalize_for_search(
+    text = clean_text(
         text
     )
 
-    # =====================================================
-    # دلار آمریکا فروش
-    # =====================================================
+    normalized = normalize_for_search(
+        text
+    )
 
-    dollar_patterns = [
-        (
-            r"دلار\s*آمریکا\s*فروش"
-            r".{0,100}?"
-            r"[:：]\s*([\d,]+)"
-            r"\s*تومان"
-        ),
-        (
-            r"دلار\s*آمریکا"
-            r".{0,120}?"
-            r"فروش"
-            r".{0,80}?"
-            r"([\d,]+)"
-            r"\s*تومان"
-        ),
-        (
-            r"دلار\s*فروش"
-            r".{0,100}?"
-            r"([\d,]+)"
-            r"\s*تومان"
-        ),
-    ]
+    lines = normalized.splitlines()
 
-    for pattern in dollar_patterns:
+    # -----------------------------------------
+    # دلار فروش
+    # -----------------------------------------
 
-        match = re.search(
-            pattern,
-            text,
-            flags=re.IGNORECASE | re.DOTALL,
+    for line in lines:
+
+        price = extract_dollar_from_line(
+            line
         )
 
-        if not match:
-            continue
+        if price:
 
-        price = parse_number(
-            match.group(1),
-            "toman",
-        )
-
-        if (
-            price
-            and 100_000 <= price <= 1_000_000
-        ):
             result["dollar"] = price
+
+            print(
+                "MESGHAL dollar:",
+                price,
+            )
+
             break
 
-    # =====================================================
-    # طلای ۱۸ عیار
-    # =====================================================
+    # -----------------------------------------
+    # طلای 18 عیار
+    # -----------------------------------------
 
-    gold_patterns = [
-        (
-            r"طلای\s*(?:18|۱۸)\s*عیار"
-            r".{0,120}?"
-            r"[:：]\s*([\d,]+)"
-            r"\s*تومان"
-        ),
-        (
-            r"طلای\s*(?:18|۱۸)"
-            r".{0,150}?"
-            r"([\d,]+)"
-            r"\s*تومان"
-        ),
-    ]
+    for line in lines:
 
-    for pattern in gold_patterns:
-
-        match = re.search(
-            pattern,
-            text,
-            flags=re.IGNORECASE | re.DOTALL,
+        price = extract_gold18_from_line(
+            line
         )
 
-        if not match:
-            continue
+        if price:
 
-        price = parse_number(
-            match.group(1),
-            "toman",
-        )
-
-        if (
-            price
-            and 1_000_000 <= price <= 100_000_000
-        ):
             result["gold18"] = price
+
+            print(
+                "MESGHAL gold18:",
+                price,
+            )
+
             break
 
-    # =====================================================
+    # -----------------------------------------
     # سکه امامی
-    # =====================================================
+    # -----------------------------------------
 
-    coin_patterns = [
-        (
-            r"سکه\s*امامی"
-            r".{0,100}?"
-            r"[:：]\s*([\d,]+)"
-            r"\s*تومان"
-        ),
-        (
-            r"سکه\s*امامی"
-            r".{0,120}?"
-            r"فروش"
-            r".{0,80}?"
-            r"([\d,]+)"
-            r"\s*تومان"
-        ),
-    ]
+    for line in lines:
 
-    for pattern in coin_patterns:
-
-        match = re.search(
-            pattern,
-            text,
-            flags=re.IGNORECASE | re.DOTALL,
+        price = extract_coin_from_line(
+            line
         )
 
-        if not match:
-            continue
+        if price:
 
-        price = parse_number(
-            match.group(1),
-            "toman",
-        )
-
-        if (
-            price
-            and 10_000_000 <= price <= 1_000_000_000
-        ):
             result["coin"] = price
+
+            print(
+                "MESGHAL coin:",
+                price,
+            )
+
             break
 
-    # =====================================================
+    # -----------------------------------------
     # نیم سکه
-    # =====================================================
+    # -----------------------------------------
 
-    half_patterns = [
-        (
-            r"نیم\s*سکه"
-            r".{0,100}?"
-            r"[:：]\s*([\d,]+)"
-            r"\s*تومان"
-        ),
-        (
-            r"نیم\s*سکه"
-            r".{0,120}?"
-            r"فروش"
-            r".{0,80}?"
-            r"([\d,]+)"
-            r"\s*تومان"
-        ),
-    ]
+    for line in lines:
 
-    for pattern in half_patterns:
-
-        match = re.search(
-            pattern,
-            text,
-            flags=re.IGNORECASE | re.DOTALL,
+        price = extract_half_from_line(
+            line
         )
 
-        if not match:
-            continue
+        if price:
 
-        price = parse_number(
-            match.group(1),
-            "toman",
-        )
-
-        if (
-            price
-            and 5_000_000 <= price <= 500_000_000
-        ):
             result["half"] = price
+
+            print(
+                "MESGHAL half:",
+                price,
+            )
+
             break
 
-    # =====================================================
+    # -----------------------------------------
     # ربع سکه
-    # =====================================================
+    # -----------------------------------------
 
-    quarter_patterns = [
-        (
-            r"ربع\s*سکه"
-            r".{0,100}?"
-            r"[:：]\s*([\d,]+)"
-            r"\s*تومان"
-        ),
-        (
-            r"ربع\s*سکه"
-            r".{0,120}?"
-            r"فروش"
-            r".{0,80}?"
-            r"([\d,]+)"
-            r"\s*تومان"
-        ),
-    ]
+    for line in lines:
 
-    for pattern in quarter_patterns:
-
-        match = re.search(
-            pattern,
-            text,
-            flags=re.IGNORECASE | re.DOTALL,
+        price = extract_quarter_from_line(
+            line
         )
 
-        if not match:
-            continue
+        if price:
 
-        price = parse_number(
-            match.group(1),
-            "toman",
-        )
-
-        if (
-            price
-            and 2_000_000 <= price <= 300_000_000
-        ):
             result["quarter"] = price
+
+            print(
+                "MESGHAL quarter:",
+                price,
+            )
+
             break
 
     return result
@@ -1164,7 +1094,7 @@ def parse_toman_post(
 
 
 # =========================================================
-# آخرین قیمت قابل استخراج از هر منبع
+# آخرین قیمت یک منبع
 # =========================================================
 
 def get_latest_source_prices(
@@ -1184,29 +1114,17 @@ def get_latest_source_prices(
             "",
         )
 
-        # -----------------------------------------
-        # TGJU
-        # -----------------------------------------
-
         if source_key == "tgju":
 
             parsed = parse_tgju_post(
                 text
             )
 
-        # -----------------------------------------
-        # مثقال
-        # -----------------------------------------
-
         elif source_key == "mesghal":
 
             parsed = parse_mesghal_post(
                 text
             )
-
-        # -----------------------------------------
-        # نوسان
-        # -----------------------------------------
 
         else:
 
@@ -1233,11 +1151,19 @@ def get_latest_source_prices(
                 ),
             }
 
+        # اگر هر 5 دارایی پیدا شد،
+        # دیگر نیازی به خواندن پست‌های قدیمی نیست.
+        if all(
+            asset in latest
+            for asset in ASSETS
+        ):
+            break
+
     return latest
 
 
 # =========================================================
-# دریافت قیمت از همه منابع
+# دریافت همه منابع
 # =========================================================
 
 def get_all_source_prices():
@@ -1293,7 +1219,7 @@ def get_all_source_prices():
 
 
 # =========================================================
-# اعتبارسنجی یک دارایی با حداقل دو منبع
+# اعتبارسنجی یک دارایی
 # =========================================================
 
 def validate_asset_price(
@@ -1393,7 +1319,7 @@ def validate_asset_price(
                 item
             )
 
-    # حداقل دو منبع باید با هم هماهنگ باشند
+    # حداقل دو منبع هم‌خوان لازم است
     if len(accepted) < 2:
 
         details = ", ".join(
@@ -1463,7 +1389,7 @@ def build_verified_prices(
 
 
 # =========================================================
-# بارگذاری قیمت قبلی
+# قیمت‌های قبلی
 # =========================================================
 
 def load_previous_prices():
@@ -1496,7 +1422,7 @@ def load_previous_prices():
 
 
 # =========================================================
-# ذخیره قیمت فعلی
+# ذخیره قیمت‌های فعلی
 # =========================================================
 
 def save_current_prices(
@@ -1550,7 +1476,7 @@ def load_send_status():
 
 
 # =========================================================
-# ذخیره وضعیت ارسال ساعتی
+# ذخیره وضعیت ارسال
 # =========================================================
 
 def save_hourly_send_status(
@@ -1580,7 +1506,7 @@ def save_hourly_send_status(
 
 
 # =========================================================
-# متن تغییر قیمت
+# تغییر قیمت
 # =========================================================
 
 def get_change_text(
@@ -1612,7 +1538,7 @@ def get_change_text(
 
 
 # =========================================================
-# ساخت پیام تلگرام
+# ساخت پیام
 # =========================================================
 
 def build_message(
@@ -1710,7 +1636,7 @@ TGJU + مثقال + نوسان
 
 
 # =========================================================
-# ارسال پیام به تلگرام
+# ارسال تلگرام
 # =========================================================
 
 def send_to_telegram(
@@ -1798,6 +1724,11 @@ def main():
         TEHRAN
     )
 
+    print(
+        "Tehran hour:",
+        now.hour,
+    )
+
     current_slot = now.strftime(
         "%Y-%m-%d %H"
     )
@@ -1871,7 +1802,7 @@ def main():
     )
 
     # =====================================================
-    # دریافت قیمت‌ها
+    # دریافت منابع
     # =====================================================
 
     print(
