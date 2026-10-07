@@ -953,6 +953,32 @@
     "medium_impact_matches": []
   },
   {
+    "source": "تابناک",
+    "title": "قیمت طلا و سکه امروز ۱۵ مهر / سکه امامی یکشبه ۴ میلیون ریخت!",
+    "link": "https://www.tabnak.ir/fa/news/1397697/قیمت-طلا-و-سکه-امروز-15-مهر-سکه-امامی-یکشبه-4-میلیون-ریخت",
+    "summary": "قیمت طلا و سکه امروز مسیر جدیدی رفت ؛ به طوری کحه قیمت سکه امامی از مرز ۲۷۲ میلیون به ۲۶۸ میلیون عقب نشست و قیمت طلای ۱۸ عیار هم بیش از ۳۷۷ هزار تومان در هر گرم افت کرد و نکته عجیب اینجاست که این بار بازار داخلی برخلافِ دیروز، با انس جهانی همسو شد.",
+    "published": "07 Oct 2026 14:07:20 +0330",
+    "collected_at": "2026-10-07T14:14:08.220838+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "تأمین ارز دارو ۳۰ درصد افزایش یافت",
     "link": "https://www.mehrnews.com/news/6970617/%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%A7%D8%B1%D9%88-%DB%B3%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
@@ -1167,6 +1193,33 @@
     "high_impact_matches": [
       "بانک مرکزی"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "جهش قدرتمند شاخص کل بورس در پایان معاملات امروز",
+    "link": "https://www.mehrnews.com/news/6970850/%D8%AC%D9%87%D8%B4-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%85%D8%B1%D9%88%D8%B2",
+    "summary": "در پایان دادوستدهای امروز بازار سرمایه، شاخص کل با رشدی چشمگیر بیش از ۱۵۳ هزار واحدی، به ارتفاع ۸ میلیون و ۱۳۱ هزار واحد صعود کرد.",
+    "published": "Wed, 07 Oct 2026 10:28:57 GMT",
+    "collected_at": "2026-10-07T14:13:56.479952+03:30",
+    "market_score": 14,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "بازار سرمایه",
+      "شاخص کل"
+    ],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
@@ -1510,6 +1563,58 @@
     "medium_impact_matches": []
   },
   {
+    "source": "تابناک",
+    "title": "رکورد تاریخی شاخص کل؛ بورس ۸ میلیونی شد",
+    "link": "https://www.tabnak.ir/fa/news/1397700/رکورد-تاریخی-شاخص-کل-بورس-8-میلیونی-شد",
+    "summary": "بورس تهران سد تاریخی ۸ میلیون واحدی را شکست. در بازاری که امروز با ورود ۴.۷ همت پول حقیقی و جهش ۱۵۳ هزار واحدی شاخص کل همراه بود، هیجان به سهامداران بازگشت.",
+    "published": "07 Oct 2026 14:06:29 +0330",
+    "collected_at": "2026-10-07T14:14:08.220846+03:30",
+    "market_score": 10,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "ارزش صادرات نفت خام روسیه رکورد دوران جنگ را شکست",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4300212-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D9%85-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AF%D9%88%D8%B1%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D8%B1%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA",
+    "summary": "دنیای اقتصاد: محدودیت های صادرات گازوئیل و افزایش چشمگیر یارانه های پرداختی به پالایشگاه ها، سود حاصل از صادرات نفت خام را برای ماشین جنگی کرملین کمرنگ کرده است.",
+    "published": "Wed, 07 Oct 2026 10:30:08 +0000",
+    "collected_at": "2026-10-07T14:14:03.140364+03:30",
+    "market_score": 10,
+    "market_matches": {},
+    "driver_matches": [
+      "نفت",
+      "صادرات نفت"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ",
+      "صادرات نفت"
+    ],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "رکورد جدید شکسته شد / شاخص کل بورس کانال ۸ میلیون واحد را فتح کرد",
     "link": "https://www.khabaronline.ir/news/2284974/%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B4%DA%A9%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%A7-%D9%81%D8%AA%D8%AD",
@@ -1767,6 +1872,31 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "تصویب و ابلاغ ضوابط استفاده از هوش مصنوعی در بازار سرمایه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300253-%D8%AA%D8%B5%D9%88%DB%8C%D8%A8-%D8%A7%D8%A8%D9%84%D8%A7%D8%BA-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87",
+    "summary": "حجت اله صیدی گفت: سازمان بورس ضوابط و دستورالعمل هایی را تصویب و ابلاغ کرده که به این اکوسیستم برای استفاده بهتر از ابزار مهم هوش مصنوعی کمک کند.",
+    "published": "Wed, 07 Oct 2026 10:27:51 +0000",
+    "collected_at": "2026-10-07T14:14:03.140372+03:30",
+    "market_score": 8,
+    "market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "بازار سرمایه"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "هشدار مدیرعامل ویتول درباره کمبود نفتکش و خطر نفت ۲۰۰ دلاری",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4300209-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84-%D9%88%DB%8C%D8%AA%D9%88%D9%84-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%DA%A9%D9%85%D8%A8%D9%88%D8%AF-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D8%AE%D8%B7%D8%B1-%D9%86%D9%81%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
     "summary": "دنیای اقتصاد: مدیرعامل بزرگ ترین شرکت مستقل تجارت نفت جهان هشدار می دهد که بحران انرژی ناشی از درگیری های خاورمیانه وارد مرحله تازه ای شده و کمبود نفتکش برای انتقال نفت، به چالش اصلی بازار بدل شده است.",
@@ -1920,6 +2050,30 @@
     "medium_impact_matches": [
       "نقدینگی"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "سهم ناچیز ایران از بازار ۷ هزار میلیارد دلاری محصولات حلال",
+    "link": "https://www.mehrnews.com/news/6970688/%D8%B3%D9%87%D9%85-%D9%86%D8%A7%DA%86%DB%8C%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%AD%D9%84%D8%A7%D9%84",
+    "summary": "رئیس مرکز ملی تحقیقات حلال سازمان غذا و دارو، از سهم ناچیز ایران از بازار ۷ هزار میلیارد دلاری محصولات حلال در دنیا خبر داد و گفت: ما باید در این بازار، بیشتر کار کنیم.",
+    "published": "Wed, 07 Oct 2026 10:33:59 GMT",
+    "collected_at": "2026-10-07T14:13:56.479915+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "ایسنا",
@@ -2375,6 +2529,54 @@
     "high_impact_matches": [
       "تنگه هرمز"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "اسنپ سرمایه چه شرایطی برای خرید طلا و نقره دارد؟",
+    "link": "https://www.mehrnews.com/news/6970612/%D8%A7%D8%B3%D9%86%D9%BE-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%86%D9%87-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
+    "summary": "اگر قصد دارید با آگاهی از مسیر کامل مالکیت، وارد بازار طلا و نقره شوید، این فرصت کم هزینه می تواند نقطه شروع مناسبی باشد.",
+    "published": "Wed, 07 Oct 2026 10:22:09 GMT",
+    "collected_at": "2026-10-07T14:13:56.480065+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "یک طلا و نقره برای دوومیدانی کار ناشنوای خراسان رضوی در قهرمانی آسیا",
+    "link": "https://www.mehrnews.com/news/6970856/%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%88%D9%88%D9%85%DB%8C%D8%AF%D8%A7%D9%86%DB%8C-%DA%A9%D8%A7%D8%B1-%D9%86%D8%A7%D8%B4%D9%86%D9%88%D8%A7%DB%8C-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%AF%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C",
+    "summary": "مشهد- علی علیزاده، ملی پوش دوومیدانی ناشنوایان خراسان رضوی، در رقابت های قهرمانی ناشنوایان آسیا در مالزی موفق به کسب یک مدال طلا و یک نقره شد.",
+    "published": "Wed, 07 Oct 2026 10:37:04 GMT",
+    "collected_at": "2026-10-07T14:13:56.479893+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
