@@ -14,6 +14,9 @@ from bs4 import BeautifulSoup
 # =========================================================
 
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+EITAAYAR_TOKEN = os.environ.get("EITAAYAR_TOKEN")
+EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID")
+
 CHANNEL = "@ZarinMahGold"
 
 TEHRAN = ZoneInfo("Asia/Tehran")
@@ -34,7 +37,7 @@ HEADERS = {
 
 
 # =========================================================
-# فقط منابع رسمی TGJU
+# منابع رسمی TGJU
 # =========================================================
 
 PRICE_SOURCES = {
@@ -62,6 +65,7 @@ def normalize_digits(value):
         "۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩",
         "01234567890123456789",
     )
+
     return str(value).translate(table)
 
 
@@ -90,7 +94,7 @@ def clean_text(value):
 
 
 # =========================================================
-# تبدیل عدد ریال/تومان
+# تبدیل عدد
 # =========================================================
 
 def parse_number(value, unit="toman"):
@@ -124,7 +128,7 @@ def parse_number(value, unit="toman"):
 
 
 # =========================================================
-# استخراج Message ID از لینک تلگرام
+# استخراج Message ID
 # =========================================================
 
 def get_message_id(link):
@@ -155,14 +159,10 @@ def fetch_channel_posts(
         1,
         max_pages + 1,
     ):
-        url = (
-            f"https://t.me/s/{channel}"
-        )
+        url = f"https://t.me/s/{channel}"
 
         if before:
-            url += (
-                f"?before={before}"
-            )
+            url += f"?before={before}"
 
         print(
             f"Reading {channel} "
@@ -192,6 +192,7 @@ def fetch_channel_posts(
         page_posts = []
 
         for wrapper in wrappers:
+
             text_node = wrapper.select_one(
                 "div.tgme_widget_message_text"
             )
@@ -215,7 +216,10 @@ def fetch_channel_posts(
                 "",
             )
 
-            if not text or not link:
+            if not text:
+                continue
+
+            if not link:
                 continue
 
             if link in seen_links:
@@ -227,9 +231,7 @@ def fetch_channel_posts(
                 {
                     "text": text,
                     "link": link,
-                    "message_id": get_message_id(
-                        link
-                    ),
+                    "message_id": get_message_id(link),
                 }
             )
 
@@ -252,15 +254,11 @@ def fetch_channel_posts(
         if not ids:
             break
 
-        # برای صفحه بعد، از قدیمی‌ترین Message ID
-        before = str(min(ids))
+        before = str(
+            min(ids)
+        )
 
-    # -----------------------------------------------------
-    # مهم:
-    # دیگر به ترتیب HTML اعتماد نمی‌کنیم.
-    # Message ID را معیار قطعی تازگی قرار می‌دهیم.
-    # -----------------------------------------------------
-
+    # جدیدترین پست اول
     posts.sort(
         key=lambda item: item["message_id"],
         reverse=True,
@@ -286,7 +284,7 @@ def fetch_channel_posts(
 
 
 # =========================================================
-# استخراج بخش یک دارایی از داخل پست
+# استخراج بخش دارایی
 # =========================================================
 
 def get_asset_section(
@@ -310,7 +308,6 @@ def get_asset_section(
 
     remaining = text[start:]
 
-    # بخش بعدی با عنوان ⭕️ شروع می‌شود
     next_section = re.search(
         r"(?:^|\n)\s*⭕️",
         remaining,
@@ -377,6 +374,7 @@ def parse_gold_post(text):
     ]
 
     for pattern in patterns:
+
         section = get_asset_section(
             text,
             pattern,
@@ -398,7 +396,6 @@ def parse_gold_post(text):
 
 # =========================================================
 # TGJU ارز
-# فقط #قیمت_دلار اصلی
 # =========================================================
 
 def parse_currency_post(text):
@@ -420,10 +417,6 @@ def parse_currency_post(text):
 
     remaining = text[start:]
 
-    # فقط بخش دلار اصلی.
-    # به محض رسیدن به دلار توافقی / هرات / سلیمانیه
-    # متوقف می‌شویم.
-
     stop_patterns = [
         r"#قیمت[_\s]*دلار[_\s]*توافقی",
         r"#قیمت[_\s]*دلار[_\s]*سلیمانیه",
@@ -436,6 +429,7 @@ def parse_currency_post(text):
     stop_positions = []
 
     for pattern in stop_patterns:
+
         stop = re.search(
             pattern,
             remaining,
@@ -527,7 +521,7 @@ def parse_coin_post(text):
 
 
 # =========================================================
-# پیدا کردن آخرین پست مرتبط با یک دارایی
+# آخرین قیمت یک دارایی
 # =========================================================
 
 def get_latest_asset_price(
@@ -556,11 +550,6 @@ def get_latest_asset_price(
             f"Unknown channel key: {channel_key}"
         )
 
-    # -----------------------------------------------------
-    # از جدیدترین Message ID به قدیمی‌ترین می‌رویم.
-    # بنابراین دقیقاً جدیدترین پست مرتبط را می‌گیریم.
-    # -----------------------------------------------------
-
     for post in posts:
 
         parsed = parser(
@@ -573,7 +562,7 @@ def get_latest_asset_price(
         price = parsed[asset]
 
         print(
-            "LATEST MATCH"
+            "LATEST TGJU MATCH"
         )
 
         print(
@@ -623,20 +612,12 @@ def get_official_prices():
 
     result = {}
 
-    # -----------------------------------------------------
-    # طلای ۱۸ عیار
-    # -----------------------------------------------------
-
     gold = get_latest_asset_price(
         "gold",
         "gold18",
     )
 
     result["gold18"] = gold["price"]
-
-    # -----------------------------------------------------
-    # دلار
-    # -----------------------------------------------------
 
     dollar = get_latest_asset_price(
         "currency",
@@ -645,20 +626,12 @@ def get_official_prices():
 
     result["dollar"] = dollar["price"]
 
-    # -----------------------------------------------------
-    # سکه امامی
-    # -----------------------------------------------------
-
     coin = get_latest_asset_price(
         "coin",
         "coin",
     )
 
     result["coin"] = coin["price"]
-
-    # -----------------------------------------------------
-    # نیم سکه
-    # -----------------------------------------------------
 
     half = get_latest_asset_price(
         "coin",
@@ -667,10 +640,6 @@ def get_official_prices():
 
     result["half"] = half["price"]
 
-    # -----------------------------------------------------
-    # ربع سکه
-    # -----------------------------------------------------
-
     quarter = get_latest_asset_price(
         "coin",
         "quarter",
@@ -678,14 +647,13 @@ def get_official_prices():
 
     result["quarter"] = quarter["price"]
 
-    print()
     print(
         "================================"
     )
 
     print(
         "LATEST OFFICIAL TGJU "
-        "INSTANT PRICES"
+        "INSTANT PRICES:"
     )
 
     print(
@@ -700,7 +668,7 @@ def get_official_prices():
 
 
 # =========================================================
-# قیمت‌های قبلی
+# قیمت قبلی
 # =========================================================
 
 def load_previous_prices():
@@ -732,6 +700,7 @@ def load_previous_prices():
 def save_current_prices(
     prices,
 ):
+
     with open(
         PREVIOUS_FILE,
         "w",
@@ -776,18 +745,9 @@ def load_send_status():
         return {}
 
 
-def save_hourly_send_status(
-    slot,
+def save_send_status(
+    status,
 ):
-    status = load_send_status()
-
-    status["hourly"] = {
-        "slot": slot,
-        "sent_at": datetime.now(
-            TEHRAN
-        ).isoformat(),
-    }
-
     with open(
         STATUS_FILE,
         "w",
@@ -802,6 +762,57 @@ def save_hourly_send_status(
         )
 
 
+def mark_telegram_sent(
+    slot,
+):
+    status = load_send_status()
+
+    status["telegram_hourly"] = {
+        "slot": slot,
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
+    }
+
+    save_send_status(
+        status
+    )
+
+
+def mark_eitaa_sent(
+    slot,
+):
+    status = load_send_status()
+
+    status["eitaa_hourly"] = {
+        "slot": slot,
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
+    }
+
+    save_send_status(
+        status
+    )
+
+
+def mark_hourly_complete(
+    slot,
+):
+    status = load_send_status()
+
+    status["hourly"] = {
+        "slot": slot,
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
+    }
+
+    save_send_status(
+        status
+    )
+
+
 # =========================================================
 # تغییر قیمت
 # =========================================================
@@ -813,9 +824,7 @@ def change_text(
     if previous is None:
         return "🆕 اولین ثبت"
 
-    difference = (
-        current - previous
-    )
+    difference = current - previous
 
     if difference > 0:
         return (
@@ -827,9 +836,7 @@ def change_text(
             f"🔴 ▼ {difference:,} تومان"
         )
 
-    return (
-        "⚪ ➖ بدون تغییر"
-    )
+    return "⚪ ➖ بدون تغییر"
 
 
 # =========================================================
@@ -908,7 +915,7 @@ def build_message(
 
 
 # =========================================================
-# ارسال تلگرام
+# ارسال به تلگرام
 # =========================================================
 
 def send_to_telegram(
@@ -955,6 +962,62 @@ def send_to_telegram(
 
 
 # =========================================================
+# ارسال به ایتا
+# =========================================================
+
+def send_to_eitaa(
+    message,
+):
+    if not EITAAYAR_TOKEN:
+        raise RuntimeError(
+            "EITAAYAR_TOKEN "
+            "تنظیم نشده است."
+        )
+
+    if not EITAA_CHAT_ID:
+        raise RuntimeError(
+            "EITAA_CHAT_ID "
+            "تنظیم نشده است."
+        )
+
+    url = (
+        "https://eitaayar.ir/api/app/sendMessage"
+    )
+
+    payload = {
+        "token": EITAAYAR_TOKEN,
+        "chat_id": EITAA_CHAT_ID,
+        "text": message,
+    }
+
+    response = requests.post(
+        url,
+        data=payload,
+        timeout=30,
+    )
+
+    print(
+        "Eitaa HTTP status:",
+        response.status_code,
+    )
+
+    print(
+        "Eitaa response:",
+        response.text,
+    )
+
+    response.raise_for_status()
+
+    result = response.json()
+
+    # طبق API ایتایار، موفقیت با ok=true است.
+    if not result.get("ok"):
+        raise RuntimeError(
+            f"Eitaa API error: {result}"
+        )
+
+
+# =========================================================
 # اجرای اصلی
 # =========================================================
 
@@ -966,7 +1029,7 @@ def main():
 
     print(
         "Starting ZarinMah "
-        "TGJU instant price bot..."
+        "TGJU + Telegram + Eitaa bot..."
     )
 
     print(
@@ -1002,9 +1065,9 @@ def main():
         )
     )
 
-    # -----------------------------------------------------
+    # =====================================================
     # خاموشی 22:00 تا 08:59
-    # -----------------------------------------------------
+    # =====================================================
 
     if (
         scheduled_run
@@ -1018,113 +1081,184 @@ def main():
 
             print(
                 "Price bot is disabled "
-                "between 22:00 and 08:59 Tehran time."
+                "between 22:00 and "
+                "08:59 Tehran time."
             )
 
             return
 
-    # -----------------------------------------------------
-    # جلوگیری از ارسال تکراری
-    # -----------------------------------------------------
+    # =====================================================
+    # وضعیت ارسال هر مقصد
+    # =====================================================
+
+    status = load_send_status()
+
+    telegram_sent = (
+        status
+        .get(
+            "telegram_hourly",
+            {},
+        )
+        .get(
+            "slot"
+        )
+        == current_slot
+    )
+
+    eitaa_sent = (
+        status
+        .get(
+            "eitaa_hourly",
+            {},
+        )
+        .get(
+            "slot"
+        )
+        == current_slot
+    )
+
+    fully_sent = (
+        status
+        .get(
+            "hourly",
+            {},
+        )
+        .get(
+            "slot"
+        )
+        == current_slot
+    )
 
     if (
-        scheduled_run
-        or watchdog_retry
+        (scheduled_run or watchdog_retry)
+        and fully_sent
     ):
 
-        status = (
-            load_send_status()
+        print(
+            f"Hourly post for "
+            f"{current_slot} "
+            "has already been sent "
+            "to all destinations."
         )
 
-        last_slot = (
-            status
-            .get(
-                "hourly",
-                {},
-            )
-            .get(
-                "slot"
-            )
+        print(
+            "Skipping duplicate message."
         )
 
-        if (
-            last_slot
-            == current_slot
-        ):
+        return
 
-            print(
-                f"Hourly post for "
-                f"{current_slot} "
-                "has already been sent."
-            )
-
-            print(
-                "Skipping duplicate message."
-            )
-
-            return
-
-    # -----------------------------------------------------
+    # =====================================================
     # قیمت قبلی
-    # -----------------------------------------------------
+    # =====================================================
 
     previous = (
         load_previous_prices()
     )
 
-    # -----------------------------------------------------
-    # دریافت آخرین قیمت لحظه‌ای TGJU
-    # -----------------------------------------------------
+    # =====================================================
+    # دریافت قیمت‌ها
+    # =====================================================
 
     prices = (
         get_official_prices()
     )
 
-    # -----------------------------------------------------
+    # =====================================================
     # ساخت پیام
-    # -----------------------------------------------------
+    # =====================================================
 
     message = build_message(
         prices,
         previous,
     )
 
-    # -----------------------------------------------------
-    # ارسال
-    # -----------------------------------------------------
+    # =====================================================
+    # تلگرام
+    # فقط اگر قبلاً برای این ساعت ارسال نشده
+    # =====================================================
 
-    print(
-        "Sending message to Telegram..."
-    )
+    if not telegram_sent:
 
-    send_to_telegram(
-        message
-    )
+        print(
+            "Sending price message "
+            "to Telegram..."
+        )
 
-    print(
-        "Telegram message sent successfully."
-    )
+        send_to_telegram(
+            message
+        )
 
-    # -----------------------------------------------------
-    # ذخیره وضعیت
-    # -----------------------------------------------------
+        mark_telegram_sent(
+            current_slot
+        )
+
+        telegram_sent = True
+
+        print(
+            "Telegram message sent successfully."
+        )
+
+    else:
+
+        print(
+            "Telegram message for "
+            f"{current_slot} already sent."
+        )
+
+    # =====================================================
+    # ایتا
+    # فقط اگر قبلاً برای این ساعت ارسال نشده
+    # =====================================================
+
+    if not eitaa_sent:
+
+        print(
+            "Sending price message "
+            "to Eitaa..."
+        )
+
+        send_to_eitaa(
+            message
+        )
+
+        mark_eitaa_sent(
+            current_slot
+        )
+
+        eitaa_sent = True
+
+        print(
+            "Eitaa message sent successfully."
+        )
+
+    else:
+
+        print(
+            "Eitaa message for "
+            f"{current_slot} already sent."
+        )
+
+    # =====================================================
+    # هر دو مقصد موفق
+    # =====================================================
 
     if (
-        scheduled_run
-        or watchdog_retry
+        telegram_sent
+        and eitaa_sent
     ):
 
-        save_hourly_send_status(
+        mark_hourly_complete(
             current_slot
         )
 
         print(
-            "Hourly send status saved."
+            "Telegram + Eitaa "
+            "hourly send completed."
         )
 
-    # -----------------------------------------------------
+    # =====================================================
     # ذخیره قیمت
-    # -----------------------------------------------------
+    # =====================================================
 
     save_current_prices(
         prices
