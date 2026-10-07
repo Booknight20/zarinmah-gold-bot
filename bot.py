@@ -84,6 +84,8 @@ def extract_dollar(text, unit):
 
     if not candidates:
         return None
+        if __name__ == "__main__":
+    main()
 
     # نزدیک‌ترین مقدار به محدوده رایج بازار
     # را انتخاب می‌کنیم.
