@@ -34,11 +34,31 @@ jobs:
         run: |
           pip install -r requirements.txt
 
+      - name: Check price publishing window
+        run: |
+          CURRENT_HOUR=$(TZ=Asia/Tehran date +%H)
+
+          echo "Tehran hour: $CURRENT_HOUR"
+
+          if [ "$CURRENT_HOUR" -lt 9 ] || [ "$CURRENT_HOUR" -ge 22 ]; then
+            echo "Price publishing is disabled between 22:00 and 08:59 Tehran time."
+            exit 0
+          fi
+
+          echo "Price publishing window is active."
+
       - name: Run hourly price bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           SCHEDULED_RUN: "true"
         run: |
+          CURRENT_HOUR=$(TZ=Asia/Tehran date +%H)
+
+          if [ "$CURRENT_HOUR" -lt 9 ] || [ "$CURRENT_HOUR" -ge 22 ]; then
+            echo "Skipping price bot."
+            exit 0
+          fi
+
           python bot.py
 
       - name: Save send status and previous prices
@@ -52,7 +72,8 @@ jobs:
             echo "No changes to save."
           else
             git commit -m "Update price bot status"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
 
   daily-analysis:
@@ -98,5 +119,6 @@ jobs:
             echo "No changes to save."
           else
             git commit -m "Update daily analysis status"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
