@@ -366,36 +366,6 @@
     ]
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "ماجرای انتخاب عرضه ۲ میلیارد دلار ارز در بازار از زبان رئیس کل بانک مرکزی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300171-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%B9%D8%B1%D8%B6%D9%87-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B1%D8%A6%DB%8C%D8%B3-%DA%A9%D9%84-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C",
-    "summary": "رئیس کل بانک مرکزی درباره علت عرضه 2 میلیارد دلار ارز در بازار آزاد توضیحاتی ارائه کرد.",
-    "published": "Tue, 06 Oct 2026 20:28:41 +0000",
-    "collected_at": "2026-10-07T00:11:32.452735+03:30",
-    "market_score": 22,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": []
-  },
-  {
     "source": "ایسنا",
     "title": "انتقاد مجلس به عرضه «۱۰ هزار دلار»؛ پیگیری ها سیاست های ارزی را تغییر می دهد؟",
     "link": "https://www.isna.ir/news/1405071509895/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D9%85%D8%AC%D9%84%D8%B3-%D8%A8%D9%87-%D8%B9%D8%B1%D8%B6%D9%87-%DB%B1%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D9%87%D8%A7-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C",
@@ -410,64 +380,6 @@
       ]
     },
     "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "گسست ۵۰ دلاری بازار نفت",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4300114-%DA%AF%D8%B3%D8%B3%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA",
-    "summary": "نفت برنت روز سه شنبه6 اکتبر به زیر ۱۰۰دلار سقوط کرد و بسیاری این افت را نشانه بازگشت تدریجی بازار به حالت عادی خواندند. داده های بانک جی پی مورگان نیز این روایت را تقویت می کند: صادرات نفت خام خاورمیانه به 17.5میلیون بشکه در روز رسیده، معادل ۹۸درصد سطح پیش از جنگ. اما همین گزارش یک نکته کلیدی دیگر را نیز فاش می کند که کمتر دیده شده: صادرات فرآورده هایی مانند دیزل و بنزین تنها به ۳ میلیون بشکه در روز -یعنی ۵۸درصد سطح پیش از جنگ- رسیده است. این شکاف ۴۰درصدی میان بازگشت نفت خام و بازگشت فرآورده، دقیقا همان نقطه ای است که باید تحلیل واقعی از آن آغاز شود.",
-    "published": "Tue, 06 Oct 2026 20:30:00 +0000",
-    "collected_at": "2026-10-07T00:11:32.452888+03:30",
-    "market_score": 22,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ",
-      "صادرات نفت"
-    ],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "رئیس کل بانک مرکزی: معیشت مردم را تامین می کنیم و نگرانی نداریم/ به ترامپ و بسنت فهماندیم که ارز ما تمام نشده",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300168-%D8%B1%D8%A6%DB%8C%D8%B3-%DA%A9%D9%84-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D9%85%D8%B9%DB%8C%D8%B4%D8%AA-%D9%85%D8%B1%D8%AF%D9%85-%D8%B1%D8%A7-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D9%85-%D8%A8%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B3%D9%86%D8%AA-%D9%81%D9%87%D9%85%D8%A7%D9%86%D8%AF%DB%8C%D9%85-%DA%A9%D9%87-%D8%A7%D8%B1%D8%B2-%D9%85%D8%A7-%D8%AA%D9%85%D8%A7%D9%85-%D9%86%D8%B4%D8%AF%D9%87",
-    "summary": "رئیس کل بانک مرکزی با بیان اینکه روند تامین ارز در کشور خیلی خوب بوده است، گفت: قبلا گفتم میلیاردها دلار ارز جمع کردیم ولی برخی فکر کردند از بازار جمع کردیم ولی ارزی که از تراستی ها و ... جمع کردیم را به جاهای امن تر منتقل کردیم.",
-    "published": "Tue, 06 Oct 2026 19:30:01 +0000",
-    "collected_at": "2026-10-06T23:42:04.914704+03:30",
-    "market_score": 22,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
     "major_event_matches": [],
     "priority": "high",
     "gold_matches": [],
@@ -512,32 +424,31 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "همتی: به مقام معظم رهبری پیام دادم خیالش از بابت تامین ارز کالاهای اساسی راحت باشد/ از شوکی که در ابتدای جنگ به کشور وارد شد فاصله گرفته ایم",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300166-%D9%87%D9%85%D8%AA%DB%8C-%D8%A8%D9%87-%D9%85%D9%82%D8%A7%D9%85-%D9%85%D8%B9%D8%B8%D9%85-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D9%BE%DB%8C%D8%A7%D9%85-%D8%AF%D8%A7%D8%AF%D9%85-%D8%AE%DB%8C%D8%A7%D9%84%D8%B4-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%A8%D8%AA-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%DA%A9%D8%A7%D9%84%D8%A7%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7%D8%B4%D8%AF-%D8%A7%D8%B2-%D8%B4%D9%88%DA%A9%DB%8C-%DA%A9%D9%87-%D8%AF%D8%B1-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C-%D8%AC%D9%86%DA%AF-%D8%A8%D9%87-%DA%A9%D8%B4%D9%88%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF-%D8%B4%D8%AF-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%DA%AF%D8%B1%D9%81%D8%AA%D9%87-%D8%A7%DB%8C%D9%85",
-    "summary": "رئیس کل بانک مرکزی گفت: آمریکایی ها می خواستند ۲ هفته ای ایران را دچار فروپاشی کنند اما ۸ ماه است موفق نشده اند. ما وضعیت مردم و شرایط مردم را می فهمیم اما باید بدانیم که فشار دشمنان هم سنگین است البته ما هم برای کنترل این فشارها برنامه داریم.",
-    "published": "Tue, 06 Oct 2026 19:18:59 +0000",
-    "collected_at": "2026-10-06T23:42:04.914736+03:30",
-    "market_score": 20,
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۵ مهر ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۶ هزار ارزان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2285232/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B5-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
+    "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد و دلار با ریزش نزدیک به ۶ هزار تومانی روبه رو شد.",
+    "published": "Wed, 07 Oct 2026 19:55:00 GMT",
+    "collected_at": "2026-10-07T23:47:20.084829+03:30",
+    "market_score": 17,
     "market_matches": {
       "currency": [
-        "ارز"
+        "دلار",
+        "ارز",
+        "یورو"
       ]
     },
     "driver_matches": [],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "priority": "high",
+    "major_event_matches": [],
+    "priority": "medium",
     "gold_matches": [],
     "currency_matches": [
-      "ارز"
+      "دلار",
+      "ارز",
+      "یورو"
     ],
     "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی",
-      "جنگ"
-    ],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
