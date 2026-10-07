@@ -126,7 +126,7 @@ def build_message(item):
         f"📌 <b>منبع:</b> {safe_source}\n"
         f'<a href="{safe_news_link}">🔗 مشاهده خبر کامل</a>\n\n'
         "🌙 <b>برای دنبال‌کردن اخبار و تحلیل‌های بیشتر زرین ماه:</b>\n\n"
-        '<a href="https://t.me/Zarimahgold">🔗 عضویت در کانال تلگرام زرین ماه</a>'
+        '<a href="https://t.me/Zarinmahgold">🔗 عضویت در کانال تلگرام زرین ماه</a>'
     )
 
 
