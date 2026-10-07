@@ -2,7 +2,6 @@ import os
 import re
 import json
 import html
-import statistics
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -26,8 +25,7 @@ STATUS_FILE = "send_status.json"
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 "
-        "(KHTML, like Gecko) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/128.0 Safari/537.36"
     ),
     "Accept-Language": "fa-IR,fa;q=0.9,en;q=0.8",
@@ -35,24 +33,21 @@ HEADERS = {
 
 
 # =========================================================
-# منابع قیمت
+# منابع رسمی TGJU
 # =========================================================
 
 PRICE_SOURCES = {
-    "tgju": {
-        "name": "TGJU",
-        "channel": "tgjunews",
-        "unit": "rial",
+    "gold": {
+        "name": "TGJU طلا",
+        "channel": "tgjugold",
     },
-    "mesghal": {
-        "name": "مثقال",
-        "channel": "mesghalsignal",
-        "unit": "toman",
+    "currency": {
+        "name": "TGJU ارز",
+        "channel": "tgjucurrency",
     },
-    "navasan": {
-        "name": "نوسان",
-        "channel": "navasanchannel",
-        "unit": "toman",
+    "coin": {
+        "name": "TGJU سکه",
+        "channel": "tgjucoin",
     },
 }
 
@@ -68,19 +63,6 @@ ASSETS = [
     "quarter",
     "dollar",
 ]
-
-
-# =========================================================
-# حداکثر اختلاف مجاز
-# =========================================================
-
-TOLERANCES = {
-    "gold18": 0.008,
-    "coin": 0.012,
-    "half": 0.015,
-    "quarter": 0.015,
-    "dollar": 0.008,
-}
 
 
 # =========================================================
@@ -104,36 +86,58 @@ def clean_text(value):
     if not value:
         return ""
 
-    text = html.unescape(str(value))
+    text = html.unescape(
+        str(value)
+    )
 
-    text = text.replace("\u200c", " ")
-    text = text.replace("\u200f", " ")
-    text = text.replace("\ufeff", " ")
+    text = text.replace(
+        "\u200c",
+        " ",
+    )
 
-    text = text.replace("٬", ",")
-    text = text.replace("،", ",")
+    text = text.replace(
+        "\u200f",
+        " ",
+    )
 
-    text = re.sub(r"\r\n?", "\n", text)
-    text = re.sub(r"[ \t]+", " ", text)
-    text = re.sub(r"\n+", "\n", text)
+    text = text.replace(
+        "\ufeff",
+        " ",
+    )
+
+    text = text.replace(
+        "٬",
+        ",",
+    )
+
+    text = text.replace(
+        "،",
+        ",",
+    )
+
+    text = re.sub(
+        r"\r\n?",
+        "\n",
+        text,
+    )
+
+    text = re.sub(
+        r"[ \t]+",
+        " ",
+        text,
+    )
+
+    text = re.sub(
+        r"\n+",
+        "\n",
+        text,
+    )
 
     return text.strip()
 
 
 # =========================================================
-# نرمال‌سازی جستجو
-# =========================================================
-
-def normalize_for_search(text):
-    text = normalize_digits(clean_text(text))
-
-    text = re.sub(r"\s+", " ", text)
-
-    return text.strip()
-
-
-# =========================================================
-# تبدیل عدد
+# تبدیل عدد به تومان
 # =========================================================
 
 def parse_number(
@@ -147,8 +151,15 @@ def parse_number(
         clean_text(value)
     )
 
-    text = text.replace(",", "")
-    text = text.replace(" ", "")
+    text = text.replace(
+        ",",
+        "",
+    )
+
+    text = text.replace(
+        " ",
+        "",
+    )
 
     match = re.search(
         r"\d+(?:\.\d+)?",
@@ -168,34 +179,40 @@ def parse_number(
     if unit == "rial":
         number /= 10
 
-    return int(round(number))
+    return int(
+        round(number)
+    )
 
 
 # =========================================================
-# دریافت پست‌های کانال تلگرام
+# دریافت پست‌های کانال عمومی تلگرام
 # =========================================================
 
 def fetch_channel_posts(
     channel,
-    max_pages=8,
+    max_pages=5,
 ):
-    all_posts = []
-    seen_links = set()
-    before_id = None
+    posts = []
+    seen = set()
+    before = None
 
-    for page_number in range(
+    for page in range(
         1,
         max_pages + 1,
     ):
 
-        url = f"https://t.me/s/{channel}"
+        url = (
+            f"https://t.me/s/{channel}"
+        )
 
-        if before_id:
-            url += f"?before={before_id}"
+        if before:
+            url += (
+                f"?before={before}"
+            )
 
         print(
             f"Reading {channel} "
-            f"page {page_number}..."
+            f"page {page}..."
         )
 
         response = requests.get(
@@ -222,42 +239,37 @@ def fetch_channel_posts(
 
         for wrapper in wrappers:
 
-            text_node = wrapper.select_one(
+            node = wrapper.select_one(
                 "div.tgme_widget_message_text"
             )
-
-            if not text_node:
-                continue
 
             date_node = wrapper.select_one(
                 "a.tgme_widget_message_date"
             )
 
+            if not node or not date_node:
+                continue
+
             text = clean_text(
-                text_node.get_text(
+                node.get_text(
                     "\n",
                     strip=True,
                 )
             )
 
-            if not text:
+            link = date_node.get(
+                "href",
+                "",
+            )
+
+            if (
+                not text
+                or not link
+                or link in seen
+            ):
                 continue
 
-            link = ""
-
-            if date_node:
-                link = date_node.get(
-                    "href",
-                    "",
-                )
-
-            if not link:
-                continue
-
-            if link in seen_links:
-                continue
-
-            seen_links.add(link)
+            seen.add(link)
 
             page_posts.append(
                 {
@@ -274,9 +286,11 @@ def fetch_channel_posts(
         if not page_posts:
             break
 
-        all_posts.extend(page_posts)
+        posts.extend(
+            page_posts
+        )
 
-        post_ids = []
+        ids = []
 
         for post in page_posts:
 
@@ -286,48 +300,52 @@ def fetch_channel_posts(
             )
 
             if match:
-                post_ids.append(
-                    int(match.group(1))
+                ids.append(
+                    int(
+                        match.group(1)
+                    )
                 )
 
-        if not post_ids:
+        if not ids:
             break
 
         next_before = str(
-            min(post_ids)
+            min(ids)
         )
 
-        if before_id == next_before:
+        if next_before == before:
             break
 
-        before_id = next_before
+        before = next_before
 
     print(
         f"Total posts collected from "
-        f"{channel}: {len(all_posts)}"
+        f"{channel}: {len(posts)}"
     )
 
-    return all_posts
+    return posts
 
 
 # =========================================================
-# استخراج قیمت بعد از برچسب
+# استخراج قیمت بعد از یک برچسب
 # =========================================================
 
-def extract_price_after_label(
+def first_price_after(
     text,
-    label_pattern,
+    label_regex,
     minimum,
     maximum,
-    unit="toman",
+    unit="rial",
 ):
-    text = normalize_for_search(text)
+    text = normalize_digits(
+        clean_text(text)
+    )
 
     pattern = (
-        label_pattern
+        label_regex
         + r".{0,180}?"
         + r"([\d,]+)"
-        + r"\s*(تومان|تومن|ریال)?"
+        + r"\s*(ریال|تومان|تومن)?"
     )
 
     match = re.search(
@@ -339,307 +357,189 @@ def extract_price_after_label(
     if not match:
         return None
 
-    explicit_unit = match.group(2)
-
     detected_unit = unit
 
-    if explicit_unit == "ریال":
-        detected_unit = "rial"
-
-    elif explicit_unit in (
+    if match.group(2) in (
         "تومان",
         "تومن",
     ):
         detected_unit = "toman"
 
-    price = parse_number(
+    elif match.group(2) == "ریال":
+        detected_unit = "rial"
+
+    value = parse_number(
         match.group(1),
         detected_unit,
     )
 
     if (
-        price
-        and minimum <= price <= maximum
+        value
+        and minimum <= value <= maximum
     ):
-        return price
+        return value
 
     return None
 
 
 # =========================================================
-# استخراج قیمت از یک خط
+# پارسر کانال TGJU طلا
 # =========================================================
 
-def extract_line_price(
-    line,
-    label_pattern,
-    minimum,
-    maximum,
-    unit="toman",
+def parse_gold_post(
+    text,
 ):
-    line = normalize_for_search(line)
+    patterns = [
+        r"طلای\s*(?:18|۱۸)\s*عیار\s*(?:هر\s*گرم)?",
+        r"هر\s*گرم\s*طلای\s*(?:18|۱۸)\s*عیار",
+        r"گرم\s*طلای\s*(?:18|۱۸)\s*عیار",
+    ]
+
+    for pattern in patterns:
+
+        value = first_price_after(
+            text,
+            pattern,
+            100_000,
+            500_000_000,
+            "rial",
+        )
+
+        if value:
+            return {
+                "gold18": value
+            }
+
+    for line in clean_text(
+        text
+    ).splitlines():
+
+        for pattern in patterns:
+
+            value = first_price_after(
+                line,
+                pattern,
+                100_000,
+                500_000_000,
+                "rial",
+            )
+
+            if value:
+                return {
+                    "gold18": value
+                }
+
+    return {}
+
+
+# =========================================================
+# پارسر کانال TGJU ارز
+# =========================================================
+
+def parse_currency_post(
+    text,
+):
+    text = normalize_digits(
+        clean_text(text)
+    )
+
+    # فقط نرخ اصلی #قیمت_دلار
+    # نه توافقی، هرات، سلیمانیه و دولتی
+
+    section_match = re.search(
+        r"#قیمت[_\s]*دلار\b"
+        r"(.*?)"
+        r"(?=(?:🇺🇸|⭕️|#قیمت[_\s])|$)",
+        text,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+
+    if not section_match:
+        return {}
+
+    section = section_match.group(1)
 
     match = re.search(
-        label_pattern,
-        line,
+        r"قیمت\s*لحظه\s*ای"
+        r"\s*[:：]?\s*"
+        r"([\d,]+)"
+        r"\s*ریال",
+        section,
         flags=re.IGNORECASE,
     )
 
     if not match:
-        return None
+        return {}
 
-    rest = line[match.end():]
-
-    numbers = re.findall(
-        r"([\d,]+)",
-        rest,
+    value = parse_number(
+        match.group(1),
+        "rial",
     )
 
-    for raw_number in numbers:
+    if (
+        value
+        and 100_000 <= value <= 1_000_000
+    ):
+        return {
+            "dollar": value
+        }
 
-        digits = raw_number.replace(
-            ",",
-            "",
-        )
-
-        if len(digits) < 4:
-            continue
-
-        price = parse_number(
-            raw_number,
-            unit,
-        )
-
-        if (
-            price
-            and minimum <= price <= maximum
-        ):
-            return price
-
-    return None
+    return {}
 
 
 # =========================================================
-# مثقال - دلار
+# پارسر کانال TGJU سکه
 # =========================================================
 
-def extract_dollar_mesghal(text):
-
-    patterns = [
-        r"دلار\s*آمریکا\s*فروش",
-        r"دلار\s*فروش",
-    ]
-
-    for pattern in patterns:
-
-        price = extract_price_after_label(
-            text,
-            pattern,
-            100_000,
-            1_000_000,
-            "toman",
-        )
-
-        if price:
-            return price
-
-        for line in clean_text(
-            text
-        ).splitlines():
-
-            price = extract_line_price(
-                line,
-                pattern,
-                100_000,
-                1_000_000,
-                "toman",
-            )
-
-            if price:
-                return price
-
-    return None
-
-
-# =========================================================
-# مثقال - طلای ۱۸
-# =========================================================
-
-def extract_gold18_mesghal(text):
-
-    patterns = [
-        r"طلای\s*(?:18|۱۸)\s*عیار",
-        r"هر\s*گرم\s*طلای\s*(?:18|۱۸)",
-    ]
-
-    for pattern in patterns:
-
-        price = extract_price_after_label(
-            text,
-            pattern,
-            1_000_000,
-            500_000_000,
-            "toman",
-        )
-
-        if price:
-            return price
-
-        for line in clean_text(
-            text
-        ).splitlines():
-
-            price = extract_line_price(
-                line,
-                pattern,
-                1_000_000,
-                500_000_000,
-                "toman",
-            )
-
-            if price:
-                return price
-
-    return None
-
-
-# =========================================================
-# مثقال - سکه
-# =========================================================
-
-def extract_coin_mesghal(text):
-
-    pattern = r"سکه\s*امامی"
-
-    price = extract_price_after_label(
-        text,
-        pattern,
-        10_000_000,
-        1_000_000_000,
-        "toman",
-    )
-
-    if price:
-        return price
-
-    for line in clean_text(
-        text
-    ).splitlines():
-
-        price = extract_line_price(
-            line,
-            pattern,
-            10_000_000,
-            1_000_000_000,
-            "toman",
-        )
-
-        if price:
-            return price
-
-    return None
-
-
-# =========================================================
-# مثقال - نیم سکه
-# =========================================================
-
-def extract_half_mesghal(text):
-
-    pattern = r"نیم\s*سکه"
-
-    price = extract_price_after_label(
-        text,
-        pattern,
-        5_000_000,
-        500_000_000,
-        "toman",
-    )
-
-    if price:
-        return price
-
-    for line in clean_text(
-        text
-    ).splitlines():
-
-        price = extract_line_price(
-            line,
-            pattern,
-            5_000_000,
-            500_000_000,
-            "toman",
-        )
-
-        if price:
-            return price
-
-    return None
-
-
-# =========================================================
-# مثقال - ربع سکه
-# =========================================================
-
-def extract_quarter_mesghal(text):
-
-    pattern = r"ربع\s*سکه"
-
-    price = extract_price_after_label(
-        text,
-        pattern,
-        2_000_000,
-        300_000_000,
-        "toman",
-    )
-
-    if price:
-        return price
-
-    for line in clean_text(
-        text
-    ).splitlines():
-
-        price = extract_line_price(
-            line,
-            pattern,
-            2_000_000,
-            300_000_000,
-            "toman",
-        )
-
-        if price:
-            return price
-
-    return None
-
-
-# =========================================================
-# طلای ۱۸ عمومی
-# =========================================================
-
-def extract_gold18(
+def parse_coin_post(
     text,
-    unit,
 ):
-    text = normalize_for_search(text)
+    text = normalize_digits(
+        clean_text(text)
+    )
 
-    patterns = [
-        (
-            r"طلای\s*(?:18|۱۸)\s*عیار"
-            r".{0,160}?"
-            r"([\d,]+)"
-            r"\s*(تومان|تومن|ریال)?"
-        ),
-        (
-            r"طلای\s*(?:18|۱۸)"
-            r".{0,160}?"
-            r"([\d,]+)"
-            r"\s*(تومان|تومن|ریال)?"
-        ),
-    ]
+    result = {}
 
-    for pattern in patterns:
+    patterns = {
+        "coin": (
+            r"سکه\s*امامی"
+            r".{0,220}?"
+            r"قیمت\s*لحظه\s*ای"
+            r"\s*[:：]?\s*"
+            r"([\d,]+)\s*ریال"
+        ),
+        "half": (
+            r"نیم\s*سکه"
+            r".{0,220}?"
+            r"قیمت\s*لحظه\s*ای"
+            r"\s*[:：]?\s*"
+            r"([\d,]+)\s*ریال"
+        ),
+        "quarter": (
+            r"ربع\s*سکه"
+            r".{0,220}?"
+            r"قیمت\s*لحظه\s*ای"
+            r"\s*[:：]?\s*"
+            r"([\d,]+)\s*ریال"
+        ),
+    }
+
+    ranges = {
+        "coin": (
+            100_000_000,
+            5_000_000_000,
+        ),
+        "half": (
+            50_000_000,
+            2_000_000_000,
+        ),
+        "quarter": (
+            20_000_000,
+            1_000_000_000,
+        ),
+    }
+
+    for asset, pattern in patterns.items():
 
         match = re.search(
             pattern,
@@ -648,703 +548,228 @@ def extract_gold18(
         )
 
         if not match:
-            continue
 
-        detected_unit = unit
+            label = {
+                "coin": r"سکه\s*امامی",
+                "half": r"نیم\s*سکه",
+                "quarter": r"ربع\s*سکه",
+            }[asset]
 
-        if match.group(2) == "ریال":
-            detected_unit = "rial"
-
-        elif match.group(2) in (
-            "تومان",
-            "تومن",
-        ):
-            detected_unit = "toman"
-
-        price = parse_number(
-            match.group(1),
-            detected_unit,
-        )
-
-        if (
-            price
-            and 100_000 <= price <= 500_000_000
-        ):
-            return price
-
-    return None
-
-
-# =========================================================
-# دلار عمومی
-# =========================================================
-
-def extract_dollar(
-    text,
-    unit,
-):
-    text = normalize_for_search(text)
-
-    candidates = []
-
-    # فقط #قیمت_دلار اصلی TGJU
-    tgju_match = re.search(
-        r"#قیمت[_\s]*دلار\b"
-        r"(.*?)"
-        r"(?:(?:🇺🇸|⭕️|#قیمت[_\s])|$)",
-        text,
-        flags=re.IGNORECASE | re.DOTALL,
-    )
-
-    if tgju_match:
-
-        section = tgju_match.group(1)
-
-        live_match = re.search(
-            r"قیمت\s*لحظه\s*ای"
-            r"\s*[:：]?\s*"
-            r"([\d,]+)"
-            r"\s*ریال",
-            section,
-            flags=re.IGNORECASE,
-        )
-
-        if live_match:
-
-            price = parse_number(
-                live_match.group(1),
+            value = first_price_after(
+                text,
+                label,
+                ranges[asset][0],
+                ranges[asset][1],
                 "rial",
             )
 
-            if (
-                price
-                and 100_000 <= price <= 1_000_000
-            ):
-                candidates.append(
-                    price
-                )
+            if value:
+                result[asset] = value
 
-        if not candidates:
+            continue
 
-            for raw_number in re.findall(
-                r"([\d,]+)\s*ریال",
-                section,
-            ):
-
-                price = parse_number(
-                    raw_number,
-                    "rial",
-                )
-
-                if (
-                    price
-                    and 100_000 <= price <= 1_000_000
-                ):
-                    candidates.append(
-                        price
-                    )
-
-    # منابع تومانی
-    for pattern in [
-        r"دلار\s*آمریکا\s*فروش",
-        r"دلار\s*فروش",
-    ]:
-
-        price = extract_price_after_label(
-            text,
-            pattern,
-            100_000,
-            1_000_000,
-            "toman",
-        )
-
-        if price:
-            candidates.append(
-                price
-            )
-
-    if not candidates:
-        return None
-
-    return int(
-        round(
-            statistics.median(
-                candidates
-            )
-        )
-    )
-
-
-# =========================================================
-# سکه عمومی
-# =========================================================
-
-def extract_coin(
-    text,
-    unit,
-):
-    pattern = (
-        r"سکه\s*امامی"
-        r".{0,160}?"
-        r"([\d,]+)"
-        r"\s*(تومان|تومن|ریال)?"
-    )
-
-    for match in re.finditer(
-        pattern,
-        normalize_for_search(text),
-        flags=re.IGNORECASE | re.DOTALL,
-    ):
-
-        detected_unit = unit
-
-        if match.group(2) == "ریال":
-            detected_unit = "rial"
-
-        elif match.group(2) in (
-            "تومان",
-            "تومن",
-        ):
-            detected_unit = "toman"
-
-        price = parse_number(
+        value = parse_number(
             match.group(1),
-            detected_unit,
+            "rial",
         )
 
         if (
-            price
-            and 10_000_000 <= price <= 1_000_000_000
+            value
+            and ranges[asset][0]
+            <= value
+            <= ranges[asset][1]
         ):
-            return price
-
-    return None
-
-
-# =========================================================
-# نیم سکه عمومی
-# =========================================================
-
-def extract_half(
-    text,
-    unit,
-):
-    pattern = (
-        r"نیم\s*سکه"
-        r".{0,140}?"
-        r"([\d,]+)"
-        r"\s*(تومان|تومن|ریال)?"
-    )
-
-    for match in re.finditer(
-        pattern,
-        normalize_for_search(text),
-        flags=re.IGNORECASE | re.DOTALL,
-    ):
-
-        detected_unit = unit
-
-        if match.group(2) == "ریال":
-            detected_unit = "rial"
-
-        elif match.group(2) in (
-            "تومان",
-            "تومن",
-        ):
-            detected_unit = "toman"
-
-        price = parse_number(
-            match.group(1),
-            detected_unit,
-        )
-
-        if (
-            price
-            and 5_000_000 <= price <= 500_000_000
-        ):
-            return price
-
-    return None
-
-
-# =========================================================
-# ربع سکه عمومی
-# =========================================================
-
-def extract_quarter(
-    text,
-    unit,
-):
-    pattern = (
-        r"ربع\s*سکه"
-        r".{0,140}?"
-        r"([\d,]+)"
-        r"\s*(تومان|تومن|ریال)?"
-    )
-
-    for match in re.finditer(
-        pattern,
-        normalize_for_search(text),
-        flags=re.IGNORECASE | re.DOTALL,
-    ):
-
-        detected_unit = unit
-
-        if match.group(2) == "ریال":
-            detected_unit = "rial"
-
-        elif match.group(2) in (
-            "تومان",
-            "تومن",
-        ):
-            detected_unit = "toman"
-
-        price = parse_number(
-            match.group(1),
-            detected_unit,
-        )
-
-        if (
-            price
-            and 2_000_000 <= price <= 300_000_000
-        ):
-            return price
-
-    return None
-
-
-# =========================================================
-# پارسر TGJU
-# =========================================================
-
-def parse_tgju_post(text):
-
-    result = {}
-
-    text = clean_text(text)
-
-    parsers = {
-        "dollar": lambda: extract_dollar(
-            text,
-            "rial",
-        ),
-        "gold18": lambda: extract_gold18(
-            text,
-            "rial",
-        ),
-        "coin": lambda: extract_coin(
-            text,
-            "rial",
-        ),
-        "half": lambda: extract_half(
-            text,
-            "rial",
-        ),
-        "quarter": lambda: extract_quarter(
-            text,
-            "rial",
-        ),
-    }
-
-    for asset, parser in parsers.items():
-
-        value = parser()
-
-        if value:
             result[asset] = value
 
     return result
 
 
 # =========================================================
-# پارسر اختصاصی مثقال
+# دریافت آخرین قیمت از هر کانال
 # =========================================================
 
-def parse_mesghal_post(text):
-
-    result = {}
-
-    text = clean_text(text)
-
-    parsers = {
-        "dollar": extract_dollar_mesghal,
-        "gold18": extract_gold18_mesghal,
-        "coin": extract_coin_mesghal,
-        "half": extract_half_mesghal,
-        "quarter": extract_quarter_mesghal,
-    }
-
-    for asset, parser in parsers.items():
-
-        value = parser(text)
-
-        if value:
-
-            result[asset] = value
-
-    return result
-
-
-# =========================================================
-# پارسر نوسان
-# =========================================================
-
-def parse_toman_post(text):
-
-    result = {}
-
-    text = clean_text(text)
-
-    parsers = {
-        "dollar": lambda: extract_dollar(
-            text,
-            "toman",
-        ),
-        "gold18": lambda: extract_gold18(
-            text,
-            "toman",
-        ),
-        "coin": lambda: extract_coin(
-            text,
-            "toman",
-        ),
-        "half": lambda: extract_half(
-            text,
-            "toman",
-        ),
-        "quarter": lambda: extract_quarter(
-            text,
-            "toman",
-        ),
-    }
-
-    for asset, parser in parsers.items():
-
-        value = parser()
-
-        if value:
-            result[asset] = value
-
-    return result
-
-
-# =========================================================
-# آخرین قیمت هر منبع
-# =========================================================
-
-def get_latest_source_prices(
-    source_key,
-    source_config,
+def get_latest_parsed(
+    channel_key,
 ):
+    config = PRICE_SOURCES[
+        channel_key
+    ]
+
     posts = fetch_channel_posts(
-        source_config["channel"]
+        config["channel"]
     )
+
+    parser = {
+        "gold": parse_gold_post,
+        "currency": parse_currency_post,
+        "coin": parse_coin_post,
+    }[
+        channel_key
+    ]
 
     latest = {}
 
-    for post in posts:
+    for index, post in enumerate(
+        posts
+    ):
 
-        text = post.get(
-            "text",
-            "",
+        parsed = parser(
+            post["text"]
         )
-
-        if source_key == "tgju":
-
-            parsed = parse_tgju_post(
-                text
-            )
-
-        elif source_key == "mesghal":
-
-            parsed = parse_mesghal_post(
-                text
-            )
-
-        else:
-
-            parsed = parse_toman_post(
-                text
-            )
 
         if parsed:
 
             print(
-                f"{source_config['name']} "
-                f"parsed post:",
+                f"{config['name']} "
+                f"parsed post #{index + 1}:",
                 parsed,
             )
 
-        for asset, price in parsed.items():
+        for asset, price in (
+            parsed.items()
+        ):
 
             if asset in latest:
                 continue
 
-            if not price:
-                continue
-
             latest[asset] = {
                 "price": price,
-                "link": post.get(
-                    "link",
-                    "",
-                ),
+                "link": post["link"],
             }
 
-        if all(
-            asset in latest
-            for asset in ASSETS
+        # وقتی قیمت مورد نیاز پیدا شد،
+        # پست‌های قدیمی‌تر لازم نیست.
+
+        if (
+            channel_key == "gold"
+            and "gold18" in latest
         ):
             break
 
-    # اگر مثقال باز هم چیزی پیدا نکرد،
-    # نمونه واقعی پست را چاپ می‌کنیم.
-    if (
-        source_key == "mesghal"
-        and not latest
-        and posts
-    ):
+        if (
+            channel_key == "currency"
+            and "dollar" in latest
+        ):
+            break
 
-        print(
-            "WARNING: MESGHAL parser "
-            "found no prices."
-        )
-
-        print(
-            "MESGHAL SAMPLE START"
-        )
-
-        print(
-            posts[0].get(
-                "text",
-                "",
+        if (
+            channel_key == "coin"
+            and all(
+                asset in latest
+                for asset in (
+                    "coin",
+                    "half",
+                    "quarter",
+                )
             )
-        )
+        ):
+            break
 
-        print(
-            "MESGHAL SAMPLE END"
+    print(
+        "Parsed prices:"
+    )
+
+    print(
+        json.dumps(
+            latest,
+            ensure_ascii=False,
+            indent=2,
         )
+    )
 
     return latest
 
 
 # =========================================================
-# دریافت همه منابع
+# دریافت قیمت‌های رسمی TGJU
 # =========================================================
 
-def get_all_source_prices():
+def get_verified_prices():
 
-    result = {}
+    prices = {}
 
-    for source_key, config in (
-        PRICE_SOURCES.items()
-    ):
+    # -----------------------------------------------------
+    # طلا
+    # -----------------------------------------------------
 
-        print(
-            "================================"
-        )
-
-        print(
-            "Source:",
-            config["name"],
-        )
-
-        try:
-
-            result[source_key] = (
-                get_latest_source_prices(
-                    source_key,
-                    config,
-                )
-            )
-
-            print(
-                "Parsed prices:"
-            )
-
-            print(
-                json.dumps(
-                    result[source_key],
-                    ensure_ascii=False,
-                    indent=2,
-                )
-            )
-
-        except Exception as error:
-
-            print(
-                "Source failed:",
-                config["name"],
-                error,
-            )
-
-            result[source_key] = {}
-
-    return result
-
-
-# =========================================================
-# اعتبارسنجی یک قیمت
-# =========================================================
-
-def validate_asset_price(
-    asset,
-    source_prices,
-):
-    candidates = []
-
-    for source_key, prices in (
-        source_prices.items()
-    ):
-
-        item = prices.get(
-            asset
-        )
-
-        if not item:
-            continue
-
-        price = item.get(
-            "price"
-        )
-
-        if not price:
-            continue
-
-        candidates.append(
-            {
-                "source": source_key,
-                "price": price,
-                "link": item.get(
-                    "link",
-                    "",
-                ),
-            }
-        )
-
-    print(
-        f"Validating {asset}..."
+    gold_source = get_latest_parsed(
+        "gold"
     )
 
-    print(
-        "Available candidates:",
-        candidates,
-    )
-
-    if len(candidates) < 2:
+    if "gold18" not in gold_source:
 
         raise RuntimeError(
-            f"برای {asset} "
-            f"حداقل دو منبع معتبر موجود نیست."
+            "قیمت طلای ۱۸ عیار "
+            "از کانال رسمی TGJU پیدا نشد."
         )
 
-    values = [
-        item["price"]
-        for item in candidates
-    ]
-
-    median_price = statistics.median(
-        values
+    prices["gold18"] = (
+        gold_source["gold18"]["price"]
     )
 
-    tolerance = TOLERANCES.get(
-        asset,
-        0.01,
+    # -----------------------------------------------------
+    # دلار
+    # -----------------------------------------------------
+
+    currency_source = (
+        get_latest_parsed(
+            "currency"
+        )
     )
 
-    accepted = []
-
-    for item in candidates:
-
-        difference = (
-            abs(
-                item["price"]
-                - median_price
-            )
-            / median_price
-        )
-
-        print(
-            f"{item['source']}: "
-            f"{item['price']:,} "
-            f"diff={difference:.4%}"
-        )
-
-        if (
-            difference
-            <= tolerance
-        ):
-            accepted.append(
-                item
-            )
-
-    if len(accepted) < 2:
-
-        details = ", ".join(
-            (
-                f"{item['source']}="
-                f"{item['price']:,}"
-            )
-            for item in candidates
-        )
+    if "dollar" not in currency_source:
 
         raise RuntimeError(
-            f"اختلاف منابع برای "
-            f"{asset} غیرعادی است: "
-            f"{details}"
+            "قیمت دلار اصلی "
+            "از کانال رسمی TGJU پیدا نشد."
         )
 
-    final_price = int(
-        round(
-            statistics.median(
-                [
-                    item["price"]
-                    for item in accepted
-                ]
+    prices["dollar"] = (
+        currency_source["dollar"]["price"]
+    )
+
+    # -----------------------------------------------------
+    # سکه‌ها
+    # -----------------------------------------------------
+
+    coin_source = get_latest_parsed(
+        "coin"
+    )
+
+    for asset in (
+        "coin",
+        "half",
+        "quarter",
+    ):
+
+        if asset not in coin_source:
+
+            raise RuntimeError(
+                f"قیمت {asset} "
+                "از کانال رسمی TGJU پیدا نشد."
             )
+
+        prices[asset] = (
+            coin_source[asset]["price"]
         )
+
+    print(
+        "OFFICIAL TGJU VERIFIED PRICES:"
     )
 
     print(
-        "Accepted sources for "
-        f"{asset}: "
-        + ", ".join(
-            item["source"]
-            for item in accepted
+        json.dumps(
+            prices,
+            ensure_ascii=False,
+            indent=2,
         )
     )
 
-    return final_price
+    return prices
 
 
 # =========================================================
-# اعتبارسنجی همه قیمت‌ها
-# =========================================================
-
-def build_verified_prices(
-    source_prices,
-):
-    verified = {}
-
-    for asset in ASSETS:
-
-        verified[asset] = (
-            validate_asset_price(
-                asset,
-                source_prices,
-            )
-        )
-
-        print(
-            f"VERIFIED {asset}: "
-            f"{verified[asset]:,} تومان"
-        )
-
-    return verified
-
-
-# =========================================================
-# قیمت‌های قبلی
+# قیمت قبلی
 # =========================================================
 
 def load_previous_prices():
@@ -1362,7 +787,9 @@ def load_previous_prices():
             encoding="utf-8",
         ) as file:
 
-            return json.load(file)
+            return json.load(
+                file
+            )
 
     except Exception as error:
 
@@ -1411,7 +838,9 @@ def load_send_status():
             encoding="utf-8",
         ) as file:
 
-            return json.load(file)
+            return json.load(
+                file
+            )
 
     except Exception as error:
 
@@ -1454,7 +883,7 @@ def save_hourly_send_status(
 # تغییر قیمت
 # =========================================================
 
-def get_change_text(
+def change_text(
     current,
     previous,
 ):
@@ -1478,7 +907,9 @@ def get_change_text(
             f"🔴 ▼ {difference:,} تومان"
         )
 
-    return "⚪ ➖ بدون تغییر"
+    return (
+        "⚪ ➖ بدون تغییر"
+    )
 
 
 # =========================================================
@@ -1487,52 +918,68 @@ def get_change_text(
 
 def build_message(
     prices,
-    previous_prices,
+    previous,
 ):
 
-    update_time = datetime.now(
-        TEHRAN
-    ).strftime(
-        "%H:%M"
-    )
+    previous = previous or {}
 
-    previous_prices = (
-        previous_prices or {}
+    update_time = (
+        datetime.now(
+            TEHRAN
+        ).strftime(
+            "%H:%M"
+        )
     )
 
     return f"""🌙✨ زرین ماه
-💎 قیمت تأییدشده طلا، سکه و دلار
+💎 قیمت رسمی TGJU طلا، سکه و دلار
 
 ━━━━━━━━━━━━━━━━━━
 
 🟡 طلای ۱۸ عیار
 💰 {prices["gold18"]:,} تومان
-{get_change_text(prices["gold18"], previous_prices.get("gold18"))}
+{change_text(
+    prices["gold18"],
+    previous.get("gold18"),
+)}
 
 🪙 سکه امامی
 💰 {prices["coin"]:,} تومان
-{get_change_text(prices["coin"], previous_prices.get("coin"))}
+{change_text(
+    prices["coin"],
+    previous.get("coin"),
+)}
 
 🪙 نیم‌سکه
 💰 {prices["half"]:,} تومان
-{get_change_text(prices["half"], previous_prices.get("half"))}
+{change_text(
+    prices["half"],
+    previous.get("half"),
+)}
 
 🪙 ربع‌سکه
 💰 {prices["quarter"]:,} تومان
-{get_change_text(prices["quarter"], previous_prices.get("quarter"))}
+{change_text(
+    prices["quarter"],
+    previous.get("quarter"),
+)}
 
 💵 دلار آزاد
 💰 {prices["dollar"]:,} تومان
-{get_change_text(prices["dollar"], previous_prices.get("dollar"))}
+{change_text(
+    prices["dollar"],
+    previous.get("dollar"),
+)}
 
 ━━━━━━━━━━━━━━━━━━
 
 🕒 آخرین بروزرسانی: {update_time}
 
-📊 مراجع قیمت:
-TGJU + مثقال + نوسان
+📊 منابع رسمی TGJU:
 
-✅ هر قیمت فقط در صورت تطبیق حداقل دو منبع منتشر می‌شود.
+🔸 https://t.me/tgjugold
+🔸 https://t.me/tgjucoin
+🔸 https://t.me/tgjucurrency
 
 ━━━━━━━━━━━━━━━━━━
 
@@ -1544,7 +991,7 @@ TGJU + مثقال + نوسان
 
 
 # =========================================================
-# ارسال به تلگرام
+# ارسال تلگرام
 # =========================================================
 
 def send_to_telegram(
@@ -1554,7 +1001,8 @@ def send_to_telegram(
     if not BOT_TOKEN:
 
         raise RuntimeError(
-            "TELEGRAM_BOT_TOKEN تنظیم نشده است."
+            "TELEGRAM_BOT_TOKEN "
+            "تنظیم نشده است."
         )
 
     url = (
@@ -1585,10 +1033,13 @@ def send_to_telegram(
 
     result = response.json()
 
-    if not result.get("ok"):
+    if not result.get(
+        "ok"
+    ):
 
         raise RuntimeError(
-            f"Telegram API error: {result}"
+            f"Telegram API error: "
+            f"{result}"
         )
 
 
@@ -1599,16 +1050,16 @@ def send_to_telegram(
 def main():
 
     print(
-        "================================"
+        "================================="
     )
 
     print(
         "Starting ZarinMah verified "
-        "price bot..."
+        "TGJU price bot..."
     )
 
     print(
-        "================================"
+        "================================="
     )
 
     scheduled_run = (
@@ -1634,13 +1085,15 @@ def main():
         now.hour,
     )
 
-    current_slot = now.strftime(
-        "%Y-%m-%d %H"
+    current_slot = (
+        now.strftime(
+            "%Y-%m-%d %H"
+        )
     )
 
-    # -----------------------------------------------------
+    # =====================================================
     # خاموشی 22:00 تا 08:59
-    # -----------------------------------------------------
+    # =====================================================
 
     if (
         scheduled_run
@@ -1654,23 +1107,26 @@ def main():
 
             print(
                 "Price bot is disabled "
-                "between 22:00 and 08:59 Tehran time."
+                "between 22:00 and "
+                "08:59 Tehran time."
             )
 
             return
 
-    # -----------------------------------------------------
+    # =====================================================
     # جلوگیری از ارسال تکراری
-    # -----------------------------------------------------
+    # =====================================================
 
     if (
         scheduled_run
         or watchdog_retry
     ):
 
-        status = load_send_status()
+        status = (
+            load_send_status()
+        )
 
-        last_hourly_slot = (
+        last_slot = (
             status
             .get(
                 "hourly",
@@ -1682,7 +1138,7 @@ def main():
         )
 
         if (
-            last_hourly_slot
+            last_slot
             == current_slot
         ):
 
@@ -1698,70 +1154,34 @@ def main():
 
             return
 
-    previous_prices = (
+    # =====================================================
+    # قیمت قبلی
+    # =====================================================
+
+    previous = (
         load_previous_prices()
     )
 
-    print(
-        "Fetching prices from:"
+    # =====================================================
+    # دریافت قیمت رسمی TGJU
+    # =====================================================
+
+    prices = (
+        get_verified_prices()
     )
 
-    print("1. TGJU")
-    print("2. Mesghal")
-    print("3. Navasan")
-
-    source_prices = (
-        get_all_source_prices()
-    )
-
-    print(
-        "================================"
-    )
-
-    print(
-        "ALL SOURCE PRICES"
-    )
-
-    print(
-        json.dumps(
-            source_prices,
-            ensure_ascii=False,
-            indent=2,
-        )
-    )
-
-    print(
-        "================================"
-    )
-
-    print(
-        "VALIDATING PRICES"
-    )
-
-    prices = build_verified_prices(
-        source_prices
-    )
-
-    print(
-        "================================"
-    )
-
-    print(
-        "VERIFIED PRICES"
-    )
-
-    print(
-        json.dumps(
-            prices,
-            ensure_ascii=False,
-            indent=2,
-        )
-    )
+    # =====================================================
+    # ساخت پیام
+    # =====================================================
 
     message = build_message(
         prices,
-        previous_prices,
+        previous,
     )
+
+    # =====================================================
+    # ارسال
+    # =====================================================
 
     print(
         "Sending message to Telegram..."
@@ -1774,6 +1194,10 @@ def main():
     print(
         "Telegram message sent successfully."
     )
+
+    # =====================================================
+    # ذخیره وضعیت
+    # =====================================================
 
     if (
         scheduled_run
@@ -1802,7 +1226,7 @@ def main():
 
 
 # =========================================================
-# اجرا
+# شروع برنامه
 # =========================================================
 
 if __name__ == "__main__":
