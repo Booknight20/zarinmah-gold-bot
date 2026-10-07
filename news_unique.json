@@ -1,43 +1,5 @@
 [
   {
-    "source": "دنیای اقتصاد",
-    "title": "نرخ ارز دلار، طلا و یورو امروز سه‌شنبه ۱۴ مهر ۱۴۰۵",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4299966-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
-    "summary": "<img src=\"https://cdn.donya-e-eqtesad.com/thumbnail/b7ek5c40ay1F/CjRxp5qG1cmEWIlhaH818SDXWP2hNFnwfxyAiaICmUsGadYJ8OFNnlSj37wf3nzT_KglO0XoLDej22-b--HhLWynkjodOUWmeVhAbqq9kcNLe02csxIZ5g,,/%D8%B7%D9%84%D8%A7+%D9%88+%D8%B3%DA%A9%D9%87.jpg\" /> <div> طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد افزایش قیمت طلای ۱۸ عیار و‌کاهش سکه امامی نسبت به قیمت بسته‌شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.</div>",
-    "published": "Tue, 06 Oct 2026 10:59:32 +0000",
-    "collected_at": "2026-10-06T15:15:20.764898+03:30",
-    "market_score": 47,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [
-      "دلار",
-      "نرخ ارز",
-      "ارز",
-      "یورو",
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مشرق",
     "title": "راز صعود طلا در داخل به ۲۶.۸ میلیون چیست؟",
     "link": "https://www.mashreghnews.ir/news/1844003/%D8%B1%D8%A7%D8%B2-%D8%B5%D8%B9%D9%88%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A8%D9%87-%DB%B2%DB%B6-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DA%86%DB%8C%D8%B3%D8%AA",
@@ -807,34 +769,6 @@
       "دلار",
       "ارز",
       "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت دلار، یورو و درهم امروز سه‌شنبه ‌۱۴ مهر ۱۴۰۵",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4299965-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
-    "summary": "<img src=\"https://cdn.donya-e-eqtesad.com/thumbnail/Ax7DftzSeHwd/CjRxp5qG1cmEWIlhaH818SDXWP2hNFnwfxyAiaICmUsGadYJ8OFNnlSj37wf3nzT_KglO0XoLDej22-b--HhLWynkjodOUWmGQIusCsZdA9Le02csxIZ5g,,/%D8%AF%D9%84%D8%A7%D8%B1%2B%D9%88%2B%DB%8C%D9%88%D8%B1%D9%88.jpg\" /> <div>قیمت دلار حواله‌ای امروز با افزایش نسبت به روز گذشته، از 175754 (یکصد و هفتاد و پنج هزار و هفتصد و پنجاه و چهار) تومان به 176810 (یکصد و هفتاد و شش هزار و هشتصد و ده) تومان رسید.</div>",
-    "published": "Tue, 06 Oct 2026 10:57:16 +0000",
-    "collected_at": "2026-10-06T15:15:20.764909+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "یورو",
-        "درهم"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "یورو",
-      "درهم"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -1945,6 +1879,30 @@
   },
   {
     "source": "مهر",
+    "title": "محکومیت ۷ میلیارد ریالی جایگاه سوخت متخلف در پیشوا",
+    "link": "https://www.mehrnews.com/news/6970896/%D9%85%D8%AD%DA%A9%D9%88%D9%85%DB%8C%D8%AA-%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%B3%D9%88%D8%AE%D8%AA-%D9%85%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D9%BE%DB%8C%D8%B4%D9%88%D8%A7",
+    "summary": "ورامین- رئیس اداره تعزیرات حکومتی ورامین از محکومیت ۷ میلیارد ریالی یک جایگاه سوخت در پیشوا به دلیل عرضه و فروش گازوئیل خارج از ضوابط و شبکه های مجاز خبر داد.",
+    "published": "Wed, 07 Oct 2026 11:01:47 GMT",
+    "collected_at": "2026-10-07T14:47:16.322896+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
     "title": "سهم ناچیز ایران از بازار ۷ هزار میلیارد دلاری محصولات حلال",
     "link": "https://www.mehrnews.com/news/6970688/%D8%B3%D9%87%D9%85-%D9%86%D8%A7%DA%86%DB%8C%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%AD%D9%84%D8%A7%D9%84",
     "summary": "رئیس مرکز ملی تحقیقات حلال سازمان غذا و دارو، از سهم ناچیز ایران از بازار ۷ هزار میلیارد دلاری محصولات حلال در دنیا خبر داد و گفت: ما باید در این بازار، بیشتر کار کنیم.",
@@ -2397,6 +2355,78 @@
     "high_impact_matches": [
       "تنگه هرمز"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "ارزیابی رئیس اتحادیه طلا و جواهر از بازار طلا/ خرید طلا کاهش یافت/ قیمت ها حباب دارند",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300260-%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%B7%D9%84%D8%A7-%D8%AC%D9%88%D8%A7%D9%87%D8%B1-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
+    "summary": "رئیس اتحادیه طلا و جواهر گفت: برخلاف برخی دوره های گذشته که افزایش قیمت ها موجب ورود خریداران بیشتر به بازار می شد، اکنون چنین وضعیتی وجود ندارد و شاهد حباب قیمتی در بازار هستیم.",
+    "published": "Wed, 07 Oct 2026 11:08:11 +0000",
+    "collected_at": "2026-10-07T14:47:28.785694+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "رفع تعهد ارزی از مهم ترین مشکلات تولیدکنندگان است",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C-132/4300261-%D8%B1%D9%81%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%D8%B2-%D9%85%D9%87%D9%85-%D8%AA%D8%B1%DB%8C%D9%86-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
+    "summary": "مدیرعامل صنایع غذایی شیرین متین گفت: عدم ثبات قیمت مواد اولیه و رفع تعهد ارزی از مهم ترین مشکلات تولیدکنندگان است.",
+    "published": "Wed, 07 Oct 2026 11:09:20 +0000",
+    "collected_at": "2026-10-07T14:47:28.785676+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "بابایی: موانع بانکی و ارزی تولیدکنندگان یزد رفع شود",
+    "link": "https://www.mehrnews.com/news/6970874/%D8%A8%D8%A7%D8%A8%D8%A7%DB%8C%DB%8C-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D8%A8%D8%A7%D9%86%DA%A9%DB%8C-%D9%88-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%DB%8C%D8%B2%D8%AF-%D8%B1%D9%81%D8%B9-%D8%B4%D9%88%D8%AF",
+    "summary": "یزد- استاندار یزد با تأکید بر حمایت از بخش تولید، خواستار رفع سریع موانع بانکی، ارزی و مالیاتی واحدهای تولیدی و جلوگیری از آسیب به روند تولید و اشتغال استان شد.",
+    "published": "Wed, 07 Oct 2026 11:08:38 GMT",
+    "collected_at": "2026-10-07T14:47:16.322693+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
