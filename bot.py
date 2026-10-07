@@ -53,19 +53,6 @@ PRICE_SOURCES = {
 
 
 # =========================================================
-# دارایی‌ها
-# =========================================================
-
-ASSETS = [
-    "gold18",
-    "coin",
-    "half",
-    "quarter",
-    "dollar",
-]
-
-
-# =========================================================
 # تبدیل اعداد فارسی و عربی
 # =========================================================
 
@@ -259,7 +246,6 @@ def fetch_channel_posts(
         if not ids:
             break
 
-        # برای رفتن به پست‌های قدیمی‌تر
         next_before = str(
             min(ids)
         )
@@ -278,117 +264,33 @@ def fetch_channel_posts(
 
 
 # =========================================================
-# استخراج اولین قیمت بعد از برچسب
+# نرمال‌سازی برای جستجو
 # =========================================================
 
-def first_price_after(
-    text,
-    label_regex,
+def normalize_search(text):
+    text = normalize_digits(
+        clean_text(text)
+    )
+
+    text = re.sub(
+        r"[ \t]+",
+        " ",
+        text,
+    )
+
+    return text
+
+
+# =========================================================
+# استخراج «قیمت لحظه ای» از یک بخش
+# فقط همین فیلد معتبر است
+# =========================================================
+
+def parse_instant_price(
+    section,
     minimum,
     maximum,
-    unit="rial",
 ):
-    text = normalize_digits(
-        clean_text(text)
-    )
-
-    pattern = (
-        label_regex
-        + r".{0,180}?"
-        + r"([\d,]+)"
-        + r"\s*(ریال|تومان|تومن)?"
-    )
-
-    match = re.search(
-        pattern,
-        text,
-        flags=re.IGNORECASE | re.DOTALL,
-    )
-
-    if not match:
-        return None
-
-    detected_unit = unit
-
-    if match.group(2) in (
-        "تومان",
-        "تومن",
-    ):
-        detected_unit = "toman"
-
-    elif match.group(2) == "ریال":
-        detected_unit = "rial"
-
-    value = parse_number(
-        match.group(1),
-        detected_unit,
-    )
-
-    if (
-        value
-        and minimum <= value <= maximum
-    ):
-        return value
-
-    return None
-
-
-# =========================================================
-# TGJU طلا
-# =========================================================
-
-def parse_gold_post(text):
-
-    patterns = [
-        r"طلای\s*(?:18|۱۸)\s*عیار",
-        r"هر\s*گرم\s*طلای\s*(?:18|۱۸)\s*عیار",
-        r"گرم\s*طلای\s*(?:18|۱۸)\s*عیار",
-    ]
-
-    for pattern in patterns:
-
-        value = first_price_after(
-            text,
-            pattern,
-            100_000,
-            500_000_000,
-            "rial",
-        )
-
-        if value:
-            return {
-                "gold18": value
-            }
-
-    return {}
-
-
-# =========================================================
-# TGJU ارز
-# =========================================================
-
-def parse_currency_post(text):
-
-    text = normalize_digits(
-        clean_text(text)
-    )
-
-    # فقط بخش اصلی #قیمت_دلار
-    # نه توافقی، هرات، سلیمانیه و غیره
-
-    section_match = re.search(
-        r"#قیمت[_\s]*دلار\b"
-        r"(.*?)"
-        r"(?=(?:🇺🇸|⭕️|#قیمت[_\s])|$)",
-        text,
-        flags=re.IGNORECASE | re.DOTALL,
-    )
-
-    if not section_match:
-        return {}
-
-    section = section_match.group(1)
-
     match = re.search(
         r"قیمت\s*لحظه\s*ای"
         r"\s*[:：]?\s*"
@@ -399,113 +301,250 @@ def parse_currency_post(text):
     )
 
     if not match:
-        return {}
+        return None
 
     value = parse_number(
         match.group(1),
         "rial",
     )
 
-    if (
-        value
-        and 100_000 <= value <= 1_000_000
+    if value is None:
+        return None
+
+    if not (
+        minimum <= value <= maximum
     ):
-        return {
-            "dollar": value
-        }
+        return None
+
+    return value
+
+
+# =========================================================
+# استخراج بخش اختصاصی یک دارایی
+# از عنوان دارایی تا شروع عنوان بعدی
+# =========================================================
+
+def extract_asset_section(
+    text,
+    start_pattern,
+):
+    text = normalize_search(text)
+
+    match = re.search(
+        start_pattern,
+        text,
+        flags=re.IGNORECASE,
+    )
+
+    if not match:
+        return None
+
+    start = match.end()
+
+    remaining = text[start:]
+
+    # عنوان بخش بعدی در پست‌های TGJU
+    # معمولاً با ⭕️ شروع می‌شود.
+    next_section = re.search(
+        r"(?:^|\n)\s*⭕️",
+        remaining,
+    )
+
+    if next_section:
+        return remaining[
+            :next_section.start()
+        ]
+
+    return remaining
+
+
+# =========================================================
+# کانال TGJU طلا
+# فقط «قیمت لحظه ای» طلای ۱۸
+# =========================================================
+
+def parse_gold_post(text):
+
+    patterns = [
+        r"(?:^|\n)\s*⭕️\s*قیمت\s*طلای\s*(?:18|۱۸)\s*عیار",
+        r"(?:^|\n)\s*قیمت\s*طلای\s*(?:18|۱۸)\s*عیار",
+        r"(?:^|\n)\s*طلای\s*(?:18|۱۸)\s*عیار",
+    ]
+
+    for pattern in patterns:
+
+        section = extract_asset_section(
+            text,
+            pattern,
+        )
+
+        if section is None:
+            continue
+
+        price = parse_instant_price(
+            section,
+            100_000,
+            500_000_000,
+        )
+
+        if price:
+
+            return {
+                "gold18": price,
+            }
 
     return {}
 
 
 # =========================================================
-# TGJU سکه
+# کانال TGJU ارز
+# فقط «قیمت لحظه ای» #قیمت_دلار اصلی
+# =========================================================
+
+def parse_currency_post(text):
+
+    text = normalize_search(
+        text
+    )
+
+    match = re.search(
+        r"#قیمت[_\s]*دلار\b",
+        text,
+        flags=re.IGNORECASE,
+    )
+
+    if not match:
+        return {}
+
+    section_start = match.end()
+
+    remaining = text[
+        section_start:
+    ]
+
+    # پایان بخش دلار اصلی
+    # قبل از دلار توافقی / سلیمانیه / هرات
+    stop_patterns = [
+        r"#قیمت[_\s]*دلار[_\s]*توافقی",
+        r"#قیمت[_\s]*دلار[_\s]*سلیمانیه",
+        r"#قیمت[_\s]*دلار[_\s]*هرات",
+        r"⭕️\s*قیمت\s*دلار\s*دولتی",
+        r"قیمت\s*دلار\s*دولتی",
+    ]
+
+    stop_positions = []
+
+    for pattern in stop_patterns:
+
+        stop = re.search(
+            pattern,
+            remaining,
+            flags=re.IGNORECASE,
+        )
+
+        if stop:
+            stop_positions.append(
+                stop.start()
+            )
+
+    if stop_positions:
+
+        section = remaining[
+            :min(stop_positions)
+        ]
+
+    else:
+
+        section = remaining
+
+    price = parse_instant_price(
+        section,
+        100_000,
+        1_000_000,
+    )
+
+    if not price:
+        return {}
+
+    return {
+        "dollar": price,
+    }
+
+
+# =========================================================
+# کانال TGJU سکه
+# فقط «قیمت لحظه ای» هر بخش
 # =========================================================
 
 def parse_coin_post(text):
 
-    text = normalize_digits(
-        clean_text(text)
+    text = normalize_search(
+        text
     )
 
     result = {}
 
-    patterns = {
-        "coin": (
-            r"سکه\s*امامی"
-            r".{0,220}?"
-            r"قیمت\s*لحظه\s*ای"
-            r"\s*[:：]?\s*"
-            r"([\d,]+)\s*ریال"
-        ),
-        "half": (
-            r"نیم\s*سکه"
-            r".{0,220}?"
-            r"قیمت\s*لحظه\s*ای"
-            r"\s*[:：]?\s*"
-            r"([\d,]+)\s*ریال"
-        ),
-        "quarter": (
-            r"ربع\s*سکه"
-            r".{0,220}?"
-            r"قیمت\s*لحظه\s*ای"
-            r"\s*[:：]?\s*"
-            r"([\d,]+)\s*ریال"
-        ),
+    definitions = {
+        "coin": {
+            "pattern": (
+                r"(?:^|\n)\s*⭕️\s*"
+                r"سکه\s*امامی"
+            ),
+            "min": 100_000_000,
+            "max": 5_000_000_000,
+        },
+
+        "half": {
+            "pattern": (
+                r"(?:^|\n)\s*⭕️\s*"
+                r"نیم\s*سکه"
+            ),
+            "min": 50_000_000,
+            "max": 2_000_000_000,
+        },
+
+        "quarter": {
+            "pattern": (
+                r"(?:^|\n)\s*⭕️\s*"
+                r"ربع\s*سکه"
+            ),
+            "min": 20_000_000,
+            "max": 1_000_000_000,
+        },
     }
 
-    ranges = {
-        "coin": (
-            100_000_000,
-            5_000_000_000,
-        ),
-        "half": (
-            50_000_000,
-            2_000_000_000,
-        ),
-        "quarter": (
-            20_000_000,
-            1_000_000_000,
-        ),
-    }
+    for asset, config in (
+        definitions.items()
+    ):
 
-    for asset, pattern in patterns.items():
-
-        match = re.search(
-            pattern,
+        section = extract_asset_section(
             text,
-            flags=re.IGNORECASE | re.DOTALL,
+            config["pattern"],
         )
 
-        if not match:
+        if section is None:
             continue
 
-        value = parse_number(
-            match.group(1),
-            "rial",
+        price = parse_instant_price(
+            section,
+            config["min"],
+            config["max"],
         )
 
-        minimum, maximum = ranges[
-            asset
-        ]
+        if price:
 
-        if (
-            value
-            and minimum <= value <= maximum
-        ):
-            result[asset] = value
+            result[asset] = price
 
     return result
 
 
 # =========================================================
-# دریافت آخرین قیمت از هر کانال
-# مهم: از جدیدترین پست به قدیمی‌ترین
+# دریافت آخرین پست معتبر
 # =========================================================
 
 def get_latest_parsed(
     channel_key,
 ):
-
     config = PRICE_SOURCES[
         channel_key
     ]
@@ -524,12 +563,7 @@ def get_latest_parsed(
 
     latest = {}
 
-    # -----------------------------------------------------
-    # نکته اصلی:
-    # Telegram HTML می‌تواند پست‌ها را قدیمی -> جدید برگرداند.
-    # بنابراین عمداً reversed می‌کنیم.
-    # -----------------------------------------------------
-
+    # پست جدیدتر را اول بررسی می‌کنیم
     for index, post in enumerate(
         reversed(posts),
         start=1,
@@ -544,7 +578,7 @@ def get_latest_parsed(
 
         print(
             f"{config['name']} "
-            f"latest candidate #{index}:",
+            f"newest valid candidate #{index}:",
             parsed,
         )
 
@@ -558,10 +592,6 @@ def get_latest_parsed(
                     "price": price,
                     "link": post["link"],
                 }
-
-        # -------------------------------------------------
-        # وقتی قیمت مورد نیاز پیدا شد، توقف
-        # -------------------------------------------------
 
         if (
             channel_key == "gold"
@@ -590,7 +620,7 @@ def get_latest_parsed(
 
     print(
         f"{config['name']} "
-        "latest parsed prices:"
+        "LATEST INSTANT PRICES:"
     )
 
     print(
@@ -605,16 +635,16 @@ def get_latest_parsed(
 
 
 # =========================================================
-# دریافت قیمت رسمی
+# دریافت همه قیمت‌های رسمی TGJU
 # =========================================================
 
 def get_official_prices():
 
     prices = {}
 
-    # -----------------------------------------------------
+    # -----------------------------------------
     # طلای ۱۸
-    # -----------------------------------------------------
+    # -----------------------------------------
 
     gold = get_latest_parsed(
         "gold"
@@ -623,17 +653,17 @@ def get_official_prices():
     if "gold18" not in gold:
 
         raise RuntimeError(
-            "قیمت طلای ۱۸ عیار "
-            "در آخرین پست‌های TGJU پیدا نشد."
+            "قیمت لحظه ای طلای ۱۸ "
+            "در TGJU پیدا نشد."
         )
 
     prices["gold18"] = (
         gold["gold18"]["price"]
     )
 
-    # -----------------------------------------------------
+    # -----------------------------------------
     # دلار
-    # -----------------------------------------------------
+    # -----------------------------------------
 
     currency = get_latest_parsed(
         "currency"
@@ -642,17 +672,17 @@ def get_official_prices():
     if "dollar" not in currency:
 
         raise RuntimeError(
-            "قیمت دلار اصلی "
-            "در آخرین پست‌های TGJU پیدا نشد."
+            "قیمت لحظه ای دلار "
+            "در TGJU پیدا نشد."
         )
 
     prices["dollar"] = (
         currency["dollar"]["price"]
     )
 
-    # -----------------------------------------------------
+    # -----------------------------------------
     # سکه
-    # -----------------------------------------------------
+    # -----------------------------------------
 
     coin = get_latest_parsed(
         "coin"
@@ -667,8 +697,8 @@ def get_official_prices():
         if asset not in coin:
 
             raise RuntimeError(
-                f"قیمت {asset} "
-                "در آخرین پست‌های TGJU پیدا نشد."
+                f"قیمت لحظه ای {asset} "
+                "در TGJU پیدا نشد."
             )
 
         prices[asset] = (
@@ -680,7 +710,8 @@ def get_official_prices():
     )
 
     print(
-        "LATEST OFFICIAL TGJU PRICES:"
+        "LATEST OFFICIAL TGJU "
+        "INSTANT PRICES:"
     )
 
     print(
@@ -724,6 +755,10 @@ def load_previous_prices():
 
         return None
 
+
+# =========================================================
+# ذخیره قیمت فعلی
+# =========================================================
 
 def save_current_prices(
     prices,
@@ -773,6 +808,10 @@ def load_send_status():
 
         return {}
 
+
+# =========================================================
+# ذخیره وضعیت ارسال
+# =========================================================
 
 def save_hourly_send_status(
     slot,
@@ -852,7 +891,7 @@ def build_message(
     )
 
     return f"""🌙✨ زرین ماه
-💎 آخرین قیمت رسمی TGJU
+💎 آخرین قیمت لحظه‌ای رسمی TGJU
 
 ━━━━━━━━━━━━━━━━━━
 
@@ -895,11 +934,11 @@ def build_message(
 
 🕒 آخرین بروزرسانی: {update_time}
 
-📊 منابع رسمی TGJU:
+📊 منبع: TGJU
 
-🔸 https://t.me/tgjugold
-🔸 https://t.me/tgjucoin
-🔸 https://t.me/tgjucurrency
+🔸 طلا: https://t.me/tgjugold
+🔸 سکه: https://t.me/tgjucoin
+🔸 ارز: https://t.me/tgjucurrency
 
 ━━━━━━━━━━━━━━━━━━
 
@@ -973,8 +1012,8 @@ def main():
     )
 
     print(
-        "Starting ZarinMah verified "
-        "TGJU price bot..."
+        "Starting ZarinMah "
+        "TGJU instant price bot..."
     )
 
     print(
@@ -1082,7 +1121,7 @@ def main():
     )
 
     # =====================================================
-    # آخرین قیمت رسمی TGJU
+    # دریافت قیمت لحظه‌ای واقعی
     # =====================================================
 
     prices = (
@@ -1131,6 +1170,10 @@ def main():
             "Hourly send status saved."
         )
 
+    # =====================================================
+    # ذخیره قیمت‌ها
+    # =====================================================
+
     save_current_prices(
         prices
     )
@@ -1145,7 +1188,7 @@ def main():
 
 
 # =========================================================
-# شروع
+# اجرا
 # =========================================================
 
 if __name__ == "__main__":
