@@ -12,8 +12,12 @@ from bot import (
 )
 
 
+# =========================================================
+# تنظیمات
+# =========================================================
+
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-CHANNEL = "@ZarinMahGold"
+TELEGRAM_CHANNEL = "@ZarinMahGold"
 
 TEHRAN = ZoneInfo("Asia/Tehran")
 
@@ -50,22 +54,100 @@ PERSIAN_MONTHS = [
     "اسفند",
 ]
 
+GREGORIAN_MONTHS = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+]
+
+
+# =========================================================
+# ابزارهای کمکی
+# =========================================================
 
 def to_persian_digits(value):
     table = str.maketrans(
         "0123456789",
         "۰۱۲۳۴۵۶۷۸۹",
     )
+
     return str(value).translate(table)
 
 
+def format_price(value):
+    if value is None:
+        return "نامشخص"
+
+    try:
+        number = float(value)
+    except (ValueError, TypeError):
+        return str(value)
+
+    if number.is_integer():
+        text = f"{int(number):,}"
+    else:
+        text = f"{number:,.2f}"
+
+    return to_persian_digits(text)
+
+
+def format_percent(value):
+    if value is None:
+        return "—"
+
+    sign = "+" if value > 0 else ""
+
+    return to_persian_digits(
+        f"{sign}{value:.2f}%"
+    )
+
+
+def percent_change(current, previous):
+    if current is None:
+        return None
+
+    if previous is None:
+        return None
+
+    try:
+        current = float(current)
+        previous = float(previous)
+    except (ValueError, TypeError):
+        return None
+
+    if previous == 0:
+        return None
+
+    return (
+        (current - previous)
+        / previous
+    ) * 100
+
+
+# =========================================================
+# وضعیت ارسال
+# =========================================================
+
 def load_send_status():
+    default_status = {
+        "hourly": {},
+        "daily": {},
+        "watchdog": {},
+        "daily_telegram": {},
+        "daily_eitaa": {},
+    }
+
     if not os.path.exists(STATUS_FILE):
-        return {
-            "hourly": {},
-            "daily": {},
-            "watchdog": {},
-        }
+        return default_status
 
     try:
         with open(
@@ -78,9 +160,8 @@ def load_send_status():
         if not isinstance(data, dict):
             data = {}
 
-        data.setdefault("hourly", {})
-        data.setdefault("daily", {})
-        data.setdefault("watchdog", {})
+        for key, value in default_status.items():
+            data.setdefault(key, value)
 
         return data
 
@@ -90,11 +171,7 @@ def load_send_status():
             repr(error),
         )
 
-        return {
-            "hourly": {},
-            "daily": {},
-            "watchdog": {},
-        }
+        return default_status
 
 
 def save_send_status(status):
@@ -111,49 +188,71 @@ def save_send_status(status):
         )
 
 
-def is_daily_sent_today(slot):
-    status = load_send_status()
+def destination_sent_today(
+    status,
+    destination,
+    slot,
+):
+    key = f"daily_{destination}"
 
-    daily = status.get(
-        "daily",
+    record = status.get(
+        key,
         {},
     )
 
-    if not isinstance(daily, dict):
+    if not isinstance(record, dict):
         return False
 
     return (
-        daily.get("slot") == slot
-        and daily.get("telegram") is True
-        and daily.get("eitaa") is True
+        record.get("slot")
+        == slot
     )
 
 
-def save_daily_telegram_status(slot):
+def save_daily_destination_status(
+    destination,
+    slot,
+):
     status = load_send_status()
 
-    daily = status.get(
-        "daily",
-        {},
-    )
+    key = f"daily_{destination}"
 
-    if not isinstance(daily, dict):
-        daily = {}
-
-    daily["slot"] = slot
-    daily["telegram"] = True
-    daily.setdefault(
-        "eitaa",
-        False,
-    )
-    daily["updated_at"] = datetime.now(
-        TEHRAN
-    ).isoformat()
-
-    status["daily"] = daily
+    status[key] = {
+        "slot": slot,
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
+    }
 
     save_send_status(status)
 
+    print(
+        f"Daily {destination} status saved:",
+        slot,
+    )
+
+
+def mark_daily_complete(slot):
+    status = load_send_status()
+
+    status["daily"] = {
+        "slot": slot,
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
+    }
+
+    save_send_status(status)
+
+    print(
+        "Daily send status saved:",
+        slot,
+    )
+
+
+# =========================================================
+# تاریخ
+# =========================================================
 
 def get_today_info():
     now = datetime.now(TEHRAN)
@@ -171,14 +270,25 @@ def get_today_info():
     return {
         "now": now,
         "jalali": jalali,
-        "weekday": WEEKDAYS[now.weekday()],
+        "weekday": WEEKDAYS[
+            now.weekday()
+        ],
         "date_text": to_persian_digits(
             date_text
         ),
     }
 
 
+# =========================================================
+# مناسبت‌های امروز
+# =========================================================
+
 def get_occasions(today):
+    jalali = today["jalali"]
+    now = today["now"]
+
+    occasions = []
+
     try:
         response = requests.get(
             OCCASIONS_URL,
@@ -189,36 +299,20 @@ def get_occasions(today):
 
         data = response.json()
 
-        jalali = today["jalali"]
-
-        result = []
-
         for item in data:
             date = item.get(
                 "date",
                 {},
             )
 
-            if date.get("type") != "shamsi":
-                continue
+            date_type = date.get(
+                "type"
+            )
 
             values = date.get(
                 "date",
                 [],
             )
-
-            if len(values) < 2:
-                continue
-
-            try:
-                day = int(values[0])
-            except (
-                ValueError,
-                TypeError,
-            ):
-                continue
-
-            month_name = values[1]
 
             event_name = item.get(
                 "event_name",
@@ -228,82 +322,66 @@ def get_occasions(today):
             if not event_name:
                 continue
 
-            if (
-                day == jalali.day
-                and month_name
-                == PERSIAN_MONTHS[
-                    jalali.month - 1
-                ]
-            ):
-                if event_name not in result:
-                    result.append(
+            if len(values) < 2:
+                continue
+
+            try:
+                day = int(values[0])
+            except (ValueError, TypeError):
+                continue
+
+            month_name = values[1]
+
+            if date_type == "shamsi":
+
+                if (
+                    day == jalali.day
+                    and month_name
+                    == PERSIAN_MONTHS[
+                        jalali.month - 1
+                    ]
+                ):
+                    occasions.append(
                         event_name
                     )
 
-        return result[:1]
+            elif date_type == "gregorian":
+
+                current_month_name = (
+                    GREGORIAN_MONTHS[
+                        now.month - 1
+                    ]
+                )
+
+                if (
+                    day == now.day
+                    and month_name
+                    == current_month_name
+                ):
+                    occasions.append(
+                        event_name
+                    )
+
+        unique = []
+
+        for item in occasions:
+            if item not in unique:
+                unique.append(item)
+
+        return unique[:2]
 
     except Exception as error:
         print(
             "Could not load occasions:",
             repr(error),
         )
+
         return []
 
 
-def percent_change(
-    current,
-    previous,
-):
-    if current is None or previous is None:
-        return None
-
-    try:
-        current = float(current)
-        previous = float(previous)
-    except (
-        ValueError,
-        TypeError,
-    ):
-        return None
-
-    if previous == 0:
-        return None
-
-    return (
-        (current - previous)
-        / previous
-    ) * 100
-
-
-def format_price(value):
-    if value is None:
-        return "نامشخص"
-
-    try:
-        number = float(value)
-    except (
-        ValueError,
-        TypeError,
-    ):
-        return str(value)
-
-    return to_persian_digits(
-        f"{int(number):,}"
-        if number.is_integer()
-        else f"{number:,.2f}"
-    )
-
-
-def format_change(value):
-    if value is None:
-        return "—"
-
-    sign = "+" if value > 0 else ""
-
-    return to_persian_digits(
-        f"{sign}{value:.2f}%"
-    )
-
+# =========================================================
+# تحلیل
+# =========================================================
 
 def build_analysis(
     prices,
@@ -321,16 +399,28 @@ def build_analysis(
         previous.get("coin"),
     )
 
+    half = percent_change(
+        prices.get("half"),
+        previous.get("half"),
+    )
+
+    quarter = percent_change(
+        prices.get("quarter"),
+        previous.get("quarter"),
+    )
+
     dollar = percent_change(
         prices.get("dollar"),
         previous.get("dollar"),
     )
 
-    values = [
+    all_changes = [
         value
         for value in [
             gold,
             coin,
+            half,
+            quarter,
             dollar,
         ]
         if value is not None
@@ -338,51 +428,212 @@ def build_analysis(
 
     positive = sum(
         1
-        for value in values
+        for value in all_changes
         if value > 0.20
     )
 
     negative = sum(
         1
-        for value in values
+        for value in all_changes
         if value < -0.20
     )
 
-    if positive >= 2:
-        market = "📊 بازار: متمایل به صعود"
+    neutral = sum(
+        1
+        for value in all_changes
+        if -0.20 <= value <= 0.20
+    )
 
-    elif negative >= 2:
-        market = "📊 بازار: متمایل به نزول"
-
-    else:
-        market = "📊 بازار: نوسانی"
-
-    if gold is not None and gold > 0.50:
-        buyer = (
-            "🛍 خرید: قبل از تصمیم، "
-            "چند نرخ اخیر را مقایسه کنید."
+    if not all_changes:
+        market = (
+            "بازار: داده قبلی کافی نیست."
         )
 
-    elif gold is not None and gold < -0.50:
+    elif positive >= 3:
+        market = (
+            "بازار: کفه حرکت‌های صعودی سنگین‌تر است."
+        )
+
+    elif negative >= 3:
+        market = (
+            "بازار: کفه حرکت‌های نزولی سنگین‌تر است."
+        )
+
+    else:
+        market = (
+            "بازار: حرکت قیمت‌ها یکدست نیست و "
+            "شرایط نوسانی است."
+        )
+
+    changes = {
+        "طلای ۱۸ عیار": gold,
+        "سکه": coin,
+        "نیم‌سکه": half,
+        "ربع‌سکه": quarter,
+        "دلار": dollar,
+    }
+
+    valid_changes = [
+        (name, value)
+        for name, value in changes.items()
+        if value is not None
+    ]
+
+    if valid_changes:
+        strongest_name, strongest_value = max(
+            valid_changes,
+            key=lambda item: abs(item[1]),
+        )
+
+        strongest = (
+            f"بیشترین تغییر: {strongest_name} "
+            f"{format_percent(strongest_value)}"
+        )
+
+    else:
+        strongest = (
+            "بیشترین تغییر: داده کافی نیست."
+        )
+
+    if (
+        gold is not None
+        and dollar is not None
+    ):
+        if (
+            gold > 0.20
+            and dollar > 0.20
+        ):
+            gold_dollar = (
+                "طلا و دلار در یک جهت صعودی حرکت کرده‌اند."
+            )
+
+        elif (
+            gold < -0.20
+            and dollar < -0.20
+        ):
+            gold_dollar = (
+                "طلا و دلار هر دو کاهش داشته‌اند."
+            )
+
+        elif (
+            (gold > 0.20 and dollar < -0.20)
+            or
+            (gold < -0.20 and dollar > 0.20)
+        ):
+            gold_dollar = (
+                "بین حرکت طلا و دلار واگرایی کوتاه‌مدت دیده می‌شود."
+            )
+
+        else:
+            gold_dollar = (
+                "حرکت طلا و دلار نسبتاً کم‌نوسان بوده است."
+            )
+    else:
+        gold_dollar = (
+            "برای مقایسه طلا و دلار داده کافی نیست."
+        )
+
+    if (
+        coin is not None
+        and gold is not None
+    ):
+        difference = coin - gold
+
+        if difference > 0.30:
+            coin_gold = (
+                "سکه نسبت به طلا حرکت قوی‌تری داشته است."
+            )
+
+        elif difference < -0.30:
+            coin_gold = (
+                "سکه نسبت به طلا حرکت ضعیف‌تری داشته است."
+            )
+
+        else:
+            coin_gold = (
+                "سکه و طلا تقریباً هم‌جهت حرکت کرده‌اند."
+            )
+    else:
+        coin_gold = (
+            "برای مقایسه سکه و طلا داده کافی نیست."
+        )
+
+    if all_changes:
+        average_change = (
+            sum(
+                abs(value)
+                for value in all_changes
+            )
+            / len(all_changes)
+        )
+    else:
+        average_change = None
+
+    if average_change is None:
+        volatility = (
+            "شدت نوسان قابل محاسبه نیست."
+        )
+
+    elif average_change >= 1.0:
+        volatility = (
+            "نوسان بازار نسبتاً قابل‌توجه بوده است."
+        )
+
+    elif average_change >= 0.30:
+        volatility = (
+            "بازار نوسان متوسط داشته است."
+        )
+
+    else:
+        volatility = (
+            "حرکت قیمت‌ها نسبتاً آرام بوده است."
+        )
+
+    if (
+        gold is not None
+        and gold > 0.50
+    ):
         buyer = (
-            "🛍 خرید: کاهش اخیر را با "
-            "چند نرخ اخیر بررسی کنید."
+            "خریدار: چند نرخ اخیر، وزن و اجرت "
+            "را قبل از خرید مقایسه کند."
+        )
+
+    elif (
+        gold is not None
+        and gold < -0.50
+    ):
+        buyer = (
+            "خریدار: کاهش اخیر را با چند نرخ "
+            "متوالی و اجرت محصول مقایسه کند."
         )
 
     else:
         buyer = (
-            "🛍 خرید: قیمت، وزن و اجرت را "
-            "همزمان بررسی کنید."
+            "خریدار: قیمت روز، وزن و اجرت "
+            "را همزمان بررسی کند."
         )
 
     return {
         "gold": gold,
         "coin": coin,
+        "half": half,
+        "quarter": quarter,
         "dollar": dollar,
         "market": market,
+        "strongest": strongest,
+        "gold_dollar": gold_dollar,
+        "coin_gold": coin_gold,
+        "volatility": volatility,
         "buyer": buyer,
+        "positive": positive,
+        "negative": negative,
+        "neutral": neutral,
     }
 
+
+# =========================================================
+# ساخت پیام کوتاه
+# =========================================================
 
 def build_message():
     today = get_today_info()
@@ -405,57 +656,50 @@ def build_message():
         today
     )
 
-    occasion_text = ""
-
     if occasions:
         occasion_text = (
-            "\n🎉 "
-            + occasions[0]
-            + "\n"
+            "🎉 "
+            + " | ".join(occasions)
         )
+    else:
+        occasion_text = ""
 
-    message = f"""🌙 زرین ماه | تحلیل روزانه
+    message = f"""🌙✨ زرین ماه | تحلیل روزانه
 
 📅 {today["weekday"]} | {today["date_text"]}
 {occasion_text}
-🟡 طلا: {format_price(prices.get("gold18"))} تومان
-   تغییر: {format_change(analysis["gold"])}
 
-🪙 سکه: {format_price(prices.get("coin"))} تومان
-   تغییر: {format_change(analysis["coin"])}
+💰 قیمت‌ها
 
+🟡 طلا: {format_price(prices.get("gold18"))} تومان | {format_percent(analysis["gold"])}
+🪙 سکه: {format_price(prices.get("coin"))} تومان | {format_percent(analysis["coin"])}
 🪙 نیم‌سکه: {format_price(prices.get("half"))} تومان
 🪙 ربع‌سکه: {format_price(prices.get("quarter"))} تومان
+💵 دلار: {format_price(prices.get("dollar"))} تومان | {format_percent(analysis["dollar"])}
 
-💵 دلار: {format_price(prices.get("dollar"))} تومان
-   تغییر: {format_change(analysis["dollar"])}
+📊 {analysis["market"]}
+📌 صعودی: {to_persian_digits(analysis["positive"])} | نزولی: {to_persian_digits(analysis["negative"])} | خنثی: {to_persian_digits(analysis["neutral"])}
 
-{analysis["market"]}
+🔎 {analysis["strongest"]}
+🔗 {analysis["gold_dollar"]}
+🪙 {analysis["coin_gold"]}
+📈 {analysis["volatility"]}
 
-{analysis["buyer"]}
+🛍 {analysis["buyer"]}
 
-🌙 @ZarinMahGold"""
+📌 مبنا: مقایسه با آخرین قیمت ذخیره‌شده قبلی ربات.
+این متن تحلیل خودکار است و پیش‌بینی قطعی بازار نیست.
+
+🌙 زرین ماه
+📲 @ZarinMahGold
+"""
 
     return message.strip()
 
 
-def save_daily_message(message):
-    with open(
-        DAILY_MESSAGE_FILE,
-        "w",
-        encoding="utf-8",
-    ) as file:
-        file.write(message)
-
-    print(
-        "Daily message saved."
-    )
-
-    print(
-        "Message length:",
-        len(message),
-    )
-
+# =========================================================
+# ارسال تلگرام
+# =========================================================
 
 def send_to_telegram(message):
     if not BOT_TOKEN:
@@ -469,7 +713,7 @@ def send_to_telegram(message):
     )
 
     payload = {
-        "chat_id": CHANNEL,
+        "chat_id": TELEGRAM_CHANNEL,
         "text": message,
     }
 
@@ -480,7 +724,7 @@ def send_to_telegram(message):
     )
 
     print(
-        "Telegram HTTP:",
+        "Telegram HTTP status:",
         response.status_code,
     )
 
@@ -489,17 +733,50 @@ def send_to_telegram(message):
         response.text,
     )
 
-    response.raise_for_status()
+    if response.status_code != 200:
+        response.raise_for_status()
 
     data = response.json()
 
     if not data.get("ok"):
         raise RuntimeError(
-            f"Telegram error: {data}"
+            f"Telegram returned an error: {data}"
         )
+
+    print(
+        "Telegram daily analysis sent successfully."
+    )
 
     return True
 
+
+# =========================================================
+# ذخیره پیام برای ایتا
+# =========================================================
+
+def save_daily_message(message):
+    with open(
+        DAILY_MESSAGE_FILE,
+        "w",
+        encoding="utf-8",
+    ) as file:
+        file.write(message)
+
+    print(
+        "Daily message saved to:",
+        DAILY_MESSAGE_FILE,
+    )
+
+    print(
+        "Daily message length:",
+        len(message),
+        "characters",
+    )
+
+
+# =========================================================
+# اجرای اصلی
+# =========================================================
 
 def main():
     now = datetime.now(TEHRAN)
@@ -508,11 +785,18 @@ def main():
         "%Y-%m-%d"
     )
 
-    manual_run = (
+    scheduled_run = (
         os.environ.get(
             "SCHEDULED_RUN"
         )
-        != "true"
+        == "true"
+    )
+
+    watchdog_retry = (
+        os.environ.get(
+            "WATCHDOG_RETRY"
+        )
+        == "true"
     )
 
     print(
@@ -524,70 +808,107 @@ def main():
     )
 
     print(
-        "Tehran:",
+        "Tehran time:",
         now.strftime(
             "%Y-%m-%d %H:%M:%S"
         ),
     )
 
     print(
-        "Manual run:",
-        manual_run,
+        "Scheduled run:",
+        scheduled_run,
+    )
+
+    print(
+        "Watchdog retry:",
+        watchdog_retry,
     )
 
     print(
         "==================================="
     )
 
-    # در اجرای زمان‌بندی‌شده:
-    # اگر هر دو مقصد قبلاً ارسال شده‌اند، کاری نکن.
-    #
-    # در اجرای دستی:
-    # همیشه دوباره ارسال کن.
+    status = load_send_status()
+
+    telegram_sent = destination_sent_today(
+        status,
+        "telegram",
+        current_slot,
+    )
+
+    eitaa_sent = destination_sent_today(
+        status,
+        "eitaa",
+        current_slot,
+    )
+
+    daily_complete = (
+        telegram_sent
+        and eitaa_sent
+    )
 
     if (
-        not manual_run
-        and is_daily_sent_today(
-            current_slot
-        )
+        scheduled_run
+        and daily_complete
     ):
         print(
-            "Daily analysis already sent today."
+            "Daily analysis already sent "
+            "to Telegram and Eitaa for:",
+            current_slot,
         )
         return
 
+    # حتی اگر تلگرام قبلاً فرستاده شده باشد،
+    # پیام جدید را می‌سازیم تا ایتا بتواند آن را retry کند.
     message = build_message()
 
     print(
-        "Generated daily message:"
+        "Generated daily analysis:"
     )
 
-    print(
-        message
-    )
+    print(message)
 
     save_daily_message(
         message
     )
 
+    # -----------------------------------------------------
+    # تلگرام
+    # -----------------------------------------------------
+
+    if telegram_sent:
+        print(
+            "Telegram already sent for:",
+            current_slot,
+        )
+
+    else:
+        print(
+            "Sending daily analysis to Telegram..."
+        )
+
+        send_to_telegram(
+            message
+        )
+
+        save_daily_destination_status(
+            "telegram",
+            current_slot,
+        )
+
+        telegram_sent = True
+
+    # -----------------------------------------------------
+    # ایتا
+    # -----------------------------------------------------
+    #
+    # ایتا در این فایل ارسال نمی‌شود.
+    # فایل send_daily_eitaa.py بعد از این مرحله
+    # همان daily_message.txt را مستقیماً ارسال می‌کند.
+    # -----------------------------------------------------
+
     print(
-        "Sending daily analysis to Telegram..."
-    )
-
-    send_to_telegram(
-        message
-    )
-
-    save_daily_telegram_status(
-        current_slot
-    )
-
-    print(
-        "Telegram daily analysis sent."
-    )
-
-    print(
-        "Daily analysis file is ready for Eitaa."
+        "Daily message is ready for Eitaa."
     )
 
     print(
