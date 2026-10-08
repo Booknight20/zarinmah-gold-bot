@@ -131,24 +131,6 @@
     "major_event_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت دلار، یورو و درهم امروز چهارشنبه ۱۵ مهر ۱۴۰۵",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300239-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
-    "summary": "قیمت دلار حواله ای امروز با افزایش نسبت به روز گذشته، از 176810 (یکصد و هفتاد و شش هزار و هشتصد و ده) تومان به 177340 (یکصد و هفتاد و هفت هزار و سیصد و چهل) تومان رسید.",
-    "published": "Wed, 07 Oct 2026 10:45:16 +0000",
-    "collected_at": "2026-10-07T15:17:34.662604+03:30",
-    "market_score": 9,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "یورو",
-        "درهم"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
     "source": "مهر",
     "title": "طاهری: ساماندهی بازار ارز می تواند بخش بزرگی از فشار تورمی را کاهش دهد",
     "link": "https://www.mehrnews.com/news/6971074/%D8%B7%D8%A7%D9%87%D8%B1%DB%8C-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%A8%D8%AE%D8%B4-%D8%A8%D8%B2%D8%B1%DA%AF%DB%8C-%D8%A7%D8%B2-%D9%81%D8%B4%D8%A7%D8%B1-%D8%AA%D9%88%D8%B1%D9%85%DB%8C-%D8%B1%D8%A7",
@@ -455,23 +437,6 @@
     "major_event_matches": []
   },
   {
-    "source": "مشرق",
-    "title": "شاخص کل بورس تهران با ثبت رکوردی تاریخی از مرز ۸ میلیون واحد عبور کرد",
-    "link": "https://www.mashreghnews.ir/news/1844246/%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%AB%D8%A8%D8%AA-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C-%D8%A7%D8%B2-%D9%85%D8%B1%D8%B2-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF",
-    "summary": "شاخص کل بورس در پایان مبادلات امروز ۱۵ مهر۱۴۰۵ رکورد تاریخی جدیدی را به ثبت رساند و از ۸ میلیون واحد گذر کرد.",
-    "published": "Wed, 07 Oct 2026 11:22:15 GMT",
-    "collected_at": "2026-10-07T15:17:47.652442+03:30",
-    "market_score": 6,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
     "source": "مهر",
     "title": "افزایش بهای نفت به بیش از ۱۰۵ دلار",
     "link": "https://www.mehrnews.com/news/6971845/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A8%D9%87%D8%A7%DB%8C-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1",
@@ -650,6 +615,38 @@
       "بانک مرکزی"
     ],
     "major_event_matches": []
+  },
+  {
+    "source": "مشرق",
+    "title": "نفت کش عبوری از تنگه هرمز هدف پرتابه ناشناس قرار گرفت",
+    "link": "https://www.mashreghnews.ir/news/1844454/%D9%86%D9%81%D8%AA-%DA%A9%D8%B4-%D8%B9%D8%A8%D9%88%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%87%D8%AF%D9%81-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%D8%A7%D8%B4%D9%86%D8%A7%D8%B3-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA",
+    "summary": "سازمان تجارت دریایی بریتانیا از اصابت یک پرتابه ناشناس به نفت کش عبوری از تنگه هرمز خبر داد.",
+    "published": "Thu, 08 Oct 2026 15:22:09 GMT",
+    "collected_at": "2026-10-08T19:18:27.845794+03:30",
+    "market_score": 4,
+    "market_matches": {},
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [
+      "تنگه هرمز"
+    ]
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "اصابت پرتابه ناشناس به نفتکش حامل نفت خام در تنگه هرمز",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300517-%D8%A7%D8%B5%D8%A7%D8%A8%D8%AA-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%D8%A7%D8%B4%D9%86%D8%A7%D8%B3-%D8%A8%D9%87-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D8%AD%D8%A7%D9%85%D9%84-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D9%85-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
+    "summary": "سازمان عملیات تجارت دریایی بریتانیا در خبری مدعی شد که یک نفت کش حامل نفت خام مورد هدف قرار گرفت.",
+    "published": "Thu, 08 Oct 2026 15:24:10 +0000",
+    "collected_at": "2026-10-08T19:18:19.066728+03:30",
+    "market_score": 4,
+    "market_matches": {},
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [
+      "تنگه هرمز"
+    ]
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -1281,22 +1278,6 @@
     "market_matches": {
       "currency": [
         "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
-    "source": "مشرق",
-    "title": "افزایش نرخ رسمی دلار در عراق از عواقب وابستگی اقتصادی به آمریکا",
-    "link": "https://www.mashreghnews.ir/news/1844242/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%86%D8%B1%D8%AE-%D8%B1%D8%B3%D9%85%DB%8C-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D8%B2-%D8%B9%D9%88%D8%A7%D9%82%D8%A8-%D9%88%D8%A7%D8%A8%D8%B3%D8%AA%DA%AF%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
-    "summary": "دولت عراق نرخ رسمی دلار را افزایش داد تا نشان دهند دولت تروریست آمریکا همچنان بر این کشور سلطه دارد.",
-    "published": "Wed, 07 Oct 2026 11:29:29 GMT",
-    "collected_at": "2026-10-07T15:17:47.652414+03:30",
-    "market_score": 3,
-    "market_matches": {
-      "currency": [
-        "دلار"
       ]
     },
     "driver_matches": [],
