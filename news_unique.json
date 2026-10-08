@@ -671,6 +671,32 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا و سکه امروز پنجشنبه ۱۶ مهر ۱۴۰۵",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300424-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
+    "summary": "قیمت طلای ۱۸ عیار و سکه امامی امروز در سایت اتحادیه طلا و جواهر با کاهش همراه شدند.",
+    "published": "Thu, 08 Oct 2026 04:35:10 +0000",
+    "collected_at": "2026-10-08T08:17:04.765316+03:30",
+    "market_score": 15,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "ایسنا",
     "title": "افزایش ذخایر طلای چین رکورد ۳ ساله زد",
     "link": "https://www.isna.ir/news/1405071509760/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C-%DA%86%DB%8C%D9%86-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%DB%B3-%D8%B3%D8%A7%D9%84%D9%87-%D8%B2%D8%AF",
@@ -1320,6 +1346,31 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "ادعای رسانه آمریکایی از تصمیم ترامپ درباره ایران/ او با گفتار درمانی به دنبال کاهش قیمت نفت است",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300426-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D9%88-%D8%A8%D8%A7-%DA%AF%D9%81%D8%AA%D8%A7%D8%B1-%D8%AF%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%D8%B3%D8%AA",
+    "summary": "یک رسانه آمریکایی مدعی شد که کاخ سفید از پنتاگون خواسته گزینه هایی برای حمله به اهدافی در ایران آماده کند.",
+    "published": "Thu, 08 Oct 2026 04:37:43 +0000",
+    "collected_at": "2026-10-08T08:17:04.765271+03:30",
+    "market_score": 7,
+    "market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "قیمت نفت"
+    ]
+  },
+  {
     "source": "مشرق",
     "title": "افت ۶۰ درصدی عبور نفت از تنگه هرمز",
     "link": "https://www.mashreghnews.ir/news/1844250/%D8%A7%D9%81%D8%AA-%DB%B6%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
@@ -1748,6 +1799,30 @@
     "currency_matches": [
       "دلار"
     ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "برخورد اتحادیه طلا و جواهر مشهد با فعالیت میلی گلد",
+    "link": "https://www.isna.ir/news/1405071610421/%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AC%D9%88%D8%A7%D9%87%D8%B1-%D9%85%D8%B4%D9%87%D8%AF-%D8%A8%D8%A7-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D9%85%DB%8C%D9%84%DB%8C-%DA%AF%D9%84%D8%AF",
+    "summary": "رئیس اتحادیه طلا و جواهر مشهد از لغو فعالیت میلی گلد در مشهد خبر داد.",
+    "published": "Thu, 08 Oct 2026 04:16:11 GMT",
+    "collected_at": "2026-10-08T08:16:54.153191+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
