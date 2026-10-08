@@ -1,53 +1,13 @@
-name: ZarinMah Gold Bot
+name: ZarinMah Daily Analysis
 
 on:
   workflow_dispatch:
 
   schedule:
-    - cron: "17 * * * *"
     - cron: "45 11 * * *"
 
 jobs:
-
-  hourly:
-    if: >
-      github.event_name == 'schedule' &&
-      github.event.schedule == '17 * * * *'
-
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 jdatetime
-
-      - name: Run hourly price bot
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
-          EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
-          PYTHONUNBUFFERED: "1"
-        run: |
-          python -u bot.py
-
-
   daily:
-    if: >
-      github.event_name == 'workflow_dispatch' ||
-      (
-        github.event_name == 'schedule' &&
-        github.event.schedule == '45 11 * * *'
-      )
-
     runs-on: ubuntu-latest
 
     steps:
