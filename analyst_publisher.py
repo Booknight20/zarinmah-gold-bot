@@ -28,6 +28,16 @@ TELEGRAM_BOT_TOKEN = os.environ.get(
     "TELEGRAM_BOT_TOKEN"
 )
 
+EITAAYAR_TOKEN = os.environ.get(
+    "EITAAYAR_TOKEN"
+)
+
+EITAA_CHAT_ID = os.environ.get(
+    "EITAA_CHAT_ID"
+)
+
+EITAA_API_URL = "https://eitaayar.ir/api"
+
 
 def now_iso():
     return datetime.now(
@@ -135,7 +145,49 @@ def build_message(item):
         f"📌 <b>تحلیلگر:</b> {analyst}\n"
         f'<a href="{link}">🔗 مشاهده تحلیل کامل</a>\n\n'
         "🌙 <b>برای دنبال‌کردن اخبار و تحلیل‌های بیشتر زرین ماه:</b>\n\n"
-        '<a href="https://t.me/Zarimahgold">🔗 عضویت در کانال تلگرام زرین ماه</a>'
+        '<a href="https://t.me/Zarimahgold">'
+        "🔗 عضویت در کانال تلگرام زرین ماه"
+        "</a>"
+    )
+
+
+def build_eitaa_message(item):
+    analyst = str(
+        item.get(
+            "analyst",
+            "",
+        )
+    ).strip()
+
+    title = str(
+        item.get(
+            "title",
+            "",
+        )
+    ).strip()
+
+    summary = str(
+        item.get(
+            "summary",
+            "",
+        )
+    ).strip()
+
+    link = str(
+        item.get(
+            "link",
+            "",
+        )
+    ).strip()
+
+    return (
+        "🌙 زرین ماه\n\n"
+        "📊 تحلیل بازار\n\n"
+        f"📰 {title}\n\n"
+        f"{summary}\n\n"
+        f"📌 تحلیلگر: {analyst}\n"
+        f"🔗 مشاهده تحلیل کامل:\n{link}\n\n"
+        "🌙 برای دنبال‌کردن اخبار و تحلیل‌های بیشتر زرین ماه"
     )
 
 
@@ -166,25 +218,104 @@ def send_to_telegram(
     )
 
     print(
-        "Telegram response:",
+        "Telegram HTTP status:",
         response.status_code,
     )
 
-    if response.status_code != 200:
-        print(response.text)
+    print(
+        "Telegram response:",
+        response.text,
+    )
 
+    if response.status_code != 200:
         raise RuntimeError(
             "Telegram message failed."
         )
 
     result = response.json()
 
-    if not result.get("ok"):
-        print(result)
-
+    if not result.get(
+        "ok"
+    ):
         raise RuntimeError(
             "Telegram API returned ok=false."
         )
+
+    return result
+
+
+def send_to_eitaa(
+    message
+):
+    if not EITAAYAR_TOKEN:
+        raise RuntimeError(
+            "EITAAYAR_TOKEN is missing."
+        )
+
+    if not EITAA_CHAT_ID:
+        raise RuntimeError(
+            "EITAA_CHAT_ID is missing."
+        )
+
+    token = EITAAYAR_TOKEN.strip()
+
+    chat_id = EITAA_CHAT_ID.strip()
+
+    chat_id = chat_id.lstrip("@")
+
+    url = (
+        f"{EITAA_API_URL}/"
+        f"{token}/sendMessage"
+    )
+
+    payload = {
+        "chat_id": chat_id,
+        "text": message,
+    }
+
+    print(
+        "Sending analyst message to Eitaa..."
+    )
+
+    response = requests.post(
+        url,
+        data=payload,
+        timeout=30,
+    )
+
+    print(
+        "Eitaa HTTP status:",
+        response.status_code,
+    )
+
+    print(
+        "Eitaa response:",
+        response.text,
+    )
+
+    if response.status_code != 200:
+        raise RuntimeError(
+            "Eitaa HTTP request failed."
+        )
+
+    try:
+        result = response.json()
+
+    except ValueError:
+        raise RuntimeError(
+            "Eitaa API returned invalid JSON."
+        )
+
+    if not result.get(
+        "ok"
+    ):
+        raise RuntimeError(
+            f"Eitaa API returned ok=false: {result}"
+        )
+
+    print(
+        "Eitaa analyst message sent successfully."
+    )
 
     return result
 
@@ -193,9 +324,11 @@ def main():
     print(
         "==================================="
     )
+
     print(
         "ZarinMah Analyst Publisher"
     )
+
     print(
         "==================================="
     )
@@ -203,6 +336,16 @@ def main():
     if not TELEGRAM_BOT_TOKEN:
         raise RuntimeError(
             "TELEGRAM_BOT_TOKEN is missing."
+        )
+
+    if not EITAAYAR_TOKEN:
+        raise RuntimeError(
+            "EITAAYAR_TOKEN is missing."
+        )
+
+    if not EITAA_CHAT_ID:
+        raise RuntimeError(
+            "EITAA_CHAT_ID is missing."
         )
 
     analyses = load_json(
@@ -262,73 +405,282 @@ def main():
 
     for item in high_priority:
 
-        if sent >= MAX_ANALYSES_PER_RUN:
+        if (
+            sent
+            >= MAX_ANALYSES_PER_RUN
+        ):
+            print(
+                "Maximum analyses per run reached."
+            )
             break
 
         analysis_id = create_id(
             item
         )
 
-        if analysis_id in published:
+        record = published.get(
+            analysis_id,
+            {},
+        )
+
+        if not isinstance(
+            record,
+            dict,
+        ):
+            record = {}
+
+        telegram_message_id = (
+            record.get(
+                "telegram_message_id"
+            )
+        )
+
+        eitaa_message_id = (
+            record.get(
+                "eitaa_message_id"
+            )
+        )
+
+        fully_published = (
+            telegram_message_id is not None
+            and eitaa_message_id is not None
+        )
+
+        if fully_published:
+            print(
+                "Analysis already published "
+                "to Telegram and Eitaa:"
+            )
+            print(
+                item.get(
+                    "title",
+                    "",
+                )
+            )
             continue
 
-        message = build_message(
+        telegram_message = build_message(
             item
         )
 
-        try:
-            result = send_to_telegram(
-                message
-            )
-
-        except Exception as error:
-            print(
-                "Publishing failed:",
-                error,
-            )
-            failed += 1
-            continue
-
-        published[analysis_id] = {
-            "analyst": item.get(
-                "analyst",
-                "",
-            ),
-            "title": item.get(
-                "title",
-                "",
-            ),
-            "link": item.get(
-                "link",
-                "",
-            ),
-            "published_at": now_iso(),
-            "telegram_message_id": (
-                result.get(
-                    "result",
-                    {},
-                ).get(
-                    "message_id"
-                )
-            ),
-        }
-
-        save_json(
-            PUBLISHED_FILE,
-            published,
+        eitaa_message = build_eitaa_message(
+            item
         )
 
-        sent += 1
+        if not telegram_message.strip():
+            print(
+                "Empty Telegram message. Skipping."
+            )
+            continue
 
+        if not eitaa_message.strip():
+            print(
+                "Empty Eitaa message. Skipping."
+            )
+            continue
+
+        print()
         print(
-            "Published analysis:",
+            "Publishing analysis:",
             item.get(
                 "title",
                 "",
             ),
         )
 
+        # =========================================
+        # Telegram
+        # =========================================
+
+        if telegram_message_id is None:
+
+            try:
+                telegram_result = (
+                    send_to_telegram(
+                        telegram_message
+                    )
+                )
+
+                telegram_message_id = (
+                    telegram_result
+                    .get(
+                        "result",
+                        {},
+                    )
+                    .get(
+                        "message_id"
+                    )
+                )
+
+                published[
+                    analysis_id
+                ] = {
+                    "analyst": item.get(
+                        "analyst",
+                        "",
+                    ),
+                    "title": item.get(
+                        "title",
+                        "",
+                    ),
+                    "link": item.get(
+                        "link",
+                        "",
+                    ),
+                    "published_at": now_iso(),
+                    "telegram_message_id":
+                        telegram_message_id,
+                }
+
+                save_json(
+                    PUBLISHED_FILE,
+                    published,
+                )
+
+                print(
+                    "Telegram publication recorded."
+                )
+
+            except Exception as error:
+                print(
+                    "Telegram publishing failed:",
+                    error,
+                )
+
+                failed += 1
+                continue
+
+        else:
+
+            print(
+                "Telegram already published "
+                "for this analysis."
+            )
+
+        # =========================================
+        # Eitaa
+        # =========================================
+
+        if eitaa_message_id is None:
+
+            try:
+                eitaa_result = (
+                    send_to_eitaa(
+                        eitaa_message
+                    )
+                )
+
+                eitaa_message_id = (
+                    eitaa_result
+                    .get(
+                        "result",
+                        {},
+                    )
+                    .get(
+                        "message_id"
+                    )
+                )
+
+                record = published.get(
+                    analysis_id,
+                    {},
+                )
+
+                if not isinstance(
+                    record,
+                    dict,
+                ):
+                    record = {}
+
+                record.update(
+                    {
+                        "analyst": item.get(
+                            "analyst",
+                            "",
+                        ),
+                        "title": item.get(
+                            "title",
+                            "",
+                        ),
+                        "link": item.get(
+                            "link",
+                            "",
+                        ),
+                        "published_at":
+                            record.get(
+                                "published_at",
+                                now_iso(),
+                            ),
+                        "telegram_message_id":
+                            telegram_message_id,
+                        "eitaa_message_id":
+                            eitaa_message_id,
+                    }
+                )
+
+                published[
+                    analysis_id
+                ] = record
+
+                save_json(
+                    PUBLISHED_FILE,
+                    published,
+                )
+
+                print(
+                    "Eitaa publication recorded."
+                )
+
+            except Exception as error:
+
+                print(
+                    "Eitaa publishing failed:",
+                    error,
+                )
+
+                failed += 1
+
+                # تلگرام قبلاً ثبت شده.
+                # اجرای بعدی دوباره تلگرام را
+                # نمی‌فرستد و فقط ایتا را امتحان می‌کند.
+
+                continue
+
+        else:
+
+            print(
+                "Eitaa already published "
+                "for this analysis."
+            )
+
+        # =========================================
+        # هر دو مقصد موفق
+        # =========================================
+
+        if (
+            telegram_message_id is not None
+            and eitaa_message_id is not None
+        ):
+            sent += 1
+
+            print(
+                "Analysis successfully published "
+                "to Telegram + Eitaa."
+            )
+
     print()
+    print(
+        "==================================="
+    )
+
+    print(
+        "Analyst publishing finished."
+    )
+
+    print(
+        "==================================="
+    )
+
     print(
         "Published analyses:",
         sent,
