@@ -14,15 +14,24 @@ from bs4 import BeautifulSoup
 # =========================================================
 
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-EITAAYAR_TOKEN = os.environ.get("EITAAYAR_TOKEN")
-EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID")
+
+EITAAYAR_TOKEN = os.environ.get(
+    "EITAAYAR_TOKEN",
+)
+
+EITAA_CHAT_ID = os.environ.get(
+    "EITAA_CHAT_ID",
+)
 
 CHANNEL = "@ZarinMahGold"
 
-TEHRAN = ZoneInfo("Asia/Tehran")
+TEHRAN = ZoneInfo(
+    "Asia/Tehran"
+)
 
 PREVIOUS_FILE = "previous_prices.json"
 STATUS_FILE = "send_status.json"
+
 
 HEADERS = {
     "User-Agent": (
@@ -32,7 +41,9 @@ HEADERS = {
         "(KHTML, like Gecko) "
         "Chrome/128.0 Safari/537.36"
     ),
-    "Accept-Language": "fa-IR,fa;q=0.9,en;q=0.8",
+    "Accept-Language": (
+        "fa-IR,fa;q=0.9,en;q=0.8"
+    ),
 }
 
 
@@ -77,18 +88,52 @@ def clean_text(value):
     if not value:
         return ""
 
-    text = html.unescape(str(value))
+    text = html.unescape(
+        str(value)
+    )
 
-    text = text.replace("\u200c", " ")
-    text = text.replace("\u200f", " ")
-    text = text.replace("\ufeff", " ")
+    text = text.replace(
+        "\u200c",
+        " ",
+    )
 
-    text = text.replace("٬", ",")
-    text = text.replace("،", ",")
+    text = text.replace(
+        "\u200f",
+        " ",
+    )
 
-    text = re.sub(r"\r\n?", "\n", text)
-    text = re.sub(r"[ \t]+", " ", text)
-    text = re.sub(r"\n+", "\n", text)
+    text = text.replace(
+        "\ufeff",
+        " ",
+    )
+
+    text = text.replace(
+        "٬",
+        ",",
+    )
+
+    text = text.replace(
+        "،",
+        ",",
+    )
+
+    text = re.sub(
+        r"\r\n?",
+        "\n",
+        text,
+    )
+
+    text = re.sub(
+        r"[ \t]+",
+        " ",
+        text,
+    )
+
+    text = re.sub(
+        r"\n+",
+        "\n",
+        text,
+    )
 
     return text.strip()
 
@@ -97,7 +142,10 @@ def clean_text(value):
 # تبدیل عدد
 # =========================================================
 
-def parse_number(value, unit="toman"):
+def parse_number(
+    value,
+    unit="toman",
+):
     if not value:
         return None
 
@@ -105,8 +153,15 @@ def parse_number(value, unit="toman"):
         clean_text(value)
     )
 
-    text = text.replace(",", "")
-    text = text.replace(" ", "")
+    text = text.replace(
+        ",",
+        "",
+    )
+
+    text = text.replace(
+        " ",
+        "",
+    )
 
     match = re.search(
         r"\d+(?:\.\d+)?",
@@ -117,14 +172,19 @@ def parse_number(value, unit="toman"):
         return None
 
     try:
-        number = float(match.group(0))
+        number = float(
+            match.group(0)
+        )
+
     except ValueError:
         return None
 
     if unit == "rial":
         number /= 10
 
-    return int(round(number))
+    return int(
+        round(number)
+    )
 
 
 # =========================================================
@@ -140,7 +200,9 @@ def get_message_id(link):
     if not match:
         return 0
 
-    return int(match.group(1))
+    return int(
+        match.group(1)
+    )
 
 
 # =========================================================
@@ -159,10 +221,15 @@ def fetch_channel_posts(
         1,
         max_pages + 1,
     ):
-        url = f"https://t.me/s/{channel}"
+
+        url = (
+            f"https://t.me/s/{channel}"
+        )
 
         if before:
-            url += f"?before={before}"
+            url += (
+                f"?before={before}"
+            )
 
         print(
             f"Reading {channel} "
@@ -201,7 +268,10 @@ def fetch_channel_posts(
                 "a.tgme_widget_message_date"
             )
 
-            if not text_node or not date_node:
+            if (
+                not text_node
+                or not date_node
+            ):
                 continue
 
             text = clean_text(
@@ -225,13 +295,17 @@ def fetch_channel_posts(
             if link in seen_links:
                 continue
 
-            seen_links.add(link)
+            seen_links.add(
+                link
+            )
 
             page_posts.append(
                 {
                     "text": text,
                     "link": link,
-                    "message_id": get_message_id(link),
+                    "message_id": get_message_id(
+                        link
+                    ),
                 }
             )
 
@@ -243,7 +317,9 @@ def fetch_channel_posts(
         if not page_posts:
             break
 
-        posts.extend(page_posts)
+        posts.extend(
+            page_posts
+        )
 
         ids = [
             post["message_id"]
@@ -258,7 +334,6 @@ def fetch_channel_posts(
             min(ids)
         )
 
-    # جدیدترین پست اول
     posts.sort(
         key=lambda item: item["message_id"],
         reverse=True,
@@ -322,7 +397,7 @@ def get_asset_section(
 
 
 # =========================================================
-# فقط «قیمت لحظه ای»
+# فقط قیمت لحظه‌ای
 # =========================================================
 
 def extract_instant_price(
@@ -365,12 +440,22 @@ def extract_instant_price(
 # TGJU طلا
 # =========================================================
 
-def parse_gold_post(text):
-
+def parse_gold_post(
+    text,
+):
     patterns = [
-        r"(?:^|\n)\s*⭕️\s*قیمت\s*طلای\s*(?:18|۱۸)\s*عیار",
-        r"(?:^|\n)\s*⭕️\s*طلای\s*(?:18|۱۸)\s*عیار",
-        r"(?:^|\n)\s*قیمت\s*طلای\s*(?:18|۱۸)\s*عیار",
+        (
+            r"(?:^|\n)\s*⭕️\s*"
+            r"قیمت\s*طلای\s*(?:18|۱۸)\s*عیار"
+        ),
+        (
+            r"(?:^|\n)\s*⭕️\s*"
+            r"طلای\s*(?:18|۱۸)\s*عیار"
+        ),
+        (
+            r"(?:^|\n)\s*"
+            r"قیمت\s*طلای\s*(?:18|۱۸)\s*عیار"
+        ),
     ]
 
     for pattern in patterns:
@@ -398,8 +483,9 @@ def parse_gold_post(text):
 # TGJU ارز
 # =========================================================
 
-def parse_currency_post(text):
-
+def parse_currency_post(
+    text,
+):
     text = normalize_digits(
         clean_text(text)
     )
@@ -466,8 +552,9 @@ def parse_currency_post(text):
 # TGJU سکه
 # =========================================================
 
-def parse_coin_post(text):
-
+def parse_coin_post(
+    text,
+):
     text = normalize_digits(
         clean_text(text)
     )
@@ -501,7 +588,9 @@ def parse_coin_post(text):
 
     result = {}
 
-    for asset, config in definitions.items():
+    for asset, config in (
+        definitions.items()
+    ):
 
         section = get_asset_section(
             text,
@@ -605,7 +694,7 @@ def get_latest_asset_price(
 
 
 # =========================================================
-# دریافت آخرین قیمت‌های رسمی
+# آخرین قیمت‌های رسمی TGJU
 # =========================================================
 
 def get_official_prices():
@@ -668,7 +757,7 @@ def get_official_prices():
 
 
 # =========================================================
-# قیمت قبلی
+# قیمت‌های قبلی
 # =========================================================
 
 def load_previous_prices():
@@ -685,7 +774,9 @@ def load_previous_prices():
             encoding="utf-8",
         ) as file:
 
-            return json.load(file)
+            return json.load(
+                file
+            )
 
     except Exception as error:
 
@@ -700,7 +791,6 @@ def load_previous_prices():
 def save_current_prices(
     prices,
 ):
-
     with open(
         PREVIOUS_FILE,
         "w",
@@ -733,7 +823,9 @@ def load_send_status():
             encoding="utf-8",
         ) as file:
 
-            return json.load(file)
+            return json.load(
+                file
+            )
 
     except Exception as error:
 
@@ -824,7 +916,9 @@ def change_text(
     if previous is None:
         return "🆕 اولین ثبت"
 
-    difference = current - previous
+    difference = (
+        current - previous
+    )
 
     if difference > 0:
         return (
@@ -836,7 +930,9 @@ def change_text(
             f"🔴 ▼ {difference:,} تومان"
         )
 
-    return "⚪ ➖ بدون تغییر"
+    return (
+        "⚪ ➖ بدون تغییر"
+    )
 
 
 # =========================================================
@@ -915,7 +1011,7 @@ def build_message(
 
 
 # =========================================================
-# ارسال به تلگرام
+# ارسال تلگرام
 # =========================================================
 
 def send_to_telegram(
@@ -955,14 +1051,16 @@ def send_to_telegram(
 
     result = response.json()
 
-    if not result.get("ok"):
+    if not result.get(
+        "ok"
+    ):
         raise RuntimeError(
             f"Telegram API error: {result}"
         )
 
 
 # =========================================================
-# ارسال به ایتا
+# ارسال صحیح به ایتایار
 # =========================================================
 
 def send_to_eitaa(
@@ -980,19 +1078,39 @@ def send_to_eitaa(
             "تنظیم نشده است."
         )
 
+    token = EITAAYAR_TOKEN.strip()
+
+    chat_id = EITAA_CHAT_ID.strip()
+
+    # طبق راهنمای ایتایار:
+    # username کانال بدون @ قابل استفاده است.
+    chat_id = chat_id.lstrip("@")
+
+    # endpoint صحیح:
+    # https://eitaayar.ir/api/TOKEN/sendMessage
+
     url = (
-        "https://eitaayar.ir/api/app/sendMessage"
+        f"https://eitaayar.ir/api/"
+        f"{token}/sendMessage"
     )
 
-    payload = {
-        "token": EITAAYAR_TOKEN,
-        "chat_id": EITAA_CHAT_ID,
+    data = {
+        "chat_id": chat_id,
         "text": message,
     }
 
+    print(
+        "Sending message to Eitaa..."
+    )
+
+    print(
+        "Eitaa chat_id:",
+        chat_id,
+    )
+
     response = requests.post(
         url,
-        data=payload,
+        data=data,
         timeout=30,
     )
 
@@ -1008,13 +1126,29 @@ def send_to_eitaa(
 
     response.raise_for_status()
 
-    result = response.json()
+    try:
+        result = response.json()
 
-    # طبق API ایتایار، موفقیت با ok=true است.
-    if not result.get("ok"):
+    except ValueError:
+
+        raise RuntimeError(
+            "Eitaa API پاسخ JSON معتبر "
+            "برنگرداند."
+        )
+
+    if not result.get(
+        "ok"
+    ):
+
         raise RuntimeError(
             f"Eitaa API error: {result}"
         )
+
+    print(
+        "Eitaa message sent successfully."
+    )
+
+    return result
 
 
 # =========================================================
@@ -1088,7 +1222,7 @@ def main():
             return
 
     # =====================================================
-    # وضعیت ارسال هر مقصد
+    # وضعیت ارسال
     # =====================================================
 
     status = load_send_status()
@@ -1156,7 +1290,7 @@ def main():
     )
 
     # =====================================================
-    # دریافت قیمت‌ها
+    # آخرین قیمت رسمی TGJU
     # =====================================================
 
     prices = (
@@ -1173,8 +1307,7 @@ def main():
     )
 
     # =====================================================
-    # تلگرام
-    # فقط اگر قبلاً برای این ساعت ارسال نشده
+    # ارسال تلگرام
     # =====================================================
 
     if not telegram_sent:
@@ -1206,16 +1339,10 @@ def main():
         )
 
     # =====================================================
-    # ایتا
-    # فقط اگر قبلاً برای این ساعت ارسال نشده
+    # ارسال ایتا
     # =====================================================
 
     if not eitaa_sent:
-
-        print(
-            "Sending price message "
-            "to Eitaa..."
-        )
 
         send_to_eitaa(
             message
@@ -1226,10 +1353,6 @@ def main():
         )
 
         eitaa_sent = True
-
-        print(
-            "Eitaa message sent successfully."
-        )
 
     else:
 
@@ -1274,7 +1397,7 @@ def main():
 
 
 # =========================================================
-# اجرا
+# شروع برنامه
 # =========================================================
 
 if __name__ == "__main__":
