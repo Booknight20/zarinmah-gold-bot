@@ -706,35 +706,45 @@ def get_official_prices():
         "gold18",
     )
 
-    result["gold18"] = gold["price"]
+    result["gold18"] = (
+        gold["price"]
+    )
 
     dollar = get_latest_asset_price(
         "currency",
         "dollar",
     )
 
-    result["dollar"] = dollar["price"]
+    result["dollar"] = (
+        dollar["price"]
+    )
 
     coin = get_latest_asset_price(
         "coin",
         "coin",
     )
 
-    result["coin"] = coin["price"]
+    result["coin"] = (
+        coin["price"]
+    )
 
     half = get_latest_asset_price(
         "coin",
         "half",
     )
 
-    result["half"] = half["price"]
+    result["half"] = (
+        half["price"]
+    )
 
     quarter = get_latest_asset_price(
         "coin",
         "quarter",
     )
 
-    result["quarter"] = quarter["price"]
+    result["quarter"] = (
+        quarter["price"]
+    )
 
     print(
         "================================"
@@ -757,6 +767,21 @@ def get_official_prices():
 
 
 # =========================================================
+# سازگاری با daily_analysis.py قدیمی
+# =========================================================
+
+def get_all_prices():
+    """
+    تابع قدیمی که daily_analysis.py استفاده می‌کند.
+
+    برای سازگاری، همان قیمت‌های رسمی و لحظه‌ای TGJU
+    را برمی‌گرداند.
+    """
+
+    return get_official_prices()
+
+
+# =========================================================
 # قیمت‌های قبلی
 # =========================================================
 
@@ -768,6 +793,7 @@ def load_previous_prices():
         return None
 
     try:
+
         with open(
             PREVIOUS_FILE,
             "r",
@@ -817,6 +843,7 @@ def load_send_status():
         return {}
 
     try:
+
         with open(
             STATUS_FILE,
             "r",
@@ -930,9 +957,7 @@ def change_text(
             f"🔴 ▼ {difference:,} تومان"
         )
 
-    return (
-        "⚪ ➖ بدون تغییر"
-    )
+    return "⚪ ➖ بدون تغییر"
 
 
 # =========================================================
@@ -1082,12 +1107,7 @@ def send_to_eitaa(
 
     chat_id = EITAA_CHAT_ID.strip()
 
-    # طبق راهنمای ایتایار:
-    # username کانال بدون @ قابل استفاده است.
     chat_id = chat_id.lstrip("@")
-
-    # endpoint صحیح:
-    # https://eitaayar.ir/api/TOKEN/sendMessage
 
     url = (
         f"https://eitaayar.ir/api/"
@@ -1105,7 +1125,7 @@ def send_to_eitaa(
 
     print(
         "Eitaa chat_id:",
-        chat_id,
+        "***",
     )
 
     response = requests.post(
@@ -1130,7 +1150,6 @@ def send_to_eitaa(
         result = response.json()
 
     except ValueError:
-
         raise RuntimeError(
             "Eitaa API پاسخ JSON معتبر "
             "برنگرداند."
@@ -1139,7 +1158,6 @@ def send_to_eitaa(
     if not result.get(
         "ok"
     ):
-
         raise RuntimeError(
             f"Eitaa API error: {result}"
         )
@@ -1397,7 +1415,7 @@ def main():
 
 
 # =========================================================
-# شروع برنامه
+# شروع
 # =========================================================
 
 if __name__ == "__main__":
