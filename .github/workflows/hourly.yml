@@ -2,9 +2,11 @@ name: ZarinMah Scheduled Bot
 
 on:
   schedule:
+    # Hourly price posting at minute 17
     - cron: "17 * * * *"
       timezone: "Asia/Tehran"
 
+    # Daily analysis at 11:45 Tehran time
     - cron: "45 11 * * *"
       timezone: "Asia/Tehran"
 
@@ -17,7 +19,7 @@ permissions:
 jobs:
 
   # =====================================================
-  # قیمت ساعتی
+  # HOURLY PRICE
   # =====================================================
 
   hourly-price:
@@ -53,16 +55,18 @@ jobs:
           python-version: "3.12"
 
       # ---------------------------------------------------
-      # نصب کتابخانه‌ها
+      # Install dependencies
       # ---------------------------------------------------
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install requests
+          pip install beautifulsoup4
+          pip install jdatetime
 
       # ---------------------------------------------------
-      # بررسی ساعت تهران
+      # Check Tehran time
       # ---------------------------------------------------
 
       - name: Check Tehran time
@@ -73,22 +77,17 @@ jobs:
           echo "================================="
 
       # ---------------------------------------------------
-      # اجرای ربات قیمت
+      # Run price bot
       # ---------------------------------------------------
 
       - name: Run price bot
         env:
-          # Telegram
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
 
-          # Eitaa
           EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
           EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
 
-          # اجرای زمان‌بندی‌شده
           SCHEDULED_RUN: "true"
-
-          # لاگ کامل Python
           PYTHONUNBUFFERED: "1"
 
         run: |
@@ -105,7 +104,7 @@ jobs:
           exit $BOT_EXIT_CODE
 
       # ---------------------------------------------------
-      # نمایش لاگ ربات
+      # Show price bot log
       # ---------------------------------------------------
 
       - name: Show price bot log
@@ -124,7 +123,7 @@ jobs:
           echo "================================="
 
       # ---------------------------------------------------
-      # ذخیره وضعیت قیمت
+      # Save price state
       # ---------------------------------------------------
 
       - name: Save price state
@@ -148,7 +147,7 @@ jobs:
 
 
   # =====================================================
-  # تحلیل روزانه
+  # DAILY ANALYSIS
   # =====================================================
 
   daily-analysis:
@@ -184,16 +183,18 @@ jobs:
           python-version: "3.12"
 
       # ---------------------------------------------------
-      # نصب کتابخانه‌ها
+      # Install dependencies
       # ---------------------------------------------------
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install requests
+          pip install beautifulsoup4
+          pip install jdatetime
 
       # ---------------------------------------------------
-      # اجرای تحلیل روزانه
+      # Run daily analysis
       # ---------------------------------------------------
 
       - name: Run daily analysis
@@ -203,11 +204,13 @@ jobs:
           EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
           EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
 
+          PYTHONUNBUFFERED: "1"
+
         run: |
           python -u daily_analysis.py
 
       # ---------------------------------------------------
-      # ذخیره وضعیت
+      # Save daily analysis state
       # ---------------------------------------------------
 
       - name: Save daily analysis state
