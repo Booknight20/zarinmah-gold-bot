@@ -135,6 +135,38 @@
     "medium_impact_matches": []
   },
   {
+    "source": "تابناک",
+    "title": "بازار ارز در آخرین روز هفته؛ نوسان کاهشی نرخ یورو در مرکز مبادله",
+    "link": "https://www.tabnak.ir/fa/news/1397853/بازار-ارز-در-آخرین-روز-هفته-نوسان-کاهشی-نرخ-یورو-در-مرکز-مبادله",
+    "summary": "بازار ارز امروز شاهد ثبات نسبی دلار در بازار آزاد و واگرایی نرخ ها در مرکز مبادله بود؛ به طوری که درحالی که نرخ حواله دلار و درهم صعودی شد، حواله یورو با کاهش قیمت به کار خود پایان داد.",
+    "published": "08 Oct 2026 17:41:42 +0330",
+    "collected_at": "2026-10-08T17:46:00.743411+03:30",
+    "market_score": 32,
+    "market_matches": {
+      "currency": [
+        "ارز",
+        "بازار ارز",
+        "یورو",
+        "مرکز مبادله"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "بازار ارز",
+      "ارز",
+      "یورو",
+      "درهم",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "قیمت نفت از مرز ۱۰۳ دلار عبور کرد",
     "link": "https://www.mehrnews.com/news/6971649/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D9%85%D8%B1%D8%B2-%DB%B1%DB%B0%DB%B3-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF",
@@ -862,6 +894,32 @@
     "medium_impact_matches": [
       "بازده اوراق"
     ]
+  },
+  {
+    "source": "تابناک",
+    "title": "قیمت طلا و سکه امروز ۱۶ مهر / سکه امامی دوباره اوج گرفت!",
+    "link": "https://www.tabnak.ir/fa/news/1397838/قیمت-طلا-و-سکه-امروز-16-مهر-سکه-امامی-دوباره-اوج-گرفت",
+    "summary": "قیمت طلا و سکه امروز وارد فاز جدیدی شد و قطعه هایی که شدیدترین ریزشِ روزهای گذشته را تجربه کرده بود، امروز با رشدِ ۹۷۰ هزار تومانی، بیشترین درصد افزایش را به نام خود زد. اما آیا این بازگشت ادامه دارد؟",
+    "published": "08 Oct 2026 17:42:54 +0330",
+    "collected_at": "2026-10-08T17:46:00.743379+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
