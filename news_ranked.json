@@ -560,6 +560,37 @@
     "medium_impact_matches": []
   },
   {
+    "source": "مهر",
+    "title": "قیمت نفت برنت از ۱۰۴ دلار گذشت",
+    "link": "https://www.mehrnews.com/news/6971812/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%DB%B1%DB%B0%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%DA%AF%D8%B0%D8%B4%D8%AA",
+    "summary": "امروز پنجشنبه ۱۶ مهر ۱۴۰۵ قیمت هر بشکه نفت برنت در بازار جهانی ۱۰۴.۴۱۹ دلار معامله شد.",
+    "published": "Thu, 08 Oct 2026 12:37:14 GMT",
+    "collected_at": "2026-10-08T16:15:31.998790+03:30",
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "قیمت نفت"
+    ]
+  },
+  {
     "source": "ایسنا",
     "title": "چرا نفت ۱۰۰ دلاری ماندگار شد؟",
     "link": "https://www.isna.ir/news/1405071510196/%DA%86%D8%B1%D8%A7-%D9%86%D9%81%D8%AA-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B4%D8%AF",
@@ -946,6 +977,35 @@
     "medium_impact_matches": []
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "الان وقت خرید خانه هست یا نه؟/ نایب رییس اتحادیه املاک: خانه اولی ها فریب سود روزانه طلا و ارز را نخورند",
+    "link": "https://www.khabaronline.ir/news/2285475/%D8%A7%D9%84%D8%A7%D9%86-%D9%88%D9%82%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D8%B3%D8%AA-%DB%8C%D8%A7-%D9%86%D9%87-%D9%86%D8%A7%DB%8C%D8%A8-%D8%B1%DB%8C%DB%8C%D8%B3-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%D9%88%D9%84%DB%8C-%D9%87%D8%A7",
+    "summary": "نایب رئیس اتحادیه املاک گفت: همچنان توصیه من این است که برای خرید خانه، به ویژه برای افرادی که قصد تبدیل به احسن کردن ملک خود را دارند، زمان مناسبی است و نباید دست نگه دارند. بهتر است ملک خود را جابه جا کنند.",
+    "published": "Thu, 08 Oct 2026 12:40:00 GMT",
+    "collected_at": "2026-10-08T16:15:43.926854+03:30",
+    "market_score": 15,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "لنکرانی: ارز در دوران جنگ ترکیبی نباید صرف تثبیت های مقطعی شود",
     "link": "https://www.mehrnews.com/news/6971634/%D9%84%D9%86%DA%A9%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%AF%D9%88%D8%B1%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D8%B5%D8%B1%D9%81-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D9%82%D8%B7%D8%B9%DB%8C-%D8%B4%D9%88%D8%AF",
@@ -1011,33 +1071,6 @@
       "stock": [
         "بورس",
         "بازار سرمایه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "جهش قدرتمند شاخص کل بورس در پایان معاملات امروز",
-    "link": "https://www.mehrnews.com/news/6970850/%D8%AC%D9%87%D8%B4-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%85%D8%B1%D9%88%D8%B2",
-    "summary": "در پایان دادوستدهای امروز بازار سرمایه، شاخص کل با رشدی چشمگیر بیش از ۱۵۳ هزار واحدی، به ارتفاع ۸ میلیون و ۱۳۱ هزار واحد صعود کرد.",
-    "published": "Wed, 07 Oct 2026 10:28:57 GMT",
-    "collected_at": "2026-10-07T14:13:56.479952+03:30",
-    "market_score": 14,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
       ]
     },
     "driver_matches": [],
@@ -1903,30 +1936,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مهر",
-    "title": "سهم ناچیز ایران از بازار ۷ هزار میلیارد دلاری محصولات حلال",
-    "link": "https://www.mehrnews.com/news/6970688/%D8%B3%D9%87%D9%85-%D9%86%D8%A7%DA%86%DB%8C%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%AD%D9%84%D8%A7%D9%84",
-    "summary": "رئیس مرکز ملی تحقیقات حلال سازمان غذا و دارو، از سهم ناچیز ایران از بازار ۷ هزار میلیارد دلاری محصولات حلال در دنیا خبر داد و گفت: ما باید در این بازار، بیشتر کار کنیم.",
-    "published": "Wed, 07 Oct 2026 10:33:59 GMT",
-    "collected_at": "2026-10-07T14:13:56.479915+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "از تماس پزشکیان و پوتین درباره مذاکرات تا ورود بورس تهران به کانال ۸ میلیون",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4300429-%D8%A7%D8%B2-%D8%AA%D9%85%D8%A7%D8%B3-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%AA%D8%A7-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
@@ -2221,30 +2230,6 @@
     "summary": "اگر قصد دارید با آگاهی از مسیر کامل مالکیت، وارد بازار طلا و نقره شوید، این فرصت کم هزینه می تواند نقطه شروع مناسبی باشد.",
     "published": "Wed, 07 Oct 2026 10:22:09 GMT",
     "collected_at": "2026-10-07T14:13:56.480065+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "یک طلا و نقره برای دوومیدانی کار ناشنوای خراسان رضوی در قهرمانی آسیا",
-    "link": "https://www.mehrnews.com/news/6970856/%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%88%D9%88%D9%85%DB%8C%D8%AF%D8%A7%D9%86%DB%8C-%DA%A9%D8%A7%D8%B1-%D9%86%D8%A7%D8%B4%D9%86%D9%88%D8%A7%DB%8C-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%AF%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C",
-    "summary": "مشهد- علی علیزاده، ملی پوش دوومیدانی ناشنوایان خراسان رضوی، در رقابت های قهرمانی ناشنوایان آسیا در مالزی موفق به کسب یک مدال طلا و یک نقره شد.",
-    "published": "Wed, 07 Oct 2026 10:37:04 GMT",
-    "collected_at": "2026-10-07T14:13:56.479893+03:30",
     "market_score": 5,
     "market_matches": {
       "gold": [
