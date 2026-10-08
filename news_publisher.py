@@ -167,7 +167,9 @@ def build_message(item):
         f"📰 <b>{safe_title}</b>\n\n"
         f"{safe_summary}\n\n"
         f"📌 <b>منبع:</b> {safe_source}\n"
-        f'<a href="{safe_news_link}">🔗 مشاهده خبر کامل</a>\n\n'
+        f'<a href="{safe_news_link}">'
+        "🔗 مشاهده خبر کامل"
+        "</a>\n\n"
         "🌙 <b>برای دنبال‌کردن اخبار و تحلیل‌های بیشتر زرین ماه:</b>\n\n"
         '<a href="https://t.me/Zarinmahgold">'
         "🔗 عضویت در کانال تلگرام زرین ماه"
@@ -197,19 +199,13 @@ def build_eitaa_message(item):
         )
     ).strip()
 
-    news_link = str(
-        item.get(
-            "link",
-            "",
-        )
-    ).strip()
-
+    # در ایتا لینک طولانی خبر را نمایش نمی‌دهیم.
+    # متن عمداً کوتاه و تمیز نگه داشته شده است.
     return (
         "🌙 زرین ماه\n\n"
         f"📰 {title}\n\n"
         f"{summary}\n\n"
-        f"📌 منبع: {source}\n"
-        f"🔗 مشاهده خبر کامل:\n{news_link}\n\n"
+        f"📌 منبع: {source}\n\n"
         "🌙 برای دنبال‌کردن اخبار و تحلیل‌های بیشتر زرین ماه"
     )
 
@@ -277,7 +273,9 @@ def send_to_eitaa(message):
         )
 
     token = EITAAYAR_TOKEN.strip()
+
     chat_id = EITAA_CHAT_ID.strip()
+
     chat_id = chat_id.lstrip("@")
 
     url = (
@@ -292,10 +290,6 @@ def send_to_eitaa(message):
 
     print(
         "Sending news message to Eitaa..."
-    )
-
-    print(
-        "Eitaa HTTP status: waiting..."
     )
 
     response = requests.post(
@@ -530,8 +524,7 @@ def main():
         fully_published = (
             telegram_message_id
             is not None
-            and eitaa_message_id
-            is not None
+            and eitaa_message_id is not None
         )
 
         if fully_published:
@@ -737,11 +730,6 @@ def main():
                 )
 
                 failed_count += 1
-
-                # تلگرام قبلاً ثبت شده.
-                # اجرای بعدی دوباره تلگرام را
-                # ارسال نمی‌کند و فقط ایتا را
-                # امتحان می‌کند.
 
                 continue
 
