@@ -2,13 +2,11 @@ name: ZarinMah Scheduled Bot
 
 on:
   schedule:
-    # Hourly price posting at minute 17
+    # قیمت ساعتی - هر ساعت در دقیقه 17
     - cron: "17 * * * *"
-      timezone: "Asia/Tehran"
 
-    # Daily analysis at 11:45 Tehran time
+    # تحلیل روزانه - ساعت 11:45 به وقت تهران
     - cron: "45 11 * * *"
-      timezone: "Asia/Tehran"
 
   workflow_dispatch:
 
@@ -19,215 +17,148 @@ permissions:
 jobs:
 
   # =====================================================
-  # HOURLY PRICE
+  # ارسال قیمت ساعتی
   # =====================================================
 
   hourly-price:
-    name: Hourly Gold Price
-
-    if: >
-      github.event_name == 'workflow_dispatch' ||
-      (
-        github.event_name == 'schedule' &&
-        github.event.schedule == '17 * * * *'
-      )
+    name: Hourly Price Bot
 
     runs-on: ubuntu-latest
 
-    steps:
+    # فقط برای اجرای ساعتی
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 * * * *'
 
-      # ---------------------------------------------------
-      # Checkout
-      # ---------------------------------------------------
+    steps:
 
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      # ---------------------------------------------------
-      # Python
-      # ---------------------------------------------------
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # ---------------------------------------------------
-      # Install dependencies
-      # ---------------------------------------------------
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
-          pip install beautifulsoup4
-          pip install jdatetime
+          pip install requests beautifulsoup4 jdatetime
 
-      # ---------------------------------------------------
-      # Check Tehran time
-      # ---------------------------------------------------
 
-      - name: Check Tehran time
-        run: |
-          echo "================================="
-          echo "Tehran time:"
-          TZ=Asia/Tehran date
-          echo "================================="
-
-      # ---------------------------------------------------
-      # Run price bot
-      # ---------------------------------------------------
-
-      - name: Run price bot
+      - name: Run hourly bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
 
           EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
+
           EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
 
           SCHEDULED_RUN: "true"
+
           PYTHONUNBUFFERED: "1"
 
         run: |
-          set +e
+          python -u bot.py | tee bot_output.log
 
-          python -u bot.py 2>&1 | tee bot_output.log
 
-          BOT_EXIT_CODE=${PIPESTATUS[0]}
-
-          echo "================================="
-          echo "bot.py exit code: $BOT_EXIT_CODE"
-          echo "================================="
-
-          exit $BOT_EXIT_CODE
-
-      # ---------------------------------------------------
-      # Show price bot log
-      # ---------------------------------------------------
-
-      - name: Show price bot log
-        if: always()
-        run: |
-          echo "================================="
-          echo "PRICE BOT LOG"
-          echo "================================="
-
-          if [ -f bot_output.log ]; then
-            cat bot_output.log
-          else
-            echo "bot_output.log not found"
-          fi
-
-          echo "================================="
-
-      # ---------------------------------------------------
-      # Save price state
-      # ---------------------------------------------------
-
-      - name: Save price state
-        if: always()
+      - name: Save hourly files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add previous_prices.json send_status.json || true
 
-          if git diff --cached --quiet; then
-            echo "No state changes to commit."
-            exit 0
-          fi
+          git diff --cached --quiet || git commit -m "Update hourly prices"
 
-          git commit -m "Update price bot state"
-
-          git pull --rebase origin main
-
-          git push origin HEAD:main
+          git push || true
 
 
   # =====================================================
-  # DAILY ANALYSIS
+  # تحلیل روزانه
   # =====================================================
 
   daily-analysis:
     name: Daily Market Analysis
 
-    if: >
-      github.event_name == 'workflow_dispatch' ||
-      (
-        github.event_name == 'schedule' &&
-        github.event.schedule == '45 11 * * *'
-      )
-
     runs-on: ubuntu-latest
+
+    # فقط برای اجرای روزانه
+    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '45 11 * * *'
 
     steps:
 
-      # ---------------------------------------------------
-      # Checkout
-      # ---------------------------------------------------
-
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      # ---------------------------------------------------
-      # Python
-      # ---------------------------------------------------
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # ---------------------------------------------------
-      # Install dependencies
-      # ---------------------------------------------------
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
-          pip install beautifulsoup4
-          pip install jdatetime
+          pip install requests beautifulsoup4 jdatetime
 
-      # ---------------------------------------------------
-      # Run daily analysis
-      # ---------------------------------------------------
+
+      # -------------------------------------------------
+      # بررسی Secret های ایتا
+      # -------------------------------------------------
+
+      - name: Check Eitaa configuration
+        env:
+          EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
+          EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
+
+        run: |
+          if [ -z "$EITAAYAR_TOKEN" ]; then
+            echo "ERROR: EITAAYAR_TOKEN is empty."
+            exit 1
+          fi
+
+          if [ -z "$EITAA_CHAT_ID" ]; then
+            echo "ERROR: EITAA_CHAT_ID is empty."
+            exit 1
+          fi
+
+          echo "Eitaa configuration is available."
+          echo "Eitaa chat ID is configured."
+
+
+      # -------------------------------------------------
+      # اجرای تحلیل روزانه
+      # -------------------------------------------------
 
       - name: Run daily analysis
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
 
           EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
+
           EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
+
+          SCHEDULED_RUN: "true"
 
           PYTHONUNBUFFERED: "1"
 
         run: |
           python -u daily_analysis.py
 
-      # ---------------------------------------------------
-      # Save daily analysis state
-      # ---------------------------------------------------
 
-      - name: Save daily analysis state
-        if: always()
+      # -------------------------------------------------
+      # ذخیره وضعیت ارسال
+      # -------------------------------------------------
+
+      - name: Save daily status
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add send_status.json || true
 
-          if git diff --cached --quiet; then
-            echo "No state changes to commit."
-            exit 0
-          fi
+          git diff --cached --quiet || git commit -m "Update daily analysis status"
 
-          git commit -m "Update daily analysis state"
-
-          git pull --rebase origin main
-
-          git push origin HEAD:main
+          git push || true
