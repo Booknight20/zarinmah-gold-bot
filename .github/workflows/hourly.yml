@@ -1,32 +1,20 @@
-name: ZarinMah Scheduled Bot
+name: ZarinMah Hourly Price Bot
 
 on:
   schedule:
-    # قیمت ساعتی - هر ساعت در دقیقه 17
     - cron: "17 * * * *"
-
-    # تحلیل روزانه - ساعت 11:45 به وقت تهران
-    - cron: "45 11 * * *"
 
   workflow_dispatch:
 
 permissions:
   contents: write
 
-
 jobs:
-
-  # =====================================================
-  # ارسال قیمت ساعتی
-  # =====================================================
 
   hourly-price:
     name: Hourly Price Bot
 
     runs-on: ubuntu-latest
-
-    # فقط برای اجرای ساعتی
-    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 * * * *'
 
     steps:
 
@@ -49,17 +37,12 @@ jobs:
       - name: Run hourly bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-
           EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
-
           EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
-
           SCHEDULED_RUN: "true"
-
           PYTHONUNBUFFERED: "1"
-
         run: |
-          python -u bot.py | tee bot_output.log
+          python -u bot.py
 
 
       - name: Save hourly files
@@ -69,96 +52,9 @@ jobs:
 
           git add previous_prices.json send_status.json || true
 
-          git diff --cached --quiet || git commit -m "Update hourly prices"
-
-          git push || true
-
-
-  # =====================================================
-  # تحلیل روزانه
-  # =====================================================
-
-  daily-analysis:
-    name: Daily Market Analysis
-
-    runs-on: ubuntu-latest
-
-    # فقط برای اجرای روزانه
-    if: github.event_name == 'workflow_dispatch' || github.event.schedule == '45 11 * * *'
-
-    steps:
-
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 jdatetime
-
-
-      # -------------------------------------------------
-      # بررسی Secret های ایتا
-      # -------------------------------------------------
-
-      - name: Check Eitaa configuration
-        env:
-          EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
-          EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
-
-        run: |
-          if [ -z "$EITAAYAR_TOKEN" ]; then
-            echo "ERROR: EITAAYAR_TOKEN is empty."
-            exit 1
+          if git diff --cached --quiet; then
+            echo "No hourly files changed."
+          else
+            git commit -m "Update hourly prices"
+            git push
           fi
-
-          if [ -z "$EITAA_CHAT_ID" ]; then
-            echo "ERROR: EITAA_CHAT_ID is empty."
-            exit 1
-          fi
-
-          echo "Eitaa configuration is available."
-          echo "Eitaa chat ID is configured."
-
-
-      # -------------------------------------------------
-      # اجرای تحلیل روزانه
-      # -------------------------------------------------
-
-      - name: Run daily analysis
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-
-          EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
-
-          EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
-
-          SCHEDULED_RUN: "true"
-
-          PYTHONUNBUFFERED: "1"
-
-        run: |
-          python -u daily_analysis.py
-
-
-      # -------------------------------------------------
-      # ذخیره وضعیت ارسال
-      # -------------------------------------------------
-
-      - name: Save daily status
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add send_status.json || true
-
-          git diff --cached --quiet || git commit -m "Update daily analysis status"
-
-          git push || true
