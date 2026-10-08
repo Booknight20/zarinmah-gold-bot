@@ -9,15 +9,14 @@ import requests
 from bot import (
     get_all_prices,
     load_previous_prices,
+    send_to_telegram,
+    send_to_eitaa,
 )
 
 
-# =========================
+# =========================================================
 # تنظیمات
-# =========================
-
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-CHANNEL = "@ZarinMahGold"
+# =========================================================
 
 TEHRAN = ZoneInfo("Asia/Tehran")
 
@@ -68,10 +67,26 @@ GREGORIAN_MONTHS = [
     "December",
 ]
 
+ASSET_LABELS = {
+    "gold18": "طلای ۱۸ عیار",
+    "coin": "سکه امامی",
+    "half": "نیم‌سکه",
+    "quarter": "ربع‌سکه",
+    "dollar": "دلار آزاد",
+}
 
-# =========================
+ASSET_EMOJIS = {
+    "gold18": "🟡",
+    "coin": "🪙",
+    "half": "🪙",
+    "quarter": "🪙",
+    "dollar": "💵",
+}
+
+
+# =========================================================
 # وضعیت ارسال
-# =========================
+# =========================================================
 
 def load_send_status():
     if not os.path.exists(STATUS_FILE):
@@ -111,16 +126,7 @@ def load_send_status():
         }
 
 
-def save_daily_send_status(slot):
-    status = load_send_status()
-
-    status["daily"] = {
-        "slot": slot,
-        "sent_at": datetime.now(
-            TEHRAN
-        ).isoformat(),
-    }
-
+def save_send_status(status):
     with open(
         STATUS_FILE,
         "w",
@@ -133,15 +139,49 @@ def save_daily_send_status(slot):
             indent=2,
         )
 
+
+def save_daily_destination_status(
+    slot,
+    destination,
+):
+    status = load_send_status()
+
+    status[f"daily_{destination}"] = {
+        "slot": slot,
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
+    }
+
+    save_send_status(status)
+
+    print(
+        f"Daily {destination} status saved:",
+        slot,
+    )
+
+
+def mark_daily_complete(slot):
+    status = load_send_status()
+
+    status["daily"] = {
+        "slot": slot,
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
+    }
+
+    save_send_status(status)
+
     print(
         "Daily send status saved:",
         slot,
     )
 
 
-# =========================
-# تبدیل اعداد به فارسی
-# =========================
+# =========================================================
+# تبدیل اعداد
+# =========================================================
 
 def to_persian_digits(value):
     table = str.maketrans(
@@ -151,175 +191,6 @@ def to_persian_digits(value):
 
     return str(value).translate(table)
 
-
-# =========================
-# تاریخ امروز
-# =========================
-
-def get_today_info():
-    now = datetime.now(TEHRAN)
-
-    jalali = jdatetime.datetime.fromgregorian(
-        datetime=now
-    )
-
-    weekday = WEEKDAYS[now.weekday()]
-
-    date_text = (
-        f"{jalali.day} "
-        f"{PERSIAN_MONTHS[jalali.month - 1]} "
-        f"{jalali.year}"
-    )
-
-    date_text = to_persian_digits(
-        date_text
-    )
-
-    return {
-        "now": now,
-        "jalali": jalali,
-        "weekday": weekday,
-        "date_text": date_text,
-    }
-
-
-# =========================
-# دریافت مناسبت‌های امروز
-# =========================
-
-def get_occasions(today):
-    jalali = today["jalali"]
-    now = today["now"]
-
-    occasions = []
-
-    try:
-        response = requests.get(
-            OCCASIONS_URL,
-            timeout=30,
-        )
-
-        response.raise_for_status()
-
-        data = response.json()
-
-        for item in data:
-            date = item.get("date", {})
-            date_type = date.get("type")
-            date_values = date.get("date", [])
-
-            event_name = item.get(
-                "event_name",
-                "",
-            ).strip()
-
-            if not event_name:
-                continue
-
-            # مناسبت‌های شمسی
-            if date_type == "shamsi":
-                if len(date_values) >= 2:
-                    try:
-                        day = int(
-                            date_values[0]
-                        )
-                    except (ValueError, TypeError):
-                        continue
-
-                    month_name = date_values[1]
-
-                    if (
-                        day == jalali.day
-                        and month_name
-                        == PERSIAN_MONTHS[
-                            jalali.month - 1
-                        ]
-                    ):
-                        occasions.append(
-                            event_name
-                        )
-
-            # مناسبت‌های میلادی
-            elif date_type == "gregorian":
-                if len(date_values) >= 2:
-                    try:
-                        day = int(
-                            date_values[0]
-                        )
-                    except (ValueError, TypeError):
-                        continue
-
-                    month_name = date_values[1]
-
-                    current_month_name = (
-                        GREGORIAN_MONTHS[
-                            now.month - 1
-                        ]
-                    )
-
-                    if (
-                        day == now.day
-                        and month_name
-                        == current_month_name
-                    ):
-                        occasions.append(
-                            event_name
-                        )
-
-        unique = []
-
-        for occasion in occasions:
-            if occasion not in unique:
-                unique.append(occasion)
-
-        return unique
-
-    except Exception as error:
-        print(
-            "Could not load occasions:",
-            error,
-        )
-
-        return []
-
-
-# =========================
-# محاسبه درصد تغییر
-# =========================
-
-def percent_change(current, previous):
-    if current is None:
-        return None
-
-    if previous is None or previous == 0:
-        return None
-
-    return (
-        (current - previous)
-        / previous
-    ) * 100
-
-
-# =========================
-# وضعیت روند
-# =========================
-
-def trend_label(change_percent):
-    if change_percent is None:
-        return "نامشخص"
-
-    if change_percent > 0.20:
-        return "صعودی"
-
-    if change_percent < -0.20:
-        return "نزولی"
-
-    return "نوسانی / تقریباً خنثی"
-
-
-# =========================
-# فرمت قیمت
-# =========================
 
 def format_price(value):
     if value is None:
@@ -338,234 +209,495 @@ def format_price(value):
     return to_persian_digits(text)
 
 
-# =========================
-# فرمت درصد
-# =========================
-
-def change_text(value):
+def format_percent(value):
     if value is None:
         return "بدون داده قبلی"
 
     sign = "+" if value > 0 else ""
 
-    text = f"{sign}{value:.2f}%"
+    return to_persian_digits(
+        f"{sign}{value:.2f}%"
+    )
 
-    return to_persian_digits(text)
+
+# =========================================================
+# تاریخ امروز
+# =========================================================
+
+def get_today_info():
+    now = datetime.now(TEHRAN)
+
+    jalali = jdatetime.datetime.fromgregorian(
+        datetime=now
+    )
+
+    return {
+        "now": now,
+        "jalali": jalali,
+        "weekday": WEEKDAYS[now.weekday()],
+        "date_text": to_persian_digits(
+            f"{jalali.day} "
+            f"{PERSIAN_MONTHS[jalali.month - 1]} "
+            f"{jalali.year}"
+        ),
+    }
 
 
-# =========================
-# ساخت تحلیل
-# =========================
+# =========================================================
+# مناسبت‌های امروز
+# =========================================================
 
-def build_analysis(prices, previous):
+def get_occasions(today):
+    jalali = today["jalali"]
+    now = today["now"]
+
+    occasions = []
+
+    try:
+        response = requests.get(
+            OCCASIONS_URL,
+            timeout=30,
+        )
+
+        response.raise_for_status()
+
+        data = response.json()
+
+        for item in data:
+            date = item.get(
+                "date",
+                {},
+            )
+
+            date_type = date.get(
+                "type"
+            )
+
+            values = date.get(
+                "date",
+                [],
+            )
+
+            event_name = item.get(
+                "event_name",
+                "",
+            ).strip()
+
+            if (
+                not event_name
+                or len(values) < 2
+            ):
+                continue
+
+            try:
+                day = int(
+                    values[0]
+                )
+            except (
+                ValueError,
+                TypeError,
+            ):
+                continue
+
+            month_name = values[1]
+
+            if date_type == "shamsi":
+
+                if (
+                    day == jalali.day
+                    and month_name
+                    == PERSIAN_MONTHS[
+                        jalali.month - 1
+                    ]
+                ):
+                    occasions.append(
+                        event_name
+                    )
+
+            elif date_type == "gregorian":
+
+                current_month_name = (
+                    GREGORIAN_MONTHS[
+                        now.month - 1
+                    ]
+                )
+
+                if (
+                    day == now.day
+                    and month_name
+                    == current_month_name
+                ):
+                    occasions.append(
+                        event_name
+                    )
+
+        unique = []
+
+        for item in occasions:
+            if item not in unique:
+                unique.append(item)
+
+        return unique
+
+    except Exception as error:
+        print(
+            "Could not load occasions:",
+            error,
+        )
+
+        return []
+
+
+# =========================================================
+# درصد تغییر
+# =========================================================
+
+def percent_change(
+    current,
+    previous,
+):
+    if current is None:
+        return None
+
+    if (
+        previous is None
+        or previous == 0
+    ):
+        return None
+
+    return (
+        (current - previous)
+        / previous
+    ) * 100
+
+
+# =========================================================
+# روند
+# =========================================================
+
+def trend_label(value):
+    if value is None:
+        return "داده کافی نیست"
+
+    if value > 0.20:
+        return "صعودی"
+
+    if value < -0.20:
+        return "نزولی"
+
+    return "نوسانی / خنثی"
+
+
+def direction_text(value):
+    if value is None:
+        return "⚪ بدون داده قبلی"
+
+    if value > 0.20:
+        return "🟢 افزایش"
+
+    if value < -0.20:
+        return "🔴 کاهش"
+
+    return "🟡 نوسان محدود"
+
+
+# =========================================================
+# تحلیل بازار
+# =========================================================
+
+def build_analysis(
+    prices,
+    previous,
+):
     previous = previous or {}
 
-    gold_old = previous.get("gold18")
-    coin_old = previous.get("coin")
-    dollar_old = previous.get("dollar")
+    changes = {
+        asset: percent_change(
+            prices.get(asset),
+            previous.get(asset),
+        )
+        for asset in ASSET_LABELS
+    }
 
-    gold_pct = percent_change(
-        prices.get("gold18"),
-        gold_old,
-    )
-
-    coin_pct = percent_change(
-        prices.get("coin"),
-        coin_old,
-    )
-
-    dollar_pct = percent_change(
-        prices.get("dollar"),
-        dollar_old,
-    )
-
-    gold_trend = trend_label(
-        gold_pct
-    )
-
-    coin_trend = trend_label(
-        coin_pct
-    )
-
-    dollar_trend = trend_label(
-        dollar_pct
-    )
-
-    parts = []
-
-    # -------------------------
-    # روند کلی
-    # -------------------------
-
-    available_changes = [
+    available = [
         value
-        for value in [
-            gold_pct,
-            coin_pct,
-            dollar_pct,
-        ]
+        for value in changes.values()
         if value is not None
     ]
 
-    if available_changes:
+    positive = sum(
+        1
+        for value in available
+        if value > 0.20
+    )
 
-        positive = sum(
-            1
-            for value in available_changes
-            if value > 0.20
+    negative = sum(
+        1
+        for value in available
+        if value < -0.20
+    )
+
+    neutral = sum(
+        1
+        for value in available
+        if -0.20 <= value <= 0.20
+    )
+
+    # -----------------------------------------------------
+    # جهت کلی بازار
+    # -----------------------------------------------------
+
+    if not available:
+
+        market_direction = (
+            "داده قبلی کافی برای تشخیص "
+            "جهت بازار وجود ندارد."
         )
 
-        negative = sum(
-            1
-            for value in available_changes
-            if value < -0.20
+    elif positive >= 3:
+
+        market_direction = (
+            "در آخرین مقایسه، کفه "
+            "حرکت‌های صعودی سنگین‌تر است."
         )
 
-        if positive >= 2:
+    elif negative >= 3:
 
-            parts.append(
-                "در آخرین ثبت‌های قیمتی، "
-                "جهت کلی بازار متمایل به صعود بوده است."
-            )
-
-        elif negative >= 2:
-
-            parts.append(
-                "در آخرین ثبت‌های قیمتی، "
-                "جهت کلی بازار متمایل به نزول بوده است."
-            )
-
-        else:
-
-            parts.append(
-                "حرکت قیمت‌ها یکدست نیست و "
-                "بازار در وضعیت نوسانی قرار دارد."
-            )
+        market_direction = (
+            "در آخرین مقایسه، کفه "
+            "حرکت‌های نزولی سنگین‌تر است."
+        )
 
     else:
 
-        parts.append(
-            "برای مقایسه روند، "
-            "داده قبلی کافی در دسترس نیست."
+        market_direction = (
+            "حرکت دارایی‌ها یکدست نیست "
+            "و بازار در وضعیت نوسانی است."
         )
 
-    # -------------------------
-    # طلا و دلار
-    # -------------------------
+    # -----------------------------------------------------
+    # قوی‌ترین حرکت
+    # -----------------------------------------------------
+
+    strongest_asset = None
+    strongest_value = None
+
+    for asset, value in changes.items():
+
+        if value is None:
+            continue
+
+        if (
+            strongest_value is None
+            or abs(value)
+            > abs(strongest_value)
+        ):
+            strongest_asset = asset
+            strongest_value = value
+
+    gold_change = changes["gold18"]
+    dollar_change = changes["dollar"]
+    coin_change = changes["coin"]
+
+    # -----------------------------------------------------
+    # رابطه طلا و دلار
+    # -----------------------------------------------------
 
     if (
-        gold_pct is not None
-        and dollar_pct is not None
+        gold_change is not None
+        and dollar_change is not None
     ):
 
         if (
-            gold_pct > 0
-            and dollar_pct > 0
+            gold_change > 0.20
+            and dollar_change > 0.20
         ):
 
-            parts.append(
-                "طلای ۱۸ عیار و دلار "
-                "در یک جهت حرکت کرده‌اند."
+            gold_dollar = (
+                "طلا و دلار در یک جهت "
+                "صعودی حرکت کرده‌اند."
             )
 
         elif (
-            gold_pct < 0
-            and dollar_pct < 0
+            gold_change < -0.20
+            and dollar_change < -0.20
         ):
 
-            parts.append(
-                "طلای ۱۸ عیار و دلار "
-                "هر دو کاهش داشته‌اند."
+            gold_dollar = (
+                "طلا و دلار هر دو کاهش داشته‌اند."
+            )
+
+        elif (
+            (
+                gold_change > 0.20
+                and dollar_change < -0.20
+            )
+            or (
+                gold_change < -0.20
+                and dollar_change > 0.20
+            )
+        ):
+
+            gold_dollar = (
+                "بین حرکت طلا و دلار "
+                "واگرایی کوتاه‌مدت دیده می‌شود."
             )
 
         else:
 
-            parts.append(
-                "بین حرکت طلا و دلار "
-                "هم‌جهتی کاملی دیده نمی‌شود."
+            gold_dollar = (
+                "حرکت طلا و دلار نسبتاً "
+                "کم‌نوسان یا ترکیبی بوده است."
             )
 
-    # -------------------------
-    # سکه نسبت به طلا
-    # -------------------------
+    else:
+
+        gold_dollar = (
+            "برای مقایسه طلا و دلار "
+            "داده کافی نیست."
+        )
+
+    # -----------------------------------------------------
+    # رابطه سکه و طلا
+    # -----------------------------------------------------
 
     if (
-        coin_pct is not None
-        and gold_pct is not None
+        coin_change is not None
+        and gold_change is not None
     ):
 
-        if coin_pct > gold_pct + 0.20:
+        gap = (
+            coin_change
+            - gold_change
+        )
 
-            parts.append(
-                "سکه امامی نسبت به طلای ۱۸ عیار "
-                "حرکت قوی‌تری داشته است."
+        if gap > 0.30:
+
+            coin_gold = (
+                "سکه امامی نسبت به طلای "
+                "۱۸ عیار حرکت قوی‌تری داشته است."
             )
 
-        elif coin_pct < gold_pct - 0.20:
+        elif gap < -0.30:
 
-            parts.append(
-                "حرکت سکه امامی از طلای ۱۸ عیار "
-                "ضعیف‌تر بوده است."
+            coin_gold = (
+                "سکه امامی نسبت به طلای "
+                "۱۸ عیار حرکت ضعیف‌تری داشته است."
             )
 
         else:
 
-            parts.append(
-                "حرکت سکه و طلای ۱۸ عیار "
-                "تقریباً هم‌جهت بوده است."
+            coin_gold = (
+                "حرکت سکه امامی و طلای "
+                "۱۸ عیار تقریباً هم‌جهت بوده است."
             )
 
-    # -------------------------
-    # نکته خریدار
-    # -------------------------
+    else:
+
+        coin_gold = (
+            "برای مقایسه سکه و طلا "
+            "داده کافی نیست."
+        )
+
+    # -----------------------------------------------------
+    # شدت نوسان
+    # -----------------------------------------------------
+
+    if available:
+
+        average_abs_change = (
+            sum(
+                abs(value)
+                for value in available
+            )
+            / len(available)
+        )
+
+    else:
+
+        average_abs_change = None
+
+    if average_abs_change is None:
+
+        volatility = (
+            "شدت نوسان قابل محاسبه نیست."
+        )
+
+    elif average_abs_change >= 1.0:
+
+        volatility = (
+            "دامنه حرکت قیمت‌ها "
+            "نسبتاً قابل‌توجه بوده است."
+        )
+
+    elif average_abs_change >= 0.30:
+
+        volatility = (
+            "بازار نوسان متوسطی داشته است."
+        )
+
+    else:
+
+        volatility = (
+            "حرکت قیمت‌ها در محدوده "
+            "نسبتاً آرامی بوده است."
+        )
+
+    # -----------------------------------------------------
+    # نکته برای خریدار
+    # -----------------------------------------------------
 
     if (
-        gold_pct is not None
-        and gold_pct > 0.5
+        gold_change is not None
+        and gold_change > 0.50
     ):
 
         buyer_note = (
-            "با توجه به رشد اخیر قیمت، "
-            "خریدار بهتر است قبل از تصمیم، "
-            "چند نرخ متوالی را مقایسه کند."
+            "با توجه به رشد اخیر، بهتر است "
+            "چند نرخ متوالی، وزن، اجرت و "
+            "قیمت نهایی محصول با هم بررسی شوند."
         )
 
     elif (
-        gold_pct is not None
-        and gold_pct < -0.5
+        gold_change is not None
+        and gold_change < -0.50
     ):
 
         buyer_note = (
-            "با توجه به کاهش اخیر، "
-            "مقایسه چند نرخ متوالی و "
-            "بررسی روند قبل از خرید اهمیت دارد."
+            "با توجه به کاهش اخیر، مقایسه "
+            "چند نرخ متوالی و بررسی اجرت و "
+            "وزن برای تصمیم خرید مهم است."
         )
 
     else:
 
         buyer_note = (
-            "در بازار نوسانی، "
-            "مقایسه چند نرخ متوالی و توجه به "
-            "اجرت و وزن محصول اهمیت بیشتری دارد."
+            "در بازار کم‌نوسان یا متغیر، "
+            "مقایسه نرخ لحظه‌ای با اجرت و "
+            "وزن محصول اهمیت بیشتری دارد."
         )
 
     return {
-        "gold_pct": gold_pct,
-        "coin_pct": coin_pct,
-        "dollar_pct": dollar_pct,
-        "gold_trend": gold_trend,
-        "coin_trend": coin_trend,
-        "dollar_trend": dollar_trend,
-        "summary": " ".join(parts),
+        "changes": changes,
+        "positive": positive,
+        "negative": negative,
+        "neutral": neutral,
+        "market_direction": market_direction,
+        "strongest_asset": strongest_asset,
+        "strongest_value": strongest_value,
+        "gold_dollar": gold_dollar,
+        "coin_gold": coin_gold,
+        "volatility": volatility,
         "buyer_note": buyer_note,
     }
 
 
-# =========================
+# =========================================================
 # ساخت پیام
-# =========================
+# =========================================================
 
 def build_message():
+
     today = get_today_info()
 
     prices = get_all_prices()
@@ -577,7 +709,9 @@ def build_message():
 
     previous = load_previous_prices()
 
-    occasions = get_occasions(today)
+    occasions = get_occasions(
+        today
+    )
 
     analysis = build_analysis(
         prices,
@@ -594,31 +728,75 @@ def build_message():
     else:
 
         occasion_text = (
-            "🎉 مناسبت ویژه‌ای در داده تقویم پیدا نشد."
+            "🎉 امروز مناسبت ثبت‌شده‌ای "
+            "در داده تقویم پیدا نشد."
         )
 
-    gold_price = format_price(
-        prices.get("gold18")
-    )
+    # -----------------------------------------------------
+    # قیمت‌ها
+    # -----------------------------------------------------
 
-    coin_price = format_price(
-        prices.get("coin")
-    )
+    price_lines = []
 
-    dollar_price = format_price(
-        prices.get("dollar")
-    )
+    for asset in [
+        "gold18",
+        "coin",
+        "half",
+        "quarter",
+        "dollar",
+    ]:
 
-    gold_change = change_text(
-        analysis["gold_pct"]
-    )
+        change = (
+            analysis["changes"][
+                asset
+            ]
+        )
 
-    coin_change = change_text(
-        analysis["coin_pct"]
-    )
+        price_lines.append(
+            f'{ASSET_EMOJIS[asset]} '
+            f'{ASSET_LABELS[asset]}: '
+            f'{format_price(prices.get(asset))} تومان'
+        )
 
-    dollar_change = change_text(
-        analysis["dollar_pct"]
+        price_lines.append(
+            f'   {direction_text(change)} | '
+            f'{format_percent(change)}'
+        )
+
+    # -----------------------------------------------------
+    # قوی‌ترین حرکت
+    # -----------------------------------------------------
+
+    if (
+        analysis["strongest_asset"]
+        is not None
+        and analysis["strongest_value"]
+        is not None
+    ):
+
+        strongest_text = (
+            f'قوی‌ترین حرکت مربوط به '
+            f'{ASSET_LABELS[analysis["strongest_asset"]]} '
+            f'با {format_percent(analysis["strongest_value"])} بوده است.'
+        )
+
+    else:
+
+        strongest_text = (
+            "قوی‌ترین حرکت قابل مشاهده مشخص نیست."
+        )
+
+    # -----------------------------------------------------
+    # شمارش صعود/نزول
+    # -----------------------------------------------------
+
+    count_text = (
+        f'🟢 صعودی: '
+        f'{to_persian_digits(analysis["positive"])}  |  '
+        f'🔴 نزولی: '
+        f'{to_persian_digits(analysis["negative"])}  |  '
+        f'🟡 خنثی: '
+        f'{to_persian_digits(analysis["neutral"])}'
     )
 
     return f"""🌙✨ زرین ماه | تحلیل روزانه بازار
@@ -629,34 +807,50 @@ def build_message():
 
 ━━━━━━━━━━━━━━━━━━
 
-💰 وضعیت امروز بازار
+💰 وضعیت قیمت‌ها
 
-🟡 طلای ۱۸ عیار
-💵 {gold_price} تومان
-📊 تغییر: {gold_change}
-📈 روند: {analysis["gold_trend"]}
-
-🪙 سکه امامی
-💵 {coin_price} تومان
-📊 تغییر: {coin_change}
-📈 روند: {analysis["coin_trend"]}
-
-💵 دلار
-💵 {dollar_price} تومان
-📊 تغییر: {dollar_change}
-📈 روند: {analysis["dollar_trend"]}
+{chr(10).join(price_lines)}
 
 ━━━━━━━━━━━━━━━━━━
 
-📌 جمع‌بندی بازار
+📊 نبض بازار
 
-{analysis["summary"]}
+{analysis["market_direction"]}
+
+{count_text}
+
+{strongest_text}
+
+━━━━━━━━━━━━━━━━━━
+
+🔎 طلا و دلار
+
+{analysis["gold_dollar"]}
+
+━━━━━━━━━━━━━━━━━━
+
+🪙 سکه و طلا
+
+{analysis["coin_gold"]}
+
+━━━━━━━━━━━━━━━━━━
+
+📈 شدت نوسان
+
+{analysis["volatility"]}
 
 ━━━━━━━━━━━━━━━━━━
 
 🛍 نکته برای خریداران
 
 {analysis["buyer_note"]}
+
+━━━━━━━━━━━━━━━━━━
+
+📌 مبنای تحلیل
+
+تغییرات نسبت به آخرین قیمت ذخیره‌شده قبلی ربات محاسبه شده است.
+این متن تحلیل خودکار داده‌های قیمت است و پیش‌بینی قطعی بازار نیست.
 
 ━━━━━━━━━━━━━━━━━━
 
@@ -667,71 +861,33 @@ def build_message():
 """
 
 
-# =========================
-# ارسال به تلگرام
-# =========================
-
-def send_to_telegram(message):
-    if not BOT_TOKEN:
-        raise RuntimeError(
-            "TELEGRAM_BOT_TOKEN is missing."
-        )
-
-    url = (
-        f"https://api.telegram.org/"
-        f"bot{BOT_TOKEN}/sendMessage"
-    )
-
-    payload = {
-        "chat_id": CHANNEL,
-        "text": message,
-    }
-
-    response = requests.post(
-        url,
-        json=payload,
-        timeout=30,
-    )
-
-    if response.status_code != 200:
-        print(
-            "Telegram API error:",
-            response.status_code,
-        )
-        print(response.text)
-
-        response.raise_for_status()
-
-    data = response.json()
-
-    if not data.get("ok"):
-        raise RuntimeError(
-            f"Telegram returned an error: {data}"
-        )
-
-    print(
-        "Daily analysis sent successfully."
-    )
-
-
-# =========================
+# =========================================================
 # اجرای اصلی
-# =========================
+# =========================================================
 
 def main():
-    now = datetime.now(TEHRAN)
 
-    current_slot = now.strftime(
-        "%Y-%m-%d"
+    now = datetime.now(
+        TEHRAN
+    )
+
+    current_slot = (
+        now.strftime(
+            "%Y-%m-%d"
+        )
     )
 
     scheduled_run = (
-        os.environ.get("SCHEDULED_RUN")
+        os.environ.get(
+            "SCHEDULED_RUN"
+        )
         == "true"
     )
 
     watchdog_retry = (
-        os.environ.get("WATCHDOG_RETRY")
+        os.environ.get(
+            "WATCHDOG_RETRY"
+        )
         == "true"
     )
 
@@ -740,7 +896,7 @@ def main():
     )
 
     print(
-        "ZarinMah Daily Analysis"
+        "ZarinMah Daily Market Analysis"
     )
 
     print(
@@ -764,51 +920,158 @@ def main():
         "==================================="
     )
 
-    # فقط اجرای زمان‌بندی‌شده یا Watchdog
-    # اجازه ثبت وضعیت و جلوگیری از ارسال تکراری دارند.
-    if scheduled_run or watchdog_retry:
+    status = load_send_status()
 
-        status = load_send_status()
+    telegram_sent = (
+        status
+        .get(
+            "daily_telegram",
+            {},
+        )
+        .get(
+            "slot"
+        )
+        == current_slot
+    )
 
-        daily_status = status.get(
+    eitaa_sent = (
+        status
+        .get(
+            "daily_eitaa",
+            {},
+        )
+        .get(
+            "slot"
+        )
+        == current_slot
+    )
+
+    daily_complete = (
+        status
+        .get(
             "daily",
             {},
         )
+        .get(
+            "slot"
+        )
+        == current_slot
+    )
 
-        if (
-            daily_status.get("slot")
-            == current_slot
-        ):
+    if daily_complete:
 
-            print(
-                "Daily analysis already sent for:",
-                current_slot,
-            )
+        print(
+            "Daily analysis already sent "
+            "to all destinations for:",
+            current_slot,
+        )
 
-            return
+        return
 
-    # ساخت پیام
+    # -----------------------------------------------------
+    # ساخت تحلیل
+    # -----------------------------------------------------
+
     message = build_message()
 
     print(
         "Generated daily analysis:"
     )
 
-    print(message)
+    print(
+        message
+    )
 
-    # ارسال
-    send_to_telegram(message)
+    # -----------------------------------------------------
+    # تلگرام
+    # -----------------------------------------------------
 
-    # ثبت وضعیت
-    if scheduled_run or watchdog_retry:
-        save_daily_send_status(
+    if not telegram_sent:
+
+        print(
+            "Sending daily analysis "
+            "to Telegram..."
+        )
+
+        send_to_telegram(
+            message
+        )
+
+        save_daily_destination_status(
+            current_slot,
+            "telegram",
+        )
+
+        telegram_sent = True
+
+        print(
+            "Daily analysis sent to Telegram."
+        )
+
+    else:
+
+        print(
+            "Daily analysis already sent "
+            "to Telegram for:",
+            current_slot,
+        )
+
+    # -----------------------------------------------------
+    # ایتا
+    # -----------------------------------------------------
+
+    if not eitaa_sent:
+
+        print(
+            "Sending daily analysis "
+            "to Eitaa..."
+        )
+
+        send_to_eitaa(
+            message
+        )
+
+        save_daily_destination_status(
+            current_slot,
+            "eitaa",
+        )
+
+        eitaa_sent = True
+
+        print(
+            "Daily analysis sent to Eitaa."
+        )
+
+    else:
+
+        print(
+            "Daily analysis already sent "
+            "to Eitaa for:",
+            current_slot,
+        )
+
+    # -----------------------------------------------------
+    # تکمیل ارسال
+    # -----------------------------------------------------
+
+    if (
+        telegram_sent
+        and eitaa_sent
+    ):
+
+        mark_daily_complete(
             current_slot
         )
 
-    print(
-        "Daily analysis completed."
-    )
+        print(
+            "Daily analysis completed "
+            "on Telegram + Eitaa."
+        )
 
+
+# =========================================================
+# اجرا
+# =========================================================
 
 if __name__ == "__main__":
     main()
