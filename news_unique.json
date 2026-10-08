@@ -509,6 +509,34 @@
     "medium_impact_matches": []
   },
   {
+    "source": "ایسنا",
+    "title": "خسارت ۳.۳ میلیارد دلاری آمریکا در جنگ با ایران؛ ۸۱ هواپیما و پهپاد آسیب دیدند",
+    "link": "https://www.isna.ir/news/1405071610415/%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%DB%B3-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B8%DB%B1-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7-%D9%88",
+    "summary": "گزارشی از یک مرکز وابسته به کنگره آمریکا حکایت از این دارد که دست کم ۸۱ فروند از هواپیماها، بالگردها و پهپادهای آمریکایی در جریان حملات متجاوزانه علیه ایران از زمان آغاز جنگ طی حدود هفت ماه پیش از دست رفته یا آسیب دیده اند؛ خسارتی که هزینه آن ۳.۳ میلیارد دلار برآورد شده است.",
+    "published": "Thu, 08 Oct 2026 02:41:30 GMT",
+    "collected_at": "2026-10-08T06:16:43.397315+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
+    "medium_impact_matches": []
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "روکشِ نفتی بر سفره های کوپنی؛ چرا اقتصاد دهه 60 الگوی مقاومت نیست؟ | آیا صف های کوپن بدون دلارهای نفتی دوام می آوردند؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300233-%D8%B1%D9%88%DA%A9%D8%B4-%D9%86%D9%81%D8%AA%DB%8C-%D8%A8%D8%B1-%D8%B3%D9%81%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%DA%A9%D9%88%D9%BE%D9%86%DB%8C-%DA%86%D8%B1%D8%A7-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%AF%D9%87%D9%87-%D8%A7%D9%84%DA%AF%D9%88%DB%8C-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D9%86%DB%8C%D8%B3%D8%AA-%D8%A2%DB%8C%D8%A7-%D8%B5%D9%81-%D9%87%D8%A7%DB%8C-%DA%A9%D9%88%D9%BE%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%86%D9%81%D8%AA%DB%8C-%D8%AF%D9%88%D8%A7%D9%85-%D9%85%DB%8C-%D8%A2%D9%88%D8%B1%D8%AF%D9%86%D8%AF",
@@ -1160,6 +1188,33 @@
     ],
     "high_impact_matches": [],
     "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "منطقه یورو با تهدید بحران بدهی جدیدی روبرو شد",
+    "link": "https://www.isna.ir/news/1405071510200/%D9%85%D9%86%D8%B7%D9%82%D9%87-%DB%8C%D9%88%D8%B1%D9%88-%D8%A8%D8%A7-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%A8%D8%AF%D9%87%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF%DB%8C-%D8%B1%D9%88%D8%A8%D8%B1%D9%88-%D8%B4%D8%AF",
+    "summary": "موج بی سابقه اعتراضات دانش آموزی در فرانسه، فشارهای مالی فزاینده بر این کشور را آشکار کرده است و مقابله با آنها هم زمان با تلاش دومین اقتصاد بزرگ اروپا برای مهار کسری بودجه فزاینده را دشوارتر خواهد کرد.",
+    "published": "Thu, 08 Oct 2026 02:30:00 GMT",
+    "collected_at": "2026-10-08T06:16:43.397346+03:30",
+    "market_score": 9,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "کسری بودجه",
+      "بودجه"
+    ]
   },
   {
     "source": "دنیای اقتصاد",
