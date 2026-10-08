@@ -235,7 +235,8 @@
     "source": "خبرآنلاین اقتصادی",
     "link": "https://www.khabaronline.ir/news/2285353/%D8%B7%D9%84%D8%A7-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D9%87-%D9%85%D8%B3%DB%8C%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2",
     "published_at": "2026-10-08T07:47:38.244831+00:00",
-    "telegram_message_id": 157
+    "telegram_message_id": 157,
+    "eitaa_message_id": 175526931
   },
   "d881361356ad73527c4811a5b763b1a8114a968711c9fe56cf1a5e3e8549ce71": {
     "title": "کاهش نرخ ارز در بازار",
@@ -289,5 +290,13 @@
     "link": "https://www.tabnak.ir/fa/news/1397853/بازار-ارز-در-آخرین-روز-هفته-نوسان-کاهشی-نرخ-یورو-در-مرکز-مبادله",
     "published_at": "2026-10-08T14:16:12.661321+00:00",
     "telegram_message_id": 177
+  },
+  "c8b28a1aed4ed374fc9e369e53b9b9e76d590ebd678ab89bc1483cc40a11f19f": {
+    "title": "کاهش قیمت طلا در بازار",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300456-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
+    "published_at": "2026-10-08T16:47:44.507889+00:00",
+    "telegram_message_id": 182,
+    "eitaa_message_id": 175526929
   }
 }

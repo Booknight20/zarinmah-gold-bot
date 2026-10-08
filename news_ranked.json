@@ -781,31 +781,31 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۵ مهر ۱۴۰۵ در زمان بازگشایی بازار/ یورو چند قیمت خورد؟ + جدول",
-    "link": "https://www.khabaronline.ir/news/2284792/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B5-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
-    "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد.",
-    "published": "Wed, 07 Oct 2026 05:25:00 GMT",
-    "collected_at": "2026-10-07T15:46:54.028827+03:30",
+    "source": "مهر",
+    "title": "خسارت ۳.۳ میلیارد دلاری به ناوگان هوایی آمریکا در جنگ ایران",
+    "link": "https://www.mehrnews.com/news/6971949/%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%DB%B3-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D9%87-%D9%86%D8%A7%D9%88%DA%AF%D8%A7%D9%86-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "summary": "شبکه سی ان ان به نقل از گزارش کنگره آمریکا اذعان کرد که ارتش این کشور در جنگ علیه ایران ۸۱ جنگنده، بالگرد و پهپاد را از دست داد که ارزش تقریبی آنها ۳.۳ میلیارد دلار است.",
+    "published": "Thu, 08 Oct 2026 16:18:19 GMT",
+    "collected_at": "2026-10-08T20:17:15.198625+03:30",
     "market_score": 17,
     "market_matches": {
       "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
+        "دلار"
       ]
     },
     "driver_matches": [],
-    "major_event_matches": [],
+    "major_event_matches": [
+      "جنگ"
+    ],
     "priority": "medium",
     "gold_matches": [],
     "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو"
+      "دلار"
     ],
     "stock_matches": [],
-    "high_impact_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
     "medium_impact_matches": []
   },
   {
@@ -1438,6 +1438,30 @@
     "high_impact_matches": [
       "تنگه هرمز"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "توافق امنیتی مشترک یونان و آمریکا/ رویترز: یونان ۲۸ میلیارد یورو برای خرید تسلیحات آمریکایی و ساخت سپر آشیل هزینه می کند",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300526-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9-%DB%8C%D9%88%D9%86%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D9%88%DB%8C%D8%AA%D8%B1%D8%B2-%DB%8C%D9%88%D9%86%D8%A7%D9%86-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AA%D8%B3%D9%84%DB%8C%D8%AD%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B3%D9%BE%D8%B1-%D8%A2%D8%B4%DB%8C%D9%84-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+    "summary": "یک مقام ارشد وزارت دفاع یونان به رویترز گفت: توافق با آمریکا شامل موشک ها و بمب های پیشرفته جدید برای جنگنده های «اف-۱۶» و «اف-۳۵» و بالگردهای «بلک هاوک» و همچنین ارتقای جنگنده های قدیمی «اف-۱۶» به نسخه «وایپر» است",
+    "published": "Thu, 08 Oct 2026 16:27:22 +0000",
+    "collected_at": "2026-10-08T20:17:23.681994+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
