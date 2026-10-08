@@ -1,5 +1,6 @@
 import json
 import os
+import time
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -9,14 +10,18 @@ import requests
 from bot import (
     get_all_prices,
     load_previous_prices,
-    send_to_telegram,
-    send_to_eitaa,
 )
 
 
 # =========================================================
 # تنظیمات
 # =========================================================
+
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+EITAAYAR_TOKEN = os.environ.get("EITAAYAR_TOKEN")
+EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID")
+
+TELEGRAM_CHANNEL = "@ZarinMahGold"
 
 TEHRAN = ZoneInfo("Asia/Tehran")
 
@@ -26,6 +31,11 @@ OCCASIONS_URL = (
     "https://raw.githubusercontent.com/"
     "BaseMax/persian-holidays-api/master/holidays.json"
 )
+
+EITAA_API_URL = (
+    "https://eitaayar.ir/api/"
+)
+
 
 WEEKDAYS = [
     "دوشنبه",
@@ -67,21 +77,18 @@ GREGORIAN_MONTHS = [
     "December",
 ]
 
-ASSET_LABELS = {
-    "gold18": "طلای ۱۸ عیار",
-    "coin": "سکه امامی",
-    "half": "نیم‌سکه",
-    "quarter": "ربع‌سکه",
-    "dollar": "دلار آزاد",
-}
 
-ASSET_EMOJIS = {
-    "gold18": "🟡",
-    "coin": "🪙",
-    "half": "🪙",
-    "quarter": "🪙",
-    "dollar": "💵",
-}
+# =========================================================
+# تبدیل اعداد
+# =========================================================
+
+def to_persian_digits(value):
+    table = str.maketrans(
+        "0123456789",
+        "۰۱۲۳۴۵۶۷۸۹",
+    )
+
+    return str(value).translate(table)
 
 
 # =========================================================
@@ -89,12 +96,14 @@ ASSET_EMOJIS = {
 # =========================================================
 
 def load_send_status():
+    default_status = {
+        "hourly": {},
+        "daily": {},
+        "watchdog": {},
+    }
+
     if not os.path.exists(STATUS_FILE):
-        return {
-            "hourly": {},
-            "daily": {},
-            "watchdog": {},
-        }
+        return default_status
 
     try:
         with open(
@@ -105,7 +114,7 @@ def load_send_status():
             data = json.load(file)
 
         if not isinstance(data, dict):
-            data = {}
+            return default_status
 
         data.setdefault("hourly", {})
         data.setdefault("daily", {})
@@ -116,14 +125,10 @@ def load_send_status():
     except Exception as error:
         print(
             "Could not load send status:",
-            error,
+            repr(error),
         )
 
-        return {
-            "hourly": {},
-            "daily": {},
-            "watchdog": {},
-        }
+        return default_status
 
 
 def save_send_status(status):
@@ -140,83 +145,54 @@ def save_send_status(status):
         )
 
 
+def get_daily_status(status, slot):
+    daily = status.get("daily", {})
+
+    if not isinstance(daily, dict):
+        daily = {}
+
+    if daily.get("slot") != slot:
+        return {
+            "slot": slot,
+            "telegram": False,
+            "eitaa": False,
+        }
+
+    return {
+        "slot": slot,
+        "telegram": bool(
+            daily.get("telegram", False)
+        ),
+        "eitaa": bool(
+            daily.get("eitaa", False)
+        ),
+    }
+
+
 def save_daily_destination_status(
     slot,
     destination,
 ):
     status = load_send_status()
 
-    status[f"daily_{destination}"] = {
-        "slot": slot,
-        "sent_at": datetime.now(
-            TEHRAN
-        ).isoformat(),
-    }
+    current = get_daily_status(
+        status,
+        slot,
+    )
+
+    current[destination] = True
+    current["slot"] = slot
+    current["sent_at"] = datetime.now(
+        TEHRAN
+    ).isoformat()
+
+    status["daily"] = current
 
     save_send_status(status)
 
     print(
         f"Daily {destination} status saved:",
         slot,
-    )
-
-
-def mark_daily_complete(slot):
-    status = load_send_status()
-
-    status["daily"] = {
-        "slot": slot,
-        "sent_at": datetime.now(
-            TEHRAN
-        ).isoformat(),
-    }
-
-    save_send_status(status)
-
-    print(
-        "Daily send status saved:",
-        slot,
-    )
-
-
-# =========================================================
-# تبدیل اعداد
-# =========================================================
-
-def to_persian_digits(value):
-    table = str.maketrans(
-        "0123456789",
-        "۰۱۲۳۴۵۶۷۸۹",
-    )
-
-    return str(value).translate(table)
-
-
-def format_price(value):
-    if value is None:
-        return "نامشخص"
-
-    try:
-        number = float(value)
-    except (ValueError, TypeError):
-        return str(value)
-
-    if number.is_integer():
-        text = f"{int(number):,}"
-    else:
-        text = f"{number:,.2f}"
-
-    return to_persian_digits(text)
-
-
-def format_percent(value):
-    if value is None:
-        return "بدون داده قبلی"
-
-    sign = "+" if value > 0 else ""
-
-    return to_persian_digits(
-        f"{sign}{value:.2f}%"
     )
 
 
@@ -231,20 +207,28 @@ def get_today_info():
         datetime=now
     )
 
+    weekday = WEEKDAYS[
+        now.weekday()
+    ]
+
+    date_text = (
+        f"{jalali.day} "
+        f"{PERSIAN_MONTHS[jalali.month - 1]} "
+        f"{jalali.year}"
+    )
+
     return {
         "now": now,
         "jalali": jalali,
-        "weekday": WEEKDAYS[now.weekday()],
+        "weekday": weekday,
         "date_text": to_persian_digits(
-            f"{jalali.day} "
-            f"{PERSIAN_MONTHS[jalali.month - 1]} "
-            f"{jalali.year}"
+            date_text
         ),
     }
 
 
 # =========================================================
-# مناسبت‌های امروز
+# مناسبت‌ها
 # =========================================================
 
 def get_occasions(today):
@@ -273,7 +257,7 @@ def get_occasions(today):
                 "type"
             )
 
-            values = date.get(
+            date_values = date.get(
                 "date",
                 [],
             )
@@ -283,25 +267,26 @@ def get_occasions(today):
                 "",
             ).strip()
 
-            if (
-                not event_name
-                or len(values) < 2
-            ):
+            if not event_name:
                 continue
 
-            try:
-                day = int(
-                    values[0]
-                )
-            except (
-                ValueError,
-                TypeError,
-            ):
-                continue
-
-            month_name = values[1]
-
+            # شمسی
             if date_type == "shamsi":
+
+                if len(date_values) < 2:
+                    continue
+
+                try:
+                    day = int(
+                        date_values[0]
+                    )
+                except (
+                    ValueError,
+                    TypeError,
+                ):
+                    continue
+
+                month_name = date_values[1]
 
                 if (
                     day == jalali.day
@@ -314,7 +299,23 @@ def get_occasions(today):
                         event_name
                     )
 
+            # میلادی
             elif date_type == "gregorian":
+
+                if len(date_values) < 2:
+                    continue
+
+                try:
+                    day = int(
+                        date_values[0]
+                    )
+                except (
+                    ValueError,
+                    TypeError,
+                ):
+                    continue
+
+                month_name = date_values[1]
 
                 current_month_name = (
                     GREGORIAN_MONTHS[
@@ -333,23 +334,25 @@ def get_occasions(today):
 
         unique = []
 
-        for item in occasions:
-            if item not in unique:
-                unique.append(item)
+        for occasion in occasions:
+            if occasion not in unique:
+                unique.append(
+                    occasion
+                )
 
         return unique
 
     except Exception as error:
         print(
             "Could not load occasions:",
-            error,
+            repr(error),
         )
 
         return []
 
 
 # =========================================================
-# درصد تغییر
+# محاسبه درصد تغییر
 # =========================================================
 
 def percent_change(
@@ -359,10 +362,19 @@ def percent_change(
     if current is None:
         return None
 
-    if (
-        previous is None
-        or previous == 0
+    if previous is None:
+        return None
+
+    try:
+        current = float(current)
+        previous = float(previous)
+    except (
+        ValueError,
+        TypeError,
     ):
+        return None
+
+    if previous == 0:
         return None
 
     return (
@@ -375,30 +387,59 @@ def percent_change(
 # روند
 # =========================================================
 
-def trend_label(value):
-    if value is None:
-        return "داده کافی نیست"
+def trend_label(change_percent):
+    if change_percent is None:
+        return "نامشخص"
 
-    if value > 0.20:
+    if change_percent > 0.20:
         return "صعودی"
 
-    if value < -0.20:
+    if change_percent < -0.20:
         return "نزولی"
 
-    return "نوسانی / خنثی"
+    return "نوسانی / تقریباً خنثی"
 
 
-def direction_text(value):
+# =========================================================
+# فرمت قیمت
+# =========================================================
+
+def format_price(value):
     if value is None:
-        return "⚪ بدون داده قبلی"
+        return "نامشخص"
 
-    if value > 0.20:
-        return "🟢 افزایش"
+    try:
+        number = float(value)
+    except (
+        ValueError,
+        TypeError,
+    ):
+        return str(value)
 
-    if value < -0.20:
-        return "🔴 کاهش"
+    if number.is_integer():
+        text = f"{int(number):,}"
+    else:
+        text = f"{number:,.2f}"
 
-    return "🟡 نوسان محدود"
+    return to_persian_digits(text)
+
+
+# =========================================================
+# فرمت درصد
+# =========================================================
+
+def change_text(value):
+    if value is None:
+        return "بدون داده قبلی"
+
+    sign = "+" if value > 0 else ""
+
+    text = (
+        f"{sign}"
+        f"{value:.2f}%"
+    )
+
+    return to_persian_digits(text)
 
 
 # =========================================================
@@ -411,12 +452,37 @@ def build_analysis(
 ):
     previous = previous or {}
 
+    gold_pct = percent_change(
+        prices.get("gold18"),
+        previous.get("gold18"),
+    )
+
+    coin_pct = percent_change(
+        prices.get("coin"),
+        previous.get("coin"),
+    )
+
+    half_pct = percent_change(
+        prices.get("half"),
+        previous.get("half"),
+    )
+
+    quarter_pct = percent_change(
+        prices.get("quarter"),
+        previous.get("quarter"),
+    )
+
+    dollar_pct = percent_change(
+        prices.get("dollar"),
+        previous.get("dollar"),
+    )
+
     changes = {
-        asset: percent_change(
-            prices.get(asset),
-            previous.get(asset),
-        )
-        for asset in ASSET_LABELS
+        "gold18": gold_pct,
+        "coin": coin_pct,
+        "half": half_pct,
+        "quarter": quarter_pct,
+        "dollar": dollar_pct,
     }
 
     available = [
@@ -437,257 +503,188 @@ def build_analysis(
         if value < -0.20
     )
 
-    neutral = sum(
-        1
-        for value in available
-        if -0.20 <= value <= 0.20
-    )
-
-    # -----------------------------------------------------
-    # جهت کلی بازار
-    # -----------------------------------------------------
-
     if not available:
-
         market_direction = (
-            "داده قبلی کافی برای تشخیص "
-            "جهت بازار وجود ندارد."
+            "برای مقایسه روند، "
+            "داده قبلی کافی در دسترس نیست."
         )
 
     elif positive >= 3:
-
         market_direction = (
-            "در آخرین مقایسه، کفه "
-            "حرکت‌های صعودی سنگین‌تر است."
+            "در آخرین ثبت‌های قیمتی، "
+            "جهت کلی بازار متمایل به صعود "
+            "بوده است."
         )
 
     elif negative >= 3:
-
         market_direction = (
-            "در آخرین مقایسه، کفه "
-            "حرکت‌های نزولی سنگین‌تر است."
+            "در آخرین ثبت‌های قیمتی، "
+            "جهت کلی بازار متمایل به نزول "
+            "بوده است."
         )
 
     else:
-
         market_direction = (
-            "حرکت دارایی‌ها یکدست نیست "
-            "و بازار در وضعیت نوسانی است."
+            "حرکت قیمت‌ها یکدست نیست و "
+            "بازار در وضعیت نوسانی قرار دارد."
         )
 
-    # -----------------------------------------------------
     # قوی‌ترین حرکت
-    # -----------------------------------------------------
-
     strongest_asset = None
     strongest_value = None
 
-    for asset, value in changes.items():
-
+    for name, value in changes.items():
         if value is None:
             continue
 
         if (
             strongest_value is None
-            or abs(value)
-            > abs(strongest_value)
+            or abs(value) > abs(strongest_value)
         ):
-            strongest_asset = asset
+            strongest_asset = name
             strongest_value = value
 
-    gold_change = changes["gold18"]
-    dollar_change = changes["dollar"]
-    coin_change = changes["coin"]
-
-    # -----------------------------------------------------
-    # رابطه طلا و دلار
-    # -----------------------------------------------------
+    asset_labels = {
+        "gold18": "طلای ۱۸ عیار",
+        "coin": "سکه امامی",
+        "half": "نیم‌سکه",
+        "quarter": "ربع‌سکه",
+        "dollar": "دلار",
+    }
 
     if (
-        gold_change is not None
-        and dollar_change is not None
+        strongest_asset is not None
+        and strongest_value is not None
     ):
+        strongest_text = (
+            f"{asset_labels[strongest_asset]} "
+            f"با تغییر "
+            f"{change_text(strongest_value)} "
+            f"بیشترین نوسان ثبت‌شده را داشته است."
+        )
+    else:
+        strongest_text = (
+            "برای تعیین بیشترین نوسان، "
+            "داده کافی در دسترس نیست."
+        )
 
+    # طلا و دلار
+    if (
+        gold_pct is not None
+        and dollar_pct is not None
+    ):
         if (
-            gold_change > 0.20
-            and dollar_change > 0.20
+            gold_pct > 0
+            and dollar_pct > 0
         ):
-
-            gold_dollar = (
-                "طلا و دلار در یک جهت "
-                "صعودی حرکت کرده‌اند."
+            gold_dollar_text = (
+                "طلای ۱۸ عیار و دلار "
+                "در یک جهت حرکت کرده‌اند."
             )
 
         elif (
-            gold_change < -0.20
-            and dollar_change < -0.20
+            gold_pct < 0
+            and dollar_pct < 0
         ):
-
-            gold_dollar = (
-                "طلا و دلار هر دو کاهش داشته‌اند."
+            gold_dollar_text = (
+                "طلای ۱۸ عیار و دلار "
+                "هر دو کاهش داشته‌اند."
             )
 
-        elif (
-            (
-                gold_change > 0.20
-                and dollar_change < -0.20
-            )
-            or (
-                gold_change < -0.20
-                and dollar_change > 0.20
-            )
-        ):
-
-            gold_dollar = (
+        else:
+            gold_dollar_text = (
                 "بین حرکت طلا و دلار "
-                "واگرایی کوتاه‌مدت دیده می‌شود."
-            )
-
-        else:
-
-            gold_dollar = (
-                "حرکت طلا و دلار نسبتاً "
-                "کم‌نوسان یا ترکیبی بوده است."
+                "هم‌جهتی کاملی دیده نمی‌شود."
             )
 
     else:
-
-        gold_dollar = (
-            "برای مقایسه طلا و دلار "
-            "داده کافی نیست."
+        gold_dollar_text = (
+            "برای مقایسه حرکت طلا و دلار "
+            "داده قبلی کامل نیست."
         )
 
-    # -----------------------------------------------------
-    # رابطه سکه و طلا
-    # -----------------------------------------------------
-
+    # سکه و طلا
     if (
-        coin_change is not None
-        and gold_change is not None
+        coin_pct is not None
+        and gold_pct is not None
     ):
-
-        gap = (
-            coin_change
-            - gold_change
-        )
-
-        if gap > 0.30:
-
-            coin_gold = (
-                "سکه امامی نسبت به طلای "
-                "۱۸ عیار حرکت قوی‌تری داشته است."
+        if coin_pct > gold_pct + 0.20:
+            coin_gold_text = (
+                "سکه امامی نسبت به طلای ۱۸ عیار "
+                "حرکت قوی‌تری داشته است."
             )
 
-        elif gap < -0.30:
-
-            coin_gold = (
-                "سکه امامی نسبت به طلای "
-                "۱۸ عیار حرکت ضعیف‌تری داشته است."
+        elif coin_pct < gold_pct - 0.20:
+            coin_gold_text = (
+                "حرکت سکه امامی از طلای ۱۸ عیار "
+                "ضعیف‌تر بوده است."
             )
 
         else:
-
-            coin_gold = (
-                "حرکت سکه امامی و طلای "
-                "۱۸ عیار تقریباً هم‌جهت بوده است."
+            coin_gold_text = (
+                "حرکت سکه و طلای ۱۸ عیار "
+                "تقریباً هم‌جهت بوده است."
             )
 
     else:
-
-        coin_gold = (
+        coin_gold_text = (
             "برای مقایسه سکه و طلا "
-            "داده کافی نیست."
+            "داده قبلی کامل نیست."
         )
 
-    # -----------------------------------------------------
-    # شدت نوسان
-    # -----------------------------------------------------
-
-    if available:
-
-        average_abs_change = (
-            sum(
-                abs(value)
-                for value in available
-            )
-            / len(available)
-        )
-
-    else:
-
-        average_abs_change = None
-
-    if average_abs_change is None:
-
-        volatility = (
-            "شدت نوسان قابل محاسبه نیست."
-        )
-
-    elif average_abs_change >= 1.0:
-
-        volatility = (
-            "دامنه حرکت قیمت‌ها "
-            "نسبتاً قابل‌توجه بوده است."
-        )
-
-    elif average_abs_change >= 0.30:
-
-        volatility = (
-            "بازار نوسان متوسطی داشته است."
-        )
-
-    else:
-
-        volatility = (
-            "حرکت قیمت‌ها در محدوده "
-            "نسبتاً آرامی بوده است."
-        )
-
-    # -----------------------------------------------------
-    # نکته برای خریدار
-    # -----------------------------------------------------
-
+    # نکته خریدار
     if (
-        gold_change is not None
-        and gold_change > 0.50
+        gold_pct is not None
+        and gold_pct > 0.50
     ):
-
         buyer_note = (
-            "با توجه به رشد اخیر، بهتر است "
-            "چند نرخ متوالی، وزن، اجرت و "
-            "قیمت نهایی محصول با هم بررسی شوند."
+            "با توجه به رشد اخیر قیمت، "
+            "بهتر است قبل از خرید، "
+            "چند نرخ متوالی مقایسه شود."
         )
 
     elif (
-        gold_change is not None
-        and gold_change < -0.50
+        gold_pct is not None
+        and gold_pct < -0.50
     ):
-
         buyer_note = (
-            "با توجه به کاهش اخیر، مقایسه "
-            "چند نرخ متوالی و بررسی اجرت و "
-            "وزن برای تصمیم خرید مهم است."
+            "با توجه به کاهش اخیر، "
+            "مقایسه چند نرخ متوالی "
+            "قبل از خرید اهمیت دارد."
         )
 
     else:
-
         buyer_note = (
-            "در بازار کم‌نوسان یا متغیر، "
-            "مقایسه نرخ لحظه‌ای با اجرت و "
-            "وزن محصول اهمیت بیشتری دارد."
+            "در بازار نوسانی، "
+            "مقایسه چند نرخ متوالی و "
+            "توجه به اجرت و وزن محصول اهمیت دارد."
         )
 
     return {
-        "changes": changes,
-        "positive": positive,
-        "negative": negative,
-        "neutral": neutral,
+        "gold_pct": gold_pct,
+        "coin_pct": coin_pct,
+        "half_pct": half_pct,
+        "quarter_pct": quarter_pct,
+        "dollar_pct": dollar_pct,
+        "gold_trend": trend_label(
+            gold_pct
+        ),
+        "coin_trend": trend_label(
+            coin_pct
+        ),
+        "half_trend": trend_label(
+            half_pct
+        ),
+        "quarter_trend": trend_label(
+            quarter_pct
+        ),
+        "dollar_trend": trend_label(
+            dollar_pct
+        ),
         "market_direction": market_direction,
-        "strongest_asset": strongest_asset,
-        "strongest_value": strongest_value,
-        "gold_dollar": gold_dollar,
-        "coin_gold": coin_gold,
-        "volatility": volatility,
+        "strongest_text": strongest_text,
+        "gold_dollar_text": gold_dollar_text,
+        "coin_gold_text": coin_gold_text,
         "buyer_note": buyer_note,
     }
 
@@ -697,7 +694,6 @@ def build_analysis(
 # =========================================================
 
 def build_message():
-
     today = get_today_info()
 
     prices = get_all_prices()
@@ -719,84 +715,54 @@ def build_message():
     )
 
     if occasions:
-
         occasion_text = "\n".join(
             f"🎉 {item}"
             for item in occasions[:5]
         )
-
     else:
-
         occasion_text = (
-            "🎉 امروز مناسبت ثبت‌شده‌ای "
+            "🎉 مناسبت ویژه‌ای "
             "در داده تقویم پیدا نشد."
         )
 
-    # -----------------------------------------------------
-    # قیمت‌ها
-    # -----------------------------------------------------
+    gold_price = format_price(
+        prices.get("gold18")
+    )
 
-    price_lines = []
+    coin_price = format_price(
+        prices.get("coin")
+    )
 
-    for asset in [
-        "gold18",
-        "coin",
-        "half",
-        "quarter",
-        "dollar",
-    ]:
+    half_price = format_price(
+        prices.get("half")
+    )
 
-        change = (
-            analysis["changes"][
-                asset
-            ]
-        )
+    quarter_price = format_price(
+        prices.get("quarter")
+    )
 
-        price_lines.append(
-            f'{ASSET_EMOJIS[asset]} '
-            f'{ASSET_LABELS[asset]}: '
-            f'{format_price(prices.get(asset))} تومان'
-        )
+    dollar_price = format_price(
+        prices.get("dollar")
+    )
 
-        price_lines.append(
-            f'   {direction_text(change)} | '
-            f'{format_percent(change)}'
-        )
+    gold_change = change_text(
+        analysis["gold_pct"]
+    )
 
-    # -----------------------------------------------------
-    # قوی‌ترین حرکت
-    # -----------------------------------------------------
+    coin_change = change_text(
+        analysis["coin_pct"]
+    )
 
-    if (
-        analysis["strongest_asset"]
-        is not None
-        and analysis["strongest_value"]
-        is not None
-    ):
+    half_change = change_text(
+        analysis["half_pct"]
+    )
 
-        strongest_text = (
-            f'قوی‌ترین حرکت مربوط به '
-            f'{ASSET_LABELS[analysis["strongest_asset"]]} '
-            f'با {format_percent(analysis["strongest_value"])} بوده است.'
-        )
+    quarter_change = change_text(
+        analysis["quarter_pct"]
+    )
 
-    else:
-
-        strongest_text = (
-            "قوی‌ترین حرکت قابل مشاهده مشخص نیست."
-        )
-
-    # -----------------------------------------------------
-    # شمارش صعود/نزول
-    # -----------------------------------------------------
-
-    count_text = (
-        f'🟢 صعودی: '
-        f'{to_persian_digits(analysis["positive"])}  |  '
-        f'🔴 نزولی: '
-        f'{to_persian_digits(analysis["negative"])}  |  '
-        f'🟡 خنثی: '
-        f'{to_persian_digits(analysis["neutral"])}'
+    dollar_change = change_text(
+        analysis["dollar_pct"]
     )
 
     return f"""🌙✨ زرین ماه | تحلیل روزانه بازار
@@ -807,9 +773,32 @@ def build_message():
 
 ━━━━━━━━━━━━━━━━━━
 
-💰 وضعیت قیمت‌ها
+💰 وضعیت قیمت‌های امروز
 
-{chr(10).join(price_lines)}
+🟡 طلای ۱۸ عیار
+💵 {gold_price} تومان
+📊 تغییر: {gold_change}
+📈 روند: {analysis["gold_trend"]}
+
+🪙 سکه امامی
+💵 {coin_price} تومان
+📊 تغییر: {coin_change}
+📈 روند: {analysis["coin_trend"]}
+
+🪙 نیم‌سکه
+💵 {half_price} تومان
+📊 تغییر: {half_change}
+📈 روند: {analysis["half_trend"]}
+
+🪙 ربع‌سکه
+💵 {quarter_price} تومان
+📊 تغییر: {quarter_change}
+📈 روند: {analysis["quarter_trend"]}
+
+💵 دلار
+💵 {dollar_price} تومان
+📊 تغییر: {dollar_change}
+📈 روند: {analysis["dollar_trend"]}
 
 ━━━━━━━━━━━━━━━━━━
 
@@ -817,27 +806,11 @@ def build_message():
 
 {analysis["market_direction"]}
 
-{count_text}
+{analysis["strongest_text"]}
 
-{strongest_text}
+{analysis["gold_dollar_text"]}
 
-━━━━━━━━━━━━━━━━━━
-
-🔎 طلا و دلار
-
-{analysis["gold_dollar"]}
-
-━━━━━━━━━━━━━━━━━━
-
-🪙 سکه و طلا
-
-{analysis["coin_gold"]}
-
-━━━━━━━━━━━━━━━━━━
-
-📈 شدت نوسان
-
-{analysis["volatility"]}
+{analysis["coin_gold_text"]}
 
 ━━━━━━━━━━━━━━━━━━
 
@@ -849,8 +822,8 @@ def build_message():
 
 📌 مبنای تحلیل
 
-تغییرات نسبت به آخرین قیمت ذخیره‌شده قبلی ربات محاسبه شده است.
-این متن تحلیل خودکار داده‌های قیمت است و پیش‌بینی قطعی بازار نیست.
+تغییرات بر اساس مقایسه قیمت فعلی
+با آخرین قیمت ذخیره‌شده قبلی ربات محاسبه شده است.
 
 ━━━━━━━━━━━━━━━━━━
 
@@ -862,19 +835,196 @@ def build_message():
 
 
 # =========================================================
+# ارسال تلگرام
+# =========================================================
+
+def send_to_telegram(message):
+    if not BOT_TOKEN:
+        raise RuntimeError(
+            "TELEGRAM_BOT_TOKEN is missing."
+        )
+
+    url = (
+        "https://api.telegram.org/"
+        f"bot{BOT_TOKEN}/sendMessage"
+    )
+
+    payload = {
+        "chat_id": TELEGRAM_CHANNEL,
+        "text": message,
+    }
+
+    response = requests.post(
+        url,
+        json=payload,
+        timeout=30,
+    )
+
+    print(
+        "Telegram HTTP status:",
+        response.status_code,
+    )
+
+    print(
+        "Telegram response:",
+        response.text,
+    )
+
+    if response.status_code != 200:
+        response.raise_for_status()
+
+    data = response.json()
+
+    if not data.get("ok"):
+        raise RuntimeError(
+            f"Telegram returned an error: {data}"
+        )
+
+    print(
+        "Daily analysis sent successfully to Telegram."
+    )
+
+    return True
+
+
+# =========================================================
+# ارسال ایتا
+# =========================================================
+
+def send_to_eitaa(message):
+    print(
+        "Preparing Eitaa daily send..."
+    )
+
+    if not EITAAYAR_TOKEN:
+        print(
+            "Eitaa error: EITAAYAR_TOKEN is missing."
+        )
+        return False
+
+    if not EITAA_CHAT_ID:
+        print(
+            "Eitaa error: EITAA_CHAT_ID is missing."
+        )
+        return False
+
+    url = (
+        EITAA_API_URL
+        f"{EITAAYAR_TOKEN}/sendMessage"
+    )
+
+    payload = {
+        "chat_id": EITAA_CHAT_ID,
+        "text": message,
+    }
+
+    last_error = None
+
+    for attempt in range(1, 3):
+
+        try:
+            print(
+                f"Eitaa attempt {attempt}/2..."
+            )
+
+            response = requests.post(
+                url,
+                data=payload,
+                timeout=30,
+            )
+
+            print(
+                "Eitaa HTTP status:",
+                response.status_code,
+            )
+
+            print(
+                "Eitaa response:",
+                response.text,
+            )
+
+            if response.status_code != 200:
+                last_error = (
+                    f"HTTP {response.status_code}: "
+                    f"{response.text}"
+                )
+
+                if attempt < 2:
+                    time.sleep(2)
+
+                continue
+
+            try:
+                data = response.json()
+            except ValueError:
+                data = None
+
+            if not isinstance(data, dict):
+                last_error = (
+                    "Eitaa returned a non-JSON response."
+                )
+
+                if attempt < 2:
+                    time.sleep(2)
+
+                continue
+
+            if data.get("ok") is True:
+                print(
+                    "Daily analysis sent successfully to Eitaa."
+                )
+                return True
+
+            last_error = (
+                f"Eitaa API returned an error: {data}"
+            )
+
+            if attempt < 2:
+                time.sleep(2)
+
+        except requests.RequestException as error:
+            last_error = (
+                f"Eitaa request error: {repr(error)}"
+            )
+
+            print(
+                "Eitaa request error:",
+                repr(error),
+            )
+
+            if attempt < 2:
+                time.sleep(2)
+
+        except Exception as error:
+            last_error = (
+                f"Eitaa unexpected error: {repr(error)}"
+            )
+
+            print(
+                "Eitaa unexpected error:",
+                repr(error),
+            )
+
+            if attempt < 2:
+                time.sleep(2)
+
+    print(
+        "Eitaa final error:",
+        last_error,
+    )
+
+    return False
+
+
+# =========================================================
 # اجرای اصلی
 # =========================================================
 
 def main():
+    now = datetime.now(TEHRAN)
 
-    now = datetime.now(
-        TEHRAN
-    )
-
-    current_slot = (
-        now.strftime(
-            "%Y-%m-%d"
-        )
+    current_slot = now.strftime(
+        "%Y-%m-%d"
     )
 
     scheduled_run = (
@@ -896,7 +1046,7 @@ def main():
     )
 
     print(
-        "ZarinMah Daily Market Analysis"
+        "ZarinMah Daily Analysis"
     )
 
     print(
@@ -922,56 +1072,36 @@ def main():
 
     status = load_send_status()
 
-    telegram_sent = (
-        status
-        .get(
-            "daily_telegram",
-            {},
-        )
-        .get(
-            "slot"
-        )
-        == current_slot
+    daily_status = get_daily_status(
+        status,
+        current_slot,
     )
 
-    eitaa_sent = (
-        status
-        .get(
-            "daily_eitaa",
-            {},
-        )
-        .get(
-            "slot"
-        )
-        == current_slot
-    )
+    telegram_sent = daily_status[
+        "telegram"
+    ]
 
-    daily_complete = (
-        status
-        .get(
-            "daily",
-            {},
-        )
-        .get(
-            "slot"
-        )
-        == current_slot
-    )
+    eitaa_sent = daily_status[
+        "eitaa"
+    ]
 
-    if daily_complete:
+    # اگر هر دو مقصد قبلاً ارسال شده‌اند
+    if (
+        scheduled_run
+        or watchdog_retry
+    ):
+        if (
+            telegram_sent
+            and eitaa_sent
+        ):
+            print(
+                "Daily analysis already sent "
+                "to both destinations for:",
+                current_slot,
+            )
+            return
 
-        print(
-            "Daily analysis already sent "
-            "to all destinations for:",
-            current_slot,
-        )
-
-        return
-
-    # -----------------------------------------------------
-    # ساخت تحلیل
-    # -----------------------------------------------------
-
+    # ساخت پیام
     message = build_message()
 
     print(
@@ -982,96 +1112,110 @@ def main():
         message
     )
 
-    # -----------------------------------------------------
+    # =====================================================
     # تلگرام
-    # -----------------------------------------------------
+    # =====================================================
 
     if not telegram_sent:
-
         print(
-            "Sending daily analysis "
-            "to Telegram..."
+            "Sending daily analysis to Telegram..."
         )
 
-        send_to_telegram(
-            message
-        )
+        try:
+            telegram_ok = send_to_telegram(
+                message
+            )
 
-        save_daily_destination_status(
-            current_slot,
-            "telegram",
-        )
+            if telegram_ok:
+                save_daily_destination_status(
+                    current_slot,
+                    "telegram",
+                )
+                telegram_sent = True
 
-        telegram_sent = True
-
-        print(
-            "Daily analysis sent to Telegram."
-        )
+        except Exception as error:
+            print(
+                "Telegram send failed:",
+                repr(error),
+            )
 
     else:
-
         print(
-            "Daily analysis already sent "
-            "to Telegram for:",
+            "Telegram already sent for:",
             current_slot,
         )
 
-    # -----------------------------------------------------
+    # =====================================================
     # ایتا
-    # -----------------------------------------------------
+    # =====================================================
 
     if not eitaa_sent:
-
         print(
-            "Sending daily analysis "
-            "to Eitaa..."
+            "Sending daily analysis to Eitaa..."
         )
 
-        send_to_eitaa(
+        eitaa_ok = send_to_eitaa(
             message
         )
 
-        save_daily_destination_status(
-            current_slot,
-            "eitaa",
-        )
+        if eitaa_ok:
+            save_daily_destination_status(
+                current_slot,
+                "eitaa",
+            )
+            eitaa_sent = True
 
-        eitaa_sent = True
+        else:
+            print(
+                "Eitaa daily send failed."
+            )
 
-        print(
-            "Daily analysis sent to Eitaa."
-        )
+            print(
+                "Telegram remains marked as sent."
+            )
+
+            print(
+                "Eitaa will remain pending "
+                "and can be retried on the next run."
+            )
 
     else:
-
         print(
-            "Daily analysis already sent "
-            "to Eitaa for:",
+            "Eitaa already sent for:",
             current_slot,
         )
 
-    # -----------------------------------------------------
-    # تکمیل ارسال
-    # -----------------------------------------------------
+    # =====================================================
+    # نتیجه نهایی
+    # =====================================================
 
     if (
         telegram_sent
         and eitaa_sent
     ):
-
-        mark_daily_complete(
-            current_slot
-        )
-
         print(
-            "Daily analysis completed "
-            "on Telegram + Eitaa."
+            "Daily analysis completed successfully "
+            "for Telegram and Eitaa."
         )
 
+    elif telegram_sent:
+        print(
+            "Daily analysis completed for Telegram. "
+            "Eitaa is still pending."
+        )
 
-# =========================================================
-# اجرا
-# =========================================================
+    elif eitaa_sent:
+        print(
+            "Daily analysis completed for Eitaa. "
+            "Telegram is still pending."
+        )
+
+    else:
+        print(
+            "Daily analysis was not successfully "
+            "sent to any destination."
+        )
+
 
 if __name__ == "__main__":
     main()
