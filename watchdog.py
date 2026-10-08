@@ -7,9 +7,7 @@ from zoneinfo import ZoneInfo
 import requests
 
 
-TEHRAN_TZ = ZoneInfo(
-    "Asia/Tehran"
-)
+TEHRAN_TZ = ZoneInfo("Asia/Tehran")
 
 REPO = os.environ.get(
     "GITHUB_REPOSITORY",
@@ -26,6 +24,12 @@ HOURLY_WORKFLOW = "hourly.yml"
 DAILY_WORKFLOW = "daily-analysis.yml"
 NEWS_WORKFLOW = "news-collector.yml"
 
+API_BASE = "https://api.github.com"
+
+
+# =========================================================
+# GitHub API
+# =========================================================
 
 def github_headers():
     return {
@@ -36,11 +40,11 @@ def github_headers():
 
 
 def load_send_status():
-    if not os.path.exists(
-        STATUS_FILE
-    ):
+    if not os.path.exists(STATUS_FILE):
         return {
             "hourly": {},
+            "telegram_hourly": {},
+            "eitaa_hourly": {},
             "daily": {},
             "watchdog": {},
         }
@@ -53,37 +57,27 @@ def load_send_status():
         ) as file:
             data = json.load(file)
 
-        if not isinstance(
-            data,
-            dict,
-        ):
+        if not isinstance(data, dict):
             data = {}
 
-        data.setdefault(
-            "hourly",
-            {},
-        )
-
-        data.setdefault(
-            "daily",
-            {},
-        )
-
-        data.setdefault(
-            "watchdog",
-            {},
-        )
+        data.setdefault("hourly", {})
+        data.setdefault("telegram_hourly", {})
+        data.setdefault("eitaa_hourly", {})
+        data.setdefault("daily", {})
+        data.setdefault("watchdog", {})
 
         return data
 
     except Exception as error:
         print(
             "Could not load send status:",
-            error,
+            repr(error),
         )
 
         return {
             "hourly": {},
+            "telegram_hourly": {},
+            "eitaa_hourly": {},
             "daily": {},
             "watchdog": {},
         }
@@ -94,7 +88,7 @@ def get_workflow_runs(
     event=None,
 ):
     url = (
-        f"https://api.github.com/repos/{REPO}"
+        f"{API_BASE}/repos/{REPO}"
         f"/actions/workflows/{workflow_file}/runs"
     )
 
@@ -105,12 +99,20 @@ def get_workflow_runs(
     if event:
         params["event"] = event
 
-    response = requests.get(
-        url,
-        headers=github_headers(),
-        params=params,
-        timeout=30,
-    )
+    try:
+        response = requests.get(
+            url,
+            headers=github_headers(),
+            params=params,
+            timeout=30,
+        )
+    except requests.RequestException as error:
+        print(
+            f"GitHub API request failed "
+            f"for {workflow_file}:",
+            repr(error),
+        )
+        return []
 
     print(
         f"GitHub API status for {workflow_file}:",
@@ -121,209 +123,16 @@ def get_workflow_runs(
         print(response.text)
         return []
 
-    return response.json().get(
-        "workflow_runs",
-        [],
-    )
-
-
-def get_scheduled_workflow_state(
-    workflow_file,
-    scheduled_time,
-):
-    runs = get_workflow_runs(
-        workflow_file,
-        event="schedule",
-    )
-
-    window_start = (
-        scheduled_time
-        - timedelta(minutes=5)
-    )
-
-    window_end = (
-        scheduled_time
-        + timedelta(minutes=25)
-    )
-
-    matching_runs = []
-
-    for run in runs:
-        created_at = run.get(
-            "created_at"
+    try:
+        return response.json().get(
+            "workflow_runs",
+            [],
         )
-
-        if not created_at:
-            continue
-
-        try:
-            created_dt = datetime.fromisoformat(
-                created_at.replace(
-                    "Z",
-                    "+00:00",
-                )
-            )
-
-        except Exception:
-            continue
-
-        if (
-            window_start
-            <= created_dt
-            <= window_end
-        ):
-            matching_runs.append(
-                run
-            )
-
-    if not matching_runs:
-        return "missing"
-
-    matching_runs.sort(
-        key=lambda run: run.get(
-            "created_at",
-            "",
-        ),
-        reverse=True,
-    )
-
-    run = matching_runs[0]
-
-    print(
-        "Found scheduled workflow:"
-    )
-
-    print(
-        "Workflow:",
-        workflow_file,
-    )
-
-    print(
-        "Run ID:",
-        run.get("id"),
-    )
-
-    print(
-        "Created:",
-        run.get("created_at"),
-    )
-
-    print(
-        "Status:",
-        run.get("status"),
-    )
-
-    print(
-        "Conclusion:",
-        run.get("conclusion"),
-    )
-
-    if run.get(
-        "status"
-    ) != "completed":
-        return "running"
-
-    if run.get(
-        "conclusion"
-    ) == "success":
-        return "success"
-
-    return "failed"
+    except ValueError:
+        return []
 
 
-def get_manual_workflow_state(
-    workflow_file,
-    target_date,
-):
-    runs = get_workflow_runs(
-        workflow_file,
-        event="workflow_dispatch",
-    )
-
-    matching_runs = []
-
-    for run in runs:
-        created_at = run.get(
-            "created_at"
-        )
-
-        if not created_at:
-            continue
-
-        try:
-            created_dt = datetime.fromisoformat(
-                created_at.replace(
-                    "Z",
-                    "+00:00",
-                )
-            )
-
-            created_tehran = created_dt.astimezone(
-                TEHRAN_TZ
-            )
-
-        except Exception:
-            continue
-
-        if (
-            created_tehran.date()
-            == target_date.date()
-        ):
-            matching_runs.append(
-                run
-            )
-
-    if not matching_runs:
-        return "missing"
-
-    matching_runs.sort(
-        key=lambda run: run.get(
-            "created_at",
-            "",
-        ),
-        reverse=True,
-    )
-
-    run = matching_runs[0]
-
-    print(
-        "Found daily workflow:"
-    )
-
-    print(
-        "Run ID:",
-        run.get("id"),
-    )
-
-    print(
-        "Created:",
-        run.get("created_at"),
-    )
-
-    print(
-        "Status:",
-        run.get("status"),
-    )
-
-    print(
-        "Conclusion:",
-        run.get("conclusion"),
-    )
-
-    if run.get(
-        "status"
-    ) != "completed":
-        return "running"
-
-    if run.get(
-        "conclusion"
-    ) == "success":
-        return "success"
-
-    return "failed"
-
-
-def get_workflow_state_in_window(
+def workflow_state_in_window(
     workflow_file,
     target_time,
 ):
@@ -336,10 +145,11 @@ def get_workflow_state_in_window(
         - timedelta(minutes=5)
     )
 
-    window_end = (
-        target_time
-        + timedelta(minutes=25)
+    now = datetime.now(
+        TEHRAN_TZ
     )
+
+    window_end = now
 
     matching_runs = []
 
@@ -358,7 +168,6 @@ def get_workflow_state_in_window(
                     "+00:00",
                 )
             )
-
         except Exception:
             continue
 
@@ -388,32 +197,26 @@ def get_workflow_state_in_window(
     print(
         "Found workflow run:"
     )
-
     print(
         "Workflow:",
         workflow_file,
     )
-
     print(
         "Run ID:",
         run.get("id"),
     )
-
     print(
         "Event:",
         run.get("event"),
     )
-
     print(
         "Created:",
         run.get("created_at"),
     )
-
     print(
         "Status:",
         run.get("status"),
     )
-
     print(
         "Conclusion:",
         run.get("conclusion"),
@@ -432,39 +235,146 @@ def get_workflow_state_in_window(
     return "failed"
 
 
+def workflow_state_for_manual_or_schedule(
+    workflow_file,
+    target_time,
+):
+    runs = get_workflow_runs(
+        workflow_file
+    )
+
+    window_start = (
+        target_time
+        - timedelta(minutes=5)
+    )
+
+    now = datetime.now(
+        TEHRAN_TZ
+    )
+
+    matching_runs = []
+
+    for run in runs:
+        created_at = run.get(
+            "created_at"
+        )
+
+        if not created_at:
+            continue
+
+        try:
+            created_dt = datetime.fromisoformat(
+                created_at.replace(
+                    "Z",
+                    "+00:00",
+                )
+            )
+        except Exception:
+            continue
+
+        if (
+            window_start
+            <= created_dt
+            <= now
+        ):
+            matching_runs.append(
+                run
+            )
+
+    if not matching_runs:
+        return "missing"
+
+    matching_runs.sort(
+        key=lambda run: run.get(
+            "created_at",
+            "",
+        ),
+        reverse=True,
+    )
+
+    run = matching_runs[0]
+
+    print()
+    print(
+        "Found latest daily workflow:"
+    )
+    print(
+        "Run ID:",
+        run.get("id"),
+    )
+    print(
+        "Event:",
+        run.get("event"),
+    )
+    print(
+        "Created:",
+        run.get("created_at"),
+    )
+    print(
+        "Status:",
+        run.get("status"),
+    )
+    print(
+        "Conclusion:",
+        run.get("conclusion"),
+    )
+
+    if run.get(
+        "status"
+    ) != "completed":
+        return "running"
+
+    if run.get(
+        "conclusion"
+    ) == "success":
+        return "success"
+
+    return "failed"
+
+
+# =========================================================
+# Trigger workflow
+# =========================================================
+
 def trigger_workflow(
     workflow_file
 ):
     url = (
-        f"https://api.github.com/repos/{REPO}"
-        f"/actions/workflows/{workflow_file}/dispatches"
+        f"{API_BASE}/repos/{REPO}"
+        f"/actions/workflows/{workflow_file}"
+        f"/dispatches"
     )
 
     payload = {
-        "ref": "main"
+        "ref": "main",
     }
 
     print()
     print(
         "Triggering GitHub workflow..."
     )
-
     print(
         "Workflow:",
         workflow_file,
     )
-
     print(
         "Repository:",
         REPO,
     )
 
-    response = requests.post(
-        url,
-        headers=github_headers(),
-        json=payload,
-        timeout=30,
-    )
+    try:
+        response = requests.post(
+            url,
+            headers=github_headers(),
+            json=payload,
+            timeout=30,
+        )
+    except requests.RequestException as error:
+        print(
+            "GitHub trigger request failed:",
+            repr(error),
+        )
+        return False
 
     print(
         "GitHub trigger response:",
@@ -480,7 +390,6 @@ def trigger_workflow(
     print(
         "GitHub trigger failed."
     )
-
     print(
         response.text
     )
@@ -488,13 +397,16 @@ def trigger_workflow(
     return False
 
 
+# =========================================================
+# بررسی قیمت ساعتی
+# =========================================================
+
 def check_hourly(
     now,
     status,
 ):
     # -----------------------------------------
-    # خاموشی شبانه ربات قیمت
-    # 22:00 تا 08:59
+    # خاموشی شبانه
     # -----------------------------------------
 
     if (
@@ -506,16 +418,13 @@ def check_hourly(
             "Hourly price publishing is disabled "
             "between 22:00 and 08:59 Tehran time."
         )
-
         print(
             "Watchdog will NOT trigger hourly retry."
         )
-
         return
 
     # -----------------------------------------
-    # ساعت 09:00 تا قبل از 09:17
-    # اجرای 09:17 هنوز نرسیده است.
+    # صبح
     # -----------------------------------------
 
     if (
@@ -526,19 +435,17 @@ def check_hourly(
         print(
             "Morning price window has started."
         )
-
         print(
-            "09:17 scheduled run has not "
-            "reached its retry-check window yet."
+            "Waiting for the 09:17 scheduled run."
         )
-
         return
 
     # -----------------------------------------
-    # تعیین اجرای مورد انتظار
+    # تعیین ساعت مورد انتظار
     # -----------------------------------------
 
     if now.minute >= 27:
+
         target_time = now.replace(
             minute=17,
             second=0,
@@ -546,6 +453,7 @@ def check_hourly(
         )
 
     else:
+
         previous_hour = (
             now
             - timedelta(hours=1)
@@ -565,14 +473,15 @@ def check_hourly(
 
     print()
     print(
-        "Checking hourly price post..."
+        "==================================="
     )
-
+    print(
+        "Checking hourly price delivery..."
+    )
     print(
         "Target slot:",
         scheduled_slot,
     )
-
     print(
         "Expected scheduled time:",
         target_time.strftime(
@@ -580,53 +489,85 @@ def check_hourly(
         ),
     )
 
-    sent_slot = status.get(
-        "hourly",
-        {},
-    ).get(
-        "slot"
-    )
+    # -----------------------------------------
+    # وضعیت هر مقصد
+    # -----------------------------------------
 
-    if (
-        sent_slot
-        == scheduled_slot
-    ):
-        print(
-            "Hourly post was already sent."
-        )
-
-        print(
-            "No retry needed."
-        )
-
-        return
-
-    watchdog_status = (
-        status.setdefault(
-            "watchdog",
+    telegram_sent = (
+        status.get(
+            "telegram_hourly",
             {},
+        ).get(
+            "slot"
         )
+        == scheduled_slot
     )
 
-    attempted_slot = (
-        watchdog_status.get(
-            "hourly_trigger_slot"
+    eitaa_sent = (
+        status.get(
+            "eitaa_hourly",
+            {},
+        ).get(
+            "slot"
         )
+        == scheduled_slot
     )
+
+    hourly_complete = (
+        status.get(
+            "hourly",
+            {},
+        ).get(
+            "slot"
+        )
+        == scheduled_slot
+    )
+
+    print(
+        "Telegram status:",
+        "SENT"
+        if telegram_sent
+        else "NOT SENT",
+    )
+
+    print(
+        "Eitaa status:",
+        "SENT"
+        if eitaa_sent
+        else "NOT SENT",
+    )
+
+    print(
+        "Hourly complete:",
+        "YES"
+        if hourly_complete
+        else "NO",
+    )
+
+    # -----------------------------------------
+    # اگر هر دو واقعاً ثبت شده‌اند
+    # -----------------------------------------
 
     if (
-        attempted_slot
-        == scheduled_slot
+        telegram_sent
+        and eitaa_sent
+        and hourly_complete
     ):
         print(
-            "Watchdog already triggered "
-            "this hourly slot."
+            "Telegram + Eitaa were both "
+            "successfully recorded."
         )
-
+        print(
+            "No hourly retry needed."
+        )
         return
+
+    # -----------------------------------------
+    # بررسی Workflow
+    # -----------------------------------------
 
     workflow_state = (
-        get_scheduled_workflow_state(
+        workflow_state_in_window(
             HOURLY_WORKFLOW,
             target_time,
         )
@@ -637,58 +578,110 @@ def check_hourly(
         workflow_state,
     )
 
-    if workflow_state == "success":
-        print(
-            "Scheduled hourly workflow "
-            "completed successfully."
-        )
-
-        return
-
     if workflow_state == "running":
         print(
-            "Scheduled hourly workflow "
-            "is still running."
+            "Hourly workflow is still running."
         )
-
         return
 
-    print(
-        "Scheduled hourly workflow "
-        "was not confirmed."
-    )
+    # -----------------------------------------
+    # اگر Workflow موفق شده ولی یکی از مقصدها
+    # ثبت نشده، دوباره اجرا می‌کنیم.
+    #
+    # bot.py خودش تشخیص می‌دهد کدام مقصد
+    # قبلاً ارسال شده و کدام مقصد باقی مانده.
+    # -----------------------------------------
+
+    if workflow_state == "success":
+
+        if telegram_sent and not eitaa_sent:
+            print(
+                "Telegram is already recorded."
+            )
+            print(
+                "Eitaa is NOT recorded."
+            )
+            print(
+                "Retrying hourly workflow so "
+                "only the missing destination "
+                "can be completed."
+            )
+
+        elif eitaa_sent and not telegram_sent:
+            print(
+                "Eitaa is already recorded."
+            )
+            print(
+                "Telegram is NOT recorded."
+            )
+            print(
+                "Retrying hourly workflow so "
+                "only the missing destination "
+                "can be completed."
+            )
+
+        else:
+            print(
+                "Workflow succeeded but the "
+                "hourly completion state is incomplete."
+            )
+            print(
+                "Retrying hourly workflow."
+            )
+
+    # -----------------------------------------
+    # اگر Workflow شکست خورده یا پیدا نشده
+    # -----------------------------------------
+
+    elif workflow_state == "failed":
+        print(
+            "Hourly workflow failed."
+        )
+        print(
+            "Retrying hourly workflow."
+        )
+
+    elif workflow_state == "missing":
+        print(
+            "Hourly workflow was not confirmed."
+        )
+        print(
+            "Retrying hourly workflow."
+        )
+
+    # -----------------------------------------
+    # اجرای مجدد
+    # -----------------------------------------
 
     success = trigger_workflow(
         HOURLY_WORKFLOW
     )
 
     if success:
-        watchdog_status[
-            "hourly_trigger_slot"
-        ] = scheduled_slot
-
         print(
-            "Hourly workflow retry "
-            "triggered successfully."
+            "Hourly retry triggered successfully."
+        )
+    else:
+        print(
+            "Hourly retry could not be triggered."
         )
 
+
+# =========================================================
+# بررسی تحلیل روزانه
+# =========================================================
 
 def check_daily(
     now,
     status,
 ):
-    # -----------------------------------------
-    # تحلیل روزانه
-    # طبق برنامه قبلی
-    # -----------------------------------------
-
     if not (
         now.hour == 12
         and now.minute <= 29
     ):
         return
 
-    target_date = now.replace(
+    target_time = now.replace(
         hour=11,
         minute=45,
         second=0,
@@ -701,65 +694,40 @@ def check_daily(
 
     print()
     print(
+        "==================================="
+    )
+    print(
         "Checking daily market analysis..."
     )
-
     print(
         "Target date:",
         today,
     )
 
-    daily_status = status.get(
-        "daily",
-        {},
+    daily_status = (
+        status.get(
+            "daily",
+            {},
+        )
     )
 
     sent_date = daily_status.get(
         "slot"
     )
 
-    if (
-        sent_date
-        == today
-    ):
+    if sent_date == today:
         print(
-            "Daily analysis was already sent."
+            "Daily analysis was already recorded."
         )
-
         print(
             "No retry needed."
         )
-
-        return
-
-    watchdog_status = (
-        status.setdefault(
-            "watchdog",
-            {},
-        )
-    )
-
-    attempted_date = (
-        watchdog_status.get(
-            "daily_trigger_date"
-        )
-    )
-
-    if (
-        attempted_date
-        == today
-    ):
-        print(
-            "Watchdog already triggered "
-            "daily analysis today."
-        )
-
         return
 
     workflow_state = (
-        get_manual_workflow_state(
+        workflow_state_for_manual_or_schedule(
             DAILY_WORKFLOW,
-            target_date,
+            target_time,
         )
     )
 
@@ -768,10 +736,16 @@ def check_daily(
         workflow_state,
     )
 
-    if workflow_state in (
-        "success",
-        "running",
-    ):
+    if workflow_state == "running":
+        print(
+            "Daily workflow is still running."
+        )
+        return
+
+    if workflow_state == "success":
+        print(
+            "Daily workflow completed successfully."
+        )
         return
 
     print(
@@ -783,24 +757,22 @@ def check_daily(
     )
 
     if success:
-        watchdog_status[
-            "daily_trigger_date"
-        ] = today
-
         print(
-            "Daily analysis workflow "
-            "triggered successfully."
+            "Daily analysis retry triggered."
+        )
+    else:
+        print(
+            "Daily analysis retry failed."
         )
 
+
+# =========================================================
+# اخبار
+# =========================================================
 
 def get_latest_news_slot(
     now,
 ):
-    # -----------------------------------------
-    # News workflow:
-    # هر 30 دقیقه
-    # -----------------------------------------
-
     if now.minute < 5:
         previous_hour = (
             now
@@ -848,7 +820,6 @@ def check_news(
             "News workflow is still "
             "within the startup grace period."
         )
-
         return
 
     scheduled_slot = (
@@ -859,29 +830,18 @@ def check_news(
 
     print()
     print(
+        "==================================="
+    )
+    print(
         "Checking news workflow..."
     )
-
     print(
         "News target slot:",
         scheduled_slot,
     )
 
-    watchdog_status = (
-        status.setdefault(
-            "watchdog",
-            {},
-        )
-    )
-
-    attempted_slot = (
-        watchdog_status.get(
-            "news_trigger_slot"
-        )
-    )
-
     workflow_state = (
-        get_workflow_state_in_window(
+        workflow_state_in_window(
             NEWS_WORKFLOW,
             target_time,
         )
@@ -896,25 +856,12 @@ def check_news(
         print(
             "News workflow completed successfully."
         )
-
         return
 
     if workflow_state == "running":
         print(
             "News workflow is still running."
         )
-
-        return
-
-    if (
-        attempted_slot
-        == scheduled_slot
-    ):
-        print(
-            "Watchdog already triggered "
-            "news workflow for this slot."
-        )
-
         return
 
     print(
@@ -926,21 +873,25 @@ def check_news(
     )
 
     if success:
-        watchdog_status[
-            "news_trigger_slot"
-        ] = scheduled_slot
-
         print(
             "News workflow retry triggered."
         )
+    else:
+        print(
+            "News workflow retry failed."
+        )
 
+
+# =========================================================
+# main
+# =========================================================
 
 def main():
+
     if not GITHUB_TOKEN:
         print(
             "ERROR: GITHUB_TOKEN is missing."
         )
-
         sys.exit(1)
 
     now = datetime.now(
@@ -969,7 +920,7 @@ def main():
     status = load_send_status()
 
     # -----------------------------------------
-    # 1. ربات قیمت
+    # 1. قیمت ساعتی
     # -----------------------------------------
 
     check_hourly(
@@ -987,7 +938,7 @@ def main():
     )
 
     # -----------------------------------------
-    # 3. ربات خبر و تحلیلگران
+    # 3. اخبار
     # -----------------------------------------
 
     check_news(
@@ -997,7 +948,15 @@ def main():
 
     print()
     print(
+        "==================================="
+    )
+
+    print(
         "Watchdog finished."
+    )
+
+    print(
+        "===================================",
     )
 
 
