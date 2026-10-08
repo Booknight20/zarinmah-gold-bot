@@ -32,10 +32,7 @@ OCCASIONS_URL = (
     "BaseMax/persian-holidays-api/master/holidays.json"
 )
 
-EITAA_API_URL = (
-    "https://eitaayar.ir/api/"
-)
-
+EITAA_API_URL = "https://eitaayar.ir/api/"
 
 WEEKDAYS = [
     "دوشنبه",
@@ -270,9 +267,7 @@ def get_occasions(today):
             if not event_name:
                 continue
 
-            # شمسی
             if date_type == "shamsi":
-
                 if len(date_values) < 2:
                     continue
 
@@ -299,9 +294,7 @@ def get_occasions(today):
                         event_name
                     )
 
-            # میلادی
             elif date_type == "gregorian":
-
                 if len(date_values) < 2:
                     continue
 
@@ -352,7 +345,7 @@ def get_occasions(today):
 
 
 # =========================================================
-# محاسبه درصد تغییر
+# درصد تغییر
 # =========================================================
 
 def percent_change(
@@ -529,7 +522,6 @@ def build_analysis(
             "بازار در وضعیت نوسانی قرار دارد."
         )
 
-    # قوی‌ترین حرکت
     strongest_asset = None
     strongest_value = None
 
@@ -568,7 +560,6 @@ def build_analysis(
             "داده کافی در دسترس نیست."
         )
 
-    # طلا و دلار
     if (
         gold_pct is not None
         and dollar_pct is not None
@@ -603,7 +594,6 @@ def build_analysis(
             "داده قبلی کامل نیست."
         )
 
-    # سکه و طلا
     if (
         coin_pct is not None
         and gold_pct is not None
@@ -632,7 +622,6 @@ def build_analysis(
             "داده قبلی کامل نیست."
         )
 
-    # نکته خریدار
     if (
         gold_pct is not None
         and gold_pct > 0.50
@@ -908,9 +897,11 @@ def send_to_eitaa(message):
         )
         return False
 
+    # آدرس صحیح API ایتایار
     url = (
-        EITAA_API_URL
-        f"{EITAAYAR_TOKEN}/sendMessage"
+        f"{EITAA_API_URL}"
+        f"{EITAAYAR_TOKEN}"
+        f"/sendMessage"
     )
 
     payload = {
@@ -1085,7 +1076,6 @@ def main():
         "eitaa"
     ]
 
-    # اگر هر دو مقصد قبلاً ارسال شده‌اند
     if (
         scheduled_run
         or watchdog_retry
@@ -1101,7 +1091,6 @@ def main():
             )
             return
 
-    # ساخت پیام
     message = build_message()
 
     print(
@@ -1163,6 +1152,7 @@ def main():
                 current_slot,
                 "eitaa",
             )
+
             eitaa_sent = True
 
         else:
