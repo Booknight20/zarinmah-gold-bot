@@ -20,6 +20,8 @@ jobs:
 
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
 
       - name: Setup Python
@@ -50,11 +52,24 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          echo "Preparing hourly state..."
+
           git add previous_prices.json send_status.json || true
 
           if git diff --cached --quiet; then
             echo "No hourly files changed."
-          else
-            git commit -m "Update hourly prices"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update hourly prices"
+
+          echo "Fetching latest main branch..."
+          git fetch origin main
+
+          echo "Rebasing local commit on latest main..."
+          git rebase origin/main
+
+          echo "Pushing updated hourly state..."
+          git push origin HEAD:main
+
+          echo "Hourly state pushed successfully."
