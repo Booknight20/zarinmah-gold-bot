@@ -206,6 +206,37 @@
     ]
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "دلار در کانال ۲۶۷ هزار تومان ماند/ آیا قیمت طلا و سکه در روزهای آینده افزایش می یابد؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300501-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D9%86%D8%AF-%D8%A2%DB%8C%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%85%DB%8C-%DB%8C%D8%A7%D8%A8%D8%AF",
+    "summary": "در بازار جهانی طلا نیز معاملات پنج شنبه با نوسان همراه بود؛ طلای جهانی که حوالی ساعت چهار بامداد در محدوده ۴۱۰۶ دلار معامله می شد، در ادامه با افزایش تا ۴۱۴۳ دلار بالا رفت و پس از آن، قیمت وارد فاز اصلاحی شد و تا ۴۱۱۴ دلار پایین آمد.",
+    "published": "Thu, 08 Oct 2026 12:54:12 +0000",
+    "collected_at": "2026-10-08T16:47:27.176174+03:30",
+    "market_score": 27,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "طلای جهانی",
+      "سکه"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "فروش دلار به شهروندان ،دمیدن بر تنور تورم نیست؟",
     "link": "https://www.khabaronline.ir/news/2285280/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D8%B4%D9%87%D8%B1%D9%88%D9%86%D8%AF%D8%A7%D9%86-%D8%AF%D9%85%DB%8C%D8%AF%D9%86-%D8%A8%D8%B1-%D8%AA%D9%86%D9%88%D8%B1-%D8%AA%D9%88%D8%B1%D9%85-%D9%86%DB%8C%D8%B3%D8%AA",
@@ -951,32 +982,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "قیمت طلا و سکه امروز ۱۵ مهر / سکه امامی یکشبه ۴ میلیون ریخت!",
-    "link": "https://www.tabnak.ir/fa/news/1397697/قیمت-طلا-و-سکه-امروز-15-مهر-سکه-امامی-یکشبه-4-میلیون-ریخت",
-    "summary": "قیمت طلا و سکه امروز مسیر جدیدی رفت ؛ به طوری کحه قیمت سکه امامی از مرز ۲۷۲ میلیون به ۲۶۸ میلیون عقب نشست و قیمت طلای ۱۸ عیار هم بیش از ۳۷۷ هزار تومان در هر گرم افت کرد و نکته عجیب اینجاست که این بار بازار داخلی برخلافِ دیروز، با انس جهانی همسو شد.",
-    "published": "07 Oct 2026 14:07:20 +0330",
-    "collected_at": "2026-10-07T14:14:08.220838+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "الان وقت خرید خانه هست یا نه؟/ نایب رییس اتحادیه املاک: خانه اولی ها فریب سود روزانه طلا و ارز را نخورند",
     "link": "https://www.khabaronline.ir/news/2285475/%D8%A7%D9%84%D8%A7%D9%86-%D9%88%D9%82%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D8%B3%D8%AA-%DB%8C%D8%A7-%D9%86%D9%87-%D9%86%D8%A7%DB%8C%D8%A8-%D8%B1%DB%8C%DB%8C%D8%B3-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%D9%88%D9%84%DB%8C-%D9%87%D8%A7",
@@ -1083,6 +1088,32 @@
       "بازار سرمایه",
       "شاخص کل"
     ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مشرق",
+    "title": "املاک متهمان تراستی توقیف شد؛ تعیین تکلیف۲۵ میلیارد یورو رفع تعهد ارزی",
+    "link": "https://www.mashreghnews.ir/news/1844432/%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D9%85%D8%AA%D9%87%D9%85%D8%A7%D9%86-%D8%AA%D8%B1%D8%A7%D8%B3%D8%AA%DB%8C-%D8%AA%D9%88%D9%82%DB%8C%D9%81-%D8%B4%D8%AF-%D8%AA%D8%B9%DB%8C%DB%8C%D9%86-%D8%AA%DA%A9%D9%84%DB%8C%D9%81%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%B1%D9%81%D8%B9",
+    "summary": "دادستان تهران ۲۵ میلیارد یورو پرونده رفع تعهد ارز تعیین تکلیف شد.",
+    "published": "Thu, 08 Oct 2026 12:52:00 GMT",
+    "collected_at": "2026-10-08T16:47:36.897679+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
   },
@@ -1319,58 +1350,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "رکورد تاریخی شاخص کل؛ بورس ۸ میلیونی شد",
-    "link": "https://www.tabnak.ir/fa/news/1397700/رکورد-تاریخی-شاخص-کل-بورس-8-میلیونی-شد",
-    "summary": "بورس تهران سد تاریخی ۸ میلیون واحدی را شکست. در بازاری که امروز با ورود ۴.۷ همت پول حقیقی و جهش ۱۵۳ هزار واحدی شاخص کل همراه بود، هیجان به سهامداران بازگشت.",
-    "published": "07 Oct 2026 14:06:29 +0330",
-    "collected_at": "2026-10-07T14:14:08.220846+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "ارزش صادرات نفت خام روسیه رکورد دوران جنگ را شکست",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4300212-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D9%85-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AF%D9%88%D8%B1%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D8%B1%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA",
-    "summary": "دنیای اقتصاد: محدودیت های صادرات گازوئیل و افزایش چشمگیر یارانه های پرداختی به پالایشگاه ها، سود حاصل از صادرات نفت خام را برای ماشین جنگی کرملین کمرنگ کرده است.",
-    "published": "Wed, 07 Oct 2026 10:30:08 +0000",
-    "collected_at": "2026-10-07T14:14:03.140364+03:30",
-    "market_score": 10,
-    "market_matches": {},
-    "driver_matches": [
-      "نفت",
-      "صادرات نفت"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ",
-      "صادرات نفت"
-    ],
-    "medium_impact_matches": []
-  },
-  {
     "source": "ایسنا",
     "title": "منطقه یورو با تهدید بحران بدهی جدیدی روبرو شد",
     "link": "https://www.isna.ir/news/1405071510200/%D9%85%D9%86%D8%B7%D9%82%D9%87-%DB%8C%D9%88%D8%B1%D9%88-%D8%A8%D8%A7-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%A8%D8%AF%D9%87%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF%DB%8C-%D8%B1%D9%88%D8%A8%D8%B1%D9%88-%D8%B4%D8%AF",
@@ -1396,31 +1375,6 @@
       "کسری بودجه",
       "بودجه"
     ]
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "تصویب و ابلاغ ضوابط استفاده از هوش مصنوعی در بازار سرمایه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300253-%D8%AA%D8%B5%D9%88%DB%8C%D8%A8-%D8%A7%D8%A8%D9%84%D8%A7%D8%BA-%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87",
-    "summary": "حجت اله صیدی گفت: سازمان بورس ضوابط و دستورالعمل هایی را تصویب و ابلاغ کرده که به این اکوسیستم برای استفاده بهتر از ابزار مهم هوش مصنوعی کمک کند.",
-    "published": "Wed, 07 Oct 2026 10:27:51 +0000",
-    "collected_at": "2026-10-07T14:14:03.140372+03:30",
-    "market_score": 8,
-    "market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
   },
   {
     "source": "دنیای اقتصاد",
@@ -1984,6 +1938,30 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "توضیحات مهم رئیس پلیس فتا درباره اطلاعات کاربران سکوهای فروش طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300499-%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA-%D9%85%D9%87%D9%85-%D8%B1%D8%A6%DB%8C%D8%B3-%D9%BE%D9%84%DB%8C%D8%B3-%D9%81%D8%AA%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%B3%DA%A9%D9%88%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D9%88%D8%B4-%D8%B7%D9%84%D8%A7",
+    "summary": "رئیس پلیس فتا فراجا، با اشاره به دغدغه های مطرح شده در فضای مجازی پیرامون نحوه ارسال داده های سکوهای کسب وکار به وزارت صمت، جزئیات و الزامات امنیت سایبری حاکم بر این فرآیند را تشریح کرد.",
+    "published": "Thu, 08 Oct 2026 12:26:02 +0000",
+    "collected_at": "2026-10-08T16:47:27.176211+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "ایسنا",
     "title": "تبادل داده سکوهای آنلاین طلا فقط در بستر پروتکل های امن و سیستماتیک مجاز است",
     "link": "https://www.isna.ir/news/1405071610655/%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B3%DA%A9%D9%88%D9%87%D8%A7%DB%8C-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B7%D9%84%D8%A7-%D9%81%D9%82%D8%B7-%D8%AF%D8%B1-%D8%A8%D8%B3%D8%AA%D8%B1-%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%D9%85%D9%86-%D9%88-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%D8%A7%D8%AA%DB%8C%DA%A9",
@@ -2219,30 +2197,6 @@
     "currency_matches": [
       "ارز"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "اسنپ سرمایه چه شرایطی برای خرید طلا و نقره دارد؟",
-    "link": "https://www.mehrnews.com/news/6970612/%D8%A7%D8%B3%D9%86%D9%BE-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%86%D9%87-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
-    "summary": "اگر قصد دارید با آگاهی از مسیر کامل مالکیت، وارد بازار طلا و نقره شوید، این فرصت کم هزینه می تواند نقطه شروع مناسبی باشد.",
-    "published": "Wed, 07 Oct 2026 10:22:09 GMT",
-    "collected_at": "2026-10-07T14:13:56.480065+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
