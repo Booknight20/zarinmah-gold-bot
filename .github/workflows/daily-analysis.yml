@@ -1,45 +1,74 @@
-name: ZarinMah Daily Market Analysis Manual
+name: ZarinMah Gold Bot
 
 on:
   workflow_dispatch:
 
-permissions:
-  contents: write
+  schedule:
+    - cron: "17 * * * *"
+    - cron: "45 11 * * *"
 
 jobs:
-  daily-analysis:
+
+  hourly:
+    if: >
+      github.event_name == 'schedule' &&
+      github.event.schedule == '17 * * * *'
+
     runs-on: ubuntu-latest
 
     steps:
-      - name: Get repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 jdatetime
 
-      - name: Run daily analysis
+      - name: Run hourly price bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          SCHEDULED_RUN: "true"
+          EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
+          EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
+          PYTHONUNBUFFERED: "1"
         run: |
-          python daily_analysis.py
+          python -u bot.py
 
-      - name: Save daily send status
+
+  daily:
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      (
+        github.event_name == 'schedule' &&
+        github.event.schedule == '45 11 * * *'
+      )
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 jdatetime
 
-          git add send_status.json
-
-          if git diff --cached --quiet; then
-            echo "No daily status changes."
-          else
-            git commit -m "Update daily analysis status"
-            git push
-          fi
+      - name: Send daily analysis
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
+          EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python -u daily_send.py
