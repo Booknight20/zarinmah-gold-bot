@@ -19,57 +19,76 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Get repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
+
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
+
 
       - name: Collect news
         run: |
           python news_bot.py
 
+
       - name: Filter market news
         run: |
           python news_filter.py
+
 
       - name: Rank news
         run: |
           python news_ranker.py
 
+
       - name: Deduplicate stories
         run: |
           python news_deduper.py
+
 
       - name: Format news
         run: |
           python news_formatter.py
 
+
       - name: Collect analyst posts
         run: |
           python analyst_bot.py
 
+
       - name: Publish important news
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
+          EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
+          PYTHONUNBUFFERED: "1"
         run: |
-          python news_publisher.py
+          python -u news_publisher.py
+
 
       - name: Publish analyst summaries
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
+          EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
+          PYTHONUNBUFFERED: "1"
         run: |
-          python analyst_publisher.py
+          python -u analyst_publisher.py
+
 
       - name: Save news data
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -91,6 +110,7 @@ jobs:
 
           git commit -m "Update news and analyst data"
 
-          git pull --rebase origin main
+          git fetch origin main
+          git rebase origin/main
 
-          git push origin main
+          git push origin HEAD:main
