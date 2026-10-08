@@ -355,6 +355,39 @@
     "medium_impact_matches": []
   },
   {
+    "source": "مهر",
+    "title": "شکاف بودجه ۱۲ میلیارد پوندی انگلیس در نتیجه جنگ ایران",
+    "link": "https://www.mehrnews.com/news/6971748/%D8%B4%DA%A9%D8%A7%D9%81-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%DB%B1%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D9%BE%D9%88%D9%86%D8%AF%DB%8C-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-%D8%AF%D8%B1-%D9%86%D8%AA%DB%8C%D8%AC%D9%87-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "summary": "«فایننشال تایمز» گزارش داد که تورم و افزایش هزینه های استقراض ناشی از جنگ با ایران، باعث ایجاد یک شکاف مالی حدود ۱۲ میلیارد پوندی در بودجه عمومی انگلیس شده است.",
+    "published": "Thu, 08 Oct 2026 09:17:47 GMT",
+    "collected_at": "2026-10-08T13:14:08.543391+03:30",
+    "market_score": 24,
+    "market_matches": {
+      "currency": [
+        "پوند"
+      ]
+    },
+    "driver_matches": [
+      "بودجه"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "پوند"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ",
+      "تورم"
+    ],
+    "medium_impact_matches": [
+      "بودجه"
+    ]
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "طلا دوباره به مسیر افزایش قیمت بازگشت/ قیمت جدید طلای جهانی امروز ۱۶ مهر ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2285353/%D8%B7%D9%84%D8%A7-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D9%87-%D9%85%D8%B3%DB%8C%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2",
@@ -436,34 +469,6 @@
     ],
     "stock_matches": [],
     "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "انتقاد مجلس به عرضه «۱۰ هزار دلار»؛ پیگیری ها سیاست های ارزی را تغییر می دهد؟",
-    "link": "https://www.isna.ir/news/1405071509895/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D9%85%D8%AC%D9%84%D8%B3-%D8%A8%D9%87-%D8%B9%D8%B1%D8%B6%D9%87-%DB%B1%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D9%87%D8%A7-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C",
-    "summary": "عرضه ارز تا سقف ۱۰ هزار دلار به هر فرد بالای ۱۸ سال، به یکی از موضوعات مورد انتقاد نمایندگان مجلس تبدیل شده است؛ انتقادهایی که روز یکشنبه از تذکر مهدی کوچک زاده آغاز شد و با اظهارات چند نماینده دیگر در روز سه شنبه ادامه یافت، در حالی که رئیس بانک مرکزی از سیاست های ارزی این بانک دفاع می کند.",
-    "published": "Wed, 07 Oct 2026 08:26:54 GMT",
-    "collected_at": "2026-10-07T12:15:13.083645+03:30",
-    "market_score": 22,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
     "medium_impact_matches": []
   },
   {
@@ -1018,32 +1023,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "بورس 8میلیونی شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4300222-%D8%A8%D9%88%D8%B1%D8%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%B4%D8%AF",
-    "summary": "دنیای اقتصاد: شاخص کل بورس در میانه معاملات امروز برای نخستین بار از مرز ۸ میلیون واحد عبور کرد و با رشد ۱.۶۱ درصدی معادل ۱۲۸ هزار واحد، به محدوده ۸ میلیون و ۱۰۵ هزار واحد رسید. شاخص هم وزن نیز با افزایش ۱.۵ درصدی معادل ۳۲ هزار واحد در محدوده ۲ میلیون و ۴۵ هزار واحد قرار گرفته است. هر دو نماگر اصلی بازار در این سطح، در سقف تاریخی خود قرار دارند و رکوردهای جدیدی را به ثبت رسانده اند.",
-    "published": "Wed, 07 Oct 2026 07:42:17 +0000",
-    "collected_at": "2026-10-07T11:44:30.447448+03:30",
-    "market_score": 14,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۱۶ مهر ۱۴۰۵ در زمان بازگشایی بازار/ مثقال طلا ۱.۸۷۰.۰۰۰ تومان ارزان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2285258/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
@@ -1172,6 +1151,31 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۱۶ مهر ۱۴۰۵/ ریزش قیمت طلا ادامه پیدا کرد + جدول",
+    "link": "https://www.khabaronline.ir/news/2285418/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D8%B1%D8%AF-%D8%AC%D8%AF%D9%88%D9%84",
+    "summary": "قیمت طلا در بازار تهران امروز ۱۶ مهرماه اعلام شد و هر مثقال طلا با ریزش ۳۱۹ هزار تومان مواجه شد.",
+    "published": "Thu, 08 Oct 2026 09:21:28 GMT",
+    "collected_at": "2026-10-08T13:14:16.730246+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "مثقال طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
@@ -1326,32 +1330,6 @@
       "جنگ",
       "صادرات نفت"
     ],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "رکورد جدید شکسته شد / شاخص کل بورس کانال ۸ میلیون واحد را فتح کرد",
-    "link": "https://www.khabaronline.ir/news/2284974/%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B4%DA%A9%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%A7-%D9%81%D8%AA%D8%AD",
-    "summary": "بورس تهران در اولین ساعات معاملات امروز با رشد بیش از ۱۳۸ هزار واحدی شاخص بالاخره وادر کانال هشت میلیونی شد.",
-    "published": "Wed, 07 Oct 2026 08:02:06 GMT",
-    "collected_at": "2026-10-07T11:44:35.355505+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
