@@ -34,6 +34,44 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "نرخ ارز دلار، طلا و یورو امروز پنجشنبه ۱۶ مهر ۱۴۰۵",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300456-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد کاهش قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
+    "published": "Thu, 08 Oct 2026 07:52:32 +0000",
+    "collected_at": "2026-10-08T11:48:03.237890+03:30",
+    "market_score": 47,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "نرخ ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [
+      "دلار",
+      "نرخ ارز",
+      "ارز",
+      "یورو",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "نرخ ارز دلار، طلا و یورو امروز چهارشنبه ۱۵ مهر ۱۴۰۵",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300238-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
     "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد کاهش قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
@@ -166,35 +204,6 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا باز هم ریزش کرد/ قیمت جدید طلای جهانی امروز ۱۵ مهر ۱۴۰۵",
-    "link": "https://www.khabaronline.ir/news/2284832/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D8%B1%DB%8C%D8%B2%D8%B4-%DA%A9%D8%B1%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B5-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5",
-    "summary": "امروز چهارشنبه ۱۵ مهر ۱۴۰۵، بهای هر اونس طلای نقدی با ۰.۳ درصد کاهش به ۴۱۵۰ دلار و ۲۳ سنت رسید. قراردادهای آتی طلای آمریکا نیز با ۰.۲ درصد افت، ۴۱۷۷ دلار و ۶۰ سنت معامله شد.",
-    "published": "Wed, 07 Oct 2026 06:52:00 GMT",
-    "collected_at": "2026-10-07T10:42:43.337012+03:30",
-    "market_score": 27,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "اونس طلا",
-      "طلای جهانی"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -599,6 +608,34 @@
     ]
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت دلار، یورو و درهم امروز پنجشنبه ۱۶ مهر ۱۴۰۵",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300457-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
+    "summary": "قیمت دلار حواله ای امروز با افزایش نسبت به روز گذشته، از 177340 (یکصد و هفتاد و هفت هزار و سیصد و چهل) تومان به 177872 (یکصد و هفتاد و هفت هزار و هشتصد و هفتاد و دو) تومان رسید.",
+    "published": "Thu, 08 Oct 2026 07:50:16 +0000",
+    "collected_at": "2026-10-08T11:48:03.237907+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "یورو",
+        "درهم"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "یورو",
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۶ مهر ۱۴۰۵ در زمان بازگشایی بازار/ یورو نزدیک به ۸ هزار تومان ارزان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2285262/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
@@ -952,32 +989,6 @@
     "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "افزایش ذخایر طلای چین رکورد ۳ ساله زد",
-    "link": "https://www.isna.ir/news/1405071509760/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C-%DA%86%DB%8C%D9%86-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%DB%B3-%D8%B3%D8%A7%D9%84%D9%87-%D8%B2%D8%AF",
-    "summary": "بانک مرکزی چین هم زمان با کاهش قیمت ها در سپتامبر، خرید طلا را افزایش داد و بیشترین رشد ماهانه در ذخایر رسمی طلای خود را طی سه سال گذشته به ثبت رساند.",
-    "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-    "collected_at": "2026-10-07T10:42:26.862700+03:30",
-    "market_score": 15,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
     "medium_impact_matches": []
   },
   {
@@ -1372,32 +1383,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مهر",
-    "title": "شاخص کل بورس تهران بالاخره ۸ میلیونی شد",
-    "link": "https://www.mehrnews.com/news/6970492/%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%A7%D8%AE%D8%B1%D9%87-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%B4%D8%AF",
-    "summary": "شاخص کل بورس تهران در جریان معاملات امروز با رشد ۱.۶ درصدی از مرز ۸ میلیون واحد عبور کرد و به ۸ میلیون و ۱۰۴ هزار واحد رسید.",
-    "published": "Wed, 07 Oct 2026 06:43:22 GMT",
-    "collected_at": "2026-10-07T10:42:33.072679+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "بورس قله جدید فتح کرد/ فاصله تقاضا و عرضه همچنان زیاد است",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300250-%D8%A8%D9%88%D8%B1%D8%B3-%D9%82%D9%84%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%81%D8%AA%D8%AD-%DA%A9%D8%B1%D8%AF-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7-%D8%B9%D8%B1%D8%B6%D9%87-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%B2%DB%8C%D8%A7%D8%AF-%D8%A7%D8%B3%D8%AA",
@@ -1498,6 +1483,34 @@
     ],
     "high_impact_matches": [],
     "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "جزئیات افزایش پلکانی حقوق ها از زبان عضو کمیسیون برنامه و بودجه مجلس/ تصمیم گرفتیم مابه التفاوت قیمت ارز در قالب کالاهای اساسی به مردم برگردانیم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300459-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%BE%D9%84%DA%A9%D8%A7%D9%86%DB%8C-%D8%AD%D9%82%D9%88%D9%82-%D9%87%D8%A7-%D8%A7%D8%B2-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B9%D8%B6%D9%88-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D9%85%D8%AC%D9%84%D8%B3-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%DA%AF%D8%B1%D9%81%D8%AA%DB%8C%D9%85-%D9%85%D8%A7%D8%A8%D9%87-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D9%82%D8%A7%D9%84%D8%A8-%DA%A9%D8%A7%D9%84%D8%A7%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C-%D8%A8%D9%87-%D9%85%D8%B1%D8%AF%D9%85-%D8%A8%D8%B1%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%DB%8C%D9%85",
+    "summary": "عضو کمیسیون برنامه و بودجه مجلس گفت: یکی از محورهای مهم که در مجلس به آن اصرار داشتیم، مدیریت مابه التفاوت قیمت ارز بود. برهمین اساس در کمیسیون تلفیق تصمیم گرفتیم مابه التفاوت قیمت ارز (در صورت افزایش قیمت ارز نسبت به نرخ پیش بینی شده در بودجه) را در قالب کالاهای اساسی به مردم برگردانیم تا از آسیب دیدن توان خرید آن ها جلوگیری شود.",
+    "published": "Thu, 08 Oct 2026 08:01:36 +0000",
+    "collected_at": "2026-10-08T11:48:03.237872+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [
+      "بودجه"
+    ],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "بودجه"
+    ]
   },
   {
     "source": "مشرق",
@@ -2177,6 +2190,30 @@
       "بورس"
     ],
     "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "رئیس کمیسیون اصل ۹۰ مجلس: نقش مردم و کارکنان نفت خارگ در دوران جنگ نادیده گرفته نشود",
+    "link": "https://www.isna.ir/news/1405071610555/%D8%B1%D8%A6%DB%8C%D8%B3-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D8%B5%D9%84-%DB%B9%DB%B0-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%82%D8%B4-%D9%85%D8%B1%D8%AF%D9%85-%D9%88-%DA%A9%D8%A7%D8%B1%DA%A9%D9%86%D8%A7%D9%86-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D8%B1%DA%AF-%D8%AF%D8%B1-%D8%AF%D9%88%D8%B1%D8%A7%D9%86",
+    "summary": "رئیس کمیسیون اصل ۹۰ مجلس با تأکید بر نقش مردم و کارکنان صنعت نفت جزیره خارگ در حفظ زیرساخت های حیاتی کشور، گفت: مسائل و مطالبات این جزیره باید با توجه به شرایط ویژه و نقش راهبردی آن با دقت بیشتری بررسی و پیگیری شود.",
+    "published": "Thu, 08 Oct 2026 07:57:13 GMT",
+    "collected_at": "2026-10-08T11:47:40.467365+03:30",
+    "market_score": 5,
+    "market_matches": {},
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
     "medium_impact_matches": []
   },
   {
