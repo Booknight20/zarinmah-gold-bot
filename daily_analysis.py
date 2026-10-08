@@ -1,6 +1,5 @@
 import json
 import os
-import time
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -18,21 +17,17 @@ from bot import (
 # =========================================================
 
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-EITAAYAR_TOKEN = os.environ.get("EITAAYAR_TOKEN")
-EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID")
-
-TELEGRAM_CHANNEL = "@ZarinMahGold"
+CHANNEL = "@ZarinMahGold"
 
 TEHRAN = ZoneInfo("Asia/Tehran")
 
 STATUS_FILE = "send_status.json"
+DAILY_MESSAGE_FILE = "daily_message.txt"
 
 OCCASIONS_URL = (
     "https://raw.githubusercontent.com/"
     "BaseMax/persian-holidays-api/master/holidays.json"
 )
-
-EITAA_API_URL = "https://eitaayar.ir/api/"
 
 WEEKDAYS = [
     "دوشنبه",
@@ -166,10 +161,7 @@ def get_daily_status(status, slot):
     }
 
 
-def save_daily_destination_status(
-    slot,
-    destination,
-):
+def save_daily_telegram_status(slot):
     status = load_send_status()
 
     current = get_daily_status(
@@ -177,7 +169,7 @@ def save_daily_destination_status(
         slot,
     )
 
-    current[destination] = True
+    current["telegram"] = True
     current["slot"] = slot
     current["sent_at"] = datetime.now(
         TEHRAN
@@ -188,7 +180,7 @@ def save_daily_destination_status(
     save_send_status(status)
 
     print(
-        f"Daily {destination} status saved:",
+        "Daily telegram status saved:",
         slot,
     )
 
@@ -225,7 +217,7 @@ def get_today_info():
 
 
 # =========================================================
-# مناسبت‌ها
+# مناسبت‌های امروز
 # =========================================================
 
 def get_occasions(today):
@@ -268,6 +260,7 @@ def get_occasions(today):
                 continue
 
             if date_type == "shamsi":
+
                 if len(date_values) < 2:
                     continue
 
@@ -295,6 +288,7 @@ def get_occasions(today):
                     )
 
             elif date_type == "gregorian":
+
                 if len(date_values) < 2:
                     continue
 
@@ -839,7 +833,7 @@ def send_to_telegram(message):
     )
 
     payload = {
-        "chat_id": TELEGRAM_CHANNEL,
+        "chat_id": CHANNEL,
         "text": message,
     }
 
@@ -877,134 +871,21 @@ def send_to_telegram(message):
 
 
 # =========================================================
-# ارسال ایتا
+# ذخیره پیام برای ایتا
 # =========================================================
 
-def send_to_eitaa(message):
-    print(
-        "Preparing Eitaa daily send..."
-    )
-
-    if not EITAAYAR_TOKEN:
-        print(
-            "Eitaa error: EITAAYAR_TOKEN is missing."
-        )
-        return False
-
-    if not EITAA_CHAT_ID:
-        print(
-            "Eitaa error: EITAA_CHAT_ID is missing."
-        )
-        return False
-
-    # آدرس صحیح API ایتایار
-    url = (
-        f"{EITAA_API_URL}"
-        f"{EITAAYAR_TOKEN}"
-        f"/sendMessage"
-    )
-
-    payload = {
-        "chat_id": EITAA_CHAT_ID,
-        "text": message,
-    }
-
-    last_error = None
-
-    for attempt in range(1, 3):
-
-        try:
-            print(
-                f"Eitaa attempt {attempt}/2..."
-            )
-
-            response = requests.post(
-                url,
-                data=payload,
-                timeout=30,
-            )
-
-            print(
-                "Eitaa HTTP status:",
-                response.status_code,
-            )
-
-            print(
-                "Eitaa response:",
-                response.text,
-            )
-
-            if response.status_code != 200:
-                last_error = (
-                    f"HTTP {response.status_code}: "
-                    f"{response.text}"
-                )
-
-                if attempt < 2:
-                    time.sleep(2)
-
-                continue
-
-            try:
-                data = response.json()
-            except ValueError:
-                data = None
-
-            if not isinstance(data, dict):
-                last_error = (
-                    "Eitaa returned a non-JSON response."
-                )
-
-                if attempt < 2:
-                    time.sleep(2)
-
-                continue
-
-            if data.get("ok") is True:
-                print(
-                    "Daily analysis sent successfully to Eitaa."
-                )
-                return True
-
-            last_error = (
-                f"Eitaa API returned an error: {data}"
-            )
-
-            if attempt < 2:
-                time.sleep(2)
-
-        except requests.RequestException as error:
-            last_error = (
-                f"Eitaa request error: {repr(error)}"
-            )
-
-            print(
-                "Eitaa request error:",
-                repr(error),
-            )
-
-            if attempt < 2:
-                time.sleep(2)
-
-        except Exception as error:
-            last_error = (
-                f"Eitaa unexpected error: {repr(error)}"
-            )
-
-            print(
-                "Eitaa unexpected error:",
-                repr(error),
-            )
-
-            if attempt < 2:
-                time.sleep(2)
+def save_daily_message(message):
+    with open(
+        DAILY_MESSAGE_FILE,
+        "w",
+        encoding="utf-8",
+    ) as file:
+        file.write(message)
 
     print(
-        "Eitaa final error:",
-        last_error,
+        "Daily message saved to:",
+        DAILY_MESSAGE_FILE,
     )
-
-    return False
 
 
 # =========================================================
@@ -1072,23 +953,26 @@ def main():
         "telegram"
     ]
 
-    eitaa_sent = daily_status[
-        "eitaa"
-    ]
-
     if (
         scheduled_run
         or watchdog_retry
     ):
-        if (
-            telegram_sent
-            and eitaa_sent
-        ):
+        if telegram_sent:
             print(
-                "Daily analysis already sent "
-                "to both destinations for:",
+                "Telegram daily analysis already sent for:",
                 current_slot,
             )
+
+            message = build_message()
+
+            save_daily_message(
+                message
+            )
+
+            print(
+                "Message regenerated for Eitaa."
+            )
+
             return
 
     message = build_message()
@@ -1097,15 +981,16 @@ def main():
         "Generated daily analysis:"
     )
 
-    print(
+    print(message)
+
+    # همیشه فایل پیام ساخته می‌شود
+    # تا ایتا بتواند آن را ارسال کند.
+    save_daily_message(
         message
     )
 
-    # =====================================================
-    # تلگرام
-    # =====================================================
-
     if not telegram_sent:
+
         print(
             "Sending daily analysis to Telegram..."
         )
@@ -1116,11 +1001,9 @@ def main():
             )
 
             if telegram_ok:
-                save_daily_destination_status(
-                    current_slot,
-                    "telegram",
+                save_daily_telegram_status(
+                    current_slot
                 )
-                telegram_sent = True
 
         except Exception as error:
             print(
@@ -1128,83 +1011,17 @@ def main():
                 repr(error),
             )
 
+            raise
+
     else:
         print(
             "Telegram already sent for:",
             current_slot,
         )
 
-    # =====================================================
-    # ایتا
-    # =====================================================
-
-    if not eitaa_sent:
-        print(
-            "Sending daily analysis to Eitaa..."
-        )
-
-        eitaa_ok = send_to_eitaa(
-            message
-        )
-
-        if eitaa_ok:
-            save_daily_destination_status(
-                current_slot,
-                "eitaa",
-            )
-
-            eitaa_sent = True
-
-        else:
-            print(
-                "Eitaa daily send failed."
-            )
-
-            print(
-                "Telegram remains marked as sent."
-            )
-
-            print(
-                "Eitaa will remain pending "
-                "and can be retried on the next run."
-            )
-
-    else:
-        print(
-            "Eitaa already sent for:",
-            current_slot,
-        )
-
-    # =====================================================
-    # نتیجه نهایی
-    # =====================================================
-
-    if (
-        telegram_sent
-        and eitaa_sent
-    ):
-        print(
-            "Daily analysis completed successfully "
-            "for Telegram and Eitaa."
-        )
-
-    elif telegram_sent:
-        print(
-            "Daily analysis completed for Telegram. "
-            "Eitaa is still pending."
-        )
-
-    elif eitaa_sent:
-        print(
-            "Daily analysis completed for Eitaa. "
-            "Telegram is still pending."
-        )
-
-    else:
-        print(
-            "Daily analysis was not successfully "
-            "sent to any destination."
-        )
+    print(
+        "Daily analysis preparation completed."
+    )
 
 
 if __name__ == "__main__":
