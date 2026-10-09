@@ -466,6 +466,38 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "رکوردشکنی بودجه ۲۰۰ میلیارد دلار جنگی پوتین",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4300590-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AC%D9%86%DA%AF%DB%8C-%D9%BE%D9%88%D8%AA%DB%8C%D9%86",
+    "summary": "دنیای اقتصاد: هزینه های نظامی روسیه در سال جاری میلادی، در پی تصمیم ولادیمیر پوتین برای تزریق حدود ۶۰ میلیارد دلار به بودجه دفاعی، رکوردی تاریخی ثبت خواهد کرد.",
+    "published": "Fri, 09 Oct 2026 07:30:13 +0000",
+    "collected_at": "2026-10-09T11:14:12.859014+03:30",
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "بودجه"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
+    "medium_impact_matches": [
+      "بودجه"
+    ]
+  },
+  {
     "source": "مهر",
     "title": "قیمت نفت برنت از ۱۰۴ دلار گذشت",
     "link": "https://www.mehrnews.com/news/6971812/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%DB%B1%DB%B0%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%DA%AF%D8%B0%D8%B4%D8%AA",
@@ -1078,32 +1110,6 @@
     "summary": "قیمت طلا در بازار تهران امروز ۱۶ مهرماه اعلام شد و هر مثقال طلا با ریزش یک میلیون و ۸۷۰ هزار تومان مواجه شد.",
     "published": "Thu, 08 Oct 2026 06:08:51 GMT",
     "collected_at": "2026-10-08T09:47:13.781119+03:30",
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "مثقال طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۱۵ مهر ۱۴۰۵ در زمان بسته شدن بازار/ مثقال طلا به کانال ۱۱۳ میلیون تومان برگشت + جدول",
-    "link": "https://www.khabaronline.ir/news/2285225/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B5-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
-    "summary": "قیمت طلا در بازار تهران امروز ۱۵ مهرماه اعلام شد و هر مثقال طلا با ریزش یک میلیون و ۸۷۰ هزار تومان، به کانال ۱۱۳ میلیون تومان برگشت.",
-    "published": "Wed, 07 Oct 2026 19:08:30 GMT",
-    "collected_at": "2026-10-07T22:45:34.747202+03:30",
     "market_score": 12,
     "market_matches": {
       "gold": [
@@ -1933,6 +1939,30 @@
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "اختصاص بورس نخبگان دانشگاه تهران به رتبه های زیر ۱۰۰ در کنکور",
+    "link": "https://www.mehrnews.com/news/6972314/%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D9%86%D8%AE%D8%A8%DA%AF%D8%A7%D9%86-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B1%D8%AA%D8%A8%D9%87-%D9%87%D8%A7%DB%8C-%D8%B2%DB%8C%D8%B1-%DB%B1%DB%B0%DB%B0-%D8%AF%D8%B1-%DA%A9%D9%86%DA%A9%D9%88%D8%B1",
+    "summary": "رئیس دانشگاه تهران از اختصاص «بورس نخبگان دانشگاه تهران» به پذیرفته شدگانی خبر داد که رتبه زیر ۱۰۰ در آزمون سراسری کسب کرده و دانشگاه تهران را انتخاب کنند.",
+    "published": "Fri, 09 Oct 2026 07:36:19 GMT",
+    "collected_at": "2026-10-09T11:14:08.567479+03:30",
+    "market_score": 4,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
     "high_impact_matches": [],
     "medium_impact_matches": []
   }
