@@ -294,6 +294,36 @@
     ]
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا افزایش یافت/ قیمت جدید طلای جهانی امروز ۱۷ مهر ۱۴۰۵",
+    "link": "https://www.khabaronline.ir/news/2285718/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B7-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "summary": "قیمت طلا در معاملات روز جمعه بازار جهانی، هم زمان با تضعیف دلار آمریکا و کاهش بازده اوراق قرضه خزانه داری که جذابیت این فلز گرانبها طلا را تقویت کرد، افزایش یافت.",
+    "published": "Fri, 09 Oct 2026 06:35:45 GMT",
+    "collected_at": "2026-10-09T10:47:28.307314+03:30",
+    "market_score": 24,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "طلای جهانی"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "بازده اوراق"
+    ]
+  },
+  {
     "source": "مهر",
     "title": "افزایش بهای نفت به بیش از ۱۰۵ دلار",
     "link": "https://www.mehrnews.com/news/6971845/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A8%D9%87%D8%A7%DB%8C-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1",
@@ -1403,6 +1433,30 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "«نقشه حرارتی» قیمت آپارتمان در تهران/ بازار مسکن در تعقیب دلار است؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300587-%D9%86%D9%82%D8%B4%D9%87-%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B3%DA%A9%D9%86-%D8%AF%D8%B1-%D8%AA%D8%B9%D9%82%DB%8C%D8%A8-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA",
+    "summary": "متوسط «قیمت پیشنهادی» واحدهای مسکونی در کل شهر تهران به ۲۴۵ میلیون تومان در مترمربع رسیده است.",
+    "published": "Fri, 09 Oct 2026 06:46:20 +0000",
+    "collected_at": "2026-10-09T10:47:23.549478+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۱۶ مهر ۱۴۰۵ در زمان بسته شدن بازار/ طلای ۱۸عیار ۱۰۱ هزار تومان ارزان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2285626/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1",
@@ -1614,30 +1668,6 @@
       "طلا"
     ],
     "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "مردانی که رشوه 60 دلاری جاسوس موساد را رد کردند",
-    "link": "https://www.tabnak.ir/fa/news/1397768/مردانی-که-رشوه-60-دلاری-جاسوس-موساد-را-رد-کردند",
-    "summary": "مصاحبه با افسران پلیسی که هنگام گشت زنی در نزدیکی کرج، جاسوس موساد به تورشان خورد و پیشنهاد رشوه 60 هزار دلاری او را رد کردند را می بینید و می شنوید.",
-    "published": "07 Oct 2026 20:26:05 +0330",
-    "collected_at": "2026-10-07T22:18:12.336299+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
