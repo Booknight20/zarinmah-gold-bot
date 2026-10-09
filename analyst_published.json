@@ -231,5 +231,29 @@
     "eitaa_sent_at": "2026-10-09T20:47:35.604020+03:30",
     "eitaa_message_id": 175654941,
     "published_at": "2026-10-09T20:47:35.604902+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25457": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "انس جهانی طلا این هفته با 4150 دلار شروع کرد تا 4060 دلار هم پایین اومد اما نزدیک 4200 دلار معامل...",
+      "summary": "انس جهانی طلا این هفته با 4150 دلار شروع کرد تا 4060 دلار هم پایین اومد اما نزدیک 4200 دلار معامله میشه و هفته پر نوسان خودشو داره تموم میکنه\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25457",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "دلار"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-09T22:14:40.938662+03:30"
+    },
+    "first_seen_at": "2026-10-09T22:14:43.603290+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-09T22:14:44.130429+03:30",
+    "telegram_message_id": 214,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-09T22:14:45.567657+03:30",
+    "eitaa_message_id": 175666062,
+    "published_at": "2026-10-09T22:14:45.568473+03:30"
   }
 }
