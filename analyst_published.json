@@ -108,5 +108,32 @@
     "published_at": "2026-10-09T11:14:30.055366+03:30",
     "telegram_message_id": 191,
     "eitaa_message_id": 175589960
+  },
+  "https://t.me/AlirezaMehrabi_ir/8406": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "به‌خاطر رشد اونس جهانی، طلا ۱۸ عیار حباب منفیش رسیده به ۲ درصد",
+      "summary": "🟡 ارزش ذاتی طلا ۱۸ عیار: ۲۶,۹۸۰,۰۰۰ تومن\n⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8406",
+      "analysis_score": 10,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "اونس جهانی",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "priority": "high",
+      "collected_at": "2026-10-09T13:42:32.399830+03:30"
+    },
+    "first_seen_at": "2026-10-09T13:42:33.564720+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-09T13:42:34.170356+03:30",
+    "telegram_message_id": 199,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-09T13:42:35.746022+03:30",
+    "eitaa_message_id": 175606664,
+    "published_at": "2026-10-09T13:42:35.746782+03:30"
   }
 }
