@@ -167,19 +167,22 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "توصیه اقتصادی مهم به مردم برای خرید خانه/ خانه اولی ها فریب سود روزانه طلا و ارز را نخورند",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300446-%D8%AA%D9%88%D8%B5%DB%8C%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D9%85%D9%87%D9%85-%D8%A8%D9%87-%D9%85%D8%B1%D8%AF%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AE%D8%A7%D9%86%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%D9%88%D9%84%DB%8C-%D9%87%D8%A7-%D9%81%D8%B1%DB%8C%D8%A8-%D8%B3%D9%88%D8%AF-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B1%D8%B2-%D8%B1%D8%A7-%D9%86%D8%AE%D9%88%D8%B1%D9%86%D8%AF",
-    "summary": "نایب رئیس اتحادیه املاک گفت: پلتفرم های خانه یاب با انتشار آگهی های غیرکارشناسی، به جای کشف قیمت در بازار مسکن قیمت سازی می کنند و نرخ مناطق را تغییر می دهند و بر معاملات و تورم اثر دارند.",
-    "published": "Thu, 08 Oct 2026 06:51:15 +0000",
-    "collected_at": "2026-10-08T10:44:19.585260+03:30",
+    "source": "تابناک",
+    "title": "رکوردشکنی بورس در میانه مهرماه با فتح قله ۸ میلیونی/ چگونه بورس از طلا و دلار سبقت گرفت؟",
+    "link": "https://www.tabnak.ir/fa/news/1397956/رکوردشکنی-بورس-در-میانه-مهرماه-با-فتح-قله-8-میلیونی-چگونه-بورس-از-طلا-و-دلار-سبقت-گرفت",
+    "summary": "شاخص کل بورس تهران در هفته ای که گذشت با ثبت رشد ۴.۷ درصدی، برای نخستین بار از سد ۸ میلیون واحد عبور کرد و در ارتفاع ۸ میلیون و ۱۳۱ هزار واحدی قرار گرفت.",
+    "published": "09 Oct 2026 16:20:14 +0330",
+    "collected_at": "2026-10-09T16:44:26.516757+03:30",
     "market_score": 25,
     "market_matches": {
       "gold": [
         "طلا"
       ],
       "currency": [
-        "ارز"
+        "دلار"
+      ],
+      "stock": [
+        "بورس"
       ]
     },
     "driver_matches": [],
@@ -189,12 +192,13 @@
       "طلا"
     ],
     "currency_matches": [
-      "ارز"
+      "دلار"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "تورم"
+    "stock_matches": [
+      "بورس",
+      "شاخص کل"
     ],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
@@ -374,33 +378,6 @@
     "stock_matches": [],
     "high_impact_matches": [
       "بانک مرکزی"
-    ],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "وقتی دلار انبار می کنیم چه اتفاقی می افتد؟",
-    "link": "https://www.tabnak.ir/fa/news/1397811/وقتی-دلار-انبار-می-کنیم-چه-اتفاقی-می-افتد",
-    "summary": "خرید و پس انداز دلار در اوضاع کنونی کشور، فراتر از یک تصمیم مالی، کاهش ارزش پول ملی، تقویت فشار های تورمی و انتقال بار هزینه ها به خانوار های ریال محور را به دنبال دارد.",
-    "published": "08 Oct 2026 10:20:02 +0330",
-    "collected_at": "2026-10-08T10:44:25.651995+03:30",
-    "market_score": 22,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "تورم"
     ],
     "medium_impact_matches": []
   },
@@ -1041,32 +1018,6 @@
     ]
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت نفت چقدر گران شد؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300443-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%DA%86%D9%82%D8%AF%D8%B1-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
-    "summary": "قیمت جهانی نفت روز پنجشنبه در پی تداوم نگرانی ها درباره عرضه نفت تولیدکنندگان غرب آسیا و افزایش حملات به کشتی ها در خلیج فارس و تنگه هرمز، افزایش یافت.",
-    "published": "Thu, 08 Oct 2026 06:26:36 +0000",
-    "collected_at": "2026-10-08T10:44:19.585288+03:30",
-    "market_score": 12,
-    "market_matches": {},
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "تنگه هرمز",
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [
-      "قیمت نفت"
-    ]
-  },
-  {
     "source": "مهر",
     "title": "انتقاد امام جمعه دیباج از سیاست جدید توزیع ارز",
     "link": "https://www.mehrnews.com/news/6972544/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D8%A7%D9%85%D8%A7%D9%85-%D8%AC%D9%85%D8%B9%D9%87-%D8%AF%DB%8C%D8%A8%D8%A7%D8%AC-%D8%A7%D8%B2-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%D8%A7%D8%B1%D8%B2",
@@ -1298,6 +1249,54 @@
     ]
   },
   {
+    "source": "مشرق",
+    "title": "مانور ۳۵ میلیون دلاری روی پرونده اپستین در انتخابات آمریکا",
+    "link": "https://www.mashreghnews.ir/news/1844611/%D9%85%D8%A7%D9%86%D9%88%D8%B1-%DB%B3%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B1%D9%88%DB%8C-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%A7%D9%BE%D8%B3%D8%AA%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+    "summary": "پرونده جفری اپستین به یکی از محورهای تبلیغات انتخابات میان دوره ای آمریکا تبدیل شده است.",
+    "published": "Fri, 09 Oct 2026 13:00:47 GMT",
+    "collected_at": "2026-10-09T16:44:29.065716+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "هزینه ۲۱ میلیارد تومانی کشتی ایران برای سفر به آمریکا / ۱۱۰ هزار دلار دیگر در راه است",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300635-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%81%D8%B1-%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA",
+    "summary": "فدراسیون کشتی برای اعزام تیم های آزاد و فرنگی به رقابت های امیدهای جهان در لاس وگاس، ۲۱ میلیارد تومان هزینه بلیت هواپیما کرده و باید نزدیک به ۱۱۰ هزار دلار دیگر نیز برای ثبت نام مسابقات و هتل بپردازد.",
+    "published": "Fri, 09 Oct 2026 12:50:41 +0000",
+    "collected_at": "2026-10-09T16:44:21.575972+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار حباب دارد/ چرا الان دلار نخرید، بهتر است؟",
     "link": "https://www.khabaronline.ir/news/2285753/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%AF%D8%A7%D8%B1%D8%AF-%DA%86%D8%B1%D8%A7-%D8%A7%D9%84%D8%A7%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%86%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A8%D9%87%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA",
@@ -1412,30 +1411,6 @@
     "gold_matches": [],
     "currency_matches": [
       "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "بهره برداری از ۷ پروژه شهری رودهن با اعتبار ۲.۰۹ تریلیون ریال",
-    "link": "https://www.mehrnews.com/news/6971593/%D8%A8%D9%87%D8%B1%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%DB%B7-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B4%D9%87%D8%B1%DB%8C-%D8%B1%D9%88%D8%AF%D9%87%D9%86-%D8%A8%D8%A7-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%DB%B2-%DB%B0%DB%B9-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%B1%DB%8C%D8%A7%D9%84",
-    "summary": "دماوند- مدیرکل امور مالیاتی شرق استان تهران گفت: هفت پروژه خدماتی و شهری در رودهن با استفاده از درآمدهای حاصل از مالیات بر ارزش افزوده و با اعتباری بالغ بر ۲.۰۹ تریلیون بهره برداری شد.",
-    "published": "Thu, 08 Oct 2026 06:45:18 GMT",
-    "collected_at": "2026-10-08T10:44:13.137491+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
