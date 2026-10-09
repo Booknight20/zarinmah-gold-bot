@@ -777,6 +777,32 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا امروز جمعه ۱۷ مهر ۱۴۰۵/ افزایش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300567-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AC%D9%85%D8%B9%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "قیمت طلا امروز به ۴۱۸۳ (چهار هزار و یکصد و هشتاد و سه) دلار رسید.",
+    "published": "Fri, 09 Oct 2026 04:36:11 +0000",
+    "collected_at": "2026-10-09T08:47:18.655551+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "تابناک",
     "title": "قیمت طلا و سکه امروز ۱۶ مهر / سکه امامی دوباره اوج گرفت!",
     "link": "https://www.tabnak.ir/fa/news/1397838/قیمت-طلا-و-سکه-امروز-16-مهر-سکه-امامی-دوباره-اوج-گرفت",
@@ -931,6 +957,32 @@
       "طلا",
       "سکه",
       "سکه امامی"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۱۷ مهر ۱۴۰۵/ مثقال طلا ۴۳۹ هزار تومان ارزان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2285646/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B7-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%DB%B4%DB%B3%DB%B9-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86-%D8%B4%D8%AF",
+    "summary": "قیمت طلا در بازار تهران امروز ۱۷ مهرماه اعلام شد و هر مثقال طلا با ریزش ۴۳۹ هزار تومان مواجه شد.",
+    "published": "Fri, 09 Oct 2026 04:52:58 GMT",
+    "collected_at": "2026-10-09T08:47:23.506626+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "مثقال طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "مثقال طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
