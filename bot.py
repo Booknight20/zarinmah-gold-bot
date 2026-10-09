@@ -1,43 +1,40 @@
-import html
-import json
 import os
 import re
+import json
+import html
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
 
+
 # =========================================================
-# تنظیمات اصلی
+# تنظیمات
 # =========================================================
+
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 EITAAYAR_TOKEN = os.environ.get("EITAAYAR_TOKEN", "").strip()
-EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID", "").strip()
+EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID", "").strip().lstrip("@")
 CHANNEL = "@ZarinMahGold"
 TEHRAN = ZoneInfo("Asia/Tehran")
 PREVIOUS_FILE = "previous_prices.json"
 STATUS_FILE = "send_status.json"
 
-# منبع اصلی قیمت
+# اول TGJU؛ اگر قیمت قدیمی باشد، نوسان جایگزین می‌شود.
 PRICE_SOURCES = {
     "gold": {"name": "TGJU طلا", "channel": "tgjugold"},
     "currency": {"name": "TGJU ارز", "channel": "tgjucurrency"},
     "coin": {"name": "TGJU سکه", "channel": "tgjucoin"},
 }
 
-# منبع جایگزین: کانال نوسان
 NAVASAN_CHANNEL = "navasanchannel"
-NAVASAN_URL = "https://t.me/navasanchannel"
 
-# اگر نرخ TGJU بیشتر از ۲ ساعت قدیمی باشد، از نوسان استفاده می‌شود.
-MAX_PRIMARY_PRICE_AGE_MINUTES = 120
+# قیمت باید از پستی باشد که حداکثر ۶۰ دقیقه از انتشار آن گذشته است.
+MAX_PRICE_AGE_MINUTES = 60
 
-# نرخ نوسان باید حداکثر ۶ ساعت عمر داشته باشد.
-MAX_NAVASAN_PRICE_AGE_MINUTES = 360
-
-PRICE_SOURCE_USED = "TGJU"
-PRICE_SOURCE_REASON = ""
+LAST_PRICE_META = {}
+_NAVASAN_POST_CACHE = None
 
 HEADERS = {
     "User-Agent": (
@@ -50,8 +47,9 @@ HEADERS = {
 
 
 # =========================================================
-# ابزارهای متن، عدد و پیام تلگرام
+# پاک‌سازی و تبدیل داده‌ها
 # =========================================================
+
 def normalize_digits(value):
     table = str.maketrans(
         "۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩",
@@ -63,55 +61,91 @@ def normalize_digits(value):
 def clean_text(value):
     if not value:
         return ""
+
     text = html.unescape(str(value))
-    for char in ("\u200c", "\u200f", "\ufeff"):
-        text = text.replace(char, " ")
+    text = (
+        text.replace("\u200c", " ")
+        .replace("\u200f", " ")
+        .replace("\ufeff", " ")
+    )
     text = text.replace("٬", ",").replace("،", ",")
     text = re.sub(r"\r\n?", "\n", text)
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n+", "\n", text)
+
     return text.strip()
 
 
 def parse_number(value, unit="toman"):
     if not value:
         return None
+
     text = normalize_digits(clean_text(value))
     text = text.replace(",", "").replace(" ", "")
+
     match = re.search(r"\d+(?:\.\d+)?", text)
     if not match:
         return None
+
     try:
         number = float(match.group(0))
     except ValueError:
         return None
+
+    # قیمت‌های TGJU از ریال به تومان تبدیل می‌شوند.
     if unit == "rial":
         number /= 10
+
     return int(round(number))
 
 
 def get_message_id(link):
-    match = re.search(r"/(\d+)$", link or "")
+    match = re.search(r"/(\d+)(?:\?.*)?$", link or "")
     return int(match.group(1)) if match else 0
 
 
-def get_post_age_minutes(post):
-    raw = post.get("published_at")
-    if not raw:
+def parse_posted_at(value):
+    """زمان انتشار واقعی پست را از HTML تلگرام می‌خواند."""
+    if not value:
         return None
+
     try:
-        published = datetime.fromisoformat(str(raw).replace("Z", "+00:00"))
-        if published.tzinfo is None:
-            published = published.replace(tzinfo=TEHRAN)
-        published = published.astimezone(TEHRAN)
-        return (datetime.now(TEHRAN) - published).total_seconds() / 60
-    except (TypeError, ValueError, OverflowError):
+        parsed = datetime.fromisoformat(
+            str(value).strip().replace("Z", "+00:00")
+        )
+
+        # زمان بدون منطقه زمانی، قابل تأیید محسوب نمی‌شود.
+        if parsed.tzinfo is None:
+            return None
+
+        return parsed.astimezone(TEHRAN)
+
+    except (TypeError, ValueError):
         return None
 
 
+def post_age_minutes(posted_at):
+    if not posted_at:
+        return None
+
+    return (
+        datetime.now(TEHRAN) - posted_at
+    ).total_seconds() / 60
+
+
+def post_is_fresh(posted_at):
+    age = post_age_minutes(posted_at)
+
+    return (
+        age is not None
+        and -5 <= age <= MAX_PRICE_AGE_MINUTES
+    )
+
+
 # =========================================================
-# خواندن پست‌های عمومی کانال تلگرام
+# دریافت پست‌های کانال
 # =========================================================
+
 def fetch_channel_posts(channel, max_pages=8):
     posts = []
     seen_links = set()
@@ -119,84 +153,152 @@ def fetch_channel_posts(channel, max_pages=8):
 
     for page_number in range(1, max_pages + 1):
         url = f"https://t.me/s/{channel}"
+
         if before:
             url += f"?before={before}"
 
-        print(f"Reading {channel} page {page_number}...")
-        response = requests.get(url, headers=HEADERS, timeout=30)
+        print(f"Reading @{channel}, page {page_number}...")
+
+        response = requests.get(
+            url,
+            headers=HEADERS,
+            timeout=30,
+        )
         response.raise_for_status()
+
         soup = BeautifulSoup(response.text, "html.parser")
-        wrappers = soup.select("div.tgme_widget_message_wrap")
+
+        wrappers = soup.select(
+            "div.tgme_widget_message_wrap"
+        )
+
         if not wrappers:
             break
 
         page_posts = []
+
         for wrapper in wrappers:
-            text_node = wrapper.select_one("div.tgme_widget_message_text")
-            date_node = wrapper.select_one("a.tgme_widget_message_date")
+            text_node = wrapper.select_one(
+                "div.tgme_widget_message_text"
+            )
+            date_node = wrapper.select_one(
+                "a.tgme_widget_message_date"
+            )
+
             if not text_node or not date_node:
                 continue
 
-            text = clean_text(text_node.get_text("\n", strip=True))
-            link = date_node.get("href", "")
-            time_node = date_node.select_one("time[datetime]")
-            published_at = time_node.get("datetime") if time_node else None
+            text = clean_text(
+                text_node.get_text("\n", strip=True)
+            )
+            link = date_node.get("href", "").strip()
 
             if not text or not link or link in seen_links:
                 continue
+
             seen_links.add(link)
+
+            time_node = wrapper.select_one("time[datetime]")
+            raw_datetime = (
+                time_node.get("datetime")
+                if time_node
+                else date_node.get("datetime")
+            )
+            posted_at = parse_posted_at(raw_datetime)
+
             page_posts.append({
                 "text": text,
                 "link": link,
                 "message_id": get_message_id(link),
-                "published_at": published_at,
+                "posted_at": (
+                    posted_at.isoformat()
+                    if posted_at
+                    else None
+                ),
             })
 
         print("Posts found on page:", len(page_posts))
+
         if not page_posts:
             break
+
         posts.extend(page_posts)
 
-        ids = [post["message_id"] for post in page_posts if post["message_id"] > 0]
+        ids = [
+            post["message_id"]
+            for post in page_posts
+            if post["message_id"] > 0
+        ]
+
         if not ids:
             break
+
         before = str(min(ids))
 
-    posts.sort(key=lambda item: item["message_id"], reverse=True)
-    print(f"Total posts collected from {channel}: {len(posts)}")
+    # جدیدترین پست ابتدا بررسی می‌شود.
+    posts.sort(
+        key=lambda item: item["message_id"],
+        reverse=True,
+    )
+
+    print(f"Total posts collected from @{channel}: {len(posts)}")
+
     if posts:
         print("Newest message ID:", posts[0]["message_id"])
         print("Newest message link:", posts[0]["link"])
+
     return posts
 
 
 # =========================================================
-# استخراج قیمت از پست‌های TGJU
+# استخراج قیمت‌ها از قالب پست TGJU
 # =========================================================
+
 def get_asset_section(text, asset_pattern):
     text = normalize_digits(clean_text(text))
-    match = re.search(asset_pattern, text, flags=re.IGNORECASE)
+
+    match = re.search(
+        asset_pattern,
+        text,
+        flags=re.IGNORECASE,
+    )
+
     if not match:
         return None
+
     remaining = text[match.end():]
-    next_section = re.search(r"(?:^|\n)\s*⭕️", remaining)
-    return remaining[:next_section.start()] if next_section else remaining
+
+    next_section = re.search(
+        r"(?:^|\n)\s*⭕️",
+        remaining,
+    )
+
+    return (
+        remaining[:next_section.start()]
+        if next_section
+        else remaining
+    )
 
 
 def extract_instant_price(section, minimum, maximum):
     if not section:
         return None
+
     match = re.search(
-        r"قیمت\s*لحظه\s*ای\s*[:：]?\s*([\d,]+)\s*ریال",
+        r"قیمت\s*لحظه\s*ای\s*[:：]?\s*([\d,٬]+)\s*ریال",
         section,
         flags=re.IGNORECASE,
     )
+
     if not match:
         return None
+
     price = parse_number(match.group(1), "rial")
-    if price and minimum <= price <= maximum:
-        return price
-    return None
+
+    if price is None or not minimum <= price <= maximum:
+        return None
+
+    return price
 
 
 def parse_gold_post(text):
@@ -205,20 +307,35 @@ def parse_gold_post(text):
         r"(?:^|\n)\s*⭕️\s*طلای\s*(?:18|۱۸)\s*عیار",
         r"(?:^|\n)\s*قیمت\s*طلای\s*(?:18|۱۸)\s*عیار",
     ]
+
     for pattern in patterns:
         section = get_asset_section(text, pattern)
-        price = extract_instant_price(section, 100_000, 500_000_000)
+        price = extract_instant_price(
+            section,
+            100_000,
+            500_000_000,
+        )
+
         if price:
             return {"gold18": price}
+
     return {}
 
 
 def parse_currency_post(text):
     text = normalize_digits(clean_text(text))
-    dollar_match = re.search(r"#قیمت[_\s]*دلار\b", text, flags=re.IGNORECASE)
-    if not dollar_match:
+
+    match = re.search(
+        r"#قیمت[_\s]*دلار\b",
+        text,
+        flags=re.IGNORECASE,
+    )
+
+    if not match:
         return {}
-    remaining = text[dollar_match.end():]
+
+    remaining = text[match.end():]
+
     stop_patterns = [
         r"#قیمت[_\s]*دلار[_\s]*توافقی",
         r"#قیمت[_\s]*دلار[_\s]*سلیمانیه",
@@ -227,246 +344,527 @@ def parse_currency_post(text):
         r"#قیمت[_\s]*دلار[_\s]*نیما",
         r"⭕️\s*قیمت\s*دلار\s*دولتی",
     ]
-    stops = [
-        match.start()
-        for pattern in stop_patterns
-        if (match := re.search(pattern, remaining, flags=re.IGNORECASE))
-    ]
-    section = remaining[:min(stops)] if stops else remaining
-    price = extract_instant_price(section, 100_000, 1_000_000)
+
+    stop_positions = []
+
+    for pattern in stop_patterns:
+        stop = re.search(
+            pattern,
+            remaining,
+            flags=re.IGNORECASE,
+        )
+
+        if stop:
+            stop_positions.append(stop.start())
+
+    section = (
+        remaining[:min(stop_positions)]
+        if stop_positions
+        else remaining
+    )
+
+    price = extract_instant_price(
+        section,
+        100_000,
+        3_000_000,
+    )
+
     return {"dollar": price} if price else {}
 
 
 def parse_coin_post(text):
     text = normalize_digits(clean_text(text))
+
     definitions = {
-        "coin": (r"(?:^|\n)\s*⭕️\s*سکه\s*امامی", 100_000_000, 5_000_000_000),
-        "half": (r"(?:^|\n)\s*⭕️\s*نیم\s*سکه", 50_000_000, 2_000_000_000),
-        "quarter": (r"(?:^|\n)\s*⭕️\s*ربع\s*سکه", 20_000_000, 1_000_000_000),
+        "coin": {
+            "pattern": r"(?:^|\n)\s*⭕️\s*سکه\s*امامی",
+            "min": 10_000_000,
+            "max": 5_000_000_000,
+        },
+        "half": {
+            "pattern": r"(?:^|\n)\s*⭕️\s*نیم\s*سکه",
+            "min": 5_000_000,
+            "max": 2_000_000_000,
+        },
+        "quarter": {
+            "pattern": r"(?:^|\n)\s*⭕️\s*ربع\s*سکه",
+            "min": 2_000_000,
+            "max": 1_000_000_000,
+        },
     }
+
     result = {}
-    for asset, (pattern, minimum, maximum) in definitions.items():
-        section = get_asset_section(text, pattern)
-        price = extract_instant_price(section, minimum, maximum)
+
+    for asset, config in definitions.items():
+        section = get_asset_section(
+            text,
+            config["pattern"],
+        )
+
+        price = extract_instant_price(
+            section,
+            config["min"],
+            config["max"],
+        )
+
         if price:
             result[asset] = price
+
     return result
 
+
+# =========================================================
+# دریافت آخرین قیمت از TGJU و بررسی تازگی آن
+# =========================================================
 
 def get_latest_asset_price(channel_key, asset):
     config = PRICE_SOURCES[channel_key]
     posts = fetch_channel_posts(config["channel"])
+
     parser = {
         "gold": parse_gold_post,
         "currency": parse_currency_post,
         "coin": parse_coin_post,
     }[channel_key]
 
+    # اولین قیمت معتبر از جدیدترین پست به دست می‌آید.
     for post in posts:
         parsed = parser(post["text"])
+
         if asset not in parsed:
             continue
 
-        age = get_post_age_minutes(post)
-        if age is None:
-            raise RuntimeError(
-                f"زمان انتشار نرخ {asset} در {config['channel']} قابل بررسی نیست."
+        posted_at = parse_posted_at(
+            post.get("posted_at")
+        )
+        age = post_age_minutes(posted_at)
+        price = parsed[asset]
+
+        print(
+            "Latest TGJU price candidate:",
+            asset,
+            "|",
+            post["link"],
+        )
+        print(
+            "TGJU post time:",
+            posted_at.isoformat()
+            if posted_at
+            else "UNKNOWN",
+        )
+        print(
+            "TGJU post age (minutes):",
+            round(age, 1)
+            if age is not None
+            else "UNKNOWN",
+        )
+
+        if not post_is_fresh(posted_at):
+            age_text = (
+                f"{round(age)} دقیقه"
+                if age is not None
+                else "نامشخص"
             )
-        if age < -10 or age > MAX_PRIMARY_PRICE_AGE_MINUTES:
             raise RuntimeError(
-                f"آخرین نرخ {asset} در {config['channel']} قدیمی است "
-                f"(سن پست: {age:.0f} دقیقه)."
+                f"پست TGJU برای {asset} قدیمی یا "
+                f"زمان آن نامشخص است: {age_text}"
             )
 
-        price = parsed[asset]
-        print("LATEST FRESH TGJU MATCH")
-        print("Source:", config["name"])
-        print("Message ID:", post["message_id"])
-        print("Message link:", post["link"])
-        print("Asset:", asset)
-        print("Instant price:", f"{price:,}", "toman")
-        print("Post age (minutes):", round(age, 1))
         return {
             "price": price,
             "link": post["link"],
             "message_id": post["message_id"],
-            "published_at": post.get("published_at"),
+            "posted_at": posted_at,
+            "source": "TGJU",
         }
 
-    raise RuntimeError(f"قیمت تازهٔ {asset} در کانال {config['channel']} پیدا نشد.")
+    raise RuntimeError(
+        f"قیمت معتبر {asset} در کانال "
+        f"{config['channel']} پیدا نشد."
+    )
 
 
 # =========================================================
-# استخراج قیمت از کانال نوسان
+# قیمت جایگزین از کانال نوسان
 # =========================================================
-def parse_navasan_post(text):
-    """قیمت‌های تومانی را از قالب پست‌های کانال نوسان استخراج می‌کند."""
-    text = normalize_digits(clean_text(text))
-    found = {}
-    patterns = {
-        "dollar": r"^\s*دلار\s*آمریکا\b.*?(\d[\d,]{3,})",
-        "gold18": (
-            r"^\s*(?:طلای\s*(?:18|۱۸)\s*عیار\b|"
-            r"هر\s*گرم\s*طلای\s*(?:18|۱۸)\s*عیار\b)"
-            r".*?(\d[\d,]{5,})"
-        ),
-        "coin": r"^\s*سکه\s*امامی\b.*?(\d[\d,]{6,})",
-        "half": r"^\s*نیم\s*سکه\b.*?(\d[\d,]{6,})",
-        "quarter": r"^\s*ربع\s*سکه\b.*?(\d[\d,]{6,})",
-    }
-    limits = {
-        "dollar": (10_000, 5_000_000),
-        "gold18": (1_000_000, 500_000_000),
-        "coin": (100_000_000, 5_000_000_000),
-        "half": (50_000_000, 2_000_000_000),
-        "quarter": (20_000_000, 1_000_000_000),
-    }
 
-    for line in text.splitlines():
-        line = line.strip()
-        if not line:
-            continue
-        for asset, pattern in patterns.items():
-            if asset in found:
-                continue
-            match = re.search(pattern, line, flags=re.IGNORECASE)
-            if not match:
-                continue
-            price = parse_number(match.group(1), "toman")
-            if price is None:
-                continue
-            minimum, maximum = limits[asset]
-            if minimum <= price <= maximum:
-                found[asset] = price
-    return found
+def get_navasan_posts():
+    global _NAVASAN_POST_CACHE
 
-
-def get_navasan_prices():
-    """جدیدترین قیمت هر دارایی را از چند پست تازهٔ کانال نوسان جمع می‌کند."""
-    print("Fetching fallback prices from Navasan...")
-    posts = fetch_channel_posts(NAVASAN_CHANNEL, max_pages=4)
-    required_assets = ("gold18", "dollar", "coin", "half", "quarter")
-    result = {}
-    asset_post = {}
-
-    for post in posts:  # پست‌ها از جدیدترین به قدیمی‌ترین مرتب شده‌اند.
-        parsed = parse_navasan_post(post.get("text", ""))
-        if not parsed:
-            continue
-        age = get_post_age_minutes(post)
-        if age is not None and (
-            age < -10 or age > MAX_NAVASAN_PRICE_AGE_MINUTES
-        ):
-            continue
-        for asset, price in parsed.items():
-            if asset not in result:
-                result[asset] = price
-                asset_post[asset] = post.get("link", "")
-        if all(asset in result for asset in required_assets):
-            break
-
-    missing = [asset for asset in required_assets if asset not in result]
-    if missing:
-        raise RuntimeError(
-            "قیمت‌های کافی از کانال نوسان دریافت نشد. دارایی‌های ناموجود: "
-            + ", ".join(missing)
+    if _NAVASAN_POST_CACHE is None:
+        _NAVASAN_POST_CACHE = fetch_channel_posts(
+            NAVASAN_CHANNEL,
+            max_pages=8,
         )
 
-    print("Navasan fallback prices:")
-    print(json.dumps(result, ensure_ascii=False, indent=2))
-    for asset, link in asset_post.items():
-        print(f"Navasan {asset} source: {link}")
-    return result
+    return _NAVASAN_POST_CACHE
+
+
+def parse_navasan_asset_price(text, asset):
+    """قیمت تومانی را از خط مربوط به دارایی در پست نوسان استخراج می‌کند."""
+    text = normalize_digits(clean_text(text))
+
+    lines = [
+        line.strip().replace("‌", " ")
+        for line in text.splitlines()
+        if line.strip()
+    ]
+
+    if asset == "gold18":
+        label = re.compile(
+            r"طلای?\s*(?:18|۱۸)\s*عیار(?:\s*هر\s*گرم)?",
+            re.IGNORECASE,
+        )
+        minimum, maximum = 100_000, 500_000_000
+
+    elif asset == "dollar":
+        label = re.compile(
+            r"(?:^|\s)(?:💵\s*)?دلار"
+            r"(?:\s+آمریکا)?(?:\s+فروش)?"
+            r"(?=\s|🇺🇸|:|：)",
+            re.IGNORECASE,
+        )
+        minimum, maximum = 100_000, 3_000_000
+
+    elif asset == "coin":
+        label = re.compile(
+            r"سکه\s*امامی",
+            re.IGNORECASE,
+        )
+        minimum, maximum = 10_000_000, 5_000_000_000
+
+    elif asset == "half":
+        label = re.compile(
+            r"نیم\s*سکه",
+            re.IGNORECASE,
+        )
+        minimum, maximum = 5_000_000, 2_000_000_000
+
+    elif asset == "quarter":
+        label = re.compile(
+            r"ربع\s*سکه",
+            re.IGNORECASE,
+        )
+        minimum, maximum = 2_000_000, 1_000_000_000
+
+    else:
+        return None
+
+    for line in lines:
+        label_match = label.search(line)
+
+        if not label_match:
+            continue
+
+        if asset == "dollar":
+            excluded = (
+                "کانادا",
+                "هرات",
+                "سلیمانیه",
+                "توافقی",
+                "دولتی",
+                "نیما",
+                "مرکز مبادله",
+            )
+
+            if any(word in line for word in excluded):
+                continue
+
+            # اگر قیمت خرید و فروش جداگانه باشد،
+            # نرخ فروش را در اولویت قرار می‌دهیم.
+            if "خرید" in line and "فروش" not in line:
+                continue
+
+        if ":" in line or "：" in line:
+            value_text = re.split(
+                r"[:：]",
+                line,
+                maxsplit=1,
+            )[1]
+        else:
+            value_text = line[label_match.end():]
+
+        match = re.search(
+            r"(?<!\d)(\d[\d,٬ ]{2,})",
+            value_text,
+        )
+
+        if not match:
+            continue
+
+        # قیمت‌های این کانال بر حسب تومان‌اند.
+        price = parse_number(
+            match.group(1),
+            "toman",
+        )
+
+        if price and minimum <= price <= maximum:
+            return price
+
+    return None
+
+
+def get_latest_navasan_asset_price(asset):
+    for post in get_navasan_posts():
+        price = parse_navasan_asset_price(
+            post.get("text", ""),
+            asset,
+        )
+
+        if price is None:
+            continue
+
+        posted_at = parse_posted_at(
+            post.get("posted_at")
+        )
+        age = post_age_minutes(posted_at)
+
+        print(
+            "Latest Navasan price candidate:",
+            asset,
+            "|",
+            post.get("link"),
+        )
+        print(
+            "Navasan post time:",
+            posted_at.isoformat()
+            if posted_at
+            else "UNKNOWN",
+        )
+        print(
+            "Navasan post age (minutes):",
+            round(age, 1)
+            if age is not None
+            else "UNKNOWN",
+        )
+
+        if not post_is_fresh(posted_at):
+            age_text = (
+                f"{round(age)} دقیقه"
+                if age is not None
+                else "نامشخص"
+            )
+            raise RuntimeError(
+                f"پست نوسان برای {asset} قدیمی یا "
+                f"زمان آن نامشخص است: {age_text}"
+            )
+
+        return {
+            "price": price,
+            "link": post.get("link", ""),
+            "message_id": post.get("message_id", 0),
+            "posted_at": posted_at,
+            "source": "نوسان",
+        }
+
+    raise RuntimeError(
+        f"قیمت معتبر {asset} در پست‌های نوسان پیدا نشد."
+    )
 
 
 # =========================================================
-# انتخاب منبع قیمت: جمعه نوسان، روزهای دیگر ابتدا TGJU
+# قیمت‌ها: اول TGJU، سپس نوسان در صورت نیاز
 # =========================================================
+
 def get_official_prices():
-    global PRICE_SOURCE_USED, PRICE_SOURCE_REASON
-    now = datetime.now(TEHRAN)
+    global LAST_PRICE_META
 
-    # در پایتون، جمعه برابر با weekday() == 4 است.
-    if now.weekday() == 4:
-        print("Friday detected: using Navasan as the price source.")
-        PRICE_SOURCE_USED = "Navasan"
-        PRICE_SOURCE_REASON = "روز جمعه؛ منبع جایگزین"
-        return get_navasan_prices()
+    asset_sources = {
+        "gold18": ("gold", "طلای ۱۸ عیار"),
+        "dollar": ("currency", "دلار آزاد"),
+        "coin": ("coin", "سکه امامی"),
+        "half": ("coin", "نیم‌سکه"),
+        "quarter": ("coin", "ربع‌سکه"),
+    }
 
-    try:
-        result = {}
-        result["gold18"] = get_latest_asset_price("gold", "gold18")["price"]
-        result["dollar"] = get_latest_asset_price("currency", "dollar")["price"]
-        result["coin"] = get_latest_asset_price("coin", "coin")["price"]
-        result["half"] = get_latest_asset_price("coin", "half")["price"]
-        result["quarter"] = get_latest_asset_price("coin", "quarter")["price"]
+    prices = {}
+    metadata = {}
 
-        PRICE_SOURCE_USED = "TGJU"
-        PRICE_SOURCE_REASON = ""
-        print("LATEST FRESH TGJU INSTANT PRICES:")
-        print(json.dumps(result, ensure_ascii=False, indent=2))
-        return result
+    for asset, (channel_key, display_name) in asset_sources.items():
+        try:
+            record = get_latest_asset_price(
+                channel_key,
+                asset,
+            )
+            print(
+                f"Using fresh TGJU price for {display_name}."
+            )
 
-    except Exception as error:
-        print("TGJU rates unavailable or too old:", error)
-        print("Switching all prices to Navasan to keep the post consistent.")
-        fallback_prices = get_navasan_prices()
-        PRICE_SOURCE_USED = "Navasan"
-        PRICE_SOURCE_REASON = "نرخ تازه در منبع اصلی پیدا نشد"
-        return fallback_prices
+        except Exception as tgju_error:
+            print(
+                f"TGJU price for {display_name} is "
+                f"stale/unavailable: {tgju_error}"
+            )
+            print(
+                f"Checking Navasan for {display_name}..."
+            )
+
+            try:
+                record = get_latest_navasan_asset_price(
+                    asset
+                )
+
+            except Exception as navasan_error:
+                raise RuntimeError(
+                    f"قیمت به‌روز {display_name} از هیچ‌کدام "
+                    f"از منابع دریافت نشد. "
+                    f"TGJU: {tgju_error}; "
+                    f"نوسان: {navasan_error}"
+                ) from navasan_error
+
+            print(
+                f"Using fresh Navasan fallback for {display_name}."
+            )
+
+        prices[asset] = record["price"]
+
+        metadata[asset] = {
+            "source": record["source"],
+            "link": record.get("link", ""),
+            "posted_at": record.get("posted_at"),
+            "message_id": record.get("message_id"),
+        }
+
+    LAST_PRICE_META = metadata
+
+    print("================================")
+    print(
+        "LATEST FRESH PRICES "
+        "(TGJU FIRST, NAVASAN FALLBACK):"
+    )
+    print(
+        json.dumps(
+            prices,
+            ensure_ascii=False,
+            indent=2,
+        )
+    )
+
+    for asset, info in metadata.items():
+        posted_at = info["posted_at"]
+
+        print(
+            asset,
+            "->",
+            info["source"],
+            "|",
+            posted_at.strftime("%Y-%m-%d %H:%M")
+            if posted_at
+            else "UNKNOWN",
+            "|",
+            info["link"],
+        )
+
+    return prices
 
 
 def get_all_prices():
-    """برای سازگاری با daily_analysis.py نیز از منطق اصلی و جایگزین استفاده می‌کند."""
+    """
+    سازگاری با daily_analysis.py.
+    ابتدا قیمت به‌روز TGJU و سپس در صورت نیاز نوسان.
+    """
     return get_official_prices()
 
 
 # =========================================================
-# ذخیرهٔ قیمت‌های قبلی برای محاسبه تغییرات
+# قیمت‌های قبلی
 # =========================================================
+
 def load_previous_prices():
     if not os.path.exists(PREVIOUS_FILE):
         return None
+
     try:
-        with open(PREVIOUS_FILE, "r", encoding="utf-8") as file:
-            return json.load(file)
+        with open(
+            PREVIOUS_FILE,
+            "r",
+            encoding="utf-8",
+        ) as file:
+            data = json.load(file)
+
+        return data if isinstance(data, dict) else None
+
     except Exception as error:
-        print("Could not load previous prices:", error)
+        print(
+            "Could not load previous prices:",
+            error,
+        )
         return None
 
 
 def save_current_prices(prices):
-    saved_prices = dict(prices)
-    saved_prices["_source"] = PRICE_SOURCE_USED
-    with open(PREVIOUS_FILE, "w", encoding="utf-8") as file:
-        json.dump(saved_prices, file, ensure_ascii=False, indent=2)
+    numeric_prices = {
+        key: prices[key]
+        for key in (
+            "gold18",
+            "dollar",
+            "coin",
+            "half",
+            "quarter",
+        )
+        if key in prices
+    }
+
+    with open(
+        PREVIOUS_FILE,
+        "w",
+        encoding="utf-8",
+    ) as file:
+        json.dump(
+            numeric_prices,
+            file,
+            ensure_ascii=False,
+            indent=2,
+        )
 
 
 # =========================================================
-# وضعیت ارسال در تلگرام و ایتا
+# وضعیت ارسال
 # =========================================================
+
 def load_send_status():
     if not os.path.exists(STATUS_FILE):
         return {}
+
     try:
-        with open(STATUS_FILE, "r", encoding="utf-8") as file:
+        with open(
+            STATUS_FILE,
+            "r",
+            encoding="utf-8",
+        ) as file:
             data = json.load(file)
+
         return data if isinstance(data, dict) else {}
+
     except Exception as error:
-        print("Could not load send status:", error)
+        print(
+            "Could not load send status:",
+            error,
+        )
         return {}
 
 
 def save_send_status(status):
-    with open(STATUS_FILE, "w", encoding="utf-8") as file:
-        json.dump(status, file, ensure_ascii=False, indent=2)
+    with open(
+        STATUS_FILE,
+        "w",
+        encoding="utf-8",
+    ) as file:
+        json.dump(
+            status,
+            file,
+            ensure_ascii=False,
+            indent=2,
+        )
 
 
 def mark_telegram_sent(slot):
     status = load_send_status()
     status["telegram_hourly"] = {
         "slot": slot,
-        "sent_at": datetime.now(TEHRAN).isoformat(),
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
     }
     save_send_status(status)
 
@@ -475,7 +873,9 @@ def mark_eitaa_sent(slot):
     status = load_send_status()
     status["eitaa_hourly"] = {
         "slot": slot,
-        "sent_at": datetime.now(TEHRAN).isoformat(),
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
     }
     save_send_status(status)
 
@@ -484,95 +884,96 @@ def mark_hourly_complete(slot):
     status = load_send_status()
     status["hourly"] = {
         "slot": slot,
-        "sent_at": datetime.now(TEHRAN).isoformat(),
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
     }
     save_send_status(status)
 
 
 # =========================================================
-# تغییر قیمت نسبت به ثبت قبلی
+# متن تغییر قیمت و اطلاعات منبع
 # =========================================================
+
 def change_text(current, previous):
     if previous is None:
         return "🆕 اولین ثبت"
-    difference = current - previous
+
+    try:
+        difference = int(current) - int(previous)
+    except (ValueError, TypeError):
+        return "⚪ تغییر قابل محاسبه نیست"
+
     if difference > 0:
         return f"🟢 ▲ +{difference:,} تومان"
+
     if difference < 0:
         return f"🔴 ▼ {difference:,} تومان"
+
     return "⚪ ➖ بدون تغییر"
 
 
+def source_info(asset):
+    info = LAST_PRICE_META.get(asset, {})
+    source = info.get("source", "منبع نامشخص")
+    posted_at = info.get("posted_at")
+
+    time_text = (
+        posted_at.astimezone(TEHRAN).strftime("%H:%M")
+        if posted_at
+        else "نامشخص"
+    )
+
+    return f"📡 منبع: {source} | زمان پست: {time_text}"
+
+
 # =========================================================
-# ساخت پست قیمت
+# ساخت پیام قیمت
 # =========================================================
+
 def build_message(prices, previous):
     previous = previous or {}
     update_time = datetime.now(TEHRAN).strftime("%H:%M")
-    source_header = (
-        "💎 آخرین قیمت لحظه‌ای رسمی TGJU"
-        if PRICE_SOURCE_USED == "TGJU"
-        else "💎 قیمت لحظه‌ای از منبع جایگزین نوسان"
-    )
-
-    previous_source = previous.get("_source")
-    source_changed = bool(previous) and (
-        not previous_source or previous_source != PRICE_SOURCE_USED
-    )
-
-    def change_for(asset):
-        if source_changed:
-            return "⚪ مقایسه با ساعت قبل به‌دلیل تغییر منبع انجام نشد"
-        return change_text(prices[asset], previous.get(asset))
-
-    if PRICE_SOURCE_USED == "TGJU":
-        source_footer = (
-            "📊 منبع قیمت: TGJU\n"
-            "🔸 طلا: https://t.me/tgjugold\n"
-            "🔸 سکه: https://t.me/tgjucoin\n"
-            "🔸 ارز: https://t.me/tgjucurrency"
-        )
-    else:
-        reason_line = (
-            f"📝 علت استفاده از نوسان: {PRICE_SOURCE_REASON}\n"
-            if PRICE_SOURCE_REASON else ""
-        )
-        source_footer = (
-            "📊 منبع قیمت: کانال نوسان\n"
-            f"🔗 {NAVASAN_URL}\n"
-            + reason_line.rstrip()
-        ).strip()
 
     return f"""🌙✨ زرین ماه
-{source_header}
+💎 قیمت‌های به‌روز از آخرین پست منابع
 
 ━━━━━━━━━━━━━━━━━━
 
 🟡 طلای ۱۸ عیار
 💰 {prices["gold18"]:,} تومان
-{change_for("gold18")}
+{change_text(prices["gold18"], previous.get("gold18"))}
+{source_info("gold18")}
 
 🪙 سکه امامی
 💰 {prices["coin"]:,} تومان
-{change_for("coin")}
+{change_text(prices["coin"], previous.get("coin"))}
+{source_info("coin")}
 
 🪙 نیم‌سکه
 💰 {prices["half"]:,} تومان
-{change_for("half")}
+{change_text(prices["half"], previous.get("half"))}
+{source_info("half")}
 
 🪙 ربع‌سکه
 💰 {prices["quarter"]:,} تومان
-{change_for("quarter")}
+{change_text(prices["quarter"], previous.get("quarter"))}
+{source_info("quarter")}
 
 💵 دلار آزاد
 💰 {prices["dollar"]:,} تومان
-{change_for("dollar")}
+{change_text(prices["dollar"], previous.get("dollar"))}
+{source_info("dollar")}
 
 ━━━━━━━━━━━━━━━━━━
 
-🕒 آخرین بروزرسانی: {update_time}
+🕒 زمان بررسی ربات: {update_time}
+📊 اولویت منبع: TGJU؛ در صورت قدیمی بودن، نوسان
 
-{source_footer}
+🔸 TGJU طلا: https://t.me/tgjugold
+🔸 TGJU سکه: https://t.me/tgjucoin
+🔸 TGJU ارز: https://t.me/tgjucurrency
+🔸 نوسان (منبع جایگزین): https://t.me/navasanchannel
 
 ━━━━━━━━━━━━━━━━━━
 
@@ -586,88 +987,163 @@ def build_message(prices, previous):
 # =========================================================
 # ارسال به تلگرام
 # =========================================================
+
 def send_to_telegram(message):
     if not BOT_TOKEN:
-        raise RuntimeError("TELEGRAM_BOT_TOKEN تنظیم نشده است.")
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    response = requests.post(
-        url,
-        data={"chat_id": CHANNEL, "text": message},
-        timeout=30,
+        raise RuntimeError(
+            "TELEGRAM_BOT_TOKEN تنظیم نشده است."
+        )
+
+    url = (
+        f"https://api.telegram.org/"
+        f"bot{BOT_TOKEN}/sendMessage"
     )
-    print("Telegram HTTP status:", response.status_code)
-    print("Telegram response:", response.text)
-    response.raise_for_status()
-    result = response.json()
-    if not result.get("ok"):
-        raise RuntimeError(f"Telegram API error: {result}")
 
-
-# =========================================================
-# ارسال به ایتایار
-# =========================================================
-def send_to_eitaa(message):
-    if not EITAAYAR_TOKEN:
-        raise RuntimeError("EITAAYAR_TOKEN تنظیم نشده است.")
-    if not EITAA_CHAT_ID:
-        raise RuntimeError("EITAA_CHAT_ID تنظیم نشده است.")
-
-    url = f"https://eitaayar.ir/api/{EITAAYAR_TOKEN}/sendMessage"
     response = requests.post(
         url,
         data={
-            "chat_id": EITAA_CHAT_ID.strip().lstrip("@"),
+            "chat_id": CHANNEL,
             "text": message,
         },
         timeout=30,
     )
-    print("Eitaa HTTP status:", response.status_code)
-    print("Eitaa response:", response.text)
+
+    print(
+        "Telegram HTTP status:",
+        response.status_code,
+    )
+
     response.raise_for_status()
-    try:
-        result = response.json()
-    except ValueError as error:
-        raise RuntimeError("Eitaa API پاسخ JSON معتبر برنگرداند.") from error
+    result = response.json()
+
     if not result.get("ok"):
-        raise RuntimeError(f"Eitaa API error: {result}")
-    print("Eitaa message sent successfully.")
+        raise RuntimeError(
+            f"Telegram API error: {result}"
+        )
+
     return result
 
 
 # =========================================================
-# اجرای اصلی ربات ساعتی
+# ارسال به ایتا
 # =========================================================
+
+def send_to_eitaa(message):
+    if not EITAAYAR_TOKEN:
+        raise RuntimeError(
+            "EITAAYAR_TOKEN تنظیم نشده است."
+        )
+
+    if not EITAA_CHAT_ID:
+        raise RuntimeError(
+            "EITAA_CHAT_ID تنظیم نشده است."
+        )
+
+    url = (
+        f"https://eitaayar.ir/api/"
+        f"{EITAAYAR_TOKEN}/sendMessage"
+    )
+
+    response = requests.post(
+        url,
+        data={
+            "chat_id": EITAA_CHAT_ID,
+            "text": message,
+        },
+        timeout=30,
+    )
+
+    print(
+        "Eitaa HTTP status:",
+        response.status_code,
+    )
+    print("Eitaa response:", response.text)
+
+    response.raise_for_status()
+
+    try:
+        result = response.json()
+    except ValueError as error:
+        raise RuntimeError(
+            "Eitaa API پاسخ JSON معتبر برنگرداند."
+        ) from error
+
+    if not result.get("ok"):
+        raise RuntimeError(
+            f"Eitaa API error: {result}"
+        )
+
+    return result
+
+
+# =========================================================
+# اجرای اصلی
+# =========================================================
+
 def main():
     print("=================================")
-    print("Starting ZarinMah TGJU + Navasan + Telegram + Eitaa bot...")
+    print(
+        "Starting ZarinMah "
+        "TGJU -> Navasan price bot..."
+    )
     print("=================================")
 
-    scheduled_run = os.environ.get("SCHEDULED_RUN") == "true"
-    watchdog_retry = os.environ.get("WATCHDOG_RETRY") == "true"
+    scheduled_run = (
+        os.environ.get("SCHEDULED_RUN") == "true"
+    )
+    watchdog_retry = (
+        os.environ.get("WATCHDOG_RETRY") == "true"
+    )
+
     now = datetime.now(TEHRAN)
-    print("Tehran time:", now.strftime("%Y-%m-%d %H:%M:%S"))
+    print(
+        "Tehran time:",
+        now.strftime("%Y-%m-%d %H:%M:%S"),
+    )
 
     current_slot = now.strftime("%Y-%m-%d %H")
 
-    # خاموشی زمان‌بندی‌شده از ۲۲:۰۰ تا ۰۸:۵۹ تهران
+    # خاموشی زمان‌بندی‌شده از ۲۲:۰۰ تا ۰۸:۵۹ به وقت تهران
     if scheduled_run or watchdog_retry:
         if now.hour >= 22 or now.hour < 9:
-            print("Price bot is disabled between 22:00 and 08:59 Tehran time.")
+            print(
+                "Price bot disabled between "
+                "22:00 and 08:59 Tehran time."
+            )
             return
 
     status = load_send_status()
-    telegram_sent = status.get("telegram_hourly", {}).get("slot") == current_slot
-    eitaa_sent = status.get("eitaa_hourly", {}).get("slot") == current_slot
-    fully_sent = status.get("hourly", {}).get("slot") == current_slot
+
+    telegram_sent = (
+        status.get("telegram_hourly", {}).get("slot")
+        == current_slot
+    )
+    eitaa_sent = (
+        status.get("eitaa_hourly", {}).get("slot")
+        == current_slot
+    )
+    fully_sent = (
+        status.get("hourly", {}).get("slot")
+        == current_slot
+    )
 
     if (scheduled_run or watchdog_retry) and fully_sent:
-        print(f"Hourly post for {current_slot} has already been sent to all destinations.")
-        print("Skipping duplicate message.")
+        print(
+            f"Hourly post for {current_slot} "
+            "already sent to all destinations; skipping."
+        )
         return
 
     previous = load_previous_prices()
+
+    # برای هر دارایی اول TGJU بررسی می‌شود.
+    # اگر قدیمی/نامعتبر باشد، نوسان جایگزین می‌شود.
     prices = get_official_prices()
-    message = build_message(prices, previous)
+
+    message = build_message(
+        prices,
+        previous,
+    )
 
     if not telegram_sent:
         print("Sending price message to Telegram...")
@@ -676,14 +1152,22 @@ def main():
         telegram_sent = True
         print("Telegram message sent successfully.")
     else:
-        print(f"Telegram message for {current_slot} already sent.")
+        print(
+            f"Telegram message for {current_slot} "
+            "already sent; skipping."
+        )
 
     if not eitaa_sent:
+        print("Sending price message to Eitaa...")
         send_to_eitaa(message)
         mark_eitaa_sent(current_slot)
         eitaa_sent = True
+        print("Eitaa message sent successfully.")
     else:
-        print(f"Eitaa message for {current_slot} already sent.")
+        print(
+            f"Eitaa message for {current_slot} "
+            "already sent; skipping."
+        )
 
     if telegram_sent and eitaa_sent:
         mark_hourly_complete(current_slot)
