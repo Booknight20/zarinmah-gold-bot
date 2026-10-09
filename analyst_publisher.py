@@ -1,701 +1,443 @@
-import hashlib
 import html
 import json
 import os
+import re
+import sys
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
 import requests
 
 
-TEHRAN_TZ = ZoneInfo(
-    "Asia/Tehran"
-)
+TEHRAN_TZ = ZoneInfo("Asia/Tehran")
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+EITAAYAR_TOKEN = os.environ.get("EITAAYAR_TOKEN", "").strip()
+EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID", "").strip().lstrip("@")
+TELEGRAM_CHANNEL = "@ZarinMahGold"
+READY_FILE = "analyst_ready.json"
+PUBLISHED_FILE = "analyst_published.json"
 
-INPUT_FILE = (
-    "analyst_ready.json"
-)
-
-PUBLISHED_FILE = (
-    "analyst_published.json"
-)
-
-CHANNEL = "@ZarinMahGold"
-
-MAX_ANALYSES_PER_RUN = 1
-
-TELEGRAM_BOT_TOKEN = os.environ.get(
-    "TELEGRAM_BOT_TOKEN"
-)
-
-EITAAYAR_TOKEN = os.environ.get(
-    "EITAAYAR_TOKEN"
-)
-
-EITAA_CHAT_ID = os.environ.get(
-    "EITAA_CHAT_ID"
-)
-
-EITAA_API_URL = "https://eitaayar.ir/api"
+SEPARATOR = "━━━━━━━━━━━━━━━━━━"
 
 
 def now_iso():
-    return datetime.now(
-        TEHRAN_TZ
-    ).isoformat()
+    return datetime.now(TEHRAN_TZ).isoformat()
 
 
-def load_json(
-    filename,
-    default,
-):
-    if not os.path.exists(
-        filename
-    ):
+def load_json(path, default):
+    if not os.path.exists(path):
         return default
-
     try:
-        with open(
-            filename,
-            "r",
-            encoding="utf-8",
-        ) as file:
-            return json.load(file)
-
+        with open(path, "r", encoding="utf-8") as file:
+            data = json.load(file)
+        return data
     except Exception as error:
-        print(
-            f"Could not load {filename}:",
-            error,
-        )
+        print(f"Could not read {path}:", error)
         return default
 
 
-def save_json(
-    filename,
-    data,
-):
-    with open(
-        filename,
-        "w",
-        encoding="utf-8",
-    ) as file:
-        json.dump(
-            data,
-            file,
-            ensure_ascii=False,
-            indent=2,
-        )
+def save_json(path, data):
+    temporary = f"{path}.tmp"
+    with open(temporary, "w", encoding="utf-8") as file:
+        json.dump(data, file, ensure_ascii=False, indent=2)
+    os.replace(temporary, path)
 
 
-def create_id(item):
-    base = (
-        item.get("link")
-        or item.get("title")
-        or ""
-    )
+def prepare_published_state():
+    """فرمت قبلی فایل وضعیت را تا جای ممکن حفظ می‌کند."""
+    data = load_json(PUBLISHED_FILE, {})
 
-    return hashlib.sha256(
-        base.encode("utf-8")
-    ).hexdigest()
+    if isinstance(data, list):
+        mapped = {}
+        for item in data:
+            if isinstance(item, dict):
+                key = item.get("link") or item.get("key")
+                if key:
+                    mapped[str(key)] = item
+        data = {"items": mapped}
 
+    if not isinstance(data, dict):
+        data = {}
 
-def build_message(item):
-    analyst = html.escape(
-        str(
-            item.get(
-                "analyst",
-                "",
+    for container_name in ("items", "published", "posts", "analyses"):
+        if isinstance(data.get(container_name), dict):
+            return data, data[container_name], container_name
+
+    # اگر فایل قدیمی مستقیماً با لینک پست‌ها کلیدگذاری شده،
+    # همان قالب را حفظ می‌کنیم.
+    looks_like_record_map = any(
+        isinstance(value, dict)
+        and any(
+            key in value
+            for key in (
+                "telegram_message_id", "eitaa_message_id",
+                "telegram_sent_at", "eitaa_sent_at",
+                "item", "telegram_sent", "eitaa_sent",
             )
         )
+        for value in data.values()
     )
 
-    title = html.escape(
-        str(
-            item.get(
-                "title",
-                "",
-            )
+    if looks_like_record_map or not data:
+        return data, data, None
+
+    # متادیتای یک فایل قدیمی را نگه می‌داریم و آیتم‌ها را در items ذخیره می‌کنیم.
+    data["items"] = {}
+    return data, data["items"], "items"
+
+
+def published_is_sent(record, destination):
+    return bool(
+        record.get(f"{destination}_sent")
+        or record.get(f"{destination}_message_id")
+        or record.get(f"{destination}_sent_at")
+    )
+
+
+def item_key(item):
+    link = str(item.get("link", "")).strip()
+    if link:
+        return link
+
+    analyst = str(
+        item.get("analyst") or item.get("source") or "تحلیلگر"
+    ).strip()
+    title = str(item.get("title", "")).strip()
+    collected_at = str(item.get("collected_at", "")).strip()
+    return f"{analyst}|{title}|{collected_at}"
+
+
+def clean_display_text(value, fallback=""):
+    text = str(value or fallback).strip()
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text
+
+
+def compact_telegram_link(link):
+    """لینک پست تلگرام را بدون پارامترهای اضافه کوتاه و استاندارد می‌کند."""
+    link = str(link or "").strip()
+    match = re.search(
+        r"(?:https?://)?(?:www\.)?t\.me/([A-Za-z0-9_]+)/([0-9]+)",
+        link,
+    )
+    if match:
+        return f"https://t.me/{match.group(1)}/{match.group(2)}"
+    return link
+
+
+def format_collected_at(value):
+    if not value:
+        return ""
+    try:
+        dt = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=TEHRAN_TZ)
+        dt = dt.astimezone(TEHRAN_TZ)
+        return dt.strftime("%Y/%m/%d - %H:%M")
+    except Exception:
+        return str(value)
+
+
+def get_topics(item):
+    matches = item.get("market_matches", [])
+    if not isinstance(matches, list):
+        return []
+
+    result = []
+    seen = set()
+
+    for value in matches:
+        topic = clean_display_text(value)
+        normalized = topic.replace("‌", " ").strip().lower()
+        if topic and normalized not in seen:
+            seen.add(normalized)
+            result.append(topic)
+        if len(result) >= 5:
+            break
+
+    return result
+
+
+def build_telegram_message(item):
+    analyst = clean_display_text(
+        item.get("analyst") or item.get("source"),
+        "تحلیلگر بازار",
+    )
+    title = clean_display_text(
+        item.get("title"),
+        "مرور دیدگاه جدید بازار",
+    )
+    summary = clean_display_text(
+        item.get("summary"),
+        "چکیده‌ای از متن اصلی در دسترس نیست.",
+    )
+    link = compact_telegram_link(item.get("link"))
+    collected_at = format_collected_at(item.get("collected_at"))
+    topics = get_topics(item)
+
+    parts = [
+        "🌙✨ <b>زرین ماه | دیدگاه تحلیلگران</b>",
+        SEPARATOR,
+        f"👤 <b>تحلیلگر:</b> {html.escape(analyst)}",
+        f"🧭 <b>موضوع:</b> {html.escape(title)}",
+    ]
+
+    if topics:
+        parts.append(
+            "🔎 <b>محورهای مطرح‌شده:</b> "
+            + " • ".join(html.escape(x) for x in topics)
         )
-    )
 
-    summary = html.escape(
-        str(
-            item.get(
-                "summary",
-                "",
-            )
+    parts.extend([
+        SEPARATOR,
+        "📝 <b>چکیده دیدگاه</b>",
+        html.escape(summary),
+        SEPARATOR,
+    ])
+
+    if link:
+        parts.append(
+            f'🔗 <a href="{html.escape(link, quote=True)}">'
+            "مشاهده پست اصلی</a>"
         )
-    )
 
-    link = html.escape(
-        str(
-            item.get(
-                "link",
-                "",
-            )
-        ),
-        quote=True,
-    )
+    if collected_at:
+        parts.append(
+            f"🕒 <b>زمان دریافت:</b> {html.escape(collected_at)}"
+        )
 
-    return (
-        "🌙 <b>زرین ماه</b>\n\n"
-        "📊 <b>تحلیل بازار</b>\n\n"
-        f"📰 <b>{title}</b>\n\n"
-        f"{summary}\n\n"
-        f"📌 <b>تحلیلگر:</b> {analyst}\n"
-        f'<a href="{link}">🔗 مشاهده تحلیل کامل</a>\n\n'
-        "🌙 <b>برای دنبال‌کردن اخبار و تحلیل‌های بیشتر زرین ماه:</b>\n\n"
-        '<a href="https://t.me/Zarimahgold">'
-        "🔗 عضویت در کانال تلگرام زرین ماه"
-        "</a>"
-    )
+    parts.extend([
+        "⚠️ <i>این مطلب بازتاب دیدگاه تحلیلگر منبع است و توصیه خریدوفروش زرین ماه نیست.</i>",
+        "",
+        "🌙 <b>زرین ماه</b> | ویترین طلای کم‌اجرت",
+        "📲 @ZarinMahGold",
+    ])
+
+    return "\n\n".join(parts)
 
 
 def build_eitaa_message(item):
-    analyst = str(
-        item.get(
-            "analyst",
-            "",
-        )
-    ).strip()
-
-    title = str(
-        item.get(
-            "title",
-            "",
-        )
-    ).strip()
-
-    summary = str(
-        item.get(
-            "summary",
-            "",
-        )
-    ).strip()
-
-    link = str(
-        item.get(
-            "link",
-            "",
-        )
-    ).strip()
-
-    return (
-        "🌙 زرین ماه\n\n"
-        "📊 تحلیل بازار\n\n"
-        f"📰 {title}\n\n"
-        f"{summary}\n\n"
-        f"📌 تحلیلگر: {analyst}\n"
-        f"🔗 مشاهده تحلیل کامل:\n{link}\n\n"
-        "🌙 برای دنبال‌کردن اخبار و تحلیل‌های بیشتر زرین ماه"
+    analyst = clean_display_text(
+        item.get("analyst") or item.get("source"),
+        "تحلیلگر بازار",
     )
+    title = clean_display_text(
+        item.get("title"),
+        "مرور دیدگاه جدید بازار",
+    )
+    summary = clean_display_text(
+        item.get("summary"),
+        "چکیده‌ای از متن اصلی در دسترس نیست.",
+    )
+    link = compact_telegram_link(item.get("link"))
+    collected_at = format_collected_at(item.get("collected_at"))
+    topics = get_topics(item)
 
+    parts = [
+        "🌙✨ زرین ماه | دیدگاه تحلیلگران",
+        SEPARATOR,
+        f"👤 تحلیلگر: {analyst}",
+        f"🧭 موضوع: {title}",
+    ]
 
-def send_to_telegram(
-    message
-):
-    if not TELEGRAM_BOT_TOKEN:
-        raise RuntimeError(
-            "TELEGRAM_BOT_TOKEN is missing."
+    if topics:
+        parts.append(
+            "🔎 محورهای مطرح‌شده: " + " • ".join(topics)
         )
 
-    url = (
-        "https://api.telegram.org/bot"
-        f"{TELEGRAM_BOT_TOKEN}/sendMessage"
-    )
+    parts.extend([
+        SEPARATOR,
+        "📝 چکیده دیدگاه",
+        summary,
+        SEPARATOR,
+    ])
 
-    payload = {
-        "chat_id": CHANNEL,
-        "text": message,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": True,
-    }
+    if link:
+        parts.append(f"🔗 پست اصلی: {link}")
+
+    if collected_at:
+        parts.append(f"🕒 زمان دریافت: {collected_at}")
+
+    parts.extend([
+        "⚠️ این مطلب بازتاب دیدگاه تحلیلگر منبع است و توصیه خریدوفروش زرین ماه نیست.",
+        "",
+        "🌙 زرین ماه | ویترین طلای کم‌اجرت",
+        "📲 @ZarinMahGold",
+    ])
+
+    return "\n\n".join(parts)
+
+
+def send_to_telegram(item):
+    if not BOT_TOKEN:
+        raise RuntimeError("TELEGRAM_BOT_TOKEN تنظیم نشده است.")
 
     response = requests.post(
-        url,
-        json=payload,
+        f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
+        json={
+            "chat_id": TELEGRAM_CHANNEL,
+            "text": build_telegram_message(item),
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+        },
         timeout=30,
     )
-
-    print(
-        "Telegram HTTP status:",
-        response.status_code,
-    )
-
-    print(
-        "Telegram response:",
-        response.text,
-    )
-
-    if response.status_code != 200:
-        raise RuntimeError(
-            "Telegram message failed."
-        )
+    response.raise_for_status()
 
     result = response.json()
+    if not result.get("ok"):
+        raise RuntimeError(f"Telegram API error: {result}")
 
-    if not result.get(
-        "ok"
-    ):
-        raise RuntimeError(
-            "Telegram API returned ok=false."
-        )
-
-    return result
+    return result.get("result", {}).get("message_id")
 
 
-def send_to_eitaa(
-    message
-):
+def send_to_eitaa(item):
     if not EITAAYAR_TOKEN:
-        raise RuntimeError(
-            "EITAAYAR_TOKEN is missing."
-        )
-
+        raise RuntimeError("EITAAYAR_TOKEN تنظیم نشده است.")
     if not EITAA_CHAT_ID:
-        raise RuntimeError(
-            "EITAA_CHAT_ID is missing."
-        )
-
-    token = EITAAYAR_TOKEN.strip()
-
-    chat_id = EITAA_CHAT_ID.strip()
-
-    chat_id = chat_id.lstrip("@")
-
-    url = (
-        f"{EITAA_API_URL}/"
-        f"{token}/sendMessage"
-    )
-
-    payload = {
-        "chat_id": chat_id,
-        "text": message,
-    }
-
-    print(
-        "Sending analyst message to Eitaa..."
-    )
+        raise RuntimeError("EITAA_CHAT_ID تنظیم نشده است.")
 
     response = requests.post(
-        url,
-        data=payload,
+        f"https://eitaayar.ir/api/{EITAAYAR_TOKEN}/sendMessage",
+        data={
+            "chat_id": EITAA_CHAT_ID,
+            "text": build_eitaa_message(item),
+        },
         timeout=30,
     )
-
-    print(
-        "Eitaa HTTP status:",
-        response.status_code,
-    )
-
-    print(
-        "Eitaa response:",
-        response.text,
-    )
-
-    if response.status_code != 200:
-        raise RuntimeError(
-            "Eitaa HTTP request failed."
-        )
+    response.raise_for_status()
 
     try:
         result = response.json()
-
-    except ValueError:
+    except ValueError as error:
         raise RuntimeError(
-            "Eitaa API returned invalid JSON."
-        )
+            "Eitaa API پاسخ JSON معتبر برنگرداند."
+        ) from error
 
-    if not result.get(
-        "ok"
-    ):
-        raise RuntimeError(
-            f"Eitaa API returned ok=false: {result}"
-        )
+    if not result.get("ok"):
+        raise RuntimeError(f"Eitaa API error: {result}")
 
-    print(
-        "Eitaa analyst message sent successfully."
-    )
+    payload = result.get("result", {})
+    if isinstance(payload, dict):
+        return payload.get("message_id") or payload.get("id")
 
-    return result
+    return result.get("message_id")
 
 
 def main():
-    print(
-        "==================================="
-    )
+    print("===================================")
+    print("ZarinMah Analyst Publisher")
+    print("===================================")
 
-    print(
-        "ZarinMah Analyst Publisher"
-    )
-
-    print(
-        "==================================="
-    )
-
-    if not TELEGRAM_BOT_TOKEN:
+    ready_data = load_json(READY_FILE, [])
+    if not isinstance(ready_data, list):
         raise RuntimeError(
-            "TELEGRAM_BOT_TOKEN is missing."
+            f"{READY_FILE} باید شامل یک فهرست JSON باشد."
         )
 
-    if not EITAAYAR_TOKEN:
-        raise RuntimeError(
-            "EITAAYAR_TOKEN is missing."
-        )
+    state, published, container_name = prepare_published_state()
 
-    if not EITAA_CHAT_ID:
-        raise RuntimeError(
-            "EITAA_CHAT_ID is missing."
-        )
+    # علاوه بر آیتم‌های جدید، تحلیل‌هایی که ارسالشان در اجرای قبلی ناقص مانده
+    # نیز از analyst_published.json دوباره امتحان می‌شوند.
+    work = {}
 
-    analyses = load_json(
-        INPUT_FILE,
-        [],
-    )
+    for item in ready_data:
+        if isinstance(item, dict):
+            work[item_key(item)] = item
 
-    published = load_json(
-        PUBLISHED_FILE,
-        {},
-    )
+    for key, record in list(published.items()):
+        if not isinstance(record, dict):
+            continue
 
-    if not isinstance(
-        published,
-        dict,
-    ):
-        published = {}
+        stored_item = record.get("item")
+        if isinstance(stored_item, dict) and not (
+            published_is_sent(record, "telegram")
+            and published_is_sent(record, "eitaa")
+        ):
+            work.setdefault(str(key), stored_item)
 
-    if "__meta__" not in published:
-        published["__meta__"] = {
-            "initialized_at": now_iso()
-        }
-
-        save_json(
-            PUBLISHED_FILE,
-            published,
-        )
-
-        print(
-            "Analyst publisher initialized."
-        )
-
-        print(
-            "No old analyses will be published."
-        )
-
+    if not work:
+        print("No new or pending analyst summaries to publish.")
         return
 
-    high_priority = [
-        item
-        for item in analyses
-        if item.get(
-            "priority"
-        ) == "high"
-    ]
+    errors = []
 
-    high_priority.sort(
-        key=lambda item: item.get(
-            "analysis_score",
-            0,
-        ),
-        reverse=True,
-    )
+    for key, item in work.items():
+        record = published.get(key)
 
-    sent = 0
-    failed = 0
-
-    for item in high_priority:
-
-        if (
-            sent
-            >= MAX_ANALYSES_PER_RUN
-        ):
-            print(
-                "Maximum analyses per run reached."
-            )
-            break
-
-        analysis_id = create_id(
-            item
-        )
-
-        record = published.get(
-            analysis_id,
-            {},
-        )
-
-        if not isinstance(
-            record,
-            dict,
-        ):
+        if not isinstance(record, dict):
             record = {}
+            published[key] = record
 
-        telegram_message_id = (
-            record.get(
-                "telegram_message_id"
-            )
-        )
+        # نسخه کامل آیتم ذخیره می‌شود تا در صورت خطای ارسال قابل تلاش مجدد باشد.
+        record["item"] = item
+        record.setdefault("first_seen_at", now_iso())
 
-        eitaa_message_id = (
-            record.get(
-                "eitaa_message_id"
-            )
-        )
-
-        fully_published = (
-            telegram_message_id is not None
-            and eitaa_message_id is not None
-        )
-
-        if fully_published:
-            print(
-                "Analysis already published "
-                "to Telegram and Eitaa:"
-            )
-            print(
-                item.get(
-                    "title",
-                    "",
-                )
-            )
-            continue
-
-        telegram_message = build_message(
-            item
-        )
-
-        eitaa_message = build_eitaa_message(
-            item
-        )
-
-        if not telegram_message.strip():
-            print(
-                "Empty Telegram message. Skipping."
-            )
-            continue
-
-        if not eitaa_message.strip():
-            print(
-                "Empty Eitaa message. Skipping."
-            )
-            continue
-
-        print()
         print(
-            "Publishing analysis:",
-            item.get(
-                "title",
-                "",
-            ),
+            "\nPublishing:",
+            item.get("analyst", "تحلیلگر"),
+            "|",
+            item.get("title", ""),
         )
 
-        # =========================================
-        # Telegram
-        # =========================================
-
-        if telegram_message_id is None:
-
+        if not published_is_sent(record, "telegram"):
             try:
-                telegram_result = (
-                    send_to_telegram(
-                        telegram_message
-                    )
-                )
+                message_id = send_to_telegram(item)
+                record["telegram_sent"] = True
+                record["telegram_sent_at"] = now_iso()
 
-                telegram_message_id = (
-                    telegram_result
-                    .get(
-                        "result",
-                        {},
-                    )
-                    .get(
-                        "message_id"
-                    )
-                )
+                if message_id is not None:
+                    record["telegram_message_id"] = message_id
 
-                published[
-                    analysis_id
-                ] = {
-                    "analyst": item.get(
-                        "analyst",
-                        "",
-                    ),
-                    "title": item.get(
-                        "title",
-                        "",
-                    ),
-                    "link": item.get(
-                        "link",
-                        "",
-                    ),
-                    "published_at": now_iso(),
-                    "telegram_message_id":
-                        telegram_message_id,
-                }
-
-                save_json(
-                    PUBLISHED_FILE,
-                    published,
-                )
-
-                print(
-                    "Telegram publication recorded."
-                )
+                print("Telegram: SENT")
 
             except Exception as error:
-                print(
-                    "Telegram publishing failed:",
-                    error,
-                )
+                errors.append(f"Telegram / {key}: {error}")
+                print("Telegram: FAILED:", error)
 
-                failed += 1
-                continue
+            finally:
+                save_json(PUBLISHED_FILE, state)
 
         else:
+            print("Telegram: already sent; skipping duplicate.")
 
-            print(
-                "Telegram already published "
-                "for this analysis."
-            )
-
-        # =========================================
-        # Eitaa
-        # =========================================
-
-        if eitaa_message_id is None:
-
+        if not published_is_sent(record, "eitaa"):
             try:
-                eitaa_result = (
-                    send_to_eitaa(
-                        eitaa_message
-                    )
-                )
+                message_id = send_to_eitaa(item)
+                record["eitaa_sent"] = True
+                record["eitaa_sent_at"] = now_iso()
 
-                eitaa_message_id = (
-                    eitaa_result
-                    .get(
-                        "result",
-                        {},
-                    )
-                    .get(
-                        "message_id"
-                    )
-                )
+                if message_id is not None:
+                    record["eitaa_message_id"] = message_id
 
-                record = published.get(
-                    analysis_id,
-                    {},
-                )
-
-                if not isinstance(
-                    record,
-                    dict,
-                ):
-                    record = {}
-
-                record.update(
-                    {
-                        "analyst": item.get(
-                            "analyst",
-                            "",
-                        ),
-                        "title": item.get(
-                            "title",
-                            "",
-                        ),
-                        "link": item.get(
-                            "link",
-                            "",
-                        ),
-                        "published_at":
-                            record.get(
-                                "published_at",
-                                now_iso(),
-                            ),
-                        "telegram_message_id":
-                            telegram_message_id,
-                        "eitaa_message_id":
-                            eitaa_message_id,
-                    }
-                )
-
-                published[
-                    analysis_id
-                ] = record
-
-                save_json(
-                    PUBLISHED_FILE,
-                    published,
-                )
-
-                print(
-                    "Eitaa publication recorded."
-                )
+                print("Eitaa: SENT")
 
             except Exception as error:
+                errors.append(f"Eitaa / {key}: {error}")
+                print("Eitaa: FAILED:", error)
 
-                print(
-                    "Eitaa publishing failed:",
-                    error,
-                )
-
-                failed += 1
-
-                # تلگرام قبلاً ثبت شده.
-                # اجرای بعدی دوباره تلگرام را
-                # نمی‌فرستد و فقط ایتا را امتحان می‌کند.
-
-                continue
+            finally:
+                save_json(PUBLISHED_FILE, state)
 
         else:
-
-            print(
-                "Eitaa already published "
-                "for this analysis."
-            )
-
-        # =========================================
-        # هر دو مقصد موفق
-        # =========================================
+            print("Eitaa: already sent; skipping duplicate.")
 
         if (
-            telegram_message_id is not None
-            and eitaa_message_id is not None
+            published_is_sent(record, "telegram")
+            and published_is_sent(record, "eitaa")
         ):
-            sent += 1
+            record["published_at"] = record.get("published_at") or now_iso()
 
-            print(
-                "Analysis successfully published "
-                "to Telegram + Eitaa."
-            )
+        save_json(PUBLISHED_FILE, state)
 
-    print()
-    print(
-        "==================================="
-    )
+    if errors:
+        print("\nSome analyst posts could not be published:")
+        for error in errors:
+            print("-", error)
+        sys.exit(1)
 
-    print(
-        "Analyst publishing finished."
-    )
-
-    print(
-        "==================================="
-    )
-
-    print(
-        "Published analyses:",
-        sent,
-    )
-
-    print(
-        "Failed analyses:",
-        failed,
-    )
-
-    if failed:
-        raise RuntimeError(
-            "One or more analyst "
-            "publications failed."
-        )
+    print("\nAll analyst summaries are published to Telegram and Eitaa.")
 
 
 if __name__ == "__main__":
