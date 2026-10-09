@@ -1388,27 +1388,27 @@
     ]
   },
   {
-    "source": "مشرق",
-    "title": "افت ۶۰ درصدی عبور نفت از تنگه هرمز",
-    "link": "https://www.mashreghnews.ir/news/1844250/%D8%A7%D9%81%D8%AA-%DB%B6%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
-    "summary": "عبور نفت از تنگه هرمز در دو روز اخیر به ۳.۸ میلیون بشکه در روز کاهش یافت.",
-    "published": "Wed, 07 Oct 2026 21:00:00 GMT",
-    "collected_at": "2026-10-08T00:44:13.329402+03:30",
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار حباب دارد/ چرا الان دلار نخرید، بهتر است؟",
+    "link": "https://www.khabaronline.ir/news/2285753/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%AF%D8%A7%D8%B1%D8%AF-%DA%86%D8%B1%D8%A7-%D8%A7%D9%84%D8%A7%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%86%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A8%D9%87%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA",
+    "summary": "جیهانی درباره سطح فعلی قیمت دلار گفت: «قیمت های فعلی از نظر بنیادی بالا هستند و در سطوح بالاتر از محدوده ای که بر اساس متغیرهای اقتصادی قابل توجیه است، می توان از حباب صحبت کرد. بنابراین مردم باید نسبت به خریدهای هیجانی در این سطوح احتیاط داشته باشند.»",
+    "published": "Fri, 09 Oct 2026 09:04:00 GMT",
+    "collected_at": "2026-10-09T12:45:50.776492+03:30",
     "market_score": 7,
-    "market_matches": {},
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [
-      "تنگه هرمز"
-    ],
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
     "priority": "low",
     "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "تنگه هرمز"
+    "currency_matches": [
+      "دلار"
     ],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
