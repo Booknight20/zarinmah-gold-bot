@@ -529,6 +529,36 @@
     ]
   },
   {
+    "source": "تابناک",
+    "title": "نفت برنت ۱۰۳ دلاری شد",
+    "link": "https://www.tabnak.ir/fa/news/1397928/نفت-برنت-103-دلاری-شد",
+    "summary": "قیمت نفت برنت در سایه سخنان رئیس متجاوز آمریکا با کاهش ۱.۳ درصدی به ۱۰۳ دلار رسید.",
+    "published": "09 Oct 2026 11:22:01 +0330",
+    "collected_at": "2026-10-09T11:47:31.785579+03:30",
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "قیمت نفت"
+    ]
+  },
+  {
     "source": "ایسنا",
     "title": "چرا نفت ۱۰۰ دلاری ماندگار شد؟",
     "link": "https://www.isna.ir/news/1405071510196/%DA%86%D8%B1%D8%A7-%D9%86%D9%81%D8%AA-%DB%B1%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B4%D8%AF",
@@ -670,11 +700,11 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۵ مهر ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۶ هزار ارزان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2285232/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B5-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
-    "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد و دلار با ریزش نزدیک به ۶ هزار تومانی روبه رو شد.",
-    "published": "Wed, 07 Oct 2026 19:55:00 GMT",
-    "collected_at": "2026-10-07T23:47:20.084829+03:30",
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۶ مهر ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۲۶۶ هزار تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2285633/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
+    "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد و یورو با افزایش ۳ هزار و ۷۵۰ تومانی روبه رو شد.",
+    "published": "Thu, 08 Oct 2026 18:26:37 GMT",
+    "collected_at": "2026-10-08T22:17:35.787004+03:30",
     "market_score": 17,
     "market_matches": {
       "currency": [
@@ -1718,6 +1748,30 @@
     "high_impact_matches": [
       "جنگ"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "نوری: پرداخت مطالبات ارزی واردکنندگان کالاهای اساسی در حال پیگیری است",
+    "link": "https://www.mehrnews.com/news/6972299/%D9%86%D9%88%D8%B1%DB%8C-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%DA%A9%D8%A7%D9%84%D8%A7%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C",
+    "summary": "وزیر جهاد با تأکید بر پیگیری مستمر مطالبات ارزی واردکنندگان کالاهای اساسی، گفت: اقدامات و مکاتبات لازم برای تعیین تکلیف و پرداخت مطالبات انجام شده و تا رسیدن به نتیجه نهایی پیگیری می شود.",
+    "published": "Fri, 09 Oct 2026 08:05:17 GMT",
+    "collected_at": "2026-10-09T11:47:17.351284+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
