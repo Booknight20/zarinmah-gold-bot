@@ -32,6 +32,14 @@ TEHRAN = ZoneInfo(
 PREVIOUS_FILE = "previous_prices.json"
 STATUS_FILE = "send_status.json"
 
+ASSETS = (
+    "gold18",
+    "coin",
+    "half",
+    "quarter",
+    "dollar",
+)
+
 
 HEADERS = {
     "User-Agent": (
