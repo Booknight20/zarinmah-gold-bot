@@ -1361,56 +1361,77 @@ def build_message(
     prices,
     previous,
 ):
-    """ساخت پیام ساعتی جمع‌وجور با هویت بصری طلایی زرین ماه."""
     previous = previous or {}
 
-    update_time = datetime.now(TEHRAN).strftime("%H:%M")
-    update_date = datetime.now(TEHRAN).strftime("%Y-%m-%d")
-
-    # نمایش اعداد فارسی، بدون تغییر مقادیر عددی مورد استفاده در محاسبات
-    def fa_digits(value):
-        return str(value).translate(str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹"))
-
-    def asset_block(asset, title, emoji):
-        price = fa_digits(f"{prices[asset]:,}")
-        change = fa_digits(
-            change_text_for_asset(asset, prices[asset], previous)
-        )
-        source = PRICE_METADATA.get(asset, {}).get("source")
-        if source == "navasan":
-            source_label = "نوسان"
-        elif source == "tgju":
-            source_label = "TGJU"
-        else:
-            source_label = ""
-
-        source_suffix = f"  ·  منبع: {source_label}" if source_label else ""
-        return (
-            f"{emoji} {title}  │  {price} تومان\n"
-            f"   {change}{source_suffix}"
-        )
-
-    sections = [
-        asset_block("gold18", "طلای ۱۸ عیار", "✦"),
-        asset_block("coin", "سکه امامی", "◆"),
-        asset_block("half", "نیم‌سکه", "◇"),
-        asset_block("quarter", "ربع‌سکه", "◇"),
-        asset_block("dollar", "دلار آزاد", "＄"),
-    ]
-
-    return (
-        "🌙  زرین ماه  |  ZARIN MAH GOLD\n"
-        "━━━━━━━━━━━━━━━━━━\n"
-        "📊 گزارش ساعتی بازار طلا و ارز\n"
-        f"📅 {fa_digits(update_date)}   ·   🕒 {fa_digits(update_time)}\n"
-        "━━━━━━━━━━━━━━━━━━\n\n"
-        + "\n\n".join(sections)
-        + "\n\n━━━━━━━━━━━━━━━━━━\n"
-        + used_source_footer()
-        + "\n━━━━━━━━━━━━━━━━━━\n"
-        + "✨ زرین ماه | ویترین طلای کم‌اجرت\n"
-        + "📲 @ZarinMahGold"
+    update_time = datetime.now(
+        TEHRAN
+    ).strftime(
+        "%H:%M"
     )
+
+    return f"""🌙✨ زرین ماه
+💎 قیمت‌های بازار | اولویت با TGJU، جایگزین با نوسان
+
+━━━━━━━━━━━━━━━━━━
+
+🟡 طلای ۱۸ عیار
+💰 {prices["gold18"]:,} تومان
+{change_text_for_asset(
+    "gold18",
+    prices["gold18"],
+    previous,
+)}
+{price_source_line("gold18")}
+
+🪙 سکه امامی
+💰 {prices["coin"]:,} تومان
+{change_text_for_asset(
+    "coin",
+    prices["coin"],
+    previous,
+)}
+{price_source_line("coin")}
+
+🪙 نیم‌سکه
+💰 {prices["half"]:,} تومان
+{change_text_for_asset(
+    "half",
+    prices["half"],
+    previous,
+)}
+{price_source_line("half")}
+
+🪙 ربع‌سکه
+💰 {prices["quarter"]:,} تومان
+{change_text_for_asset(
+    "quarter",
+    prices["quarter"],
+    previous,
+)}
+{price_source_line("quarter")}
+
+💵 دلار آزاد
+💰 {prices["dollar"]:,} تومان
+{change_text_for_asset(
+    "dollar",
+    prices["dollar"],
+    previous,
+)}
+{price_source_line("dollar")}
+
+━━━━━━━━━━━━━━━━━━
+
+🕒 آخرین بروزرسانی: {update_time}
+
+{used_source_footer()}
+
+━━━━━━━━━━━━━━━━━━
+
+🌙 زرین ماه
+✨ ویترین طلای کم‌اجرت
+
+📲 @ZarinMahGold
+"""
 
 
 # =========================================================
