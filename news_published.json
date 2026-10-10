@@ -429,5 +429,21 @@
     "published_at": "2026-10-10T06:18:01.349906+00:00",
     "telegram_message_id": 224,
     "eitaa_message_id": 175712950
+  },
+  "3c152a3165a1d18fcb6eb91c3b0839943f8f2cb7df42c515cb88e80fc084809d": {
+    "title": "آخرین وضعیت بازار بورس",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/live/2286144/%D8%AC%D9%87%D8%B4-%DB%B1%DB%B3%DB%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B4%D9%86%D8%A8%D9%87-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3",
+    "published_at": "2026-10-10T06:44:38.013462+00:00",
+    "telegram_message_id": 225,
+    "eitaa_message_id": 175719204
+  },
+  "fba2285f6b98aeb0a8c4b2cabd33832cce32cccd41c7200f2837d2e8bbc3a7d4": {
+    "title": "فروش ۲ میلیارد دلار؛ جذب نقدینگی یا تأمین پنهان کسری بودجه؟",
+    "source": "تابناک",
+    "link": "https://www.tabnak.ir/fa/news/1398044/فروش-2-میلیارد-دلار-جذب-نقدینگی-یا-تأمین-پنهان-کسری-بودجه",
+    "published_at": "2026-10-10T06:44:39.835235+00:00",
+    "telegram_message_id": 226,
+    "eitaa_message_id": 175719209
   }
 }
