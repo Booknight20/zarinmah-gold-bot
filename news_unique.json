@@ -931,6 +931,31 @@
     "medium_impact_matches": []
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۱۸ مهر ۱۴۰۵ در زمان بسته شدن بازار/ طلا در کانال ۲۶ میلیون تومان ماند + جدول",
+    "link": "https://www.khabaronline.ir/news/2286537/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
+    "summary": "قیمت طلا در بازار تهران امروز ۱۸ مهرماه اعلام شد و هر مثقال طلا با افزایش ۱۱۷ هزار تومانی، ۱۱۴ میلیون و ۶۹۰ هزار تومان شد.",
+    "published": "Sat, 10 Oct 2026 18:30:00 GMT",
+    "collected_at": "2026-10-10T22:17:20.043454+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "مثقال طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "وصول۳هزار و ۱۹۰میلیارد جزای نقدی پرونده های قاچاق کالا و ارز در اصفهان",
     "link": "https://www.mehrnews.com/news/6973604/%D9%88%D8%B5%D9%88%D9%84%DB%B3%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B1%DB%B9%DB%B0%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AC%D8%B2%D8%A7%DB%8C-%D9%86%D9%82%D8%AF%DB%8C-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%DA%A9%D8%A7%D9%84%D8%A7-%D9%88-%D8%A7%D8%B1%D8%B2",
@@ -1233,6 +1258,54 @@
     "medium_impact_matches": [
       "رکود"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "دستگیری کلاهبردار ۴۰ میلیارد ریالی در معمولان",
+    "link": "https://www.mehrnews.com/news/6973851/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%DB%B4%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B9%D9%85%D9%88%D9%84%D8%A7%D9%86",
+    "summary": "معمولان- فرمانده انتظامی معمولان از شناسایی و دستگیری متهمی خبر داد که با وعده خرید و فروش خودرو، ۴۰ میلیارد ریال از شهروندان کلاهبرداری کرده و متواری شده بود.",
+    "published": "Sat, 10 Oct 2026 18:27:56 GMT",
+    "collected_at": "2026-10-10T22:17:09.425401+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "کشف خودروی سواری ۷۰۰ میلیارد ریالی قاچاق در اراک",
+    "link": "https://www.mehrnews.com/news/6973850/%DA%A9%D8%B4%D9%81-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%DB%8C-%D8%B3%D9%88%D8%A7%D8%B1%DB%8C-%DB%B7%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%AF%D8%B1-%D8%A7%D8%B1%D8%A7%DA%A9",
+    "summary": "اراک- فرمانده انتظامی استان از کشف خودروی سواری ۷۰۰ میلیارد ریالی قاچاق در محورهای مواصلاتی در عملیات مأموران پلیس امنیت اقتصادی این استان خبر داد.",
+    "published": "Sat, 10 Oct 2026 18:32:16 GMT",
+    "collected_at": "2026-10-10T22:17:09.425346+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
@@ -2227,30 +2300,6 @@
     "summary": "شاخص صنایع بازار سهام هفته گذشته با غلبه روند صعودی همراه شد و ۳۶ صنعت از مجموع ۴۱ صنعت مورد بررسی رشد کرد.",
     "published": "Sat, 10 Oct 2026 02:16:00 GMT",
     "collected_at": "2026-10-10T05:45:40.465161+03:30",
-    "market_score": 4,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "پیش بینی جدید بورس شنبه ۱۸ مهر ۱۴۰۵ / سهامداران بخوانند",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300687-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%AE%D9%88%D8%A7%D9%86%D9%86%D8%AF",
-    "summary": "روند بازار سهام در معاملات سه شنبه و چهارشنبه هفته گذشته این احتمال را تقویت کرده است که دوره اصلاح اخیر به پایان رسیده و بازار در حال آماده شدن برای شروع مرحله تازه ای از رشد باشد.",
-    "published": "Fri, 09 Oct 2026 16:20:46 +0000",
-    "collected_at": "2026-10-09T20:17:31.256895+03:30",
     "market_score": 4,
     "market_matches": {
       "stock": [
