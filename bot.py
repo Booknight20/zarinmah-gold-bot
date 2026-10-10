@@ -1369,69 +1369,36 @@ def build_message(
         "%H:%M"
     )
 
-    return f"""🌙✨ زرین ماه
-💎 قیمت‌های بازار | اولویت با TGJU، جایگزین با نوسان
+    def format_asset(title, asset):
+        source_line = price_source_line(asset)
+        source_text = f"\n{source_line}" if source_line else ""
+        return (
+            f"{title}\n"
+            f"💰 {prices[asset]:,} تومان\n"
+            f"{change_text_for_asset(asset, prices[asset], previous)}"
+            f"{source_text}"
+        )
 
-━━━━━━━━━━━━━━━━━━
+    asset_sections = [
+        format_asset("🟡 طلای ۱۸ عیار", "gold18"),
+        format_asset("🪙 سکه امامی", "coin"),
+        format_asset("🪙 نیم‌سکه", "half"),
+        format_asset("🪙 ربع‌سکه", "quarter"),
+        format_asset("💵 دلار آزاد", "dollar"),
+    ]
 
-🟡 طلای ۱۸ عیار
-💰 {prices["gold18"]:,} تومان
-{change_text_for_asset(
-    "gold18",
-    prices["gold18"],
-    previous,
-)}
-{price_source_line("gold18")}
-
-🪙 سکه امامی
-💰 {prices["coin"]:,} تومان
-{change_text_for_asset(
-    "coin",
-    prices["coin"],
-    previous,
-)}
-{price_source_line("coin")}
-
-🪙 نیم‌سکه
-💰 {prices["half"]:,} تومان
-{change_text_for_asset(
-    "half",
-    prices["half"],
-    previous,
-)}
-{price_source_line("half")}
-
-🪙 ربع‌سکه
-💰 {prices["quarter"]:,} تومان
-{change_text_for_asset(
-    "quarter",
-    prices["quarter"],
-    previous,
-)}
-{price_source_line("quarter")}
-
-💵 دلار آزاد
-💰 {prices["dollar"]:,} تومان
-{change_text_for_asset(
-    "dollar",
-    prices["dollar"],
-    previous,
-)}
-{price_source_line("dollar")}
-
-━━━━━━━━━━━━━━━━━━
-
-🕒 آخرین بروزرسانی: {update_time}
-
-{used_source_footer()}
-
-━━━━━━━━━━━━━━━━━━
-
-🌙 زرین ماه
-✨ ویترین طلای کم‌اجرت
-
-📲 @ZarinMahGold
-"""
+    return (
+        "🌙✨ زرین ماه | قیمت بازار\n"
+        "💎 قیمت طلا، سکه و دلار\n\n"
+        "━━━━━━━━━━━━━━━━━━\n\n"
+        + "\n\n".join(asset_sections)
+        + "\n\n━━━━━━━━━━━━━━━━━━\n"
+        + f"🕒 زمان ارسال: {update_time}\n\n"
+        + used_source_footer()
+        + "\n\n━━━━━━━━━━━━━━━━━━\n"
+        "🌙 زرین ماه | طلای کم‌اجرت\n"
+        "📲 @ZarinMahGold\n"
+    )
 
 
 # =========================================================
