@@ -1,6 +1,8 @@
 
+import html
 import json
 import os
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -9,30 +11,32 @@ from zoneinfo import ZoneInfo
 import requests
 
 BASE_DIR = Path(__file__).resolve().parent
-CONFIG_FILE = BASE_DIR / "promo_groups.json"
+TARGETS_FILE = BASE_DIR / "promo_targets.json"
 STATE_FILE = BASE_DIR / "promo_sent.json"
 TEHRAN = ZoneInfo("Asia/Tehran")
 TELEGRAM_API = "https://api.telegram.org/bot{token}/{method}"
-REQUEST_TIMEOUT = 25
+EITAA_API = "https://eitaayar.ir/api/{token}/sendMessage"
+TIMEOUT = 25
 
 
 def load_json(path, default):
     try:
-        with path.open("r", encoding="utf-8") as file:
-            return json.load(file)
+        with path.open("r", encoding="utf-8") as f:
+            return json.load(f)
     except FileNotFoundError:
         return default
-    except (json.JSONDecodeError, OSError) as exc:
+    except (OSError, json.JSONDecodeError) as exc:
         raise RuntimeError(
-            f"خواندن فایل {path.name} ناموفق بود: {exc}"
+            f"خطا در خواندن {path.name}: {exc}"
         ) from exc
 
 
 def save_json(path, data):
-    temp_path = path.with_suffix(path.suffix + ".tmp")
-    with temp_path.open("w", encoding="utf-8") as file:
-        json.dump(data, file, ensure_ascii=False, indent=2)
-    temp_path.replace(path)
+    temp = path.with_suffix(path.suffix + ".tmp")
+    with temp.open("w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+    temp.replace(path)
 
 
 def week_key(now):
@@ -40,61 +44,78 @@ def week_key(now):
     return f"{year}-W{week:02d}"
 
 
-def send_message(token, chat_id, text, button_text, channel_url):
-    url = TELEGRAM_API.format(token=token, method="sendMessage")
+def check_response(response, platform):
+    try:
+        data = response.json()
+    except ValueError:
+        data = {}
 
-    payload = {
-        "chat_id": chat_id,
-        "text": text,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": True,
-        "reply_markup": {
-            "inline_keyboard": [[
-                {
-                    "text": button_text,
-                    "url": channel_url
-                }
-            ]]
-        }
-    }
+    if not response.ok:
+        raise RuntimeError(
+            f"{platform} HTTP {response.status_code}: "
+            f"{response.text[:400]}"
+        )
 
+    if data.get("ok") is False or data.get("error"):
+        reason = (
+            data.get("description")
+            or data.get("error")
+            or str(data)
+        )
+        raise RuntimeError(f"{platform}: {reason}")
+
+    return data
+
+
+def send_telegram(token, chat_id, message, button_text, channel_url):
     response = requests.post(
-        url,
-        json=payload,
-        timeout=REQUEST_TIMEOUT
+        TELEGRAM_API.format(token=token, method="sendMessage"),
+        json={
+            "chat_id": chat_id,
+            "text": message,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+            "reply_markup": {
+                "inline_keyboard": [[
+                    {
+                        "text": button_text,
+                        "url": channel_url
+                    }
+                ]]
+            }
+        },
+        timeout=TIMEOUT
+    )
+    return check_response(response, "Telegram")
+
+
+def send_eitaa(token, chat_id, message, button_text, channel_url):
+    # در ایتا لینک به شکل متن فرستاده می‌شود.
+    # توکن معتبر EitaaYar و دسترسی انتشار لازم است.
+    plain_text = html.unescape(
+        re.sub(r"<[^>]+>", "", message)
+    )
+    text = (
+        f"{plain_text}\n\n"
+        f"{button_text}: {channel_url}"
     )
 
-    try:
-        result = response.json()
-    except ValueError:
-        result = {}
-
-    if not response.ok or not result.get("ok"):
-        description = result.get(
-            "description",
-            response.text[:500]
-        )
-        raise RuntimeError(
-            f"Telegram API error for {chat_id}: {description}"
-        )
-
-    return result["result"].get("message_id")
+    response = requests.post(
+        EITAA_API.format(token=token),
+        data={
+            "chat_id": chat_id,
+            "text": text
+        },
+        timeout=TIMEOUT
+    )
+    return check_response(response, "Eitaa")
 
 
 def main():
-    token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-
-    if not token:
-        print(
-            "ERROR: secret TELEGRAM_BOT_TOKEN is not set.",
-            file=sys.stderr
-        )
-        return 2
-
-    config = load_json(CONFIG_FILE, {})
+    config = load_json(TARGETS_FILE, {})
 
     if not config.get("enabled", False):
-        print("Promotion broadcast is disabled.")
+        print("ارسال تبلیغات غیرفعال است.")
         return 0
 
     channel_url = str(
@@ -114,86 +135,122 @@ def main():
     ).strip()
 
     if not channel_url.startswith("https://t.me/"):
-        print("ERROR: Invalid channel URL.", file=sys.stderr)
+        print("خطا: لینک تلگرام معتبر نیست.", file=sys.stderr)
         return 2
 
     if not message:
-        print("ERROR: Promotion message is empty.", file=sys.stderr)
+        print("خطا: متن تبلیغ خالی است.", file=sys.stderr)
         return 2
 
-    groups = [
-        group
-        for group in config.get("groups", [])
-        if group.get("enabled")
-        and str(group.get("chat_id", "")).strip()
+    targets = [
+        target
+        for target in config.get("targets", [])
+        if target.get("enabled") is True
+        and target.get("permission_confirmed") is True
+        and str(target.get("chat_id", "")).strip()
     ]
 
-    if not groups:
-        print("No enabled group IDs found.")
+    if not targets:
+        print("هیچ مقصد مجاز و فعالی تنظیم نشده است.")
         return 0
+
+    tg_token = os.environ.get(
+        "TELEGRAM_BOT_TOKEN", ""
+    ).strip()
+
+    eitaa_token = os.environ.get(
+        "EITAAYAR_TOKEN", ""
+    ).strip()
 
     now = datetime.now(TEHRAN)
     current_week = week_key(now)
 
     state = load_json(STATE_FILE, {"sent": {}})
-    sent_records = state.setdefault("sent", {})
+    sent = state.setdefault("sent", {})
 
-    errors = 0
-    sent_count = 0
+    delivered = 0
+    failed = 0
 
     print(
-        f"Promotion run: {now:%Y-%m-%d %H:%M:%S %Z}; "
-        f"week={current_week}"
+        f"شروع تبلیغات: {now.isoformat()} "
+        f"| هفته {current_week}"
     )
 
-    for group in groups:
-        chat_id = str(group["chat_id"]).strip()
-        group_name = str(group.get("name", chat_id))
-        key = f"{chat_id}:{current_week}"
+    for target in targets:
+        platform = str(
+            target.get("platform", "telegram")
+        ).lower().strip()
 
-        if sent_records.get(key):
-            print(
-                f"SKIP {group_name}: already sent this week."
-            )
+        chat_id = str(target["chat_id"]).strip()
+        name = str(target.get("name", chat_id))
+        key = f"{platform}:{chat_id}:{current_week}"
+
+        if sent.get(key):
+            print(f"رد شد؛ قبلاً ارسال شده: {name}")
             continue
 
         try:
-            message_id = send_message(
-                token=token,
-                chat_id=chat_id,
-                text=message,
-                button_text=button_text,
-                channel_url=channel_url
-            )
+            if platform == "telegram":
+                if not tg_token:
+                    raise RuntimeError(
+                        "Secret با نام TELEGRAM_BOT_TOKEN تنظیم نشده است."
+                    )
 
-            sent_records[key] = {
+                send_telegram(
+                    tg_token,
+                    chat_id,
+                    message,
+                    button_text,
+                    channel_url
+                )
+
+            elif platform == "eitaa":
+                if not eitaa_token:
+                    raise RuntimeError(
+                        "Secret با نام EITAAYAR_TOKEN تنظیم نشده است."
+                    )
+
+                send_eitaa(
+                    eitaa_token,
+                    chat_id,
+                    message,
+                    button_text,
+                    channel_url
+                )
+
+            else:
+                raise RuntimeError(
+                    f"پیام‌رسان ناشناخته: {platform}"
+                )
+
+            sent[key] = {
+                "platform": platform,
                 "chat_id": chat_id,
-                "group_name": group_name,
+                "name": name,
                 "sent_at": now.isoformat(),
-                "message_id": message_id
+                "week": current_week
             }
 
             save_json(STATE_FILE, state)
-            sent_count += 1
-
-            print(
-                f"SENT {group_name} ({chat_id}), "
-                f"message_id={message_id}"
-            )
+            delivered += 1
+            print(f"ارسال موفق: {platform} | {name}")
 
         except (
             requests.RequestException,
             RuntimeError,
             KeyError
         ) as exc:
-            errors += 1
+            failed += 1
             print(
-                f"FAILED {group_name} ({chat_id}): {exc}",
+                f"خطا در {name}: {exc}",
                 file=sys.stderr
             )
 
-    print(f"Finished. sent={sent_count}, failed={errors}")
-    return 1 if errors else 0
+    print(
+        f"پایان کار: موفق={delivered}، ناموفق={failed}"
+    )
+
+    return 1 if failed else 0
 
 
 if __name__ == "__main__":
