@@ -1,5 +1,38 @@
 [
   {
+    "source": "دنیای اقتصاد",
+    "title": "پیش بینی قیمت طلا، دلار و سکه امروز امروز شنبه ۱۸ مهر ۱۴۰۵/ روند صعودی قیمت طلا و سکه ادامه دارد؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300815-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B1%D9%88%D9%86%D8%AF-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
+    "summary": "شنبه 18 مهر بازار طلا و سکه و ارز در حالی نخستین روز معاملاتی هفته را آغاز می کند که طلای ۱۸ عیار در نرخ گذاری بامداد به ۲۶ میلیون و ۵۰۱ هزار تومان و سکه امامی به ۲۶۹ میلیون و ۴۰۰ هزار تومان رسید. در شرایطی که اونس جهانی طلا در نرخ ۴۱۹۴ دلار بسته شده است، این پرسش مطرح می شود که آیا طلای ۱۸ عیار از مقاومت ۲۶ میلیون و ۶۰۰ هزار تومان عبور می کند و سکه امامی به کانال ۲۷۰ میلیون تومان می رسد؟",
+    "published": "Sat, 10 Oct 2026 05:45:06 +0000",
+    "collected_at": "2026-10-10T09:47:39.480826+03:30",
+    "market_score": 37,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "اونس جهانی",
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [
+      "دلار",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "تابناک",
     "title": "رکوردشکنی بورس در میانه مهرماه با فتح قله ۸ میلیونی/ چگونه بورس از طلا و دلار سبقت گرفت؟",
     "link": "https://www.tabnak.ir/fa/news/1397956/رکوردشکنی-بورس-در-میانه-مهرماه-با-فتح-قله-8-میلیونی-چگونه-بورس-از-طلا-و-دلار-سبقت-گرفت",
@@ -205,6 +238,37 @@
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
+  },
+  {
+    "source": "مشرق",
+    "title": "قیمت نفت برنت به ۱۰۴ دلار و ۷۲ سنت رسید",
+    "link": "https://www.mashreghnews.ir/news/1844741/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%DB%B1%DB%B0%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%DB%B7%DB%B2-%D8%B3%D9%86%D8%AA-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "قیمت نفت برنت در سایه تهدیدات ترامپ علیه ایران و شرایط جوی با افزایش ۰.۴۲ درصدی به ۱۰۴ دلار و ۷۲ سنت رسید.",
+    "published": "Sat, 10 Oct 2026 05:57:39 GMT",
+    "collected_at": "2026-10-10T09:47:49.597982+03:30",
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "قیمت نفت"
+    ]
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -982,6 +1046,78 @@
     ]
   },
   {
+    "source": "مهر",
+    "title": "کرایه حمل از بنادر ترکیه به ایران به ۸ هزار دلار رسید",
+    "link": "https://www.mehrnews.com/news/6973011/%D9%85%D9%84%DA%A9-%D8%B2%D8%A7%D8%AF%D9%87-%DA%A9%D8%B1%D8%A7%DB%8C%D9%87-%D8%AD%D9%85%D9%84-%D8%A7%D8%B2-%D8%A8%D9%86%D8%A7%D8%AF%D8%B1-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "رئیس هیئت مدیره انجمن صنفی شرکت های حمل ونقل بین المللی ایران از افزایش هزینه های لجستیک فراتر از ۱۰ درصد ارزش کالا خبر داد و گفت: کرایه حمل از بنادر ترکیه به ایران به ۸ هزار دلار رسیده است.",
+    "published": "Sat, 10 Oct 2026 05:53:38 GMT",
+    "collected_at": "2026-10-10T09:47:27.501987+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "واریز ۴۲ میلیارد ریال یارانه کودهای فسفاته و پتاسه به کشاورزان همدانی",
+    "link": "https://www.isna.ir/news/1405071811432/%D9%88%D8%A7%D8%B1%DB%8C%D8%B2-%DB%B4%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%DB%8C%D8%A7%D8%B1%D8%A7%D9%86%D9%87-%DA%A9%D9%88%D8%AF%D9%87%D8%A7%DB%8C-%D9%81%D8%B3%D9%81%D8%A7%D8%AA%D9%87-%D9%88-%D9%BE%D8%AA%D8%A7%D8%B3%D9%87-%D8%A8%D9%87-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%D8%A7%D9%86",
+    "summary": "مدیر شرکت خدمات حمایتی کشاورزی استان همدان از واریز بیش از ۳۷ میلیارد ریال یارانه نقدی مرحله دوم خرید کودهای فسفاته و پتاسه به حساب ۳۰۰ کشاورز استان خبر داد و گفت: با احتساب پرداخت های مرحله نخست، مجموع یارانه واریزشده به کشاورزان همدانی از مرز ۴۲ میلیارد ریال گذشت.",
+    "published": "Sat, 10 Oct 2026 06:04:04 GMT",
+    "collected_at": "2026-10-10T09:47:14.240936+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "صلح و سازش ۳ پرونده مالی در بهاباد یزد به ارزش ۲۵۰ میلیارد ریال",
+    "link": "https://www.isna.ir/news/1405071811433/%D8%B5%D9%84%D8%AD-%D9%88-%D8%B3%D8%A7%D8%B2%D8%B4-%DB%B3-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%85%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%87%D8%A7%D8%A8%D8%A7%D8%AF-%DB%8C%D8%B2%D8%AF-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%DB%B2%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84",
+    "summary": "رئیس حوزه قضایی شهرستان بهاباد از مختومه شدن سه پرونده مالی به ارزش مجموع بیش از ۲۵۰ میلیارد ریال با تلاش اعضای شورای حل اختلاف و جلب رضایت طرفین خبر داد.",
+    "published": "Sat, 10 Oct 2026 06:04:26 GMT",
+    "collected_at": "2026-10-10T09:47:14.240920+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "ایسنا",
     "title": "بازار خودروهای لاکچری در اوج تنگنای ارزی/ سوپرلوکس ها چگونه پلاک ملی گرفتند؟",
     "link": "https://www.isna.ir/news/1405071811395/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%88%D8%AC-%D8%AA%D9%86%DA%AF%D9%86%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B3%D9%88%D9%BE%D8%B1%D9%84%D9%88%DA%A9%D8%B3-%D9%87%D8%A7-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D9%BE%D9%84%D8%A7%DA%A9",
@@ -1222,54 +1358,6 @@
     "medium_impact_matches": [
       "نقدینگی"
     ]
-  },
-  {
-    "source": "مشرق",
-    "title": "نفت کش عبوری از تنگه هرمز هدف پرتابه ناشناس قرار گرفت",
-    "link": "https://www.mashreghnews.ir/news/1844454/%D9%86%D9%81%D8%AA-%DA%A9%D8%B4-%D8%B9%D8%A8%D9%88%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%87%D8%AF%D9%81-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%D8%A7%D8%B4%D9%86%D8%A7%D8%B3-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA",
-    "summary": "سازمان تجارت دریایی بریتانیا از اصابت یک پرتابه ناشناس به نفت کش عبوری از تنگه هرمز خبر داد.",
-    "published": "Thu, 08 Oct 2026 15:22:09 GMT",
-    "collected_at": "2026-10-08T19:18:27.845794+03:30",
-    "market_score": 5,
-    "market_matches": {},
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [
-      "تنگه هرمز"
-    ],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "تنگه هرمز"
-    ],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "اصابت پرتابه ناشناس به نفتکش حامل نفت خام در تنگه هرمز",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300517-%D8%A7%D8%B5%D8%A7%D8%A8%D8%AA-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8%D9%87-%D9%86%D8%A7%D8%B4%D9%86%D8%A7%D8%B3-%D8%A8%D9%87-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D8%AD%D8%A7%D9%85%D9%84-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D9%85-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
-    "summary": "سازمان عملیات تجارت دریایی بریتانیا در خبری مدعی شد که یک نفت کش حامل نفت خام مورد هدف قرار گرفت.",
-    "published": "Thu, 08 Oct 2026 15:24:10 +0000",
-    "collected_at": "2026-10-08T19:18:19.066728+03:30",
-    "market_score": 5,
-    "market_matches": {},
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [
-      "تنگه هرمز"
-    ],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "تنگه هرمز"
-    ],
-    "medium_impact_matches": []
   },
   {
     "source": "دنیای اقتصاد",
