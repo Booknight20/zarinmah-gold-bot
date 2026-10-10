@@ -129,6 +129,35 @@
     "medium_impact_matches": []
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "سیدعلی: دلار ۲۷۰ هزار تومانی خارج از کشش اقتصاد ایران است / ارز کشور باید به کالاهای اساسی و تولید اختصاص پیدا کند",
+    "link": "https://www.khabaronline.ir/news/2286520/%D8%B3%DB%8C%D8%AF%D8%B9%D9%84%DB%8C-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B7%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%B4-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA-%D8%A7%D8%B1%D8%B2",
+    "summary": "معاون پیشین بانک مرکزی با تأکید بر اینکه نرخ فعلی ارز با توان اقتصادی ایران همخوانی ندارد، گفت: با دلار ۲۷۰ هزار تومانی، تأمین مواد اولیه و کالاهای واسطه ای برای بسیاری از صنایع صرفه اقتصادی ندارد. کمال سیدعلی همچنین اولویت بندی تخصیص ارز در شرایط جنگی را ضروری دانست و با اشاره به استقبال محدود از طرح فروش ۱۰ هزار دلار با کارت ملی در روزهای نخست اجرا، بر لزوم انتشار آمار دقیق این طرح تأکید کرد.",
+    "published": "Sat, 10 Oct 2026 18:14:35 GMT",
+    "collected_at": "2026-10-10T21:45:45.302266+03:30",
+    "market_score": 27,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی",
+      "جنگ"
+    ],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "ردپای نفت در روند دلار؛ الگویی که هر بار تکرار می شود",
     "link": "https://www.mehrnews.com/news/6973150/%D8%B1%D8%AF%D9%BE%D8%A7%DB%8C-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%B1%D9%88%D9%86%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%84%DA%AF%D9%88%DB%8C%DB%8C-%DA%A9%D9%87-%D9%87%D8%B1-%D8%A8%D8%A7%D8%B1-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
@@ -1781,6 +1810,30 @@
     "high_impact_matches": [
       "تنگه هرمز"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "چلسی در خانه بورنموث را درهم کوبید",
+    "link": "https://www.isna.ir/news/1405071812054/%DA%86%D9%84%D8%B3%DB%8C-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D9%88%D8%B1%D9%86%D9%85%D9%88%D8%AB-%D8%B1%D8%A7-%D8%AF%D8%B1%D9%87%D9%85-%DA%A9%D9%88%D8%A8%DB%8C%D8%AF",
+    "summary": "در جریان هفته ششم لیگ برتر فوتبال انگلیس، چلسی در خانه ۵ بر یک بورنموث ته جدولی را شکست داد.",
+    "published": "Sat, 10 Oct 2026 17:58:54 GMT",
+    "collected_at": "2026-10-10T21:45:32.227323+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
