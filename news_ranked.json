@@ -1,6 +1,44 @@
 [
   {
     "source": "دنیای اقتصاد",
+    "title": "نرخ ارز دلار، طلا و یورو امروز شنبه ۱۸ مهر ۱۴۰۵/ رشد قیمت طلا و سکه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300837-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B1%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد افزایش قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
+    "published": "Sat, 10 Oct 2026 08:04:32 +0000",
+    "collected_at": "2026-10-10T11:45:49.215271+03:30",
+    "market_score": 47,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "نرخ ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [
+      "دلار",
+      "نرخ ارز",
+      "ارز",
+      "یورو",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت طلا، دلار و سکه امروز امروز شنبه ۱۸ مهر ۱۴۰۵/ روند صعودی قیمت طلا و سکه ادامه دارد؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300815-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B1%D9%88%D9%86%D8%AF-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
     "summary": "شنبه 18 مهر بازار طلا و سکه و ارز در حالی نخستین روز معاملاتی هفته را آغاز می کند که طلای ۱۸ عیار در نرخ گذاری بامداد به ۲۶ میلیون و ۵۰۱ هزار تومان و سکه امامی به ۲۶۹ میلیون و ۴۰۰ هزار تومان رسید. در شرایطی که اونس جهانی طلا در نرخ ۴۱۹۴ دلار بسته شده است، این پرسش مطرح می شود که آیا طلای ۱۸ عیار از مقاومت ۲۶ میلیون و ۶۰۰ هزار تومان عبور می کند و سکه امامی به کانال ۲۷۰ میلیون تومان می رسد؟",
@@ -27,6 +65,35 @@
     "currency_matches": [
       "دلار",
       "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "تابناک",
+    "title": "قیمت طلا و سکه امروز ۱۸ مهر / طلای ۱۸ عیارچقدر گران شد؟",
+    "link": "https://www.tabnak.ir/fa/news/1398070/قیمت-طلا-و-سکه-امروز-18-مهر-طلای-18-عیارچقدر-گران-شد",
+    "summary": "قیمت طلا و سکه امروز مسیر جدیدی داشت؛ به طوری که طلای ۱۸ عیار ۱۷۸ هزار تومان جهش کرد و اونس جهانی ۶۷ دلار صعود کرد، اما سکه امامی حتی ۱۱۰ هزار تومان عقب رفت؛ گویی دو بازار جدا در یک بازار نفس می کشند!",
+    "published": "10 Oct 2026 11:43:19 +0330",
+    "collected_at": "2026-10-10T11:45:56.831250+03:30",
+    "market_score": 32,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "اونس جهانی",
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [
+      "دلار"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -565,6 +632,34 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت دلار، یورو و درهم امروز شنبه ۱۸ مهر ۱۴۰۵/ افزایش قیمت",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300838-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA",
+    "summary": "قیمت دلار حواله ای امروز با افزایش نسبت به روز گذشته، از 177872 (یکصد و هفتاد و هفت هزار و هشتصد و هفتاد و دو) تومان به 178406 (یکصد و هفتاد و هشت هزار و چهارصد و شش) تومان رسید.",
+    "published": "Sat, 10 Oct 2026 07:43:16 +0000",
+    "collected_at": "2026-10-10T11:45:49.215409+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "یورو",
+        "درهم"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "یورو",
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۸ مهر ۱۴۰۵ در زمان بازگشایی بازار/ یورو ۳.۵۰۰ تومان ارزان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2286030/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
@@ -615,6 +710,32 @@
       "دلار",
       "ارز",
       "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "تابناک",
+    "title": "قیمت دلار امروز شنبه ۱۸ مهرماه؛ نرخ رسمی حواله دلار اعلام شد",
+    "link": "https://www.tabnak.ir/fa/news/1398062/قیمت-دلار-امروز-شنبه-18-مهرماه-نرخ-رسمی-حواله-دلار-اعلام-شد",
+    "summary": "آغاز معاملات هفتگی ارز با افت نسبی دلار آزاد تا محدوده ۲۶۶ هزار تومان و هم زمان افزایش چندصد تومانی نرخ های رسمی در مرکز مبادله رقم خورده است.",
+    "published": "10 Oct 2026 11:16:55 +0330",
+    "collected_at": "2026-10-10T11:45:56.831322+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "مرکز مبادله"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -777,6 +898,32 @@
     "medium_impact_matches": [
       "بودجه"
     ]
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۱۸ مهر ۱۴۰۵/ مثقال طلا به کانال ۱۱۵ میلیون تومان رسید + جدول",
+    "link": "https://www.khabaronline.ir/news/2286218/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B1%DB%B1%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
+    "summary": "قیمت طلا در بازار تهران امروز ۱۸ مهرماه اعلام شد و هر گرم طلای ۱۸عیار ۲۶ میلیون و ۶۰۷ هزار تومان قیمت خورد. بر این اساس بهای مثقال طلا از ۱۱۵ میلیون تومان عبور کرد.",
+    "published": "Sat, 10 Oct 2026 08:02:24 GMT",
+    "collected_at": "2026-10-10T11:45:54.702159+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "مثقال طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "مثقال طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "دنیای اقتصاد",
@@ -1136,6 +1283,30 @@
   },
   {
     "source": "مهر",
+    "title": "فعالان تجهیزات پزشکی در تأمین ریال مشکل دارند",
+    "link": "https://www.mehrnews.com/news/6972972/%D9%81%D8%B9%D8%A7%D9%84%D8%A7%D9%86-%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-%D8%AF%D8%B1-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%B1%DB%8C%D8%A7%D9%84-%D9%85%D8%B4%DA%A9%D9%84-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
+    "summary": "مدیرکل تجهیزات و ملزومات پزشکی سازمان غذا و دارو، یکی از نگرانی های حوزه تجهیزات پزشکی را تامین ریال عنوان کرد.",
+    "published": "Sat, 10 Oct 2026 07:56:37 GMT",
+    "collected_at": "2026-10-10T11:45:40.685599+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
     "title": "سه پرونده مالی به ارزش ۲۵۰ میلیارد ریال در بهاباد به سازش ختم شد",
     "link": "https://www.mehrnews.com/news/6973091/%D8%B3%D9%87-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%DB%B2%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1-%D8%A8%D9%87%D8%A7%D8%A8%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2%D8%B4-%D8%AE%D8%AA%D9%85",
     "summary": "یزد- رئیس حوزه قضایی بهاباد از مختومه شدن سه پرونده مالی به ارزش مجموع بیش از ۲۵۰ میلیارد ریال با تلاش اعضای شورای حل اختلاف و توافق طرفین خبر داد.",
@@ -1424,30 +1595,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۱۶ مهر ۱۴۰۵ در زمان بسته شدن بازار/ طلای ۱۸عیار ۱۰۱ هزار تومان ارزان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2285626/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1",
-    "summary": "قیمت طلا در بازار تهران امروز ۱۶ مهرماه اعلام شد و هر گرم طلا با ریزش ۱۰۱ هزار تومان مواجه شد.",
-    "published": "Thu, 08 Oct 2026 19:15:00 GMT",
-    "collected_at": "2026-10-08T22:47:27.900408+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "موج پیش بینی سقوط بورس در برابر واقعیت بازار/ ریزش قریب الوقوع بازار سهام در راه است؟",
     "link": "https://www.khabaronline.ir/news/2286073/%D9%85%D9%88%D8%AC-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%B3%D9%82%D9%88%D8%B7-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%D8%B1%DB%8C%D8%A8-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%B9",
     "summary": "در روزهای اخیر، پیش بینی سقوط بورس به یکی از موضوعات پرتکرار شبکه های اجتماعی تبدیل شده است. برخی مطالب، بدون ارائه شواهد کافی از وضعیت نقدینگی، معاملات و سودآوری شرکت ها، از ریزش قریب الوقوع بازار سخن می گویند.",
@@ -1471,6 +1618,30 @@
     "medium_impact_matches": [
       "نقدینگی"
     ]
+  },
+  {
+    "source": "ایسنا",
+    "title": "برنامه های رواق کودک حرم حضرت معصومه(س)؛ از «زیر گنبد طلا» تا «باغ فرشته ها»",
+    "link": "https://www.isna.ir/news/1405071811589/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%88%D8%A7%D9%82-%DA%A9%D9%88%D8%AF%DA%A9-%D8%AD%D8%B1%D9%85-%D8%AD%D8%B6%D8%B1%D8%AA-%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87-%D8%B3-%D8%A7%D8%B2-%D8%B2%DB%8C%D8%B1-%DA%AF%D9%86%D8%A8%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AA%D8%A7",
+    "summary": "فعالیت های رواق کودک و خردسال حرم مطهر حضرت معصومه(س) با اجرای برنامه های متنوع فرهنگی، آموزشی و تفریحی ویژه دختران ۷ تا ۱۱ سال همه روزه در حال برگزاری است.",
+    "published": "Sat, 10 Oct 2026 08:09:48 GMT",
+    "collected_at": "2026-10-10T11:45:30.429946+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "دنیای اقتصاد",
@@ -1733,6 +1904,30 @@
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "بهترین صندوق سهامی برای سرمایه گذاری در بورس کدام است؟",
+    "link": "https://www.khabaronline.ir/news/2286240/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%B3%D9%87%D8%A7%D9%85%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%AF%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA",
+    "summary": "بررسی کارنامه آگاس در بازه ای بیش از یک دهه، مجموعه ای از شاخص های قابل توجه را پیش روی سرمایه گذاران قرار می دهد.",
+    "published": "Sat, 10 Oct 2026 08:14:57 GMT",
+    "collected_at": "2026-10-10T11:45:54.702135+03:30",
+    "market_score": 4,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
     "high_impact_matches": [],
     "medium_impact_matches": []
   },
