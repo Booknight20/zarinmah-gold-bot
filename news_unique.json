@@ -340,36 +340,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "دو سکانس متفاوت بازار طلا و ارز؛ رکوردشکنی در ابتدای هفته، اصلاح قیمت ها در چهارشنبه/ بازارها در هفته آینده چگونه خواهد بود؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300602-%D8%AF%D9%88-%D8%B3%DA%A9%D8%A7%D9%86%D8%B3-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B1%D8%B2-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C-%D9%87%D9%81%D8%AA%D9%87-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%A8%D9%88%D8%AF",
-    "summary": "بازار طلا، سکه و ارز در هفته دوم مهر با وجود رکوردشکنی های تاریخی در میانه هفته، در پایان معاملات پنجشنبه عمدتاً بازدهی منفی ثبت کرد.",
-    "published": "Fri, 09 Oct 2026 08:13:39 +0000",
-    "collected_at": "2026-10-09T12:14:09.493673+03:30",
-    "market_score": 20,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "سکه"
-    ],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مشرق",
     "title": "قیمت نفت برنت به ۱۰۴ دلار و ۷۲ سنت رسید",
     "link": "https://www.mashreghnews.ir/news/1844741/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%DB%B1%DB%B0%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%DB%B7%DB%B2-%D8%B3%D9%86%D8%AA-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -429,36 +399,6 @@
     ],
     "medium_impact_matches": [
       "نقدینگی"
-    ]
-  },
-  {
-    "source": "تابناک",
-    "title": "نفت برنت ۱۰۳ دلاری شد",
-    "link": "https://www.tabnak.ir/fa/news/1397928/نفت-برنت-103-دلاری-شد",
-    "summary": "قیمت نفت برنت در سایه سخنان رئیس متجاوز آمریکا با کاهش ۱.۳ درصدی به ۱۰۳ دلار رسید.",
-    "published": "09 Oct 2026 11:22:01 +0330",
-    "collected_at": "2026-10-09T11:47:31.785579+03:30",
-    "market_score": 19,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [
-      "قیمت نفت"
     ]
   },
   {
@@ -896,6 +836,32 @@
   },
   {
     "source": "مهر",
+    "title": "تاب آوری پشت سد گرانی؛پشت صحنه ۲۵ میلیارد دلار تأمین ارز",
+    "link": "https://www.mehrnews.com/news/6973505/%D8%AA%D8%A7%D8%A8-%D8%A2%D9%88%D8%B1%DB%8C-%D9%BE%D8%B4%D8%AA-%D8%B3%D8%AF-%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D9%BE%D8%B4%D8%AA-%D8%B5%D8%AD%D9%86%D9%87-%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2",
+    "summary": "تأمین ۲۵ میلیارد دلار ارز نشان می دهد استراتژی پولی کشور توانسته با عبور از خطر نایابی کالا، تاب آوری زنجیره تأمین را در سخت ترین شرایط حفظ کند.",
+    "published": "Sat, 10 Oct 2026 10:52:58 GMT",
+    "collected_at": "2026-10-10T14:47:25.377669+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
     "title": "تداوم نوسانات در بازار طلا و سکه؛ هر گرم طلا ۲۶ میلیون و۵۵۰ هزار تومان",
     "link": "https://www.mehrnews.com/news/6973494/%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D9%86%D9%88%D8%B3%D8%A7%D9%86%D8%A7%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7-%DB%B2%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%B5%DB%B5%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1",
     "summary": "بر اساس اعلام اتحادیه طلا و جواهر، نرخ هر گرم طلای ۱۸ عیار و انواع سکه در بازار تهران با نوساناتی در معاملات امروز همراه شد.",
@@ -1301,6 +1267,30 @@
     "medium_impact_matches": [
       "رکود"
     ]
+  },
+  {
+    "source": "ایسنا",
+    "title": "کلاهبرداری ۱۰ میلیارد ریالی با وعده ازدواج در تبریز",
+    "link": "https://www.isna.ir/news/1405071811802/%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DB%B1%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%A8%D8%A7-%D9%88%D8%B9%D8%AF%D9%87-%D8%A7%D8%B2%D8%AF%D9%88%D8%A7%D8%AC-%D8%AF%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
+    "summary": "رئیس پلیس آگاهی آذربایجان شرقی از دستگیری متهمی در تبریز خبر داد که با وعده ازدواج در اینستاگرام و فریب شاکی به بهانه بیماری مادرش، طلاهایی به ارزش ۱۰ میلیارد ریال از وی دریافت کرده بود.",
+    "published": "Sat, 10 Oct 2026 11:15:22 GMT",
+    "collected_at": "2026-10-10T14:47:11.875419+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
