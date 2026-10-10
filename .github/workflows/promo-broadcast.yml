@@ -1,0 +1,61 @@
+
+name: ZarinMah Authorized Group Promotion
+
+on:
+  schedule:
+    # چهارشنبه، ساعت ۱۲:۳۰ به وقت تهران
+    - cron: "30 12 * * 3"
+      timezone: "Asia/Tehran"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zarinmah-promo-broadcast
+  cancel-in-progress: false
+
+jobs:
+  promote-channel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install requests
+
+      - name: Send scheduled promotion
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          PYTHONUNBUFFERED: "1"
+        run: python -u promo_broadcast.py
+
+      - name: Save promotion history
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add promo_sent.json
+
+          if git diff --cached --quiet; then
+            echo "No promotion history changes."
+            exit 0
+          fi
+
+          git commit -m "Update authorized group promotion history"
+
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
