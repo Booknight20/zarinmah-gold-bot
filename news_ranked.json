@@ -257,35 +257,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "بانک مرکزی وسط چهارراه ارز؛ هیچ کس به فرمانش توجه نمی کند! / برآورد سهم ۳۵ درصدی قاچاق و خروج سرمایه از منابع ارزی کشور",
-    "link": "https://www.khabaronline.ir/news/2285165/%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D9%88%D8%B3%D8%B7-%DA%86%D9%87%D8%A7%D8%B1%D8%B1%D8%A7%D9%87-%D8%A7%D8%B1%D8%B2-%D9%87%DB%8C%DA%86-%DA%A9%D8%B3-%D8%A8%D9%87-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%B4-%D8%AA%D9%88%D8%AC%D9%87-%D9%86%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-    "summary": "نرخ های فعلی ارز خارج از کشش اقتصاد ایران است و با دلار ۲۷۰ هزار تومانی، تأمین مواد اولیه و کالاهای واسطه ای برای بسیاری از صنایع صرفه اقتصادی ندارد... روز اول و دوم اجرای طرح فروش ۱۰ هزار دلار، ارز زیادی فروخته نشده است.",
-    "published": "Fri, 09 Oct 2026 10:45:00 GMT",
-    "collected_at": "2026-10-09T14:15:50.996520+03:30",
-    "market_score": 22,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مهر",
     "title": "افزایش بهای جهانی طلا و نقره در معاملات بازار فلزات گرانبها",
     "link": "https://www.mehrnews.com/news/6972970/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A8%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%81%D9%84%D8%B2%D8%A7%D8%AA-%DA%AF%D8%B1%D8%A7%D9%86%D8%A8%D9%87%D8%A7",
@@ -422,33 +393,6 @@
     ],
     "stock_matches": [],
     "high_impact_matches": [
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [
-      "قیمت نفت"
-    ]
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "چرا قیمت نفت پایین نمی آید؟/ اختلال ادامه دار در بازار نفت به روایت «رویترز» و «وال استریت ژورنال»",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300616-%DA%86%D8%B1%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D9%86%D9%85%DB%8C-%D8%A2%DB%8C%D8%AF-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%B1%D9%88%DB%8C%D8%AA%D8%B1%D8%B2-%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%DB%8C%D8%AA-%DA%98%D9%88%D8%B1%D9%86%D8%A7%D9%84",
-    "summary": "ازسرگیری جریان نفت از تنگه هرمز به این زودی ها مشکل را حل نخواهد کرد. بر اساس آخرین داده های شرکت کپلر، تا روز شنبه، میانگین هفت روزه محموله های نفت خام عبوری از این آبراه حیاتی میان ایران و عمان به ۱۰.۳ میلیون بشکه در روز رسید که معادل ۷۶ درصدِ حجمِ پیش از جنگ است.",
-    "published": "Fri, 09 Oct 2026 10:11:24 +0000",
-    "collected_at": "2026-10-09T14:15:48.121322+03:30",
-    "market_score": 19,
-    "market_matches": {},
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ",
-      "تنگه هرمز",
       "قیمت نفت"
     ],
     "medium_impact_matches": [
@@ -1037,31 +981,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "فرار ۲۱ میلیارد دلار از کشور",
-    "link": "https://www.tabnak.ir/fa/news/1397947/فرار-21-میلیارد-دلار-از-کشور",
-    "summary": "در یک سال و نیم گذشته، معادل ۲۱ میلیارد دلار از ارز های حاصل از صادرات به چرخه اقتصاد بازنگشته است؛ رقمی که ۸ میلیارد دلار آن مستقیماً به معضل استفاده از کارت های بازرگانی اجاره ای گره خورده است.",
-    "published": "09 Oct 2026 14:10:02 +0330",
-    "collected_at": "2026-10-09T14:15:53.685979+03:30",
-    "market_score": 12,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "شاخص کل بورس 134 هزار واحد رشد کرد/ کنترل بازار سهام توسط خریداران",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300854-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%D8%A7%D9%86",
@@ -1290,6 +1209,54 @@
     "medium_impact_matches": [
       "رکود"
     ]
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "وزیر نیرو: افغانستانی ها بسیار خوش حساب هستند/ حتی یک ریال هم بابت فروش برق، طلبکار نیستیم",
+    "link": "https://www.khabaronline.ir/news/2286348/%D9%88%D8%B2%DB%8C%D8%B1-%D9%86%DB%8C%D8%B1%D9%88-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AE%D9%88%D8%B4-%D8%AD%D8%B3%D8%A7%D8%A8-%D9%87%D8%B3%D8%AA%D9%86%D8%AF-%D8%AD%D8%AA%DB%8C-%DB%8C%DA%A9-%D8%B1%DB%8C%D8%A7%D9%84-%D9%87%D9%85",
+    "summary": "وزیر نیرو گفت: طرف افغانستانی در تسویه حساب خرید انرژی بسیار خوش حساب است؛ حتی یک ریال هم بابت فروش برق از افغانستان طلبکار نیستیم.",
+    "published": "Sat, 10 Oct 2026 12:30:00 GMT",
+    "collected_at": "2026-10-10T16:17:41.590324+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "آغاز اجرای طرح ۴۲۰ میلیارد ریالی امحای پسماندهای بیمارستانی در تبریز",
+    "link": "https://www.isna.ir/news/1405071811890/%D8%A2%D8%BA%D8%A7%D8%B2-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B7%D8%B1%D8%AD-%DB%B4%DB%B2%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%A7%D9%85%D8%AD%D8%A7%DB%8C-%D9%BE%D8%B3%D9%85%D8%A7%D9%86%D8%AF%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1",
+    "summary": "مدیرعامل سازمان مدیریت پسماند شهرداری تبریز از آغاز عملیات اجرایی راه اندازی دستگاه پیرولیز با سرمایه گذاری بیش از ۴۲۰ میلیارد ریال خبر داد و گفت: این طرح با هدف کاهش حجم پسماندهای عادی بیمارستانی، کاهش دفن و کنترل مخاطرات زیست محیطی اجرا می شود.",
+    "published": "Sat, 10 Oct 2026 12:38:01 GMT",
+    "collected_at": "2026-10-10T16:17:12.974441+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
