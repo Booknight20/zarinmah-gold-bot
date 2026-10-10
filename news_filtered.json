@@ -364,6 +364,24 @@
     "major_event_matches": []
   },
   {
+    "source": "مشرق",
+    "title": "بانک مرکزی خرید آنلاین طلا از اپلیکیشن های بانکی را ممنوع کرد",
+    "link": "https://www.mashreghnews.ir/news/1844868/%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86-%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9%DB%8C-%D8%B1%D8%A7-%D9%85%D9%85%D9%86%D9%88%D8%B9-%DA%A9%D8%B1%D8%AF",
+    "summary": "بانک ها و نئوبانک ها دیگر مجاز به فروش یا هدایت مشتری برای خرید طلای آب شده از بستر خود نیستند.",
+    "published": "Sat, 10 Oct 2026 14:38:00 GMT",
+    "collected_at": "2026-10-10T18:14:24.140052+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [
+      "بانک مرکزی"
+    ],
+    "major_event_matches": []
+  },
+  {
     "source": "ایسنا",
     "title": "کاناوارو: اینتر یک ناو جنگی است/ اگر می شد برای توپ طلا به کواراتسخلیا رای می دادم",
     "link": "https://www.isna.ir/news/1405071811928/%DA%A9%D8%A7%D9%86%D8%A7%D9%88%D8%A7%D8%B1%D9%88-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1-%DB%8C%DA%A9-%D9%86%D8%A7%D9%88-%D8%AC%D9%86%DA%AF%DB%8C-%D8%A7%D8%B3%D8%AA-%D8%A7%DA%AF%D8%B1-%D9%85%DB%8C-%D8%B4%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DA%A9%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%D8%B3%D8%AE%D9%84%DB%8C%D8%A7",
@@ -418,24 +436,6 @@
     "major_event_matches": []
   },
   {
-    "source": "مهر",
-    "title": "بارانی: دولت به فکر حفظ ذخایر ارزی باشد",
-    "link": "https://www.mehrnews.com/news/6972568/%D8%A8%D8%A7%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D8%A8%D9%87-%D9%81%DA%A9%D8%B1-%D8%AD%D9%81%D8%B8-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A8%D8%A7%D8%B4%D8%AF",
-    "summary": "رودان - امام جمعه رودان گفت: عرضه ارز بدون تغییر انتظارات مردم، ذخایر ملی را کاهش می دهد و مشکل بازار دلار را حل نمی کند از این رو دولت باید به فکر حفظ ذخایر ارزی باشد.",
-    "published": "Fri, 09 Oct 2026 12:27:59 GMT",
-    "collected_at": "2026-10-09T16:17:24.400761+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "ذخایر ارزی"
-    ],
-    "major_event_matches": []
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "روایت استاندار اقتصاددان از پایان عصر «اقتصاد نفتی» / دولت دیگر پول ندارد، اما سرمایه هست! / هشدار درباره ۷۰ هزار پروژه نیمه تمام و تورم ۷۰ درصدی",
     "link": "https://www.khabaronline.ir/news/2285186/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D8%AF%D8%A7%D9%86-%D8%A7%D8%B2-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B9%D8%B5%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%86%D9%81%D8%AA%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D8%AF%DB%8C%DA%AF%D8%B1",
@@ -478,6 +478,22 @@
       "تورم",
       "رکود"
     ],
+    "major_event_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "مقایسه رشد و نمودار طلا و نقره؛ کدام یک رشد بیشتری داشته است؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4300902-%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%B1%D8%B4%D8%AF-%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%DA%A9%D8%AF%D8%A7%D9%85-%DB%8C%DA%A9-%D8%B1%D8%B4%D8%AF-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA",
+    "summary": "وقتی صحبت از سرمایه گذاری روی فلزات ارزشمند می شود، معمولا اولین سؤال این است: طلا بهتر است یا نقره؟ هر دو فلز سال هاست به عنوان دارایی هایی برای حفظ ارزش پول مورد توجه سرمایه گذاران قرار دارند، اما رفتار قیمتی آن ها همیشه شبیه هم نبوده است.",
+    "published": "Sat, 10 Oct 2026 14:33:22 +0000",
+    "collected_at": "2026-10-10T18:14:16.763881+03:30",
+    "market_score": 3,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
     "major_event_matches": []
   },
   {
