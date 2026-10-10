@@ -408,5 +408,29 @@
     "eitaa_sent_at": "2026-10-10T10:14:43.412542+03:30",
     "eitaa_message_id": 175719215,
     "published_at": "2026-10-10T10:14:43.413368+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8417": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "بخاطر رشد اونس؛ طلا 18 عیار روی 26/600 الان معامله میشه",
+      "summary": "⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8417",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "اونس"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-10T11:15:20.452426+03:30"
+    },
+    "first_seen_at": "2026-10-10T11:15:23.237271+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-10T11:15:23.676866+03:30",
+    "telegram_message_id": 231,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-10T11:15:25.171947+03:30",
+    "eitaa_message_id": 175729194,
+    "published_at": "2026-10-10T11:15:25.173160+03:30"
   }
 }

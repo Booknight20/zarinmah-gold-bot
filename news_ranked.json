@@ -33,6 +33,36 @@
     "medium_impact_matches": []
   },
   {
+    "source": "مهر",
+    "title": "ردپای نفت در روند دلار؛ الگویی که هر بار تکرار می شود",
+    "link": "https://www.mehrnews.com/news/6973150/%D8%B1%D8%AF%D9%BE%D8%A7%DB%8C-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%B1%D9%88%D9%86%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%84%DA%AF%D9%88%DB%8C%DB%8C-%DA%A9%D9%87-%D9%87%D8%B1-%D8%A8%D8%A7%D8%B1-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "ارزیابی رابطه ده ساله صادرات نفت و نوسانات دلار از سبقت انتظارات تورمی بر آمارهای رسمی فروش نفت و اثر محاصره بر ارز حکایت دارد.",
+    "published": "Sat, 10 Oct 2026 07:28:22 GMT",
+    "collected_at": "2026-10-10T11:14:57.820490+03:30",
+    "market_score": 27,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تورم",
+      "صادرات نفت"
+    ],
+    "medium_impact_matches": []
+  },
+  {
     "source": "تابناک",
     "title": "رکوردشکنی بورس در میانه مهرماه با فتح قله ۸ میلیونی/ چگونه بورس از طلا و دلار سبقت گرفت؟",
     "link": "https://www.tabnak.ir/fa/news/1397956/رکوردشکنی-بورس-در-میانه-مهرماه-با-فتح-قله-8-میلیونی-چگونه-بورس-از-طلا-و-دلار-سبقت-گرفت",
@@ -591,34 +621,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۶ مهر ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۲۶۶ هزار تومان قیمت خورد + جدول",
-    "link": "https://www.khabaronline.ir/news/2285633/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
-    "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد و یورو با افزایش ۳ هزار و ۷۵۰ تومانی روبه رو شد.",
-    "published": "Thu, 08 Oct 2026 18:26:37 GMT",
-    "collected_at": "2026-10-08T22:17:35.787004+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مشرق",
     "title": "قیمت جهانی طلا به بالاترین سطح در یک هفته اخیر رسید",
     "link": "https://www.mashreghnews.ir/news/1844746/%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%87%D9%81%D8%AA%D9%87-%D8%A7%D8%AE%DB%8C%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -824,6 +826,31 @@
       "مثقال طلا"
     ],
     "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مشرق",
+    "title": "دلار حواله امروز چند؟",
+    "link": "https://www.mashreghnews.ir/news/1844767/%D8%AF%D9%84%D8%A7%D8%B1-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%86%D8%AF",
+    "summary": "قیمت فروش حواله دلار در مرکز مبادله ایران با ۵۲۳ تومان افزایش به ۱۷۸ هزار و ۴۰۶ تومان رسید.",
+    "published": "Sat, 10 Oct 2026 07:43:20 GMT",
+    "collected_at": "2026-10-10T11:15:14.567723+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "مرکز مبادله"
+    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
@@ -1108,29 +1135,28 @@
     ]
   },
   {
-    "source": "مشرق",
-    "title": "تلاش مذبوحانه ترامپ برای مهار قیمت نفت",
-    "link": "https://www.mashreghnews.ir/news/1844491/%D8%AA%D9%84%D8%A7%D8%B4-%D9%85%D8%B0%D8%A8%D9%88%D8%AD%D8%A7%D9%86%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D9%87%D8%A7%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA",
-    "summary": "ترامپ از مذاکرات با ایران خبر داد و گفت آمریکا تا پیش از انتخابات میان دوره ای حمله ای انجام نخواهد داد.",
-    "published": "Thu, 08 Oct 2026 18:46:00 GMT",
-    "collected_at": "2026-10-08T22:17:41.990476+03:30",
+    "source": "مهر",
+    "title": "سه پرونده مالی به ارزش ۲۵۰ میلیارد ریال در بهاباد به سازش ختم شد",
+    "link": "https://www.mehrnews.com/news/6973091/%D8%B3%D9%87-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%DB%B2%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1-%D8%A8%D9%87%D8%A7%D8%A8%D8%A7%D8%AF-%D8%A8%D9%87-%D8%B3%D8%A7%D8%B2%D8%B4-%D8%AE%D8%AA%D9%85",
+    "summary": "یزد- رئیس حوزه قضایی بهاباد از مختومه شدن سه پرونده مالی به ارزش مجموع بیش از ۲۵۰ میلیارد ریال با تلاش اعضای شورای حل اختلاف و توافق طرفین خبر داد.",
+    "published": "Sat, 10 Oct 2026 07:34:38 GMT",
+    "collected_at": "2026-10-10T11:14:57.820375+03:30",
     "market_score": 7,
-    "market_matches": {},
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
     "major_event_matches": [],
     "priority": "low",
     "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت"
+    "currency_matches": [
+      "ریال"
     ],
-    "medium_impact_matches": [
-      "قیمت نفت"
-    ]
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مشرق",
@@ -1693,30 +1719,6 @@
     "summary": "فرنگی کار ۳۶ ساله ترکیه و دارنده پنج عنوان قهرمانی جهان و ۱۳ عنوان قهرمانی اروپا، در آستانه مسابقات جهانی ۲۰۲۶ آستانه قزاقستان از انگیزه بالای خود برای کسب مدال طلا خبر داد.",
     "published": "Fri, 09 Oct 2026 04:30:00 GMT",
     "collected_at": "2026-10-09T08:14:05.011218+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "قهرمان موی تای جهان: پیام رهبر شهید برایم از مدال طلا ارزشمندتر بود",
-    "link": "https://www.mehrnews.com/news/6972120/%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D9%88%DB%8C-%D8%AA%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D9%BE%DB%8C%D8%A7%D9%85-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C%D9%85-%D8%A7%D8%B2-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B1%D8%B2%D8%B4%D9%85%D9%86%D8%AF%D8%AA%D8%B1",
-    "summary": "قم- قهرمان جهان در رشته موی تای گفت: دریافت پیام رهبر شهید پس از کسب مدال نقره بازی های همبستگی کشورهای اسلامی برای من اتفاقی ارزشمند و فراموش نشدنی و از مدال طلا نیز ارزشمندتر بود.",
-    "published": "Thu, 08 Oct 2026 18:36:15 GMT",
-    "collected_at": "2026-10-08T22:17:18.448963+03:30",
     "market_score": 5,
     "market_matches": {
       "gold": [
