@@ -1,45 +1,48 @@
 # -*- coding: utf-8 -*-
 
-import capital_flow
+from capital_flow import (
+    _latest_rahavard_report,
+    _parse_amount,
+    _format_billion,
+    build_capital_flow_section,
+)
+
 
 def main():
     print("=" * 45)
-    print("بررسی فایل جریان پول زرین ماه")
+    print("آزمایش دریافت اطلاعات جریان پول زرین ماه")
     print("=" * 45)
 
-    print("\nمسیر فایل بارگذاری‌شده:")
-    print(capital_flow.__file__)
+    print("\n1- آزمایش تبدیل اعداد:")
+    print("مقدار ۲۵۰۰ میلیارد:")
+    print(_format_billion(_parse_amount("2500 میلیارد")))
 
-    print("\nتوابع موجود در capital_flow.py:")
+    print("\n2- دریافت گزارش ره‌آورد ۳۶۵:")
 
-    functions = [
-        name
-        for name in dir(capital_flow)
-        if callable(getattr(capital_flow, name))
-        and not name.startswith("__")
-    ]
+    try:
+        report = _latest_rahavard_report()
 
-    for name in functions:
-        print("-", name)
-
-    required = [
-        "_latest_rahavard_report",
-        "_extract_flow_line",
-        "_parse_amount",
-        "_format_billion",
-        "_flow_status",
-        "build_capital_flow_section",
-    ]
-
-    print("\nبررسی توابع موردنیاز:")
-
-    for name in required:
-        if hasattr(capital_flow, name):
-            print(f"OK: {name}")
+        if report:
+            print("گزارش دریافت شد.")
+            print("-" * 30)
+            print(report)
         else:
-            print(f"MISSING: {name}")
+            print("گزارش خالی است.")
 
-    print("\nپایان بررسی؛ هیچ پیامی ارسال نشده است.")
+    except Exception as exc:
+        print("دریافت گزارش ناموفق بود.")
+        print(type(exc).__name__, str(exc))
+
+    print("\n3- ساخت گزارش جریان نقدینگی:")
+
+    try:
+        section = build_capital_flow_section()
+        print(section)
+    except Exception as exc:
+        print("ساخت گزارش ناموفق بود.")
+        print(type(exc).__name__, str(exc))
+
+    print("\nآزمایش تمام شد؛ هیچ پیامی ارسال نشده است.")
 
 
 if __name__ == "__main__":
