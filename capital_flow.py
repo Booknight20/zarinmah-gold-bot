@@ -8,6 +8,7 @@ from zoneinfo import ZoneInfo
 
 import requests
 
+
 TEHRAN = ZoneInfo("Asia/Tehran")
 RAHAVARD_PUBLIC_URL = "https://t.me/s/rahavard365"
 
@@ -42,18 +43,29 @@ def _normalize_digits(value):
 
 
 def _parse_amount(text):
-    value = _normalize_digits(text).replace(",", "").replace(" ", "")
+    """تبدیل مبلغ به میلیارد تومان؛ علامت قبل یا بعد عدد پشتیبانی می‌شود."""
+    value = _normalize_digits(text)
+    value = value.replace(",", "").replace(" ", "")
+
     match = re.search(
-        r"([+-]?)\s*(\d+(?:\.\d+)?)\s*(میلیارد|همت|میلیون)?",
+        r"([+-]?)\s*(\d+(?:\.\d+)?)"
+        r"([+-]?)\s*(میلیارد|همت|میلیون)?\s*([+-]?)",
         value,
     )
 
     if not match:
         return None
 
-    sign = -1 if match.group(1) == "-" else 1
-    number = float(match.group(2))
-    unit = match.group(3) or "میلیارد"
+    prefix_sign = match.group(1)
+    number_text = match.group(2)
+    number_sign = match.group(3)
+    unit = match.group(4) or "میلیارد"
+    suffix_sign = match.group(5)
+
+    sign_text = prefix_sign or number_sign or suffix_sign
+    sign = -1 if sign_text == "-" else 1
+
+    number = float(number_text)
 
     if unit == "همت":
         number *= 1000
@@ -91,14 +103,21 @@ def _extract_flow_line(text, patterns):
         if amount is None:
             continue
 
-        if re.search(r"خروج|منفی|−", normalized) and amount > 0:
-            amount = -amount
+        # اگر علامت عدد مشخص نشده اما متن صریحاً از خروج پول می‌گوید،
+        # جهت را منفی در نظر می‌گیریم.
+        has_explicit_sign = bool(
+            re.search(
+                r"[+\-−]\s*(?:میلیارد|همت|میلیون)?",
+                _normalize_digits(normalized).replace(" ", ""),
+            )
+        )
 
         if (
-            re.search(r"ورود|مثبت|\+", normalized)
-            and re.search(r"خروج", normalized)
+            not has_explicit_sign
+            and re.search(r"خروج|منفی", normalized)
+            and amount > 0
         ):
-            continue
+            amount = -amount
 
         return amount, line.strip()
 
@@ -106,6 +125,7 @@ def _extract_flow_line(text, patterns):
 
 
 def _latest_rahavard_report():
+    """دریافت آخرین گزارش قابل تشخیص از صفحه عمومی ره‌آورد."""
     response = requests.get(
         RAHAVARD_PUBLIC_URL,
         headers=HEADERS,
@@ -128,6 +148,7 @@ def _latest_rahavard_report():
             "گزارش روزانه" in normalized
             or "وضعیت ورود و خروج پول" in normalized
         )
+
         has_category = any(
             term in normalized
             for term in (
@@ -148,14 +169,18 @@ def _latest_rahavard_report():
 def _flow_status(value):
     if value is None:
         return "داده قابل تأیید در دسترس نیست"
+
     if value > 0:
         return "ورود پول حقیقی"
+
     if value < 0:
         return "خروج پول حقیقی"
+
     return "تقریباً خنثی"
 
 
 def build_capital_flow_section(prices=None, previous=None):
+    """ساخت بخش جریان نقدینگی برای گزارش روزانه."""
     now = datetime.now(TEHRAN).strftime("%H:%M")
 
     parts = [
@@ -205,6 +230,7 @@ def build_capital_flow_section(prices=None, previous=None):
                     f"• {label}: {_format_billion(amount)} — "
                     f"{_flow_status(amount)}"
                 )
+
     else:
         parts.extend([
             "",
@@ -224,48 +250,6 @@ def build_capital_flow_section(prices=None, previous=None):
 
     if prices and previous:
         trend_lines = []
+
         labels = {
-            "gold18": "طلای ۱۸ عیار",
-            "dollar": "دلار آزاد",
-        }
-
-        for key, label in labels.items():
-            try:
-                current = float(prices.get(key))
-                old = float(previous.get(key))
-
-                if old <= 0:
-                    continue
-
-                percent = (current - old) / old * 100
-
-                if percent > 0:
-                    direction = "افزایش قیمت"
-                elif percent < 0:
-                    direction = "کاهش قیمت"
-                else:
-                    direction = "بدون تغییر محسوس قیمت"
-
-                trend_lines.append(
-                    f"• {label}: {direction} نسبت به نرخ قبلی "
-                    f"({percent:+.2f}٪)؛ این شاخص جریان پول نیست."
-                )
-            except (TypeError, ValueError, AttributeError):
-                continue
-
-        if trend_lines:
-            parts.extend([
-                "",
-                "📈 روند قیمت، نه جریان پول:",
-                *trend_lines,
-            ])
-
-    parts.extend([
-        "",
-        "🧠 جمع‌بندی",
-        "این گزارش ابزار پایش بازار است، نه توصیه قطعی خریدوفروش. "
-        "برای ارزیابی بهتر، جریان پول معتبر، روند قیمت و ارزش معاملات "
-        "باید در کنار هم بررسی شوند.",
-    ])
-
-    return "\n".join(parts)
+            "gold18": "طل
