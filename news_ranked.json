@@ -157,6 +157,34 @@
     "medium_impact_matches": []
   },
   {
+    "source": "تابناک",
+    "title": "قیمت طلا و سکه امروز ۱۹ مهر؛ طلای ۱۸ عیار عقب نشست",
+    "link": "https://www.tabnak.ir/fa/news/1398241/قیمت-طلا-و-سکه-امروز-19-مهر-طلای-18-عیار-عقب-نشست",
+    "summary": "قیمت طلا و سکه امروز تغییر مسیر داد به طوری که نیم سکه و ربع سکه که دیروز پرچمدار رشد بودند، امروز مسیر معکوس را رفتند و نیم سکه ۹۹۰ هزار و ربع سکه ۱,۱۵۰ هزار تومان افت کردند؛ گویا خریداران دیروز، امروز در حال نقد کردن سودشان هستند.",
+    "published": "11 Oct 2026 13:07:55 +0330",
+    "collected_at": "2026-10-11T13:14:29.166482+03:30",
+    "market_score": 22,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "نیم سکه",
+      "ربع سکه"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مشرق",
     "title": "نفت ۲۰۰ دلاری در راه است",
     "link": "https://www.mashreghnews.ir/news/1844841/%D9%86%D9%81%D8%AA-%DB%B2%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA",
@@ -240,6 +268,34 @@
       "شاخص هم وزن",
       "فرابورس"
     ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۸ مهر ۱۴۰۵/ دلار به کانال ۲۶۴ هزار تومان بازگشت + جدول",
+    "link": "https://www.khabaronline.ir/news/2286686/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
+    "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد و دلار با کاهش ۷۱۵ تومانی به کانال ۲۶۴ هزار تومان بازگشت.",
+    "published": "Sun, 11 Oct 2026 08:25:00 GMT",
+    "collected_at": "2026-10-11T13:14:27.024006+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
   },
@@ -351,6 +407,34 @@
       "رشد اقتصادی",
       "رکود"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "اتصال سامانه معاملات طلای آنلاین به سامانه ناظر بانک مرکزی",
+    "link": "https://www.mehrnews.com/news/6974402/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%A8%D9%87-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%86%D8%A7%D8%B8%D8%B1-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C",
+    "summary": "سامانه هوشمند معاملات و انبارداری فلزات گرانبها برای تکمیل الزامات فنی و نظارتی لازم، به سامانه ناظر بانک مرکزی با همکاری وزارت صمت متصل شد.",
+    "published": "Sun, 11 Oct 2026 09:20:06 GMT",
+    "collected_at": "2026-10-11T13:14:11.490220+03:30",
+    "market_score": 15,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [
+      "بانک مرکزی"
+    ],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": []
   },
   {
     "source": "تابناک",
@@ -592,6 +676,34 @@
     ],
     "medium_impact_matches": [
       "تحریم"
+    ]
+  },
+  {
+    "source": "ایسنا",
+    "title": "افت آرام بورس تهران/ بازار سهام عقب نشست",
+    "link": "https://www.isna.ir/news/1405071912466/%D8%A7%D9%81%D8%AA-%D8%A2%D8%B1%D8%A7%D9%85-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%D8%B3%D8%AA",
+    "summary": "بورس تهران در دومین روز معاملاتی هفته با کاهش شاخص های اصلی همراه شد و شاخص کل بورس بیش از ۲۲ هزار واحد افت کرد؛ هرچند ارزش معاملات به ۵۹.۴ همت رسید که نشان دهنده تداوم گردش قابل توجه نقدینگی در بازار سهام است.",
+    "published": "Sun, 11 Oct 2026 09:34:03 GMT",
+    "collected_at": "2026-10-11T13:14:03.941947+03:30",
+    "market_score": 14,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "ارزش معاملات"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "نقدینگی"
     ]
   },
   {
@@ -961,32 +1073,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مهر",
-    "title": "صعود پرقدرت بورس با جهش ۱۳۴ هزار واحدی شاخص کل",
-    "link": "https://www.mehrnews.com/news/6973375/%D8%B5%D8%B9%D9%88%D8%AF-%D9%BE%D8%B1%D9%82%D8%AF%D8%B1%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%A7-%D8%AC%D9%87%D8%B4-%DB%B1%DB%B3%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84",
-    "summary": "شاخص کل بورس تهران در پایان معاملات شنبه ۱۸ مهر با رشد ۱۳۴ هزار واحدی در کانال ۸ میلیون و ۲۶۵ هزار واحد آرام گرفت.",
-    "published": "Sat, 10 Oct 2026 09:26:32 GMT",
-    "collected_at": "2026-10-10T12:58:02.349833+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "تقویت قدرت خرید خانوار از حد شعار فراتر نرفته / اقداماتی نظیر عرضه کالا با تورم صفر ، پاسخگوی ضربه ای که جنگ به معیشت ملی زده، نیست",
     "link": "https://www.khabaronline.ir/news/2286584/%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D9%82%D8%AF%D8%B1%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%AD%D8%AF-%D8%B4%D8%B9%D8%A7%D8%B1-%D9%81%D8%B1%D8%A7%D8%AA%D8%B1-%D9%86%D8%B1%D9%81%D8%AA%D9%87-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%D8%A7%D8%AA%DB%8C-%D9%86%D8%B8%DB%8C%D8%B1",
@@ -1287,6 +1373,30 @@
     "medium_impact_matches": [
       "تحریم"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "نوری: اعتبار طرح های سفر رهبر شهید به بیش از ۲۰ هزار میلیارد ریال رسید",
+    "link": "https://www.mehrnews.com/news/6974258/%D9%86%D9%88%D8%B1%DB%8C-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D8%B7%D8%B1%D8%AD-%D9%87%D8%A7%DB%8C-%D8%B3%D9%81%D8%B1-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B2%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF",
+    "summary": "بجنورد- استاندار خراسان شمالی گفت: اعتبار طرح های مصوب سفر رهبر شهید به این استان به بیش از ۲۰ هزار میلیارد ریال رسیده و این طرح ها تاکنون ۹۰ درصد پیشرفت فیزیکی داشته اند.",
+    "published": "Sun, 11 Oct 2026 09:28:45 GMT",
+    "collected_at": "2026-10-11T13:14:11.490196+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -1793,30 +1903,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "جهش تجارت ایران و قزاقستان/ مبادلات دو کشور از ۴۳۰ میلیون دلار گذشت",
-    "link": "https://www.isna.ir/news/1405071811663/%D8%AC%D9%87%D8%B4-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D9%82%D8%B2%D8%A7%D9%82%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AF%D9%88-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B2-%DB%B4%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "ارزش مبادلات تجاری ایران و قزاقستان با ثبت رشد قابل توجه از حدود ۳۴۰ میلیون دلار در سال قبل به بیش از ۴۳۰ میلیون دلار در سال ۲۰۲۵ رسید؛ روندی که در کنار ظرفیت های مکمل اقتصادی دو کشور و فرصت های ناشی از موافقت نامه تجارت آزاد ایران و اتحادیه اقتصادی اوراسیا، چشم انداز تازه ای برای توسعه صادرات، همکاری های صنعتی و گسترش مبادلات تجاری دو کشور ترسیم می کند.",
-    "published": "Sat, 10 Oct 2026 09:17:48 GMT",
-    "collected_at": "2026-10-10T12:57:54.105800+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مهر",
     "title": "وقوع حادثه در تنگه هرمز و آتش سوزی در یک نفت کش",
     "link": "https://www.mehrnews.com/news/6974019/%D9%88%D9%82%D9%88%D8%B9-%D8%AD%D8%A7%D8%AF%D8%AB%D9%87-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%88-%D8%A2%D8%AA%D8%B4-%D8%B3%D9%88%D8%B2%DB%8C-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%86%D9%81%D8%AA-%DA%A9%D8%B4",
@@ -2053,6 +2139,30 @@
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "توضیحات مدیر نظارت بر ناشران سازمان بورس درباره واریز سود سهام عدالت/ چه کسانی هفته گذشته دریافتی داشتند؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301085-%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA-%D9%85%D8%AF%DB%8C%D8%B1-%D9%86%D8%B8%D8%A7%D8%B1%D8%AA-%D8%A8%D8%B1-%D9%86%D8%A7%D8%B4%D8%B1%D8%A7%D9%86-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%88%D8%A7%D8%B1%DB%8C%D8%B2-%D8%B3%D9%88%D8%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%DA%86%D9%87-%DA%A9%D8%B3%D8%A7%D9%86%DB%8C-%D9%87%D9%81%D8%AA%D9%87-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86%D8%AF",
+    "summary": "مدیر نظارت بر ناشران سازمان بورس و اوراق بهادار گفت: پرداخت انجام شده در روز چهارشنبه گذشته، صرفاً مربوط به سهام داران سهام عدالت در قید حیات بود که اطلاعات آن ها در سامانه سجام ناقص بود.",
+    "published": "Sun, 11 Oct 2026 09:02:58 +0000",
+    "collected_at": "2026-10-11T13:14:20.228453+03:30",
+    "market_score": 4,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
     "high_impact_matches": [],
     "medium_impact_matches": []
   }
