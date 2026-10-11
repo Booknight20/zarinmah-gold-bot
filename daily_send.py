@@ -14,7 +14,14 @@ EITAAYAR_TOKEN = os.environ.get("EITAAYAR_TOKEN")
 EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID")
 
 TELEGRAM_CHANNEL = "@ZarinMahGold"
+TELEGRAM_CHANNEL_URL = "https://t.me/ZarinMahGold"
 EITAA_API_URL = "https://eitaayar.ir/api"
+
+CHANNEL_PROMO = (
+    "🌙 زرین ماه | طلای کم‌اجرت\n"
+    "تحلیل بازار و آگهی‌های طلای کم‌اجرت را دنبال کنید.\n"
+    "کانال تلگرام: " + TELEGRAM_CHANNEL_URL
+)
 
 
 def fail(message):
@@ -34,6 +41,14 @@ def send_to_telegram(message):
     payload = {
         "chat_id": TELEGRAM_CHANNEL,
         "text": message,
+        "reply_markup": {
+            "inline_keyboard": [[
+                {
+                    "text": "View Channel",
+                    "url": TELEGRAM_CHANNEL_URL,
+                }
+            ]]
+        },
     }
 
     print("===================================")
@@ -168,6 +183,10 @@ def main():
             "⚠️ دریافت اطلاعات جریان پول در این اجرا "
             "با خطا مواجه شد."
         )
+
+    # The channel promotion is appended only after the analysis and capital-flow section,
+    # so it remains the final part of the message on both Telegram and Eitaa.
+    message = message.rstrip() + "\n\n" + CHANNEL_PROMO
 
     print("")
     print("Generated message:")
