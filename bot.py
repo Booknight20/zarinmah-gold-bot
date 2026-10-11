@@ -1344,6 +1344,7 @@ def price_source_line(asset):
 
 
 def change_text_for_asset(asset, current, previous_prices):
+    """نمایش تغییر نسبت به گزارش قبلی، بدون درصد."""
     previous_prices = previous_prices or {}
     previous_price = previous_prices.get(asset)
 
@@ -1363,12 +1364,10 @@ def change_text_for_asset(asset, current, previous_prices):
     if difference == 0:
         return "⚪ ➖ بدون تغییر"
 
-    percent = (difference / previous_price) * 100 if previous_price else 0
-    arrow = "🟢 ▲" if difference > 0 else "🔴 ▼"
-    sign = "+" if difference > 0 else "−"
     amount = to_persian_digits(f"{abs(difference):,}")
-    percent_text = to_persian_digits(f"{abs(percent):.2f}".rstrip("0").rstrip("."))
-    return f"{arrow} {sign}{amount} تومان ({sign}{percent_text}٪)"
+    if difference > 0:
+        return f"🟢 ▲ {amount} تومان افزایش"
+    return f"🔴 ▼ {amount} تومان کاهش"
 
 
 def used_source_footer():
@@ -1412,6 +1411,36 @@ def build_message(
     def price(value):
         return to_persian_digits(f"{value:,}")
 
+    # Telegram text messages do not support real card backgrounds;
+    # Unicode borders create clearly separated, box-like sections.
+    gold_box = f"""┌──────────────────────────
+<b>🥇 طلای ۱۸ عیار</b>
+💰 <b>قیمت لحظه‌ای: {price(prices["gold18"])} تومان</b>
+{change_text_for_asset("gold18", prices["gold18"], previous)}
+└──────────────────────────"""
+
+    coin_box = f"""┌──────────────────────────
+<b>🪙 قیمت سکه</b>
+
+▪ <b>سکه امامی</b>
+💰 <b>{price(prices["coin"])} تومان</b>
+{change_text_for_asset("coin", prices["coin"], previous)}
+
+▪ <b>نیم‌سکه</b>
+💰 <b>{price(prices["half"])} تومان</b>
+{change_text_for_asset("half", prices["half"], previous)}
+
+▪ <b>ربع‌سکه</b>
+💰 <b>{price(prices["quarter"])} تومان</b>
+{change_text_for_asset("quarter", prices["quarter"], previous)}
+└──────────────────────────"""
+
+    dollar_box = f"""┌──────────────────────────
+<b>💵 دلار آزاد</b>
+💰 <b>قیمت لحظه‌ای: {price(prices["dollar"])} تومان</b>
+{change_text_for_asset("dollar", prices["dollar"], previous)}
+└──────────────────────────"""
+
     return f"""<b>☾ زرین ماه | گزارش بازار</b>
 <b>📊 قیمت طلا، سکه و ارز</b>
 📅 {date_text}
@@ -1419,36 +1448,11 @@ def build_message(
 
 ━━━━━━━━━━━━━━━━━━
 
-<b>🥇 طلای ۱۸ عیار</b>
-<b>💰 {price(prices["gold18"])} تومان</b>
-{change_text_for_asset("gold18", prices["gold18"], previous)}
-{price_source_line("gold18")}
+{gold_box}
 
-━━━━━━━━━━━━━━━━━━
+{coin_box}
 
-<b>🪙 قیمت سکه</b>
-
-▪ <b>سکه امامی</b>
-<b>{price(prices["coin"])} تومان</b>
-{change_text_for_asset("coin", prices["coin"], previous)}
-{price_source_line("coin")}
-
-▪ <b>نیم‌سکه</b>
-<b>{price(prices["half"])} تومان</b>
-{change_text_for_asset("half", prices["half"], previous)}
-{price_source_line("half")}
-
-▪ <b>ربع‌سکه</b>
-<b>{price(prices["quarter"])} تومان</b>
-{change_text_for_asset("quarter", prices["quarter"], previous)}
-{price_source_line("quarter")}
-
-━━━━━━━━━━━━━━━━━━
-
-<b>💵 دلار آزاد</b>
-<b>{price(prices["dollar"])} تومان</b>
-{change_text_for_asset("dollar", prices["dollar"], previous)}
-{price_source_line("dollar")}
+{dollar_box}
 
 ━━━━━━━━━━━━━━━━━━
 
