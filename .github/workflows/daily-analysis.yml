@@ -4,7 +4,9 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "45 11 * * *"
+    # گزارش تحلیل روزانه ساعت ۱۹ تهران
+    - cron: "0 19 * * *"
+      timezone: "Asia/Tehran"
 
 jobs:
   daily:
