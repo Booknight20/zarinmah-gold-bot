@@ -9,9 +9,16 @@ import requests
 
 
 TEHRAN = ZoneInfo("Asia/Tehran")
-URL = "https://t.me/s/rahavard365"
+BASE_URL = "https://t.me/s/rahavard365"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 TIMEOUT = 20
+MAX_PAGES = 6
+
+PERSIAN_MONTHS = (
+    "فروردین", "اردیبهشت", "خرداد", "تیر",
+    "مرداد", "شهریور", "مهر", "آبان",
+    "آذر", "دی", "بهمن", "اسفند",
+)
 
 
 def _normalize_digits(value):
@@ -33,12 +40,13 @@ def _plain_text(raw):
     raw = re.sub(r"<[^>]+>", " ", raw)
     raw = html.unescape(raw)
     raw = raw.replace("\xa0", " ")
+    raw = raw.replace("‌", " ")
     return re.sub(r"\n\s*\n+", "\n", raw).strip()
 
 
-def _get_posts():
+def _fetch_page(url):
     response = requests.get(
-        URL,
+        url,
         headers=HEADERS,
         timeout=TIMEOUT,
     )
@@ -50,11 +58,62 @@ def _get_posts():
         flags=re.I | re.S,
     )
 
-    return [_plain_text(post) for post in posts]
+    messages = [_plain_text(post) for post in posts]
+
+    ids = [
+        int(value)
+        for value in re.findall(
+            r'data-post="rahavard365/(\d+)"',
+            response.text,
+            flags=re.I,
+        )
+    ]
+
+    return messages, ids
+
+
+def _get_posts(max_pages=MAX_PAGES):
+    """خواندن چند صفحه اخیر کانال عمومی ره‌آورد."""
+    collected = []
+    url = BASE_URL
+    visited_oldest_ids = set()
+
+    for _ in range(max_pages):
+        try:
+            messages, ids = _fetch_page(url)
+        except Exception as exc:
+            print("Rahavard page error:", repr(exc))
+            break
+
+        collected.extend(messages)
+
+        if not ids:
+            break
+
+        oldest_id = min(ids)
+
+        if oldest_id in visited_oldest_ids:
+            break
+
+        visited_oldest_ids.add(oldest_id)
+        url = BASE_URL + "?before=" + str(oldest_id)
+
+    # حذف متن‌های تکراری، با حفظ ترتیب
+    result = []
+    seen = set()
+
+    for post in collected:
+        key = post.strip()
+
+        if key and key not in seen:
+            seen.add(key)
+            result.append(key)
+
+    return result
 
 
 def _parse_amount(text):
-    """تبدیل مبلغ به میلیارد تومان؛ علامت قبل یا بعد عدد پذیرفته می‌شود."""
+    """تبدیل مبلغ به میلیارد تومان."""
     value = _normalize_digits(text).replace(",", "")
 
     pattern = (
@@ -95,8 +154,30 @@ def _format_billion(value):
     return f"{sign}{number:.1f} میلیارد تومان"
 
 
-def _latest_rahavard_report():
-    posts = _get_posts()
+def _extract_date_key(text):
+    """استخراج تاریخ شمسی از متن گزارش."""
+    normalized = _normalize_digits(text)
+
+    months = "|".join(PERSIAN_MONTHS)
+
+    match = re.search(
+        r"(\d{1,2})\s+(" + months + r")\s+(\d{4})",
+        normalized,
+    )
+
+    if not match:
+        return None
+
+    day = int(match.group(1))
+    month = match.group(2)
+    year = int(match.group(3))
+
+    return year, month, day
+
+
+def _latest_rahavard_report(posts=None):
+    if posts is None:
+        posts = _get_posts()
 
     for report in reversed(posts):
         normalized = report.replace("‌", " ")
@@ -121,32 +202,33 @@ def _latest_rahavard_report():
     raise ValueError("گزارش روزانه ره‌آورد پیدا نشد.")
 
 
-def _latest_gold_funds_report():
-    """جست‌وجوی آخرین پست مرتبط با جریان پول صندوق‌های طلا."""
-    posts = _get_posts()
+def _latest_gold_funds_report(posts=None):
+    """جست‌وجوی گزارش اختصاصی جریان پول صندوق‌های طلا."""
+    if posts is None:
+        posts = _get_posts()
 
     for report in reversed(posts):
         text = report.replace("‌", " ")
-        lower_text = text.lower()
 
-        has_gold = (
-            "صندوق طلا" in text
-            or "صندوق‌های طلا" in text
-            or "صندوق های طلا" in text
+        title_match = (
+            "گزارش ورود پول حقیقی به صندوق‌های طلا" in text
+            or "گزارش ورود پول حقیقی به صندوق های طلا" in text
+            or "گزارش خروج پول حقیقی از صندوق‌های طلا" in text
+            or "گزارش خروج پول حقیقی از صندوق های طلا" in text
         )
 
-        has_flow = any(
-            phrase in text
-            for phrase in (
-                "ورود پول",
-                "خروج پول",
-                "پول حقیقی",
-                "وارد شد",
-                "خارج شد",
+        has_gold = "صندوق" in text and "طلا" in text
+        has_flow = (
+            "پول حقیقی" in text
+            and (
+                "وارد شد" in text
+                or "خارج شد" in text
+                or "ورود پول" in text
+                or "خروج پول" in text
             )
         )
 
-        if has_gold and has_flow:
+        if title_match or (has_gold and has_flow):
             return report
 
     return None
@@ -154,19 +236,20 @@ def _latest_gold_funds_report():
 
 def _parse_gold_fund_flow(report):
     """
-    استخراج خالص ورود یا خروج پول صندوق‌های طلا.
+    استخراج جریان پول صندوق‌های طلا.
     خروجی بر حسب میلیارد تومان است.
-    اگر جهت جریان یا مبلغ مشخص نباشد، None برمی‌گرداند.
+    اگر مبلغ یا جهت روشن نباشد، None برمی‌گرداند.
     """
     if not report:
         return None
 
     text = _normalize_digits(report).replace(",", "")
 
+    # مبلغ باید به واحد مالی مشخصی متصل باشد.
     amount_match = re.search(
-        r"(\d+(?:\.\d+)?)\s*"
-        r"(همت|میلیارد(?:\s*تومان(?:ی)?)?|میلیون)"
-        r"(?:\s+تومان(?:ی)?)?",
+        r"(\d+(?:\.\d+)?)"
+        r"[^0-9\n]{0,40}"
+        r"(همت|میلیارد|میلیون)",
         text,
     )
 
@@ -181,11 +264,17 @@ def _parse_gold_fund_flow(report):
     elif unit == "میلیون":
         amount /= 1000
 
-    # ابتدا جهت جریان را از عبارت‌های صریح تشخیص می‌دهیم.
-    if re.search(r"خروج\s+پول|پول.*?خارج\s+شد", text):
+    # خروج را پیش از ورود بررسی می‌کنیم.
+    if re.search(
+        r"خروج پول|پول حقیقی.*?خارج شد|پول.*?از صندوق.*?خارج",
+        text,
+    ):
         return -amount
 
-    if re.search(r"ورود\s+پول|پول.*?وارد\s+شد", text):
+    if re.search(
+        r"ورود پول|پول حقیقی.*?وارد شد|پول.*?به صندوق.*?وارد",
+        text,
+    ):
         return amount
 
     return None
@@ -210,24 +299,21 @@ def build_capital_flow_section(prices=None, previous=None):
         "منبع: کانال عمومی ره‌آورد ۳۶۵",
     ]
 
-    report = ""
+    try:
+        posts = _get_posts()
+    except Exception as exc:
+        posts = []
+        print("Rahavard source error:", repr(exc))
+
+    market_report = None
 
     try:
-        report = _latest_rahavard_report()
+        market_report = _latest_rahavard_report(posts)
+
         parts.extend([
             "",
             "📊 گزارش روزانه بازار:",
-            report,
-        ])
-    except Exception as exc:
-        parts.extend([
-            "",
-            "⚠️ دریافت گزارش روزانه بازار موفق نبود.",
-        ])
-        print("Market report error:", repr(exc))
-
-    if report:
-        parts.extend([
+            market_report,
             "",
             "🧭 جریان پول حقیقی بازار:",
         ])
@@ -237,7 +323,6 @@ def build_capital_flow_section(prices=None, previous=None):
             "صندوق‌های درآمد ثابت": [r"درآمد\s*ثابت"],
             "صندوق‌های اهرمی": [
                 r"صندوق\s*های?\s*اهرم",
-                r"صندوق‌های اهرمی",
                 r"صندوق\s*اهرم",
             ],
         }
@@ -245,19 +330,20 @@ def build_capital_flow_section(prices=None, previous=None):
         for label, patterns in categories.items():
             amount = None
 
-            for line in report.splitlines():
-                normalized = line.replace("‌", " ")
-
+            for line in market_report.splitlines():
                 if any(
-                    re.search(pattern, normalized)
+                    re.search(pattern, line.replace("‌", " "))
                     for pattern in patterns
                 ):
-                    amount = _parse_amount(normalized)
+                    amount = _parse_amount(line)
+
                     if amount is not None:
                         break
 
             if amount is None:
-                parts.append("• " + label + ": رقم قابل استخراج نیست.")
+                parts.append(
+                    "• " + label + ": رقم قابل استخراج نیست."
+                )
             else:
                 parts.append(
                     "• " + label + ": "
@@ -265,50 +351,100 @@ def build_capital_flow_section(prices=None, previous=None):
                     + " — " + _flow_status(amount)
                 )
 
-    # بخش جدید: صندوق‌های طلای بورسی
+    except Exception as exc:
+        parts.extend([
+            "",
+            "⚠️ گزارش روزانه بازار دریافت نشد.",
+        ])
+        print("Market report error:", repr(exc))
+
     parts.extend([
         "",
         "🪙 جریان پول صندوق‌های طلای بورسی:",
     ])
 
     try:
-        gold_report = _latest_gold_funds_report()
+        gold_report = _latest_gold_funds_report(posts)
 
-        if gold_report:
-            gold_flow = _parse_gold_fund_flow(gold_report)
-
-            parts.append("📊 آخرین گزارش مرتبط ره‌آورد:")
-            parts.append(gold_report)
-
-            if gold_flow is not None:
-                parts.append(
-                    "💰 خالص جریان پول گزارش‌شده: "
-                    + _format_billion(gold_flow)
-                )
-                parts.append(
-                    "📍 وضعیت: " + _flow_status(gold_flow)
-                )
-            else:
-                parts.append(
-                    "⚠️ مبلغ یا جهت جریان پول از متن گزارش "
-                    "به‌طور مطمئن قابل استخراج نیست."
-                )
-        else:
+        if not gold_report:
             parts.append(
-                "⚠️ گزارش مشخص و قابل استخراج جریان پول "
-                "صندوق‌های طلا در پست‌های بررسی‌شده پیدا نشد."
+                "⚠️ گزارش اختصاصی جریان پول صندوق‌های طلا "
+                "در صفحات بررسی‌شده پیدا نشد."
             )
+        else:
+            market_date = (
+                _extract_date_key(market_report)
+                if market_report
+                else None
+            )
+            gold_date = _extract_date_key(gold_report)
+
+            if gold_date:
+                day, month, year = (
+                    gold_date[2],
+                    gold_date[1],
+                    gold_date[0],
+                )
+                date_text = f"{day} {month} {year}"
+            else:
+                date_text = "تاریخ نامشخص"
+
+            if not market_date or not gold_date:
+                parts.append(
+                    "⚠️ تاریخ گزارش صندوق‌های طلا با اطمینان "
+                    "قابل مقایسه نیست."
+                )
+                parts.append("تاریخ گزارش پیدا‌شده: " + date_text)
+                parts.append(
+                    "برای جلوگیری از انتشار آمار قدیمی، "
+                    "مبلغ آن به‌عنوان آمار امروز نمایش داده نشد."
+                )
+
+            elif gold_date != market_date:
+                parts.append(
+                    "⚠️ آخرین گزارش پیدا‌شده مربوط به تاریخ دیگری است."
+                )
+                parts.append("تاریخ گزارش: " + date_text)
+                parts.append(
+                    "مبلغ گزارش قدیمی به‌عنوان جریان پول امروز "
+                    "محاسبه یا منتشر نمی‌شود."
+                )
+
+            else:
+                gold_flow = _parse_gold_fund_flow(gold_report)
+
+                parts.append("🗓 تاریخ گزارش: " + date_text)
+
+                if gold_flow is None:
+                    parts.append(
+                        "⚠️ گزارش امروز پیدا شد، اما مبلغ یا جهت "
+                        "جریان پول به‌طور مطمئن استخراج نشد."
+                    )
+                else:
+                    parts.append(
+                        "💰 خالص جریان پول حقیقی: "
+                        + _format_billion(gold_flow)
+                    )
+                    parts.append(
+                        "📍 وضعیت: " + _flow_status(gold_flow)
+                    )
+
+                parts.extend([
+                    "",
+                    "📄 متن گزارش صندوق‌های طلا:",
+                    gold_report,
+                ])
 
     except Exception as exc:
         parts.append(
-            "⚠️ دریافت اطلاعات صندوق‌های طلا موفق نبود."
+            "⚠️ بررسی گزارش صندوق‌های طلا موفق نبود."
         )
         print("Gold funds error:", repr(exc))
 
     parts.extend([
         "",
         "🏭 صنایع بورسی",
-        "رتبه‌بندی صنایع در این نسخه هنوز استخراج نمی‌شود.",
+        "رتبه‌بندی صنایع هنوز استخراج نمی‌شود.",
         "",
         "📈 طلا و دلار",
         "تغییر قیمت به‌تنهایی اثبات‌کننده ورود یا خروج پول نیست.",
