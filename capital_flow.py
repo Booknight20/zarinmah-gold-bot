@@ -1,4 +1,3 @@
-```python
 # -*- coding: utf-8 -*-
 
 import html
@@ -399,4 +398,3 @@ def build_capital_flow_section(prices=None, previous=None):
         )
 
     return "\n".join(parts)
-```
