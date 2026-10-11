@@ -1,3 +1,4 @@
+```python
 # -*- coding: utf-8 -*-
 
 import html
@@ -40,7 +41,7 @@ def _plain_text(raw):
     raw = re.sub(r"<[^>]+>", " ", raw)
     raw = html.unescape(raw)
     raw = raw.replace("\xa0", " ")
-    raw = raw.replace("‌", " ")
+    raw = raw.replace("\u200c", " ")
     return re.sub(r"\n\s*\n+", "\n", raw).strip()
 
 
@@ -73,10 +74,10 @@ def _fetch_page(url):
 
 
 def _get_posts(max_pages=MAX_PAGES):
-    """خواندن چندین صفحه از کانال عمومی ره‌آورد."""
+    """دریافت پست‌های عمومی کانال ره‌آورد، از جدید به قدیم."""
     collected = []
     url = BASE_URL
-    visited_oldest_ids = set()
+    visited_ids = set()
 
     for page_number in range(max_pages):
         try:
@@ -99,10 +100,10 @@ def _get_posts(max_pages=MAX_PAGES):
 
         oldest_id = min(ids)
 
-        if oldest_id in visited_oldest_ids:
+        if oldest_id in visited_ids:
             break
 
-        visited_oldest_ids.add(oldest_id)
+        visited_ids.add(oldest_id)
         url = BASE_URL + "?before=" + str(oldest_id)
 
     result = []
@@ -123,8 +124,10 @@ def _parse_amount(text):
     value = _normalize_digits(text).replace(",", "")
 
     pattern = (
-        r"(?<!\d)([+-]?)\s*(\d+(?:\.\d+)?)"
-        r"\s*([+-]?)\s*(همت|میلیارد|میلیون)?"
+        r"(?<![\d.])([+-]?)\s*"
+        r"(\d+(?:\.\d+)?)"
+        r"\s*([+-]?)\s*"
+        r"(همت|میلیارد|میلیون)?"
     )
 
     match = re.search(pattern, value)
@@ -181,19 +184,20 @@ def _extract_date_key(text):
 
 
 def _latest_rahavard_report(posts=None):
+    """پیدا کردن جدیدترین گزارش روزانه جریان پول."""
     if posts is None:
         posts = _get_posts()
 
-    for report in reversed(posts):
-        normalized = report.replace("‌", " ")
+    for report in posts:
+        text = report.replace("\u200c", " ")
 
         has_title = (
-            "گزارش روزانه" in normalized
-            or "وضعیت ورود و خروج پول" in normalized
+            "گزارش روزانه" in text
+            or "وضعیت ورود و خروج پول" in text
         )
 
         has_category = any(
-            word in normalized
+            word in text
             for word in (
                 "معاملات خرد",
                 "درآمد ثابت",
@@ -208,28 +212,35 @@ def _latest_rahavard_report(posts=None):
 
 
 def _latest_gold_funds_report(posts=None):
-    """جست‌وجوی گزارش‌های مرتبط با جریان پول صندوق‌های طلا."""
+    """جست‌وجوی پست‌های مرتبط با جریان پول صندوق‌های طلا."""
     if posts is None:
         posts = _get_posts()
 
-    # ترتیب دریافت حفظ می‌شود تا ابتدا پست‌های جدیدتر بررسی شوند.
+    gold_terms = (
+        "صندوق طلا",
+        "صندوق‌های طلا",
+        "صندوق های طلا",
+        "صندوق‌های طلایی",
+        "صندوق طلایی",
+        "صندوق‌های مبتنی بر طلا",
+        "صندوق های مبتنی بر طلا",
+    )
+
+    flow_terms = (
+        "پول حقیقی",
+        "ورود پول",
+        "خروج پول",
+        "وارد شد",
+        "خارج شد",
+        "ورود نقدینگی",
+        "خروج نقدینگی",
+    )
+
     for report in posts:
-        text = report.replace("‌", " ")
+        text = report.replace("\u200c", " ")
 
-        has_gold = (
-            "صندوق طلا" in text
-            or "صندوق‌های طلا" in text
-            or "صندوق های طلا" in text
-            or "صندوق‌های طلایی" in text
-        )
-
-        has_flow = (
-            "پول حقیقی" in text
-            or "ورود پول" in text
-            or "خروج پول" in text
-            or "وارد شد" in text
-            or "خارج شد" in text
-        )
+        has_gold = any(term in text for term in gold_terms)
+        has_flow = any(term in text for term in flow_terms)
 
         if has_gold and has_flow:
             return report
@@ -239,9 +250,8 @@ def _latest_gold_funds_report(posts=None):
 
 def _parse_gold_fund_flow(report):
     """
-    استخراج مبلغ جریان پول صندوق‌های طلا.
-    نتیجه بر حسب میلیارد تومان است.
-    در صورت نامشخص بودن جهت جریان، None برمی‌گرداند.
+    استخراج مبلغ جریان پول صندوق‌های طلا بر حسب میلیارد تومان.
+    اگر مبلغ یا جهت جریان مشخص نباشد، None برمی‌گرداند.
     """
     if not report:
         return None
@@ -249,8 +259,7 @@ def _parse_gold_fund_flow(report):
     text = _normalize_digits(report).replace(",", "")
 
     amount_match = re.search(
-        r"(\d+(?:\.\d+)?)"
-        r"[^0-9\n]{0,40}"
+        r"([+-]?)\s*(\d+(?:\.\d+)?)\s*([+-]?)\s*"
         r"(همت|میلیارد|میلیون)",
         text,
     )
@@ -258,23 +267,31 @@ def _parse_gold_fund_flow(report):
     if not amount_match:
         return None
 
-    amount = float(amount_match.group(1))
-    unit = amount_match.group(2)
+    sign = amount_match.group(1) or amount_match.group(3)
+    amount = float(amount_match.group(2))
+    unit = amount_match.group(4)
 
     if unit == "همت":
         amount *= 1000
     elif unit == "میلیون":
         amount /= 1000
 
-    # جهت جریان فقط با عبارت صریح تعیین می‌شود.
+    # علامت صریح مبلغ اولویت دارد.
+    if sign == "-":
+        return -amount
+
+    if sign == "+":
+        return amount
+
+    # در غیر این صورت جهت باید از عبارت گزارش مشخص شود.
     if re.search(
-        r"خروج پول|پول حقیقی.*?خارج شد|پول.*?از صندوق.*?خارج",
+        r"خروج پول|خروج نقدینگی|پول حقیقی.{0,30}خارج شد",
         text,
     ):
         return -amount
 
     if re.search(
-        r"ورود پول|پول حقیقی.*?وارد شد|پول.*?به صندوق.*?وارد",
+        r"ورود پول|ورود نقدینگی|پول حقیقی.{0,30}وارد شد",
         text,
     ):
         return amount
@@ -292,14 +309,94 @@ def _flow_status(value):
     return "تقریباً خنثی"
 
 
+def _extract_category_amount(report, category):
+    """استخراج مبلغ از خط مربوط به یک گروه بازار."""
+    for line in report.splitlines():
+        if category in line:
+            return _parse_amount(line)
+
+    return None
+
+
 def build_capital_flow_section(prices=None, previous=None):
+    """ساخت متن گزارش جریان نقدینگی؛ بدون ارسال پیام تلگرام."""
     now = datetime.now(TEHRAN).strftime("%H:%M")
 
     parts = [
         "💧 گزارش جریان نقدینگی بازار",
         "🕒 زمان بررسی: " + now + " به وقت تهران",
-        "منبع: کانال عمومی ره‌آورد ۳۶۵",
+        "📡 منبع: کانال عمومی ره‌آورد ۳۶۵",
     ]
 
     try:
-        posts = _
+        posts = _get_posts()
+        report = _latest_rahavard_report(posts)
+
+        report_date = _extract_date_key(report)
+        if report_date:
+            day, month, year = (
+                report_date[2],
+                report_date[1],
+                report_date[0],
+            )
+            parts.append(
+                f"🗓 تاریخ گزارش: {day} {month} {year}"
+            )
+
+        categories = (
+            ("معاملات خرد", "🟪 معاملات خرد"),
+            ("درآمد ثابت", "🟦 درآمد ثابت"),
+            ("صندوق اهرمی", "🟧 صندوق‌های اهرمی"),
+        )
+
+        parts.append("")
+        parts.append("📊 ورود و خروج پول حقیقی:")
+
+        for category, label in categories:
+            amount = _extract_category_amount(report, category)
+            status = _flow_status(amount)
+
+            parts.append(
+                f"{label}: {_format_billion(amount)}"
+                f" | {status}"
+            )
+
+        gold_report = _latest_gold_funds_report(posts)
+
+        parts.append("")
+        parts.append("🟨 صندوق‌های طلای بورسی:")
+
+        if gold_report:
+            gold_flow = _parse_gold_fund_flow(gold_report)
+
+            if gold_flow is None:
+                parts.append(
+                    "⚠️ گزارش صندوق‌های طلا پیدا شد، "
+                    "اما مبلغ یا جهت جریان پول قابل تشخیص نیست."
+                )
+            else:
+                parts.append(
+                    f"جریان پول: {_format_billion(gold_flow)}"
+                    f" | {_flow_status(gold_flow)}"
+                )
+        else:
+            parts.append(
+                "⚠️ گزارش اختصاصی جریان پول صندوق‌های طلا "
+                "در پست‌های بررسی‌شده پیدا نشد."
+            )
+
+        parts.append("")
+        parts.append(
+            "ℹ️ ارقام بر اساس متن گزارش منبع هستند؛ "
+            "نبود گزارش اختصاصی به معنی صفر بودن جریان پول نیست."
+        )
+
+    except Exception as exc:
+        print("Capital flow error:", repr(exc))
+        parts.append("")
+        parts.append(
+            "⚠️ دریافت یا پردازش گزارش جریان پول با خطا مواجه شد."
+        )
+
+    return "\n".join(parts)
+```
