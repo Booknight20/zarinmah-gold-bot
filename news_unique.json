@@ -448,6 +448,32 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا امروز یکشنبه ۱۹ مهر ۱۴۰۵",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301042-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
+    "summary": "قیمت طلا امروز بدون تغییر نسبت به روز گذشته، 4194 (چهار هزار و یکصد و نود و چهار دلار) نرخ گذاری شد.",
+    "published": "Sun, 11 Oct 2026 04:35:44 +0000",
+    "collected_at": "2026-10-11T08:45:40.155591+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "تابناک",
     "title": "قیمت دلار امروز شنبه ۱۸ مهرماه؛ نرخ رسمی حواله دلار اعلام شد",
     "link": "https://www.tabnak.ir/fa/news/1398062/قیمت-دلار-امروز-شنبه-18-مهرماه-نرخ-رسمی-حواله-دلار-اعلام-شد",
@@ -665,6 +691,32 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا و سکه امروز یکشنبه ۱۹ مهر ۱۴۰۵/ کاهش قیمت طلا و سکه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301044-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "summary": "قیمت طلای ۱۸ عیار و سکه امامی امروز در سایت اتحادیه طلا و جواهر با کاهش همراه شدند.",
+    "published": "Sun, 11 Oct 2026 04:30:31 +0000",
+    "collected_at": "2026-10-11T08:45:40.155613+03:30",
+    "market_score": 15,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "تابناک",
     "title": "توقف خرید طلا در اپلیکیشن بلو",
     "link": "https://www.tabnak.ir/fa/news/1398158/توقف-خرید-طلا-در-اپلیکیشن-بلو",
@@ -740,32 +792,6 @@
     "high_impact_matches": [
       "بانک مرکزی"
     ],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا و سکه امروز شنبه ۱۸ مهر ۱۴۰۵/ افزایش قیمت طلا و سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300794-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
-    "summary": "قیمت طلای ۱۸ عیار و سکه امامی امروز در سایت اتحادیه طلا و جواهر با افزایش همراه شدند.",
-    "published": "Sat, 10 Oct 2026 04:42:10 +0000",
-    "collected_at": "2026-10-10T08:17:47.951610+03:30",
-    "market_score": 15,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
@@ -1027,6 +1053,31 @@
       "ارز",
       "ریال"
     ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مشرق",
+    "title": "قیمت طلا و سکه امروز شنبه ۱۸ مهر ۱۴۰۵",
+    "link": "https://www.mashreghnews.ir/news/1844817/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "summary": "در بازار قیمت طلای ۱۸عیار ۲۶ میلیون و ۵۵۰ هزار تومان و قیمت سکه طرح جدید ۲۶۹ میلیون و ۳۰۰ هزار تومان شد.",
+    "published": "Sat, 10 Oct 2026 11:08:39 GMT",
+    "collected_at": "2026-10-10T14:47:48.894806+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "سکه"
+    ],
+    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
@@ -1385,29 +1436,52 @@
     ]
   },
   {
-    "source": "مهر",
-    "title": "برای عبور از رکود تورمی باید سامانه های زائد تعطیل شوند",
-    "link": "https://www.mehrnews.com/news/6967562/%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D8%B1%DA%A9%D9%88%D8%AF-%D8%AA%D9%88%D8%B1%D9%85%DB%8C-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%D8%A6%D8%AF-%D8%AA%D8%B9%D8%B7%DB%8C%D9%84-%D8%B4%D9%88%D9%86%D8%AF",
-    "summary": "عضو اتاق بازرگانی با بیان اینکه همزمان باید با تورم و رکود مقابله کرد، گفت: برای عبور از رکود تورمی، باید سامانه های زائد تجاری تعطیل و بخش رکودی اقتصاد نیز درمان شود.",
-    "published": "Sat, 10 Oct 2026 04:37:32 GMT",
-    "collected_at": "2026-10-10T08:17:37.317224+03:30",
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۱۹ مهر ۱۴۰۵ در زمان بازگشایی بازار/ طلای ۲۴عیار ۳۵ میلیون تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2286572/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B9-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B2%DB%B4%D8%B9%DB%8C%D8%A7%D8%B1",
+    "summary": "قیمت طلا در بازار تهران امروز ۱۹ مهرماه اعلام شد و هر گرم طلای ۱۸عیار در کانال ۲۶ میلیون تومان ماند.",
+    "published": "Sun, 11 Oct 2026 04:54:05 GMT",
+    "collected_at": "2026-10-11T08:45:44.070271+03:30",
     "market_score": 7,
-    "market_matches": {},
-    "driver_matches": [
-      "تورم",
-      "رکود"
-    ],
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
     "major_event_matches": [],
     "priority": "low",
-    "gold_matches": [],
+    "gold_matches": [
+      "طلا"
+    ],
     "currency_matches": [],
     "stock_matches": [],
-    "high_impact_matches": [
-      "تورم"
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا ۱۸ عیار امروز یکشنبه ۱۹ مهر ۱۴۰۵/افت قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301043-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت گرم طلا ۱۸ عیار با کاهش، به ۲۶ میلیون و ۴۷۱ هزار و ۷۰۰ تومان رسید.",
+    "published": "Sun, 11 Oct 2026 04:32:09 +0000",
+    "collected_at": "2026-10-11T08:45:40.155602+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
     ],
-    "medium_impact_matches": [
-      "رکود"
-    ]
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "ایسنا",
@@ -2300,60 +2374,12 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "زعفران طلای سرخ ایران؛ در میانه رنج برداشت و التهاب بازارهای جهانی",
-    "link": "https://www.isna.ir/news/1405071811351/%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%DB%8C%D8%A7%D9%86%D9%87-%D8%B1%D9%86%D8%AC-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B4%D8%AA-%D9%88-%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C",
-    "summary": "زعفران برای ایران، فراتر از یک محصول کشاورزی یا کالای صادراتی است؛ این گیاه ارزشمند که با فرهنگ و اقلیم کویری خراسان گره خورده، نمادی از سخت کوشی کشاورزانی است که سال ها میراث دار طلای سرخ بوده اند. تولید زعفران، از آبیاری در شب های سرد کویر تا برداشت محصول، حاصل تلاش و مبارزه با سختی های طبیعت است و هر رشته آن، روایتگر رنج و زحمت کشاورزان خراسان است.",
-    "published": "Sat, 10 Oct 2026 04:22:23 GMT",
-    "collected_at": "2026-10-10T08:17:26.809936+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "بهترین صندوق سهامی برای سرمایه گذاری در بورس کدام است؟",
     "link": "https://www.khabaronline.ir/news/2286240/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%B3%D9%87%D8%A7%D9%85%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%AF%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA",
     "summary": "بررسی کارنامه آگاس در بازه ای بیش از یک دهه، مجموعه ای از شاخص های قابل توجه را پیش روی سرمایه گذاران قرار می دهد.",
     "published": "Sat, 10 Oct 2026 08:14:57 GMT",
     "collected_at": "2026-10-10T11:45:54.702135+03:30",
-    "market_score": 4,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "راهکار ورود برق خانگی به بورس انرژی با ایجاد شرکت های تجمیع کننده",
-    "link": "https://www.mehrnews.com/news/6972947/%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D8%B1%D9%82-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%A8%D9%87-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AA%D8%AC%D9%85%DB%8C%D8%B9-%DA%A9%D9%86%D9%86%D8%AF%D9%87",
-    "summary": "کارشناس بازار انرژی با اشاره به مزایای تابلوی سبز، از سازوکار شرکت های تجمیع کننده برای اتصال برق خانگی به بورس انرژی و توسعه شبکه خبر داد.",
-    "published": "Sat, 10 Oct 2026 04:43:40 GMT",
-    "collected_at": "2026-10-10T08:17:37.317131+03:30",
     "market_score": 4,
     "market_matches": {
       "stock": [
