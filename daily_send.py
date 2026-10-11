@@ -1,9 +1,12 @@
+# -*- coding: utf-8 -*-
+
 import os
 import sys
 
 import requests
 
 from daily_analysis import build_message
+from capital_flow import build_capital_flow_section
 
 
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -45,29 +48,21 @@ def send_to_telegram(message):
             timeout=30,
         )
     except requests.RequestException as error:
-        fail(
-            f"Telegram request failed: {repr(error)}"
-        )
+        fail(f"Telegram request failed: {repr(error)}")
 
     print("Telegram HTTP status:", response.status_code)
     print("Telegram response:", response.text)
 
     if response.status_code != 200:
-        fail(
-            "Telegram returned an HTTP error."
-        )
+        fail("Telegram returned an HTTP error.")
 
     try:
         data = response.json()
     except ValueError:
-        fail(
-            "Telegram returned invalid JSON."
-        )
+        fail("Telegram returned invalid JSON.")
 
     if data.get("ok") is not True:
-        fail(
-            f"Telegram rejected the message: {data}"
-        )
+        fail(f"Telegram rejected the message: {data}")
 
     print("Telegram API accepted the message.")
     print("===================================")
@@ -107,29 +102,21 @@ def send_to_eitaa(message):
             timeout=30,
         )
     except requests.RequestException as error:
-        fail(
-            f"Eitaa request failed: {repr(error)}"
-        )
+        fail(f"Eitaa request failed: {repr(error)}")
 
     print("Eitaa HTTP status:", response.status_code)
     print("Eitaa response:", response.text)
 
     if response.status_code != 200:
-        fail(
-            "Eitaa returned an HTTP error."
-        )
+        fail("Eitaa returned an HTTP error.")
 
     try:
         data = response.json()
     except ValueError:
-        fail(
-            "Eitaa returned invalid JSON."
-        )
+        fail("Eitaa returned invalid JSON.")
 
     if data.get("ok") is not True:
-        fail(
-            f"Eitaa rejected the message: {data}"
-        )
+        fail(f"Eitaa rejected the message: {data}")
 
     print("Eitaa API accepted the message.")
     print("===================================")
@@ -151,9 +138,35 @@ def main():
             f"Could not build daily analysis: {repr(error)}"
         )
 
-    if not message.strip():
-        fail(
-            "Generated daily analysis is empty."
+    if not message or not message.strip():
+        fail("Generated daily analysis is empty.")
+
+    print("Building capital flow section...")
+
+    try:
+        capital_flow_section = build_capital_flow_section()
+
+        if capital_flow_section and capital_flow_section.strip():
+            message = (
+                message.rstrip()
+                + "\n\n"
+                + capital_flow_section.strip()
+            )
+            print("Capital flow section added successfully.")
+        else:
+            print("Capital flow section is empty.")
+
+    except Exception as error:
+        print(
+            "Capital flow section failed:",
+            repr(error),
+        )
+
+        message += (
+            "\n\n"
+            "💧 گزارش جریان نقدینگی بازار\n"
+            "⚠️ دریافت اطلاعات جریان پول در این اجرا "
+            "با خطا مواجه شد."
         )
 
     print("")
@@ -170,9 +183,7 @@ def main():
     ) as file:
         file.write(message)
 
-    print(
-        "Saved daily_message.txt successfully."
-    )
+    print("Saved daily_message.txt successfully.")
 
     send_to_telegram(message)
     send_to_eitaa(message)
