@@ -43,13 +43,16 @@ def _normalize_digits(value):
 
 
 def _parse_amount(text):
-    """تبدیل مبلغ به میلیارد تومان؛ علامت قبل یا بعد عدد پشتیبانی می‌شود."""
+    """
+    استخراج اولین مبلغ از متن و تبدیل آن به میلیارد تومان.
+    علامت قبل یا بعد عدد، مانند -4825 یا ۴۸۲۵-، پشتیبانی می‌شود.
+    """
     value = _normalize_digits(text)
-    value = value.replace(",", "").replace(" ", "")
+    value = value.replace(",", "")
 
     match = re.search(
-        r"([+-]?)\s*(\d+(?:\.\d+)?)"
-        r"([+-]?)\s*(میلیارد|همت|میلیون)?\s*([+-]?)",
+        r"(?<!\d)([+-]?)\s*(\d+(?:\.\d+)?)"
+        r"\s*([+-]?)\s*(همت|میلیارد|میلیون)?",
         value,
     )
 
@@ -58,11 +61,10 @@ def _parse_amount(text):
 
     prefix_sign = match.group(1)
     number_text = match.group(2)
-    number_sign = match.group(3)
+    suffix_sign = match.group(3)
     unit = match.group(4) or "میلیارد"
-    suffix_sign = match.group(5)
 
-    sign_text = prefix_sign or number_sign or suffix_sign
+    sign_text = prefix_sign or suffix_sign
     sign = -1 if sign_text == "-" else 1
 
     number = float(number_text)
@@ -79,7 +81,13 @@ def _format_billion(value):
     if value is None:
         return "نامشخص"
 
-    sign = "+" if value > 0 else ("−" if value < 0 else "")
+    if value > 0:
+        sign = "+"
+    elif value < 0:
+        sign = "−"
+    else:
+        sign = ""
+
     number = abs(value)
 
     if number >= 1000:
@@ -89,6 +97,7 @@ def _format_billion(value):
 
 
 def _extract_flow_line(text, patterns):
+    """استخراج مبلغ از خط مربوط به یک دسته بازار."""
     for line in text.splitlines():
         normalized = line.replace("‌", " ")
 
@@ -103,17 +112,19 @@ def _extract_flow_line(text, patterns):
         if amount is None:
             continue
 
-        # اگر علامت عدد مشخص نشده اما متن صریحاً از خروج پول می‌گوید،
-        # جهت را منفی در نظر می‌گیریم.
-        has_explicit_sign = bool(
-            re.search(
-                r"[+\-−]\s*(?:میلیارد|همت|میلیون)?",
-                _normalize_digits(normalized).replace(" ", ""),
-            )
+        # بررسی می‌کنیم که خود عدد علامت مثبت یا منفی داشته باشد.
+        normalized_digits = _normalize_digits(normalized)
+        compact = re.sub(r"\s+", "", normalized_digits)
+
+        explicit_sign = bool(
+            re.search(r"[+-]?\d+(?:\.\d+)?[+-]", compact)
+            or re.search(r"[+-]\d+(?:\.\d+)?", compact)
         )
 
+        # اگر عدد علامت نداشته باشد، فقط در صورت وجود واژه صریح
+        # «خروج» یا «منفی» جهت منفی در نظر گرفته می‌شود.
         if (
-            not has_explicit_sign
+            not explicit_sign
             and re.search(r"خروج|منفی", normalized)
             and amount > 0
         ):
@@ -125,7 +136,7 @@ def _extract_flow_line(text, patterns):
 
 
 def _latest_rahavard_report():
-    """دریافت آخرین گزارش قابل تشخیص از صفحه عمومی ره‌آورد."""
+    """دریافت آخرین گزارش روزانه قابل تشخیص از صفحه عمومی ره‌آورد."""
     response = requests.get(
         RAHAVARD_PUBLIC_URL,
         headers=HEADERS,
@@ -141,8 +152,8 @@ def _latest_rahavard_report():
 
     texts = [_plain_text(post) for post in posts]
 
-    for text in reversed(texts):
-        normalized = text.replace("‌", " ")
+    for report in reversed(texts):
+        normalized = report.replace("‌", " ")
 
         has_title = (
             "گزارش روزانه" in normalized
@@ -159,7 +170,7 @@ def _latest_rahavard_report():
         )
 
         if has_title and has_category:
-            return text
+            return report
 
     raise ValueError(
         "گزارش روزانه قابل تشخیص در صفحه عمومی ره‌آورد پیدا نشد."
@@ -180,78 +191,9 @@ def _flow_status(value):
 
 
 def build_capital_flow_section(prices=None, previous=None):
-    """ساخت بخش جریان نقدینگی برای گزارش روزانه."""
+    """ساخت بخش جریان نقدینگی برای گزارش روزانه زرین ماه."""
     now = datetime.now(TEHRAN).strftime("%H:%M")
 
     parts = [
         "💧 گزارش جریان نقدینگی بازار",
-        f"🕒 زمان بررسی: {now} به وقت تهران",
-        "منبع بررسی: صفحه عمومی ره‌آورد ۳۶۵",
-    ]
-
-    report = None
-
-    try:
-        report = _latest_rahavard_report()
-    except Exception as exc:
-        parts.extend([
-            "⚠️ دریافت گزارش جریان پول موفق نبود.",
-            "ممکن است دسترسی شبکه محدود باشد یا ساختار صفحه تغییر کرده باشد.",
-        ])
-        print("Capital-flow source unavailable:", repr(exc))
-
-    if report:
-        parts.extend([
-            "",
-            "📊 آخرین گزارش عمومی قابل تشخیص:",
-            report,
-            "",
-            "🧭 برداشت ماشینی از دسته‌بندی‌ها:",
-        ])
-
-        categories = {
-            "معاملات خرد سهام": [r"معاملات\s*خرد"],
-            "صندوق‌های درآمد ثابت": [r"درآمد\s*ثابت"],
-            "صندوق‌های اهرمی": [
-                r"صندوق\s*های?\s*اهرم",
-                r"صندوق‌های اهرمی",
-            ],
-        }
-
-        for label, patterns in categories.items():
-            amount, raw_line = _extract_flow_line(report, patterns)
-
-            if amount is None:
-                parts.append(
-                    f"• {label}: رقم ورود یا خروج پول با اطمینان استخراج نشد."
-                )
-            else:
-                parts.append(
-                    f"• {label}: {_format_billion(amount)} — "
-                    f"{_flow_status(amount)}"
-                )
-
-    else:
-        parts.extend([
-            "",
-            "📊 رقم مستقیم امروز برای معاملات خرد، صندوق‌های درآمد ثابت "
-            "و صندوق‌های اهرمی قابل تأیید نیست.",
-        ])
-
-    parts.extend([
-        "",
-        "🏭 صنایع بورسی",
-        "رتبه‌بندی صنایع بر اساس ورود و خروج پول در این نسخه ارائه نمی‌شود؛ "
-        "برای آن به داده کامل معاملات و نگاشت معتبر نمادها به صنایع نیاز است.",
-        "",
-        "🪙 طلا و 💵 دلار",
-        "از تغییر قیمت به‌تنهایی نمی‌توان ورود یا خروج پول را اثبات کرد.",
-    ])
-
-    if prices and previous:
-        trend_lines = []
-
-                labels = {
-            "gold18": "طلای ۱۸ عیار",
-            "dollar": "دلار آزاد",
-        }
+        f"🕒 زمان بررسی: {
