@@ -944,5 +944,29 @@
     "eitaa_sent_at": "2026-10-11T11:18:00.412530+03:30",
     "eitaa_message_id": 175901390,
     "published_at": "2026-10-11T11:18:00.414204+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25486": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "هزینه وکالت نقل‌وانتقال و تعویض پلاک خودرو براتون نوشتم داشته باشین",
+      "summary": "حق‌الثبت ۳۰ هزار تومان\nحق‌التحریر ۶۷۵ هزار تومان\nمالیات بر ارزش افزوده حق‌التحریر ۶۰ هزار و ۷۵۰ تومان\nهزینه صدور الکترونیکی سند ۳۰ هزار تومان\nهزینه اوراق نیز ۳۰ هزار تومان\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25486",
+      "analysis_score": 4,
+      "market_matches": [
+        "ارز",
+        "اوراق"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-11T11:47:11.060178+03:30"
+    },
+    "first_seen_at": "2026-10-11T11:47:13.435744+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-11T11:47:13.914144+03:30",
+    "telegram_message_id": 272,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-11T11:47:15.269367+03:30",
+    "eitaa_message_id": 175907681,
+    "published_at": "2026-10-11T11:47:15.271416+03:30"
   }
 }
