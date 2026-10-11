@@ -251,5 +251,7 @@ def build_capital_flow_section(prices=None, previous=None):
     if prices and previous:
         trend_lines = []
 
-        labels = {
-            "gold18": "طل
+                labels = {
+            "gold18": "طلای ۱۸ عیار",
+            "dollar": "دلار آزاد",
+        }
