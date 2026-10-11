@@ -1,44 +1,6 @@
 [
   {
     "source": "دنیای اقتصاد",
-    "title": "نرخ ارز دلار، طلا و یورو امروز شنبه ۱۸ مهر ۱۴۰۵/ رشد قیمت طلا و سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300837-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B1%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
-    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد افزایش قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
-    "published": "Sat, 10 Oct 2026 08:04:32 +0000",
-    "collected_at": "2026-10-10T11:45:49.215271+03:30",
-    "market_score": 47,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [
-      "دلار",
-      "نرخ ارز",
-      "ارز",
-      "یورو",
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت طلا، دلار و سکه امروز امروز یکشنبه ۱۹ مهر ۱۴۰۵/ سکه و طلا عقب می نشینند؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301060-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B3%DA%A9%D9%87-%D8%B7%D9%84%D8%A7-%D8%B9%D9%82%D8%A8-%D9%85%DB%8C-%D9%86%D8%B4%DB%8C%D9%86%D9%86%D8%AF",
     "summary": "امروز یکشنبه 19 مهر معاملات در بازار طلا، سکه و ارز در حالی آغاز می شود که دلار در معاملات پشت خطی به ۲۶۵ هزار و ۴۰۰ تومان عقب نشست، طلای ۱۸ عیار در محدوده ۲۶.۵ میلیون تومان قرار گرفت و سکه امامی به کانال ۲۶۸ میلیون تومان نزدیک شد.",
@@ -93,35 +55,6 @@
     "currency_matches": [
       "نرخ ارز",
       "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "قیمت طلا و سکه امروز ۱۸ مهر / طلای ۱۸ عیارچقدر گران شد؟",
-    "link": "https://www.tabnak.ir/fa/news/1398070/قیمت-طلا-و-سکه-امروز-18-مهر-طلای-18-عیارچقدر-گران-شد",
-    "summary": "قیمت طلا و سکه امروز مسیر جدیدی داشت؛ به طوری که طلای ۱۸ عیار ۱۷۸ هزار تومان جهش کرد و اونس جهانی ۶۷ دلار صعود کرد، اما سکه امامی حتی ۱۱۰ هزار تومان عقب رفت؛ گویی دو بازار جدا در یک بازار نفس می کشند!",
-    "published": "10 Oct 2026 11:43:19 +0330",
-    "collected_at": "2026-10-10T11:45:56.831250+03:30",
-    "market_score": 32,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "اونس جهانی",
-      "سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [
-      "دلار"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -300,34 +233,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "قیمت دلار، یورو و درهم امروز شنبه ۱۸ مهر ۱۴۰۵/ افزایش قیمت",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4300838-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA",
-    "summary": "قیمت دلار حواله ای امروز با افزایش نسبت به روز گذشته، از 177872 (یکصد و هفتاد و هفت هزار و هشتصد و هفتاد و دو) تومان به 178406 (یکصد و هفتاد و هشت هزار و چهارصد و شش) تومان رسید.",
-    "published": "Sat, 10 Oct 2026 07:43:16 +0000",
-    "collected_at": "2026-10-10T11:45:49.215409+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "یورو",
-        "درهم"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "یورو",
-      "درهم"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "قیمت طلا امروز یکشنبه ۱۹ مهر ۱۴۰۵",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301042-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
     "summary": "قیمت طلا امروز بدون تغییر نسبت به روز گذشته، 4194 (چهار هزار و یکصد و نود و چهار دلار) نرخ گذاری شد.",
@@ -347,32 +252,6 @@
     ],
     "currency_matches": [
       "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "قیمت دلار امروز شنبه ۱۸ مهرماه؛ نرخ رسمی حواله دلار اعلام شد",
-    "link": "https://www.tabnak.ir/fa/news/1398062/قیمت-دلار-امروز-شنبه-18-مهرماه-نرخ-رسمی-حواله-دلار-اعلام-شد",
-    "summary": "آغاز معاملات هفتگی ارز با افت نسبی دلار آزاد تا محدوده ۲۶۶ هزار تومان و هم زمان افزایش چندصد تومانی نرخ های رسمی در مرکز مبادله رقم خورده است.",
-    "published": "10 Oct 2026 11:16:55 +0330",
-    "collected_at": "2026-10-10T11:45:56.831322+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "مرکز مبادله"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -860,32 +739,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۱۸ مهر ۱۴۰۵/ مثقال طلا به کانال ۱۱۵ میلیون تومان رسید + جدول",
-    "link": "https://www.khabaronline.ir/news/2286218/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B1%DB%B1%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
-    "summary": "قیمت طلا در بازار تهران امروز ۱۸ مهرماه اعلام شد و هر گرم طلای ۱۸عیار ۲۶ میلیون و ۶۰۷ هزار تومان قیمت خورد. بر این اساس بهای مثقال طلا از ۱۱۵ میلیون تومان عبور کرد.",
-    "published": "Sat, 10 Oct 2026 08:02:24 GMT",
-    "collected_at": "2026-10-10T11:45:54.702159+03:30",
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "مثقال طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "رکوردشکنی بورس با سوخت تقاضا",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4300912-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%A7-%D8%B3%D9%88%D8%AE%D8%AA-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7",
@@ -1341,6 +1194,30 @@
     "medium_impact_matches": [
       "تحریم"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "توزیع ۸۷ هزار میلیارد ریال عوارض ارزش افزوده در قزوین طی ۶ ماه",
+    "link": "https://www.mehrnews.com/news/6974356/%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%DB%B8%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%B9%D9%88%D8%A7%D8%B1%D8%B6-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%87-%D8%AF%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%B7%DB%8C-%DB%B6-%D9%85%D8%A7%D9%87",
+    "summary": "قزوین- مدیرکل امور مالیاتی استان قزوین از توزیع بیش از ۸۷هزار میلیارد ریال عوارض ارزش افزوده در نیمه نخست سال ۱۴۰۵خبر داد که سهم شهرداری ها از این منابع بیش از ۵۸ هزار میلیارد ریال بوده است.",
+    "published": "Sun, 11 Oct 2026 08:45:02 GMT",
+    "collected_at": "2026-10-11T12:17:12.201969+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
@@ -1848,30 +1725,6 @@
   },
   {
     "source": "مهر",
-    "title": "فعالان تجهیزات پزشکی در تأمین ریال مشکل دارند",
-    "link": "https://www.mehrnews.com/news/6972972/%D9%81%D8%B9%D8%A7%D9%84%D8%A7%D9%86-%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-%D8%AF%D8%B1-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%B1%DB%8C%D8%A7%D9%84-%D9%85%D8%B4%DA%A9%D9%84-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
-    "summary": "مدیرکل تجهیزات و ملزومات پزشکی سازمان غذا و دارو، یکی از نگرانی های حوزه تجهیزات پزشکی را تامین ریال عنوان کرد.",
-    "published": "Sat, 10 Oct 2026 07:56:37 GMT",
-    "collected_at": "2026-10-10T11:45:40.685599+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
     "title": "وقوع حادثه در تنگه هرمز و آتش سوزی در یک نفت کش",
     "link": "https://www.mehrnews.com/news/6974019/%D9%88%D9%82%D9%88%D8%B9-%D8%AD%D8%A7%D8%AF%D8%AB%D9%87-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%88-%D8%A2%D8%AA%D8%B4-%D8%B3%D9%88%D8%B2%DB%8C-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%86%D9%81%D8%AA-%DA%A9%D8%B4",
     "summary": "سازمان تجارت دریایی انگلیس از وقوع یک حادثه در تنگه هرمز و به راه افتادن آتش سوزی در یک نفت کش خبر داد.",
@@ -2083,30 +1936,6 @@
     ],
     "currency_matches": [],
     "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "بهترین صندوق سهامی برای سرمایه گذاری در بورس کدام است؟",
-    "link": "https://www.khabaronline.ir/news/2286240/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%B3%D9%87%D8%A7%D9%85%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%AF%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA",
-    "summary": "بررسی کارنامه آگاس در بازه ای بیش از یک دهه، مجموعه ای از شاخص های قابل توجه را پیش روی سرمایه گذاران قرار می دهد.",
-    "published": "Sat, 10 Oct 2026 08:14:57 GMT",
-    "collected_at": "2026-10-10T11:45:54.702135+03:30",
-    "market_score": 4,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس"
-    ],
     "high_impact_matches": [],
     "medium_impact_matches": []
   }
