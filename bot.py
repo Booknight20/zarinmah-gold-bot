@@ -1261,6 +1261,48 @@ def mark_hourly_complete(
 
 
 # =========================================================
+# نمایش اعداد فارسی و تاریخ شمسی
+# =========================================================
+
+def to_persian_digits(value):
+    table = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
+    return str(value).translate(table)
+
+
+def gregorian_to_jalali(gy, gm, gd):
+    g_days_in_month = [0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334]
+    if gy > 1600:
+        jy = 979
+        gy -= 1600
+    else:
+        jy = 0
+        gy -= 621
+    gy2 = gy + 1 if gm > 2 else gy
+    days = (365 * gy) + ((gy2 + 3) // 4) - ((gy2 + 99) // 100) + ((gy2 + 399) // 400) - 80 + gd + g_days_in_month[gm - 1]
+    jy += 33 * (days // 12053)
+    days %= 12053
+    jy += 4 * (days // 1461)
+    days %= 1461
+    if days > 365:
+        jy += (days - 1) // 365
+        days = (days - 1) % 365
+    if days < 186:
+        jm = 1 + days // 31
+        jd = 1 + days % 31
+    else:
+        jm = 7 + (days - 186) // 30
+        jd = 1 + (days - 186) % 30
+    return jy, jm, jd
+
+
+def jalali_date_string(dt):
+    months = ["فروردین", "اردیبهشت", "خرداد", "تیر", "مرداد", "شهریور", "مهر", "آبان", "آذر", "دی", "بهمن", "اسفند"]
+    weekdays = ["دوشنبه", "سه‌شنبه", "چهارشنبه", "پنجشنبه", "جمعه", "شنبه", "یکشنبه"]
+    jy, jm, jd = gregorian_to_jalali(dt.year, dt.month, dt.day)
+    return f"{weekdays[dt.weekday()]} {to_persian_digits(jd)} {months[jm - 1]} {to_persian_digits(jy)}"
+
+
+# =========================================================
 # تغییر قیمت
 # =========================================================
 
@@ -1306,26 +1348,27 @@ def change_text_for_asset(asset, current, previous_prices):
     previous_price = previous_prices.get(asset)
 
     if previous_price is None:
-        return "🆕 اولین ثبت"
+        return "⚪ اطلاعات تغییر قبلی موجود نیست"
 
     previous_sources = previous_prices.get("_sources", {})
     previous_source = previous_sources.get(asset)
-
-    # فایل قیمت قدیمی قبل از اضافه‌شدن منبع جایگزین، فقط قیمت TGJU داشت.
     if previous_source is None:
         previous_source = "tgju"
 
     current_source = PRICE_METADATA.get(asset, {}).get("source")
-
-    # اختلاف نرخ دو منبع ممکن است با تغییر واقعی بازار اشتباه گرفته شود.
-    if (
-        previous_source
-        and current_source
-        and previous_source != current_source
-    ):
+    if previous_source and current_source and previous_source != current_source:
         return "⚪ تغییر منبع؛ مقایسه مستقیم انجام نشد"
 
-    return change_text(current, previous_price)
+    difference = current - previous_price
+    if difference == 0:
+        return "⚪ ➖ بدون تغییر"
+
+    percent = (difference / previous_price) * 100 if previous_price else 0
+    arrow = "🟢 ▲" if difference > 0 else "🔴 ▼"
+    sign = "+" if difference > 0 else "−"
+    amount = to_persian_digits(f"{abs(difference):,}")
+    percent_text = to_persian_digits(f"{abs(percent):.2f}".rstrip("0").rstrip("."))
+    return f"{arrow} {sign}{amount} تومان ({sign}{percent_text}٪)"
 
 
 def used_source_footer():
@@ -1362,43 +1405,61 @@ def build_message(
     previous,
 ):
     previous = previous or {}
+    now = datetime.now(TEHRAN)
+    update_time = to_persian_digits(now.strftime("%H:%M"))
+    date_text = jalali_date_string(now)
 
-    update_time = datetime.now(
-        TEHRAN
-    ).strftime(
-        "%H:%M"
-    )
+    def price(value):
+        return to_persian_digits(f"{value:,}")
 
-    def format_asset(title, asset):
-        source_line = price_source_line(asset)
-        source_text = f"\n{source_line}" if source_line else ""
-        return (
-            f"{title}\n"
-            f"💰 {prices[asset]:,} تومان\n"
-            f"{change_text_for_asset(asset, prices[asset], previous)}"
-            f"{source_text}"
-        )
+    return f"""<b>☾ زرین ماه | گزارش بازار</b>
+<b>📊 قیمت طلا، سکه و ارز</b>
+📅 {date_text}
+🕒 ساعت {update_time}
 
-    asset_sections = [
-        format_asset("🟡 طلای ۱۸ عیار", "gold18"),
-        format_asset("🪙 سکه امامی", "coin"),
-        format_asset("🪙 نیم‌سکه", "half"),
-        format_asset("🪙 ربع‌سکه", "quarter"),
-        format_asset("💵 دلار آزاد", "dollar"),
-    ]
+━━━━━━━━━━━━━━━━━━
 
-    return (
-        "🌙✨ زرین ماه | قیمت بازار\n"
-        "💎 قیمت طلا، سکه و دلار\n\n"
-        "━━━━━━━━━━━━━━━━━━\n\n"
-        + "\n\n".join(asset_sections)
-        + "\n\n━━━━━━━━━━━━━━━━━━\n"
-        + f"🕒 زمان ارسال: {update_time}\n\n"
-        + used_source_footer()
-        + "\n\n━━━━━━━━━━━━━━━━━━\n"
-        "🌙 زرین ماه | طلای کم‌اجرت\n"
-        "📲 @ZarinMahGold\n"
-    )
+<b>🥇 طلای ۱۸ عیار</b>
+<b>💰 {price(prices["gold18"])} تومان</b>
+{change_text_for_asset("gold18", prices["gold18"], previous)}
+{price_source_line("gold18")}
+
+━━━━━━━━━━━━━━━━━━
+
+<b>🪙 قیمت سکه</b>
+
+▪ <b>سکه امامی</b>
+<b>{price(prices["coin"])} تومان</b>
+{change_text_for_asset("coin", prices["coin"], previous)}
+{price_source_line("coin")}
+
+▪ <b>نیم‌سکه</b>
+<b>{price(prices["half"])} تومان</b>
+{change_text_for_asset("half", prices["half"], previous)}
+{price_source_line("half")}
+
+▪ <b>ربع‌سکه</b>
+<b>{price(prices["quarter"])} تومان</b>
+{change_text_for_asset("quarter", prices["quarter"], previous)}
+{price_source_line("quarter")}
+
+━━━━━━━━━━━━━━━━━━
+
+<b>💵 دلار آزاد</b>
+<b>{price(prices["dollar"])} تومان</b>
+{change_text_for_asset("dollar", prices["dollar"], previous)}
+{price_source_line("dollar")}
+
+━━━━━━━━━━━━━━━━━━
+
+🌐 <b>منابع قیمت</b>
+{used_source_footer()}
+
+⏱ آخرین به‌روزرسانی: {update_time} به وقت تهران
+
+<b>✨ زرین ماه | طلای کم‌اجرت</b>
+📲 @ZarinMahGold
+"""
 
 
 # =========================================================
@@ -1424,6 +1485,8 @@ def send_to_telegram(
         data={
             "chat_id": CHANNEL,
             "text": message,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
         },
         timeout=30,
     )
@@ -1480,9 +1543,11 @@ def send_to_eitaa(
         f"{token}/sendMessage"
     )
 
+    # ایتا را با متن ساده می‌فرستیم تا تگ‌های HTML تلگرام دیده نشوند.
+    eitaa_message = re.sub(r"</?b>", "", message)
     data = {
         "chat_id": chat_id,
-        "text": message,
+        "text": eitaa_message,
     }
 
     print(
