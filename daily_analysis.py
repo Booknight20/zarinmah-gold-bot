@@ -632,8 +632,45 @@ def build_analysis(
 
 
 # =========================================================
-# ساخت پیام کوتاه
+# ساخت پیام تحلیل روزانه با تمرکز بر روند بازار
 # =========================================================
+
+def describe_trend(change, asset):
+    """Describe only the observed change versus the last saved price."""
+    if change is None:
+        return (
+            "⚪ روند: نامشخص\n"
+            "دادهٔ قبلی کافی برای تعیین جهت حرکت وجود ندارد."
+        )
+
+    if change > 0.20:
+        status = "🟢🔺 روند: صعودی"
+        movement = "قیمت ثبت‌شده نسبت به نرخ قبلی افزایش داشته است."
+    elif change < -0.20:
+        status = "🔴🔻 روند: نزولی"
+        movement = "قیمت ثبت‌شده نسبت به نرخ قبلی کاهش داشته است."
+    else:
+        status = "⚪ روند: خنثی"
+        movement = "تغییر قیمت نسبت به نرخ قبلی محدود بوده است."
+
+    if asset == "gold":
+        context = (
+            "جهت بعدی طلا می‌تواند از تغییرات دلار و اونس جهانی اثر بگیرد؛ "
+            "این گزارش به‌تنهایی علت حرکت را اثبات نمی‌کند."
+        )
+    elif asset == "coin":
+        context = (
+            "علاوه بر طلا و دلار، حباب سکه و میزان تقاضا هم اثرگذارند؛ "
+            "حباب در این گزارش جداگانه اندازه‌گیری نشده است."
+        )
+    else:
+        context = (
+            "برای توضیح علت تغییر دلار، اطلاعات عرضه‌وتقاضا و اخبار روز "
+            "نیز لازم است."
+        )
+
+    return f"{status}\n{movement} {context}"
+
 
 def build_message():
     today = get_today_info()
@@ -652,46 +689,41 @@ def build_message():
         previous,
     )
 
-    occasions = get_occasions(
-        today
-    )
+    occasions = get_occasions(today)
 
     if occasions:
-        occasion_text = (
-            "🎉 "
-            + " | ".join(occasions)
-        )
+        occasion_text = "🎉 " + " | ".join(occasions)
     else:
         occasion_text = ""
+
+    gold_trend = describe_trend(analysis["gold"], "gold")
+    coin_trend = describe_trend(analysis["coin"], "coin")
+    dollar_trend = describe_trend(analysis["dollar"], "dollar")
 
     message = f"""🌙✨ زرین ماه | تحلیل روزانه
 
 📅 {today["weekday"]} | {today["date_text"]}
 {occasion_text}
 
-💰 قیمت‌ها
+📊 نبض بازار
 
-🟡 طلا: {format_price(prices.get("gold18"))} تومان | {format_percent(analysis["gold"])}
-🪙 سکه: {format_price(prices.get("coin"))} تومان | {format_percent(analysis["coin"])}
-🪙 نیم‌سکه: {format_price(prices.get("half"))} تومان
-🪙 ربع‌سکه: {format_price(prices.get("quarter"))} تومان
-💵 دلار: {format_price(prices.get("dollar"))} تومان | {format_percent(analysis["dollar"])}
+🟡 طلای ۱۸ عیار
+{gold_trend}
 
-📊 {analysis["market"]}
-📌 صعودی: {to_persian_digits(analysis["positive"])} | نزولی: {to_persian_digits(analysis["negative"])} | خنثی: {to_persian_digits(analysis["neutral"])}
+🪙 سکه امامی
+{coin_trend}
 
-🔎 {analysis["strongest"]}
-🔗 {analysis["gold_dollar"]}
-🪙 {analysis["coin_gold"]}
-📈 {analysis["volatility"]}
+💵 دلار آزاد
+{dollar_trend}
 
-🛍 {analysis["buyer"]}
+🧭 جمع‌بندی امروز
+{analysis["market"]}
+{analysis["strongest"]}
+{analysis["volatility"]}
 
-📌 مبنا: مقایسه با آخرین قیمت ذخیره‌شده قبلی ربات.
-این متن تحلیل خودکار است و پیش‌بینی قطعی بازار نیست.
+📌 مبنا: مقایسه با آخرین قیمت ذخیره‌شدهٔ قبلی ربات.
+این گزارش تغییر ثبت‌شدهٔ قیمت را توصیف می‌کند و پیش‌بینی قطعی نیست.
 
-🌙 زرین ماه
-📲 @ZarinMahGold
 """
 
     return message.strip()
