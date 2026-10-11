@@ -12,7 +12,7 @@ TEHRAN = ZoneInfo("Asia/Tehran")
 BASE_URL = "https://t.me/s/rahavard365"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 TIMEOUT = 20
-MAX_PAGES = 20
+MAX_PAGES = 100
 
 PERSIAN_MONTHS = (
     "فروردین", "اردیبهشت", "خرداد", "تیر",
@@ -235,7 +235,7 @@ def _latest_gold_funds_report(posts=None):
         "خروج نقدینگی",
     )
 
-    for report in posts:
+    for report in reversed(posts):
         text = report.replace("\u200c", " ")
 
         has_gold = any(term in text for term in gold_terms)
