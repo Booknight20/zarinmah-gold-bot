@@ -426,34 +426,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "بورس در مسیر صعود/ شاخص کل از ۸.۳ میلیون واحد عبور کرد",
-    "link": "https://www.khabaronline.ir/live/2286650/%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A7%D8%B2-%DB%B8-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84",
-    "summary": "شاخص کل بورس با رشد بیش از ۴۲ هزار واحدی از مرز ۸.۳ میلیون واحد عبور کرد؛ هم زمانی رشد شاخص هم وزن و فرابورس نیز توجه معامله گران را به پایداری موج صعودی بازار جلب کرده است.",
-    "published": "Sun, 11 Oct 2026 06:41:00 GMT",
-    "collected_at": "2026-10-11T10:17:42.412999+03:30",
-    "market_score": 18,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن",
-      "فرابورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۰ مهر ۱۴۰۵ در زمان بازگشایی بازار/ قیمت دلار به کانال ۲۶۴ هزار تومان برگشت + جدول",
     "link": "https://www.khabaronline.ir/news/2287091/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B0-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
     "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد، به طوری که دلار و یورو با ریزش روبه رو شده و به کانال ۲۶۴ هزار تومان برگشت.",
@@ -1229,6 +1201,32 @@
     ]
   },
   {
+    "source": "ایسنا",
+    "title": "از کمبود موشک تا کسری بودجه؛ عربستان گزینه های زیادی در یمن ندارد",
+    "link": "https://www.isna.ir/news/1405072013012/%D8%A7%D8%B2-%DA%A9%D9%85%D8%A8%D9%88%D8%AF-%D9%85%D9%88%D8%B4%DA%A9-%D8%AA%D8%A7-%DA%A9%D8%B3%D8%B1%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%DA%AF%D8%B2%DB%8C%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%B2%DB%8C%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%DB%8C%D9%85%D9%86-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+    "summary": "براساس گزارش وال استریت ژورنال، تشدید حملات تلافی جویانه ارتش یمن(انصارالله)، عربستان را هم زمان با بحران بودجه، کاهش ذخایر موشک های رهگیر و تهدید زیرساخت های حیاتی مواجه کرده است. تداوم جنگ می تواند سرمایه گذاری در فناوری اطلاعات و هوش مصنوعی را مختل کند و چشم انداز تحول اقتصادی بن سلمان را به خطر اندازد.",
+    "published": "Mon, 12 Oct 2026 06:58:27 GMT",
+    "collected_at": "2026-10-12T10:47:00.272888+03:30",
+    "market_score": 9,
+    "market_matches": {},
+    "driver_matches": [
+      "کسری بودجه",
+      "بودجه"
+    ],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
+    "medium_impact_matches": [
+      "کسری بودجه",
+      "بودجه"
+    ]
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "استراحت نصفه و نیمه بورس",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4301125-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%AA-%D9%86%D8%B5%D9%81%D9%87-%D9%86%DB%8C%D9%85%D9%87-%D8%A8%D9%88%D8%B1%D8%B3",
@@ -1354,6 +1352,30 @@
     "medium_impact_matches": [
       "تحریم"
     ]
+  },
+  {
+    "source": "ایسنا",
+    "title": "کشف انبار احتکار فرآورده های پالایشگاهی به ارزش ۱۵۰ میلیارد ریال در پیشوا",
+    "link": "https://www.isna.ir/news/1405072013015/%DA%A9%D8%B4%D9%81-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%DA%A9%D8%A7%D8%B1-%D9%81%D8%B1%D8%A2%D9%88%D8%B1%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%DB%B1%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84",
+    "summary": "فرمانده انتظامی شهرستان پیشوا از کشف انبار احتکار فرآورده های پالایشگاهی به ارزش تقریبی ۱۵۰ میلیارد ریال خبر داد و گفت: محموله مکشوفه برای رسیدگی قانونی به تعزیرات حکومتی ارجاع شد.",
+    "published": "Mon, 12 Oct 2026 06:59:11 GMT",
+    "collected_at": "2026-10-12T10:47:00.272843+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "دنیای اقتصاد",
@@ -1764,6 +1786,30 @@
     "medium_impact_matches": []
   },
   {
+    "source": "ایسنا",
+    "title": "ظرفیت مدال آوری ایران در ناگویا بیش از ۱۹ مدال طلا بود",
+    "link": "https://www.isna.ir/news/1405072013039/%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D9%85%D8%AF%D8%A7%D9%84-%D8%A2%D9%88%D8%B1%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B9-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D8%A8%D9%88%D8%AF",
+    "summary": "دبیرکل کمیته ملی المپیک با اشاره به اینکه عملکرد کاروان ایران در بازی های آسیایی ناگویا موفقیت آمیز بود، گفت: ظرفیت مدال آوری ایران در ناگویا بیش از ۱۹ مدال طلا بود.",
+    "published": "Mon, 12 Oct 2026 07:15:00 GMT",
+    "collected_at": "2026-10-12T10:47:00.272565+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "اینفوگرافیک؛ «طلای سبز» لرستان در مسیر توسعه و گردشگری",
     "link": "https://www.mehrnews.com/photo/6971883/%D8%A7%DB%8C%D9%86%D9%81%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D8%A8%D8%B2-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%88-%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C",
@@ -2144,6 +2190,30 @@
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "جزئیات تأمین برق صنایع؛ از معافیت محدودیت صنایع کوچک تا بورس انرژی",
+    "link": "https://www.mehrnews.com/news/6975292/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A8%D8%B1%D9%82-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%A7%D8%B2-%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%DA%A9%D9%88%DA%86%DA%A9-%D8%AA%D8%A7-%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "سخنگوی صنعت برق جزئیات جدید تأمین برق صنایع در زمان مدیریت مصرف را تشریح کرد؛ معافیت صنایع کوچک و راهکارهای جدید برای صنایع بزرگ اعلام شد.",
+    "published": "Mon, 12 Oct 2026 07:10:31 GMT",
+    "collected_at": "2026-10-12T10:47:13.361755+03:30",
+    "market_score": 4,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
     "high_impact_matches": [],
     "medium_impact_matches": []
   },
