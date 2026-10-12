@@ -682,32 +682,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "از دلار ۵۸ هزار تومانی تا ۲۷۰ هزار تومان؛ پرسش راغفر از دولت: چرا اداره کشور به گران تر شدن زندگی مردم گره خورده است؟",
-    "link": "https://www.khabaronline.ir/news/2286512/%D8%A7%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B5%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AA%D8%A7-%DB%B2%DB%B7%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D9%BE%D8%B1%D8%B3%D8%B4-%D8%B1%D8%A7%D8%BA%D9%81%D8%B1-%D8%A7%D8%B2-%D8%AF%D9%88%D9%84%D8%AA",
-    "summary": "عضو هیات علمی دانشگاه الزهرا، با انتقاد از سیاست های اقتصادی دولت، معتقد است آسیب پذیری اقتصاد ایران بیش از آنکه صرفاً ناشی از فشارهای خارجی باشد، از تصمیم های داخلی و نحوه مدیریت اقتصاد ناشی می شود. او ضمن انتقاد از افزایش نرخ ارز و سیاست فروش ۲ میلیارد دلار ارز به مردم، سهمیه بندی کالاهای اساسی و مهار قیمت ها را از راهکارهای عبور از بحران کنونی دانست و تاکید کرد که اداره کشور بدون گران سازی نیز امکان پذیر است.",
-    "published": "Sun, 11 Oct 2026 10:36:18 GMT",
-    "collected_at": "2026-10-11T14:17:28.583717+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "نرخ ارز",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مشرق",
     "title": "بانک مرکزی دست تراستی ها را برای انتقال ارزهای کلان بست",
     "link": "https://www.mashreghnews.ir/news/1845216/%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AF%D8%B3%D8%AA-%D8%AA%D8%B1%D8%A7%D8%B3%D8%AA%DB%8C-%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%DA%A9%D9%84%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA",
@@ -785,6 +759,32 @@
     "high_impact_matches": [
       "بانک مرکزی"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "بورس به مدار صعود بازگشت",
+    "link": "https://www.isna.ir/news/1405072013353/%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D9%85%D8%AF%D8%A7%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA",
+    "summary": "بورس تهران در معاملات امروز (دوشنبه)، پس از افت شاخص کل در روز گذشته، بار دیگر به مدار صعودی بازگشت و شاخص کل با رشد بیش از ۹۱ هزار واحدی، به محدوده هشت میلیون و ۳۳۳ هزار واحد رسید. افزایش شاخص هم وزن و ثبت بیش از یک میلیون معامله نیز از بهبود نسبی وضعیت معاملات بازار سهام حکایت داشت.",
+    "published": "Mon, 12 Oct 2026 11:21:50 GMT",
+    "collected_at": "2026-10-12T15:16:51.228516+03:30",
+    "market_score": 14,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "شاخص هم وزن"
+    ],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
@@ -944,32 +944,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مهر",
-    "title": "افت ۲۲ هزار واحدی شاخص کل بورس در معاملات ۱۹ مهر",
-    "link": "https://www.mehrnews.com/news/6974496/%D8%A7%D9%81%D8%AA-%DB%B2%DB%B2-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%DB%B1%DB%B9-%D9%85%D9%87%D8%B1",
-    "summary": "شاخص کل بورس تهران در پایان معاملات امروز یکشنبه ۱۹ مهر با افت ۲۲ هزار و ۵۹۷ واحدی در سطح ۸ میلیون و ۲۴۲ هزار واحد بسته شد.",
-    "published": "Sun, 11 Oct 2026 10:19:40 GMT",
-    "collected_at": "2026-10-11T14:17:12.303519+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "تابناک",
     "title": "قیمت طلا و سکه ۲۰ مهر ؛ این سکه ها عقب نشینی کردند!",
     "link": "https://www.tabnak.ir/fa/news/1398405/قیمت-طلا-و-سکه-20-مهر-این-سکه-ها-عقب-نشینی-کردند",
@@ -1040,31 +1014,6 @@
       "بازار ارز",
       "ارز"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "قیمت سکه و طلا در بازار داخلی؛ ممنوعیت خرید آنلاین طلا",
-    "link": "https://www.mehrnews.com/news/6974491/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%88-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D9%85%D9%85%D9%86%D9%88%D8%B9%DB%8C%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B7%D9%84%D8%A7",
-    "summary": "مطابق آخرین نرخ های اعلامی از سوی اتحادیه طلا و جواهر، قیمت انواع طلا و سکه در بازار به روزرسانی شد و ممنوعیت خرید آنلاین طلا ابلاغ گشت.",
-    "published": "Sun, 11 Oct 2026 10:16:25 GMT",
-    "collected_at": "2026-10-11T14:17:12.303576+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "سکه"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
@@ -1222,6 +1171,30 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "بازگشت ۳ میلیون دلار به بیت المال مرکزی با ورود سازمان بازرسی",
+    "link": "https://www.mehrnews.com/news/6975585/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D8%A8%DB%8C%D8%AA-%D8%A7%D9%84%D9%85%D8%A7%D9%84-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%A7-%D9%88%D8%B1%D9%88%D8%AF-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%B1%D8%B3%DB%8C",
+    "summary": "اراکـ،-بازرس کل استان مرکزی گفت: این سازمان بخشی از ۳ میلیون دلار وجوه تحصیل شده در یک دستگاه دولتی این استان را به بیت المال بازگرداند.",
+    "published": "Mon, 12 Oct 2026 11:30:29 GMT",
+    "collected_at": "2026-10-12T15:17:03.372054+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "ایسنا",
@@ -1590,54 +1563,6 @@
     "summary": "سمنان- مدیرکل بنیاد مسکن استان سمنان از اجرای دیوار سنگی در روستای رودبارک مهدیشهر خبر داد و گفت: این طرح با اعتبار ۱۵ میلیارد ریال برای کاهش خطر سیلاب و حفاظت زیرساخت ها اجرا شده است.",
     "published": "Sun, 11 Oct 2026 15:33:22 GMT",
     "collected_at": "2026-10-11T19:17:06.987650+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "کشف تخلف ۲۸ میلیارد ریالی در دو انبار ورامین",
-    "link": "https://www.isna.ir/news/1405071912560/%DA%A9%D8%B4%D9%81-%D8%AA%D8%AE%D9%84%D9%81-%DB%B2%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D8%AF%D9%88-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1-%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86",
-    "summary": "رئیس اداره صنعت، معدن و تجارت شهرستان ورامین از شناسایی دو انبار متخلف به دلیل ثبت نکردن موجودی کالا در سامانه جامع انبارها و تشکیل پرونده تخلف به ارزش ۲۸ میلیارد و ۴۸۵ میلیون ریال خبر داد.",
-    "published": "Sun, 11 Oct 2026 10:57:49 GMT",
-    "collected_at": "2026-10-11T14:44:36.125894+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "نظری: ارزش آمبولانس های پیشرفته استان مرکزی به ۹۰۰ میلیارد ریال رسید",
-    "link": "https://www.mehrnews.com/news/6974440/%D9%86%D8%B8%D8%B1%DB%8C-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A2%D9%85%D8%A8%D9%88%D9%84%D8%A7%D9%86%D8%B3-%D9%87%D8%A7%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D9%87-%DB%B9%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84",
-    "summary": "اراک- رئیس دانشگاه علوم پزشکی اراک از افزایش ارزش آمبولانس های پیشرفته تأمین شده با مشارکت خانواده شهید اسفندی به ارزش ۹۰۰ میلیارد ریال خبر داد.",
-    "published": "Sun, 11 Oct 2026 10:18:27 GMT",
-    "collected_at": "2026-10-11T14:17:12.303532+03:30",
     "market_score": 7,
     "market_matches": {
       "currency": [
