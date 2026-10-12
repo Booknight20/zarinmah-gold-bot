@@ -221,6 +221,33 @@
     ]
   },
   {
+    "source": "تابناک",
+    "title": "قیمت نفت برنت رکورد زد",
+    "link": "https://www.tabnak.ir/fa/news/1398349/قیمت-نفت-برنت-رکورد-زد",
+    "summary": "در پی تشدید حملات ایران به نفتکش های متخلف در تنگهٔ هرمز، قیمت نفت خام برنت افزایش یافت و از مرز ۱۰۵ دلار گذشت.",
+    "published": "12 Oct 2026 07:37:04 +0330",
+    "collected_at": "2026-10-12T07:47:13.323577+03:30",
+    "market_score": 19,
+    "market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "قیمت نفت"
+    ]
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "اسکورت جنگی، قبض نفتی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4301213-%D8%A7%D8%B3%DA%A9%D9%88%D8%B1%D8%AA-%D8%AC%D9%86%DA%AF%DB%8C-%D9%82%D8%A8%D8%B6-%D9%86%D9%81%D8%AA%DB%8C",
@@ -1098,29 +1125,6 @@
     "medium_impact_matches": [
       "تحریم"
     ]
-  },
-  {
-    "source": "مشرق",
-    "title": "فایننشال تایمز: صادرات نفت خلیج فارس ۴۲ درصد سقوط کرد",
-    "link": "https://www.mashreghnews.ir/news/1844796/%D9%81%D8%A7%DB%8C%D9%86%D9%86%D8%B4%D8%A7%D9%84-%D8%AA%D8%A7%DB%8C%D9%85%D8%B2-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%86%D9%81%D8%AA-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%DB%B4%DB%B2-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B3%D9%82%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF",
-    "summary": "فایننشال تایمز هشدار داد که حملات به نفتکش ها، جریان صادرات نفت خلیج فارس را به شدت کاهش داده است.",
-    "published": "Sun, 11 Oct 2026 00:00:00 GMT",
-    "collected_at": "2026-10-11T03:47:23.236373+03:30",
-    "market_score": 7,
-    "market_matches": {},
-    "driver_matches": [
-      "نفت",
-      "صادرات نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "صادرات نفت"
-    ],
-    "medium_impact_matches": []
   },
   {
     "source": "ایسنا",
