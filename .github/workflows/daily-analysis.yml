@@ -4,9 +4,8 @@ on:
   workflow_dispatch:
 
   schedule:
-    # گزارش تحلیل روزانه ساعت ۱۹ تهران
-    - cron: "0 19 * * *"
-      timezone: "Asia/Tehran"
+    # ساعت ۱۹:۰۰ به وقت تهران
+    - cron: "30 15 * * *"
 
 jobs:
   daily:
