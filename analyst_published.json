@@ -1859,5 +1859,30 @@
     "eitaa_sent_at": "2026-10-12T13:17:38.179371+03:30",
     "eitaa_message_id": 176097923,
     "published_at": "2026-10-12T13:17:38.181970+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8466": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "ترامپ سعی کرد با تزریق جزیی سوخت روسیه قیمت نفت رو کاهش بده",
+      "summary": "ولی زدن کشتی ها توسط ایران اثر بیشتری داشته و نفت به حدود ۱۰۶ دلار رسیده.\n⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8466",
+      "analysis_score": 6,
+      "market_matches": [
+        "دلار",
+        "قیمت نفت",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-12T13:47:47.257399+03:30"
+    },
+    "first_seen_at": "2026-10-12T13:47:48.112068+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-12T13:47:48.545768+03:30",
+    "telegram_message_id": 340,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-12T13:47:49.716327+03:30",
+    "eitaa_message_id": 176103741,
+    "published_at": "2026-10-12T13:47:49.718930+03:30"
   }
 }
