@@ -166,35 +166,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "قیمت دلار امروز یکشنبه ۱۹ مهرماه؛ کاهش نرخ دلار به ۲۶۲ هزار تومان",
-    "link": "https://www.tabnak.ir/fa/news/1398216/قیمت-دلار-امروز-یکشنبه-19-مهرماه-کاهش-نرخ-دلار-به-262-هزار-تومان",
-    "summary": "قیمت دلار امروز یکشنبه ۱۹ مهرماه ۱۴۰۵ با روند کاهشی به کانال ۲۶۲ هزار تومان رسیده است. در این گزارش، آخرین تغییرات قیمت انواع دلار، یورو و درهم در بازار آزاد و مرکز مبادله را تحلیل کرده ایم.",
-    "published": "11 Oct 2026 10:54:55 +0330",
-    "collected_at": "2026-10-11T11:17:42.072694+03:30",
-    "market_score": 27,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "نرخ دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "نرخ دلار",
-      "یورو",
-      "درهم",
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "مهار انتظارات با مداخله ارزی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-100/4301198-%D9%85%D9%87%D8%A7%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7-%D9%85%D8%AF%D8%A7%D8%AE%D9%84%D9%87-%D8%A7%D8%B1%D8%B2%DB%8C",
@@ -864,32 +835,6 @@
     ]
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "از رکوردشکنی بورس تا تردید معامله گران",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4301069-%D8%A7%D8%B2-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D8%A7-%D8%AA%D8%B1%D8%AF%DB%8C%D8%AF-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%DA%AF%D8%B1%D8%A7%D9%86",
-    "summary": "دنیای اقتصاد: شاخص کل بورس در میانه معاملات امروز با رشد ۰.۵ درصدی معادل ۴۲ هزار واحد، به محدوده ۸ میلیون و ۳۰۷ هزار واحد رسید و رکورد تاریخی جدیدی را به ثبت رساند. شاخص هم وزن نیز با افزایش حدود ۰.۲۲ درصدی در سطح ۲ میلیون و ۱۷۷ هزار واحد قرار گرفت.",
-    "published": "Sun, 11 Oct 2026 07:25:51 +0000",
-    "collected_at": "2026-10-11T11:17:32.428492+03:30",
-    "market_score": 14,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "گزارش بازار سرمایه امروز/ رشد شاخص بورس در آغاز معاملات ۲۰ مهر ۱۴۰۵",
     "link": "https://www.khabaronline.ir/live/2287187/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B1%D8%B4%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%87%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%DB%B2%DB%B0",
@@ -991,6 +936,31 @@
       "مثقال طلا"
     ],
     "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "کشف ۱۳ دستگاه استخراج غیرمجاز ارز دیجیتال در تالش",
+    "link": "https://www.isna.ir/news/1405072013173/%DA%A9%D8%B4%D9%81-%DB%B1%DB%B3-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%AF%D8%B1-%D8%AA%D8%A7%D9%84%D8%B4",
+    "summary": "فرمانده انتظامی تالش از کشف ۱۳ دستگاه استخراج غیرمجاز ارز دیجیتال به ارزش ۱۸ میلیارد ریال و دستگیری ۳ متهم در این شهرستان خبر داد.",
+    "published": "Mon, 12 Oct 2026 08:44:11 GMT",
+    "collected_at": "2026-10-12T12:17:02.388564+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز",
+      "ریال"
+    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
@@ -1141,31 +1111,6 @@
     "gold_matches": [
       "طلا",
       "طلای جهانی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا و سکه را کجا دنبال کنیم؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4301080-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A7-%DA%A9%D8%AC%D8%A7-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%DA%A9%D9%86%DB%8C%D9%85",
-    "summary": "بسیاری از افراد برای اطلاع از نرخ طلا به کانال های شبکه های اجتماعی یا صفحات مختلف مراجعه می کنند. با این حال، تفاوت در زمان به روزرسانی اطلاعات و منبع اعلام قیمت باعث می شود نرخ های منتشرشده در برخی منابع با یکدیگر تفاوت داشته باشند.",
-    "published": "Sun, 11 Oct 2026 07:37:00 +0000",
-    "collected_at": "2026-10-11T11:17:32.428442+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "سکه"
     ],
     "currency_matches": [],
     "stock_matches": [],
@@ -1325,6 +1270,30 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "تگرگ ۱۵۰۰ میلیارد ریال به باغ های پیرانشهر خسارت زد",
+    "link": "https://www.mehrnews.com/news/6975433/%D8%AA%DA%AF%D8%B1%DA%AF-%DB%B1%DB%B5%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A8%D9%87-%D8%A8%D8%A7%D8%BA-%D9%87%D8%A7%DB%8C-%D9%BE%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%B2%D8%AF",
+    "summary": "ارومیه - مدیر جهاد کشاورزی پیرانشهر گفت: بارش شدید تگرگ به ۸۵ هکتار از باغات منطقه پیران این شهرستان خسارت وارد کرد.",
+    "published": "Mon, 12 Oct 2026 08:41:53 GMT",
+    "collected_at": "2026-10-12T12:17:15.561659+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "ایسنا",
