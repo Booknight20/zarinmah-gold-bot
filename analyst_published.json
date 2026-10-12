@@ -1548,5 +1548,29 @@
     "eitaa_sent_at": "2026-10-12T08:17:46.912929+03:30",
     "eitaa_message_id": 176041589,
     "published_at": "2026-10-12T08:17:46.915452+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8459": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "دیروز ترامپ اومد توئیت زد که آتش بس و اینا...",
+      "summary": "دیروز ترامپ اومد توئیت زد که آتش بس و اینا...\nبعدش روسیه برق اوکراین رو زد.\nبعدش اوکراین پالایشگاه روسیه رو زد.\nفعلا نفت تغییر خاصی نکرده، ۱۰۳ دلار",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8459",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-12T08:44:19.792266+03:30"
+    },
+    "first_seen_at": "2026-10-12T08:44:20.553444+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-12T08:44:21.077249+03:30",
+    "telegram_message_id": 320,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-12T08:44:22.459438+03:30",
+    "eitaa_message_id": 176045107,
+    "published_at": "2026-10-12T08:44:22.461137+03:30"
   }
 }
