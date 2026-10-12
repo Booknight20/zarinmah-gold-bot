@@ -1756,5 +1756,54 @@
     "eitaa_sent_at": "2026-10-12T12:17:52.707679+03:30",
     "eitaa_message_id": 176086074,
     "published_at": "2026-10-12T12:17:52.710166+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8464": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "طلا 18 عیار حدود 400 هزارتومن زیر ارزش ذاتیش داره معامله میشه ‼️",
+      "summary": "⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8464",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-12T12:47:53.794244+03:30"
+    },
+    "first_seen_at": "2026-10-12T12:47:54.895159+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-12T12:47:55.640424+03:30",
+    "telegram_message_id": 335,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-12T12:47:57.370397+03:30",
+    "eitaa_message_id": 176091818,
+    "published_at": "2026-10-12T12:47:57.373185+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25509": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "یک خبر از بازار ملک بهتون بدم: فروشنده‌ها قیمت‌های دو ماه آتی را برای فروش پیشنهاد می‌دهند و تا آ...",
+      "summary": "یک خبر از بازار ملک بهتون بدم: فروشنده‌ها قیمت‌های دو ماه آتی را برای فروش پیشنهاد می‌دهند و تا آذرماه خیلی‌ها فروشنده نیستند!\nتحلیل من این است که بازار ملک رشد دارد، اما ریالی.\nدر حقیقت، باز هم بازار ملک نقدشوندگی خود را فدای قیمت بالاتر کرده و این دوباره یک رکود مقطعی می‌آورد!\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25509",
+      "analysis_score": 4,
+      "market_matches": [
+        "ریال",
+        "رکود"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-12T12:47:51.937821+03:30"
+    },
+    "first_seen_at": "2026-10-12T12:47:57.375711+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-12T12:47:57.952320+03:30",
+    "telegram_message_id": 336,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-12T12:47:59.401007+03:30",
+    "eitaa_message_id": 176091819,
+    "published_at": "2026-10-12T12:47:59.403523+03:30"
   }
 }

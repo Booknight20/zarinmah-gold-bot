@@ -397,11 +397,11 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۰ مهر ۱۴۰۵ در زمان بازگشایی بازار/ قیمت دلار به کانال ۲۶۴ هزار تومان برگشت + جدول",
-    "link": "https://www.khabaronline.ir/news/2287091/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B0-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
-    "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد، به طوری که دلار و یورو با ریزش روبه رو شده و به کانال ۲۶۴ هزار تومان برگشت.",
-    "published": "Mon, 12 Oct 2026 04:46:57 GMT",
-    "collected_at": "2026-10-12T08:17:24.004456+03:30",
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۸ مهر ۱۴۰۵/ دلار به کانال ۲۶۴ هزار تومان بازگشت + جدول",
+    "link": "https://www.khabaronline.ir/news/2286686/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
+    "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد و دلار با کاهش ۷۱۵ تومانی به کانال ۲۶۴ هزار تومان بازگشت.",
+    "published": "Sun, 11 Oct 2026 08:25:00 GMT",
+    "collected_at": "2026-10-11T13:14:27.024006+03:30",
     "market_score": 17,
     "market_matches": {
       "currency": [
@@ -430,34 +430,6 @@
     "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد و دلار با کاهش ۷۹۵ تومانی در کانال ۲۶۴ هزار تومان ایستاد.",
     "published": "Sun, 11 Oct 2026 18:05:00 GMT",
     "collected_at": "2026-10-11T21:45:45.109853+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۸ مهر ۱۴۰۵/ دلار به کانال ۲۶۴ هزار تومان بازگشت + جدول",
-    "link": "https://www.khabaronline.ir/news/2286686/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
-    "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد و دلار با کاهش ۷۱۵ تومانی به کانال ۲۶۴ هزار تومان بازگشت.",
-    "published": "Sun, 11 Oct 2026 08:25:00 GMT",
-    "collected_at": "2026-10-11T13:14:27.024006+03:30",
     "market_score": 17,
     "market_matches": {
       "currency": [
@@ -915,32 +887,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۱۹ مهر ۱۴۰۵/ مثقال طلا ۹۳۰.۰۰۰ تومان ارزان شد+ جدول",
-    "link": "https://www.khabaronline.ir/news/2286677/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B9-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%DB%B9%DB%B3%DB%B0-%DB%B0%DB%B0%DB%B0-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86-%D8%B4%D8%AF",
-    "summary": "قیمت طلا در بازار تهران امروز ۱۹ مهرماه اعلام شد و مثقال طلا با کاهش ۹۳۰ هزار تومانی، به کانال ۱۱۳ میلیون تومان برگشت.",
-    "published": "Sun, 11 Oct 2026 08:07:30 GMT",
-    "collected_at": "2026-10-11T11:46:58.952740+03:30",
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "مثقال طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "ایسنا",
     "title": "کشف ۱۳ دستگاه استخراج غیرمجاز ارز دیجیتال در تالش",
     "link": "https://www.isna.ir/news/1405072013173/%DA%A9%D8%B4%D9%81-%DB%B1%DB%B3-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%AF%D8%B1-%D8%AA%D8%A7%D9%84%D8%B4",
@@ -1270,6 +1216,54 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "رضایی: اردوگاه های راهیان نور مرکزی ۵۰۰ میلیارد ریال اعتبار نیاز دارند",
+    "link": "https://www.mehrnews.com/news/6975326/%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B1%D8%AF%D9%88%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D8%A7%D9%87%DB%8C%D8%A7%D9%86-%D9%86%D9%88%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%DB%B5%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D9%86%DB%8C%D8%A7%D8%B2",
+    "summary": "اراک- معاون هماهنگ کننده سپاه روح الله استان مرکزی گفت: آماده سازی سه اردوگاه میزبان کاروان های راهیان نور این استان به ۵۰۰ میلیارد ریال اعتبار نیاز دارد.",
+    "published": "Mon, 12 Oct 2026 09:07:36 GMT",
+    "collected_at": "2026-10-12T12:47:18.301845+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "شناسایی پرونده سوءاستفاده مالی سه میلیون دلاری در استان مرکزی",
+    "link": "https://www.isna.ir/news/1405072013195/%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%B3%D9%88%D8%A1%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%85%D8%A7%D9%84%DB%8C-%D8%B3%D9%87-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C",
+    "summary": "بازرس کل استان مرکزی، با اشاره به شناسایی یک پرونده سوءاستفاده مالی به ارزش حدود سه میلیون دلار گفت: در جریان رسیدگی به این پرونده، بیش از یک میلیون و ۳۰۰ هزار دلار به بیت المال بازگشت و بیش از ۷۰۰ هزار دلار وجه نقد نیز کشف و مسترد شد.",
+    "published": "Mon, 12 Oct 2026 08:58:17 GMT",
+    "collected_at": "2026-10-12T12:47:04.609641+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
@@ -1674,30 +1668,6 @@
     "gold_matches": [],
     "currency_matches": [
       "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "توزیع ۸۷ هزار میلیارد ریال عوارض ارزش افزوده در قزوین طی ۶ ماه",
-    "link": "https://www.mehrnews.com/news/6974356/%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%DB%B8%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%B9%D9%88%D8%A7%D8%B1%D8%B6-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%87-%D8%AF%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%B7%DB%8C-%DB%B6-%D9%85%D8%A7%D9%87",
-    "summary": "قزوین- مدیرکل امور مالیاتی استان قزوین از توزیع بیش از ۸۷هزار میلیارد ریال عوارض ارزش افزوده در نیمه نخست سال ۱۴۰۵خبر داد که سهم شهرداری ها از این منابع بیش از ۵۸ هزار میلیارد ریال بوده است.",
-    "published": "Sun, 11 Oct 2026 08:45:02 GMT",
-    "collected_at": "2026-10-11T12:17:12.201969+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
