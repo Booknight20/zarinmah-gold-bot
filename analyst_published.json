@@ -2139,5 +2139,29 @@
     "eitaa_sent_at": "2026-10-12T16:47:34.392874+03:30",
     "eitaa_message_id": 176141014,
     "published_at": "2026-10-12T16:47:34.395891+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25515": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "نفت پریدا بالای ۱۰۷ دلار و خیلی عجیبه !",
+      "summary": "نفت پریدا بالای ۱۰۷ دلار و خیلی عجیبه !\nالان ترامپ تو فکر اینکه چیو بهانه که بگه با ایرانی ها یه صحبت هایی داشته!\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25515",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-12T19:17:39.485059+03:30"
+    },
+    "first_seen_at": "2026-10-12T19:17:41.627336+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-12T19:17:42.149219+03:30",
+    "telegram_message_id": 367,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-12T19:17:43.227563+03:30",
+    "eitaa_message_id": 176161787,
+    "published_at": "2026-10-12T19:17:43.230488+03:30"
   }
 }
