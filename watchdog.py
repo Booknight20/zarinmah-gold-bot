@@ -675,15 +675,16 @@ def check_daily(
     now,
     status,
 ):
+    # بررسی و در صورت نیاز اجرای مجدد فقط بین ساعت ۱۹:۰۰ تا ۱۹:۲۹ تهران
     if not (
-        now.hour == 12
+        now.hour == 19
         and now.minute <= 29
     ):
         return
 
     target_time = now.replace(
-        hour=11,
-        minute=45,
+        hour=19,
+        minute=0,
         second=0,
         microsecond=0,
     )
