@@ -828,32 +828,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "فرصت ویژه برای اژدهای زرد/ چین باز هم طلا خرید",
-    "link": "https://www.khabaronline.ir/news/2286759/%D9%81%D8%B1%D8%B5%D8%AA-%D9%88%DB%8C%DA%98%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DA%98%D8%AF%D9%87%D8%A7%DB%8C-%D8%B2%D8%B1%D8%AF-%DA%86%DB%8C%D9%86-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D8%B7%D9%84%D8%A7-%D8%AE%D8%B1%DB%8C%D8%AF",
-    "summary": "افزایش خرید بانک مرکزی چین در شرایط افت قیمت جهانی طلا؛ رشد ذخایر به بیشترین میزان ماهانه در سه سال اخیر رسید.",
-    "published": "Sun, 11 Oct 2026 13:30:00 GMT",
-    "collected_at": "2026-10-11T17:16:55.549032+03:30",
-    "market_score": 15,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": []
-  },
-  {
     "source": "ایسنا",
     "title": "بورس به مدار صعود بازگشت",
     "link": "https://www.isna.ir/news/1405072013353/%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D9%85%D8%AF%D8%A7%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA",
@@ -1240,31 +1214,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "استراحت نصفه و نیمه بورس",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4301125-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%AA-%D9%86%D8%B5%D9%81%D9%87-%D9%86%DB%8C%D9%85%D9%87-%D8%A8%D9%88%D8%B1%D8%B3",
-    "summary": "دنیای اقتصاد: بورس تهران در معاملات روز یکشنبه ۱۹ مهرماه، با افزایش فشار فروش مواجه شد و نماگرهای اصلی بازار در محدوده منفی به کار خود پایان دادند. با این حال، ارزش معاملات خرد سهام به سطح بی سابقه ۷۳ همت رسید و رکورد تاریخی جدیدی را به ثبت رساند.",
-    "published": "Sun, 11 Oct 2026 13:26:45 +0000",
-    "collected_at": "2026-10-11T17:16:52.083064+03:30",
-    "market_score": 8,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "ارزش معاملات"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "ایسنا",
     "title": "قیمت نفت کاهش یافت",
     "link": "https://www.isna.ir/news/1405072012941/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
@@ -1313,6 +1262,30 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "ادعای ترامپ درباره اروپا/ آنها ۲۵۰ میلیارد دلار بابت انرژی به روسیه پرداخت کرده اند",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301366-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A2%D9%86%D9%87%D8%A7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%A7%D8%A8%D8%AA-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%A8%D9%87-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%D9%86%D8%AF",
+    "summary": "رئیس جمهور آمریکا ادعا کرد: اتحادیه اروپا ۲۵۰ میلیارد دلار بابت انرژی به روسیه پرداخت کرد؛ اما رسانه های اخبار جعلی نمی خواهند به این ماجرا بپردازند.",
+    "published": "Mon, 12 Oct 2026 14:56:10 +0000",
+    "collected_at": "2026-10-12T18:47:16.864754+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "تابناک",
@@ -1866,6 +1839,30 @@
     "medium_impact_matches": []
   },
   {
+    "source": "تابناک",
+    "title": "فرمان جدید ارزی برای بانک ها صادر شد",
+    "link": "https://www.tabnak.ir/fa/news/1398457/فرمان-جدید-ارزی-برای-بانک-ها-صادر-شد",
+    "summary": "تأمین پایدار اقلام حیاتی و تقویت ذخایر استراتژیک در شرایط پس از تنش های نظامی، سیاست گذار پولی را به فعال سازی ابزارهای اعتباری و گشایش خطوط ویژه ارزی سوق داده است.",
+    "published": "12 Oct 2026 18:26:20 +0330",
+    "collected_at": "2026-10-12T18:47:24.273972+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "«رضا خزایی» دبیر کمیسیون مبارزه با قاچاق کالا و ارز لرستان شد",
     "link": "https://www.mehrnews.com/news/6975739/%D8%B1%D8%B6%D8%A7-%D8%AE%D8%B2%D8%A7%DB%8C%DB%8C-%D8%AF%D8%A8%DB%8C%D8%B1-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D9%85%D8%A8%D8%A7%D8%B1%D8%B2%D9%87-%D8%A8%D8%A7-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%DA%A9%D8%A7%D9%84%D8%A7-%D9%88-%D8%A7%D8%B1%D8%B2-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D8%AF",
@@ -2125,78 +2122,6 @@
     "currency_matches": [
       "ارز"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "دستبند طلای ۲۸ گرمی با امانتداری پلیس تبریز به صاحبش بازگردانده شد",
-    "link": "https://www.mehrnews.com/news/6974597/%D8%AF%D8%B3%D8%AA%D8%A8%D9%86%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B2%DB%B8-%DA%AF%D8%B1%D9%85%DB%8C-%D8%A8%D8%A7-%D8%A7%D9%85%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%B1%DB%8C-%D9%BE%D9%84%DB%8C%D8%B3-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%A8%D9%87-%D8%B5%D8%A7%D8%AD%D8%A8%D8%B4-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%D8%AF%D9%87",
-    "summary": "تبریز- فرمانده انتظامی شهرستان تبریز گفت: مأموران کلانتری ۱۶ بازار تبریز پس از کشف یک دستبند طلای ۲۸ گرمی در جریان گشت زنی، با شناسایی صاحب آن، این قطعه طلا را به وی بازگرداندند.",
-    "published": "Sun, 11 Oct 2026 13:46:34 GMT",
-    "collected_at": "2026-10-11T17:45:22.723204+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "کشف بیش از ۴ تن خاک طلا در تبریز",
-    "link": "https://www.mehrnews.com/news/6974575/%DA%A9%D8%B4%D9%81-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B4-%D8%AA%D9%86-%D8%AE%D8%A7%DA%A9-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2",
-    "summary": "تبریز- فرمانده انتظامی شهرستان تبریز از کشف یک کارگاه استحصال طلا و مقدار ۴ تن خاک طلا و دستگیری ۲ نفر متهم توسط ماموران کلانتری ۲۴ سردورد خبرداد.",
-    "published": "Sun, 11 Oct 2026 13:47:28 GMT",
-    "collected_at": "2026-10-11T17:45:22.723193+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مشرق",
-    "title": "حذف برخورداری و بختیاری؛ پایان کار ملی پوشان تکواندو با ۲ طلای گرندپری پاریس",
-    "link": "https://www.mashreghnews.ir/news/1845061/%D8%AD%D8%B0%D9%81-%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%88-%D8%A8%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1-%D9%85%D9%84%DB%8C-%D9%BE%D9%88%D8%B4%D8%A7%D9%86-%D8%AA%DA%A9%D9%88%D8%A7%D9%86%D8%AF%D9%88-%D8%A8%D8%A7-%DB%B2-%D8%B7%D9%84%D8%A7%DB%8C",
-    "summary": "روز پایانی رقابت های گرندپری پاریس با حذف دو نماینده تکواندوی کشورمان به پایان رسید.",
-    "published": "Sun, 11 Oct 2026 13:34:17 GMT",
-    "collected_at": "2026-10-11T17:17:02.688221+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
