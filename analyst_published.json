@@ -2780,5 +2780,29 @@
     "eitaa_sent_at": "2026-10-13T17:15:16.914475+03:30",
     "eitaa_message_id": 176309002,
     "published_at": "2026-10-13T17:15:16.917233+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25527": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "لغو محدودیت بانکی 3 صرافی رمزارز",
+      "summary": "بانک مرکزی محدودیت‌های اعمال‌شده بر سه صرافی رمزارزی «نوبیتکس»، «بیت‌پین» و «ارزینجا» را پس از انجام اصلاحات موردنظر و رفع تخلفات اعلام‌شده، لغو کرد./فارس\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25527",
+      "analysis_score": 4,
+      "market_matches": [
+        "ارز",
+        "بانک مرکزی"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-13T19:16:08.668633+03:30"
+    },
+    "first_seen_at": "2026-10-13T19:16:11.346152+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-13T19:16:12.181998+03:30",
+    "telegram_message_id": 426,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-13T19:16:13.678962+03:30",
+    "eitaa_message_id": 176323524,
+    "published_at": "2026-10-13T19:16:13.686220+03:30"
   }
 }
