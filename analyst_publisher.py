@@ -212,6 +212,7 @@ def build_telegram_message(item):
         "",
         "🌙 <b>زرین ماه</b> | ویترین طلای کم‌اجرت",
         "📲 @ZarinMahGold",
+        "#قیمت_و_تحلیل",
     ])
 
     return "\n\n".join(parts)
@@ -264,6 +265,7 @@ def build_eitaa_message(item):
         "",
         "🌙 زرین ماه | ویترین طلای کم‌اجرت",
         "📲 @ZarinMahGold",
+        "#قیمت_و_تحلیل",
     ])
 
     return "\n\n".join(parts)
