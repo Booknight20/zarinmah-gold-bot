@@ -2449,5 +2449,32 @@
     "eitaa_sent_at": "2026-10-13T11:17:54.695065+03:30",
     "eitaa_message_id": 176247038,
     "published_at": "2026-10-13T11:17:54.698128+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8478": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "صندوق‌های طلا و نقره با منفی 2 درصد معاملات امروز رو آغاز کردن ‼️",
+      "summary": "طلا 18 عیار: 25/790/000 تومان\nنقره 925: 467/000 تومان\nتتر: 257/700 تومان\nاونس جهانی: 4/188 دلار\nبیت کوین: 83/770 دلار\n⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8478",
+      "analysis_score": 10,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "اونس جهانی",
+        "دلار",
+        "صندوق‌های طلا"
+      ],
+      "priority": "high",
+      "collected_at": "2026-10-13T12:17:56.195770+03:30"
+    },
+    "first_seen_at": "2026-10-13T12:17:57.234842+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-13T12:17:57.844575+03:30",
+    "telegram_message_id": 389,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-13T12:17:59.417752+03:30",
+    "eitaa_message_id": 176259462,
+    "published_at": "2026-10-13T12:17:59.421035+03:30"
   }
 }
