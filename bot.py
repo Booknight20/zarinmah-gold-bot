@@ -1463,6 +1463,8 @@ def build_message(
 
 <b>✨ زرین ماه | طلای کم‌اجرت</b>
 📲 @ZarinMahGold
+
+#قیمت_و_تحلیل
 """
 
 
