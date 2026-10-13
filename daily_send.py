@@ -1,3 +1,4 @@
+
 # -*- coding: utf-8 -*-
 
 import os
@@ -184,9 +185,13 @@ def main():
             "با خطا مواجه شد."
         )
 
-    # The channel promotion is appended only after the analysis and capital-flow section,
-    # so it remains the final part of the message on both Telegram and Eitaa.
-    message = message.rstrip() + "\n\n" + CHANNEL_PROMO
+    # افزودن معرفی کانال و هشتگ بخش قیمت و تحلیل
+    message = (
+        message.rstrip()
+        + "\n\n"
+        + CHANNEL_PROMO
+        + "\n\n#قیمت_و_تحلیل"
+    )
 
     print("")
     print("Generated message:")
