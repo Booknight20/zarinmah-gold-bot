@@ -2876,5 +2876,53 @@
     "eitaa_sent_at": "2026-10-13T20:36:31.423944+03:30",
     "eitaa_message_id": 176334529,
     "published_at": "2026-10-13T20:36:31.426881+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8488": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "توی رشد اخیر بازار ارزهای دیجیتال، بیشترین سود رو توی ارزهای معتبر گرفتیم",
+      "summary": "لایت کوین، 140 درصد؛\nکل یک روند قدرتمند ‼️",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8488",
+      "analysis_score": 4,
+      "market_matches": [
+        "ارز",
+        "بازار ارز"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-13T21:16:06.227091+03:30"
+    },
+    "first_seen_at": "2026-10-13T21:16:11.585939+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-13T21:16:12.127093+03:30",
+    "telegram_message_id": 437,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-13T21:16:13.658469+03:30",
+    "eitaa_message_id": 176339924,
+    "published_at": "2026-10-13T21:16:13.661485+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8489": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "درسته ما طلای 18 عیار رو توی محدوده‌های زیر سیگنال دادیم:",
+      "summary": "🔹 15/5 میلیون؛ 26 خرداد\n🔹 19 میلیون؛ 25 مرداد\nچند هفته پیش هم تو محدوده 22/300 میلیون سیگنال دادیم؛\nاین مسیر همیشه تکرار میشه؛\nچون 👇\n1️⃣ کاربرای جدید اضافه میشن",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8489",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "طلای 18"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-13T21:16:06.227220+03:30"
+    },
+    "first_seen_at": "2026-10-13T21:16:13.664017+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-13T21:16:14.306848+03:30",
+    "telegram_message_id": 438,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-13T21:16:15.780245+03:30",
+    "eitaa_message_id": 176339927,
+    "published_at": "2026-10-13T21:16:15.783223+03:30"
   }
 }
