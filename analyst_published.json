@@ -2852,5 +2852,29 @@
     "eitaa_sent_at": "2026-10-13T20:16:19.507160+03:30",
     "eitaa_message_id": 176331871,
     "published_at": "2026-10-13T20:16:19.510075+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8484": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "تحلیل بازار ها و بررسی شرایط",
+      "summary": "نقاط ورود طلا و دلار",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8484",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "دلار"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-13T20:36:28.447798+03:30"
+    },
+    "first_seen_at": "2026-10-13T20:36:29.383276+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-13T20:36:29.975203+03:30",
+    "telegram_message_id": 434,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-13T20:36:31.423944+03:30",
+    "eitaa_message_id": 176334529,
+    "published_at": "2026-10-13T20:36:31.426881+03:30"
   }
 }
