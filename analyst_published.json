@@ -2733,5 +2733,52 @@
     "eitaa_sent_at": "2026-10-13T16:18:34.156766+03:30",
     "eitaa_message_id": 176300026,
     "published_at": "2026-10-13T16:18:34.160492+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8483": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "از این دست سوالات در مورد طلا و دلار زیاد شده ❗️",
+      "summary": "بذار اول یه نظر سنجی بزاریم، من هم تحلیلم رو میگم",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8483",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "دلار"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-13T17:15:10.681717+03:30"
+    },
+    "first_seen_at": "2026-10-13T17:15:13.318980+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-13T17:15:13.763739+03:30",
+    "telegram_message_id": 421,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-13T17:15:15.092140+03:30",
+    "eitaa_message_id": 176308992,
+    "published_at": "2026-10-13T17:15:15.094905+03:30"
+  },
+  "https://t.me/rahavard365/58524": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "🔴 وضعیت اندیکاتوری سهام بازار",
+      "summary": "✔️ هر معامله‌گر ممکن است برای بررسی وضعیت تکنیکال بازار از اندیکاتورهای متفاوتی استفاده کند؛\nاما بررسی صدها نماد با چندین اندیکاتور به‌صورت همزمان، زمان‌بر است.\n🔴 در این گزارش، وضعیت سهام بازار به‌صورت تجمیعی و بر اساس ۶ اندیکاتور پرکاربرد شامل:\n⬅ اندیکاتور RSI\n⬅ اندیکاتور MACD\n⬅ اندیکاتور CCI",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58524",
+      "analysis_score": 4,
+      "market_matches": [
+        "نماد"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-13T17:15:11.265907+03:30"
+    },
+    "first_seen_at": "2026-10-13T17:15:15.097577+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-13T17:15:15.556451+03:30",
+    "telegram_message_id": 422,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-13T17:15:16.914475+03:30",
+    "eitaa_message_id": 176309002,
+    "published_at": "2026-10-13T17:15:16.917233+03:30"
   }
 }
