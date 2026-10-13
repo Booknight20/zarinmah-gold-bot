@@ -1,43 +1,5 @@
 [
   {
-    "source": "دنیای اقتصاد",
-    "title": "نرخ ارز دلار، طلا و یورو امروز دوشنبه ۲۰ مهر ۱۴۰۵/ کاهش قیمت طلا و سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301305-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
-    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد کاهش قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
-    "published": "Mon, 12 Oct 2026 08:04:15 +0000",
-    "collected_at": "2026-10-12T14:06:06.270414+03:30",
-    "market_score": 47,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [
-      "دلار",
-      "نرخ ارز",
-      "ارز",
-      "یورو",
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "تابناک",
     "title": "قیمت دلار امروز دوشنبه ۲۰ مهرماه؛ پیش بینی رئیس کل بانک مرکزی از آینده نرخ ارز",
     "link": "https://www.tabnak.ir/fa/news/1398407/قیمت-دلار-امروز-دوشنبه-20-مهرماه-پیش-بینی-رئیس-کل-بانک-مرکزی-از-آینده-نرخ-ارز",
@@ -144,37 +106,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "قیمت دلار امروز دوشنبه ۲۰ مهرماه؛ جدیدترین نرخ یورو، درهم و لیر در بازار",
-    "link": "https://www.tabnak.ir/fa/news/1398407/قیمت-دلار-امروز-دوشنبه-20-مهرماه-جدیدترین-نرخ-یورو-درهم-و-لیر-در-بازار",
-    "summary": "نرخ دلار، یورو و درهم امروز در بازار تهران در حالی با کاهش همراه شده که مرکز مبادله شاهد روند صعودی قیمت حواله های ارزی هستیم.",
-    "published": "12 Oct 2026 13:57:55 +0330",
-    "collected_at": "2026-10-12T14:06:11.278848+03:30",
-    "market_score": 32,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "یورو",
-        "درهم"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "نرخ دلار",
-      "ارز",
-      "یورو",
-      "درهم",
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت طلا، دلار و سکه امروز سه شنبه ۲۱ مهر ۱۴۰۵/ ریزش پشت خطی ها قیمت ها را نزولی می کند؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301542-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%BE%D8%B4%D8%AA-%D8%AE%D8%B7%DB%8C-%D9%87%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%B1%D8%A7-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
@@ -233,6 +164,37 @@
     "stock_matches": [],
     "high_impact_matches": [
       "بانک مرکزی"
+    ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "انتظار بازارها برای داده های تورمی آمریکا؛ افزایش اندک قیمت جهانی طلا",
+    "link": "https://www.mehrnews.com/news/6976672/%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B1%D9%85%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A7%D9%86%D8%AF%DA%A9-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+    "summary": "در حالی که بازارها در انتظار داده های تورمی آمریکا هستند، قیمت هر اونس طلای نقدی با ۰.۴ درصد افزایش به ۴۱۸۹ دلار رسید.",
+    "published": "Tue, 13 Oct 2026 10:32:25 GMT",
+    "collected_at": "2026-10-13T14:14:04.555904+03:30",
+    "market_score": 32,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [
+      "تورم"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "اونس طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تورم"
     ],
     "medium_impact_matches": []
   },
@@ -638,34 +600,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت دلار، یورو و درهم امروز دوشنبه ۲۰ مهر ۱۴۰۵/ افزایش قیمت",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301306-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA",
-    "summary": "قیمت دلار حواله ای امروز با افزایش نسبت به روز گذشته، از 178941 (یکصد و هفتاد و هشت هزار و نهصد و چهل و یک) تومان به 179,478 (یکصد و هفتاد و نه هزار و چهارصد و هفتاد و هشت) تومان رسید.",
-    "published": "Mon, 12 Oct 2026 08:00:56 +0000",
-    "collected_at": "2026-10-12T14:06:06.270426+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "یورو",
-        "درهم"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "یورو",
-      "درهم"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "ایسنا",
     "title": "جنگ علیه ایران ۲۶۵ میلیارد دلار به اقتصاد آمریکا خسارت زد",
     "link": "https://www.isna.ir/news/1405072113999/%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B2%DB%B6%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%B2%D8%AF",
@@ -771,34 +705,6 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
-  },
-  {
-    "source": "مشرق",
-    "title": "بانک مرکزی دست تراستی ها را برای انتقال ارزهای کلان بست",
-    "link": "https://www.mashreghnews.ir/news/1845216/%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AF%D8%B3%D8%AA-%D8%AA%D8%B1%D8%A7%D8%B3%D8%AA%DB%8C-%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%DA%A9%D9%84%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA",
-    "summary": "تراستی ها برای انتقال مبالغ بالاتر باید ابتدا توان واقعی انتقال ارز را به تأیید بانک مرکزی برسانند.",
-    "published": "Mon, 12 Oct 2026 09:55:38 GMT",
-    "collected_at": "2026-10-12T13:47:38.629875+03:30",
-    "market_score": 15,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": []
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -1264,31 +1170,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "قیمت طلا و سکه ۲۰ مهر ؛ این سکه ها عقب نشینی کردند!",
-    "link": "https://www.tabnak.ir/fa/news/1398405/قیمت-طلا-و-سکه-20-مهر-این-سکه-ها-عقب-نشینی-کردند",
-    "summary": "در روزی قیمت طلا و سکه ایران کاهشی بود، سرمایه گذاران با یک سؤال جدی روبه رو شده اند که آیا این آرامش، فرصت خرید است یا نشانه ی اصلاحی بزرگ تر؟",
-    "published": "12 Oct 2026 13:51:33 +0330",
-    "collected_at": "2026-10-12T14:06:11.278884+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "سکه"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "پیش بینی بورس فردا سه شنبه ۲۱ مهر ۱۴۰۵/ بازار سرمایه تغییر مسیر می دهد؟/ 3 نشانه از احتمال ادامه صعود شاخص ها",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301438-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%81%D8%B1%D8%AF%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF-%D9%86%D8%B4%D8%A7%D9%86%D9%87-%D8%A7%D8%B2-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%B5%D8%B9%D9%88%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%87%D8%A7",
@@ -1339,6 +1220,32 @@
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "فلاحی: نباید همه مشکلات را صرفاً به جنگ یا تحریم ها نسبت داد",
+    "link": "https://www.mehrnews.com/news/6976641/%D9%81%D9%84%D8%A7%D8%AD%DB%8C-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D9%87%D9%85%D9%87-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7-%D8%B5%D8%B1%D9%81%D8%A7-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%DB%8C%D8%A7-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7-%D9%86%D8%B3%D8%A8%D8%AA-%D8%AF%D8%A7%D8%AF",
+    "summary": "نماینده سابق مجلس گفت: مسئولان باید با بیان واقعیت ها، پرهیز از اظهارات غیرکارشناسی و استفاده از ظرفیت های موجود برای حل مشکلات اقتصادی، از افزایش نگرانی مردم و التهاب بازار جلوگیری کنند.",
+    "published": "Tue, 13 Oct 2026 10:21:54 GMT",
+    "collected_at": "2026-10-13T14:14:04.555986+03:30",
+    "market_score": 7,
+    "market_matches": {},
+    "driver_matches": [
+      "تحریم"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
+    "medium_impact_matches": [
+      "تحریم"
+    ]
   },
   {
     "source": "مهر",
@@ -1920,6 +1827,30 @@
     "high_impact_matches": [
       "صادرات نفت"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "عهدی که طلا شد",
+    "link": "https://www.mehrnews.com/news/6976637/%D8%B9%D9%87%D8%AF%DB%8C-%DA%A9%D9%87-%D8%B7%D9%84%D8%A7-%D8%B4%D8%AF",
+    "summary": "پیش از آن که راهی ویتنام شوند و در رقابت با برترین های جهان برای ایران افتخارآفرینی کنند، دل شان در مشهد جا مانده بود؛ در چایخانه امام رضا(ع).",
+    "published": "Tue, 13 Oct 2026 10:17:21 GMT",
+    "collected_at": "2026-10-13T14:14:04.556034+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
