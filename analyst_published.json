@@ -2476,5 +2476,59 @@
     "eitaa_sent_at": "2026-10-13T12:17:59.417752+03:30",
     "eitaa_message_id": 176259462,
     "published_at": "2026-10-13T12:17:59.421035+03:30"
+  },
+  "https://t.me/rahavard365/58517": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "گزارش روزانه",
+      "summary": "⚠️ وضعیت: تحرکات در گروه بانکی بعد از فرارسیدن آپشن‌های #وبملت\n⬅ وضعیت ورود و خروج پول حقیقی:\n🟪 معاملات خرد: ۵۵۰۳+ میلیارد تومان 🔼\n🟪 درآمد ثابت : ۳۶۵۴- میلیارد تومان 🔽\n🟪 صندوق اهرمی: ۴۶۳- میلیارد تومان 🔽\n🌟 ارزش معاملات خرد: ۴۹.۳ همت",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58517",
+      "analysis_score": 15,
+      "market_matches": [
+        "ارز",
+        "شاخص",
+        "شاخص کل",
+        "شاخص هم‌وزن",
+        "ارزش معاملات",
+        "خروج پول حقیقی",
+        "پول حقیقی"
+      ],
+      "priority": "high",
+      "collected_at": "2026-10-13T12:47:32.937637+03:30"
+    },
+    "first_seen_at": "2026-10-13T12:47:33.248913+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-13T12:47:33.656932+03:30",
+    "telegram_message_id": 391,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-13T12:47:34.777791+03:30",
+    "eitaa_message_id": 176264345,
+    "published_at": "2026-10-13T12:47:34.781070+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8479": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "۹۰ درصد بازار بورس مثبت باز شد ‼️ شاخص کل هم رفت بالای ۸,۵ میلیون واحد ⚡️ @AlirezaMehrabi_ir",
+      "summary": "۹۰ درصد بازار بورس مثبت باز شد ‼️ شاخص کل هم رفت بالای ۸,۵ میلیون واحد ⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8479",
+      "analysis_score": 6,
+      "market_matches": [
+        "بورس",
+        "شاخص",
+        "شاخص کل"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-13T12:47:32.430113+03:30"
+    },
+    "first_seen_at": "2026-10-13T12:47:34.784099+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-13T12:47:35.146967+03:30",
+    "telegram_message_id": 392,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-13T12:47:36.170581+03:30",
+    "eitaa_message_id": 176264352,
+    "published_at": "2026-10-13T12:47:36.173867+03:30"
   }
 }
