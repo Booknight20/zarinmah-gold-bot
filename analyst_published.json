@@ -2655,7 +2655,11 @@
     "first_seen_at": "2026-10-13T15:17:29.834094+03:30",
     "telegram_sent": true,
     "telegram_sent_at": "2026-10-13T15:17:30.474791+03:30",
-    "telegram_message_id": 406
+    "telegram_message_id": 406,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-13T15:24:41.165231+03:30",
+    "eitaa_message_id": 176287680,
+    "published_at": "2026-10-13T15:24:41.167445+03:30"
   },
   "https://t.me/rahavard365/58522": {
     "item": {
@@ -2675,6 +2679,10 @@
     "first_seen_at": "2026-10-13T15:18:01.657656+03:30",
     "telegram_sent": true,
     "telegram_sent_at": "2026-10-13T15:18:02.166245+03:30",
-    "telegram_message_id": 407
+    "telegram_message_id": 407,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-13T15:24:45.834042+03:30",
+    "eitaa_message_id": 176287739,
+    "published_at": "2026-10-13T15:24:45.836279+03:30"
   }
 }
