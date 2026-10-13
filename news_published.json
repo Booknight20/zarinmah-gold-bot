@@ -741,5 +741,21 @@
     "published_at": "2026-10-13T06:48:20.271493+00:00",
     "telegram_message_id": 383,
     "eitaa_message_id": 176237324
+  },
+  "ec55782de1e042184464576f60d398b0883dc414ec90e6b24c0b1c6ea3339e41": {
+    "title": "آخرین وضعیت بازار بورس",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1845453/%D8%B5%D8%B9%D9%88%D8%AF-%DB%B1%DB%B2%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+    "published_at": "2026-10-13T09:47:57.274031+00:00",
+    "telegram_message_id": 393,
+    "eitaa_message_id": 176268700
+  },
+  "0386a79571c6e8b35aa10c250bd7254d27376b19652c7ffd2571ab8ff36a0678": {
+    "title": "آخرین وضعیت بازار بورس",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405072114023/%D8%B5%D8%B9%D9%88%D8%AF-%DB%B1%DB%B2%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%DB%B8-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "published_at": "2026-10-13T09:47:58.868589+00:00",
+    "telegram_message_id": 394,
+    "eitaa_message_id": 176268702
   }
 }
