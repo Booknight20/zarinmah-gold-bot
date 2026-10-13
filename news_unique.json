@@ -38,42 +38,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "قیمت دلار امروز دوشنبه ۲۰ مهرماه؛ پیش بینی رئیس کل بانک مرکزی از آینده نرخ ارز",
-    "link": "https://www.tabnak.ir/fa/news/1398407/قیمت-دلار-امروز-دوشنبه-20-مهرماه-پیش-بینی-رئیس-کل-بانک-مرکزی-از-آینده-نرخ-ارز",
-    "summary": "نرخ دلار، یورو و درهم امروز در بازار تهران در حالی با کاهش همراه شده که مرکز مبادله شاهد روند صعودی قیمت حواله های ارزی هستیم.",
-    "published": "12 Oct 2026 13:57:55 +0330",
-    "collected_at": "2026-10-12T16:17:41.703841+03:30",
-    "market_score": 47,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "نرخ دلار",
-      "نرخ ارز",
-      "ارز",
-      "یورو",
-      "درهم",
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": []
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "سقوط تتر و عقب نشینی دلار؛ بانک مرکزی ترمز بازار ارز را کشید؟/ آیا دلار باز هم پایین می آید؟",
     "link": "https://www.khabaronline.ir/news/2287859/%D8%B3%D9%82%D9%88%D8%B7-%D8%AA%D8%AA%D8%B1-%D9%88-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AA%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%B1%D8%A7-%DA%A9%D8%B4%DB%8C%D8%AF",
@@ -362,6 +326,36 @@
     ],
     "medium_impact_matches": [
       "نقدینگی"
+    ]
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "عقب نشینی نفت در اوج التهاب / برنت به کانال ۱۰۵ دلار رسید",
+    "link": "https://www.khabaronline.ir/news/2287759/%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%A7%D9%88%D8%AC-%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B1%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "قیمت نفت در معاملات روز سه شنبه بازار جهانی که معامله گران به ارزیابی ریسک های عرضه ناشی از حملات به عربستان سعودی در برابر احتمال افزایش عرضه گازوئیل از سوی روسیه پرداختند، کاهش یافت.",
+    "published": "Tue, 13 Oct 2026 12:58:00 GMT",
+    "collected_at": "2026-10-13T16:44:21.452942+03:30",
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "قیمت نفت"
     ]
   },
   {
