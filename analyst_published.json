@@ -3361,5 +3361,56 @@
     "eitaa_sent_at": "2026-10-14T15:20:15.002348+03:30",
     "eitaa_message_id": 176465068,
     "published_at": "2026-10-14T15:20:15.006411+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8506": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "خبر مهم امروز آمار تورم آمریکاس برای اونس طلا و ارزهای دیجیتال مهمه ساعت ۴ اعلام میشه و براتون میزارم @AlirezaMehrabi_ir",
+      "summary": "خبر مهم امروز آمار تورم آمریکاس برای اونس طلا و ارزهای دیجیتال مهمه ساعت ۴ اعلام میشه و براتون میزارم @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8506",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "ارز",
+        "تورم"
+      ],
+      "priority": "high",
+      "collected_at": "2026-10-14T16:14:43.506534+03:30"
+    },
+    "first_seen_at": "2026-10-14T16:14:46.299071+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-14T16:14:46.787044+03:30",
+    "telegram_message_id": 479,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-14T16:14:48.274862+03:30",
+    "eitaa_message_id": 176470553,
+    "published_at": "2026-10-14T16:14:48.277592+03:30"
+  },
+  "https://t.me/rahavard365/58531": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "گزارش روزانه بازار اختیار معامله",
+      "summary": "🌟 ارزش معاملات: ۲.۶۷ همت\n⚡️ برای دسترسی به جزئیات اطلاعات مربوط به قراردادهای اختیار معامله (آپشن) به داشبورد اختصاصی بازار اختیار معامله ره‌آورد مراجعه کنید.\n#اختیار_معامله\n#آپشن\n🗓 چهار‌شنبه ۲۲ مهر ۱۴۰۵\n✉️ @rahavard365",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58531",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "ارزش معاملات"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-14T16:14:44.091581+03:30"
+    },
+    "first_seen_at": "2026-10-14T16:14:48.279795+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-14T16:14:48.728223+03:30",
+    "telegram_message_id": 480,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-14T16:14:50.028737+03:30",
+    "eitaa_message_id": 176470568,
+    "published_at": "2026-10-14T16:14:50.031390+03:30"
   }
 }

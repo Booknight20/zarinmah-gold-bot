@@ -482,6 +482,33 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "از نرخ بهره تا نقدینگی؛ چه عواملی مسیر ورود به بازار بیت کوین را تغییر می دهند؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4301812-%D8%A7%D8%B2-%D9%86%D8%B1%D8%AE-%D8%A8%D9%87%D8%B1%D9%87-%D8%AA%D8%A7-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%DA%86%D9%87-%D8%B9%D9%88%D8%A7%D9%85%D9%84%DB%8C-%D9%85%D8%B3%DB%8C%D8%B1-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%B1%D8%A7-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%DB%8C-%D8%AF%D9%87%D9%86%D8%AF",
+    "summary": "افت یا رشد قیمت بیت کوین همیشه تمام داستان را توضیح نمی دهد. تغییر نرخ بهره، جریان نقدینگی، وضعیت دلار و میزان ریسک پذیری سرمایه گذاران می توانند شرایط ورود به بازار را تغییر دهند؛ حتی زمانی که قیمت، در نگاه اول، سیگنال روشنی به نظر می رسد.",
+    "published": "Wed, 14 Oct 2026 12:26:11 +0000",
+    "collected_at": "2026-10-14T16:14:29.673896+03:30",
+    "market_score": 19,
+    "market_matches": {},
+    "driver_matches": [
+      "نرخ بهره",
+      "نقدینگی"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "نرخ بهره"
+    ],
+    "medium_impact_matches": [
+      "نقدینگی"
+    ]
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "قیمت نفت صعودی شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301763-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%B4%D8%AF",
     "summary": "قیمت نفت برنت به 106 دلار و 32 سنت رسید.",
@@ -1331,6 +1358,30 @@
     ]
   },
   {
+    "source": "مهر",
+    "title": "اتحادیه اروپا ۳.۲ میلیارد دلار برای خرید تسلیحات اوکراین پرداخت کرد",
+    "link": "https://www.mehrnews.com/news/6978099/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%DB%B3-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AA%D8%B3%D9%84%DB%8C%D8%AD%D8%A7%D8%AA-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA",
+    "summary": "کمیسیون اروپا روز چهارشنبه ۳.۲ میلیارد دلار برای تأمین پهپاد، سامانه های پدافند هوایی، موشک و دیگر نیازهای فوری نظامی اوکراین اختصاص داد.",
+    "published": "Wed, 14 Oct 2026 12:31:48 GMT",
+    "collected_at": "2026-10-14T16:14:22.378933+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "ایسنا",
     "title": "دادستان: اراضی دولتی به ارزش بیش از ۶۰۰۰ میلیارد ریال در کرمان بازپس گیری شد",
     "link": "https://www.isna.ir/news/1405072214979/%D8%AF%D8%A7%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%B1%D8%A7%D8%B6%DB%8C-%D8%AF%D9%88%D9%84%D8%AA%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B6%DB%B0%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
@@ -1761,6 +1812,30 @@
     "high_impact_matches": [
       "جنگ"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "تعیین تکلیف تعهدات ارزی صادرکنندگان باتفکیک موانع و بررسی پرونده ها",
+    "link": "https://www.mehrnews.com/news/6978105/%D8%AA%D8%B9%DB%8C%DB%8C%D9%86-%D8%AA%DA%A9%D9%84%DB%8C%D9%81-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A8%D8%A7%D8%AA%D9%81%DA%A9%DB%8C%DA%A9-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D9%88-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%87%D8%A7",
+    "summary": "زنجان- استاندار زنجان گفت: تعهدات ارزی صادرکنندگان با تفکیک موانع و بررسی پرونده ها تعیین تکلیف شود.",
+    "published": "Wed, 14 Oct 2026 12:34:41 GMT",
+    "collected_at": "2026-10-14T16:14:22.378904+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
