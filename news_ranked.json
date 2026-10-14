@@ -143,37 +143,6 @@
   },
   {
     "source": "مهر",
-    "title": "انتظار بازارها برای داده های تورمی آمریکا؛ افزایش اندک قیمت جهانی طلا",
-    "link": "https://www.mehrnews.com/news/6976672/%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B1%D9%85%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A7%D9%86%D8%AF%DA%A9-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-    "summary": "در حالی که بازارها در انتظار داده های تورمی آمریکا هستند، قیمت هر اونس طلای نقدی با ۰.۴ درصد افزایش به ۴۱۸۹ دلار رسید.",
-    "published": "Tue, 13 Oct 2026 10:32:25 GMT",
-    "collected_at": "2026-10-13T14:14:04.555904+03:30",
-    "market_score": 32,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [
-      "تورم"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "اونس طلا"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "تورم"
-    ],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
     "title": "بازار طلا و سکه در مسیر کاهش قیمت؛ سکه ۱۷ میلیون تومان ریخت",
     "link": "https://www.mehrnews.com/news/6976825/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B1%DB%8C%D8%AE%D8%AA",
     "summary": "رئیس اتحادیه طلای تهران بر مداخله به موقع بانک مرکزی تأکید کرد و گفت: افت ۱۰ هزار تومانی دلار، قیمت سکه را طی یک هفته ۱۷ میلیون تومان کاهش داد؛ تداوم این روند به سیاست بانک مرکزی بستگی دارد.",
@@ -391,6 +360,39 @@
     ]
   },
   {
+    "source": "تابناک",
+    "title": "عقب نشینی شاخص کل بورس در آخرین روز هفته/ ۱.۵ همت به صندوق طلا رسید",
+    "link": "https://www.tabnak.ir/fa/news/1398745/عقب-نشینی-شاخص-کل-بورس-در-آخرین-روز-هفته-1-5-همت-به-صندوق-طلا-رسید",
+    "summary": "بورس در حالی آخرین روز هفته را با قرمزپوشی ۵۶ درصد بازار به پایان برد که جریان پول خرد بار دیگر جهت خود را تغییر داد؛ خروج ۸۱۶ میلیارد تومانی نقدینگی از سهام و هجوم ۱.۵ همت نقدینگی به صندوق طلا، نشان داد معامله گران در روز افت شاخص کل، سنگر امن تری را برای دارایی های خود برگزیده اند.",
+    "published": "14 Oct 2026 13:47:49 +0330",
+    "collected_at": "2026-10-14T14:17:50.534265+03:30",
+    "market_score": 22,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "نقدینگی"
+    ]
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "فروش ۲ میلیارد دلار ارز در شرایط محاصره، پرریسک است/ شوک ارزی پیش از محاصره آغاز شد",
     "link": "https://www.khabaronline.ir/news/2288066/%D9%81%D8%B1%D9%88%D8%B4-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D9%BE%D8%B1%D8%B1%DB%8C%D8%B3%DA%A9-%D8%A7%D8%B3%D8%AA-%D8%B4%D9%88%DA%A9-%D8%A7%D8%B1%D8%B2%DB%8C",
@@ -416,6 +418,33 @@
     "high_impact_matches": [
       "صادرات نفت"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "از دلار ۵۹ هزار تومانی تا دلار ۲۵۹ هزار تومانی؛ دستاورد شگرف مسدودسازی درگاه های رمزارزی!",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4301792-%D8%A7%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AA%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D8%B1%D8%AF-%D8%B4%DA%AF%D8%B1%D9%81-%D9%85%D8%B3%D8%AF%D9%88%D8%AF%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2%DB%8C",
+    "summary": "در آستانه دومین سالگرد مسدودسازی درگاه های پرداخت صرافی های رمزارزی قرار داریم؛ تصمیمی که در دی ماه ۱۴۰۳، زمانی که نرخ دلار حدود ۵۹ هزار تومان بود، با ادعای کنترل نرخ ارز و مدیریت بازار اتخاذ شد.",
+    "published": "Wed, 14 Oct 2026 10:30:00 +0000",
+    "collected_at": "2026-10-14T14:17:42.090929+03:30",
+    "market_score": 22,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "نرخ دلار",
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
@@ -780,6 +809,32 @@
     "medium_impact_matches": []
   },
   {
+    "source": "مهر",
+    "title": "دستگیری سارقان طلا و جواهرات در مراغه",
+    "link": "https://www.mehrnews.com/news/6977857/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B1%D9%82%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AC%D9%88%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1-%D9%85%D8%B1%D8%A7%D8%BA%D9%87",
+    "summary": "مراغه- فرمانده انتظامی شهرستان مراغه از دستگیری سارقین به عنف طلا و جواهرات یک نفر شهروند در یک عملیات ضربتی ماموران پلیس آگاهی با کشف طلا و جواهرات ۳۰میلیارد ریالی سرقتی خبر داد.",
+    "published": "Wed, 14 Oct 2026 10:32:41 GMT",
+    "collected_at": "2026-10-14T14:17:29.045978+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار دانشجویان خارجی در ایران مشخص شد/ جزییات",
     "link": "https://www.khabaronline.ir/news/2288187/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%B4%D8%AE%D8%B5-%D8%B4%D8%AF-%D8%AC%D8%B2%DB%8C%DB%8C%D8%A7%D8%AA",
@@ -1041,6 +1096,32 @@
       "بازار سرمایه",
       "شاخص کل"
     ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "رشد قیمت طلا و سکه؛ طلای ۱۸ عیار به کانال ۲۶ میلیون تومانی بازگشت",
+    "link": "https://www.mehrnews.com/news/6977870/%D8%B1%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B2%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA",
+    "summary": "قیمت طلا و سکه در بازار تهران امروز چهارشنبه ۲۲ مهر ۱۴۰۵ افزایش یافت؛ هر گرم طلای ۱۸ عیار با رشد بیش از ۴۰۰ هزار تومانی به ۲۶ میلیون و ۹۳ هزار تومان و سکه طرح جدید به ۲۶۷ میلیون تومان رسید.",
+    "published": "Wed, 14 Oct 2026 10:36:23 GMT",
+    "collected_at": "2026-10-14T14:17:29.045885+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "سکه"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
   },
@@ -1407,29 +1488,27 @@
   },
   {
     "source": "مهر",
-    "title": "فلاحی: نباید همه مشکلات را صرفاً به جنگ یا تحریم ها نسبت داد",
-    "link": "https://www.mehrnews.com/news/6976641/%D9%81%D9%84%D8%A7%D8%AD%DB%8C-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D9%87%D9%85%D9%87-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%B1%D8%A7-%D8%B5%D8%B1%D9%81%D8%A7-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%DB%8C%D8%A7-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7-%D9%86%D8%B3%D8%A8%D8%AA-%D8%AF%D8%A7%D8%AF",
-    "summary": "نماینده سابق مجلس گفت: مسئولان باید با بیان واقعیت ها، پرهیز از اظهارات غیرکارشناسی و استفاده از ظرفیت های موجود برای حل مشکلات اقتصادی، از افزایش نگرانی مردم و التهاب بازار جلوگیری کنند.",
-    "published": "Tue, 13 Oct 2026 10:21:54 GMT",
-    "collected_at": "2026-10-13T14:14:04.555986+03:30",
+    "title": "بازگرداندن ۱۷۰ میلیارد ریال وجه مالباختگان سایبری در کهنوج",
+    "link": "https://www.mehrnews.com/news/6977880/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%D8%AF%D9%86-%DB%B1%DB%B7%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D9%88%D8%AC%D9%87-%D9%85%D8%A7%D9%84%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%DB%8C-%D8%AF%D8%B1-%DA%A9%D9%87%D9%86%D9%88%D8%AC",
+    "summary": "کرمان- فرمانده انتظامی کهنوج از عودت بالغ بر ۱۷۰ میلیارد ریال وجه مالباختگان جرائم سایبری در نتیجه واکاوی پرونده های پلیس فتا این شهرستان از ابتدای سال جاری تاکنون خبر داد.",
+    "published": "Wed, 14 Oct 2026 10:33:52 GMT",
+    "collected_at": "2026-10-14T14:17:29.045926+03:30",
     "market_score": 7,
-    "market_matches": {},
-    "driver_matches": [
-      "تحریم"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
     "priority": "low",
     "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ"
+    "currency_matches": [
+      "ریال"
     ],
-    "medium_impact_matches": [
-      "تحریم"
-    ]
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "ایسنا",
@@ -1817,6 +1896,30 @@
     "medium_impact_matches": []
   },
   {
+    "source": "مشرق",
+    "title": "بهترین روش خرید طلا با سرمایه کم",
+    "link": "https://www.mashreghnews.ir/news/1845676/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D8%B4-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%A9%D9%85",
+    "summary": "",
+    "published": "Wed, 14 Oct 2026 09:58:00 GMT",
+    "collected_at": "2026-10-14T14:17:54.008128+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "از طلا و سهام تا سپرده بانکی؛ دامنه وثایق قضایی گسترش می یابد",
     "link": "https://www.mehrnews.com/news/6977801/%D8%A7%D8%B2-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%D9%87%D8%A7%D9%85-%D8%AA%D8%A7-%D8%B3%D9%BE%D8%B1%D8%AF%D9%87-%D8%A8%D8%A7%D9%86%DA%A9%DB%8C-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%88%D8%AB%D8%A7%DB%8C%D9%82-%D9%82%D8%B6%D8%A7%DB%8C%DB%8C-%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%D9%85%DB%8C-%DB%8C%D8%A7%D8%A8%D8%AF",
@@ -2172,30 +2275,6 @@
     "currency_matches": [
       "ارز"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "عهدی که طلا شد",
-    "link": "https://www.mehrnews.com/news/6976637/%D8%B9%D9%87%D8%AF%DB%8C-%DA%A9%D9%87-%D8%B7%D9%84%D8%A7-%D8%B4%D8%AF",
-    "summary": "پیش از آن که راهی ویتنام شوند و در رقابت با برترین های جهان برای ایران افتخارآفرینی کنند، دل شان در مشهد جا مانده بود؛ در چایخانه امام رضا(ع).",
-    "published": "Tue, 13 Oct 2026 10:17:21 GMT",
-    "collected_at": "2026-10-13T14:14:04.556034+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
