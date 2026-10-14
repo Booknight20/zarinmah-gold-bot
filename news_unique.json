@@ -451,36 +451,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "عقب نشینی نفت در اوج التهاب / برنت به کانال ۱۰۵ دلار رسید",
-    "link": "https://www.khabaronline.ir/news/2287759/%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%A7%D9%88%D8%AC-%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B1%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "قیمت نفت در معاملات روز سه شنبه بازار جهانی که معامله گران به ارزیابی ریسک های عرضه ناشی از حملات به عربستان سعودی در برابر احتمال افزایش عرضه گازوئیل از سوی روسیه پرداختند، کاهش یافت.",
-    "published": "Tue, 13 Oct 2026 12:58:00 GMT",
-    "collected_at": "2026-10-13T16:44:21.452942+03:30",
-    "market_score": 19,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [
-      "قیمت نفت"
-    ]
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "از نرخ بهره تا نقدینگی؛ چه عواملی مسیر ورود به بازار بیت کوین را تغییر می دهند؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4301812-%D8%A7%D8%B2-%D9%86%D8%B1%D8%AE-%D8%A8%D9%87%D8%B1%D9%87-%D8%AA%D8%A7-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%DA%86%D9%87-%D8%B9%D9%88%D8%A7%D9%85%D9%84%DB%8C-%D9%85%D8%B3%DB%8C%D8%B1-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%B1%D8%A7-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%DB%8C-%D8%AF%D9%87%D9%86%D8%AF",
@@ -1812,6 +1782,30 @@
     "high_impact_matches": [
       "جنگ"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "اصلاح سیاست های ارزی برای حفظ توان تولید و صادرات زنجان ضروری است",
+    "link": "https://www.mehrnews.com/news/6978116/%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AD%D9%81%D8%B8-%D8%AA%D9%88%D8%A7%D9%86-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%88-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B2%D9%86%D8%AC%D8%A7%D9%86-%D8%B6%D8%B1%D9%88%D8%B1%DB%8C",
+    "summary": "زنجان- معاون هماهنگی امور اقتصادی استاندار زنجان گفت: اصلاح سیاست های ارزی برای حفظ توان تولید و صادرات زنجان ضروری است.",
+    "published": "Wed, 14 Oct 2026 12:46:23 GMT",
+    "collected_at": "2026-10-14T16:47:33.499529+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
