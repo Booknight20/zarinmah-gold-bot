@@ -864,34 +864,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "جنگ علیه ایران ۲۶۵ میلیارد دلار به اقتصاد آمریکا خسارت زد",
-    "link": "https://www.isna.ir/news/1405072113999/%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B2%DB%B6%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%B2%D8%AF",
-    "summary": "بر اساس برآورد اقتصاددان ارشد مؤسسه «مودیز آنالیتیکس»، جنگ تحمیلی ایالات متحده علیه ایران طی هشت ماه گذشته نزدیک به ۲ هزار دلار برای هر خانوار آمریکایی هزینه داشته و در مجموع ۲۶۵ میلیارد دلار به اقتصاد ایالات متحده خسارت وارد کرده است؛ رقمی که نشان می دهد ماجراجویی نظامی واشنگتن در منطقه، بیش از آنکه امنیت بیاورد، برای خود آمریکایی ها گران تمام شده است.",
-    "published": "Tue, 13 Oct 2026 09:15:42 GMT",
-    "collected_at": "2026-10-13T12:46:56.004208+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ"
-    ],
-    "medium_impact_matches": []
-  },
-  {
     "source": "تابناک",
     "title": "قیمت دلار امروز چهارشنبه ۲۲ مهرماه؛ دلار به ۲۶۰ هزار تومان رسید",
     "link": "https://www.tabnak.ir/fa/news/1398717/قیمت-دلار-امروز-چهارشنبه-22-مهرماه-دلار-به-260-هزار-تومان-رسید",
@@ -1019,32 +991,6 @@
     "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "خرید طلا از سوی بانک های مرکزی چه پیامی دارد ؟/ بزرگترین خریدار طلا در جهان را بشناسید",
-    "link": "https://www.khabaronline.ir/news/2287676/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%DA%86%D9%87-%D9%BE%DB%8C%D8%A7%D9%85%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1",
-    "summary": "تازه ترین آمار شورای جهانی طلا نشان می دهد بانک مرکزی چین در اوت ۲۰۲۶ با خرید ۲۰ تن طلا، بزرگ ترین خریدار این فلز گران بها در میان بانک های مرکزی گزارش دهنده بود.",
-    "published": "Tue, 13 Oct 2026 09:15:00 GMT",
-    "collected_at": "2026-10-13T12:47:19.572735+03:30",
-    "market_score": 15,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
     "medium_impact_matches": []
   },
   {
@@ -1434,6 +1380,54 @@
     "medium_impact_matches": [
       "تحریم"
     ]
+  },
+  {
+    "source": "ایسنا",
+    "title": "مازاد تجاری چین به مرز یک تریلیون دلار رسید",
+    "link": "https://www.isna.ir/news/1405072214771/%D9%85%D8%A7%D8%B2%D8%A7%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%DA%86%DB%8C%D9%86-%D8%A8%D9%87-%D9%85%D8%B1%D8%B2-%DB%8C%DA%A9-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "مازاد تجاری چین در ۹ ماه نخست سال جاری میلادی با جهش صادرات، به ۹۳۸ میلیارد دلار رسید و این کشور را در مسیر عبور از رکورد سال ۲۰۲۵ قرار داد، زیرا رشد صادرات در سپتامبر فراتر از پیش بینی ها بود.",
+    "published": "Wed, 14 Oct 2026 09:00:00 GMT",
+    "collected_at": "2026-10-14T12:47:08.561139+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "کشف ۲۱ تن چای قاچاق به ارزش ۱۵۰ میلیارد ریال در مرند",
+    "link": "https://www.isna.ir/news/1405072214805/%DA%A9%D8%B4%D9%81-%DB%B2%DB%B1-%D8%AA%D9%86-%DA%86%D8%A7%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%DB%B1%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1-%D9%85%D8%B1%D9%86%D8%AF",
+    "summary": "فرمانده انتظامی شهرستان مرند از کشف ۲۱ هزار کیلوگرم چای خارجی قاچاق به ارزش تقریبی ۱۵۰ میلیارد ریال در مسیر جلفا ـ مرند خبر داد و گفت: در این رابطه یک نفر دستگیر شد.",
+    "published": "Wed, 14 Oct 2026 09:08:54 GMT",
+    "collected_at": "2026-10-14T12:47:08.560962+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "دنیای اقتصاد",
