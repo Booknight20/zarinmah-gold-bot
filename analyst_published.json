@@ -3438,5 +3438,29 @@
     "eitaa_sent_at": "2026-10-14T17:17:45.616048+03:30",
     "eitaa_message_id": 176477173,
     "published_at": "2026-10-14T17:17:45.620239+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8507": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "صندوق بین‌المللی پول پیش‌بینی کرده بعد از شرایط سخت امسال، شاخص‌های اقتصاد ایران سال آینده بهتر م...",
+      "summary": "صندوق بین‌المللی پول پیش‌بینی کرده بعد از شرایط سخت امسال، شاخص‌های اقتصاد ایران سال آینده بهتر میشن ‼️ طفلکی‌ها فکر میکنن تورم ما 2 رقمیه...\n⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8507",
+      "analysis_score": 4,
+      "market_matches": [
+        "شاخص",
+        "تورم"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-14T17:47:09.919180+03:30"
+    },
+    "first_seen_at": "2026-10-14T17:47:10.812594+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-14T17:47:11.326246+03:30",
+    "telegram_message_id": 486,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-14T17:47:12.592014+03:30",
+    "eitaa_message_id": 176481561,
+    "published_at": "2026-10-14T17:47:12.596573+03:30"
   }
 }
