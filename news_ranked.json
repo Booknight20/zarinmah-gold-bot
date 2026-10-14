@@ -361,6 +361,36 @@
     "medium_impact_matches": []
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "هشدار صندوق بین المللی پول نسبت به تداوم شرایط جنگی / رشد اقتصادی جهان به چه رقمی می رسد؟",
+    "link": "https://www.khabaronline.ir/news/2288207/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D9%BE%D9%88%D9%84-%D9%86%D8%B3%D8%A8%D8%AA-%D8%A8%D9%87-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%AC%D9%86%DA%AF%DB%8C-%D8%B1%D8%B4%D8%AF-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C",
+    "summary": "صندوق بین المللی پول نسبت به تداوم جنگ در منطقه و رسیدن قیمت نفت به سطوح بالاتر از 130 دلار هشدار داد.",
+    "published": "Wed, 14 Oct 2026 09:30:00 GMT",
+    "collected_at": "2026-10-14T13:17:15.436357+03:30",
+    "market_score": 26,
+    "market_matches": {},
+    "driver_matches": [
+      "رشد اقتصادی"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ",
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "رشد اقتصادی",
+      "قیمت نفت"
+    ]
+  },
+  {
     "source": "مهر",
     "title": "شوک های ژئوپلیتیک و انضباط پولی؛ پاشنه آشیل مهار تورم در بازار ارز",
     "link": "https://www.mehrnews.com/news/6976631/%D8%B4%D9%88%DA%A9-%D9%87%D8%A7%DB%8C-%DA%98%D8%A6%D9%88%D9%BE%D9%84%DB%8C%D8%AA%DB%8C%DA%A9-%D9%88-%D8%A7%D9%86%D8%B6%D8%A8%D8%A7%D8%B7-%D9%BE%D9%88%D9%84%DB%8C-%D9%BE%D8%A7%D8%B4%D9%86%D9%87-%D8%A2%D8%B4%DB%8C%D9%84-%D9%85%D9%87%D8%A7%D8%B1-%D8%AA%D9%88%D8%B1%D9%85-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1",
@@ -669,61 +699,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "صعود ۱۲۶ هزار واحدی بورس تهران؛ شاخص کل در آستانه ۸.۵ میلیون واحد",
-    "link": "https://www.isna.ir/news/1405072114023/%D8%B5%D8%B9%D9%88%D8%AF-%DB%B1%DB%B2%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%DB%B8-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
-    "summary": "بورس تهران در معاملات روز سه شنبه و در ادامه روند صعودی روز گذشته، با رشد بیش از ۱۲۶ هزار واحدی شاخص کل همراه شد و در آستانه ورود به کانال ۸.۵ میلیون واحد قرار گرفت؛ هم زمان، شاخص هم وزن نیز افزایش یافت و ارزش معاملات خرد بازار به ۴۱.۴ همت رسید.",
-    "published": "Tue, 13 Oct 2026 09:32:05 GMT",
-    "collected_at": "2026-10-13T13:17:11.935096+03:30",
-    "market_score": 18,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن",
-      "ارزش معاملات"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مشرق",
-    "title": "صعود ۱۲۶ هزار واحدی بورس تهران",
-    "link": "https://www.mashreghnews.ir/news/1845453/%D8%B5%D8%B9%D9%88%D8%AF-%DB%B1%DB%B2%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-    "summary": "بورس تهران در معاملات روز سه شنبه و در ادامه روند صعودی روز گذشته، با رشد بیش از ۱۲۶ هزار واحدی شاخص کل همراه شد و در آستانه ورود به کانال ۸.۵ میلیون واحد قرار گرفت؛ هم زمان، شاخص هم وزن نیز افزایش یافت و ارزش معاملات خرد بازار به ۴۱.۴ همت رسید.",
-    "published": "Tue, 13 Oct 2026 09:45:04 GMT",
-    "collected_at": "2026-10-13T13:17:47.673677+03:30",
-    "market_score": 18,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن",
-      "ارزش معاملات"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۲ مهر ۱۴۰۵/ دلار ۲۶۰ هزار تومان قیمت خورد + جدول",
     "link": "https://www.khabaronline.ir/news/2288313/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B2-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B6%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1",
@@ -864,6 +839,32 @@
     "medium_impact_matches": []
   },
   {
+    "source": "ایسنا",
+    "title": "کارخانه گلوکز و نشاسته با سرمایه گذاری ۴۲ میلیون دلاری در شبستر افتتاح شد",
+    "link": "https://www.isna.ir/news/1405072214829/%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87-%DA%AF%D9%84%D9%88%DA%A9%D8%B2-%D9%88-%D9%86%D8%B4%D8%A7%D8%B3%D8%AA%D9%87-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%DB%B4%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B4%D8%A8%D8%B3%D8%AA%D8%B1",
+    "summary": "کارخانه تولید گلوکز و نشاسته شرکت شیرین عسل با سرمایه گذاری ارزی ۴۲ میلیون دلار و سرمایه گذاری ریالی یک هزار میلیارد تومان، روز چهارشنبه ۲۲ مهرماه، هم زمان با بیست ودومین سفر استانی دولت به آذربایجان شرقی، در نشست فعالان اقتصادی استان با معاون اجرایی رئیس جمهور به صورت ویدئوکنفرانسی به بهره برداری رسید.",
+    "published": "Wed, 14 Oct 2026 09:28:26 GMT",
+    "collected_at": "2026-10-14T13:16:45.245124+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "تابناک",
     "title": "قیمت دلار امروز چهارشنبه ۲۲ مهرماه؛ دلار به ۲۶۰ هزار تومان رسید",
     "link": "https://www.tabnak.ir/fa/news/1398717/قیمت-دلار-امروز-چهارشنبه-22-مهرماه-دلار-به-260-هزار-تومان-رسید",
@@ -968,6 +969,32 @@
     "medium_impact_matches": []
   },
   {
+    "source": "تابناک",
+    "title": "قیمت طلا و سکه امروز ۲۲ مهر/ ربع سکه، بمب امروز بازار !",
+    "link": "https://www.tabnak.ir/fa/news/1398722/قیمت-طلا-و-سکه-امروز-22-مهر-ربع-سکه-بمب-امروز-بازار",
+    "summary": "درست یک روز پس از اصلاح گسترده، بازار امروز در همه قطعات خرد سکه و طلای خام صعودی شد و نشان داد کف قیمتی در محدوده ی فعلی، قابل دفاع است ، امانکته مهم اینکه این رشد پس از اصلاح آمده و هنوز آغاز یک موج صعودی جدید محسوب نمی شود.",
+    "published": "14 Oct 2026 13:11:42 +0330",
+    "collected_at": "2026-10-14T13:17:17.704203+03:30",
+    "market_score": 15,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "ربع سکه"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا و سکه امروز چهارشنبه ۲۲ مهر ۱۴۰۵/ کاهش قیمت طلا و سکه",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301746-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
@@ -994,6 +1021,35 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "نشان طلای بورس های اروپایی-آسیایی به کارگزاری مفید تعلق گرفت",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4301782-%D9%86%D8%B4%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%DB%8C-%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C-%D9%85%D9%81%DB%8C%D8%AF-%D8%AA%D8%B9%D9%84%D9%82-%DA%AF%D8%B1%D9%81%D8%AA",
+    "summary": "کارگزاری مفید در تازه ترین ارزیابی نهادهای مالی عضو فدراسیون بورس های اروپایی و آسیایی (FEAS)، توانست با پشت سر گذاشتن رقبایی از ۳۲ کشور جهان برای هفتمین سال متوالی نشان طلای بخش بازارهای سهام را کسب کند.",
+    "published": "Wed, 14 Oct 2026 09:18:36 +0000",
+    "collected_at": "2026-10-14T13:17:10.161064+03:30",
+    "market_score": 14,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "ریزش ۲۴ هزار واحدی در شاخص بورس تهران/ گزارش وضعیت بورس امروز ۲۲ مهر ۱۴۰۵",
     "link": "https://www.khabaronline.ir/live/2288233/%D8%B1%DB%8C%D8%B2%D8%B4-%DB%B2%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2",
@@ -1016,6 +1072,33 @@
       "بورس",
       "بازار سرمایه",
       "شاخص کل"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "افت ۳۴ هزار واحدی شاخص کل بورس در آخرین روز کاری هفته",
+    "link": "https://www.isna.ir/news/1405072214851/%D8%A7%D9%81%D8%AA-%DB%B3%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C-%D9%87%D9%81%D8%AA%D9%87",
+    "summary": "شاخص کل بورس تهران در حالی معاملات چهارشنبه را با افت بیش از ۳۴ هزار واحدی به پایان رساند که شاخص هم وزن برخلاف روند شاخص کل، صعودی بود؛ موضوعی که از تفاوت روند معاملات در نمادهای بزرگ و کوچک بازار حکایت دارد.",
+    "published": "Wed, 14 Oct 2026 09:44:17 GMT",
+    "collected_at": "2026-10-14T13:16:45.244765+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "شاخص هم وزن"
     ],
     "high_impact_matches": [],
     "medium_impact_matches": []
@@ -1206,32 +1289,6 @@
     "summary": "تداوم موج تقاضا در بورس تهران، شاخص کل را با پرواز ۱۲۶ هزار واحدی به ارتفاع تاریخی ۸ میلیون و ۴۶۰ هزار واحد رساند.",
     "published": "13 Oct 2026 13:36:45 +0330",
     "collected_at": "2026-10-13T13:47:41.612910+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "شاخص کل بورس رشد کرد/ ورود بیش از ۵ همت پول به سهام",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301579-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%87%D9%85%D8%AA-%D9%BE%D9%88%D9%84-%D8%A8%D9%87-%D8%B3%D9%87%D8%A7%D9%85",
-    "summary": "در پایان معاملات امروز شاخص کل بورس با افزایش ۱۲۶ هزار و ۴۷۷ واحدی، معادل ۱.۵۲ درصد، به سطح ۸ میلیون و ۴۶۰ هزار و ۵۰۰ واحد رسید.",
-    "published": "Tue, 13 Oct 2026 09:45:28 +0000",
-    "collected_at": "2026-10-13T13:17:37.628106+03:30",
     "market_score": 10,
     "market_matches": {
       "stock": [
@@ -1719,78 +1776,6 @@
     "medium_impact_matches": [
       "نقدینگی"
     ]
-  },
-  {
-    "source": "مهر",
-    "title": "ضبط ۱۰۶ رأس گوسفند و جریمه ۵۶ میلیارد ریالی متخلف در تاکستان",
-    "link": "https://www.mehrnews.com/news/6976527/%D8%B6%D8%A8%D8%B7-%DB%B1%DB%B0%DB%B6-%D8%B1%D8%A3%D8%B3-%DA%AF%D9%88%D8%B3%D9%81%D9%86%D8%AF-%D9%88-%D8%AC%D8%B1%DB%8C%D9%85%D9%87-%DB%B5%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D9%85%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D8%AA%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86",
-    "summary": "قزوین- مدیرکل تعزیرات حکومتی استان قزوین از ضبط ۱۰۶ رأس گوسفند به ارزش بیش از ۲۷ میلیارد ریال و محکومیت متهم به پرداخت حدود ۵۶ میلیارد ریال جریمه نقدی در تاکستان خبر داد.",
-    "published": "Tue, 13 Oct 2026 09:41:45 GMT",
-    "collected_at": "2026-10-13T13:17:25.221120+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "پرداخت ۴ هزار و ۳۱۰ میلیارد ریال تسهیلات کشاورزی در قزوین",
-    "link": "https://www.mehrnews.com/news/6976537/%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B3%DB%B1%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AA%D8%B3%D9%87%DB%8C%D9%84%D8%A7%D8%AA-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%AF%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "summary": "قزوین- معاون جهاد کشاورزی استان قزوین گفت: در نیمه نخست سال جاری ۴ هزار و ۳۱۰ میلیارد ریال به کشاورزان استان قزوین تسهیلات پرداخت شد.",
-    "published": "Tue, 13 Oct 2026 09:42:29 GMT",
-    "collected_at": "2026-10-13T13:17:25.221106+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "مترو اسلامشهر سبب روزی ۱۸۰هزارمسافر و ۱۷.۵میلیون دلار صرفه جویی می شود",
-    "link": "https://www.mehrnews.com/news/6976598/%D9%85%D8%AA%D8%B1%D9%88-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B3%D8%A8%D8%A8-%D8%B1%D9%88%D8%B2%DB%8C-%DB%B1%DB%B8%DB%B0%D9%87%D8%B2%D8%A7%D8%B1%D9%85%D8%B3%D8%A7%D9%81%D8%B1-%D9%88-%DB%B1%DB%B7-%DB%B5%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C",
-    "summary": "اسلامشهر- بازرس کل استان تهران گفت: پس از بهره برداری از مترو اسلام شهر، روزانه ۱۷۰ تا ۱۸۰ هزار نفر با آن جابه جا می شوند و سالانه حدود ۱۷.۵ میلیون دلار در مصرف سوخت صرفه جویی می شود.",
-    "published": "Tue, 13 Oct 2026 09:44:59 GMT",
-    "collected_at": "2026-10-13T13:17:25.221054+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
   },
   {
     "source": "ایسنا",
