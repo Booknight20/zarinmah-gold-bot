@@ -2972,5 +2972,31 @@
     "eitaa_sent_at": "2026-10-14T09:18:09.725574+03:30",
     "eitaa_message_id": 176391966,
     "published_at": "2026-10-14T09:18:09.729439+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8494": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "خبر مهم امروز آمار تورم آمریکاس",
+      "summary": "برای اونس طلا و ارزهای دیجیتال مهمه\nساعت ۴ اعلام میشه و براتون میزارم",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8494",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "ارز",
+        "تورم"
+      ],
+      "priority": "high",
+      "collected_at": "2026-10-14T10:18:09.758405+03:30"
+    },
+    "first_seen_at": "2026-10-14T10:18:15.046679+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-14T10:18:15.582348+03:30",
+    "telegram_message_id": 453,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-14T10:18:17.065226+03:30",
+    "eitaa_message_id": 176403861,
+    "published_at": "2026-10-14T10:18:17.068988+03:30"
   }
 }
