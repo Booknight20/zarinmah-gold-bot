@@ -87,6 +87,14 @@ jobs:
           python -u analyst_publisher.py
 
 
+      - name: Update Telegram news and analysis archives
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python -u channel_archive.py
+
+
       - name: Save news data
         if: always()
         run: |
@@ -102,6 +110,7 @@ jobs:
           git add analyst_ready.json
           git add analyst_seen.json
           git add analyst_published.json
+          git add channel_archive_state.json
 
           if git diff --cached --quiet; then
             echo "No news data changes."
