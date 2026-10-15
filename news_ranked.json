@@ -251,39 +251,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "عقب نشینی شاخص کل بورس در آخرین روز هفته/ ۱.۵ همت به صندوق طلا رسید",
-    "link": "https://www.tabnak.ir/fa/news/1398745/عقب-نشینی-شاخص-کل-بورس-در-آخرین-روز-هفته-1-5-همت-به-صندوق-طلا-رسید",
-    "summary": "بورس در حالی آخرین روز هفته را با قرمزپوشی ۵۶ درصد بازار به پایان برد که جریان پول خرد بار دیگر جهت خود را تغییر داد؛ خروج ۸۱۶ میلیارد تومانی نقدینگی از سهام و هجوم ۱.۵ همت نقدینگی به صندوق طلا، نشان داد معامله گران در روز افت شاخص کل، سنگر امن تری را برای دارایی های خود برگزیده اند.",
-    "published": "14 Oct 2026 13:47:49 +0330",
-    "collected_at": "2026-10-14T14:17:50.534265+03:30",
-    "market_score": 22,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "نقدینگی"
-    ]
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "طلا از پایین ترین سطح قیمتی فاصله گرفت/ قیمت جدید طلای جهانی امروز ۲۳ مهر ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2288681/%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D9%82%DB%8C%D9%85%D8%AA%DB%8C-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%DA%AF%D8%B1%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
@@ -306,33 +273,6 @@
     ],
     "currency_matches": [
       "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "از دلار ۵۹ هزار تومانی تا دلار ۲۵۹ هزار تومانی؛ دستاورد شگرف مسدودسازی درگاه های رمزارزی!",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4301792-%D8%A7%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AA%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D8%B1%D8%AF-%D8%B4%DA%AF%D8%B1%D9%81-%D9%85%D8%B3%D8%AF%D9%88%D8%AF%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2%DB%8C",
-    "summary": "در آستانه دومین سالگرد مسدودسازی درگاه های پرداخت صرافی های رمزارزی قرار داریم؛ تصمیمی که در دی ماه ۱۴۰۳، زمانی که نرخ دلار حدود ۵۹ هزار تومان بود، با ادعای کنترل نرخ ارز و مدیریت بازار اتخاذ شد.",
-    "published": "Wed, 14 Oct 2026 10:30:00 +0000",
-    "collected_at": "2026-10-14T14:17:42.090929+03:30",
-    "market_score": 22,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "نرخ دلار",
-      "نرخ ارز",
-      "ارز"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -983,6 +923,30 @@
     ]
   },
   {
+    "source": "مهر",
+    "title": "وصول بیش از ۷ میلیارد ریال اجاره بهای اراضی دولتی در لرستان",
+    "link": "https://www.mehrnews.com/news/6978993/%D9%88%D8%B5%D9%88%D9%84-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A8%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%A7%D8%B6%DB%8C-%D8%AF%D9%88%D9%84%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
+    "summary": "خرم آباد- مدیر امور اراضی استان لرستان از وصول و واریز بیش از ۷ میلیارد ریال عواید حاصل از اجاره بهای اراضی دولتی به حساب خزانه دولت در شش ماهه نخست سال جاری خبر داد.",
+    "published": "Thu, 15 Oct 2026 15:18:06 GMT",
+    "collected_at": "2026-10-15T19:17:22.609839+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "ایسنا",
     "title": "جزئیاتی از پرونده ۱۰.۵ میلیون دلاری «FNDK» در تالش",
     "link": "https://www.isna.ir/news/1405072315624/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%DB%B1%DB%B0-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-FNDK-%D8%AF%D8%B1-%D8%AA%D8%A7%D9%84%D8%B4",
@@ -1463,30 +1427,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "دادستان: اراضی دولتی به ارزش بیش از ۶۰۰۰ میلیارد ریال در کرمان بازپس گیری شد",
-    "link": "https://www.isna.ir/news/1405072214979/%D8%AF%D8%A7%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%B1%D8%A7%D8%B6%DB%8C-%D8%AF%D9%88%D9%84%D8%AA%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B6%DB%B0%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86",
-    "summary": "دادستان عمومی و انقلاب مرکز استان کرمان از اجرای هشت حکم قضائی و رفع تصرف از ۲۰ هزار و ۸۰۰ مترمربع از اراضی دولتی در محدوده هفت باغ و شهر کرمان به ارزش ۶۲۳۲ میلیارد ریال خبر داد.",
-    "published": "Wed, 14 Oct 2026 11:10:58 GMT",
-    "collected_at": "2026-10-14T14:45:09.003761+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "تصمیم شورای عالی امنیت ملی برای کالاهای اساسی / مجوز ترخیص بدون تأمین ارز تا ۱۵ آبان تمدید شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302017-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%84%D8%A7%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C-%D9%85%D8%AC%D9%88%D8%B2-%D8%AA%D8%B1%D8%AE%DB%8C%D8%B5-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%A7-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%D8%B4%D8%AF",
@@ -1709,54 +1649,6 @@
     "summary": "با افزایش استقبال از خرید طلای آب شده، پلتفرم های آنلاین متعددی امکان سرمایه گذاری در طلا را با مبالغ کم فراهم کرده اند. میلی، طلاسی، طلاین، گرمی، گلدیکا و چند سامانه دیگر از جمله گزینه های فعال در این بازار هستند.",
     "published": "Wed, 14 Oct 2026 11:45:51 +0000",
     "collected_at": "2026-10-14T15:19:51.226522+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "استاندار زنجان: رسیدگی به تعهدات ارزی صادرکنندگان باید متناسب با شرایط هر واحد باشد",
-    "link": "https://www.isna.ir/news/1405072214961/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF%DA%AF%DB%8C-%D8%A8%D9%87-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%85%D8%AA%D9%86%D8%A7%D8%B3%D8%A8",
-    "summary": "استاندار زنجان با تأکید بر ضرورت تفکیک پرونده های تعهدات ارزی صادرکنندگان، گفت: نباید با همه فعالان اقتصادی برخورد یکسان داشت و لازم است وضعیت هر واحد تولیدی و صادراتی براساس میزان ایفای تعهدات و موانع پیش روی آن بررسی شود.",
-    "published": "Wed, 14 Oct 2026 11:01:53 GMT",
-    "collected_at": "2026-10-14T14:45:09.003974+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مشرق",
-    "title": "بهترین روش خرید طلا با سرمایه کم",
-    "link": "https://www.mashreghnews.ir/news/1845676/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D8%B4-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%A9%D9%85",
-    "summary": "",
-    "published": "Wed, 14 Oct 2026 09:58:00 GMT",
-    "collected_at": "2026-10-14T14:17:54.008128+03:30",
     "market_score": 5,
     "market_matches": {
       "gold": [

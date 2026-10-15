@@ -3722,5 +3722,29 @@
     "eitaa_sent_at": "2026-10-15T16:47:37.804420+03:30",
     "eitaa_message_id": 176630299,
     "published_at": "2026-10-15T16:47:37.808881+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25561": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "تارگت ۵ بانک بزرگ برای انس جهانی طلا",
+      "summary": "حداقل رشد طلای جهانی از همین محدوده ۴۱۵۵ هزار دلار بر اساس تارگت بانک‌ها بین ۸ تا ۲۲ درصد هست.\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25561",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "دلار"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-15T19:17:46.138800+03:30"
+    },
+    "first_seen_at": "2026-10-15T19:17:49.132302+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-15T19:17:49.842848+03:30",
+    "telegram_message_id": 578,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-15T19:17:52.005271+03:30",
+    "eitaa_message_id": 176652788,
+    "published_at": "2026-10-15T19:17:52.012057+03:30"
   }
 }
