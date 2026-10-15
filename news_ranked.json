@@ -1216,32 +1216,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مشرق",
-    "title": "زیان ۴.۵ میلیارد دلاری غول نفتی انگلیس",
-    "link": "https://www.mashreghnews.ir/news/1845467/%D8%B2%DB%8C%D8%A7%D9%86-%DB%B4-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%BA%D9%88%D9%84-%D9%86%D9%81%D8%AA%DB%8C-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3",
-    "summary": "شرکت بی پی (BP) از کاهش ارزش دارایی هایی خود به میزان ۳ تا ۴.۵ میلیارد دلار در سه ماهه سوم ۲۰۲۶ خبر داد.",
-    "published": "Wed, 14 Oct 2026 02:00:00 GMT",
-    "collected_at": "2026-10-14T05:47:28.797021+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "چرا اقتصاد ایران در اوج جنگ و تحریم و مخاصره، سر پا ماند؟",
     "link": "https://www.khabaronline.ir/news/2288650/%DA%86%D8%B1%D8%A7-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%D9%88%D8%AC-%D8%AC%D9%86%DA%AF-%D9%88-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%88-%D9%85%D8%AE%D8%A7%D8%B5%D8%B1%D9%87-%D8%B3%D8%B1-%D9%BE%D8%A7-%D9%85%D8%A7%D9%86%D8%AF",
@@ -1695,30 +1669,6 @@
     "currency_matches": [
       "ریال"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "تدوین طرح ۶ مرحله ای برای مهار قاچاق سوخت / رصد مستمر سکوهای طلا",
-    "link": "https://www.isna.ir/news/1405072114142/%D8%AA%D8%AF%D9%88%DB%8C%D9%86-%D8%B7%D8%B1%D8%AD-%DB%B6-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D9%87%D8%A7%D8%B1-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%B3%D9%88%D8%AE%D8%AA-%D8%B1%D8%B5%D8%AF-%D9%85%D8%B3%D8%AA%D9%85%D8%B1-%D8%B3%DA%A9%D9%88%D9%87%D8%A7%DB%8C",
-    "summary": "رئیس پلیس امنیت اقتصادی فراجا با اشاره به اینکه بخش عمده قاچاق سوخت کشور مربوط به گازوئیل است، گفت: به طور مثال اگر بگویم از حدود ۳۰ میلیون لیتر قاچاق روزانه سوخت داریم، حدود ۲۵ تا ۲۶ میلیون لیتر یا بیشتر مربوط به گازوئیل یا نفت گاز است و سهم بنزین از این میزان محدود است.",
-    "published": "Wed, 14 Oct 2026 02:42:00 GMT",
-    "collected_at": "2026-10-14T06:17:12.496599+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
