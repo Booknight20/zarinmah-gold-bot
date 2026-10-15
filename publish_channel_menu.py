@@ -1,12 +1,45 @@
 import os
 import sys
 import requests
+from bs4 import BeautifulSoup
+import re
 
 BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHANNEL = "@ZarinMahGold"
 CHANNEL_USERNAME = "ZarinMahGold"
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 CHANNEL_URL = f"https://t.me/{CHANNEL_USERNAME}"
+PUBLIC_CHANNEL_URL = f"https://t.me/s/{CHANNEL_USERNAME}"
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ZarinMahBot/1.0)"}
+
+
+def get_latest_hourly_price_link():
+    """Find the newest public channel post tagged #قیمت_ساعتی."""
+    try:
+        response = requests.get(PUBLIC_CHANNEL_URL, headers=HEADERS, timeout=25)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
+        matches = []
+        for wrapper in soup.select("div.tgme_widget_message_wrap"):
+            text_node = wrapper.select_one("div.tgme_widget_message_text")
+            date_node = wrapper.select_one("a.tgme_widget_message_date")
+            if not text_node or not date_node:
+                continue
+            text = text_node.get_text(" ", strip=True)
+            if "#قیمت_ساعتی" not in text:
+                continue
+            link = date_node.get("href", "")
+            match = re.search(r"/(\d+)$", link)
+            if match:
+                matches.append((int(match.group(1)), link))
+        if matches:
+            message_id, link = max(matches, key=lambda item: item[0])
+            print(f"Latest hourly price found: {link} (message_id={message_id})")
+            return link
+        print("WARNING: No post tagged #قیمت_ساعتی found on the public channel.")
+    except Exception as error:
+        print(f"WARNING: Could not find the latest hourly price: {error}")
+    return CHANNEL_URL
 
 
 def telegram_request(method, payload):
@@ -79,7 +112,8 @@ def main():
     )
     products_link, _ = publish_post("Products for sale guide", products_text)
 
-    # The hourly bot replaces this URL with the newest hourly-price post after each successful send.
+    # Initialize this button to the newest existing hourly-price post. bot.py updates it after every later successful hourly send.
+    latest_price_link = get_latest_hourly_price_link()
     submenu_text = (
         "📊 قیمت و تحلیل بازار زرین ماه\n\n"
         "از دکمه‌های زیر، بخش موردنظرتان را انتخاب کنید.\n\n"
@@ -88,7 +122,7 @@ def main():
     )
     submenu_markup = {
         "inline_keyboard": [
-            [{"text": "💰 قیمت‌های ساعتی", "url": CHANNEL_URL}],
+            [{"text": "💰 قیمت‌های ساعتی", "url": latest_price_link}],
             [{"text": "📈 تحلیل روزانه", "url": analysis_link}],
             [{"text": "📰 اخبار بازار", "url": news_link}],
         ]
