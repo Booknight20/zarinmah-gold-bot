@@ -3644,5 +3644,33 @@
     "eitaa_sent_at": "2026-10-15T13:47:11.419718+03:30",
     "eitaa_message_id": 176595854,
     "published_at": "2026-10-15T13:47:11.424549+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8521": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "🔴 با این وضعیت دلار و اونس جهانی، طلا ۱۸ عیار تقریبا ۵۰۰ تومن زیر ارزش ذاتیش داره معامله میشه",
+      "summary": "⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8521",
+      "analysis_score": 12,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "اونس جهانی",
+        "دلار",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "priority": "high",
+      "collected_at": "2026-10-15T14:47:52.914093+03:30"
+    },
+    "first_seen_at": "2026-10-15T14:47:53.946871+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-15T14:47:54.634034+03:30",
+    "telegram_message_id": 516,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-15T14:47:56.167038+03:30",
+    "eitaa_message_id": 176606056,
+    "published_at": "2026-10-15T14:47:56.171497+03:30"
   }
 }
