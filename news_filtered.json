@@ -382,23 +382,6 @@
     "major_event_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا ثابت ماند/ قیمت جدید طلای جهانی امروز ۲۲ مهر ۱۴۰۵",
-    "link": "https://www.khabaronline.ir/news/2288206/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AB%D8%A7%D8%A8%D8%AA-%D9%85%D8%A7%D9%86%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B2-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5",
-    "summary": "قیمت طلا در معاملات روز چهارشنبه بازار جهانی که سرمایه گذاران منتظر انتشار داده های تورم آمریکا برای ارزیابی چشم انداز سیاست پولی فدرال رزرو بودند، تغییر چندانی نداشت و ثابت ایستاد.",
-    "published": "Wed, 14 Oct 2026 06:29:14 GMT",
-    "collected_at": "2026-10-14T10:17:50.766325+03:30",
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
     "source": "مهر",
     "title": "قیمت جهانی نفت امروز ۲۳ مهر؛ هر بشکه برنت به ۱۰۴ دلار و ۴۲ سنت رسید",
     "link": "https://www.mehrnews.com/news/6977421/%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%86%D9%81%D8%AA-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B3-%D9%85%D9%87%D8%B1-%D9%87%D8%B1-%D8%A8%D8%B4%DA%A9%D9%87-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%DB%B1%DB%B0%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%DB%B4%DB%B2-%D8%B3%D9%86%D8%AA",
@@ -574,6 +557,22 @@
     "major_event_matches": [
       "جنگ"
     ]
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۲۳ مهر ۱۴۰۵/ طلای ۲۴عیار وارد کانال ۳۵ میلیون تومان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2288746/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B3-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B2%DB%B4%D8%B9%DB%8C%D8%A7%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B3%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "summary": "قیمت طلا در بازار تهران امروز ۲۳ مهرماه اعلام و هر گرم طلای ۲۴عیار وارد کانال ۳۵ میلیون تومان شد.",
+    "published": "Thu, 15 Oct 2026 08:39:25 GMT",
+    "collected_at": "2026-10-15T12:17:33.001063+03:30",
+    "market_score": 3,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": []
   },
   {
     "source": "مهر",
@@ -1418,38 +1417,6 @@
     "market_matches": {
       "stock": [
         "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
-    "source": "مشرق",
-    "title": "قیمت دلار امروز چهارشنبه ۲۲ مهر ۱۴۰۵",
-    "link": "https://www.mashreghnews.ir/news/1845601/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%DB%B2%DB%B2-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5",
-    "summary": "دلار، یورو، درهم، روبل و یوان در معاملات امروز مرکز مبادله افزایش قیمت داشتند.",
-    "published": "Wed, 14 Oct 2026 06:11:07 GMT",
-    "collected_at": "2026-10-14T10:17:58.273571+03:30",
-    "market_score": 3,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "رکوردشکنی دانش آموزان ایرانی با کسب ۱۸ مدال طلای المپیادهای جهانی",
-    "link": "https://www.mehrnews.com/news/6977406/%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%DA%A9%D8%B3%D8%A8-%DB%B1%DB%B8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-    "summary": "رئیس باشگاه دانش پژوهان جوان از افزایش مدال های طلای ایران در المپیادهای علمی جهانی و بین المللی از ۱۱ مدال در سال گذشته به ۱۸ مدال در سال ۲۰۲۶ خبر داد.",
-    "published": "Wed, 14 Oct 2026 06:23:00 GMT",
-    "collected_at": "2026-10-14T10:17:31.500649+03:30",
-    "market_score": 3,
-    "market_matches": {
-      "gold": [
-        "طلا"
       ]
     },
     "driver_matches": [],
