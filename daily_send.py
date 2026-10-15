@@ -190,7 +190,7 @@ def main():
         message.rstrip()
         + "\n\n"
         + CHANNEL_PROMO
-        + "\n\n#قیمت_و_تحلیل"
+        + "\n\n#تحلیل_روزانه"
     )
 
     print("")
