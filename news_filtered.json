@@ -22,6 +22,24 @@
     "major_event_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت دلار، یورو و درهم امروز پنجشنبه ۲۳ مهر ۱۴۰۵/ افزایش قیمت دلار",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4301999-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
+    "summary": "قیمت درهم حواله امروز با افزایش نسبت به روز گذشته، از 49,164 (چهل و نه هزار و یکصد و شصت و چهار) تومان به 49,312 (چهل و نه هزار و سیصد و دوازده) تومان رسید.",
+    "published": "Thu, 15 Oct 2026 07:46:00 +0000",
+    "collected_at": "2026-10-15T11:47:28.344826+03:30",
+    "market_score": 9,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "یورو",
+        "درهم"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": []
+  },
+  {
     "source": "مهر",
     "title": "قیمت جهانی طلا امروز ۲۳ مهر؛ اونس طلا به ۴۱۴۶ دلار و ۷۴ سنت رسید",
     "link": "https://www.mehrnews.com/news/6977400/%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B3-%D9%85%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4%DB%B1%DB%B4%DB%B6-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%DB%B7%DB%B4-%D8%B3%D9%86%D8%AA-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -556,6 +574,22 @@
     "major_event_matches": [
       "جنگ"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "معبر لجستیکی S۱۵ ماکو با اعتبار ۹۵۷ میلیارد ریال افتتاح شد",
+    "link": "https://www.mehrnews.com/news/6978635/%D9%85%D8%B9%D8%A8%D8%B1-%D9%84%D8%AC%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-S%DB%B1%DB%B5-%D9%85%D8%A7%DA%A9%D9%88-%D8%A8%D8%A7-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%DB%B9%DB%B5%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%B4%D8%AF",
+    "summary": "ارومیه - معبر لجستیکی S۱۵ زون A با اعتبار ۹۵۷ میلیارد ریال، با حضور معاون امنیتی و انتظامی استاندار آذربایجان غربی و جمعی از مسئولان استانی و منطقه به بهره برداری رسید.",
+    "published": "Thu, 15 Oct 2026 08:10:49 GMT",
+    "collected_at": "2026-10-15T11:47:17.515780+03:30",
+    "market_score": 3,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": []
   },
   {
     "source": "مهر",
@@ -1412,54 +1446,6 @@
     "summary": "رئیس باشگاه دانش پژوهان جوان از افزایش مدال های طلای ایران در المپیادهای علمی جهانی و بین المللی از ۱۱ مدال در سال گذشته به ۱۸ مدال در سال ۲۰۲۶ خبر داد.",
     "published": "Wed, 14 Oct 2026 06:23:00 GMT",
     "collected_at": "2026-10-14T10:17:31.500649+03:30",
-    "market_score": 3,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "صادرات محصولات دانش بنیان به ۷۶۳ میلیون دلار رسید",
-    "link": "https://www.mehrnews.com/news/6977437/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A8%D9%86%DB%8C%D8%A7%D9%86-%D8%A8%D9%87-%DB%B7%DB%B6%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "معاون توسعه شرکت های دانش بنیان گفت: در سال ۱۴۰۴، صادرات رسمی محصولات دانش بنیان به ۷۶۳ میلیون دلار رسید که نسبت به سال گذشته از رشدی ۳۰ درصدی برخوردار بوده است",
-    "published": "Wed, 14 Oct 2026 06:31:33 GMT",
-    "collected_at": "2026-10-14T10:17:31.500526+03:30",
-    "market_score": 3,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "برنده ۳ طلای بوکس المپیک در سطل زباله به دنبال غذا + ویدیو",
-    "link": "https://www.isna.ir/news/1405072214580/%D9%86%D8%A7%DA%A9-%D8%A7%D9%88%D8%AA-%D8%B4%D8%AF%D9%86-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF%D9%87-%D8%B3%D9%87-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A8%D9%88%DA%A9%D8%B3-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9-%D8%AF%D8%B1-%D8%B3%D8%B7%D9%84-%D8%B2%D8%A8%D8%A7%D9%84%D9%87-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84",
-    "summary": "بوکسور افسانه ای کوبایی و برنده سه طلای المپیک که روزگاری پیشنهاد مبارزه با مایک تایسون را رد کرده بود حالا به قدری اوضاعش خراب شده که در سطل زباله برای پیدا کردن غذا دیده شده است.",
-    "published": "Wed, 14 Oct 2026 06:30:00 GMT",
-    "collected_at": "2026-10-14T10:17:18.181348+03:30",
-    "market_score": 3,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
-    "source": "مشرق",
-    "title": "کشتی فرنگی زیر ۲۳ سال جهان| یک طلا و ۲ برنز برای ایران در پنج وزن نخست",
-    "link": "https://www.mashreghnews.ir/news/1845596/%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%B2%DB%8C%D8%B1-%DB%B2%DB%B3-%D8%B3%D8%A7%D9%84-%D8%AC%D9%87%D8%A7%D9%86-%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%DB%B2-%D8%A8%D8%B1%D9%86%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%D9%86%D8%AC",
-    "summary": "رقابت های کشتی فرنگی زیر ۲۳ سال قهرمانی جهان با کسب یک طلا و دو برنز توسط نمایندگان ایران پیگیری شد.",
-    "published": "Wed, 14 Oct 2026 05:51:59 GMT",
-    "collected_at": "2026-10-14T09:38:13.851797+03:30",
     "market_score": 3,
     "market_matches": {
       "gold": [
