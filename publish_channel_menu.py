@@ -72,15 +72,27 @@ def get_latest_hourly_price_link():
             match = re.search(r"/(\d+)(?:\?.*)?$", message["link"])
             if match:
                 matches.append((int(match.group(1)), message["link"]))
-        if not matches:
-            raise RuntimeError("No public post tagged #قیمت_ساعتی was found.")
-        message_id, link = max(matches, key=lambda item: item[0])
-        print(f"Latest hourly price found: {link} (message_id={message_id})")
-        return link
+        if matches:
+            message_id, link = max(matches, key=lambda item: item[0])
+            print(f"Latest hourly price found: {link} (message_id={message_id})")
+            return link
+
+        # Do not block menu publication when the public HTML page does not
+        # expose the hashtagged post. bot.py updates this button after the
+        # next successful hourly price post.
+        print(
+            "WARNING: No public post tagged #قیمت_ساعتی was detected. "
+            "The button will temporarily open the channel; bot.py should "
+            "replace it with the exact latest-price link after the next send."
+        )
+        return CHANNEL_URL
     except Exception as error:
-        raise RuntimeError(
-            f"Could not find latest hourly-price link: {error}"
-        ) from error
+        # Network/HTML parsing errors should not prevent menu publication.
+        print(
+            "WARNING: Could not find latest hourly-price link: "
+            f"{error}. Temporarily linking the button to the channel."
+        )
+        return CHANNEL_URL
 
 
 def telegram_request(method, payload):
