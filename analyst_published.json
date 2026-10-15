@@ -3594,5 +3594,30 @@
     "eitaa_sent_at": "2026-10-15T11:17:36.674562+03:30",
     "eitaa_message_id": 176575519,
     "published_at": "2026-10-15T11:17:36.679191+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8520": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "یه سری به قیمت ها بزنیم:",
+      "summary": "طلا ۱۸ عیار: ۲۶,۳۱۰,۰۰۰ تومان\nنقره ۹۲۵: ۴۵۱,۰۰۰ تومان\nتتر: ۲۶۷,۰۰۰ تومان\nاونس طلا: ۴,۱۵۸ دلار\nبیت‌کوین: ۸۱,۳۴۰ دلار\n⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8520",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "دلار"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-15T13:17:44.103849+03:30"
+    },
+    "first_seen_at": "2026-10-15T13:17:48.207099+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-15T13:17:48.576431+03:30",
+    "telegram_message_id": 512,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-15T13:17:49.789213+03:30",
+    "eitaa_message_id": 176591569,
+    "published_at": "2026-10-15T13:17:49.793547+03:30"
   }
 }
