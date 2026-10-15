@@ -212,7 +212,7 @@ def build_telegram_message(item):
         "",
         "🌙 <b>زرین ماه</b> | ویترین طلای کم‌اجرت",
         "📲 @ZarinMahGold",
-        "#قیمت_و_تحلیل",
+        "#تحلیل_روزانه",
     ])
 
     return "\n\n".join(parts)
