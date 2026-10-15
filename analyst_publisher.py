@@ -265,7 +265,7 @@ def build_eitaa_message(item):
         "",
         "🌙 زرین ماه | ویترین طلای کم‌اجرت",
         "📲 @ZarinMahGold",
-        "#قیمت_و_تحلیل",
+        "#تحلیل_روزانه",
     ])
 
     return "\n\n".join(parts)
