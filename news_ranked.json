@@ -252,6 +252,36 @@
     "medium_impact_matches": []
   },
   {
+    "source": "مهر",
+    "title": "قیمت جهانی طلا امروز ۲۴ مهر؛ اونس به ۴۱۵۲ دلار و ۹۹ سنت رسید",
+    "link": "https://www.mehrnews.com/news/6979372/%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B4-%D9%85%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%D8%A8%D9%87-%DB%B4%DB%B1%DB%B5%DB%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%DB%B9%DB%B9-%D8%B3%D9%86%D8%AA-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "قیمت هر اونس طلا امروز (جمعه، ۲۴ مهر) برای تحویل فوری، با ۰.۴ درصد کاهش، به ۴۱۵۲ دلار و ۹۹ سنت رسید.",
+    "published": "Fri, 16 Oct 2026 10:29:33 GMT",
+    "collected_at": "2026-10-16T14:06:54.185114+03:30",
+    "market_score": 22,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "اونس طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "طلا از پایین ترین سطح قیمتی فاصله گرفت/ قیمت جدید طلای جهانی امروز ۲۳ مهر ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2288681/%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D9%82%DB%8C%D9%85%D8%AA%DB%8C-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%DA%AF%D8%B1%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
@@ -425,6 +455,34 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۳ مهر ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۲۶۷ هزار تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2288968/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B3-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
+    "summary": "قیمت دلار، یورو و سایر ارزها اعلام و دلار ۲۶۷ هزار و ۹۰۰ تومان شد.",
+    "published": "Thu, 15 Oct 2026 19:56:37 GMT",
+    "collected_at": "2026-10-16T14:07:07.204490+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -1097,6 +1155,32 @@
     ]
   },
   {
+    "source": "مهر",
+    "title": "قیمت جهانی نفت امروز ۲۴ مهر؛ هر بشکه برنت ۱۰۵ دلار و ۴۲ سنت",
+    "link": "https://www.mehrnews.com/news/6979406/%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%86%D9%81%D8%AA-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B4-%D9%85%D9%87%D8%B1-%D9%87%D8%B1-%D8%A8%D8%B4%DA%A9%D9%87-%D8%A8%D8%B1%D9%86%D8%AA-%DB%B1%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%DB%B4%DB%B2-%D8%B3%D9%86%D8%AA",
+    "summary": "قیمت معاملات آتی نفت خام برنت با ۵۰ سنت معادل ۰.۴۷ درصد کاهش، به ۱۰۵ دلار و ۴۲ سنت در هر بشکه رسید.",
+    "published": "Fri, 16 Oct 2026 10:30:11 GMT",
+    "collected_at": "2026-10-16T14:06:54.185103+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مشرق",
     "title": "بهای نفت برنت به ۱۰۴ دلار در هر بشکه رسید",
     "link": "https://www.mashreghnews.ir/news/1845878/%D8%A8%D9%87%D8%A7%DB%8C-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%DB%B1%DB%B0%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%87%D8%B1-%D8%A8%D8%B4%DA%A9%D9%87-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -1747,30 +1831,6 @@
     "gold_matches": [],
     "currency_matches": [
       "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مشرق",
-    "title": "میلیاردها دلار سلاح غربی، بی اثر در برابر مقاومت یمنی ها",
-    "link": "https://www.mashreghnews.ir/news/1845582/%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%D9%87%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%D9%84%D8%A7%D8%AD-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%A8%DB%8C-%D8%A7%D8%AB%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%DB%8C%D9%85%D9%86%DB%8C-%D9%87%D8%A7",
-    "summary": "",
-    "published": "Wed, 14 Oct 2026 22:29:00 GMT",
-    "collected_at": "2026-10-15T02:17:21.540382+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
