@@ -24,6 +24,8 @@ EITAA_CHAT_ID = os.environ.get(
 )
 
 CHANNEL = "@ZarinMahGold"
+GROUP = "@ZarinMahCommunity"
+GROUP_PRICE_THREAD_ID = 13  # موضوع 💰 قیمت‌های ساعتی
 
 TEHRAN = ZoneInfo(
     "Asia/Tehran"
@@ -1243,6 +1245,23 @@ def mark_eitaa_sent(
     )
 
 
+def mark_group_sent(
+    slot,
+):
+    status = load_send_status()
+
+    status["telegram_group_hourly"] = {
+        "slot": slot,
+        "sent_at": datetime.now(
+            TEHRAN
+        ).isoformat(),
+    }
+
+    save_send_status(
+        status
+    )
+
+
 def mark_hourly_complete(
     slot,
 ):
@@ -1590,6 +1609,8 @@ def build_message(
 
 def send_to_telegram(
     message,
+    chat_id=CHANNEL,
+    message_thread_id=None,
 ):
     if not BOT_TOKEN:
         raise RuntimeError(
@@ -1602,14 +1623,18 @@ def send_to_telegram(
         f"bot{BOT_TOKEN}/sendMessage"
     )
 
+    payload = {
+        "chat_id": chat_id,
+        "text": message,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    }
+    if message_thread_id is not None:
+        payload["message_thread_id"] = message_thread_id
+
     response = requests.post(
         url,
-        data={
-            "chat_id": CHANNEL,
-            "text": message,
-            "parse_mode": "HTML",
-            "disable_web_page_preview": True,
-        },
+        data=payload,
         timeout=30,
     )
 
@@ -1921,6 +1946,18 @@ def main():
         == current_slot
     )
 
+    group_sent = (
+        status
+        .get(
+            "telegram_group_hourly",
+            {},
+        )
+        .get(
+            "slot"
+        )
+        == current_slot
+    )
+
     fully_sent = (
         status
         .get(
@@ -2012,6 +2049,39 @@ def main():
         )
 
     # =====================================================
+    # ارسال به گروه تلگرام، موضوع قیمت‌های ساعتی
+    # =====================================================
+
+    if not group_sent:
+
+        print(
+            "Sending price message to Telegram group topic..."
+        )
+
+        send_to_telegram(
+            message,
+            chat_id=GROUP,
+            message_thread_id=GROUP_PRICE_THREAD_ID,
+        )
+
+        mark_group_sent(
+            current_slot
+        )
+
+        group_sent = True
+
+        print(
+            "Telegram group price-topic message sent successfully."
+        )
+
+    else:
+
+        print(
+            "Telegram group message for "
+            f"{current_slot} already sent."
+        )
+
+    # =====================================================
     # ارسال ایتا
     # =====================================================
 
@@ -2035,11 +2105,12 @@ def main():
         )
 
     # =====================================================
-    # هر دو مقصد موفق
+    # تکمیل ارسال فقط پس از موفقیت هر سه مقصد
     # =====================================================
 
     if (
         telegram_sent
+        and group_sent
         and eitaa_sent
     ):
 
@@ -2048,7 +2119,7 @@ def main():
         )
 
         print(
-            "Telegram + Eitaa "
+            "Telegram channel + Telegram group + Eitaa "
             "hourly send completed."
         )
 
