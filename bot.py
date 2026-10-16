@@ -1303,6 +1303,56 @@ def jalali_date_string(dt):
 
 
 # =========================================================
+# تشخیص جمعه و تعطیلات رسمی ایران
+# =========================================================
+
+def is_iran_official_holiday(dt):
+    """بررسی تعطیلات رسمی ایران با API تقویم فارسی.
+
+    در صورت اختلال یا پاسخ نامعتبر API خطا می‌دهد؛ در main،
+    این خطا باعث توقف انتشار می‌شود تا در تعطیلی رسمی پیام نفرستیم.
+    """
+    jalali_year, _, _ = gregorian_to_jalali(
+        dt.year,
+        dt.month,
+        dt.day,
+    )
+
+    url = "https://www.persian-calendar.com/api/holidays"
+    response = requests.get(
+        url,
+        params={"year": jalali_year},
+        headers=HEADERS,
+        timeout=20,
+    )
+    response.raise_for_status()
+    payload = response.json()
+
+    if not isinstance(payload, dict) or not isinstance(payload.get("data"), list):
+        raise RuntimeError("پاسخ API تعطیلات معتبر نیست.")
+
+    holiday_dates = set()
+    for item in payload["data"]:
+        if not isinstance(item, dict):
+            continue
+
+        is_holiday = item.get("is_holiday") is True
+        events = item.get("events", [])
+        if isinstance(events, list):
+            is_holiday = is_holiday or any(
+                isinstance(event, dict)
+                and event.get("is_holiday") is True
+                for event in events
+            )
+
+        date_value = item.get("date_gregorian")
+        if is_holiday and isinstance(date_value, str):
+            holiday_dates.add(date_value[:10])
+
+    return dt.date().isoformat() in holiday_dates
+
+
+# =========================================================
 # تغییر قیمت
 # =========================================================
 
@@ -1711,6 +1761,36 @@ def main():
     now = datetime.now(
         TEHRAN
     )
+
+    # =====================================================
+    # عدم انتشار قیمت در جمعه‌ها و تعطیلات رسمی ایران
+    # =====================================================
+
+    # weekday(): جمعه برابر 4 است.
+    if now.weekday() == 4:
+        print(
+            "Price bot is disabled on Fridays (Tehran time). "
+            "No message will be sent."
+        )
+        return
+
+    try:
+        official_holiday = is_iran_official_holiday(now)
+    except Exception as error:
+        # اگر تقویم قابل بررسی نباشد، برای جلوگیری از انتشار اشتباه متوقف شو.
+        print(
+            "Could not verify Iran official-holiday calendar. "
+            "Skipping price publication for safety:",
+            error,
+        )
+        return
+
+    if official_holiday:
+        print(
+            "Today is an official holiday in Iran. "
+            "No hourly price message will be sent."
+        )
+        return
 
     print(
         "Tehran hour:",
