@@ -3991,5 +3991,29 @@
     "eitaa_sent_at": "2026-10-16T20:45:11.402522+03:30",
     "eitaa_message_id": 176787924,
     "published_at": "2026-10-16T20:45:11.406494+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8538": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "نفت برنت ۱۱۱,۵ دلار ⚡️ @AlirezaMehrabi_ir",
+      "summary": "نفت برنت ۱۱۱,۵ دلار ⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8538",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-16T21:54:17.153651+03:30"
+    },
+    "first_seen_at": "2026-10-16T21:54:17.918711+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-16T21:54:18.423313+03:30",
+    "telegram_message_id": 617,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-16T21:54:19.706637+03:30",
+    "eitaa_message_id": 176795523,
+    "published_at": "2026-10-16T21:54:19.709597+03:30"
   }
 }
