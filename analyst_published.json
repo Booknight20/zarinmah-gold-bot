@@ -3919,5 +3919,29 @@
     "eitaa_sent_at": "2026-10-16T14:14:22.536965+03:30",
     "eitaa_message_id": 176744747,
     "published_at": "2026-10-16T14:14:22.539740+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25570": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "داستان این وام‌های جدید که همه جا هست چیه؟",
+      "summary": "داستان این وام‌های جدید که همه جا هست چیه؟\nتو این شرایط تورمی باید وام بگیریم؟؟\nده تا نکته طلایی برای وام گرفتن گفتم که حتما باید گوش کنید.\nحتما برای دوستاتون بفرستین تا قبل وام گرفتن تصمیم درستی بگیرن .\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25570",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "تورم"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-16T18:07:46.091263+03:30"
+    },
+    "first_seen_at": "2026-10-16T18:07:48.380142+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-16T18:07:48.820906+03:30",
+    "telegram_message_id": 604,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-16T18:07:50.109235+03:30",
+    "eitaa_message_id": 176771231,
+    "published_at": "2026-10-16T18:07:50.113849+03:30"
   }
 }
