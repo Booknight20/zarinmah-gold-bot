@@ -1306,30 +1306,10 @@ def jalali_date_string(dt):
 # تشخیص جمعه و تعطیلات رسمی ایران
 # =========================================================
 
-def is_iran_official_holiday(dt):
-    """بررسی تعطیلات رسمی ایران با API تقویم فارسی.
-
-    در صورت اختلال یا پاسخ نامعتبر API خطا می‌دهد؛ در main،
-    این خطا باعث توقف انتشار می‌شود تا در تعطیلی رسمی پیام نفرستیم.
-    """
-    jalali_year, _, _ = gregorian_to_jalali(
-        dt.year,
-        dt.month,
-        dt.day,
-    )
-
-    url = "https://www.persian-calendar.com/api/holidays"
-    response = requests.get(
-        url,
-        params={"year": jalali_year},
-        headers=HEADERS,
-        timeout=20,
-    )
-    response.raise_for_status()
-    payload = response.json()
-
+def _holiday_dates_from_primary_api(payload):
+    """استخراج تاریخ‌های تعطیل از ساختار API اصلی تقویم."""
     if not isinstance(payload, dict) or not isinstance(payload.get("data"), list):
-        raise RuntimeError("پاسخ API تعطیلات معتبر نیست.")
+        raise RuntimeError("پاسخ API اصلی تعطیلات معتبر نیست.")
 
     holiday_dates = set()
     for item in payload["data"]:
@@ -1349,7 +1329,93 @@ def is_iran_official_holiday(dt):
         if is_holiday and isinstance(date_value, str):
             holiday_dates.add(date_value[:10])
 
-    return dt.date().isoformat() in holiday_dates
+    if not holiday_dates:
+        raise RuntimeError("API اصلی هیچ تاریخ تعطیل معتبری برنگرداند.")
+    return holiday_dates
+
+
+def _holiday_dates_from_static_fallback(payload):
+    """استخراج تاریخ‌ها از فایل JSON جایگزین که فقط فهرست تعطیلات را دارد."""
+    date_pattern = re.compile(r"\b(\d{4}-\d{2}-\d{2})\b")
+    found = set()
+
+    def walk(value):
+        if isinstance(value, dict):
+            for child in value.values():
+                walk(child)
+        elif isinstance(value, list):
+            for child in value:
+                walk(child)
+        elif isinstance(value, str):
+            found.update(date_pattern.findall(value))
+
+    walk(payload)
+    if not found:
+        raise RuntimeError("فایل جایگزین تعطیلات، تاریخ قابل‌استفاده ندارد.")
+    return found
+
+
+def is_iran_official_holiday(dt):
+    """بررسی تعطیلات رسمی ایران با تلاش مجدد و منبع جایگزین.
+
+    ابتدا API اصلی چند بار امتحان می‌شود. اگر در دسترس نبود، فایل JSON
+    جایگزین تعطیلات بررسی می‌شود. اگر هیچ منبعی قابل‌اعتماد نبود، خطا
+    می‌دهیم تا main از انتشار ناخواسته در روز تعطیل جلوگیری کند.
+    """
+    jalali_year, jalali_month, jalali_day = gregorian_to_jalali(
+        dt.year,
+        dt.month,
+        dt.day,
+    )
+    gregorian_date = dt.date().isoformat()
+    jalali_date = f"{jalali_year:04d}-{jalali_month:02d}-{jalali_day:02d}"
+
+    # منبع اول: API اصلی؛ خطاهای موقت مانند 503 با سه تلاش مدیریت می‌شوند.
+    primary_url = "https://www.persian-calendar.com/api/holidays"
+    last_error = None
+    for attempt in range(1, 4):
+        try:
+            response = requests.get(
+                primary_url,
+                params={"year": jalali_year},
+                headers=HEADERS,
+                timeout=15,
+            )
+            response.raise_for_status()
+            payload = response.json()
+            holiday_dates = _holiday_dates_from_primary_api(payload)
+            print(f"Holiday calendar: primary API succeeded (attempt {attempt}).")
+            return gregorian_date in holiday_dates
+        except Exception as error:
+            last_error = error
+            print(f"Primary holiday API attempt {attempt}/3 failed: {error}")
+            if attempt < 3:
+                import time
+                time.sleep(2 * attempt)
+
+    # منبع دوم: فایل ثابت JSON تعطیلات؛ چون فقط تعطیلات را فهرست می‌کند،
+    # وجود تاریخ میلادی یا شمسی امروز در آن به معنی تعطیل رسمی است.
+    fallback_url = (
+        "https://raw.githubusercontent.com/iyazdanicharati/"
+        f"IranHollidaysJSON/main/{jalali_year}.json"
+    )
+    try:
+        response = requests.get(
+            fallback_url,
+            headers=HEADERS,
+            timeout=20,
+        )
+        response.raise_for_status()
+        payload = response.json()
+        holiday_dates = _holiday_dates_from_static_fallback(payload)
+        print("Holiday calendar: static JSON fallback succeeded.")
+        return gregorian_date in holiday_dates or jalali_date in holiday_dates
+    except Exception as fallback_error:
+        raise RuntimeError(
+            "تقویم تعطیلات از منبع اصلی و جایگزین قابل‌خواندن نیست؛ "
+            "برای ایمنی انتشار متوقف می‌شود. "
+            f"خطای منبع اصلی: {last_error}; خطای جایگزین: {fallback_error}"
+        ) from fallback_error
 
 
 # =========================================================
