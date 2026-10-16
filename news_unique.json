@@ -1685,29 +1685,5 @@
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "انقلاب هوش مصنوعی در بازار سهام/ برندگان آینده بازار سرمایه چه کسانی هستند؟",
-    "link": "https://www.khabaronline.ir/news/2288669/%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%A8%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%86%D9%87",
-    "summary": "سعید کریمی، مدیرعامل و نائب رییس شرکت سرمایه گذاری گروه صنایع بهشهر می گوید توسعه ابزارهای هوش مصنوعی آینده بازار سرمایه را متحول می کند.",
-    "published": "Thu, 15 Oct 2026 06:50:00 GMT",
-    "collected_at": "2026-10-15T10:30:52.337100+03:30",
-    "market_score": 4,
-    "market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
   }
 ]
