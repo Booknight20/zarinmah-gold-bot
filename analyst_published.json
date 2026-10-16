@@ -3943,5 +3943,29 @@
     "eitaa_sent_at": "2026-10-16T18:07:50.109235+03:30",
     "eitaa_message_id": 176771231,
     "published_at": "2026-10-16T18:07:50.113849+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25571": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "نفت رفت بالای ۱۱۰ دلار",
+      "summary": "حدود ۴ تا ۵ ساعت دیگه بازارهای جهانی هم بسته میشن ، پوتین هم با لباس نظامی امشب اومد و گفت به زیر ساخت‌های اوکراین حمله میکنه.\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25571",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-16T20:25:57.902416+03:30"
+    },
+    "first_seen_at": "2026-10-16T20:26:00.582213+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-16T20:26:01.195963+03:30",
+    "telegram_message_id": 610,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-16T20:26:02.664655+03:30",
+    "eitaa_message_id": 176785753,
+    "published_at": "2026-10-16T20:26:02.668430+03:30"
   }
 }
