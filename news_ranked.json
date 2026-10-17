@@ -1004,6 +1004,38 @@
     "medium_impact_matches": []
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "عزتی: افزایش نرخ ارز نه کسری بودجه را حل می کند، نه صادرات را بالا می برد",
+    "link": "https://www.khabaronline.ir/news/2289387/%D8%B9%D8%B2%D8%AA%DB%8C-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D9%86%D9%87-%DA%A9%D8%B3%D8%B1%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%B1%D8%A7-%D8%AD%D9%84-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D9%86%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B1%D8%A7",
+    "summary": "عضو هیأت علمی دانشگاه تربیت مدرس، با انتقاد از دو دیدگاه رایج درباره افزایش نرخ ارز می گوید افزایش نرخ ارز نه کسری بودجه را حل می کند، نه صادرات را بالا می برد.",
+    "published": "Sat, 17 Oct 2026 07:31:00 GMT",
+    "collected_at": "2026-10-17T11:07:02.243343+03:30",
+    "market_score": 14,
+    "market_matches": {
+      "currency": [
+        "ارز",
+        "نرخ ارز"
+      ]
+    },
+    "driver_matches": [
+      "کسری بودجه",
+      "بودجه"
+    ],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "کسری بودجه",
+      "بودجه"
+    ]
+  },
+  {
     "source": "ایسنا",
     "title": "نشان طلای بورس های اروپایی-آسیایی به کارگزاری مفید تعلق گرفت",
     "link": "https://www.isna.ir/news/1405072516365/%D9%86%D8%B4%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%DB%8C-%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C-%D9%85%D9%81%DB%8C%D8%AF-%D8%AA%D8%B9%D9%84%D9%82-%DA%AF%D8%B1%D9%81%D8%AA",
@@ -1474,6 +1506,30 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "آغاز لایروبی انهار و زهکش های شوش با اعتبار قریب به ۴۰ میلیارد ریال",
+    "link": "https://www.mehrnews.com/news/6980102/%D8%A2%D8%BA%D8%A7%D8%B2-%D9%84%D8%A7%DB%8C%D8%B1%D9%88%D8%A8%DB%8C-%D8%A7%D9%86%D9%87%D8%A7%D8%B1-%D9%88-%D8%B2%D9%87%DA%A9%D8%B4-%D9%87%D8%A7%DB%8C-%D8%B4%D9%88%D8%B4-%D8%A8%D8%A7-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D9%82%D8%B1%DB%8C%D8%A8-%D8%A8%D9%87-%DB%B4%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF",
+    "summary": "اهواز ـ مدیر جهاد کشاورزی شهرستان شوش از آغاز قریب الوقوع عملیات لایروبی و بهسازی انهار و زهکش های این شهرستان با هدف افزایش ظرفیت انتقال آب و پیشگیری از خسارات ناشی از مخاطرات جوی خبر داد.",
+    "published": "Sat, 17 Oct 2026 07:31:57 GMT",
+    "collected_at": "2026-10-17T11:06:50.925210+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "ایسنا",

@@ -1145,7 +1145,10 @@
     "link": "https://www.tabnak.ir/fa/news/1399039/ادعای-ارتش-آمریکا-درباره-جلوگیری-از-صادرات-نفت-ایران",
     "published_at": "2026-10-16T19:17:39.587538+00:00",
     "telegram_message_id": 619,
-    "eitaa_message_id": 176802018
+    "eitaa_message_id": 176802018,
+    "group_message_id": 154,
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 15
   },
   "e678990b8fdff86fad335146a24403b30d41bbb071f84931b51f4569f331a846": {
     "title": "کمبود و گرانی دارو نتیجه بازار ارز و تورم است",
