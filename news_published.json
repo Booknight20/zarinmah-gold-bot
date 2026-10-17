@@ -1325,5 +1325,16 @@
     "group_message_id": 247,
     "group_chat_id": "@ZarinMahCommunity",
     "group_thread_id": 15
+  },
+  "556790b9d0d4e81fb3bf73a7c6769bc4a7a9dca03dda5544d42d9aaf77d189d0": {
+    "title": "آخرین وضعیت بازار بورس",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4302377-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D9%81%D8%A7%D8%B2-%D8%A7%D8%AD%D8%AA%DB%8C%D8%A7%D8%B7",
+    "published_at": "2026-10-17T12:17:09.696182+00:00",
+    "telegram_message_id": 657,
+    "eitaa_message_id": 176914878,
+    "group_message_id": 359,
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 15
   }
 }
