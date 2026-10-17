@@ -1092,7 +1092,10 @@
     "link": "https://www.mehrnews.com/news/6979372/%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B4-%D9%85%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%D8%A8%D9%87-%DB%B4%DB%B1%DB%B5%DB%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%DB%B9%DB%B9-%D8%B3%D9%86%D8%AA-%D8%B1%D8%B3%DB%8C%D8%AF",
     "published_at": "2026-10-16T10:37:27.989568+00:00",
     "telegram_message_id": 597,
-    "eitaa_message_id": 176743760
+    "eitaa_message_id": 176743760,
+    "group_message_id": 79,
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 15
   },
   "b91137495c41cc8b79b4d912ac4169e504dbd3a05593538d1d31393482d43f95": {
     "title": "افزایش نرخ ارز در بازار",
@@ -1209,6 +1212,17 @@
     "telegram_message_id": 630,
     "eitaa_message_id": 176852346,
     "group_message_id": 36,
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 15
+  },
+  "8c48e471187437701211654e02fd4050c519c4b64b9266f7fbf8eb83d0db0af7": {
+    "title": "افزایش نرخ ارز در بازار",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6980091/%D8%AA%D9%88%D9%82%D9%81-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%DB%B1%DB%B1%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1",
+    "published_at": "2026-10-17T07:07:09.617897+00:00",
+    "telegram_message_id": 631,
+    "eitaa_message_id": 176855867,
+    "group_message_id": 78,
     "group_chat_id": "@ZarinMahCommunity",
     "group_thread_id": 15
   }
