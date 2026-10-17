@@ -1281,5 +1281,16 @@
     "group_message_id": 210,
     "group_chat_id": "@ZarinMahCommunity",
     "group_thread_id": 15
+  },
+  "039ddbea44ce3c06b639dff6937aaca972b1bfb953a83b9c20282adfdb23e2ff": {
+    "title": "کاهش نرخ ارز در بازار",
+    "source": "تابناک",
+    "link": "https://www.tabnak.ir/fa/news/1399103/قیمت-دلار-امروز-یکشنبه-25-مهرماه-نوسان-کاهشی-نرخ-انواع-ارز-در-بازار",
+    "published_at": "2026-10-17T09:57:56.192205+00:00",
+    "telegram_message_id": 648,
+    "eitaa_message_id": 176886766,
+    "group_message_id": 214,
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 15
   }
 }
