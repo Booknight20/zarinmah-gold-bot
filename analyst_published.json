@@ -1227,7 +1227,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T13:14:47.961401+03:30",
     "eitaa_message_id": 175923174,
-    "published_at": "2026-10-11T13:14:47.962639+03:30"
+    "published_at": "2026-10-11T13:14:47.962639+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:07.263621+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 109
   },
   "https://t.me/nasiirry/17463": {
     "item": {
@@ -1251,7 +1256,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T13:14:49.893275+03:30",
     "eitaa_message_id": 175923180,
-    "published_at": "2026-10-11T13:14:49.894640+03:30"
+    "published_at": "2026-10-11T13:14:49.894640+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:07.738411+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 110
   },
   "https://t.me/AlirezaMehrabi_ir/8445": {
     "item": {
@@ -1277,7 +1287,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T13:44:27.914968+03:30",
     "eitaa_message_id": 175927756,
-    "published_at": "2026-10-11T13:44:27.916534+03:30"
+    "published_at": "2026-10-11T13:44:27.916534+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:08.315576+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 111
   },
   "https://t.me/rahavard365/58500": {
     "item": {
@@ -1302,7 +1317,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T13:44:29.874051+03:30",
     "eitaa_message_id": 175927761,
-    "published_at": "2026-10-11T13:44:29.875505+03:30"
+    "published_at": "2026-10-11T13:44:29.875505+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:11.859326+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 112
   },
   "https://t.me/nasiirry/17464": {
     "item": {
@@ -1327,7 +1347,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T13:44:31.919481+03:30",
     "eitaa_message_id": 175927764,
-    "published_at": "2026-10-11T13:44:31.920935+03:30"
+    "published_at": "2026-10-11T13:44:31.920935+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:12.347544+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 113
   },
   "https://t.me/rahavard365/58501": {
     "item": {
@@ -1354,7 +1379,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T14:17:47.051437+03:30",
     "eitaa_message_id": 175932397,
-    "published_at": "2026-10-11T14:17:47.053304+03:30"
+    "published_at": "2026-10-11T14:17:47.053304+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:12.822691+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 114
   },
   "https://t.me/PayamElyaskordi/25489": {
     "item": {
@@ -1379,7 +1409,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T14:17:48.558958+03:30",
     "eitaa_message_id": 175932399,
-    "published_at": "2026-10-11T14:17:48.560903+03:30"
+    "published_at": "2026-10-11T14:17:48.560903+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:13.293595+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 115
   },
   "https://t.me/PayamElyaskordi/25488": {
     "item": {
@@ -1403,7 +1438,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T14:17:50.056459+03:30",
     "eitaa_message_id": 175932401,
-    "published_at": "2026-10-11T14:17:50.058885+03:30"
+    "published_at": "2026-10-11T14:17:50.058885+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:13.778992+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 116
   },
   "https://t.me/rahavard365/58502": {
     "item": {
@@ -1430,7 +1470,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T14:45:07.274499+03:30",
     "eitaa_message_id": 175937529,
-    "published_at": "2026-10-11T14:45:07.276359+03:30"
+    "published_at": "2026-10-11T14:45:07.276359+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:17.307677+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 117
   },
   "https://t.me/AlirezaMehrabi_ir/8447": {
     "item": {
@@ -1454,7 +1499,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T14:45:08.386782+03:30",
     "eitaa_message_id": 175937532,
-    "published_at": "2026-10-11T14:45:08.388958+03:30"
+    "published_at": "2026-10-11T14:45:08.388958+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:17.875588+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 118
   },
   "https://t.me/rahavard365/58503": {
     "item": {
@@ -1479,7 +1529,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T15:17:51.227950+03:30",
     "eitaa_message_id": 175944367,
-    "published_at": "2026-10-11T15:17:51.230074+03:30"
+    "published_at": "2026-10-11T15:17:51.230074+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:18.366052+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 119
   },
   "https://t.me/rahavard365/58504": {
     "item": {
@@ -1503,7 +1558,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T15:47:45.791718+03:30",
     "eitaa_message_id": 175953770,
-    "published_at": "2026-10-11T15:47:45.793727+03:30"
+    "published_at": "2026-10-11T15:47:45.793727+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:18.864022+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 120
   },
   "https://t.me/PayamElyaskordi/25491": {
     "item": {
@@ -1528,7 +1588,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T16:47:09.429084+03:30",
     "eitaa_message_id": 175962310,
-    "published_at": "2026-10-11T16:47:09.431760+03:30"
+    "published_at": "2026-10-11T16:47:09.431760+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:19.432132+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 121
   },
   "https://t.me/nasiirry/17466": {
     "item": {
@@ -1552,7 +1617,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T16:47:11.322805+03:30",
     "eitaa_message_id": 175962315,
-    "published_at": "2026-10-11T16:47:11.325338+03:30"
+    "published_at": "2026-10-11T16:47:11.325338+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:23.008594+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 122
   },
   "https://t.me/nasiirry/17467": {
     "item": {
@@ -1575,7 +1645,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T17:17:13.452678+03:30",
     "eitaa_message_id": 175965860,
-    "published_at": "2026-10-11T17:17:13.455026+03:30"
+    "published_at": "2026-10-11T17:17:13.455026+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:23.502111+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 123
   },
   "https://t.me/drarashamini/7131": {
     "item": {
@@ -1601,7 +1676,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T19:17:45.208712+03:30",
     "eitaa_message_id": 175981674,
-    "published_at": "2026-10-11T19:17:45.210835+03:30"
+    "published_at": "2026-10-11T19:17:45.210835+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:24.004000+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 124
   },
   "https://t.me/PayamElyaskordi/25499": {
     "item": {
@@ -1625,7 +1705,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T20:47:33.727209+03:30",
     "eitaa_message_id": 175992728,
-    "published_at": "2026-10-11T20:47:33.729406+03:30"
+    "published_at": "2026-10-11T20:47:33.729406+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:24.482245+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 125
   },
   "https://t.me/drarashamini/7138": {
     "item": {
@@ -1651,7 +1736,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-11T22:44:30.649773+03:30",
     "eitaa_message_id": 176007218,
-    "published_at": "2026-10-11T22:44:30.651301+03:30"
+    "published_at": "2026-10-11T22:44:30.651301+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:48:24.972012+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 126
   },
   "https://t.me/drarashamini/7139": {
     "item": {
@@ -4025,7 +4115,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-15T19:17:52.005271+03:30",
     "eitaa_message_id": 176652788,
-    "published_at": "2026-10-15T19:17:52.012057+03:30"
+    "published_at": "2026-10-15T19:17:52.012057+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:49:08.779032+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 127
   },
   "https://t.me/drarashamini/7172": {
     "item": {
@@ -4049,7 +4144,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-15T20:17:35.333371+03:30",
     "eitaa_message_id": 176659633,
-    "published_at": "2026-10-15T20:17:35.338049+03:30"
+    "published_at": "2026-10-15T20:17:35.338049+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:49:09.327514+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 128
   },
   "https://t.me/drarashamini/7173": {
     "item": {
@@ -4073,7 +4173,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-15T23:17:28.970655+03:30",
     "eitaa_message_id": 176679771,
-    "published_at": "2026-10-15T23:17:28.975333+03:30"
+    "published_at": "2026-10-15T23:17:28.975333+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:49:09.813457+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 129
   },
   "https://t.me/AlirezaMehrabi_ir/8526": {
     "item": {
@@ -4097,7 +4202,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-15T23:27:28.205401+03:30",
     "eitaa_message_id": 176680861,
-    "published_at": "2026-10-15T23:27:28.210485+03:30"
+    "published_at": "2026-10-15T23:27:28.210485+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:49:13.296167+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 130
   },
   "https://t.me/drarashamini/7174": {
     "item": {
@@ -4120,7 +4230,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-16T10:37:47.307381+03:30",
     "eitaa_message_id": 176720087,
-    "published_at": "2026-10-16T10:37:47.311966+03:30"
+    "published_at": "2026-10-16T10:37:47.311966+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:49:13.784347+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 131
   },
   "https://t.me/nasiirry/17512": {
     "item": {
@@ -4147,7 +4262,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-16T11:07:45.094970+03:30",
     "eitaa_message_id": 176723805,
-    "published_at": "2026-10-16T11:07:45.100240+03:30"
+    "published_at": "2026-10-16T11:07:45.100240+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:49:14.272457+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 132
   },
   "https://t.me/AlirezaMehrabi_ir/8528": {
     "item": {
@@ -4173,7 +4293,12 @@
     "eitaa_sent": true,
     "eitaa_sent_at": "2026-10-16T11:07:46.572065+03:30",
     "eitaa_message_id": 176723809,
-    "published_at": "2026-10-16T11:07:46.576796+03:30"
+    "published_at": "2026-10-16T11:07:46.576796+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T10:49:14.752561+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 133
   },
   "https://t.me/PayamElyaskordi/25568": {
     "item": {
