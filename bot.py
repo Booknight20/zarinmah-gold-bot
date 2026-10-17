@@ -1970,10 +1970,7 @@ def main():
             "Telegram message sent successfully."
         )
 
-        latest_price_link = (
-            f"https://t.me/{CHANNEL.lstrip('@')}/{telegram_result['message_id']}"
-        )
-        update_submenu_latest_price(latest_price_link)
+      
 
     else:
 
