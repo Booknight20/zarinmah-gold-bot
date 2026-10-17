@@ -1,5 +1,75 @@
 [
   {
+    "source": "دنیای اقتصاد",
+    "title": "نرخ ارز دلار، طلا و یورو امروز شنبه ۲۵ مهر ۱۴۰۵/ افزایش قیمت طلا و سکه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302347-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد رشد قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
+    "published": "Sat, 17 Oct 2026 07:54:31 +0000",
+    "collected_at": "2026-10-17T11:36:02.339008+03:30",
+    "market_score": 47,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "نرخ ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [
+      "دلار",
+      "نرخ ارز",
+      "ارز",
+      "یورو",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "اعلام نرخ های رسمی ارز در مرکز مبادله ایران؛ دلار در کانال ۱.۸ میلیون",
+    "link": "https://www.mehrnews.com/news/6980193/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D9%86%D8%B1%D8%AE-%D9%87%D8%A7%DB%8C-%D8%B1%D8%B3%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B1-%DB%B8",
+    "summary": "مرکز مبادله ارز و طلای ایران نرخ حواله ارزهای عمده از جمله دلار، یورو و درهم را برای روز شنبه ۲۵ مهر ۱۴۰۵ اعلام کرد.",
+    "published": "Sat, 17 Oct 2026 07:58:27 GMT",
+    "collected_at": "2026-10-17T11:35:57.665496+03:30",
+    "market_score": 37,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "مرکز مبادله"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو",
+      "درهم",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مشرق",
     "title": "طلای جهانی زیر فشار تورم آمریکا؛ آیا اونس آماده ریزش بیشتر است؟",
     "link": "https://www.mashreghnews.ir/news/1846144/%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B2%DB%8C%D8%B1-%D9%81%D8%B4%D8%A7%D8%B1-%D8%AA%D9%88%D8%B1%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A2%DB%8C%D8%A7-%D8%A7%D9%88%D9%86%D8%B3-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA",
@@ -1175,34 +1245,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "ادعاهای تکراری ترامپ که باز هم آن ها را به زبان آورد/ جنگ را خیلی زود به پایان خواهیم رساند/ قیمت نفت کاهش خواهد یافت",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302081-%D8%A7%D8%AF%D8%B9%D8%A7%D9%87%D8%A7%DB%8C-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%DA%A9%D9%87-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D8%A2%D9%86-%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A2%D9%88%D8%B1%D8%AF-%D8%AC%D9%86%DA%AF-%D8%B1%D8%A7-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B2%D9%88%D8%AF-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%D8%B1%D8%B3%D8%A7%D9%86%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%DB%8C%D8%A7%D9%81%D8%AA",
-    "summary": "دونالد ترامپ رئیس جمهوری آمریکا در آستانه انتخابات میان دوره ای کنگره لفاظی های خود درباره ایران را تکرار کرد و وعده پایان سریع جنگ و کاهش قیمت سوخت و انرژی را داد.",
-    "published": "Thu, 15 Oct 2026 22:30:00 +0000",
-    "collected_at": "2026-10-16T02:14:12.290857+03:30",
-    "market_score": 12,
-    "market_matches": {},
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ",
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [
-      "قیمت نفت"
-    ]
-  },
-  {
     "source": "تابناک",
     "title": "کارنامه هفتگی بازار سهام با بازدهی مثبت شاخص/ نقدینگی به کدام گروه بورسی رسید؟",
     "link": "https://www.tabnak.ir/fa/news/1399013/کارنامه-هفتگی-بازار-سهام-با-بازدهی-مثبت-شاخص-نقدینگی-به-کدام-گروه-بورسی-رسید",
@@ -1312,6 +1354,31 @@
     "medium_impact_matches": [
       "نقدینگی"
     ]
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "استارت سرخ بورس",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4302349-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA-%D8%B3%D8%B1%D8%AE-%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "دنیای اقتصاد: بورس تهران معاملات امروز را برخلاف هفته گذشته، با فشار فروش و افت قابل توجه شاخص ها آغاز کرد. شاخص کل بورس با کاهش ۱۴۹ هزار واحدی معادل ۱.۷۸ درصد، به سطح ۸ میلیون و ۲۷۶ هزار واحد رسید. شاخص کل هم وزن نیز با افت ۱.۵ درصدی و کاهش حدود ۳۳ هزار واحد، در محدوده ۲ میلیون و ۱۹۲ هزار واحد قرار گرفت.",
+    "published": "Sat, 17 Oct 2026 07:57:43 +0000",
+    "collected_at": "2026-10-17T11:36:02.338967+03:30",
+    "market_score": 10,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "دنیای اقتصاد",
