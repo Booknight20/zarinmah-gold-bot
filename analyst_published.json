@@ -5024,5 +5024,36 @@
     "group_thread_id": 25,
     "group_message_id": 212,
     "published_at": "2026-10-17T12:07:48.266934+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8551": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "صندوق‌های طلا با مثبت نیم درصد و صندوق‌های نقره با منفی نیم درصد معاملات امروز رو آغاز کردن ‼️ طل...",
+      "summary": "صندوق‌های طلا با مثبت نیم درصد و صندوق‌های نقره با منفی نیم درصد معاملات امروز رو آغاز کردن ‼️ طلا 18 عیار: 26/260/000 تومان نقره 925: 449/000 تومان تتر: 263/500 تومان بیت کوین: 81/700 دلار ⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8551",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا",
+        "دلار",
+        "صندوق‌های طلا",
+        "صندوق‌های نقره"
+      ],
+      "priority": "high",
+      "collected_at": "2026-10-17T15:05:59.058330+03:30"
+    },
+    "first_seen_at": "2026-10-17T15:06:00.024421+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-17T15:06:00.589680+03:30",
+    "telegram_message_id": 655,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-17T15:06:02.262817+03:30",
+    "eitaa_message_id": 176903658,
+    "group_sent": true,
+    "group_sent_at": "2026-10-17T15:06:02.754566+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 251,
+    "published_at": "2026-10-17T15:06:02.758943+03:30"
   }
 }
