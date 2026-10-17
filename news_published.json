@@ -1116,7 +1116,10 @@
     "link": "https://www.mashreghnews.ir/news/1846059/%D8%B1%D8%B4%D8%AF-%DB%B3-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D9%85-%D8%A8%D8%B1%D9%86%D8%AA",
     "published_at": "2026-10-16T18:07:30.928850+00:00",
     "telegram_message_id": 616,
-    "eitaa_message_id": 176793872
+    "eitaa_message_id": 176793872,
+    "group_message_id": 37,
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 15
   },
   "4bfacfc409fc7456bda7f48ac0d138bbe584520dcca8b5e41b6469f2937890b2": {
     "title": "افزایش نرخ ارز در بازار",
@@ -1189,6 +1192,17 @@
     "telegram_message_id": 629,
     "eitaa_message_id": 176846270,
     "group_message_id": 30,
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 15
+  },
+  "d710c5a5e246542634ef5b7adf43bc7a5c02c61f7dfa97879a7fb8fb6a74ad50": {
+    "title": "ثبت کاهش هفتگی؛ سهم تعطیلات طلای جهانی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405072516337/%D8%AB%D8%A8%D8%AA-%DA%A9%D8%A7%D9%87%D8%B4-%D9%87%D9%81%D8%AA%DA%AF%DB%8C-%D8%B3%D9%87%D9%85-%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%D8%A7%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+    "published_at": "2026-10-17T06:45:54.280287+00:00",
+    "telegram_message_id": 630,
+    "eitaa_message_id": 176852346,
+    "group_message_id": 36,
     "group_chat_id": "@ZarinMahCommunity",
     "group_thread_id": 15
   }
