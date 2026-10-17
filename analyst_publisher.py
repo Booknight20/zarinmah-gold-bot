@@ -14,6 +14,8 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 EITAAYAR_TOKEN = os.environ.get("EITAAYAR_TOKEN", "").strip()
 EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID", "").strip().lstrip("@")
 TELEGRAM_CHANNEL = "@ZarinMahGold"
+TELEGRAM_GROUP = "@ZarinMahCommunity"
+ANALYST_THREAD_ID = 25  # موضوع «تحلیل روزانه»
 READY_FILE = "analyst_ready.json"
 PUBLISHED_FILE = "analyst_published.json"
 
@@ -72,7 +74,8 @@ def prepare_published_state():
             for key in (
                 "telegram_message_id", "eitaa_message_id",
                 "telegram_sent_at", "eitaa_sent_at",
-                "item", "telegram_sent", "eitaa_sent",
+                "group_message_id", "group_sent_at",
+                "item", "telegram_sent", "eitaa_sent", "group_sent",
             )
         )
         for value in data.values()
@@ -212,7 +215,7 @@ def build_telegram_message(item):
         "",
         "🌙 <b>زرین ماه</b> | ویترین طلای کم‌اجرت",
         "📲 @ZarinMahGold",
-        "#تحلیل_روزانه",
+        "#قیمت_و_تحلیل",
     ])
 
     return "\n\n".join(parts)
@@ -265,23 +268,24 @@ def build_eitaa_message(item):
         "",
         "🌙 زرین ماه | ویترین طلای کم‌اجرت",
         "📲 @ZarinMahGold",
-        "#تحلیل_روزانه",
+        "#قیمت_و_تحلیل",
     ])
 
     return "\n\n".join(parts)
 
 
-def send_to_telegram(item):
+def send_to_telegram(item, chat_id=TELEGRAM_CHANNEL, message_thread_id=None):
     if not BOT_TOKEN:
         raise RuntimeError("TELEGRAM_BOT_TOKEN تنظیم نشده است.")
 
     response = requests.post(
         f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
         json={
-            "chat_id": TELEGRAM_CHANNEL,
+            "chat_id": chat_id,
             "text": build_telegram_message(item),
             "parse_mode": "HTML",
             "disable_web_page_preview": True,
+            **({"message_thread_id": message_thread_id} if message_thread_id is not None else {}),
         },
         timeout=30,
     )
@@ -356,6 +360,7 @@ def main():
         if isinstance(stored_item, dict) and not (
             published_is_sent(record, "telegram")
             and published_is_sent(record, "eitaa")
+            and published_is_sent(record, "group")
         ):
             work.setdefault(str(key), stored_item)
 
@@ -425,9 +430,32 @@ def main():
         else:
             print("Eitaa: already sent; skipping duplicate.")
 
+        if not published_is_sent(record, "group"):
+            try:
+                message_id = send_to_telegram(
+                    item,
+                    chat_id=TELEGRAM_GROUP,
+                    message_thread_id=ANALYST_THREAD_ID,
+                )
+                record["group_sent"] = True
+                record["group_sent_at"] = now_iso()
+                record["group_chat_id"] = TELEGRAM_GROUP
+                record["group_thread_id"] = ANALYST_THREAD_ID
+                if message_id is not None:
+                    record["group_message_id"] = message_id
+                print("Telegram group topic (تحلیل روزانه): SENT")
+            except Exception as error:
+                errors.append(f"Telegram group / {key}: {error}")
+                print("Telegram group topic (تحلیل روزانه): FAILED:", error)
+            finally:
+                save_json(PUBLISHED_FILE, state)
+        else:
+            print("Telegram group topic: already sent; skipping duplicate.")
+
         if (
             published_is_sent(record, "telegram")
             and published_is_sent(record, "eitaa")
+            and published_is_sent(record, "group")
         ):
             record["published_at"] = record.get("published_at") or now_iso()
 
@@ -439,7 +467,7 @@ def main():
             print("-", error)
         sys.exit(1)
 
-    print("\nAll analyst summaries are published to Telegram and Eitaa.")
+    print("\nAll analyst summaries are published to Telegram channel, Telegram group topic, and Eitaa.")
 
 
 if __name__ == "__main__":
