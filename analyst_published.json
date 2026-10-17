@@ -4088,5 +4088,29 @@
     "eitaa_sent_at": "2026-10-17T09:04:38.464090+03:30",
     "eitaa_message_id": 176839706,
     "published_at": "2026-10-17T09:04:38.477715+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8540": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "۶۵ درصد نمادهای بورسی هفته رو منفی شروع کردن ‼️",
+      "summary": "🔹 صف خرید در پیش گشایش: ۲۶ همت\n🔹 صف فروش در پیش گشایش: ۶ همت\n⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8540",
+      "analysis_score": 4,
+      "market_matches": [
+        "بورس",
+        "نماد"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-17T09:17:34.002000+03:30"
+    },
+    "first_seen_at": "2026-10-17T09:17:34.943523+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-17T09:17:35.434897+03:30",
+    "telegram_message_id": 625,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-17T09:17:36.810816+03:30",
+    "eitaa_message_id": 176841334,
+    "published_at": "2026-10-17T09:17:36.815539+03:30"
   }
 }
