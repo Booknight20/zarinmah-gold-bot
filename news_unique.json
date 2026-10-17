@@ -1524,6 +1524,30 @@
   },
   {
     "source": "مهر",
+    "title": "سرمایه گذاری یک هزار میلیارد ریالی برای فرآوری پسته در دامغان",
+    "link": "https://www.mehrnews.com/news/6980246/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%DB%8C%DA%A9-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1%D8%A2%D9%88%D8%B1%DB%8C-%D9%BE%D8%B3%D8%AA%D9%87-%D8%AF%D8%B1-%D8%AF%D8%A7%D9%85%D8%BA%D8%A7%D9%86",
+    "summary": "دامغان- مدیرکل جهاد کشاورزی استان سمنان از بهره برداری واحد فرآوری پسته با سرمایه گذاری ثابت هزار میلیارد ریالی در دامغان خبر داد و گفت: این واحد برای ۲۰ نفر اشتغال مستقیم ایجاد کرده است.",
+    "published": "Sat, 17 Oct 2026 08:49:10 GMT",
+    "collected_at": "2026-10-17T12:27:21.776283+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
     "title": "جریمه ۸ میلیارد ریالی کارواش متخلف در یزد",
     "link": "https://www.mehrnews.com/news/6980221/%D8%AC%D8%B1%DB%8C%D9%85%D9%87-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D8%B4-%D9%85%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%DB%8C%D8%B2%D8%AF",
     "summary": "یزد- سرپرست اداره کل تعزیرات حکومتی یزد از محکومیت یک واحد صنفی کارواش به پرداخت ۸ میلیارد و ۲۰ میلیون ریال جریمه نقدی به دلیل نگهداری ۲ هزار و ۵۰۰ لیتر سوخت قاچاق خبر داد.",
@@ -2214,30 +2238,6 @@
     "currency_matches": [
       "ارز"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "زهرا نجاتی: برای کسب مدال طلا به ناگویا آمده ایم/ چین و ژاپن رقبای سنتی ما هستند",
-    "link": "https://www.isna.ir/news/1405072415812/%D8%B2%D9%87%D8%B1%D8%A7-%D9%86%D8%AC%D8%A7%D8%AA%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%B3%D8%A8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7-%D8%A2%D9%85%D8%AF%D9%87-%D8%A7%DB%8C%D9%85-%DA%86%DB%8C%D9%86-%D9%88-%DA%98%D8%A7%D9%BE%D9%86",
-    "summary": "کاپیتان تیم ملی والیبال نشسته بانوان ایران با تأکید بر آمادگی ملی پوشان برای حضور در پنجمین دوره بازی های پاراآسیایی آیچی-ناگویا ۲۰۲۶ گفت: با وجود حضور قدرت هایی همچون چین و ژاپن، هدف ما صعود به فینال و تلاش برای کسب مدال طلای این رقابت هاست.",
-    "published": "Fri, 16 Oct 2026 05:45:00 GMT",
-    "collected_at": "2026-10-16T09:16:59.957478+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
