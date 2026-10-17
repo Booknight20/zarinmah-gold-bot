@@ -1148,7 +1148,10 @@
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%81%DB%8C%D8%AF-%D9%82%D8%B7%D8%B1%D9%87-125/4302323-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2-%D9%85%DB%8C-%DA%AF%D8%B1%D8%AF%D9%86%D8%AF",
     "published_at": "2026-10-17T05:57:33.392867+00:00",
     "telegram_message_id": 626,
-    "eitaa_message_id": 176843040
+    "eitaa_message_id": 176843040,
+    "group_message_id": 31,
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 15
   },
   "781931de947369d061f907dfa9c4ae438a318aafa35cac659878fb7e83e2a74b": {
     "title": "نفت برنت به ۱۱۰ دلار صعود کرد",
@@ -1165,5 +1168,16 @@
     "published_at": "2026-10-17T06:08:09.525285+00:00",
     "telegram_message_id": 628,
     "eitaa_message_id": 176845288
+  },
+  "fd63024647489f483b68fa78a89bedb6b856c9f40c8d9522ca0a32014ca05ba3": {
+    "title": "نفت در آستانه 110 دلار",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%81%DB%8C%D8%AF-%D9%82%D8%B7%D8%B1%D9%87-125/4302326-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%AF%D9%84%D8%A7%D8%B1",
+    "published_at": "2026-10-17T06:13:31.603071+00:00",
+    "telegram_message_id": 629,
+    "eitaa_message_id": 176846270,
+    "group_message_id": 30,
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 15
   }
 }
