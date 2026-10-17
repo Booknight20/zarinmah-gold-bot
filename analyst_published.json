@@ -4040,5 +4040,53 @@
     "eitaa_sent_at": "2026-10-17T00:17:11.935597+03:30",
     "eitaa_message_id": 176811304,
     "published_at": "2026-10-17T00:17:11.940453+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25577": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "دلار حواله به ۱۸۱.۶۴۱ هزارتومان رسید.",
+      "summary": "دلار حواله به ۱۸۱.۶۴۱ هزارتومان رسید.\nبالا اومدنش نشون میده دولت علاقه ای به کاهش قیمت ارز فعلا نشون نمیده!\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25577",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "ارز"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-17T09:04:31.665894+03:30"
+    },
+    "first_seen_at": "2026-10-17T09:04:34.591281+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-17T09:04:35.234787+03:30",
+    "telegram_message_id": 623,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-17T09:04:36.895525+03:30",
+    "eitaa_message_id": 176839699,
+    "published_at": "2026-10-17T09:04:36.898491+03:30"
+  },
+  "https://t.me/drarashamini/7177": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "امروز اوردرهای فروش بازار سرمایه به نسبت روزهای گذشته افزایش زیادی داشته و از طرفی هم سفارشات خرید کمتر شده.",
+      "summary": "امروز اوردرهای فروش بازار سرمایه به نسبت روزهای گذشته افزایش زیادی داشته و از طرفی هم سفارشات خرید کمتر شده.\n———————————————————————-\n✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7177",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "بازار سرمایه"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-17T09:04:32.368789+03:30"
+    },
+    "first_seen_at": "2026-10-17T09:04:36.900995+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-17T09:04:37.427427+03:30",
+    "telegram_message_id": 624,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-17T09:04:38.464090+03:30",
+    "eitaa_message_id": 176839706,
+    "published_at": "2026-10-17T09:04:38.477715+03:30"
   }
 }
