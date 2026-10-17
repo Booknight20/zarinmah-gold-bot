@@ -12,6 +12,10 @@ PUBLISHED_FILE = "news_published.json"
 
 CHANNEL = "@ZarinMahGold"
 
+# Telegram group and its news topic. Keep the hourly price bot separate.
+NEWS_GROUP = "@ZarinMahCommunity"
+NEWS_THREAD_ID = 15
+
 MAX_NEWS_PER_RUN = 2
 
 TELEGRAM_BOT_TOKEN = os.environ.get(
@@ -208,11 +212,15 @@ def build_eitaa_message(item):
         f"{summary}\n\n"
         f"📌 منبع: {source}\n\n"
         "🌙 برای دنبال‌کردن اخبار و تحلیل‌های بیشتر زرین ماه\n\n"
-        "#اخبار_بازار"
+        "#قیمت_و_تحلیل"
     )
 
 
-def send_to_telegram(message):
+def send_to_telegram(
+    message,
+    chat_id=CHANNEL,
+    message_thread_id=None,
+):
     if not TELEGRAM_BOT_TOKEN:
         raise RuntimeError(
             "TELEGRAM_BOT_TOKEN is missing."
@@ -224,11 +232,13 @@ def send_to_telegram(message):
     )
 
     payload = {
-        "chat_id": CHANNEL,
+        "chat_id": chat_id,
         "text": message,
         "parse_mode": "HTML",
         "disable_web_page_preview": True,
     }
+    if message_thread_id is not None:
+        payload["message_thread_id"] = message_thread_id
 
     response = requests.post(
         url,
@@ -237,10 +247,15 @@ def send_to_telegram(message):
     )
 
     print(
+        "Telegram destination:",
+        chat_id,
+        "topic:",
+        message_thread_id if message_thread_id is not None else "default",
+    )
+    print(
         "Telegram HTTP status:",
         response.status_code,
     )
-
     print(
         "Telegram response:",
         response.text,
@@ -252,12 +267,9 @@ def send_to_telegram(message):
         )
 
     result = response.json()
-
-    if not result.get(
-        "ok"
-    ):
+    if not result.get("ok"):
         raise RuntimeError(
-            "Telegram API returned ok=false."
+            f"Telegram API returned ok=false: {result}"
         )
 
     return result
@@ -522,11 +534,14 @@ def main():
         eitaa_message_id = record.get(
             "eitaa_message_id"
         )
+        group_message_id = record.get(
+            "group_message_id"
+        )
 
         fully_published = (
-            telegram_message_id
-            is not None
+            telegram_message_id is not None
             and eitaa_message_id is not None
+            and group_message_id is not None
         )
 
         if fully_published:
@@ -743,18 +758,60 @@ def main():
             )
 
         # =========================================
+        # Telegram news topic in the community group
+        # =========================================
+
+        if group_message_id is None:
+            try:
+                group_result = send_to_telegram(
+                    telegram_message,
+                    chat_id=NEWS_GROUP,
+                    message_thread_id=NEWS_THREAD_ID,
+                )
+                group_message_id = (
+                    group_result.get("result", {}).get("message_id")
+                )
+                if group_message_id is None:
+                    raise RuntimeError(
+                        "Telegram did not return a group message_id."
+                    )
+
+                record = published.get(news_id, {})
+                if not isinstance(record, dict):
+                    record = {}
+                record.update({
+                    "title": item.get("title", ""),
+                    "source": item.get("source", ""),
+                    "link": item.get("link", ""),
+                    "published_at": record.get("published_at", now_iso()),
+                    "telegram_message_id": telegram_message_id,
+                    "eitaa_message_id": eitaa_message_id,
+                    "group_message_id": group_message_id,
+                    "group_chat_id": NEWS_GROUP,
+                    "group_thread_id": NEWS_THREAD_ID,
+                })
+                published[news_id] = record
+                save_json_file(PUBLISHED_FILE, published)
+                print("Telegram group news topic: SENT")
+            except Exception as error:
+                print("Telegram group publishing failed:", error)
+                failed_count += 1
+        else:
+            print("Telegram group news topic: already published; skipping duplicate.")
+
+        # =========================================
         # انتشار کامل
         # =========================================
 
         if (
             telegram_message_id is not None
             and eitaa_message_id is not None
+            and group_message_id is not None
         ):
             sent_count += 1
-
             print(
-                "News successfully published "
-                "to Telegram + Eitaa."
+                "News successfully published to Telegram channel + "
+                "Telegram group topic + Eitaa."
             )
 
     print()
