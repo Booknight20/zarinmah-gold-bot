@@ -1661,73 +1661,7 @@ def send_to_telegram(
 
     # Return Telegram's sent message so we can use its exact message_id.
     return result["result"]
-
-
-def update_submenu_latest_price(price_link):
-    """Update the submenu's hourly-price button to point to the newest price post."""
-    if not BOT_TOKEN:
-        print("Cannot update submenu: TELEGRAM_BOT_TOKEN is missing.")
-        return
-
-    channel_name = CHANNEL.lstrip("@")
-    try:
-        posts = fetch_channel_posts(channel_name, max_pages=10)
-    except Exception as error:
-        print("Could not locate submenu in the channel:", error)
-        return
-
-    submenu = None
-    analysis_link = None
-    news_link = None
-
-    for post in posts:
-        text = post.get("text", "")
-        if submenu is None and "قیمت و تحلیل بازار زرین ماه" in text:
-            submenu = post
-        if analysis_link is None and "راهنمای تحلیل روزانه زرین ماه" in text:
-            analysis_link = post.get("link")
-        if news_link is None and "راهنمای اخبار بازار زرین ماه" in text:
-            news_link = post.get("link")
-
-        if submenu and analysis_link and news_link:
-            break
-
-    if not submenu:
-        print("Could not find the price/analysis submenu. Run publish_channel_menu.py once to publish it.")
-        return
-
-    # If guide posts are older than the scanned pages, keep their buttons usable via the channel itself.
-    analysis_link = analysis_link or f"https://t.me/{channel_name}"
-    news_link = news_link or f"https://t.me/{channel_name}"
-
-    payload = {
-        "chat_id": CHANNEL,
-        "message_id": submenu["message_id"],
-        "reply_markup": {
-            "inline_keyboard": [
-                [{"text": "💰 قیمت‌های ساعتی", "url": price_link}],
-                [{"text": "📈 تحلیل روزانه", "url": analysis_link}],
-                [{"text": "📰 اخبار بازار", "url": news_link}],
-            ]
-        },
-    }
-
-    try:
-        response = requests.post(
-            f"https://api.telegram.org/bot{BOT_TOKEN}/editMessageReplyMarkup",
-            json=payload,
-            timeout=30,
-        )
-        response.raise_for_status()
-        data = response.json()
-        if not data.get("ok"):
-            print("Could not update latest-price button:", data.get("description", data))
-            return
-        print("Submenu price button updated to latest post:", price_link)
-    except Exception as error:
-        # Do not turn a successful price publication into a failed workflow because a menu edit failed.
-        print("Could not update submenu price button:", error)
-
+    
 
 # =========================================================
 # ارسال صحیح به ایتایار
