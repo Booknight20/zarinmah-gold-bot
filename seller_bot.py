@@ -13,7 +13,8 @@ import requests
 
 BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
 ADMIN_ID = 8816884849
-CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL", "@ZarinMahGold").strip()
+GROUP_ID = os.getenv("TELEGRAM_GROUP", "@ZarinMahCommunity").strip()
+GROUP_THREAD_ID = int(os.getenv("TELEGRAM_GROUP_THREAD_ID", "17"))
 API = f"https://api.telegram.org/bot{BOT_TOKEN}" if BOT_TOKEN else ""
 DATA_FILE = Path(os.getenv("SELLER_DATA_FILE", "seller_data.json"))
 POLL_TIMEOUT = 30
@@ -143,18 +144,20 @@ def item_caption(item, item_id, preview=False):
         f"🏷 نوع آگهی: {owner_label}",
         "",
         "#محصولات_برای_فروش",
-        "📲 @ZarinMahGold",
+        "🌙 زرین ماه | بخش خرید و فروش",
     ])
     return "\n".join(lines)[:1000]
 
 
-def send_photo(chat_id, photo_id, caption, reply_markup=None):
+def send_photo(chat_id, photo_id, caption, reply_markup=None, message_thread_id=None):
     payload = {
         "chat_id": chat_id,
         "photo": photo_id,
         "caption": caption,
         "parse_mode": "HTML",
     }
+    if message_thread_id is not None:
+        payload["message_thread_id"] = int(message_thread_id)
     if reply_markup:
         payload["reply_markup"] = json.dumps(reply_markup, ensure_ascii=False)
     return api("sendPhoto", payload)
@@ -206,13 +209,13 @@ def finish_submission(user_id, photo_id):
         send_text(
             user_id,
             f"پیش‌نمایش محصول شماره {item_id} آماده شد. "
-            "برای انتشار در کانال، آن را تأیید کن.",
+            "برای انتشار در موضوع خرید و فروش گروه، آن را تأیید کن.",
         )
     else:
         send_text(
             user_id,
             f"آگهی شما با شماره {item_id} برای بررسی مدیر ارسال شد. "
-            "پس از تأیید، در کانال منتشر می‌شود.",
+            "پس از تأیید، در موضوع خرید و فروش گروه منتشر می‌شود.",
             keyboard(False),
         )
 
@@ -352,9 +355,10 @@ def process_callback(callback):
     if action == "approve":
         try:
             published = send_photo(
-                CHANNEL_ID,
+                GROUP_ID,
                 item["photo_id"],
                 item_caption(item, item_id),
+                message_thread_id=GROUP_THREAD_ID,
             )
         except Exception as exc:
             api("answerCallbackQuery", {
@@ -366,21 +370,23 @@ def process_callback(callback):
             return
 
         item["status"] = "published"
-        item["channel_message_id"] = published.get("message_id")
+        item["group_message_id"] = published.get("message_id")
+        item["group_chat_id"] = GROUP_ID
+        item["group_thread_id"] = GROUP_THREAD_ID
         save_data()
 
         api("answerCallbackQuery", {
             "callback_query_id": callback_id,
             "text": "آگهی منتشر شد.",
         })
-        send_text(ADMIN_ID, f"✅ آگهی شماره {item_id} در کانال منتشر شد.")
+        send_text(ADMIN_ID, f"✅ آگهی شماره {item_id} در موضوع خرید و فروش گروه منتشر شد.\nگروه: {GROUP_ID}\nشناسه موضوع: {GROUP_THREAD_ID}")
 
         if not item.get("own_product"):
             try:
                 send_text(
                     item["seller_id"],
                     f"تبریک! آگهی شماره {item_id} پس از بررسی تأیید "
-                    "و در کانال زرین ماه منتشر شد.",
+                    "و در موضوع خرید و فروش زرین ماه منتشر شد.",
                 )
             except Exception as exc:
                 print(f"Could not notify seller for item {item_id}: {exc}")
@@ -418,7 +424,7 @@ def main():
         )
 
     print("ZarinMah seller bot starting...")
-    print(f"Admin ID: {ADMIN_ID}; channel: {CHANNEL_ID}")
+    print(f"Admin ID: {ADMIN_ID}; group: {GROUP_ID}; topic: {GROUP_THREAD_ID}")
 
     # This process uses long polling. It removes any configured webhook.
     api("deleteWebhook", {"drop_pending_updates": "false"})
