@@ -32,6 +32,7 @@ jobs:
           EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
           EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
           LIVE_GOLD_PRICE_ONLY: "true"
+          LIVE_GOLD_MANUAL_TEST: "true"
         run: python -u bot.py
 
       - name: Save message state
