@@ -310,6 +310,24 @@
     "major_event_matches": []
   },
   {
+    "source": "مشرق",
+    "title": "در جنگ ایران ۱۰۰ میلیارد یورو ضرر کردیم!",
+    "link": "https://www.mashreghnews.ir/news/1846323/%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%B6%D8%B1%D8%B1-%DA%A9%D8%B1%D8%AF%DB%8C%D9%85",
+    "summary": "",
+    "published": "Sun, 18 Oct 2026 20:02:00 GMT",
+    "collected_at": "2026-10-18T23:47:24.423381+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [
+      "جنگ"
+    ]
+  },
+  {
     "source": "تابناک",
     "title": "مسئولیت سیاست های ارزی قابل پیگیری باشد / مجلس باید قانون بانک مرکزی را اصلاح کند",
     "link": "https://www.tabnak.ir/fa/news/1399279/مسئولیت-سیاست-های-ارزی-قابل-پیگیری-باشد-مجلس-باید-قانون-بانک-مرکزی-را-اصلاح-کند",
@@ -410,6 +428,54 @@
     "major_event_matches": [
       "جنگ"
     ]
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۲۶ مهر ۱۴۰۵ در زمان بسته شدن بازار/ + طلا در کانال ۲۵ میلیون تومان ایستاد + جدول",
+    "link": "https://www.khabaronline.ir/news/2290121/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
+    "summary": "قیمت طلا در بازار تهران امروز ۲۶ مهرماه اعلام شد و هر گرم طلای ۱۸عیار کاهش ۳۸۵ هزار تومانی قیمت را تجربه کرده و در کانال ۲۵ میلیون تومان ماند.",
+    "published": "Sun, 18 Oct 2026 18:41:17 GMT",
+    "collected_at": "2026-10-18T23:47:15.834015+03:30",
+    "market_score": 3,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "صادرات ۲۱ میلیارد دلاری کشور؛همگرایی اقتصادی ایجاد و تقویت شود",
+    "link": "https://www.mehrnews.com/news/6982138/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B2%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D9%87%D9%85%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%88-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%B4%D9%88%D8%AF",
+    "summary": "ارومیه - مدیرکل دفتر غرب آسیا و آفریقای سازمان توسعه تجارت ایران گفت: در شش ماه نخست سال جاری، با وجود تحریم ها، ۲۱ میلیارد دلار صادرات و ۱۹ میلیارد دلار واردات در کشور ثبت شده است.",
+    "published": "Sun, 18 Oct 2026 19:52:21 GMT",
+    "collected_at": "2026-10-18T23:47:07.798963+03:30",
+    "market_score": 3,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "تولید ۳۰ درصد طلای کشور در آذربایجان غربی؛ فعالیت ۲۰۰۰ واحد صنعتی",
+    "link": "https://www.mehrnews.com/news/6982146/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%DB%B3%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%DB%B2%DB%B0%DB%B0%DB%B0-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
+    "summary": "ارومیه - مدیرکل صنعت، معدن و تجارت آذربایجان غربی گفت: در حال حاضر ۳۰ درصد طلای کشور در این استان تولید می شود.",
+    "published": "Sun, 18 Oct 2026 20:05:34 GMT",
+    "collected_at": "2026-10-18T23:47:07.798894+03:30",
+    "market_score": 3,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": []
   },
   {
     "source": "دنیای اقتصاد",
