@@ -275,6 +275,62 @@
     "medium_impact_matches": []
   },
   {
+    "source": "ایسنا",
+    "title": "اجرای دو پروژه ۷۰۰ هزار دلاری فائو در ایران",
+    "link": "https://www.isna.ir/news/1405072617358/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%AF%D9%88-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%DB%B7%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%81%D8%A7%D8%A6%D9%88-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "summary": "نماینده سازمان خواربار و کشاورزی ملل متحد (فائو) در ایران از اجرای دو پروژه با مجموع بودجه حدود ۷۰۰ هزار دلار برای حفاظت از نژادهای بومی دام و حمایت از پرورش دهندگان ماهی آسیب دیده از جنگ خبر داد.",
+    "published": "Sun, 18 Oct 2026 09:39:46 GMT",
+    "collected_at": "2026-10-18T13:14:04.487051+03:30",
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
+    "medium_impact_matches": [
+      "بودجه"
+    ]
+  },
+  {
+    "source": "ایسنا",
+    "title": "بورس همچنان بر مدار نزولی؛ شاخص کل در کانال ۸.۱ میلیون واحدی",
+    "link": "https://www.isna.ir/news/1405072617353/%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%A8%D8%B1-%D9%85%D8%AF%D8%A7%D8%B1-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B8-%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C",
+    "summary": "بورس تهران در دومین روز هفته همچنان روند نزولی خود را ادامه داد، اما شدت افت شاخص کل نسبت به روز گذشته کاهش یافت؛ به طوری که شاخص کل با بیش از ۸۴ هزار واحد کاهش به محدوده ۸ میلیون و ۱۸۰ هزار واحد رسید و شاخص هم وزن نیز هم مسیر با شاخص اصلی افت کرد. در مقابل، شاخص کل فرابورس برخلاف بورس تهران صعودی شد.",
+    "published": "Sun, 18 Oct 2026 09:37:40 GMT",
+    "collected_at": "2026-10-18T13:14:04.487106+03:30",
+    "market_score": 18,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "شاخص هم وزن",
+      "فرابورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "ورود بورس به فاز احتیاط",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4302377-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D9%81%D8%A7%D8%B2-%D8%A7%D8%AD%D8%AA%DB%8C%D8%A7%D8%B7",
@@ -952,32 +1008,6 @@
     "summary": "در پایان معاملات امروز شاخص کل بورس با کاهش ۱۶۰ هزار و ۵۶۰ واحدی، معادل ۱.۹۱ درصد، به سطح ۸ میلیون و ۲۶۵ هزار و ۱۶۳ واحد رسید.",
     "published": "Sat, 17 Oct 2026 09:46:34 +0000",
     "collected_at": "2026-10-17T13:27:36.754138+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "ریزش سنگین بورس در آغاز هفته؛ شاخص کل بیش از ۱۶۰ هزار واحد افت کرد",
-    "link": "https://www.isna.ir/news/1405072516569/%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%87%D9%81%D8%AA%D9%87-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B6%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%81%D8%AA",
-    "summary": "بورس تهران در نخستین روز معاملاتی هفته با فشار سنگین فروش مواجه شد و شاخص کل با افت بیش از ۱۶۰ هزار واحدی، بخش قابل توجهی از ارتفاع خود را از دست داد؛ با این حال، شاخص کل همچنان در کانال ۸ میلیون واحد باقی ماند.",
-    "published": "Sat, 17 Oct 2026 09:39:44 GMT",
-    "collected_at": "2026-10-17T13:27:10.977160+03:30",
     "market_score": 10,
     "market_matches": {
       "stock": [
@@ -1680,78 +1710,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مشرق",
-    "title": "خطر محرومیت و محکومیت دو میلیون دلاری ستاره پرسپولیس!",
-    "link": "https://www.mashreghnews.ir/news/1846185/%D8%AE%D8%B7%D8%B1-%D9%85%D8%AD%D8%B1%D9%88%D9%85%DB%8C%D8%AA-%D9%88-%D9%85%D8%AD%DA%A9%D9%88%D9%85%DB%8C%D8%AA-%D8%AF%D9%88-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3",
-    "summary": "پرونده فسخ قرارداد تیوی بیفوما با استقلال خوزستان می تواند برای ستاره کنگویی و باشگاه پرسپولیس تبعات سنگینی داشته باشد.",
-    "published": "Sat, 17 Oct 2026 09:29:58 GMT",
-    "collected_at": "2026-10-17T13:04:21.733260+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "جریمه ۱۲۰ میلیارد ریالی قاچاقچی سوخت در یزد",
-    "link": "https://www.mehrnews.com/news/6980267/%D8%AC%D8%B1%DB%8C%D9%85%D9%87-%DB%B1%DB%B2%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82%DA%86%DB%8C-%D8%B3%D9%88%D8%AE%D8%AA-%D8%AF%D8%B1-%DB%8C%D8%B2%D8%AF",
-    "summary": "یزد- سرپرست اداره کل تعزیرات حکومتی یزد از ضبط ۲۵ هزار لیتر نفت گاز قاچاق و محکومیت متخلف به پرداخت ۱۲۰ میلیارد و ۴۰۰ میلیون ریال جریمه نقدی خبر داد.",
-    "published": "Sat, 17 Oct 2026 09:20:24 GMT",
-    "collected_at": "2026-10-17T12:54:20.302503+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "اوپن ای آی با پنج میلیون دلار نارضایتی ریاضیدانان را می خرد",
-    "link": "https://www.mehrnews.com/news/6980081/%D8%A7%D9%88%D9%BE%D9%86-%D8%A7%DB%8C-%D8%A2%DB%8C-%D8%A8%D8%A7-%D9%BE%D9%86%D8%AC-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%86%D8%A7%D8%B1%D8%B6%D8%A7%DB%8C%D8%AA%DB%8C-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%AF%D8%A7%D9%86%D8%A7%D9%86-%D8%B1%D8%A7-%D9%85%DB%8C-%D8%AE%D8%B1%D8%AF",
-    "summary": "اوپن ای آی برای خاموش کردن خشم و نارضایتی ریاضیدانانی که از بیانیه های جدید شرکت نگران شده اند، پنج میلیون دلار پرداخت می کند.",
-    "published": "Sat, 17 Oct 2026 09:21:47 GMT",
-    "collected_at": "2026-10-17T12:54:20.302429+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "ایسنا",
     "title": "دستگیری عامل حمل سلاح غیرمجاز در جردن/ عروس خانواده با۲۵۰ گرم طلاهای پدرشوهرش به دام افتام",
     "link": "https://www.isna.ir/news/1405072516649/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D8%A7%D9%85%D9%84-%D8%AD%D9%85%D9%84-%D8%B3%D9%84%D8%A7%D8%AD-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%AC%D8%B1%D8%AF%D9%86-%D8%B9%D8%B1%D9%88%D8%B3-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%DB%B2%DB%B5%DB%B0-%DA%AF%D8%B1%D9%85",
@@ -1763,6 +1721,30 @@
       "gold": [
         "طلا",
         "گرم طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "راز انباشت کم سابقه طلا در خزانه های چین",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-183/4302538-%D8%B1%D8%A7%D8%B2-%D8%A7%D9%86%D8%A8%D8%A7%D8%B4%D8%AA-%DA%A9%D9%85-%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%AE%D8%B2%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%DA%86%DB%8C%D9%86",
+    "summary": "دنیای اقتصاد: خرید ادامه دار و کم سابقه طلا از سوی چین طی ماه های اخیر، بیش از آنکه واکنشی مقطعی به نوسانات بازار جهانی باشد، نشانه ای از تلاشی بلندمدت برای کاهش ریسک ذخایر عظیم این کشور به شمار می رود.",
+    "published": "Sun, 18 Oct 2026 09:31:58 +0000",
+    "collected_at": "2026-10-18T13:14:19.308189+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
       ]
     },
     "driver_matches": [],
