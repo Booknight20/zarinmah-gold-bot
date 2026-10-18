@@ -834,9 +834,19 @@ def extract_navasan_line_price(line):
         return None
 
 
+
 def parse_navasan_post(text, asset):
     text = normalize_digits(clean_text(text))
     lines = [line.strip() for line in text.splitlines() if line.strip()]
+
+    def price_near_line(index):
+        # قیمت ممکن است تا سه خط بعد از نام دارایی آمده باشد.
+        for end in range(index + 1, min(index + 4, len(lines)) + 1):
+            candidate = " ".join(lines[index:end])
+            price = extract_navasan_line_price(candidate)
+            if price is not None:
+                return price
+        return None
 
     line_patterns = {
         "gold18": re.compile(r"طلای\s*(?:18|۱۸)\s*عیار", re.IGNORECASE),
@@ -846,25 +856,36 @@ def parse_navasan_post(text, asset):
     }
 
     if asset == "dollar":
-        matching_lines = []
-        for line in lines:
-            normalized_line = clean_text(line).replace("ي", "ی").replace("ك", "ک").lower()
+        candidates = []
+
+        for index, line in enumerate(lines):
+            normalized_line = (
+                clean_text(line)
+                .replace("ي", "ی")
+                .replace("ك", "ک")
+                .lower()
+            )
+
             if "دلار آمریکا" not in normalized_line:
                 continue
-            if any(term in normalized_line for term in ("دلار کانادا", "هرات", "سلیمانیه", "توافقی")):
+
+            if any(
+                term in normalized_line
+                for term in ("دلار کانادا", "هرات", "سلیمانیه", "توافقی")
+            ):
                 continue
+
             if "خرید" in normalized_line:
                 continue
-            # اگر قیمت فروش موجود باشد، از همان استفاده می‌کنیم.
-            if "فروش" in normalized_line:
-                matching_lines.insert(0, line)
-            else:
-                matching_lines.append(line)
 
-        for line in matching_lines:
-            price = extract_navasan_line_price(line)
+            priority = 0 if "فروش" in normalized_line else 1
+            candidates.append((priority, index))
+
+        for _, index in sorted(candidates):
+            price = price_near_line(index)
             if price and 100_000 <= price <= 2_000_000:
                 return price
+
         return None
 
     pattern = line_patterns.get(asset)
@@ -877,133 +898,19 @@ def parse_navasan_post(text, asset):
         "half": (50_000_000, 2_000_000_000),
         "quarter": (20_000_000, 1_000_000_000),
     }
+
     minimum, maximum = bounds[asset]
 
-    for line in lines:
+    for index, line in enumerate(lines):
         if not pattern.search(line):
             continue
-        price = extract_navasan_line_price(line)
+
+        price = price_near_line(index)
         if price and minimum <= price <= maximum:
             return price
 
     return None
 
-
-def get_latest_navasan_asset_price(posts, asset):
-    for post in posts:
-        price = parse_navasan_post(
-            post.get("text", ""),
-            asset,
-        )
-
-        if price is None:
-            continue
-
-        if not is_post_fresh(
-            post,
-            MAX_NAVASAN_AGE_MINUTES,
-        ):
-            print(
-                "Navasan price is stale or its timestamp is unknown:",
-                asset,
-                post.get("link"),
-                post.get("posted_at"),
-            )
-            return None
-
-        print(
-            "LATEST NAVASAN MATCH:",
-            asset,
-            f"{price:,} toman",
-            post.get("link"),
-        )
-
-        return {
-            "price": price,
-            "link": post.get("link", ""),
-            "message_id": post.get("message_id"),
-            "posted_at": post.get("posted_at"),
-        }
-
-    return None
-
-
-def get_hourly_prices_with_fallback():
-    """برای هر دارایی، اول نرخ تازه TGJU و سپس آخرین نرخ تازه نوسان را می‌گیرد."""
-    global PRICE_METADATA
-    PRICE_METADATA = {}
-
-    asset_sources = {
-        "gold18": "gold",
-        "dollar": "currency",
-        "coin": "coin",
-        "half": "coin",
-        "quarter": "coin",
-    }
-
-    result = {}
-    navasan_posts = None
-
-    for asset, channel_key in asset_sources.items():
-        official = None
-        try:
-            official = get_latest_asset_price(
-                channel_key,
-                asset,
-                require_fresh=True,
-            )
-        except Exception as error:
-            print(
-                f"TGJU not usable for {asset}; trying Navasan:",
-                error,
-            )
-
-        if official:
-            result[asset] = official["price"]
-            PRICE_METADATA[asset] = {
-                "source": "tgju",
-                "source_key": channel_key,
-                "source_name": PRICE_SOURCES[channel_key]["name"],
-                "link": official.get("link", ""),
-                "posted_at": official.get("posted_at"),
-            }
-            continue
-
-        if navasan_posts is None:
-            try:
-                navasan_posts = fetch_channel_posts(
-                    NAVASAN_CHANNEL,
-                    max_pages=3,
-                )
-            except Exception as error:
-                print("Could not read Navasan channel:", error)
-                navasan_posts = []
-
-        fallback = get_latest_navasan_asset_price(
-            navasan_posts,
-            asset,
-        )
-
-        if not fallback:
-            raise RuntimeError(
-                f"برای {asset} نه قیمت تازه TGJU پیدا شد و نه قیمت تازه در نوسان."
-            )
-
-        result[asset] = fallback["price"]
-        PRICE_METADATA[asset] = {
-            "source": "navasan",
-            "source_key": "navasan",
-            "source_name": "نوسان",
-            "link": fallback.get("link", ""),
-            "posted_at": fallback.get("posted_at"),
-        }
-
-    print("================================")
-    print("HOURLY PRICES WITH SOURCE FALLBACK:")
-    print(json.dumps(result, ensure_ascii=False, indent=2))
-    print("PRICE SOURCES:")
-    print(json.dumps(PRICE_METADATA, ensure_ascii=False, indent=2))
-    return result
 
 
 # =========================================================
