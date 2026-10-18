@@ -1,0 +1,45 @@
+
+name: ZarinMah Live Gold Price
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zarinmah-live-gold-price
+  cancel-in-progress: false
+
+jobs:
+  update-live-gold:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update live gold price
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          EITAAYAR_TOKEN: ${{ secrets.EITAAYAR_TOKEN }}
+          EITAA_CHAT_ID: ${{ secrets.EITAA_CHAT_ID }}
+          LIVE_GOLD_PRICE_ONLY: "true"
+        run: python -u bot.py
+
+      - name: Save message state
+        run: |
+          if [ -n "$(git status --porcelain -- live_gold_price_state.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add live_gold_price_state.json
+            git commit -m "Update live gold price message state"
+            git push
+          fi
