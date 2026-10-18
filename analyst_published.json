@@ -5835,5 +5835,34 @@
     "group_thread_id": 25,
     "group_message_id": 420,
     "published_at": "2026-10-18T20:47:49.822315+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25603": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "احتمال سفر عاصم منیر به تهران در هفته جاری/ایسنا",
+      "summary": "حدود ۵ تا ۶ ساعت دیگه بازارهای جهانی و معاملات نفت شروع میشه و احتمال داره ترامپ باز هم برای کنترل قیمت نفت از مذاکره صحبت کنه.\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25603",
+      "analysis_score": 4,
+      "market_matches": [
+        "قیمت نفت",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-18T21:17:41.113547+03:30"
+    },
+    "first_seen_at": "2026-10-18T21:17:43.982161+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-18T21:17:44.591086+03:30",
+    "telegram_message_id": 715,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-18T21:17:46.260760+03:30",
+    "eitaa_message_id": 177127935,
+    "group_sent": true,
+    "group_sent_at": "2026-10-18T21:17:46.834749+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 423,
+    "published_at": "2026-10-18T21:17:46.841289+03:30"
   }
 }
