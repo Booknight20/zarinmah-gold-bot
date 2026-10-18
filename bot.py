@@ -1855,10 +1855,16 @@ def update_live_gold_price():
     """Create or edit one price message in the existing hourly-price topic."""
     now = datetime.now(TEHRAN)
 
-    # This is intentionally separate from the hourly bot's Friday/holiday rules.
-    if not (9 <= now.hour < 22):
+        # Keep scheduled runs within 09:00-21:59 Tehran time.
+    # Manual runs can be used for testing outside this window.
+    is_manual_run = os.environ.get("LIVE_GOLD_MANUAL_TEST", "").strip().lower() == "true"
+
+    if not (9 <= now.hour < 22) and not is_manual_run:
         print("Live gold button is outside its Tehran-time window (09:00-21:59); skipping.")
         return
+
+    if is_manual_run:
+        print("Manual test enabled: bypassing the Tehran-time window.")
 
     state = load_live_gold_state()
 
