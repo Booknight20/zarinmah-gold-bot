@@ -23,6 +23,7 @@ STATUS_FILE = "send_status.json"
 HOURLY_WORKFLOW = "hourly.yml"
 DAILY_WORKFLOW = "daily-analysis.yml"
 NEWS_WORKFLOW = "news-collector.yml"
+LIVE_GOLD_WORKFLOW = "live-gold-price.yml"
 
 API_BASE = "https://api.github.com"
 
@@ -884,6 +885,28 @@ def check_news(
 
 
 # =========================================================
+# به‌روزرسانی قیمت لحظه‌ای طلای ۱۸ عیار
+# =========================================================
+
+def check_live_gold_price(now):
+    # cron-job.org این واچ‌داگ را هر ۱۰ دقیقه اجرا می‌کند.
+    # این workflow فقط در بازه ۰۹:۰۰ تا پیش از ۲۲:۰۰ به وقت تهران اجرا می‌شود.
+    if not (9 <= now.hour < 22):
+        print()
+        print("Live gold-price update is outside the 09:00-22:00 Tehran window; skipping.")
+        return
+
+    print()
+    print("Triggering the live 18-karat gold price update...")
+    success = trigger_workflow(LIVE_GOLD_WORKFLOW)
+
+    if success:
+        print("Live gold-price workflow triggered successfully.")
+    else:
+        print("Live gold-price workflow trigger failed.")
+
+
+# =========================================================
 # main
 # =========================================================
 
@@ -919,6 +942,12 @@ def main():
     )
 
     status = load_send_status()
+
+    # -----------------------------------------
+    # 0. قیمت لحظه‌ای هر ۱۰ دقیقه
+    # -----------------------------------------
+
+    check_live_gold_price(now)
 
     # -----------------------------------------
     # 1. قیمت ساعتی
