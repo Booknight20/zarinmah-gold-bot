@@ -5353,5 +5353,36 @@
     "group_thread_id": 25,
     "group_message_id": 384,
     "published_at": "2026-10-18T11:14:37.823382+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8561": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "طلای ۱۸ عیار یه پایین زده، ولی حباب منفیش بیشتر شده؛ الان داره تقریباً ۴۰۰ هزار تومن پایین‌تر از...",
+      "summary": "طلای ۱۸ عیار یه پایین زده، ولی حباب منفیش بیشتر شده؛\nالان داره تقریباً ۴۰۰ هزار تومن پایین‌تر از ارزش ذاتیش معامله می‌شه ‼️\n⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8561",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا",
+        "طلای ۱۸",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "priority": "high",
+      "collected_at": "2026-10-18T11:48:04.928118+03:30"
+    },
+    "first_seen_at": "2026-10-18T11:48:05.816030+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-18T11:48:06.266608+03:30",
+    "telegram_message_id": 680,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-18T11:48:07.426316+03:30",
+    "eitaa_message_id": 177037606,
+    "group_sent": true,
+    "group_sent_at": "2026-10-18T11:48:08.139177+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 385,
+    "published_at": "2026-10-18T11:48:08.147607+03:30"
   }
 }
