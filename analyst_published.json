@@ -5414,5 +5414,34 @@
     "group_thread_id": 25,
     "group_message_id": 388,
     "published_at": "2026-10-18T12:17:15.345131+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8564": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "اکثر اونایی که جا مونده بودن از حرکت قبلی طلا و دلار این فرصت خوبیه، شایدم فرصت آخره",
+      "summary": "امشب ساعت ۸ یه وویس میزارم و محدوده های ورود رو مستقیم بهتون میگم.\nنوتیف کانال رو روشن بزار",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8564",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "دلار"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-18T12:44:27.407966+03:30"
+    },
+    "first_seen_at": "2026-10-18T12:44:28.184883+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-18T12:44:28.632582+03:30",
+    "telegram_message_id": 684,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-18T12:44:29.935387+03:30",
+    "eitaa_message_id": 177048775,
+    "group_sent": true,
+    "group_sent_at": "2026-10-18T12:44:30.398949+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 389,
+    "published_at": "2026-10-18T12:44:30.402851+03:30"
   }
 }
