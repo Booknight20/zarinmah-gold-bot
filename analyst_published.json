@@ -5806,5 +5806,34 @@
     "group_thread_id": 25,
     "group_message_id": 417,
     "published_at": "2026-10-18T19:47:44.472761+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8576": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "بررسی نقاط ورود دلار و طلا",
+      "summary": "خرید پله ای و روش پر کردن سبد در صورت صعود\n#ریست_بازارها و اصلاح در همه بازارها",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8576",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "دلار"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-18T20:47:46.513775+03:30"
+    },
+    "first_seen_at": "2026-10-18T20:47:47.420304+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-18T20:47:47.962915+03:30",
+    "telegram_message_id": 712,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-18T20:47:49.131290+03:30",
+    "eitaa_message_id": 177123567,
+    "group_sent": true,
+    "group_sent_at": "2026-10-18T20:47:49.815974+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 420,
+    "published_at": "2026-10-18T20:47:49.822315+03:30"
   }
 }
