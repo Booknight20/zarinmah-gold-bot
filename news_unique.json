@@ -73,38 +73,6 @@
     ]
   },
   {
-    "source": "مهر",
-    "title": "اعلام نرخ های رسمی ارز در مرکز مبادله ایران؛ دلار در کانال ۱.۸ میلیون",
-    "link": "https://www.mehrnews.com/news/6980193/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D9%86%D8%B1%D8%AE-%D9%87%D8%A7%DB%8C-%D8%B1%D8%B3%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B1-%DB%B8",
-    "summary": "مرکز مبادله ارز و طلای ایران نرخ حواله ارزهای عمده از جمله دلار، یورو و درهم را برای روز شنبه ۲۵ مهر ۱۴۰۵ اعلام کرد.",
-    "published": "Sat, 17 Oct 2026 07:58:27 GMT",
-    "collected_at": "2026-10-17T11:35:57.665496+03:30",
-    "market_score": 37,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "مرکز مبادله"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو",
-      "درهم",
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت طلا، دلار و سکه امروز یکشنبه ۲۶ مهر ۱۴۰۵/ ریزش قیمت ها ادامه دارد؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302542-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
@@ -281,36 +249,6 @@
   },
   {
     "source": "مهر",
-    "title": "رشد قیمت جهانی طلا با افزایش ۱۶ دلاری هر اونس",
-    "link": "https://www.mehrnews.com/news/6980187/%D8%B1%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B1%DB%B6-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3",
-    "summary": "بهای هر اونس طلا در بازارهای جهانی با رشد ۰.۴۰ درصدی به ۴ هزار و ۱۶۵ دلار و ۵۸ سنت رسید.",
-    "published": "Sat, 17 Oct 2026 07:51:53 GMT",
-    "collected_at": "2026-10-17T11:24:06.320405+03:30",
-    "market_score": 22,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "اونس طلا"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
     "title": "قیمت طلا و سکه امروز شنبه ۲۵ مهر",
     "link": "https://www.mehrnews.com/news/6980458/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%DB%B2%DB%B5-%D9%85%D9%87%D8%B1",
     "summary": "قیمت طلای ۱۸ عیار امروز در بازار تهران با افزایش اندک به ۲۶ میلیون و ۱۹۹ هزار تومان رسید، اما سکه طرح جدید، نیم سکه و ربع سکه نسبت به میانگین روز گذشته کاهش قیمت داشتند.",
@@ -414,34 +352,6 @@
       "دلار",
       "ارز",
       "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت دلار، یورو و درهم امروز شنبه ۲۵ مهر ۱۴۰۵/ افزایش قیمت دلار",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302346-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "قیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته، از 181,098 (یکصد و هشتاد و یک هزار و نود و هشت) تومان به 181,641 (یکصد و هشتاد و یک هزار و ششصد و چهل و یک) تومان رسید.",
-    "published": "Sat, 17 Oct 2026 07:50:00 +0000",
-    "collected_at": "2026-10-17T11:24:08.755052+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "یورو",
-        "درهم"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "یورو",
-      "درهم"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -904,6 +814,32 @@
     ]
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "بورس امروز شنبه ۲۶ مهر ۱۴۰۵ / شاخص کل ۱۱۷ هزار و ۴۷۷ واحد افت کرد",
+    "link": "https://www.khabaronline.ir/live/2289799/%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%DB%B2%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%DB%B1%DB%B1%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B4%DB%B7%DB%B7-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%81%D8%AA",
+    "summary": "شاخص کل بورس تهران در معاملات صبح ۲۶ مهر با افت ۱۱۷ هزار واحدی به ۸ میلیون و ۱۴۷ هزار واحد رسید؛ محدوده ۸ میلیون و ۱۳۱ هزار واحد به عنوان یکی از حمایت های پیش روی بازار زیر ذره بین معامله گران قرار دارد.",
+    "published": "Sun, 18 Oct 2026 07:20:00 GMT",
+    "collected_at": "2026-10-18T11:14:22.714560+03:30",
+    "market_score": 10,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "از طرح ۳ فوریتی نمایندگان برای تثبیت نرخ ارز تا سفر قریب الوقوع لاوروف به تهران",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4302534-%D8%A7%D8%B2-%D8%B7%D8%B1%D8%AD-%D9%81%D9%88%D8%B1%DB%8C%D8%AA%DB%8C-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%A7-%D8%B3%D9%81%D8%B1-%D9%82%D8%B1%DB%8C%D8%A8-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%B9-%D9%84%D8%A7%D9%88%D8%B1%D9%88%D9%81-%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
@@ -1232,6 +1168,30 @@
     "gold_matches": [],
     "currency_matches": [
       "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "درآمد ۶۷۵ میلیارد ریالی شیرابه گیاهان دارویی برای بهره برداران کهگیلویه و بویراحمد",
+    "link": "https://www.isna.ir/news/1405072617206/%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%DB%B6%DB%B7%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%B4%DB%8C%D8%B1%D8%A7%D8%A8%D9%87-%DA%AF%DB%8C%D8%A7%D9%87%D8%A7%D9%86-%D8%AF%D8%A7%D8%B1%D9%88%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D9%87%D8%B1%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%D8%A7%D9%86",
+    "summary": "مدیرکل منابع طبیعی و آبخیزداری کهگیلویه و بویراحمد از برداشت حدود ۲۵ تن شیرابه گیاهان دارویی باریجه و آنغوزه به ارزش ۶۷۵ میلیارد ریال در مراتع این استان خبر داد.",
+    "published": "Sun, 18 Oct 2026 07:41:21 GMT",
+    "collected_at": "2026-10-18T11:14:04.328447+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -1796,30 +1756,6 @@
     "summary": "یزد- سرپرست اداره کل تعزیرات حکومتی یزد از محکومیت یک واحد صنفی کارواش به پرداخت ۸ میلیارد و ۲۰ میلیون ریال جریمه نقدی به دلیل نگهداری ۲ هزار و ۵۰۰ لیتر سوخت قاچاق خبر داد.",
     "published": "Sat, 17 Oct 2026 08:18:47 GMT",
     "collected_at": "2026-10-17T11:57:16.111784+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "اختصاص ۱۷۸ میلیارد ریال مالیات نشاندار به ۷ پروژه عمرانی جهاد کشاورزی همدان",
-    "link": "https://www.isna.ir/news/1405072516415/%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%DB%B1%DB%B7%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D9%86%D8%B4%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%A8%D9%87-%DB%B7-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B9%D9%85%D8%B1%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D8%AF",
-    "summary": "معاون برنامه ریزی و اقتصادی سازمان جهاد کشاورزی استان همدان از قرار گرفتن ۷ پروژه عمرانی این سازمان در فهرست پروژه های مشمول طرح نشان دار کردن مالیات ها در سال ۱۴۰۵ خبر داد و گفت: اعتبار مورد نیاز برای اجرای این پروژه ها در مجموع ۱۷۸ میلیارد ریال برآورد شده است.",
-    "published": "Sat, 17 Oct 2026 07:39:54 GMT",
-    "collected_at": "2026-10-17T11:17:17.760485+03:30",
     "market_score": 7,
     "market_matches": {
       "currency": [

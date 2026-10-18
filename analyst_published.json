@@ -5324,5 +5324,34 @@
     "group_thread_id": 25,
     "group_message_id": 383,
     "published_at": "2026-10-18T09:17:37.389379+03:30"
+  },
+  "https://t.me/nasiirry/17523": {
+    "item": {
+      "analyst": "حسین نصیری",
+      "title": "اخبار امروز رو با هشدار تازه آمریکا به ایران شروع میکنیم",
+      "summary": "وزیر جنگ آمریکا گفته ایران باید بین توافق و ادامه درگیری یکی رو انتخاب کنه\nتنش ها داره بیشتر میشه،\nقیمت نفت هم هفته پیش اینو نشون میداد ...",
+      "source": "حسین نصیری",
+      "link": "https://t.me/nasiirry/17523",
+      "analysis_score": 4,
+      "market_matches": [
+        "قیمت نفت",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-18T11:14:34.323346+03:30"
+    },
+    "first_seen_at": "2026-10-18T11:14:35.553092+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-18T11:14:36.028095+03:30",
+    "telegram_message_id": 679,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-18T11:14:37.315358+03:30",
+    "eitaa_message_id": 177030046,
+    "group_sent": true,
+    "group_sent_at": "2026-10-18T11:14:37.819633+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 384,
+    "published_at": "2026-10-18T11:14:37.823382+03:30"
   }
 }
