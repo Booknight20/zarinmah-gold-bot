@@ -139,36 +139,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "ثبت کاهش هفتگی؛ سهم تعطیلات طلای جهانی",
-    "link": "https://www.isna.ir/news/1405072516337/%D8%AB%D8%A8%D8%AA-%DA%A9%D8%A7%D9%87%D8%B4-%D9%87%D9%81%D8%AA%DA%AF%DB%8C-%D8%B3%D9%87%D9%85-%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%D8%A7%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-    "summary": "قیمت طلا در معاملات روز جمعه بازار جهانی تغییر چندانی نداشت و تحت تاثیر انتشار آمارهای تورمی فراتر از حد انتظار آمریکا و احتمال افزایش بیشتر نرخ بهره توسط فدرال رزرو در سال جاری، کاهش هفتگی را ثبت کرد.",
-    "published": "Sat, 17 Oct 2026 06:39:54 GMT",
-    "collected_at": "2026-10-17T10:15:28.629064+03:30",
-    "market_score": 30,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "طلای جهانی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "نرخ بهره",
-      "فدرال رزرو",
-      "تورم"
-    ],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت طلا، دلار و سکه امروز یکشنبه ۲۶ مهر ۱۴۰۵/ ریزش قیمت ها ادامه دارد؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302542-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
@@ -732,32 +702,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "سرقت ۵۰ میلیارد ریالی عروس از گاوصندوق خانواده شوهر!",
-    "link": "https://www.tabnak.ir/fa/news/1399080/سرقت-50-میلیارد-ریالی-عروس-از-گاوصندوق-خانواده-شوهر",
-    "summary": "رئیس پلیس آگاهی تهران، از دستگیری عروسی خبر داد که متهم است ۲۵۰ گرم طلای پدرشوهرش به ارزش ۵۰ میلیارد ریال را با بدل جایگزین و طلای اصلی را فروخته است.",
-    "published": "17 Oct 2026 09:50:01 +0330",
-    "collected_at": "2026-10-17T09:57:34.636033+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا و سکه امروز یکشنبه ۲۶ مهر ۱۴۰۵/ کاهش قیمت طلا و سکه",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302526-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
@@ -1025,32 +969,6 @@
     "gold_matches": [
       "طلا",
       "مثقال طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "طلا در آستانه ثبت افت هفتگی / قیمت اونس طلا در یک هفته ۰.۷ درصد کاهش یافت",
-    "link": "https://www.khabaronline.ir/news/2289353/%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%AB%D8%A8%D8%AA-%D8%A7%D9%81%D8%AA-%D9%87%D9%81%D8%AA%DA%AF%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%87%D9%81%D8%AA%D9%87-%DB%B0-%DB%B7-%D8%AF%D8%B1%D8%B5%D8%AF",
-    "summary": "بهای هر اونس طلا در بازارهای جهانی در یک هفته گذشته حدود ۰.۷ درصد کاهش یافت.",
-    "published": "Sat, 17 Oct 2026 06:14:00 GMT",
-    "collected_at": "2026-10-17T09:57:32.730865+03:30",
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "اونس طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
@@ -2065,102 +1983,6 @@
     "gold_matches": [],
     "currency_matches": [
       "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "هزینه ۴۱ میلیون دلاری برای تأمین امنیت اقامتگاه های نتانیاهو",
-    "link": "https://www.isna.ir/news/1405072516358/%D9%87%D8%B2%DB%8C%D9%86%D9%87-%DB%B4%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A7%D9%82%D8%A7%D9%85%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88",
-    "summary": "یک رسانه عبری گزارش داد بین سال های ۲۰۲۳ تا ۲۰۲۶، ۴۱ میلیون دلار برای تأمین امنیت اقامتگاه های نخست وزیر رژیم صهیونیستی هزینه شده است.",
-    "published": "Sat, 17 Oct 2026 06:55:48 GMT",
-    "collected_at": "2026-10-17T10:27:11.484415+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "قاچاقچی سوخت در سنندج به پرداخت ۷۲ میلیارد ریال جزای نقدی محکوم شد",
-    "link": "https://www.isna.ir/news/1405072516338/%D9%82%D8%A7%DA%86%D8%A7%D9%82%DA%86%DB%8C-%D8%B3%D9%88%D8%AE%D8%AA-%D8%AF%D8%B1-%D8%B3%D9%86%D9%86%D8%AF%D8%AC-%D8%A8%D9%87-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%DB%B7%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AC%D8%B2%D8%A7%DB%8C-%D9%86%D9%82%D8%AF%DB%8C-%D9%85%D8%AD%DA%A9%D9%88%D9%85",
-    "summary": "مدیرکل تعزیرات حکومتی کردستان از محکومیت قاچاقچی سوخت در سنندج به پرداخت ۷۲ میلیارد ریال جزای نقدی به دلیل قاچاق ۲۸ هزار لیتر نفت گاز خبر داد.",
-    "published": "Sat, 17 Oct 2026 06:41:04 GMT",
-    "collected_at": "2026-10-17T10:15:28.629054+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "طرح آبرسانی به روستاهای خوی با ۸۰ میلیارد ریال اجرا شد",
-    "link": "https://www.mehrnews.com/news/6980052/%D8%B7%D8%B1%D8%AD-%D8%A2%D8%A8%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%87%D8%A7%DB%8C-%D8%AE%D9%88%DB%8C-%D8%A8%D8%A7-%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A7%D8%AC%D8%B1%D8%A7-%D8%B4%D8%AF",
-    "summary": "ارومیه - مدیرعامل شرکت آب و فاضلاب شهرستان خوی از اجرای طرح آبرسانی به روستاهای بلسور و علیا با اعتبار ۸۰ میلیارد ریال خبر داد.",
-    "published": "Sat, 17 Oct 2026 06:27:50 GMT",
-    "collected_at": "2026-10-17T10:04:23.861470+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "کلاهبرداری ۱۰۰ میلیارد ریالی با رمزارزهای جعلی در پوشش خرید خودرو",
-    "link": "https://www.mehrnews.com/news/6980064/%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%A8%D8%A7-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%AC%D8%B9%D9%84%DB%8C-%D8%AF%D8%B1-%D9%BE%D9%88%D8%B4%D8%B4-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
-    "summary": "رئیس پلیس فتا تهران بزرگ از دستگیری متهمانی خبر داد که با پرداخت رمزارزهای جعلی به فروشندگان خودرو در پلتفرم های دیوار و شیپور، از ۱۵ نفر بیش از ۱۰۰ میلیارد ریال کلاهبرداری کردند.",
-    "published": "Sat, 17 Oct 2026 06:31:51 GMT",
-    "collected_at": "2026-10-17T10:04:23.861438+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
