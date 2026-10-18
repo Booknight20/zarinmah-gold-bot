@@ -5658,5 +5658,63 @@
     "group_thread_id": 25,
     "group_message_id": 401,
     "published_at": "2026-10-18T14:47:55.023987+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8569": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "صندوق‌های طلا و نقره تقریبا با منفی 2 درصد کار امروز رو شروع کردن ‼️ طلا 18 عیار: 25/800/000 توما...",
+      "summary": "صندوق‌های طلا و نقره تقریبا با منفی 2 درصد کار امروز رو شروع کردن ‼️ طلا 18 عیار: 25/800/000 تومان نقره 925: 442/000 تومان تتر: 259/990 تومان بیت کوین: 81/720 دلار ⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8569",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "دلار",
+        "صندوق‌های طلا"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-18T15:14:19.756798+03:30"
+    },
+    "first_seen_at": "2026-10-18T15:14:20.604553+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-18T15:14:21.268347+03:30",
+    "telegram_message_id": 698,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-18T15:14:22.713030+03:30",
+    "eitaa_message_id": 177076867,
+    "group_sent": true,
+    "group_sent_at": "2026-10-18T15:14:23.326736+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 403,
+    "published_at": "2026-10-18T15:14:23.330337+03:30"
+  },
+  "https://t.me/rahavard365/58540": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "🔴 وضعیت اندیکاتوری سهام بازار",
+      "summary": "✔️ هر معامله‌گر ممکن است برای بررسی وضعیت تکنیکال بازار از اندیکاتورهای متفاوتی استفاده کند؛\nاما بررسی صدها نماد با چندین اندیکاتور به‌صورت همزمان، زمان‌بر است.\n🔴 در این گزارش، وضعیت سهام بازار به‌صورت تجمیعی و بر اساس ۶ اندیکاتور پرکاربرد شامل:\n⬅ اندیکاتور RSI\n⬅ اندیکاتور MACD\n⬅ اندیکاتور CCI",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58540",
+      "analysis_score": 4,
+      "market_matches": [
+        "نماد"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-18T15:14:20.404843+03:30"
+    },
+    "first_seen_at": "2026-10-18T15:14:23.333508+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-18T15:14:23.858083+03:30",
+    "telegram_message_id": 699,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-18T15:14:24.818934+03:30",
+    "eitaa_message_id": 177076871,
+    "group_sent": true,
+    "group_sent_at": "2026-10-18T15:14:25.350788+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 404,
+    "published_at": "2026-10-18T15:14:25.354848+03:30"
   }
 }
