@@ -1235,53 +1235,5 @@
     },
     "driver_matches": [],
     "major_event_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "کشف محموله ۲۸ میلیارد ریالی کالای قاچاق در رودان",
-    "link": "https://www.mehrnews.com/news/6980756/%DA%A9%D8%B4%D9%81-%D9%85%D8%AD%D9%85%D9%88%D9%84%D9%87-%DB%B2%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%DA%A9%D8%A7%D9%84%D8%A7%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%AF%D8%B1-%D8%B1%D9%88%D8%AF%D8%A7%D9%86",
-    "summary": "رودان - فرمانده انتظامی رودان از کشف محموله ۲۸ میلیارد ریالی کالای قاچاق شامل لوازم آرایشی و بهداشتی، پوشاک و پارچه در این شهرستان خبر داد.",
-    "published": "Sat, 17 Oct 2026 15:56:02 GMT",
-    "collected_at": "2026-10-17T19:45:26.736551+03:30",
-    "market_score": 3,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "کشف ۱۲ دستگاه ماشین لباسشویی قاچاق به ارزش ۱۵ میلیارد ریال در بندرخمیر",
-    "link": "https://www.mehrnews.com/news/6980764/%DA%A9%D8%B4%D9%81-%DB%B1%DB%B2-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D9%84%D8%A8%D8%A7%D8%B3%D8%B4%D9%88%DB%8C%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%DB%B1%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1",
-    "summary": "بندرعباس - فرمانده انتظامی بندرخمیر از کشف ۱۲ دستگاه ماشین لباسشویی قاچاق به ارزش ۱۵ میلیارد ریال در بازرسی از یک دستگاه وانت در این شهرستان خبر داد.",
-    "published": "Sat, 17 Oct 2026 15:56:42 GMT",
-    "collected_at": "2026-10-17T19:45:26.736542+03:30",
-    "market_score": 3,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "بورس زعفران فاروج در آستانه بهره برداری",
-    "link": "https://www.isna.ir/news/1405072516830/%D8%A8%D9%88%D8%B1%D8%B3-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D9%88%D8%AC-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A8%D9%87%D8%B1%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C",
-    "summary": "استاندار خراسان شمالی اظهار کرد: بورس زعفران فاروج در آستانه بهره برداری است.",
-    "published": "Sat, 17 Oct 2026 15:45:49 GMT",
-    "collected_at": "2026-10-17T19:45:21.634964+03:30",
-    "market_score": 3,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
   }
 ]
