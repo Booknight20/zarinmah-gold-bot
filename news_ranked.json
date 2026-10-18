@@ -467,36 +467,6 @@
     ]
   },
   {
-    "source": "ایسنا",
-    "title": "نفت برنت به ۱۱۰ دلار صعود کرد",
-    "link": "https://www.isna.ir/news/1405072516276/%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%DB%B1%DB%B1%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF-%DA%A9%D8%B1%D8%AF",
-    "summary": "قیمت نفت برنت در معاملات روز جمعه بازار جهانی، به دلیل نگرانی ها از اینکه تشدید تنش ها در خاورمیانه می تواند عرضه را محدودتر کند، برای اولین بار از ماه مه، به ۱۱۰ دلار در هر بشکه صعود کرد.",
-    "published": "Sat, 17 Oct 2026 05:54:12 GMT",
-    "collected_at": "2026-10-17T09:27:09.542733+03:30",
-    "market_score": 19,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [
-      "قیمت نفت"
-    ]
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "ورود بورس به فاز احتیاط",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4302377-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D9%81%D8%A7%D8%B2-%D8%A7%D8%AD%D8%AA%DB%8C%D8%A7%D8%B7",
@@ -520,6 +490,62 @@
       "شاخص هم وزن",
       "فرابورس"
     ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۲۵ مهر ۱۴۰۵/ دلار ۳ هزار تومان ارزان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2289443/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B5-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1",
+    "summary": "قیمت دلار، یورو و سایر ارزها اعلام شد و قیمت دلار با کاهش ۳ هزار و ۱۰۰ تومانی، در قیمت ۲۶۴ هزار و ۸۰۰ تومان قرار گرفت.",
+    "published": "Sat, 17 Oct 2026 08:50:00 GMT",
+    "collected_at": "2026-10-18T08:43:59.454839+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۶ مهر ۱۴۰۵ در زمان بازگشایی بازار/ قیمت دلار ۴۱۰۰ تومان کاهش یافت + جدول",
+    "link": "https://www.khabaronline.ir/news/2289709/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
+    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۲۶ مهر ۱۴۰۵ اعلام شد و دلار با کاهش ۴ هزار و ۱۰۰ تومانی به کانال ۲۶۳ هزار تومان عقب نشینی کرد.",
+    "published": "Sun, 18 Oct 2026 05:10:00 GMT",
+    "collected_at": "2026-10-18T08:43:59.454598+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
   },
@@ -751,32 +777,6 @@
     "market_matches": {
       "currency": [
         "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "سرقت طلا از گاوصندوق پدرشوهر؛ عروس و مالخر دستگیر شدند",
-    "link": "https://www.mehrnews.com/news/6979992/%D8%B3%D8%B1%D9%82%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%DA%AF%D8%A7%D9%88%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%BE%D8%AF%D8%B1%D8%B4%D9%88%D9%87%D8%B1-%D8%B9%D8%B1%D9%88%D8%B3-%D9%88-%D9%85%D8%A7%D9%84%D8%AE%D8%B1-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF%D9%86%D8%AF",
-    "summary": "رئیس پلیس آگاهی تهران، از دستگیری عروسی خبر داد که متهم است ۲۵۰ گرم طلای پدرشوهرش به ارزش ۵۰ میلیارد ریال را با بدل جایگزین و طلای اصلی را فروخته است.",
-    "published": "Sat, 17 Oct 2026 05:41:46 GMT",
-    "collected_at": "2026-10-17T09:17:11.033502+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "gold": [
-        "طلا"
       ]
     },
     "driver_matches": [],
@@ -2149,6 +2149,78 @@
     "medium_impact_matches": []
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "پیش بینی رکوردهای جدید طلا در دو سال آینده/ بانک های مرکزی ۶۳ تن طلا خریدند",
+    "link": "https://www.khabaronline.ir/news/2289734/%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%AF%D9%88-%D8%B3%D8%A7%D9%84-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%DB%B6%DB%B3",
+    "summary": "یک روزنامه بریتانیایی اعلام کرد: سرمایه گذاران انتظار دارند قیمت جهانی طلا طی دو سال آینده رکوردهای تاریخی تازه ای ثبت کند؛ پیش بینی ای که هم زمان با افزایش خرید بانک های مرکزی و تشدید نگرانی ها درباره وضعیت اقتصاد جهانی مطرح شده است. این در شرایطی است که رکورد خرید ۶۳ تن طلا توسط بانک های مرکزی زده شده است.",
+    "published": "Sun, 18 Oct 2026 04:55:00 GMT",
+    "collected_at": "2026-10-18T08:43:59.454628+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "طلای تاریخی برای ایران در اسکیت سرعت قهرمانی جهان",
+    "link": "https://www.mehrnews.com/news/6981050/%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%D8%B3%DA%A9%DB%8C%D8%AA-%D8%B3%D8%B1%D8%B9%D8%AA-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86",
+    "summary": "نخستین طلای تاریخ اسکیت سرعت ایران در مسابقات قهرمانی جهان توسط امیرمهدی یاحقی به دست آمد.",
+    "published": "Sun, 18 Oct 2026 04:52:43 GMT",
+    "collected_at": "2026-10-18T08:43:51.111781+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "ویدیو/ طلای سنگین وزن کشتی ایران در جهانی لاس وگاس",
+    "link": "https://www.isna.ir/news/1405072616978/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%84%D8%A7%D8%B3-%D9%88%DA%AF%D8%A7%D8%B3-%D9%BE",
+    "summary": "در وزن ۱۲۵ کیلوگرم رقابتهای کشتی آزاد قهرمانی زیر ۲۳ سال جهان در لاس وگاس، ابوالفضل محمدنژاد در دیدار فینال برابر آبرامیشویلی از گرجستان به روی تشک رفت و در پایان با امتیاز عالی ۱۰ بر صفر به برتری رسید و صاحب مدال طلا شد.",
+    "published": "Sun, 18 Oct 2026 04:45:26 GMT",
+    "collected_at": "2026-10-18T08:43:46.461689+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "تابناک",
     "title": "شاهکار آزادکاران ایران در پنج وزن: ۲ طلا و ۳ برنز",
     "link": "https://www.tabnak.ir/fa/news/1399214/شاهکار-آزادکاران-ایران-در-پنج-وزن-2-طلا-و-3-برنز",
@@ -2456,30 +2528,6 @@
     "currency_matches": [
       "ارز"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "سرقت ۳ کیلو طلا با نقشه ای هولناک در اهواز",
-    "link": "https://www.tabnak.ir/fa/news/1399072/سرقت-3-کیلو-طلا-با-نقشه-ای-هولناک-در-اهواز",
-    "summary": "معاون دادستان مرکز خوزستان از دستگیری یکی از ۲ متهم پرونده سرقت ۳ کیلوگرم طلا در اهواز خبر داد و گفت: سارقان با معرفی خود به عنوان مأمور کلانتری، طلافروش را فریب دادند و نقشه سرقت را اجرا کردند.",
-    "published": "17 Oct 2026 08:52:48 +0330",
-    "collected_at": "2026-10-17T09:04:23.910294+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
