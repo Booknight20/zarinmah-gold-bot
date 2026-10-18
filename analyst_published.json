@@ -5745,5 +5745,34 @@
     "group_thread_id": 25,
     "group_message_id": 407,
     "published_at": "2026-10-18T15:45:49.309776+03:30"
+  },
+  "https://t.me/drarashamini/7202": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "فردا ویس مهمی راجب آینده طلا و کسب بازده دلاری تقریبا بدون ریسک در کانال درج میشه.",
+      "summary": "فردا ویس مهمی راجب آینده طلا و کسب بازده دلاری تقریبا بدون ریسک در کانال درج میشه.\nپس حتما عضو کانال بشید.",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7202",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "دلار"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-18T19:17:47.268701+03:30"
+    },
+    "first_seen_at": "2026-10-18T19:17:50.924682+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-18T19:17:51.364539+03:30",
+    "telegram_message_id": 708,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-18T19:17:52.399101+03:30",
+    "eitaa_message_id": 177113028,
+    "group_sent": true,
+    "group_sent_at": "2026-10-18T19:17:52.830357+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 416,
+    "published_at": "2026-10-18T19:17:52.836725+03:30"
   }
 }
