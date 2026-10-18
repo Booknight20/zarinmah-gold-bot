@@ -33,6 +33,7 @@ TEHRAN = ZoneInfo(
 
 PREVIOUS_FILE = "previous_prices.json"
 STATUS_FILE = "send_status.json"
+LIVE_GOLD_STATE_FILE = "live_gold_price_state.json"
 
 ASSETS = (
     "gold18",
@@ -1751,10 +1752,202 @@ def send_to_eitaa(
 
 
 # =========================================================
+# قیمت لحظه‌ای طلای ۱۸ عیار برای دکمه شیشه‌ای
+# این مسیر مستقل است و ارسال‌های ساعتی/ایتا/تحلیل را اجرا نمی‌کند.
+# =========================================================
+
+def load_live_gold_state():
+    if not os.path.exists(LIVE_GOLD_STATE_FILE):
+        return {}
+
+    try:
+        with open(LIVE_GOLD_STATE_FILE, "r", encoding="utf-8") as file:
+            data = json.load(file)
+        return data if isinstance(data, dict) else {}
+    except (OSError, json.JSONDecodeError) as error:
+        print("Could not load live gold price state:", repr(error))
+        return {}
+
+
+def save_live_gold_state(state):
+    temporary_file = LIVE_GOLD_STATE_FILE + ".tmp"
+    with open(temporary_file, "w", encoding="utf-8") as file:
+        json.dump(state, file, ensure_ascii=False, indent=2)
+    os.replace(temporary_file, LIVE_GOLD_STATE_FILE)
+
+
+def call_telegram_api(method, payload):
+    if not BOT_TOKEN:
+        raise RuntimeError("TELEGRAM_BOT_TOKEN تنظیم نشده است.")
+
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/{method}"
+    response = requests.post(url, json=payload, timeout=30)
+    print(f"Telegram {method} HTTP status:", response.status_code)
+    response.raise_for_status()
+
+    try:
+        result = response.json()
+    except ValueError as error:
+        raise RuntimeError(f"Telegram {method} پاسخ JSON معتبر برنگرداند.") from error
+
+    if not result.get("ok"):
+        raise RuntimeError(f"Telegram API error in {method}: {result}")
+
+    return result.get("result")
+
+
+def live_gold_message_text(now, price_available=True):
+    update_time = to_persian_digits(now.strftime("%H:%M"))
+
+    if price_available:
+        return (
+            "✨ <b>زرین ماه | قیمت لحظه‌ای طلا</b>\n"
+            "برای دیدن منبع قیمت، دکمه آبی زیر را لمس کنید.\n"
+            f"⏱ آخرین به‌روزرسانی: <b>{update_time}</b> به وقت تهران\n"
+            "🔄 به‌روزرسانی خودکار هر ۱۰ دقیقه، از ساعت ۰۹:۰۰ تا ۲۲:۰۰"
+        )
+
+    return (
+        "⚠️ <b>قیمت معتبر طلای ۱۸ عیار فعلاً از کانال نوسان دریافت نشد.</b>\n"
+        "برای جلوگیری از نمایش عدد قدیمی، دکمه قیمت موقتاً برداشته شده است.\n"
+        f"⏱ آخرین بررسی: <b>{update_time}</b> به وقت تهران\n"
+        "🔄 بررسی مجدد در نوبت ۱۰ دقیقه‌ای بعدی انجام می‌شود."
+    )
+
+
+def live_gold_keyboard(price, source_link):
+    price_text = to_persian_digits(f"{price:,}")
+    button_text = f"💰 قیمت لحظه‌ای طلای ۱۸ عیار | {price_text} تومان"
+
+    # Telegram URL buttons need a valid URL. If the scraped link is absent,
+    # use the public Navasan channel rather than inventing a post link.
+    if not source_link or not source_link.startswith(("https://", "http://")):
+        source_link = "https://t.me/navasanchannel"
+
+    return {
+        "inline_keyboard": [[
+            {
+                "text": button_text,
+                "url": source_link,
+            }
+        ]]
+    }
+
+
+def update_live_gold_price():
+    """Create or edit one price message in the existing hourly-price topic."""
+    now = datetime.now(TEHRAN)
+
+    # This is intentionally separate from the hourly bot's Friday/holiday rules.
+    if not (9 <= now.hour < 22):
+        print("Live gold button is outside its Tehran-time window (09:00-21:59); skipping.")
+        return
+
+    state = load_live_gold_state()
+
+    print("Fetching the latest valid 18-karat gold price from Navasan...")
+    try:
+        posts = fetch_channel_posts(NAVASAN_CHANNEL, max_pages=3)
+        latest = get_latest_navasan_asset_price(posts, "gold18")
+    except Exception as error:
+        print("Could not fetch a fresh Navasan gold price:", repr(error))
+        latest = None
+
+    message_id = state.get("message_id")
+
+    if not latest:
+        if not message_id:
+            print("No valid Navasan price and no existing message; no message will be created.")
+            return
+
+        payload = {
+            "chat_id": GROUP,
+            "message_id": int(message_id),
+            "text": live_gold_message_text(now, price_available=False),
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+            "reply_markup": {"inline_keyboard": []},
+        }
+        call_telegram_api("editMessageText", payload)
+        state.update({
+            "message_id": int(message_id),
+            "chat_id": GROUP,
+            "message_thread_id": GROUP_PRICE_THREAD_ID,
+            "last_price": None,
+            "source_link": "",
+            "status": "price_unavailable",
+        })
+        save_live_gold_state(state)
+        print("Existing live-price message updated to indicate that no fresh price is available.")
+        return
+
+    price = int(latest["price"])
+    source_link = latest.get("link", "")
+    keyboard = live_gold_keyboard(price, source_link)
+    text = live_gold_message_text(now, price_available=True)
+
+    if message_id:
+        payload = {
+            "chat_id": GROUP,
+            "message_id": int(message_id),
+            "text": text,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+            "reply_markup": keyboard,
+        }
+        try:
+            call_telegram_api("editMessageText", payload)
+            actual_message_id = int(message_id)
+            print("Existing live-price message and button updated.")
+        except Exception as error:
+            error_text = str(error).lower()
+            if "message to edit not found" not in error_text and "message_id_invalid" not in error_text:
+                raise
+            print("Saved live-price message was not found; creating a replacement message.")
+            message = call_telegram_api("sendMessage", {
+                "chat_id": GROUP,
+                "message_thread_id": GROUP_PRICE_THREAD_ID,
+                "text": text,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": True,
+                "reply_markup": keyboard,
+            })
+            actual_message_id = int(message["message_id"])
+    else:
+        message = call_telegram_api("sendMessage", {
+            "chat_id": GROUP,
+            "message_thread_id": GROUP_PRICE_THREAD_ID,
+            "text": text,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+            "reply_markup": keyboard,
+        })
+        actual_message_id = int(message["message_id"])
+        print("First live-price message created in the hourly-price topic.")
+
+    state.update({
+        "message_id": actual_message_id,
+        "chat_id": GROUP,
+        "message_thread_id": GROUP_PRICE_THREAD_ID,
+        "last_price": price,
+        "source_link": source_link,
+        "source_message_id": latest.get("message_id"),
+        "source_posted_at": latest.get("posted_at"),
+        "status": "ok",
+    })
+    save_live_gold_state(state)
+    print("Live 18-karat gold price updated:", f"{price:,}", "toman")
+
+
+# =========================================================
 # اجرای اصلی
 # =========================================================
 
 def main():
+
+    if os.environ.get("LIVE_GOLD_PRICE_ONLY", "").strip().lower() == "true":
+        update_live_gold_price()
+        return
 
     print(
         "================================="
