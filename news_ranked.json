@@ -133,34 +133,6 @@
   },
   {
     "source": "تابناک",
-    "title": "قیمت طلا و سکه امروز ۲۵ مهر / سکه امامی رکوردار ریزش امروز شد!",
-    "link": "https://www.tabnak.ir/fa/news/1399112/قیمت-طلا-و-سکه-امروز-25-مهر-سکه-امامی-رکوردار-ریزش-امروز-شد",
-    "summary": "قیمت طلا و سکه امروز مسیر دیگری را انتخاب کرد به طوری که در میان همه ی نرخ های داخلی، تنها یک رقم رشد کرد و انس جهانی ۶ دلار بالاتر از دیروز اما طلا و هر چهار قطعه سکه، همگی نزولی شد که این یعنی بازار داخلی امروز، در مقابل یک بازار جهانی نسبتاً صعودی، سرخ پوش شد.",
-    "published": "17 Oct 2026 13:46:27 +0330",
-    "collected_at": "2026-10-17T13:57:25.684150+03:30",
-    "market_score": 27,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
     "title": "نفت چرا دوباره گران شد؟ / اثر نفت ۱۱۰ دلاری بر تورم جهانی!",
     "link": "https://www.tabnak.ir/fa/news/1399111/نفت-چرا-دوباره-گران-شد-اثر-نفت-110-دلاری-بر-تورم-جهانی",
     "summary": "قیمت نفت برنت در ۱۶ اکتبر به ۱۰۹٫۸۶ دلار رسید. افزایش قیمت نفت فقط بازار انرژی را متأثر نمی کند؛ شوک نفتی می تواند از مسیر سوخت، حمل ونقل، پتروشیمی و هزینه تولید به تورم عمومی منتقل شود.",
@@ -681,6 +653,32 @@
     "medium_impact_matches": []
   },
   {
+    "source": "مهر",
+    "title": "امکان مصالحه ریالی برای تعهدات ارزی ایفا نشده ۱۳۹۷ تا ۱۴۰۰ فراهم شد",
+    "link": "https://www.mehrnews.com/news/6981600/%D8%A7%D9%85%DA%A9%D8%A7%D9%86-%D9%85%D8%B5%D8%A7%D9%84%D8%AD%D9%87-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%DB%8C%D9%81%D8%A7-%D9%86%D8%B4%D8%AF%D9%87-%DB%B1%DB%B3%DB%B9%DB%B7-%D8%AA%D8%A7-%DB%B1%DB%B4%DB%B0%DB%B0-%D9%81%D8%B1%D8%A7%D9%87%D9%85",
+    "summary": "صادرکنندگان دارای تعهدات ارزی ایفا نشده مربوط به سال های ۱۳۹۷ لغایت ۱۴۰۰ به منظور رفع تعهد صادراتی خود می توانند با انجام مصالحه ریالی تا پایان سال ۱۴۰۵ اقدام به ایفای تعهدات کنند.",
+    "published": "Sun, 18 Oct 2026 10:41:47 GMT",
+    "collected_at": "2026-10-18T14:17:11.780564+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "ارز",
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز",
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۲۶ مهر ۱۴۰۵ در زمان بازگشایی بازار/ مثقال طلا ۴۱۳ هزار تومان ارزان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2289705/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
@@ -920,54 +918,27 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مشرق",
-    "title": "ریزش ۱۳۲ هزار واحدی شاخص بورس تهران",
-    "link": "https://www.mashreghnews.ir/news/1846196/%D8%B1%DB%8C%D8%B2%D8%B4-%DB%B1%DB%B3%DB%B2-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-    "summary": "شاخص کل بورس تهران نخستین روز هفته را با کاهش ۱۳۲ هزار واحدی و عقبگرد به کانال ۸.۲ میلیون واحد آغاز کرد.",
-    "published": "Sat, 17 Oct 2026 10:24:06 GMT",
-    "collected_at": "2026-10-17T13:57:28.789280+03:30",
+    "source": "تابناک",
+    "title": "قیمت طلا و سکه امروز ۲۶ مهر / گران ترین سکه بازار، بازنده امروز شد !",
+    "link": "https://www.tabnak.ir/fa/news/1399278/قیمت-طلا-و-سکه-امروز-26-مهر-گران-ترین-سکه-بازار-بازنده-امروز-شد",
+    "summary": "قیمت طلا و سکه امروز با کاهشی همگانی اما آرام مواجه شد؛ کاهشی که نه خبری از فروش های هیجانی در آن بود، نه نشانه ای از سقوط آزاد قیمت اما این آرامش نسبی، در نگاه اول نشانه ثبات به نظر برسد، اما ممکن است بازار آن را نشانه چیزی دیگر بداند و آن آرامش پیش از یک حرکت بزرگ باشد.",
+    "published": "18 Oct 2026 14:09:35 +0330",
+    "collected_at": "2026-10-18T14:17:28.590770+03:30",
     "market_score": 10,
     "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص بورس"
+      "gold": [
+        "طلا"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
     "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
+    "gold_matches": [
+      "طلا",
+      "سکه"
     ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "ریزش ۱۶۰ هزار واحدی شاخص کل بورس؛ صف های فروش به ۵۲۶ نماد رسید",
-    "link": "https://www.mehrnews.com/news/6980423/%D8%B1%DB%8C%D8%B2%D8%B4-%DB%B1%DB%B6%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B5%D9%81-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D9%88%D8%B4-%D8%A8%D9%87-%DB%B5%DB%B2%DB%B6-%D9%86%D9%85%D8%A7%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "شاخص کل بورس تهران در پایان معاملات امروز شنبه ۲۵ مهرماه با افت ۱.۹۱ درصدی، بیش از ۱۶۰ هزار واحد کاهش یافت و به سطح ۸ میلیون و ۲۶۵ هزار واحد رسید",
-    "published": "Sat, 17 Oct 2026 10:21:17 GMT",
-    "collected_at": "2026-10-17T13:57:12.482437+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
     "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
+    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
   },
@@ -1140,6 +1111,30 @@
     "driver_matches": [
       "نفت"
     ],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مشرق",
+    "title": "سخنگوی استقلال خوزستان: پرسپولیس یک میلیون دلار ندهد، محروم می شود",
+    "link": "https://www.mashreghnews.ir/news/1846401/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%DB%8C%DA%A9-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%86%D8%AF%D9%87%D8%AF-%D9%85%D8%AD%D8%B1%D9%88%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "رئیس و سخنگوی هیئت مدیره باشگاه استقلال خوزستان گفت پرسپولیس برای جذب بیفوما باید یک میلیون دلار پرداخت کند.",
+    "published": "Sun, 18 Oct 2026 10:35:44 GMT",
+    "collected_at": "2026-10-18T14:17:31.344366+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
     "major_event_matches": [],
     "priority": "low",
     "gold_matches": [],
@@ -1661,30 +1656,6 @@
     "summary": "گرگان- مدیرکل تعزیرات حکومتی گلستان از محکومیت یک متخلف به پرداخت بیش از ۱۸ میلیارد و ۹۰۰ میلیون ریال جزای نقدی در پرونده قاچاق یک هزار و ۲۷۹ باکس انواع سیگار در گنبدکاووس خبر داد.",
     "published": "Sat, 17 Oct 2026 10:54:42 GMT",
     "collected_at": "2026-10-17T14:35:56.526632+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "کلاهبردار ۴۰ میلیارد ریالی بازار سنگ در خمینی شهر به دام افتاد",
-    "link": "https://www.mehrnews.com/news/6980415/%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%DB%B4%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%86%DA%AF-%D8%AF%D8%B1-%D8%AE%D9%85%DB%8C%D9%86%DB%8C-%D8%B4%D9%87%D8%B1-%D8%A8%D9%87-%D8%AF%D8%A7%D9%85-%D8%A7%D9%81%D8%AA%D8%A7%D8%AF",
-    "summary": "اصفهان – فرمانده انتظامی شهرستان خمینی شهر از دستگیری متهمی متواری خبر داد که در پوشش دلال خرید و فروش سنگ های ساختمانی، بالغ بر ۴۰ میلیارد ریال از شهروندان کلاهبرداری کرده بود.",
-    "published": "Sat, 17 Oct 2026 10:10:09 GMT",
-    "collected_at": "2026-10-17T13:47:20.703329+03:30",
     "market_score": 7,
     "market_matches": {
       "currency": [
