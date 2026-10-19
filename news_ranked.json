@@ -1297,30 +1297,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "هزینه های بهره بدهی آمریکا به رکورد یک تریلیون دلار رسید",
-    "link": "https://www.isna.ir/news/1405072516899/%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D9%87%D8%B1%D9%87-%D8%A8%D8%AF%D9%87%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%DB%8C%DA%A9-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "بار بهره ی بدهی های دولت آمریکا در سال مالی ۲۰۲۶ به بالاترین سطح خود رسید و این امر سهم فزاینده ای از درآمدهای فدرال را می بلعد و خطر افزایش زنجیره وار استقراض را به همراه دارد و می تواند این کشور را در برابر شوک های اقتصادی آسیب پذیرتر سازد.",
-    "published": "Sun, 18 Oct 2026 03:30:00 GMT",
-    "collected_at": "2026-10-18T07:15:28.943179+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مشرق",
     "title": "مهدی یوسفی با شکست روسیه طلای چهارم را گرفت/ تیم ملی کشتی آزاد ایران در خاک آمریکا قهرمان شد +فیلم",
     "link": "https://www.mashreghnews.ir/news/1846530/%D9%85%D9%87%D8%AF%DB%8C-%DB%8C%D9%88%D8%B3%D9%81%DB%8C-%D8%A8%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%B7%D9%84%D8%A7%DB%8C-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%B1%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF",
@@ -1783,78 +1759,6 @@
     "summary": "رقابت های قهرمانی جهان اسکیت سرعت در پاراگوئه در حال برگزاری است و نماینده ایران در ماده ۱۰۰ متر جوانان به مدال طلا دست یافت.",
     "published": "Sun, 18 Oct 2026 04:11:48 GMT",
     "collected_at": "2026-10-18T07:43:56.777458+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "اولین طلای کشتی آزاد ایران به نام رحمانی ثبت شد",
-    "link": "https://www.mehrnews.com/news/6981017/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D9%86%D8%A7%D9%85-%D8%B1%D8%AD%D9%85%D8%A7%D9%86%DB%8C-%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF",
-    "summary": "در رقابت های کشتی آزاد زیر ۲۳ سال قهرمانی جهان در آمریکا ابوالفضل رحمانی در وزن ۹۲ کیلوگرم به مدال خوش رنگ طلا رسید.",
-    "published": "Sun, 18 Oct 2026 03:34:02 GMT",
-    "collected_at": "2026-10-18T07:15:30.782961+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "ابوالفضل محمدنژاد صاحب دومین مدال طلا شد",
-    "link": "https://www.mehrnews.com/news/6981018/%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84-%D9%85%D8%AD%D9%85%D8%AF%D9%86%DA%98%D8%A7%D8%AF-%D8%B5%D8%A7%D8%AD%D8%A8-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D8%B4%D8%AF",
-    "summary": "در رقابت های کشتی آزاد زیر ۲۳ سال قهرمانی جهان در آمریکا ابوالفضل محمدنژاد در وزن ۱۲۵ کیلوگرم دومین مدال طلا را از آن خود کرد.",
-    "published": "Sun, 18 Oct 2026 03:38:14 GMT",
-    "collected_at": "2026-10-18T07:15:30.782934+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "محمدنژاد قهرمان سنگین وزن کشتی جهان شد/ ۲ طلا و ۳ برنز ایران در ۵ وزن نخست",
-    "link": "https://www.isna.ir/news/1405072616945/%D9%85%D8%AD%D9%85%D8%AF%D9%86%DA%98%D8%A7%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF-%DB%B2-%D8%B7%D9%84%D8%A7-%D9%88-%DB%B3-%D8%A8%D8%B1%D9%86%D8%B2-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-    "summary": "آزادکاران ایران در ۵ وزن نخست رقابت های قهرمانی زیر ۲۳ سال جهان صاحب ۲ مدال طلا و ۳ برنز شدند.",
-    "published": "Sun, 18 Oct 2026 03:27:45 GMT",
-    "collected_at": "2026-10-18T07:15:28.943192+03:30",
     "market_score": 5,
     "market_matches": {
       "gold": [
