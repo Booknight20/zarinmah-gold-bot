@@ -6227,5 +6227,38 @@
     "group_thread_id": 25,
     "group_message_id": 455,
     "published_at": "2026-10-19T11:18:32.354076+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8587": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "صندوق‌های طلا با مثبت 2 درصد و صندوق‌های نقره با مثبت 1 درصد معاملات امروز رو شروع کردن ‼️",
+      "summary": "طلا 18 عیار: 26/150/000 تومان\nنقره 925: 450/000 تومان\nتتر: 262/000 تومان\nبیت کوین: 82/725 دلار\nاونس جهانی: 4/173 دلار\n⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8587",
+      "analysis_score": 12,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "اونس جهانی",
+        "دلار",
+        "صندوق‌های طلا",
+        "صندوق‌های نقره"
+      ],
+      "priority": "high",
+      "collected_at": "2026-10-19T12:17:38.814613+03:30"
+    },
+    "first_seen_at": "2026-10-19T12:17:39.773170+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-19T12:17:40.437392+03:30",
+    "telegram_message_id": 739,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-19T12:17:41.817025+03:30",
+    "eitaa_message_id": 177214338,
+    "group_sent": true,
+    "group_sent_at": "2026-10-19T12:17:42.431447+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 458,
+    "published_at": "2026-10-19T12:17:42.437631+03:30"
   }
 }

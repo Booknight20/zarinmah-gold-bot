@@ -460,6 +460,34 @@
     "medium_impact_matches": []
   },
   {
+    "source": "مشرق",
+    "title": "تاثیر نرخ ارز بر قیمت مواد غذایی؛ از دلار تا سفره خانوار",
+    "link": "https://www.mashreghnews.ir/news/1846643/%D8%AA%D8%A7%D8%AB%DB%8C%D8%B1-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AA%D8%A7-%D8%B3%D9%81%D8%B1%D9%87-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%B1",
+    "summary": "",
+    "published": "Mon, 19 Oct 2026 07:36:00 GMT",
+    "collected_at": "2026-10-19T12:17:27.936821+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "نرخ ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۲۶ مهر ۱۴۰۵/ دلار ۲۶۰ هزار تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2289862/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B6%DB%B0",
@@ -510,34 +538,6 @@
       "دلار",
       "ارز",
       "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت دلار، یورو و درهم امروز یکشنبه ۲۶ مهر ۱۴۰۵/ افزایش قیمت دلار",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302558-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "قیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته، از 181,641 (یکصد و هشتاد و یک هزار و ششصد و چهل و یک) تومان به 182,186 (یکصد و هشتاد و دو هزار و یکصد و هشتاد و شش) تومان رسید.",
-    "published": "Sun, 18 Oct 2026 07:37:00 +0000",
-    "collected_at": "2026-10-18T11:47:43.570289+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "یورو",
-        "درهم"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "یورو",
-      "درهم"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -606,32 +606,6 @@
     "summary": "قیمت طلا امروز با افزایش 6 دلاری نسبت به روز گذشته، 4173 (چهار هزار و یکصد و هفتاد و سه) دلار نرخ گذاری شد.",
     "published": "Mon, 19 Oct 2026 04:39:24 +0000",
     "collected_at": "2026-10-19T08:17:20.518798+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا امروز یکشنبه ۲۶ مهر ۱۴۰۵",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302524-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1",
-    "summary": "قیمت طلا امروز بدون تغییر نسبت به روز گذشته، 4165 (چهار هزار و یکصد و شصت و پنج) دلار نرخ گذاری شد.",
-    "published": "Sun, 18 Oct 2026 07:44:24 +0000",
-    "collected_at": "2026-10-18T11:47:43.570242+03:30",
     "market_score": 17,
     "market_matches": {
       "gold": [
@@ -1115,6 +1089,30 @@
     ]
   },
   {
+    "source": "ایسنا",
+    "title": "اختصاص ۲۹۰ میلیارد ریال اعتبار برای پروژه های جنوب آذربایجان غربی از مالیات های نشان دار",
+    "link": "https://www.isna.ir/news/1405072718083/%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%DB%B2%DB%B9%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%AC%D9%86%D9%88%D8%A8-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86",
+    "summary": "معاون مدیرکل و مدیر امور حسابرسی مالیاتی میاندوآب از معرفی سه پروژه استانی نشان دار در سال جاری خبر داد و گفت: برای تکمیل این پروژه ها، ۲۹۰ میلیارد ریال اعتبار از محل مالیات های نشان دار اختصاص یافته است.",
+    "published": "Mon, 19 Oct 2026 08:38:36 GMT",
+    "collected_at": "2026-10-19T12:15:57.602437+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "۳۸ کیلومتر از راه های روستایی قم با اعتبار ۵۸۰ میلیارد ریال بهسازی شد",
     "link": "https://www.mehrnews.com/news/6982551/%DB%B3%DB%B8-%DA%A9%DB%8C%D9%84%D9%88%D9%85%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%B1%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C%DB%8C-%D9%82%D9%85-%D8%A8%D8%A7-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%DB%B5%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A8%D9%87%D8%B3%D8%A7%D8%B2%DB%8C",
@@ -1451,16 +1449,40 @@
     "medium_impact_matches": []
   },
   {
+    "source": "مشرق",
+    "title": "طلای آب شده بخریم یا شمش؟ هشدار کارشناس بازار طلا",
+    "link": "https://www.mashreghnews.ir/news/1846639/%D8%B7%D9%84%D8%A7%DB%8C-%D8%A2%D8%A8-%D8%B4%D8%AF%D9%87-%D8%A8%D8%AE%D8%B1%DB%8C%D9%85-%DB%8C%D8%A7-%D8%B4%D9%85%D8%B4-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7",
+    "summary": "",
+    "published": "Mon, 19 Oct 2026 07:29:00 GMT",
+    "collected_at": "2026-10-19T12:17:27.936838+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
-    "title": "۸۷ هزار میلیارد ریال در آمد مالیاتی در آذربایجان غربی وصول شد",
-    "link": "https://www.mehrnews.com/news/6981333/%DB%B8%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1-%D8%A2%D9%85%D8%AF-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%88%D8%B5%D9%88%D9%84-%D8%B4%D8%AF",
-    "summary": "ارومیه - مدیرکل امور اقتصادی و دارایی آذربایجان غربی گفت: در نیمه نخست، ۸۷ هزار و ۶۵۷ میلیارد ریال درآمد مالیاتی وصول شده است.",
-    "published": "Sun, 18 Oct 2026 07:50:24 GMT",
-    "collected_at": "2026-10-18T11:47:30.172956+03:30",
-    "market_score": 7,
+    "title": "تعاونی های مرزنشینان قربانی سیاست های ارزی است",
+    "link": "https://www.mehrnews.com/news/6982610/%D8%AA%D8%B9%D8%A7%D9%88%D9%86%DB%8C-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%B2%D9%86%D8%B4%DB%8C%D9%86%D8%A7%D9%86-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA",
+    "summary": "رئیس کمیسیون مرزنشینان اتاق تعاون با بیان اینکه تعاونی های مرزنشینان قربانی سیاست های ارزی است، گفت: پیش از ارجاع پرونده ها به مراجع قضایی، معافیت های قانونی و اسناد رفع تعهد ارزی بررسی شود.",
+    "published": "Mon, 19 Oct 2026 08:40:04 GMT",
+    "collected_at": "2026-10-19T12:16:08.740835+03:30",
+    "market_score": 5,
     "market_matches": {
       "currency": [
-        "ریال"
+        "ارز"
       ]
     },
     "driver_matches": [],
@@ -1468,7 +1490,7 @@
     "priority": "low",
     "gold_matches": [],
     "currency_matches": [
-      "ریال"
+      "ارز"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
