@@ -6445,5 +6445,34 @@
     "group_thread_id": 25,
     "group_message_id": 467,
     "published_at": "2026-10-19T13:46:24.320934+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25617": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "ایلان ماسک، میلیاردر و مدیرعامل اسپیس‌ایکس: سال آینده، به هر کودک در آمریکا یک سهم از سهام اسپیس‌ایکس هدیه خواهم داد",
+      "summary": "ایلان ماسک، میلیاردر و مدیرعامل اسپیس‌ایکس: سال آینده، به هر کودک در آمریکا یک سهم از سهام اسپیس‌ایکس هدیه خواهم داد\nحدود ۷۲ تا ۷۳ میلیون کودک در آمریکا زندگی می‌کنن.\nارزش هر سهم اسپیس‌ایکس در آخرین معاملات حدود ۱۴۶ دلار\nکل سهام اهدایی حدود ۱۰٫۵ تا ۱۰٫۷ میلیارد دلار\nاین پول میشه 1% ثروت ایلان ماسک\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25617",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "ارز"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-19T14:14:54.103769+03:30"
+    },
+    "first_seen_at": "2026-10-19T14:14:56.291873+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-19T14:14:56.801458+03:30",
+    "telegram_message_id": 750,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-19T14:14:58.067909+03:30",
+    "eitaa_message_id": 177236754,
+    "group_sent": true,
+    "group_sent_at": "2026-10-19T14:14:58.546055+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 469,
+    "published_at": "2026-10-19T14:14:58.550395+03:30"
   }
 }
