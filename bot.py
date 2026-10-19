@@ -1834,7 +1834,7 @@ def call_telegram_api(method, payload):
 def live_gold_message_text(now, price_available=True):
     # متن بیرون دکمه طبق درخواست، فقط همین عنوان باشد.
     if price_available:
-        return "<b>🔥 قیمت لحظه‌ای طلای ۱۸ عیار 🔥</b>"
+        return "<b>🔥 قیمت لحظه‌ای طلا 🔥</b>"
 
     # هنگام نبود قیمت معتبر، وضعیت هشدار حفظ می‌شود تا قیمت قدیمی نمایش داده نشود.
     return "⚠️ <b>قیمت معتبر طلای ۱۸ عیار فعلاً در دسترس نیست.</b>"
