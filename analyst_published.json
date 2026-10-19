@@ -6015,5 +6015,35 @@
     "group_thread_id": 25,
     "group_message_id": 438,
     "published_at": "2026-10-19T08:47:27.612100+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25611": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "ریزش امروز بازار سهام اصلا ربطی به احتمال جنگ نداره !",
+      "summary": "ریزش امروز بازار سهام اصلا ربطی به احتمال جنگ نداره !\nدر جنگ گذشته که بورس بعد بازگشایی خیلی مثبت شد !\nپس دلیل چیه؟\nرشد دلار آزاد( ماشین جلویی) کمی کند شده دلار حواله ( ماشین پشتی) هم رشد میکنه اما رشدش کند هست !\nطبیعیه بورس استراحت کنه ( چون ما دامنه نوسان…",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25611",
+      "analysis_score": 6,
+      "market_matches": [
+        "دلار",
+        "دلار آزاد",
+        "بورس"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-19T09:48:01.577333+03:30"
+    },
+    "first_seen_at": "2026-10-19T09:48:09.536289+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-19T09:48:10.125856+03:30",
+    "telegram_message_id": 724,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-19T09:48:11.691866+03:30",
+    "eitaa_message_id": 177187257,
+    "group_sent": true,
+    "group_sent_at": "2026-10-19T09:48:12.279191+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 441,
+    "published_at": "2026-10-19T09:48:12.285765+03:30"
   }
 }

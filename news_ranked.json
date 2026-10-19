@@ -38,6 +38,68 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "پیش بینی قیمت طلا، سکه و دلار امروز دوشنبه ۲۷ مهر ۱۴۰۵/ ریزش قیمت ها ادامه دارد؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302782-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
+    "summary": "پیش بینی قیمت دلار در معاملات روز دوشنبه، بیش از هر چیز به تداوم سیاست های کنترلی بانک مرکزی و سیگنال های سیاسی درباره مذاکرات ایران و آمریکا وابسته است.",
+    "published": "Mon, 19 Oct 2026 05:47:29 +0000",
+    "collected_at": "2026-10-19T09:47:36.603035+03:30",
+    "market_score": 37,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "سکه"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی",
+      "مذاکرات ایران و آمریکا"
+    ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "سرمایه گذاری امن در طلا با صندوق مثقال آگاه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4302781-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A7%D9%85%D9%86-%D8%AF%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A2%DA%AF%D8%A7%D9%87",
+    "summary": "سرمایه گذاری در طلا از گذشته تا امروز یکی از گزینه های اصلی افراد برای حفظ ارزش دارایی در برابر تورم و نوسانات اقتصادی بوده است. اما امروزه و با توسعه ابزارهای جدید، میزان بازده و بهینگی سرمایه گذاری در طلا، دیگر فقط به تغییرات قیمت این فلز گران بها و نرخ دلار محدود نمی شود.",
+    "published": "Mon, 19 Oct 2026 05:46:23 +0000",
+    "collected_at": "2026-10-19T09:47:36.603054+03:30",
+    "market_score": 32,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار",
+      "نرخ دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تورم"
+    ],
+    "medium_impact_matches": []
+  },
+  {
     "source": "تابناک",
     "title": "عقب نشینی قیمت دلار در بازار تهران/ مقایسه بازدهی یک ماهه دلار، بیت کوین و نقره",
     "link": "https://www.tabnak.ir/fa/news/1399306/عقب-نشینی-قیمت-دلار-در-بازار-تهران-مقایسه-بازدهی-یک-ماهه-دلار-بیت-کوین-و-نقره",
@@ -96,28 +158,30 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مشرق",
-    "title": "دلار حواله در کانال ۱۸۲ هزار تومان",
-    "link": "https://www.mashreghnews.ir/news/1846338/%D8%AF%D9%84%D8%A7%D8%B1-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B1%DB%B8%DB%B2-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
-    "summary": "مرکز مبادله ارز و طلای ایران جدیدترین نرخ های رسمی حواله ارز را اعلام کرد که بر اساس آن بهای هر دلار به ۱۸۲ هزار و ۱۸۶ تومان رسید.",
-    "published": "Sun, 18 Oct 2026 05:30:30 GMT",
-    "collected_at": "2026-10-18T09:17:11.433623+03:30",
-    "market_score": 27,
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۷ مهر ۱۴۰۵ در زمان بازگشایی بازار/ پوند انگلیس ۳۴۹ هزار تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2290162/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B7-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
+    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۲۷ مهر ۱۴۰۵ اعلام شد و پوند انگلیس با کاهش ۲ هزار و ۵۰ تومانی به کانال ۳۴۹ هزار تومان عقب نشینی کرد.",
+    "published": "Mon, 19 Oct 2026 05:40:00 GMT",
+    "collected_at": "2026-10-19T09:47:41.309799+03:30",
+    "market_score": 22,
     "market_matches": {
       "currency": [
-        "دلار"
+        "دلار",
+        "ارز",
+        "یورو",
+        "پوند"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
     "priority": "high",
-    "gold_matches": [
-      "طلا"
-    ],
+    "gold_matches": [],
     "currency_matches": [
       "دلار",
       "ارز",
-      "مرکز مبادله"
+      "یورو",
+      "پوند"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -385,6 +449,34 @@
     "medium_impact_matches": []
   },
   {
+    "source": "ایسنا",
+    "title": "افزایش ملایم قیمت طلا در بازارهای جهانی",
+    "link": "https://www.isna.ir/news/1405072717867/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%85%D9%84%D8%A7%DB%8C%D9%85-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+    "summary": "قیمت طلا در معاملات روز دوشنبه بازار جهانی تحت تاثیر کاهش قیمت نفت، اندکی افزایش یافت.",
+    "published": "Mon, 19 Oct 2026 06:04:28 GMT",
+    "collected_at": "2026-10-19T09:47:11.492482+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "قیمت نفت"
+    ]
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا امروز دوشنبه ۲۷ مهر ۱۴۰۵ / افزایش قیمت طلا",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302774-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
@@ -519,6 +611,32 @@
     "medium_impact_matches": []
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۲۷ مهر ۱۴۰۵ در زمان بازگشایی بازار/ مثقال طلا ۱۱۱ میلیون تومان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2290160/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B7-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
+    "summary": "قیمت طلا در بازار تهران امروز ۲۷ مهر ۱۴۰۵ اعلام شد و هر گرم مثقال طلا با کاهش یک میلیون و ۶۷۱ هزار تومانی، در کانال ۱۱۱ میلیون تومان قرار گرفت.",
+    "published": "Mon, 19 Oct 2026 06:00:00 GMT",
+    "collected_at": "2026-10-19T09:47:41.309769+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "مثقال طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "مثقال طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "امکان مصالحه ریالی برای تعهدات ارزی ایفا نشده ۱۳۹۷ تا ۱۴۰۰ فراهم شد",
     "link": "https://www.mehrnews.com/news/6981600/%D8%A7%D9%85%DA%A9%D8%A7%D9%86-%D9%85%D8%B5%D8%A7%D9%84%D8%AD%D9%87-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%DB%8C%D9%81%D8%A7-%D9%86%D8%B4%D8%AF%D9%87-%DB%B1%DB%B3%DB%B9%DB%B7-%D8%AA%D8%A7-%DB%B1%DB%B4%DB%B0%DB%B0-%D9%81%D8%B1%D8%A7%D9%87%D9%85",
@@ -540,32 +658,6 @@
       "ارز",
       "ریال"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۲۶ مهر ۱۴۰۵ در زمان بازگشایی بازار/ مثقال طلا ۴۱۳ هزار تومان ارزان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2289705/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
-    "summary": "قیمت طلا در بازار تهران امروز ۲۶ مهرماه اعلام شد و هر مثقال طلا کاهش ۴۱۳ هزار تومانی قیمت را تجربه کرده و وارد کانال ۱۱۳ میلیون تومان شد.",
-    "published": "Sun, 18 Oct 2026 05:20:00 GMT",
-    "collected_at": "2026-10-18T09:17:04.832689+03:30",
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "مثقال طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
@@ -645,32 +737,6 @@
       "بورس",
       "شاخص کل"
     ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "از طرح ۳ فوریتی نمایندگان برای تثبیت نرخ ارز تا سفر قریب الوقوع لاوروف به تهران",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4302534-%D8%A7%D8%B2-%D8%B7%D8%B1%D8%AD-%D9%81%D9%88%D8%B1%DB%8C%D8%AA%DB%8C-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%A7-%D8%B3%D9%81%D8%B1-%D9%82%D8%B1%DB%8C%D8%A8-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%B9-%D9%84%D8%A7%D9%88%D8%B1%D9%88%D9%81-%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-    "summary": "دنیای اقتصاد هرصبح در پادکست «دشت اول» به بررسی مهم ترین اخبار اقتصادی و سیاسی ایران و جهان به صورت خلاصه می پردازد تا بتوانید در کوتاه ترین زمان از مهم ترین تحولات داخلی و بین المللی باخبر شوید.",
-    "published": "Sun, 18 Oct 2026 05:21:00 +0000",
-    "collected_at": "2026-10-18T09:16:59.334741+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "نرخ ارز",
-      "ارز"
-    ],
-    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
   },
@@ -976,6 +1042,30 @@
     "medium_impact_matches": [
       "تحریم"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "توزیع ۶ هزار و ۹۳۴ میلیارد ریال عوارض ارزش افزوده در کردستان",
+    "link": "https://www.mehrnews.com/news/6982355/%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B9%DB%B3%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%B9%D9%88%D8%A7%D8%B1%D8%B6-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%87-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86",
+    "summary": "سنندج- مدیرکل امور مالیاتی کردستان از توزیع بیش از ۶ هزار و ۹۳۴ میلیارد ریال عوارض ارزش افزوده میان شهرداری ها و دهیاری های استان در نیمه نخست سال ۱۴۰۵ خبر داد.",
+    "published": "Mon, 19 Oct 2026 06:02:04 GMT",
+    "collected_at": "2026-10-19T09:47:24.247537+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "دنیای اقتصاد",
@@ -1332,30 +1422,6 @@
     "gold_matches": [],
     "currency_matches": [
       "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "قطر: ۶ میلیارد دلار ایران در قطر موجود است",
-    "link": "https://www.tabnak.ir/fa/news/1399230/قطر-6-میلیارد-دلار-ایران-در-قطر-موجود-است",
-    "summary": "سخنگوی وزارت خارجه قطر: ۶ میلیارد دلار از منابع مالی ایران بر اساس توافق کانال بشردوستانه در قطر نگهداری می شود؛ این مبلغ یکی از ابزارها و بسته های تشویقی کلیدی در جریان مذاکرات است.",
-    "published": "18 Oct 2026 08:58:15 +0330",
-    "collected_at": "2026-10-18T09:17:07.262284+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
