@@ -1832,27 +1832,28 @@ def call_telegram_api(method, payload):
 
 
 def live_gold_message_text(now, price_available=True):
-    update_time = to_persian_digits(now.strftime("%H:%M"))
-
+    # متن بیرون دکمه طبق درخواست، فقط همین عنوان باشد.
     if price_available:
-        return (
-            "✨ <b>زرین ماه | قیمت لحظه‌ای طلا</b>\n"
-            "برای دیدن منبع قیمت، دکمه آبی زیر را لمس کنید.\n"
-            f"⏱ آخرین به‌روزرسانی: <b>{update_time}</b> به وقت تهران\n"
-            "🔄 به‌روزرسانی خودکار هر ۱۰ دقیقه، از ساعت ۰۹:۰۰ تا ۲۲:۰۰"
-        )
+        return "<b>قیمت لحظه‌ای طلای ۱۸ عیار</b>"
 
-    return (
-        "⚠️ <b>قیمت معتبر طلای ۱۸ عیار فعلاً از کانال نوسان دریافت نشد.</b>\n"
-        "برای جلوگیری از نمایش عدد قدیمی، دکمه قیمت موقتاً برداشته شده است.\n"
-        f"⏱ آخرین بررسی: <b>{update_time}</b> به وقت تهران\n"
-        "🔄 بررسی مجدد در نوبت ۱۰ دقیقه‌ای بعدی انجام می‌شود."
-    )
+    # هنگام نبود قیمت معتبر، وضعیت هشدار حفظ می‌شود تا قیمت قدیمی نمایش داده نشود.
+    return "⚠️ <b>قیمت معتبر طلای ۱۸ عیار فعلاً در دسترس نیست.</b>"
 
 
-def live_gold_keyboard(price, source_link):
+def live_gold_keyboard(price, source_link, previous_price=None):
     price_text = to_persian_digits(f"{price:,}")
-    button_text = f"💰 قیمت لحظه‌ای طلای ۱۸ عیار | {price_text} تومان"
+
+    if previous_price is None:
+        direction_emoji = "⚪"
+    elif price > previous_price:
+        direction_emoji = "🟢"
+    elif price < previous_price:
+        direction_emoji = "🔴"
+    else:
+        direction_emoji = "⚪"
+
+    # داخل دکمه فقط نشانگر تغییر روزانه و قیمت طلای ۱۸ عیار دیده می‌شود.
+    button_text = f"{direction_emoji} {price_text} تومان"
 
     # Telegram URL buttons need a valid URL. If the scraped link is absent,
     # use the public Navasan channel rather than inventing a post link.
@@ -1922,7 +1923,18 @@ def update_live_gold_price():
 
     price = int(latest["price"])
     source_link = latest.get("link", "")
-    keyboard = live_gold_keyboard(price, source_link)
+
+    # از مرجع روزانه ذخیره‌شده استفاده می‌کنیم؛ last_price پیام زنده را
+    # به‌عنوان مبنا به کار نمی‌بریم، چون آن قیمت ممکن است فقط ۱۰ دقیقه قبل باشد.
+    previous_prices = load_previous_prices() or {}
+    previous_gold_price = previous_prices.get("gold18")
+    if previous_gold_price is not None:
+        try:
+            previous_gold_price = int(previous_gold_price)
+        except (TypeError, ValueError):
+            previous_gold_price = None
+
+    keyboard = live_gold_keyboard(price, source_link, previous_gold_price)
     text = live_gold_message_text(now, price_available=True)
 
     if message_id:
