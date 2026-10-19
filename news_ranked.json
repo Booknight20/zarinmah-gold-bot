@@ -1,6 +1,44 @@
 [
   {
     "source": "دنیای اقتصاد",
+    "title": "نرخ ارز دلار، طلا و یورو امروز دوشنبه ۲۷ مهر ۱۴۰۵/ افزایش قیمت طلا و سکه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302800-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد رشد قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
+    "published": "Mon, 19 Oct 2026 07:50:31 +0000",
+    "collected_at": "2026-10-19T11:47:28.082124+03:30",
+    "market_score": 47,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "نرخ ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [
+      "دلار",
+      "نرخ ارز",
+      "ارز",
+      "یورو",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "نرخ ارز دلار، طلا و یورو امروز یکشنبه ۲۶ مهر ۱۴۰۵/ کاهش قیمت طلا و سکه",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302565-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
     "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد افت قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
@@ -155,6 +193,36 @@
       "ارز",
       "یورو",
       "درهم",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "تابناک",
+    "title": "قیمت دلار و یورو امروز دوشنبه ۲۷ مهرماه؛ آخرین نرخ حواله ها در مرکز مبادله",
+    "link": "https://www.tabnak.ir/fa/news/1399403/قیمت-دلار-و-یورو-امروز-دوشنبه-27-مهرماه-آخرین-نرخ-حواله-ها-در-مرکز-مبادله",
+    "summary": "بازار ارز امروز شاهد نوسان صعودی در بخش آزاد و رسمی است؛ به طوری که دلار آزاد در آغاز معاملات روی رقم ۲۶۱ هزار تومان ایستاده و نرخ حواله ها نیز در مرکز مبادله رکورد جدیدی از افزایش را ثبت کرده اند.",
+    "published": "19 Oct 2026 11:21:15 +0330",
+    "collected_at": "2026-10-19T11:47:36.249621+03:30",
+    "market_score": 27,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "یورو",
+        "مرکز مبادله"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "بازار ارز",
+      "ارز",
+      "یورو",
       "مرکز مبادله"
     ],
     "stock_matches": [],
@@ -807,32 +875,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "بورس امروز شنبه ۲۶ مهر ۱۴۰۵ / شاخص کل ۱۱۷ هزار و ۴۷۷ واحد افت کرد",
-    "link": "https://www.khabaronline.ir/live/2289799/%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%DB%B2%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%DB%B1%DB%B1%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B4%DB%B7%DB%B7-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%81%D8%AA",
-    "summary": "شاخص کل بورس تهران در معاملات صبح ۲۶ مهر با افت ۱۱۷ هزار واحدی به ۸ میلیون و ۱۴۷ هزار واحد رسید؛ محدوده ۸ میلیون و ۱۳۱ هزار واحد به عنوان یکی از حمایت های پیش روی بازار زیر ذره بین معامله گران قرار دارد.",
-    "published": "Sun, 18 Oct 2026 07:20:00 GMT",
-    "collected_at": "2026-10-18T11:14:22.714560+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "عقب نشینی 3 روزه بورس",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4302611-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%B1%D9%88%D8%B2%D9%87-%D8%A8%D9%88%D8%B1%D8%B3",
@@ -1012,6 +1054,31 @@
   },
   {
     "source": "مهر",
+    "title": "اطلاعات پرتفوی صندوق های حمایتی بازار سرمایه شفاف تر شد",
+    "link": "https://www.mehrnews.com/news/6982561/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%BE%D8%B1%D8%AA%D9%81%D9%88%DB%8C-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%B4%D9%81%D8%A7%D9%81-%D8%AA%D8%B1-%D8%B4%D8%AF",
+    "summary": "مدیر نظارت بر بورس های سازمان بورس و اوراق بهادار گفت: اطلاعات پرتفوی صندوق های توسعه و تثبیت بازار سرمایه که پیش تر در سطح صنعت منتشر می شد، اکنون در سطح نماد افشا می شود.",
+    "published": "Mon, 19 Oct 2026 08:07:11 GMT",
+    "collected_at": "2026-10-19T11:47:15.591306+03:30",
+    "market_score": 8,
+    "market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "بازار سرمایه"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
     "title": "افت قیمت نفت و فرآورده های انرژی در بازارهای جهانی",
     "link": "https://www.mehrnews.com/news/6982246/%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D9%88-%D9%81%D8%B1%D8%A2%D9%88%D8%B1%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
     "summary": "تازه ترین قیمت های انرژی شامل نفت برنت، دبلیوتی آی و گاز طبیعی در بازارهای جهانی اعلام شد.",
@@ -1084,6 +1151,30 @@
     "medium_impact_matches": [
       "تحریم"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "۳۸ کیلومتر از راه های روستایی قم با اعتبار ۵۸۰ میلیارد ریال بهسازی شد",
+    "link": "https://www.mehrnews.com/news/6982551/%DB%B3%DB%B8-%DA%A9%DB%8C%D9%84%D9%88%D9%85%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%B1%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C%DB%8C-%D9%82%D9%85-%D8%A8%D8%A7-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%DB%B5%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A8%D9%87%D8%B3%D8%A7%D8%B2%DB%8C",
+    "summary": "قم- معاون فنی و راه های فرعی و روستایی اداره کل راهداری قم از بهسازی بیش از ۳۸ کیلومتر از محورهای فرعی و روستایی استان با صرف اعتباری بالغ بر ۵۸۰ میلیارد ریال خبر داد.",
+    "published": "Mon, 19 Oct 2026 08:01:38 GMT",
+    "collected_at": "2026-10-19T11:47:15.591465+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
@@ -1447,24 +1538,24 @@
   },
   {
     "source": "ایسنا",
-    "title": "ثبت رکورد فروش ریالی در نمایشگاه کتاب زنجان",
-    "link": "https://www.isna.ir/news/1405072617243/%D8%AB%D8%A8%D8%AA-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D9%81%D8%B1%D9%88%D8%B4-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%B2%D9%86%D8%AC%D8%A7%D9%86",
-    "summary": "مدیرکل فرهنگ و ارشاد اسلامی استان زنجان از فروش ۲۲ هزار و ۲۸۶ جلد کتاب به ارزش هفت میلیارد و ۲۶۴ میلیون تومان در یازدهمین دوره نمایشگاه کتاب زنجان خبر داد و گفت: میزان فروش این دوره از نمایشگاه، رکورد ثبت شده در میان نمایشگاه های کتاب کشور را پشت سر گذاشت.",
-    "published": "Sun, 18 Oct 2026 08:13:20 GMT",
-    "collected_at": "2026-10-18T11:47:16.076329+03:30",
-    "market_score": 7,
+    "title": "دستگیری ۵ سارق حرفه ای مغازه طلا فروشی در خلخال",
+    "link": "https://www.isna.ir/news/1405072718027/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%DB%B5-%D8%B3%D8%A7%D8%B1%D9%82-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%85%D8%BA%D8%A7%D8%B2%D9%87-%D8%B7%D9%84%D8%A7-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%D8%AF%D8%B1-%D8%AE%D9%84%D8%AE%D8%A7%D9%84",
+    "summary": "فرمانده انتظامی استان اردبیل از دستگیری ۵ سارق حرفه ای مفازه طلا فروشی و کشف حدود ۳ کیلو طلای مسروقه در عملیات های مشترک ماموران انتظامی شهرستان های خلخال و کوثر خبر داد.",
+    "published": "Mon, 19 Oct 2026 07:54:15 GMT",
+    "collected_at": "2026-10-19T11:47:02.806131+03:30",
+    "market_score": 5,
     "market_matches": {
-      "currency": [
-        "ریال"
+      "gold": [
+        "طلا"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
     "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
+    "gold_matches": [
+      "طلا"
     ],
+    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
