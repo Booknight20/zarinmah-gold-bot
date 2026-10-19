@@ -6689,5 +6689,34 @@
     "group_thread_id": 25,
     "group_message_id": 480,
     "published_at": "2026-10-19T16:47:44.310404+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25621": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "دیروز خیلی‌ها صندوق‌های طلا رو روی منفی ۳٪ فروختند!",
+      "summary": "دیروز خیلی‌ها صندوق‌های طلا رو روی منفی ۳٪ فروختند!\nمن فکر می‌کنم تا امروز ظهر ۵٪ ضرر کردند و البته اصلاً قصد بنده این نیست که بگم اشتباه کردند یا تحلیل درستی داشتند، چون همین الان سر یه خبر، طلا می‌تونه تا ۵٪ ریزش کنه یا ۵٪ بالا بره.\nسؤالی که به نظرم فروشندگان…",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25621",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "صندوق‌های طلا"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-19T17:14:25.723648+03:30"
+    },
+    "first_seen_at": "2026-10-19T17:14:27.958527+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-19T17:14:28.503838+03:30",
+    "telegram_message_id": 763,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-19T17:14:29.812572+03:30",
+    "eitaa_message_id": 177270206,
+    "group_sent": true,
+    "group_sent_at": "2026-10-19T17:14:30.295884+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 482,
+    "published_at": "2026-10-19T17:14:30.299884+03:30"
   }
 }
