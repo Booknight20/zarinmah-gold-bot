@@ -346,37 +346,6 @@
     ]
   },
   {
-    "source": "تابناک",
-    "title": "مسئولیت سیاست های ارزی قابل پیگیری باشد / مجلس باید قانون بانک مرکزی را اصلاح کند",
-    "link": "https://www.tabnak.ir/fa/news/1399279/مسئولیت-سیاست-های-ارزی-قابل-پیگیری-باشد-مجلس-باید-قانون-بانک-مرکزی-را-اصلاح-کند",
-    "summary": "عضو کمیسیون برنامه، بودجه مجلس، معتقد است سازوکار فعلی پاسخگویی در حوزه سیاست های پولی و ارزی نیازمند بررسی و اصلاح است. وی همچنین بر ضرورت تثبیت نرخ ارز، تفکیک تقاضاهای واقعی از نیازهای کاذب و استفاده از ظرفیت های قانونی مجلس برای اصلاح شرایط موجود تاکید کرد.",
-    "published": "18 Oct 2026 14:26:24 +0330",
-    "collected_at": "2026-10-18T14:47:33.102571+03:30",
-    "market_score": 22,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "نرخ ارز",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": [
-      "بودجه"
-    ]
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "شرط خرید شمش طلا :به ازای هر قطعه شمش ۵ میلیارد تومان به عنوان وجه الضمان واریز کنید",
     "link": "https://www.khabaronline.ir/news/2290054/%D8%B4%D8%B1%D8%B7-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D8%A7%D8%B2%D8%A7%DB%8C-%D9%87%D8%B1-%D9%82%D8%B7%D8%B9%D9%87-%D8%B4%D9%85%D8%B4-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%A8%D9%87-%D8%B9%D9%86%D9%88%D8%A7%D9%86",
@@ -849,33 +818,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "شاخص بورس منفی شد،۵۳ درصد نمادها سبز ماندند؛ چقدر پول از بورس خارج شد؟",
-    "link": "https://www.tabnak.ir/fa/news/1399282/شاخص-بورس-منفی-شد-53-درصد-نمادها-سبز-ماندند-چقدر-پول-از-بورس-خارج-شد",
-    "summary": "بورس در دومین روز معاملاتی هفته با افت بیش از ۸۴ هزار واحدی شاخص کل همراه شد؛ افتی که تحت فشار فروش در نمادهای بزرگ رخ داد، درحالی که بر خلاف نماگر اصلی، بیش از ۵۳ درصد تابلوی معاملات در محدوده مثبت بسته شد و خروج پول حقیقی از بازار نیز ادامه داشت.",
-    "published": "18 Oct 2026 14:44:47 +0330",
-    "collected_at": "2026-10-18T14:47:33.102525+03:30",
-    "market_score": 14,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "خروج پول حقیقی"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مهر",
     "title": "دریافت ارزی شهریه از دانشجویان بین الملل دانشگاه ها مجاز شد",
     "link": "https://www.mehrnews.com/news/6982172/%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B4%D9%87%D8%B1%DB%8C%D9%87-%D8%A7%D8%B2-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D9%85%D8%AC%D8%A7%D8%B2-%D8%B4%D8%AF",
@@ -1337,6 +1279,30 @@
     ]
   },
   {
+    "source": "مهر",
+    "title": "ثبت دو وقف جدید به ارزش ۱۲۰ میلیارد ریال در شهرستان لنگرود",
+    "link": "https://www.mehrnews.com/news/6982893/%D8%AB%D8%A8%D8%AA-%D8%AF%D9%88-%D9%88%D9%82%D9%81-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%DB%B1%DB%B2%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D9%84%D9%86%DA%AF%D8%B1%D9%88%D8%AF",
+    "summary": "لنگرود- دو وقف جدید به ارزش مجموع ۱۲۰ میلیارد ریال با نیت کمک و مساعدت و تعظیم شعائر اسلامی و حمایت از رزمندگان جبهه مقاومت در شهرستان لنگرود به ثبت رسید.",
+    "published": "Mon, 19 Oct 2026 11:20:55 GMT",
+    "collected_at": "2026-10-19T15:14:03.056757+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا ۱۸ عیار امروز دوشنبه ۲۷ مهر ۱۴۰۵/طلا به ۲۶ میلیون و ۱۹۹ هزار تومان رسید",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302775-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -1721,16 +1687,16 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "کشف انبار ۱۵۰ میلیارد ریالی لوازم خانگی قاچاق در قزوین",
-    "link": "https://www.isna.ir/news/1405072617471/%DA%A9%D8%B4%D9%81-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1-%DB%B1%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%AF%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86",
-    "summary": "فرمانده انتظامی استان قزوین از کشف ۳۸۷ دستگاه انواع لوازم خانگی قاچاق به ارزش ۱۵۰ میلیارد ریال از یک انبار در حومه شهر قزوین خبر داد.",
-    "published": "Sun, 18 Oct 2026 11:20:45 GMT",
-    "collected_at": "2026-10-18T15:13:54.023591+03:30",
-    "market_score": 7,
+    "source": "مهر",
+    "title": "اصلاح مقررات ارزی و تسهیل تجارت در دستور کار سازمان توسعه تجارت",
+    "link": "https://www.mehrnews.com/news/6982910/%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D9%85%D9%82%D8%B1%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88-%D8%AA%D8%B3%D9%87%DB%8C%D9%84-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%DA%A9%D8%A7%D8%B1-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA",
+    "summary": "معاون سازمان توسعه تجارت ایران گفت: اصلاح سازوکار بازگشت ارز حاصل از صادرات، نحوه محاسبه تعهدات ارزی و کاهش گروه بندی های ارزی در دستور کار قرار دارد.",
+    "published": "Mon, 19 Oct 2026 11:38:42 GMT",
+    "collected_at": "2026-10-19T15:14:03.056674+03:30",
+    "market_score": 5,
     "market_matches": {
       "currency": [
-        "ریال"
+        "ارز"
       ]
     },
     "driver_matches": [],
@@ -1738,8 +1704,32 @@
     "priority": "low",
     "gold_matches": [],
     "currency_matches": [
-      "ریال"
+      "ارز"
     ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "مدال طلای دختر ایران پرید؟/ اعتراض به دیسکالیفه شدن سادات پور",
+    "link": "https://www.isna.ir/news/1405072718266/%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%A8%D9%87-%D8%AF%DB%8C%D8%B3%DA%A9%D8%A7%D9%84%DB%8C%D9%81%D9%87-%D8%B4%D8%AF%D9%86-%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA-%D9%BE%D9%88%D8%B1",
+    "summary": "در حالی که دختر دونده ۱۵۰۰ متر ایران به عنوان نفر نخست از خط پایان عبور کرد، از سوی داوران برگزاری بازی های پاراآسیایی ناگویا دیسکالیفه شد.",
+    "published": "Mon, 19 Oct 2026 11:12:55 GMT",
+    "collected_at": "2026-10-19T15:13:57.767758+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
@@ -2268,78 +2258,6 @@
     "currency_matches": [
       "یورو"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "چطور با خرید و فروش طلا سود کنیم؟",
-    "link": "https://www.tabnak.ir/fa/news/1399286/چطور-با-خرید-و-فروش-طلا-سود-کنیم",
-    "summary": "کسب سود از طلا صرفاً به رشد قیمت این فلز گران بها وابسته نیست؛ زمان ورود و خروج از بازار، نوع طلای خریداری شده، هزینه های معامله و شرایط اقتصادی نیز در تعیین سود خالص سرمایه گذار نقش دارند.",
-    "published": "18 Oct 2026 15:05:42 +0330",
-    "collected_at": "2026-10-18T15:14:09.594720+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "از سرقت خودرو تا طلا؛ کشفیات تازه پلیس البرز",
-    "link": "https://www.mehrnews.com/news/6981605/%D8%A7%D8%B2-%D8%B3%D8%B1%D9%82%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AA%D8%A7-%D8%B7%D9%84%D8%A7-%DA%A9%D8%B4%D9%81%DB%8C%D8%A7%D8%AA-%D8%AA%D8%A7%D8%B2%D9%87-%D9%BE%D9%84%DB%8C%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2",
-    "summary": "کرج _ خودرو، موتورسیکلت، طلا و دیگر اموال مسروقه در نمایشگاه کشفیات پلیس آگاهی البرز به نمایش درآمده اند؛ حاصل عملیاتی که به دستگیری ۴۹ متهم و شناسایی ۱۴ باند سرقت انجامید.",
-    "published": "Sun, 18 Oct 2026 11:16:07 GMT",
-    "collected_at": "2026-10-18T15:13:59.575441+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "زمان و شرایط شرکت در حراج جدید شمش طلا اعلام شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302593-%D8%B2%D9%85%D8%A7%D9%86-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AF%D8%B1-%D8%AD%D8%B1%D8%A7%D8%AC-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
-    "summary": "دارا بودن پروانه کسب معتبر و ثبت شده در درگاه ملی مجوزها، قابلیت استعلام شناسه یکتای پروانه کسب متقاضی خرید از درگاه ملی مجوزهای کشور از الزامات شرکت در جلسه حراجی شمش طلا است.",
-    "published": "Sun, 18 Oct 2026 10:55:05 +0000",
-    "collected_at": "2026-10-18T14:47:26.664142+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
