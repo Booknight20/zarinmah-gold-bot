@@ -6750,5 +6750,34 @@
     "group_thread_id": 25,
     "group_message_id": 484,
     "published_at": "2026-10-19T18:47:52.614918+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25625": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "نفت به ۱۰۷ دلار رسید و کمی به مذاکره خوش‌بین شد. @payamelyaskordi ✅",
+      "summary": "نفت به ۱۰۷ دلار رسید و کمی به مذاکره خوش‌بین شد.\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25625",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-19T21:15:58.401527+03:30"
+    },
+    "first_seen_at": "2026-10-19T21:16:02.474413+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-19T21:16:03.144899+03:30",
+    "telegram_message_id": 770,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-19T21:16:06.685955+03:30",
+    "eitaa_message_id": 177300511,
+    "group_sent": true,
+    "group_sent_at": "2026-10-19T21:16:07.384104+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 496,
+    "published_at": "2026-10-19T21:16:07.393240+03:30"
   }
 }
