@@ -6045,5 +6045,65 @@
     "group_thread_id": 25,
     "group_message_id": 441,
     "published_at": "2026-10-19T09:48:12.285765+03:30"
+  },
+  "https://t.me/drarashamini/7206": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "📣 پرتفوی شما به ثبات نیاز دارد",
+      "summary": "۴۰.۲٪ سود مؤثر سالانه\n🗣 نرخ سود مؤثر صندوق سرمایه‌گذاری ثبات به ۴۰.۲٪ افزایش یافت.\nثبات با ۲۶ همت دارایی تحت مدیریت و کسب سود ۲۸۳ درصدی از ابتدای فعالیت خود، بهترین گزینه بدون ریسک برای حفظ ارزش سرمایه است.\n⬅️ محاسبه سود به‌صورت روزشمار\n⬅️ نقدشوندگی بدون محدودیت\n⬅️ بدون نرخ شکست و مالیات",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7206",
+      "analysis_score": 7,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "نماد"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-19T10:17:49.179759+03:30"
+    },
+    "first_seen_at": "2026-10-19T10:17:54.766135+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-19T10:17:55.135604+03:30",
+    "telegram_message_id": 728,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-19T10:17:56.227196+03:30",
+    "eitaa_message_id": 177192651,
+    "group_sent": true,
+    "group_sent_at": "2026-10-19T10:17:56.659097+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 445,
+    "published_at": "2026-10-19T10:17:56.665643+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25612": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "دقت کنید بار دیگر این تحلیل دقیق بوده با اینکه احتمال جنگ هست اما تا دلار حواله رفت برای ۱۸۳ هزار...",
+      "summary": "دقت کنید بار دیگر این تحلیل دقیق بوده با اینکه احتمال جنگ هست اما تا دلار حواله رفت برای ۱۸۳ هزار تومان و ماشین پشتی حرکت کرد بورس هم سبز شد پس اینکه تحلیل میشه بورس خطر جنگ رو ارزیابی میکنه غلطه!\nتنها خطر بورس فعلی توافق محدود هست چون باعث کاهش قیمت دلار…",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25612",
+      "analysis_score": 6,
+      "market_matches": [
+        "دلار",
+        "ارز",
+        "بورس"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-19T10:17:48.755751+03:30"
+    },
+    "first_seen_at": "2026-10-19T10:17:56.671615+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-19T10:17:57.039900+03:30",
+    "telegram_message_id": 729,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-19T10:17:58.247762+03:30",
+    "eitaa_message_id": 177192653,
+    "group_sent": true,
+    "group_sent_at": "2026-10-19T10:17:58.619279+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 446,
+    "published_at": "2026-10-19T10:17:58.625843+03:30"
   }
 }
