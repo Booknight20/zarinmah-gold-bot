@@ -6601,5 +6601,63 @@
     "group_thread_id": 25,
     "group_message_id": 474,
     "published_at": "2026-10-19T15:46:18.554572+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8592": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "الان طلا 18 عیار تو محدوده ارزش ذاتیش داره معامله میشه و حباب خاصی نداره ‼️",
+      "summary": "🔹 ارزش ذاتی طلا 18 عیار: 26/200\n🔹 ارزش ذاتی طلا 24 عیار: 34/950\n⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8592",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-19T16:14:47.123606+03:30"
+    },
+    "first_seen_at": "2026-10-19T16:14:47.922615+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-19T16:14:48.456172+03:30",
+    "telegram_message_id": 757,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-19T16:14:49.748146+03:30",
+    "eitaa_message_id": 177254277,
+    "group_sent": true,
+    "group_sent_at": "2026-10-19T16:14:50.282137+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 476,
+    "published_at": "2026-10-19T16:14:50.286838+03:30"
+  },
+  "https://t.me/rahavard365/58548": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "🔴 وضعیت اندیکاتوری سهام بازار",
+      "summary": "✔️ هر معامله‌گر ممکن است برای بررسی وضعیت تکنیکال بازار از اندیکاتورهای متفاوتی استفاده کند؛\nاما بررسی صدها نماد با چندین اندیکاتور به‌صورت همزمان، زمان‌بر است.\n🔴 در این گزارش، وضعیت سهام بازار به‌صورت تجمیعی و بر اساس ۶ اندیکاتور پرکاربرد شامل:\n⬅ اندیکاتور RSI\n⬅ اندیکاتور MACD\n⬅ اندیکاتور CCI",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58548",
+      "analysis_score": 4,
+      "market_matches": [
+        "نماد"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-19T16:14:47.658467+03:30"
+    },
+    "first_seen_at": "2026-10-19T16:14:50.290999+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-19T16:14:50.729411+03:30",
+    "telegram_message_id": 758,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-19T16:14:52.005585+03:30",
+    "eitaa_message_id": 177254283,
+    "group_sent": true,
+    "group_sent_at": "2026-10-19T16:14:52.491242+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 477,
+    "published_at": "2026-10-19T16:14:52.495801+03:30"
   }
 }
