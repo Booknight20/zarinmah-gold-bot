@@ -539,34 +539,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مشرق",
-    "title": "در جنگ ایران ۱۰۰ میلیارد یورو ضرر کردیم!",
-    "link": "https://www.mashreghnews.ir/news/1846323/%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%B6%D8%B1%D8%B1-%DA%A9%D8%B1%D8%AF%DB%8C%D9%85",
-    "summary": "",
-    "published": "Sun, 18 Oct 2026 20:02:00 GMT",
-    "collected_at": "2026-10-18T23:47:24.423381+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ"
-    ],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا و سکه امروز دوشنبه ۲۷ مهر ۱۴۰۵/ سکه امامی به ۲۶۷ میلیون تومان رسید",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302776-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C-%D8%A8%D9%87-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -671,6 +643,33 @@
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "دور باطل تورم و رکود",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-100/4302954-%D8%AF%D9%88%D8%B1-%D8%A8%D8%A7%D8%B7%D9%84-%D8%AA%D9%88%D8%B1%D9%85-%D8%B1%DA%A9%D9%88%D8%AF",
+    "summary": "تورم فزاینده از یک سو قدرت خرید خانوارها را محدود کرده و از سوی دیگر، با افزایش هزینه تولید و تضعیف تقاضا، رکود بنگاه ها را تشدید کرده است. طبق داده های مرکز آمار ایران، تورم نقطه به نقطه خوراکی ها در شهریور ۱۴۰۵ به 121.8درصد رسید. در این شرایط، نزدیک به ۷۸درصد حداقل حقوق یک خانوار چهارنفره صرف خرید مواد غذایی می شود. کالابرگ یک میلیون تومانی تنها ۱۷درصد هزینه خوراکی این خانوار را پوشش می دهد؛ سهمی که با افزایش اعتبار به یک میلیون و۵۰۰هزار تومان به ۲۶درصد می رسد. همزمان، آمارهای بازوی پژوهشی بانک مرکزی از افت ۸درصدی فعالیت صنایع و معادن در سه ماه منتهی به مرداد۱۴۰۵ نسبت به مدت مشابه سال قبل حکایت دارد. افزایش هزینه نهاده ها، محدودیت انرژی، کمبود نقدینگی و ضعف تقاضا، توان تولید بنگاه ها را کاهش داده است. در چنین شرایطی، بدون مهار پایدار تورم، حمایت های معیشتی به تدریج بی اثر می شوند و تداوم رکود نیز خطر کاهش تولید و افزایش بیکاری را تشدید می کند.",
+    "published": "Mon, 19 Oct 2026 20:30:00 +0000",
+    "collected_at": "2026-10-20T00:14:28.160334+03:30",
+    "market_score": 16,
+    "market_matches": {},
+    "driver_matches": [
+      "تورم",
+      "رکود"
+    ],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی",
+      "تورم"
+    ],
+    "medium_impact_matches": [
+      "نقدینگی",
+      "رکود"
+    ]
   },
   {
     "source": "دنیای اقتصاد",
@@ -1012,32 +1011,6 @@
     ],
     "medium_impact_matches": [
       "قیمت نفت",
-      "تحریم"
-    ]
-  },
-  {
-    "source": "مهر",
-    "title": "صادرات ۲۱ میلیارد دلاری کشور؛همگرایی اقتصادی ایجاد و تقویت شود",
-    "link": "https://www.mehrnews.com/news/6982138/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B2%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D9%87%D9%85%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%88-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%B4%D9%88%D8%AF",
-    "summary": "ارومیه - مدیرکل دفتر غرب آسیا و آفریقای سازمان توسعه تجارت ایران گفت: در شش ماه نخست سال جاری، با وجود تحریم ها، ۲۱ میلیارد دلار صادرات و ۱۹ میلیارد دلار واردات در کشور ثبت شده است.",
-    "published": "Sun, 18 Oct 2026 19:52:21 GMT",
-    "collected_at": "2026-10-18T23:47:07.798963+03:30",
-    "market_score": 9,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
       "تحریم"
     ]
   },
@@ -1644,78 +1617,6 @@
     "currency_matches": [
       "ریال"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "۴۴۰۰ میلیارد ریال اعتبار برای ساماندهی محور شهید کلانتری اختصاص یافت",
-    "link": "https://www.mehrnews.com/news/6982167/%DB%B4%DB%B4%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C-%D9%85%D8%AD%D9%88%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%DA%A9%D9%84%D8%A7%D9%86%D8%AA%D8%B1%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5",
-    "summary": "ارومیه - مدیرکل راهداری و حمل ونقل جاده ای آذربایجان غربی از اجرای پروژه ساماندهی و روکش آسفالت محور شهید کلانتری در قالب سه قرارداد به ارزش ۴ هزار و ۴۰۰ میلیارد ریال خبر داد.",
-    "published": "Sun, 18 Oct 2026 20:34:26 GMT",
-    "collected_at": "2026-10-19T00:17:12.803839+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۲۶ مهر ۱۴۰۵ در زمان بسته شدن بازار/ + طلا در کانال ۲۵ میلیون تومان ایستاد + جدول",
-    "link": "https://www.khabaronline.ir/news/2290121/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B6-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
-    "summary": "قیمت طلا در بازار تهران امروز ۲۶ مهرماه اعلام شد و هر گرم طلای ۱۸عیار کاهش ۳۸۵ هزار تومانی قیمت را تجربه کرده و در کانال ۲۵ میلیون تومان ماند.",
-    "published": "Sun, 18 Oct 2026 18:41:17 GMT",
-    "collected_at": "2026-10-18T23:47:15.834015+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "تولید ۳۰ درصد طلای کشور در آذربایجان غربی؛ فعالیت ۲۰۰۰ واحد صنعتی",
-    "link": "https://www.mehrnews.com/news/6982146/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%DB%B3%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%DB%B2%DB%B0%DB%B0%DB%B0-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C",
-    "summary": "ارومیه - مدیرکل صنعت، معدن و تجارت آذربایجان غربی گفت: در حال حاضر ۳۰ درصد طلای کشور در این استان تولید می شود.",
-    "published": "Sun, 18 Oct 2026 20:05:34 GMT",
-    "collected_at": "2026-10-18T23:47:07.798894+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
