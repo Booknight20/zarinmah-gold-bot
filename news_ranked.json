@@ -373,6 +373,33 @@
     "medium_impact_matches": []
   },
   {
+    "source": "مهر",
+    "title": "حراج شمش طلا در ایستگاه ۱۵۸؛ جزئیات شرایط خرید",
+    "link": "https://www.mehrnews.com/news/6983054/%D8%AD%D8%B1%D8%A7%D8%AC-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%DB%B1%DB%B5%DB%B8-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%AE%D8%B1%DB%8C%D8%AF",
+    "summary": "مرکز مبادله ارز و طلای ایران فردا -سه شنبه ۲۸ مهرماه- میزبان یکصد و پنجاه و هشتمین حراج شمش طلا خواهد بود.",
+    "published": "Mon, 19 Oct 2026 13:12:44 GMT",
+    "collected_at": "2026-10-19T16:47:02.628067+03:30",
+    "market_score": 20,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "ارز",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت نفت از صعود بازماند/ نفت برنت ۱۰۸ دلار شد",
     "link": "https://www.khabaronline.ir/news/2290202/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D8%A7%D8%B2%D9%85%D8%A7%D9%86%D8%AF-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%DB%B1%DB%B0%DB%B8-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF",
@@ -402,6 +429,33 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "چرخش سریع بورس",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4302837-%DA%86%D8%B1%D8%AE%D8%B4-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "دنیای اقتصاد: معاملات بورس تهران امروز با رشد نماگرهای سهامی همراه شد تا بازار سهام پس از افت های اخیر، بار دیگر شاهد تقویت تقاضا باشد. شاخص کل با افزایش 0.9 درصدی به سطح ۸ میلیون و ۲۵۳ هزار واحد رسید. شاخص هم وزن نیز عملکرد بهتری را ثبت کرد و با رشد 1.51 درصدی در محدوده ۲ میلیون و ۲۲۲ هزار واحد ایستاد. در فرابورس نیز شاخص کل این بازار 1.86 درصد افزایش یافت.",
+    "published": "Mon, 19 Oct 2026 12:59:20 +0000",
+    "collected_at": "2026-10-19T16:47:14.616553+03:30",
+    "market_score": 18,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "شاخص هم وزن",
+      "فرابورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "دنیای اقتصاد",
@@ -1279,6 +1333,54 @@
     ]
   },
   {
+    "source": "مهر",
+    "title": "ورود خودروهای لوکس بالای ۲۰ هزار دلار به مناطق آزاد متوقف می شود",
+    "link": "https://www.mehrnews.com/news/6983045/%D9%88%D8%B1%D9%88%D8%AF-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%84%D9%88%DA%A9%D8%B3-%D8%A8%D8%A7%D9%84%D8%A7%DB%8C-%DB%B2%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "دبیر شورای عالی مناطق آزاد تجاری و صنعتی کشور اعلام کرد: به دستور رئیس جمهور، به زودی از ورود خودروهای لوکس با ارزش بیش از ۲۰ هزار دلار به مناطق آزاد جلوگیری خواهد شد.",
+    "published": "Mon, 19 Oct 2026 13:05:05 GMT",
+    "collected_at": "2026-10-19T16:47:02.628160+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "آزادی ۳۱ زندانی جرایم مالی غیرعمد در فارس با کمک ۲۰ میلیارد ریالی خیر شیرازی",
+    "link": "https://www.isna.ir/news/1405072718342/%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%DB%B3%DB%B1-%D8%B2%D9%86%D8%AF%D8%A7%D9%86%DB%8C-%D8%AC%D8%B1%D8%A7%DB%8C%D9%85-%D9%85%D8%A7%D9%84%DB%8C-%D8%BA%DB%8C%D8%B1%D8%B9%D9%85%D8%AF-%D8%AF%D8%B1-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D8%A7-%DA%A9%D9%85%DA%A9-%DB%B2%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C",
+    "summary": "۳۱ زندانی جرایم مالی غیرعمد در استان فارس با مشارکت خیرین، پیگیری ستاد دیه استان و کمک ۲۰ میلیارد ریالی موقوفه حاج میرزا علی رضای شیرازی از زندان آزاد شدند و به آغوش خانواده های خود بازگشتند.",
+    "published": "Mon, 19 Oct 2026 12:52:40 GMT",
+    "collected_at": "2026-10-19T16:46:55.926843+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "ایسنا",
     "title": "رونالدو با ۳۰۰ میلیون دلار، پردرآمدترین فوتبالیست جهان",
     "link": "https://www.isna.ir/news/1405072718225/%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%A8%D8%A7-%DB%B3%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%BE%D8%B1%D8%AF%D8%B1%D8%A2%D9%85%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%AC%D9%87%D8%A7%D9%86",
@@ -1742,6 +1844,54 @@
     "published": "Sun, 18 Oct 2026 20:05:34 GMT",
     "collected_at": "2026-10-18T23:47:07.798894+03:30",
     "market_score": 7,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "هشدار درباره قیمت حبوبات؛ ثبات بازار به تأمین ارز گره خورد",
+    "link": "https://www.mehrnews.com/news/6983041/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%AD%D8%A8%D9%88%D8%A8%D8%A7%D8%AA-%D8%AB%D8%A8%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%D9%87-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%DA%AF%D8%B1%D9%87-%D8%AE%D9%88%D8%B1%D8%AF",
+    "summary": "رئیس انجمن حبوبات ایران با تأکید بر نبود کمبود در بازار گفت: تأمین به موقع ارز برای واردات حبوبات می تواند قیمت ها را در ماه های آینده نیز ثابت نگه دارد.",
+    "published": "Mon, 19 Oct 2026 13:02:31 GMT",
+    "collected_at": "2026-10-19T16:47:02.628184+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "جدول مدالی روز نخست بازی های پاراآسیایی ناگویا/ چین با ۲۶ طلا در صدر",
+    "link": "https://www.isna.ir/news/1405072718338/%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D8%AF%D8%A7%D9%84%DB%8C-%D8%B1%D9%88%D8%B2-%D9%86%D8%AE%D8%B3%D8%AA-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%D8%B1%D8%A7%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7-%DA%86%DB%8C%D9%86-%D8%A8%D8%A7-%DB%B2%DB%B6-%D8%B7%D9%84%D8%A7",
+    "summary": "کاروان ایران در روز اول بازی های پاراآسیایی ناگویا در رشته های پاراتکواندو، پارادوومیدانی و پاراشنا صاحب ۸ مدال شد. چین هم با ۲۶ مدال طلا صدرنشین بازیهاست.",
+    "published": "Mon, 19 Oct 2026 13:00:00 GMT",
+    "collected_at": "2026-10-19T16:46:55.926805+03:30",
+    "market_score": 5,
     "market_matches": {
       "gold": [
         "طلا"
@@ -2378,54 +2528,6 @@
       "طلا"
     ],
     "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "رئیس اتحادیه طلا خبر داد: هفته ای ۱۰ تا ۱۲ شکایت از کم فروشی تا گران فروشی طلا روی میز اتحادیه",
-    "link": "https://www.khabaronline.ir/news/2289997/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%B7%D9%84%D8%A7-%D8%AE%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF-%D9%87%D9%81%D8%AA%D9%87-%D8%A7%DB%8C-%DB%B1%DB%B0-%D8%AA%D8%A7-%DB%B1%DB%B2-%D8%B4%DA%A9%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%DA%A9%D9%85-%D9%81%D8%B1%D9%88%D8%B4%DB%8C",
-    "summary": "تب طلا که چندی پیش پلتفرم های آنلاین را حاشیه ساز کرده بود، در بازار فیزیکی نیز منجر به بروز شکایات صنفی شده است. رئیس اتحادیه طلا و جواهر تهران نگاتی را مطرح می کند که رعایت نکردن آنها در نهایت به شکایت ختم می شود.",
-    "published": "Sun, 18 Oct 2026 13:15:00 GMT",
-    "collected_at": "2026-10-18T16:47:28.732712+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "سوخت بی کیفیت؛ تلاش بی فایده برای ارتقای استاندارد یورو",
-    "link": "https://www.mehrnews.com/news/6981783/%D8%B3%D9%88%D8%AE%D8%AA-%D8%A8%DB%8C-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D8%AA%D9%84%D8%A7%D8%B4-%D8%A8%DB%8C-%D9%81%D8%A7%DB%8C%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88",
-    "summary": "اجرای استاندارد یورو ۶ تنها به ارتقای فناوری خودرو محدود نیست؛ کیفیت سوخت، دوام کاتالیست و پایش آلایندگی نیز در تحقق اهداف زیست محیطی و جلوگیری از افزایش استهلاک خودرو نقش کلیدی دارند.",
-    "published": "Sun, 18 Oct 2026 13:14:14 GMT",
-    "collected_at": "2026-10-18T16:47:12.059382+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "یورو"
-    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []

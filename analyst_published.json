@@ -6659,5 +6659,35 @@
     "group_thread_id": 25,
     "group_message_id": 477,
     "published_at": "2026-10-19T16:14:52.495801+03:30"
+  },
+  "https://t.me/rahavard365/58549": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "گزارش روزانه بازار اختیار معامله",
+      "summary": "🌟 ارزش معاملات: ۲.۱۹ همت\n⚡️ برای دسترسی به جزئیات اطلاعات مربوط به قراردادهای اختیار معامله (آپشن) به داشبورد اختصاصی بازار اختیار معامله ره‌آورد مراجعه کنید.\n#اختیار_معامله\n#آپشن\n🗓 دوشنبه ۲۷ مهر ۱۴۰۵\n✉️ @rahavard365",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58549",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "ارزش معاملات"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-19T16:47:36.213765+03:30"
+    },
+    "first_seen_at": "2026-10-19T16:47:41.796333+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-19T16:47:42.309972+03:30",
+    "telegram_message_id": 761,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-19T16:47:43.719328+03:30",
+    "eitaa_message_id": 177263548,
+    "group_sent": true,
+    "group_sent_at": "2026-10-19T16:47:44.302435+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 480,
+    "published_at": "2026-10-19T16:47:44.310404+03:30"
   }
 }
