@@ -546,21 +546,6 @@
     "major_event_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "قیمت نفت از صعود بازماند",
-    "link": "https://www.isna.ir/news/1405072717839/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D8%A7%D8%B2%D9%85%D8%A7%D9%86%D8%AF",
-    "summary": "قیمت نفت روز در معاملات روز دوشنبه بازار جهانی با واکنش معامله گران به معافیت های تحریمی ترامپ که می تواند به افزایش عرضه سوخت روسیه منجر شود، کاهش یافت.",
-    "published": "Mon, 19 Oct 2026 05:25:25 GMT",
-    "collected_at": "2026-10-19T09:03:44.941924+03:30",
-    "market_score": 4,
-    "market_matches": {},
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": []
-  },
-  {
     "source": "مشرق",
     "title": "طلاهای ایران در پاراآسیایی ناگویا به ۷ مدال رسید",
     "link": "https://www.mashreghnews.ir/news/1846832/%D8%B7%D9%84%D8%A7%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%D8%A7%D8%B1%D8%A7%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7-%D8%A8%D9%87-%DB%B7-%D9%85%D8%AF%D8%A7%D9%84-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -1655,22 +1640,6 @@
     "summary": "ویدئویی از لحظه اهدای مدال طلای اهورا خاطری و طنین انداز شدن سرود ملی کشورمان در خاک آمریکا را مشاهده می کنید.",
     "published": "Mon, 19 Oct 2026 05:25:00 GMT",
     "collected_at": "2026-10-19T09:04:16.029127+03:30",
-    "market_score": 3,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا و سکه امروز دوشنبه ۲۷ مهر ۱۴۰۵/ کاهش قیمت طلا و سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302776-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
-    "summary": "قیمت طلای ۱۸ عیار و سکه امامی امروز در سایت اتحادیه طلا و جواهر با کاهش همراه شدند.",
-    "published": "Mon, 19 Oct 2026 04:36:20 +0000",
-    "collected_at": "2026-10-19T08:46:55.952502+03:30",
     "market_score": 3,
     "market_matches": {
       "gold": [
