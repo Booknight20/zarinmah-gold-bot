@@ -7016,5 +7016,35 @@
     "group_thread_id": 25,
     "group_message_id": 516,
     "published_at": "2026-10-20T10:16:32.325434+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8605": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "طلا ۱۸ عیار بالا زده و رفته بالای ۲۶,۵۰۰",
+      "summary": "بعد مدت‌ها حباب مثبت گرفته و بالاتر از ارزش ذاتیش داره معامله میشه ‼️\n⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8605",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-20T10:44:39.440524+03:30"
+    },
+    "first_seen_at": "2026-10-20T10:44:40.246051+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-20T10:44:40.745426+03:30",
+    "telegram_message_id": 789,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-20T10:44:46.289118+03:30",
+    "eitaa_message_id": 177370701,
+    "group_sent": true,
+    "group_sent_at": "2026-10-20T10:44:46.827048+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 517,
+    "published_at": "2026-10-20T10:44:46.831768+03:30"
   }
 }
