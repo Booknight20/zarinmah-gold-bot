@@ -72,39 +72,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مهر",
-    "title": "اعلام نرخ رسمی ارزها در مرکز مبادله؛ عبور دلار از مرز ۱.۸ میلیون ریال",
-    "link": "https://www.mehrnews.com/news/6982396/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D9%86%D8%B1%D8%AE-%D8%B1%D8%B3%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%B9%D8%A8%D9%88%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B2-%D9%85%D8%B1%D8%B2-%DB%B1-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
-    "summary": "مرکز مبادله ارز و طلای ایران نرخ رسمی انواع ارز را برای دوشنبه ۲۷ مهر ۱۴۰۵ اعلام کرد که بر اساس آن دلار و یورو با نوسان همراه شدند.",
-    "published": "Mon, 19 Oct 2026 06:32:07 GMT",
-    "collected_at": "2026-10-19T10:17:19.830484+03:30",
-    "market_score": 37,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "ریال",
-        "مرکز مبادله"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو",
-      "ریال",
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مشرق",
     "title": "جدیدترین نرخ حواله ارز در مرکز مبادله اعلام شد",
     "link": "https://www.mashreghnews.ir/news/1846851/%D8%AC%D8%AF%DB%8C%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D9%86%D8%B1%D8%AE-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
@@ -1146,6 +1113,54 @@
     ]
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "اتفاق عجیب در بازار چای/ هر کیلو چای ایرانی به قیمت 2 دلار صادر می شود و چای خارجی را 6 دلار می خریم!",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303023-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%86%D8%A7%DB%8C-%D9%87%D8%B1-%DA%A9%DB%8C%D9%84%D9%88-%DA%86%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%A7%D8%AF%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%DA%86%D8%A7%DB%8C-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D8%B1%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%DB%8C-%D8%AE%D8%B1%DB%8C%D9%85",
+    "summary": "یک تولیدکننده چای با انتقاد از اختلاف قیمت صادرات چای ایرانی و واردات چای خارجی گفت: چای ایرانی با قیمت کیلویی ۱.۵ تا ۲ دلار به بازارهای خارجی صادر می شود؛ اما هر کیلوگرم چای وارداتی با نرخ ۵ تا ۶ دلار به کشور می آید.",
+    "published": "Tue, 20 Oct 2026 06:39:13 +0000",
+    "collected_at": "2026-10-20T10:16:07.473303+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "چای ایرانی را ۲ دلاری می فروشیم، ۶ دلاری وارد می کنیم!",
+    "link": "https://www.isna.ir/news/1405072818717/%DA%86%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%B1%D8%A7-%DB%B2-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%DB%8C%D9%85-%DB%B6-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85",
+    "summary": "یک تولیدکننده چای با انتقاد از اختلاف قیمت صادرات چای ایرانی و واردات چای خارجی گفت: چای ایرانی با قیمت کیلویی ۱.۵ تا ۲ دلار به بازارهای خارجی صادر می شود؛ اما هر کیلوگرم چای وارداتی با نرخ ۵ تا ۶ دلار به کشور می آید؛ شکافی قیمتی که ضرورت بازنگری در سیاست های صادراتی را بیش از پیش نمایان می کند.",
+    "published": "Tue, 20 Oct 2026 06:28:57 GMT",
+    "collected_at": "2026-10-20T10:15:39.991364+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "ایسنا",
     "title": "معافیت سه هزار دلاری برای مسافران کیش",
     "link": "https://www.isna.ir/news/1405072818691/%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%D8%B3%D9%87-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D8%A7%D9%86-%DA%A9%DB%8C%D8%B4",
@@ -1560,30 +1575,6 @@
     "summary": "یزد- سرپرست اداره کل تعزیرات حکومتی استان یزد از محکومیت قاچاقچی سوخت در شهرستان مهریز به پرداخت بیش از ۱۳۳ میلیارد ریال جریمه نقدی و ضبط محموله گازوئیل قاچاق خبر داد.",
     "published": "Mon, 19 Oct 2026 07:46:36 GMT",
     "collected_at": "2026-10-19T11:17:29.063117+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "پرداخت بیش از ۶۸ هزار میلیارد ریال تسهیلات شعب بانک کشاورزی خوزستان",
-    "link": "https://www.isna.ir/news/1405072717921/%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B6%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AA%D8%B3%D9%87%DB%8C%D9%84%D8%A7%D8%AA-%D8%B4%D8%B9%D8%A8-%D8%A8%D8%A7%D9%86%DA%A9-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86",
-    "summary": "مدیر شعب بانک کشاورزی خوزستان از پرداخت ۶۸ هزار و ۵۱۱ میلیارد ریال تسهیلات توسط شعب این بانک در استان طی ۶ ماه نخست سال ۱۴۰۵ خبر داد و بر تداوم حمایت های اعتباری بانک کشاورزی از تولید، اشتغال و توسعه پایدار بخش کشاورزی تأکید کرد.",
-    "published": "Mon, 19 Oct 2026 06:41:01 GMT",
-    "collected_at": "2026-10-19T10:17:06.761128+03:30",
     "market_score": 7,
     "market_matches": {
       "currency": [

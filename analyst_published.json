@@ -6987,5 +6987,34 @@
     "group_thread_id": 25,
     "group_message_id": 508,
     "published_at": "2026-10-20T08:47:59.681681+03:30"
+  },
+  "https://t.me/rahavard365/58552": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "🔹 ۱۰ میلیارد ریال اعتبار آنی در کارگزاری کیان",
+      "summary": "🟡 تا ۷٠٪ ارزش تضمین خود را اعتبار دریافت کنید\n🟡 ۱۰۰ درصد تخفیف هزینه مالی با ۱۰ بار گردش معاملاتی اعتبار در هر ماه\n🔗 دستـرســـی ها\n🔷 کیان تریدر، همه مسیر در یک نگاه\n📲 @kianbrokerage",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58552",
+      "analysis_score": 4,
+      "market_matches": [
+        "ارز",
+        "ریال"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-20T10:16:26.968306+03:30"
+    },
+    "first_seen_at": "2026-10-20T10:16:29.845226+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-20T10:16:30.337459+03:30",
+    "telegram_message_id": 788,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-20T10:16:31.760854+03:30",
+    "eitaa_message_id": 177365759,
+    "group_sent": true,
+    "group_sent_at": "2026-10-20T10:16:32.319487+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 516,
+    "published_at": "2026-10-20T10:16:32.325434+03:30"
   }
 }
