@@ -1,44 +1,6 @@
 [
   {
     "source": "دنیای اقتصاد",
-    "title": "نرخ ارز دلار، طلا و یورو امروز دوشنبه ۲۷ مهر ۱۴۰۵/ افزایش قیمت طلا و سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302800-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
-    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد رشد قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
-    "published": "Mon, 19 Oct 2026 07:50:31 +0000",
-    "collected_at": "2026-10-19T11:47:28.082124+03:30",
-    "market_score": 47,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [
-      "دلار",
-      "نرخ ارز",
-      "ارز",
-      "یورو",
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت طلا، دلار و سکه امروز سه شنبه ۲۸ مهر ۱۴۰۵/ بازار چشم انتظار اخبار سیاسی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303013-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C",
     "summary": "سه شنبه 28 مهر معاملات در بازار طلا، سکه و ارز در حالی آغاز می شود که بازار چشم انتظار اخبار سیاسی و تحولات اونس جهانی است که عقب نشینی طلای جهانی به محدوده ۴۱۳۰ دلار، مسیر صعودی قیمت ها را با تردید روبه رو کرده است؛ حالا نگاه معامله گران به مقاومت ۲۶۵ هزار تومانی دلار و مرز ۲۷۰ میلیون تومانی سکه امامی دوخته شده است.",
@@ -190,36 +152,6 @@
     ],
     "currency_matches": [
       "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "قیمت دلار و یورو امروز دوشنبه ۲۷ مهرماه؛ آخرین نرخ حواله ها در مرکز مبادله",
-    "link": "https://www.tabnak.ir/fa/news/1399403/قیمت-دلار-و-یورو-امروز-دوشنبه-27-مهرماه-آخرین-نرخ-حواله-ها-در-مرکز-مبادله",
-    "summary": "بازار ارز امروز شاهد نوسان صعودی در بخش آزاد و رسمی است؛ به طوری که دلار آزاد در آغاز معاملات روی رقم ۲۶۱ هزار تومان ایستاده و نرخ حواله ها نیز در مرکز مبادله رکورد جدیدی از افزایش را ثبت کرده اند.",
-    "published": "19 Oct 2026 11:21:15 +0330",
-    "collected_at": "2026-10-19T11:47:36.249621+03:30",
-    "market_score": 27,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "یورو",
-        "مرکز مبادله"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "بازار ارز",
-      "ارز",
-      "یورو",
-      "مرکز مبادله"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -456,6 +388,34 @@
       "شاخص هم وزن",
       "فرابورس"
     ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت دلار، یورو و درهم امروز سه شنبه 28 مهر ۱۴۰۵/ دلار به 263 هزار تومان رسید",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303046-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "قیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته، از 182,733 (یکصد و هشتاد و دو هزار و هفتصد و سی و سه) تومان به 183,281 (یکصد و هشتاد و سه هزار و دویست و هشتاد و یک) تومان رسید.",
+    "published": "Tue, 20 Oct 2026 08:12:45 +0000",
+    "collected_at": "2026-10-20T11:47:45.974839+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "یورو",
+        "درهم"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "یورو",
+      "درهم"
+    ],
+    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
   },
@@ -922,6 +882,56 @@
     ]
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "بازگشت رونق به بورس؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4303025-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%B1%D9%88%D9%86%D9%82-%D8%A8%D9%87-%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "دنیای اقتصاد: بورس تهران در معاملات امروز نیز الگویی مشابه روز دوشنبه را به نمایش گذاشت. شاخص کل در دقایق ابتدایی با رشد ۱.۶۱ درصدی به محدوده ۸ میلیون و ۳۸۶ هزار واحد رسید، اما در ادامه با افزایش عرضه ها بخشی از رشد خود را پس داد و در میانه معاملات با افزایش حدود یک درصدی در سطح ۸ میلیون و ۳۳۷ هزار واحد قرار گرفت.",
+    "published": "Tue, 20 Oct 2026 07:30:54 +0000",
+    "collected_at": "2026-10-20T11:47:45.975011+03:30",
+    "market_score": 10,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا و سکه امروز سه شنبه ۲۸ مهر ۱۴۰۵/ افزایش قیمت طلا و سکه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303007-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "summary": "طبق اهلام سایت اتحادیه طلا و جواخهر قیمت طلا و سکه امروز صعودی شد.",
+    "published": "Tue, 20 Oct 2026 08:01:20 +0000",
+    "collected_at": "2026-10-20T11:47:45.974934+03:30",
+    "market_score": 10,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "سکه"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "رشد بیش از ۸۸ هزار واحدی شاخص کل؛ ۱.۷ همت پول حقیقی به سهام وارد شد",
     "link": "https://www.mehrnews.com/news/6983637/%D8%B1%D8%B4%D8%AF-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B8%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%DB%B1-%DB%B7-%D9%87%D9%85%D8%AA-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C-%D8%A8%D9%87-%D8%B3%D9%87%D8%A7%D9%85-%D9%88%D8%A7%D8%B1%D8%AF",
@@ -1099,31 +1109,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مهر",
-    "title": "اطلاعات پرتفوی صندوق های حمایتی بازار سرمایه شفاف تر شد",
-    "link": "https://www.mehrnews.com/news/6982561/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%BE%D8%B1%D8%AA%D9%81%D9%88%DB%8C-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%B4%D9%81%D8%A7%D9%81-%D8%AA%D8%B1-%D8%B4%D8%AF",
-    "summary": "مدیر نظارت بر بورس های سازمان بورس و اوراق بهادار گفت: اطلاعات پرتفوی صندوق های توسعه و تثبیت بازار سرمایه که پیش تر در سطح صنعت منتشر می شد، اکنون در سطح نماد افشا می شود.",
-    "published": "Mon, 19 Oct 2026 08:07:11 GMT",
-    "collected_at": "2026-10-19T11:47:15.591306+03:30",
-    "market_score": 8,
-    "market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "چشم انداز سرمایه گذاری ۷۶ میلیارد دلاری در صنعت نفت ونزوئلا",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4302793-%DA%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA-%D9%86%D9%81%D8%AA-%D9%88%D9%86%D8%B2%D9%88%D8%A6%D9%84%D8%A7",
@@ -1198,6 +1183,54 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا ۱۸ عیار امروز سه شنبه ۲۸ مهر ۱۴۰۵/طلا گران شد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303005-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت گرم طلا ۱۸ عیار با افزایش، به 26 میلیون و 430 هزار و 200 تومان رسید.",
+    "published": "Tue, 20 Oct 2026 08:04:49 +0000",
+    "collected_at": "2026-10-20T11:47:45.974891+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "سالن مدیریت بحران چندمنظوره پاکدشت با اعتبار ۴۵۰ میلیارد ریالی تکمیل شد",
+    "link": "https://www.isna.ir/news/1405072818863/%D8%B3%D8%A7%D9%84%D9%86-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%DA%86%D9%86%D8%AF%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-%D9%BE%D8%A7%DA%A9%D8%AF%D8%B4%D8%AA-%D8%A8%D8%A7-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%DB%B4%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C",
+    "summary": "فرماندار پاکدشت از تکمیل سالن مدیریت بحران چندمنظوره این شهرستان با زیربنای یک هزار و ۶۵۰ مترمربع خبر داد و گفت: این پروژه در دو فاز اجرا شده و برای تکمیل بخش نهایی آن طی حدود ۹ ماه، عملیات محوطه سازی، دیوارکشی، نازک کاری و تکمیل فضاهای داخلی انجام شده است.",
+    "published": "Tue, 20 Oct 2026 08:04:38 GMT",
+    "collected_at": "2026-10-20T11:47:18.821098+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
@@ -1680,30 +1713,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مهر",
-    "title": "۳۸ کیلومتر از راه های روستایی قم با اعتبار ۵۸۰ میلیارد ریال بهسازی شد",
-    "link": "https://www.mehrnews.com/news/6982551/%DB%B3%DB%B8-%DA%A9%DB%8C%D9%84%D9%88%D9%85%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%B1%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C%DB%8C-%D9%82%D9%85-%D8%A8%D8%A7-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%DB%B5%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A8%D9%87%D8%B3%D8%A7%D8%B2%DB%8C",
-    "summary": "قم- معاون فنی و راه های فرعی و روستایی اداره کل راهداری قم از بهسازی بیش از ۳۸ کیلومتر از محورهای فرعی و روستایی استان با صرف اعتباری بالغ بر ۵۸۰ میلیارد ریال خبر داد.",
-    "published": "Mon, 19 Oct 2026 08:01:38 GMT",
-    "collected_at": "2026-10-19T11:47:15.591465+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "ورود ۳.۳ همت پول به بورس؛ سرنوشت سود پالایشی ها چه می شود؟ +فیلم",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302866-%D9%88%D8%B1%D9%88%D8%AF-%D9%87%D9%85%D8%AA-%D9%BE%D9%88%D9%84-%D8%A8%D9%87-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B3%D8%B1%D9%86%D9%88%D8%B4%D8%AA-%D8%B3%D9%88%D8%AF-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DB%8C-%D9%87%D8%A7-%DA%86%D9%87-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
@@ -1775,6 +1784,54 @@
     "high_impact_matches": [
       "جنگ"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مشرق",
+    "title": "فیلم/ ریزش معدن طلا در کلمبیا با ۱۴ کشته و ۷ زخمی",
+    "link": "https://www.mashreghnews.ir/news/1846861/%D9%81%DB%8C%D9%84%D9%85-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%85%D8%B9%D8%AF%D9%86-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%DA%A9%D9%84%D9%85%D8%A8%DB%8C%D8%A7-%D8%A8%D8%A7-%DB%B1%DB%B4-%DA%A9%D8%B4%D8%AA%D9%87-%D9%88-%DB%B7-%D8%B2%D8%AE%D9%85%DB%8C",
+    "summary": "رسانه های محلی کلمبیا گزارش دادند در پی ریزش یک معدن غیرقانونی طلا در جنوب غربی این کشور، دست کم ۱۴ نفر جان باختند و ۷ نفر دیگر زخمی شدند.",
+    "published": "Tue, 20 Oct 2026 07:31:00 GMT",
+    "collected_at": "2026-10-20T11:48:00.337845+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "مهلت رفع تعهد ارزی صادرات سال ۱۴۰۴ تا پایان آذر تمدید شد",
+    "link": "https://www.mehrnews.com/news/6983772/%D9%85%D9%87%D9%84%D8%AA-%D8%B1%D9%81%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B3%D8%A7%D9%84-%DB%B1%DB%B4%DB%B0%DB%B4-%D8%AA%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1-%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%D8%B4%D8%AF",
+    "summary": "طبق ابلاغیه سازمان امور مالیاتی، مهلت ایفای تعهدات ارزی حاصل از صادرات سال ۱۴۰۴ تا ۳۰ آذر ۱۴۰۵ تمدید شده است.",
+    "published": "Tue, 20 Oct 2026 08:01:07 GMT",
+    "collected_at": "2026-10-20T11:47:32.361833+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
@@ -2570,30 +2627,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "دستگیری ۵ سارق حرفه ای مغازه طلا فروشی در خلخال",
-    "link": "https://www.isna.ir/news/1405072718027/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%DB%B5-%D8%B3%D8%A7%D8%B1%D9%82-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%85%D8%BA%D8%A7%D8%B2%D9%87-%D8%B7%D9%84%D8%A7-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%D8%AF%D8%B1-%D8%AE%D9%84%D8%AE%D8%A7%D9%84",
-    "summary": "فرمانده انتظامی استان اردبیل از دستگیری ۵ سارق حرفه ای مفازه طلا فروشی و کشف حدود ۳ کیلو طلای مسروقه در عملیات های مشترک ماموران انتظامی شهرستان های خلخال و کوثر خبر داد.",
-    "published": "Mon, 19 Oct 2026 07:54:15 GMT",
-    "collected_at": "2026-10-19T11:47:02.806131+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مشرق",
     "title": "روند صعودی تولید و ظرفیت نفت ایران در سایه تحریم ها",
     "link": "https://www.mashreghnews.ir/news/1846599/%D8%B1%D9%88%D9%86%D8%AF-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%88-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7",
@@ -2687,5 +2720,29 @@
     ],
     "high_impact_matches": [],
     "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "سایه سنگین تحریم نفتی بر پول ملی ونزوئلا و لیبی",
+    "link": "https://www.mehrnews.com/news/6983779/%D8%B3%D8%A7%DB%8C%D9%87-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%86%D9%81%D8%AA%DB%8C-%D8%A8%D8%B1-%D9%BE%D9%88%D9%84-%D9%85%D9%84%DB%8C-%D9%88%D9%86%D8%B2%D9%88%D8%A6%D9%84%D8%A7-%D9%88-%D9%84%DB%8C%D8%A8%DB%8C",
+    "summary": "بازخوانی تجربه ونزوئلا و لیبی در مواجهه با تحریم های نفتی آمریکا، تفاوت های معنادار سقوط بولیوار و فرسایش دینار را آشکار می کند.",
+    "published": "Tue, 20 Oct 2026 08:04:11 GMT",
+    "collected_at": "2026-10-20T11:47:32.361773+03:30",
+    "market_score": 2,
+    "market_matches": {},
+    "driver_matches": [
+      "نفت",
+      "تحریم",
+      "تحریم نفتی"
+    ],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "تحریم"
+    ]
   }
 ]
