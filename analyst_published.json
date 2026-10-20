@@ -7532,5 +7532,35 @@
     "group_thread_id": 25,
     "group_message_id": 551,
     "published_at": "2026-10-20T18:17:39.237034+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25646": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "ریزش ۵ دلاری قیمت نفت پس سفر عاصم منیر به تهران برنت وارد کانال ۱۰۶ دلار شد @payamelyaskordi ✅",
+      "summary": "ریزش ۵ دلاری قیمت نفت پس سفر عاصم منیر به تهران برنت وارد کانال ۱۰۶ دلار شد @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25646",
+      "analysis_score": 6,
+      "market_matches": [
+        "دلار",
+        "قیمت نفت",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-20T20:17:48.486122+03:30"
+    },
+    "first_seen_at": "2026-10-20T20:17:51.451339+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-20T20:17:51.993030+03:30",
+    "telegram_message_id": 829,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-20T20:17:56.087364+03:30",
+    "eitaa_message_id": 177472642,
+    "group_sent": true,
+    "group_sent_at": "2026-10-20T20:17:56.846722+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 560,
+    "published_at": "2026-10-20T20:17:56.854696+03:30"
   }
 }

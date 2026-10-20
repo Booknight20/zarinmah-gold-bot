@@ -1343,6 +1343,30 @@
     ]
   },
   {
+    "source": "مهر",
+    "title": "دستگیری سارق سابقه دار در نوشهر با کشف ۱۵ میلیارد ریال اموال مسروقه",
+    "link": "https://www.mehrnews.com/news/6984453/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B1%D9%82-%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%86%D9%88%D8%B4%D9%87%D8%B1-%D8%A8%D8%A7-%DA%A9%D8%B4%D9%81-%DB%B1%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A7%D9%85%D9%88%D8%A7%D9%84",
+    "summary": "نوشهر- فرمانده انتظامی نوشهر از دستگیری یک سارق سابقه دار و غیربومی خبر داد که با اجاره منزل در این شهرستان، اقدام به سرقت لوازم منازل، تجهیزات ساختمانی و محتویات داخل خودروها می کرد.",
+    "published": "Tue, 20 Oct 2026 16:42:41 GMT",
+    "collected_at": "2026-10-20T20:17:20.681074+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "ایسنا",
     "title": "ارزش افزوده نیروگاه های خورشیدی استان مرکزی بیش از یک میلیارد دلار است",
     "link": "https://www.isna.ir/news/1405072819253/%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%87-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%8C%DA%A9-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF",
@@ -1920,32 +1944,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "ورود ۳.۳ همت پول به بورس؛ سرنوشت سود پالایشی ها چه می شود؟ +فیلم",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302866-%D9%88%D8%B1%D9%88%D8%AF-%D9%87%D9%85%D8%AA-%D9%BE%D9%88%D9%84-%D8%A8%D9%87-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B3%D8%B1%D9%86%D9%88%D8%B4%D8%AA-%D8%B3%D9%88%D8%AF-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DB%8C-%D9%87%D8%A7-%DA%86%D9%87-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
-    "summary": "روند معاملات و جریان نقدینگی مورد بررسی قرار گرفت؛ جایی که ورود ۳.۳ همت پول حقیقی و برتری قابل توجه صف های خرید نسبت به فروش، از تقویت تقاضا در بازار حکایت داشت.",
-    "published": "Mon, 19 Oct 2026 15:39:50 +0000",
-    "collected_at": "2026-10-19T19:47:41.608168+03:30",
-    "market_score": 6,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "نقدینگی"
-    ]
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "ادعای ونس درباره جنگ علیه ایران و عرضه نفت جهان/ هیچ آمریکایی نمی خواهد ایران کنترل نفت جهانی را در دست بگیرد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302990-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D9%88%D9%86%D8%B3-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B9%D8%B1%D8%B6%D9%87-%D9%86%D9%81%D8%AA-%D8%AC%D9%87%D8%A7%D9%86-%D9%87%DB%8C%DA%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%86%D9%85%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D9%86%D9%81%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA-%D8%A8%DA%AF%DB%8C%D8%B1%D8%AF",
     "summary": "معاون رئیس جمهوری آمریکا مدعی شد که هیچ آمریکایی نمی خواهد ایران کنترل عرضه نفت جهان را در دست بگیرد.",
@@ -1990,6 +1988,30 @@
     "high_impact_matches": [
       "جنگ"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "تابناک",
+    "title": "۷ طلا، ۹ نقره و ۱۴ برنز برای ایران در روز دوم رقابت های ناگویا",
+    "link": "https://www.tabnak.ir/fa/news/1399631/7-طلا-9-نقره-و-14-برنز-برای-ایران-در-روز-دوم-رقابت-های-ناگویا",
+    "summary": "نمایندگان کشورمان در روز دوم بازی های پاراآسیایی ۲۰۲۶ موفق به کسب ۷ طلا، ۹ نقره و ۱۴ برنز شدند.",
+    "published": "20 Oct 2026 19:48:08 +0330",
+    "collected_at": "2026-10-20T20:17:37.029255+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
