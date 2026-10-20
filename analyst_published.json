@@ -7206,5 +7206,35 @@
     "group_thread_id": 25,
     "group_message_id": 527,
     "published_at": "2026-10-20T12:17:05.165046+03:30"
+  },
+  "https://t.me/drarashamini/7220": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "🌟 صندوق طلای زروان به‌وقت طلا",
+      "summary": "🛒 با صندوق طلای زروان بدون اجرت و مالیات ؛\nامن و آسان در طلا سرمایه‌گذاری کنید.\n✅ ◀️ با پشتوانه طلای فیزیکی\n✅ ◀️ تحت نظارت سازمان بورس\n✅ ◀️ با مدیریت سبدگردان ویستا\n🔗 اطلاعات بیشتر:",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7220",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "بورس",
+        "صندوق طلا"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-20T12:48:00.438102+03:30"
+    },
+    "first_seen_at": "2026-10-20T12:48:02.014712+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-20T12:48:02.427762+03:30",
+    "telegram_message_id": 800,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-20T12:48:03.505487+03:30",
+    "eitaa_message_id": 177396824,
+    "group_sent": true,
+    "group_sent_at": "2026-10-20T12:48:03.916292+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 528,
+    "published_at": "2026-10-20T12:48:03.924180+03:30"
   }
 }

@@ -514,31 +514,31 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت دلار، یورو و درهم امروز دوشنبه ۲۷ مهر ۱۴۰۵/ افزایش قیمت دلار",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302796-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "قیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته، از 182,186 (یکصد و هشتاد و دو هزار و یکصد و هشتاد و شش) تومان به 182,733 (یکصد و هشتاد و دو هزار و هفتصد و سی و سه) تومان رسید.",
-    "published": "Mon, 19 Oct 2026 07:35:00 +0000",
-    "collected_at": "2026-10-19T12:44:31.212623+03:30",
+    "source": "مهر",
+    "title": "جنگ، ۱۰۰ میلیارد یورو برای اقتصاد اروپا هزینه داشت",
+    "link": "https://www.mehrnews.com/news/6983929/%D8%AC%D9%86%DA%AF-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%AF%D8%A7%D8%B4%D8%AA",
+    "summary": "افزایش قیمت سوخت و انرژی در پی جنگ علیه ایران، فشار بر خانوارها و کسب وکارهای اروپایی را تشدید کرده است؛ به طوری که برآوردها از تحمیل ۱۰۰ میلیارد یورو هزینه به اقتصاد اروپا حکایت دارد.",
+    "published": "Tue, 20 Oct 2026 09:05:40 GMT",
+    "collected_at": "2026-10-20T12:47:29.090506+03:30",
     "market_score": 17,
     "market_matches": {
       "currency": [
-        "دلار",
-        "یورو",
-        "درهم"
+        "یورو"
       ]
     },
     "driver_matches": [],
-    "major_event_matches": [],
+    "major_event_matches": [
+      "جنگ"
+    ],
     "priority": "medium",
     "gold_matches": [],
     "currency_matches": [
-      "دلار",
-      "یورو",
-      "درهم"
+      "یورو"
     ],
     "stock_matches": [],
-    "high_impact_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
     "medium_impact_matches": []
   },
   {
@@ -839,32 +839,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا ظهر امروز ۲۷ مهر ۱۴۰۵/ مثقال طلا ۱۱۳ میلیون تومان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2290277/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B7-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%DB%B1%DB%B1%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B4%D8%AF",
-    "summary": "قیمت طلا در بازار تهران امروز ۲۷ مهر ۱۴۰۵ اعلام شد و هر گرم مثقال طلا با افزایش یک میلیون و ۱۰۰ هزار تومانی، در کانال ۱۱۳ میلیون تومان قرار گرفت.",
-    "published": "Mon, 19 Oct 2026 08:19:29 GMT",
-    "collected_at": "2026-10-19T12:44:34.213153+03:30",
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "مثقال طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "تابناک",
     "title": "بورس به مدار صعود برگشت؛ چراغ بازار سهام با ورود ۳ همت پول روشن شد",
     "link": "https://www.tabnak.ir/fa/news/1399429/بورس-به-مدار-صعود-برگشت-چراغ-بازار-سهام-با-ورود-3-همت-پول-روشن-شد",
@@ -1017,56 +991,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "تقابل خریداران و فروشندگان در بورس",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4302808-%D8%AA%D9%82%D8%A7%D8%A8%D9%84-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3",
-    "summary": "دنیای اقتصاد: بورس تهران معاملات امروز را پرقدرت آغاز کرد و شاخص کل در دقایق ابتدایی با رشد ۲.۲ درصدی به محدوده ۸ میلیون و ۳۴۶ هزار واحد رسید. با این حال، به تدریج از قدرت تقاضا کاسته شد و شاخص کل بخشی از رشد خود را پس داد. به طوری که در میانه بازار با افزایش یک درصدی در محدوده ۸ میلیون و ۲۶۱ هزار واحد قرار گرفت و مرز ۸ میلیون و ۳۰۰ هزار واحد را از دست داد.",
-    "published": "Mon, 19 Oct 2026 09:00:04 +0000",
-    "collected_at": "2026-10-19T12:44:31.212489+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "بورس همچنان ظرفیت رشد دارد / ریسک های سیستماتیک بازار را وارد لاک دفاعی می کند",
-    "link": "https://www.isna.ir/news/1405072718122/%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D8%B1%D8%B4%D8%AF-%D8%AF%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%B3%DA%A9-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A7-%D9%88%D8%A7%D8%B1%D8%AF",
-    "summary": "دبیرکل پیشین کانون کارگزاران بورس و اوراق بهادار با اشاره به نوسانات شدید بازار سرمایه در هفته های اخیر گفت: با وجود رشد بیش از ۱۰۰ درصدی شاخص ها و بخش عمده ای از سهام در دوره اخیر، بازار همچنان ظرفیت رشد دارد؛ هرچند تداوم ریسک های سیستماتیک و تحولات سیاسی می تواند موجب مکث و عقب نشینی بازار شود.",
-    "published": "Mon, 19 Oct 2026 09:05:53 GMT",
-    "collected_at": "2026-10-19T12:44:13.922391+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مشرق",
     "title": "قیمت نفت از بالاترین سطح ۵ ماهه عقب نشست",
     "link": "https://www.mashreghnews.ir/news/1846850/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%DB%B5-%D9%85%D8%A7%D9%87%D9%87-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%D8%B3%D8%AA",
@@ -1193,6 +1117,54 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "ایسنا",
+    "title": "صادرات ۱۷۲ میلیون دلاری محصولات کشاورزی آذربایجان شرقی در نیمه نخست سال",
+    "link": "https://www.isna.ir/news/1405072818931/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1%DB%B7%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87",
+    "summary": "رئیس سازمان جهاد کشاورزی آذربایجان شرقی از صادرات ۱۴۰ هزار تن محصولات کشاورزی از گمرکات استان به ارزش ۱۷۲ میلیون دلار در نیمه نخست سال ۱۴۰۵ خبر داد و گفت: این استان ۵.۵ درصد از صادرات محصولات کشاورزی کشور را به خود اختصاص داده است.",
+    "published": "Tue, 20 Oct 2026 08:48:41 GMT",
+    "collected_at": "2026-10-20T12:47:19.192914+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "تشکیل ۳۸۰۰ میلیارد ریال پرونده تخلف در بازار یزد/عدم درج قیمت و گران فروشی در صدر تخلفات",
+    "link": "https://www.isna.ir/news/1405072818937/%D8%AA%D8%B4%DA%A9%DB%8C%D9%84-%DB%B3%DB%B8%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DB%8C%D8%B2%D8%AF-%D8%B9%D8%AF%D9%85-%D8%AF%D8%B1%D8%AC-%D9%82%DB%8C%D9%85%D8%AA",
+    "summary": "مدیرکل صنعت، معدن و تجارت استان یزد از انجام بیش از ۱۹ هزار مورد بازرسی از بازار کالا و خدمات در نیمه نخست سال جاری خبر داد که در پی آن، پرونده تخلفات ۳۸۰۰ میلیارد ریالی برای متخلفان اقتصادی تشکیل و به تعزیرات حکومتی ارجاع شده است.",
+    "published": "Tue, 20 Oct 2026 08:53:05 GMT",
+    "collected_at": "2026-10-20T12:47:19.192846+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -1718,30 +1690,6 @@
       "طلا"
     ],
     "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "قاچاقچی سیگار در تاکستان ۱۶ میلیارد ریال جریمه شد",
-    "link": "https://www.mehrnews.com/news/6982683/%D9%82%D8%A7%DA%86%D8%A7%D9%82%DA%86%DB%8C-%D8%B3%DB%8C%DA%AF%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%AA%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%DB%B1%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AC%D8%B1%DB%8C%D9%85%D9%87-%D8%B4%D8%AF",
-    "summary": "قزوین- مدیرکل تعزیرات حکومتی استان قزوین از ضبط ۸ هزار و ۸۰۰ بسته سیگار خارجی قاچاق در تاکستان و محکومیت متخلف به پرداخت ۱۶ میلیارد و ۷۳ میلیون ریال جزای نقدی خبر داد.",
-    "published": "Mon, 19 Oct 2026 09:08:58 GMT",
-    "collected_at": "2026-10-19T12:44:21.598827+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
