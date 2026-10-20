@@ -104,6 +104,40 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "رشد محدود شاخص کل؛ بررسی اثر دلار بر بازدهی بازار سرمایه +فیلم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303106-%D8%B1%D8%B4%D8%AF-%D9%85%D8%AD%D8%AF%D9%88%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%A7%D8%AB%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "طبق گزارش «دورنمای بازارها»، میانگین بازدهی بورس در دوره های رشد شدید دلار ۱۰.۴ درصد و در دوره افت شدید آن حدود یک درصد بوده است. با این حال، رشد دلار لزوماً به سود همه شرکت ها نیست و هزینه های تولید، نرخ بهره و ریسک های سیاسی نیز بر سودآوری اثر می گذارند.",
+    "published": "Tue, 20 Oct 2026 15:35:58 +0000",
+    "collected_at": "2026-10-20T19:45:58.077988+03:30",
+    "market_score": 34,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "بازار سرمایه",
+        "شاخص کل"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [
+      "بورس",
+      "بازار سرمایه",
+      "شاخص کل"
+    ],
+    "high_impact_matches": [
+      "نرخ بهره"
+    ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "قیمت طلا و سکه امروز سه شنبه ۲۸ مهر ۱۴۰۵/ سکه امامی ۲۶۴ میلیون و ۷۰۰ هزار تومان شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303007-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B4%D8%AF",
     "summary": "قیمت طلا و سکه امروز با وجود کاهش ۲۲ دلاری اونس جهانی طلا، در بازار داخلی روندی افزایشی داشت؛ به طوری که هر گرم طلای ۱۸ عیار به ۲۶ میلیون و ۹۷ هزار و ۷۰۰ تومان و سکه امامی به ۲۶۴ میلیون و ۷۰۰ هزار تومان رسید.",
@@ -453,6 +487,32 @@
     "stock_matches": [],
     "high_impact_matches": [
       "نرخ بهره",
+      "تورم"
+    ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "فدرال رزرو در دسامبر نرخ بهره را بار دیگر افزایش خواهد داد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303118-%D9%81%D8%AF%D8%B1%D8%A7%D9%84-%D8%B1%D8%B2%D8%B1%D9%88-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%A7%D9%85%D8%A8%D8%B1-%D9%86%D8%B1%D8%AE-%D8%A8%D9%87%D8%B1%D9%87-%D8%B1%D8%A7-%D8%A8%D8%A7%D8%B1-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%AF%D8%A7%D8%AF",
+    "summary": "به رغم انتشار گزارش هایی که از بالاتر بودن تورم آمریکا از سطح انتظار حکایت دارند، مقامات فدرال رزرو به تازگی نشان داده اند که ترجیح می دهند مسیر افزایش نرخ بهره را آهسته تر و سنجیده تر طی کنند.",
+    "published": "Tue, 20 Oct 2026 16:05:25 +0000",
+    "collected_at": "2026-10-20T19:45:58.077914+03:30",
+    "market_score": 20,
+    "market_matches": {},
+    "driver_matches": [
+      "نرخ بهره",
+      "فدرال رزرو"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "نرخ بهره",
+      "فدرال رزرو",
+      "تورم آمریکا",
       "تورم"
     ],
     "medium_impact_matches": []
@@ -1933,6 +1993,30 @@
     "medium_impact_matches": []
   },
   {
+    "source": "ایسنا",
+    "title": "دانشمندان به درهم تنیدگی کوانتومی ۱۰ ثانیه ای دست یافتند",
+    "link": "https://www.isna.ir/news/1405072819210/%D8%AF%D8%A7%D9%86%D8%B4%D9%85%D9%86%D8%AF%D8%A7%D9%86-%D8%A8%D9%87-%D8%AF%D8%B1%D9%87%D9%85-%D8%AA%D9%86%DB%8C%D8%AF%DA%AF%DB%8C-%DA%A9%D9%88%D8%A7%D9%86%D8%AA%D9%88%D9%85%DB%8C-%DB%B1%DB%B0-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA-%DB%8C%D8%A7%D9%81%D8%AA%D9%86%D8%AF",
+    "summary": "دانشمندان به درهم تنیدگی کوانتومی ۱۰ ثانیه ای دست یافتند و راه را برای محاسبات سریع تر هموار کردند. درهم تنیدگی کوانتومی به ساخت یک زیرساخت کوانتومی توزیع شده کمک می کند و در نتیجه رایانش کوانتومی را مقیاس پذیر می کند.",
+    "published": "Tue, 20 Oct 2026 16:13:00 GMT",
+    "collected_at": "2026-10-20T19:45:46.300367+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مشرق",
     "title": "فیلم/ دور افتخار امیرمحمد حقیقت شناس پس از کسب مدال طلا",
     "link": "https://www.mashreghnews.ir/news/1846943/%D9%81%DB%8C%D9%84%D9%85-%D8%AF%D9%88%D8%B1-%D8%A7%D9%81%D8%AA%D8%AE%D8%A7%D8%B1-%D8%A7%D9%85%DB%8C%D8%B1%D9%85%D8%AD%D9%85%D8%AF-%D8%AD%D9%82%DB%8C%D9%82%D8%AA-%D8%B4%D9%86%D8%A7%D8%B3-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
@@ -2611,30 +2695,6 @@
     "summary": "نمایندگان کشورمان موفق به کسب ۳ طلا، ۳ نقره و ۲ برنز در روز نخست بازی های پاراآسیایی ۲۰۲۶ ناگویا شدند.",
     "published": "19 Oct 2026 19:42:51 +0330",
     "collected_at": "2026-10-19T20:14:38.198037+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "شناگر کرمانی طلای بازی های پارا آسیایی ناگویا را بر گردن آویخت",
-    "link": "https://www.isna.ir/news/1405072718435/%D8%B4%D9%86%D8%A7%DA%AF%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%D8%B1%D8%A7-%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7-%D8%B1%D8%A7-%D8%A8%D8%B1-%DA%AF%D8%B1%D8%AF%D9%86-%D8%A2%D9%88%DB%8C%D8%AE%D8%AA",
-    "summary": "سینا ضیغمی نژاد شناگر کرمانی در پنجمین دوره بازی های پاراآسیایی ناگویا به مدال طلای ارزشمند این رقابت ها دست یافت.",
-    "published": "Mon, 19 Oct 2026 15:26:56 GMT",
-    "collected_at": "2026-10-19T19:14:02.528701+03:30",
     "market_score": 5,
     "market_matches": {
       "gold": [
