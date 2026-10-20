@@ -516,6 +516,63 @@
     ]
   },
   {
+    "source": "مشرق",
+    "title": "نفت ایران ۱۰۷ دلار شد",
+    "link": "https://www.mashreghnews.ir/news/1846930/%D9%86%D9%81%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B1%DB%B0%DB%B7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF",
+    "summary": "قیمت نفت ایران در بازار جهانی با افزایش بیش از یک دلاری به ۱۰۷ دلار و ۴۳ سنت در هر بشکه رسید.",
+    "published": "Tue, 20 Oct 2026 12:17:08 GMT",
+    "collected_at": "2026-10-20T16:14:25.532084+03:30",
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "قیمت نفت"
+    ]
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "سفر فرمانده ارتش پاکستان به ایران همزمان با جهش قیمت نفت!",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303075-%D8%B3%D9%81%D8%B1-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D8%A7%D8%B1%D8%AA%D8%B4-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7-%D8%AC%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA",
+    "summary": "همزمان با رسیدن نفت برنت به 110 دلار، خبر سفر عاصم منیر به تهران منتشر شده است.",
+    "published": "Tue, 20 Oct 2026 12:17:47 +0000",
+    "collected_at": "2026-10-20T16:14:16.047469+03:30",
+    "market_score": 19,
+    "market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "قیمت نفت"
+    ]
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "چرخش سریع بورس",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4302837-%DA%86%D8%B1%D8%AE%D8%B4-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%A8%D9%88%D8%B1%D8%B3",
@@ -1253,6 +1310,30 @@
   },
   {
     "source": "مهر",
+    "title": "قیمت LNG آسیا از ۳۰ دلار گذشت؛ نگرانی اروپا از تأمین گاز زمستانی",
+    "link": "https://www.mehrnews.com/news/6984272/%D9%82%DB%8C%D9%85%D8%AA-LNG-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%A7%D8%B2-%DB%B3%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%DA%AF%D8%B0%D8%B4%D8%AA-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A7%D8%B2-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%DA%AF%D8%A7%D8%B2-%D8%B2%D9%85%D8%B3%D8%AA%D8%A7%D9%86%DB%8C",
+    "summary": "قیمت نقدی گاز طبیعی مایع (LNG) در بازار آسیا با افزایش نگرانی ها درباره امنیت عرضه و اختلال در مسیرهای انتقال انرژی، به بالاترین سطح خود از دسامبر ۲۰۲۲ رسید.",
+    "published": "Tue, 20 Oct 2026 12:39:44 GMT",
+    "collected_at": "2026-10-20T16:14:09.129856+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
     "title": "کشف ۱۱ دستگاه ماینر غیرمجاز به ارزش ۲۲ میلیارد ریال در بندرعباس",
     "link": "https://www.mehrnews.com/news/6984071/%DA%A9%D8%B4%D9%81-%DB%B1%DB%B1-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%DB%B2%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
     "summary": "بندرعباس - رئیس پلیس امنیت اقتصادی هرمزگان از کشف ۱۱ دستگاه استخراج رمزارز غیرمجاز به ارزش ۲۲ میلیارد ریال در شهرستان بندرعباس خبر داد.",
@@ -1804,54 +1885,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "رونالدو با ۳۰۰ میلیون دلار، پردرآمدترین فوتبالیست جهان",
-    "link": "https://www.isna.ir/news/1405072718225/%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%A8%D8%A7-%DB%B3%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%BE%D8%B1%D8%AF%D8%B1%D8%A2%D9%85%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%AC%D9%87%D8%A7%D9%86",
-    "summary": "مهاجم پرتغالی النصر با اختلاف فاحش در صدر پردرآمدترین فوتبالیست های جهان در فصل جاری قرار دارد.",
-    "published": "Mon, 19 Oct 2026 12:34:00 GMT",
-    "collected_at": "2026-10-19T16:14:13.504374+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "این شغل عجیب ساعتی ۴۰۰ دلار حقوق دارد!",
-    "link": "https://www.isna.ir/news/1405072718229/%D8%A7%DB%8C%D9%86-%D8%B4%D8%BA%D9%84-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%B3%D8%A7%D8%B9%D8%AA%DB%8C-%DB%B4%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AD%D9%82%D9%88%D9%82-%D8%AF%D8%A7%D8%B1%D8%AF",
-    "summary": "بعضی شرکت های داده آینده ای را تصور می کنند که دیگر وابسته به جذب متخصصان نباشند و داده را عمده از کارفرماها بخرند. در چنین آینده ای تقریبا هر کسی که با کامپیوتر کار می کند، خواه ناخواه داده کار حساب می شود.",
-    "published": "Mon, 19 Oct 2026 12:37:00 GMT",
-    "collected_at": "2026-10-19T16:14:13.504336+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "افزایش 79 درصدی درآمد صنعت ارتباطات بورس تهران+ جزئیات",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303055-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D8%B5%D9%86%D8%B9%D8%AA-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%D8%A7%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA",
@@ -1947,6 +1980,30 @@
     "high_impact_matches": [
       "جنگ"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "تعداد طلاهای ایران دو رقمی شد/ خسروی دهمین قهرمان در ناگویا",
+    "link": "https://www.isna.ir/news/1405072819179/%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D8%B7%D9%84%D8%A7%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D9%88-%D8%B1%D9%82%D9%85%DB%8C-%D8%B4%D8%AF-%D8%AE%D8%B3%D8%B1%D9%88%DB%8C-%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7",
+    "summary": "در دومین روز از بازی های پاراآسیایی ۲۰۲۶ ناگویا ژاپن، یاسین خسروی در پرتاب وزنه کلاس F۵۷ با کسب مدال طلا در این ماده، تعداد طلاهای ایران را دو رقمی کرد.",
+    "published": "Tue, 20 Oct 2026 12:24:29 GMT",
+    "collected_at": "2026-10-20T16:14:04.113880+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
@@ -2628,30 +2685,6 @@
     "summary": "کاروان ایران در روز اول بازی های پاراآسیایی ناگویا در رشته های پاراتکواندو، پارادوومیدانی و پاراشنا صاحب ۸ مدال شد. چین هم با ۲۶ مدال طلا صدرنشین بازیهاست.",
     "published": "Mon, 19 Oct 2026 13:00:00 GMT",
     "collected_at": "2026-10-19T16:46:55.926805+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "ضیغمی نژاد طلا گرفت و ایزدیار نقره ای شد",
-    "link": "https://www.tabnak.ir/fa/news/1399448/ضیغمی-نژاد-طلا-گرفت-و-ایزدیار-نقره-ای-شد",
-    "summary": "شنای ایران در بازی های پاراآسیایی ناگویا با طلای سینا ضیغمی نژاد و نقره شاهین ایزدیار در ماده ۱۰۰ متر آزاد کلاس S10 به درخشش دو نماینده کشورمان انجامید.",
-    "published": "19 Oct 2026 15:34:07 +0330",
-    "collected_at": "2026-10-19T15:46:02.833586+03:30",
     "market_score": 5,
     "market_matches": {
       "gold": [
