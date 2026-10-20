@@ -7445,5 +7445,34 @@
     "group_thread_id": 25,
     "group_message_id": 546,
     "published_at": "2026-10-20T16:48:16.198976+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25642": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "محسن رضایی دیدار با عاصم منیر را نپذیرفت به گزارش ایران پالیسی، محسن رضایی، دبیر شورای‌عالی امنیت...",
+      "summary": "محسن رضایی دیدار با عاصم منیر را نپذیرفت به گزارش ایران پالیسی، محسن رضایی، دبیر شورای‌عالی امنیت ملی ایران، درخواست دیدار عاصم منیر، فرمانده ارتش پاکستان، را نپذیرفته است./رکنا نفت هم ۱۱۲ دلار شد.\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25642",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-20T17:16:06.192699+03:30"
+    },
+    "first_seen_at": "2026-10-20T17:16:08.762326+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-20T17:16:09.386341+03:30",
+    "telegram_message_id": 820,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-20T17:16:10.954453+03:30",
+    "eitaa_message_id": 177445664,
+    "group_sent": true,
+    "group_sent_at": "2026-10-20T17:16:11.480908+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 548,
+    "published_at": "2026-10-20T17:16:11.487208+03:30"
   }
 }
