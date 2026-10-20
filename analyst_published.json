@@ -7474,5 +7474,63 @@
     "group_thread_id": 25,
     "group_message_id": 548,
     "published_at": "2026-10-20T17:16:11.487208+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8615": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "نفت ۳ دلار اصلاح کرد از اونور بقیه بازارها بالا زدن ‼️",
+      "summary": "⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8615",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-20T18:17:34.292616+03:30"
+    },
+    "first_seen_at": "2026-10-20T18:17:35.095037+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-20T18:17:35.606798+03:30",
+    "telegram_message_id": 822,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-20T18:17:36.810745+03:30",
+    "eitaa_message_id": 177456995,
+    "group_sent": true,
+    "group_sent_at": "2026-10-20T18:17:37.252912+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 550,
+    "published_at": "2026-10-20T18:17:37.260912+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8616": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "نفت ۳ دلار اصلاح کرد از اونور بقیه بازارها بالا زدن ‼️ ⚡️ @Alirezamehrabi_ir",
+      "summary": "نفت ۳ دلار اصلاح کرد از اونور بقیه بازارها بالا زدن ‼️ ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8616",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-20T18:17:34.292722+03:30"
+    },
+    "first_seen_at": "2026-10-20T18:17:37.268318+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-20T18:17:37.650650+03:30",
+    "telegram_message_id": 823,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-20T18:17:38.847025+03:30",
+    "eitaa_message_id": 177456998,
+    "group_sent": true,
+    "group_sent_at": "2026-10-20T18:17:39.229134+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 551,
+    "published_at": "2026-10-20T18:17:39.237034+03:30"
   }
 }
