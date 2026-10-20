@@ -7354,5 +7354,34 @@
     "group_thread_id": 25,
     "group_message_id": 534,
     "published_at": "2026-10-20T13:18:20.994147+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25639": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "عاصم منیر به تهران رسید اما نفت به بالای ۱۱۱ دلار رفت یکی از علت‌های رشد نفت دو نفتکش بزرگ هستند...",
+      "summary": "عاصم منیر به تهران رسید اما نفت به بالای ۱۱۱ دلار رفت یکی از علت‌های رشد نفت دو نفتکش بزرگ هستند که امروز تو تنگه هرمز مورد اصابت قرار گرفتن و آتش گرفتن و سخنگوی وزارت خارجه هم گفتن هیچ مذاکره هسته‌ایی در کار نیست.\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25639",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-20T14:07:26.053644+03:30"
+    },
+    "first_seen_at": "2026-10-20T14:07:28.405567+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-20T14:07:28.900261+03:30",
+    "telegram_message_id": 811,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-20T14:07:30.115993+03:30",
+    "eitaa_message_id": 177410250,
+    "group_sent": true,
+    "group_sent_at": "2026-10-20T14:07:30.594231+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 539,
+    "published_at": "2026-10-20T14:07:30.601316+03:30"
   }
 }
