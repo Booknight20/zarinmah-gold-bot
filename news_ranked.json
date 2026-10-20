@@ -256,6 +256,34 @@
     "medium_impact_matches": []
   },
   {
+    "source": "ایسنا",
+    "title": "بورس به رشد آرام خود ادامه داد/ بازار به بزرگان محدود نشد",
+    "link": "https://www.isna.ir/news/1405072818986/%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D8%B1%D8%B4%D8%AF-%D8%A2%D8%B1%D8%A7%D9%85-%D8%AE%D9%88%D8%AF-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF%D8%A7%D9%86-%D9%85%D8%AD%D8%AF%D9%88%D8%AF-%D9%86%D8%B4%D8%AF",
+    "summary": "شاخص کل بورس تهران در معاملات امروز (سه شنبه) با رشد بیش از ۱۸ هزار واحدی به هشت میلیون و ۲۷۲ هزار واحد رسید و شاخص هم وزن نیز افزایش بیش از ۲۸ هزار واحدی را تجربه کرد. همزمان، ارزش معاملات بورس به ۴۲.۸ همت رسید و فرابورس ایران نیز با رشد شاخص کل همراه شد.",
+    "published": "Tue, 20 Oct 2026 09:38:24 GMT",
+    "collected_at": "2026-10-20T13:17:16.978119+03:30",
+    "market_score": 22,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "شاخص هم وزن",
+      "فرابورس",
+      "ارزش معاملات"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "نوسان طلا در بازارهای جهانی؛ افت قیمت طلا و رشد شاخص ۱ روزه",
     "link": "https://www.mehrnews.com/news/6983486/%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B1%D8%B4%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DB%B1-%D8%B1%D9%88%D8%B2%D9%87",
@@ -430,6 +458,34 @@
     "medium_impact_matches": []
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۲۸ مهر ۱۴۰۵/ یورو ۲۹۸ هزار تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2290771/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%DB%8C%D9%88%D8%B1%D9%88-%DB%B2%DB%B9%DB%B8",
+    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۲۸ مهر ۱۴۰۵ اعلام شد و یورو ۲۹۸ هزار تومان قیمت خورد.",
+    "published": "Tue, 20 Oct 2026 09:26:34 GMT",
+    "collected_at": "2026-10-20T13:17:50.418420+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "قیمت دلار، یورو و درهم امروز سه شنبه 28 مهر ۱۴۰۵/ دلار به 263 هزار تومان رسید",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303046-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -508,6 +564,33 @@
       "دلار",
       "یورو",
       "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "تابناک",
+    "title": "قیمت دلار امروز سه شنبه ۲۸ مهرماه؛ نرخ دلار با کارت ملی اعلام شد",
+    "link": "https://www.tabnak.ir/fa/news/1399589/قیمت-دلار-امروز-سه-شنبه-28-مهرماه-نرخ-دلار-با-کارت-ملی-اعلام-شد",
+    "summary": "اختلاف قیمت حدود ۶ هزار تومانیِ دلار کارت ملی با بازار آزاد، در روزی رقم خورده که اسکناس آمریکایی در معاملات چهارمین روز هفته با نوسان افزایشی همراه شده؛ روندی که در حواله های مرکز مبادله نیز به چشم می خورد.",
+    "published": "20 Oct 2026 13:08:22 +0330",
+    "collected_at": "2026-10-20T13:17:55.257760+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "نرخ دلار",
+      "مرکز مبادله"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -734,33 +817,6 @@
   },
   {
     "source": "مهر",
-    "title": "رشد ۷۳ هزار واحدی شاخص کل بورس",
-    "link": "https://www.mehrnews.com/news/6982743/%D8%B1%D8%B4%D8%AF-%DB%B7%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3",
-    "summary": "شاخص کل بورس تهران در معاملات امروز دوشنبه ۲۷ مهرماه با رشد ۰.۹ درصدی به بیش از ۸ میلیون و ۲۵۳ هزار واحد رسید؛ هم زمان شاخص هم وزن ۱.۵۱ درصد افزایش یافت.",
-    "published": "Mon, 19 Oct 2026 09:44:20 GMT",
-    "collected_at": "2026-10-19T13:17:23.405515+03:30",
-    "market_score": 14,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
     "title": "چگونه و در کجا در دومین صندوق ارزی سرمایه گذاری کنیم؟",
     "link": "https://www.mehrnews.com/news/6983710/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D9%88-%D8%AF%D8%B1-%DA%A9%D8%AC%D8%A7-%D8%AF%D8%B1-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%DA%A9%D9%86%DB%8C%D9%85",
     "summary": "مرکز نظارت بر صندوق های سرمایه گذاری سازمان بورس و اوراق بهادار، مجوز فعالیت دومین صندوق سرمایه گذاری در دارایی های با درآمد ثابت ارزی را صادر کرده است.",
@@ -812,58 +868,29 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "بازگشت بورس تهران به مدار صعودی/شاخص کل ۷۳ هزار واحد رشد کرد",
-    "link": "https://www.isna.ir/news/1405072718154/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D9%85%D8%AF%D8%A7%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%DB%B7%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF",
-    "summary": "بورس تهران پس از دو روز افت سنگین، معاملات امروز دوشنبه را با رشد شاخص های کل و هم وزن به پایان رساند؛ به طوری که شاخص کل بیش از ۷۳ هزار واحد افزایش یافت و شاخص هم وزن نیز رشد قابل توجهی را تجربه کرد. با این حال، تداوم این روند صعودی به وضعیت ریسک های حاکم بر بازار و عملکرد شرکت ها بستگی دارد.",
-    "published": "Mon, 19 Oct 2026 09:26:00 GMT",
-    "collected_at": "2026-10-19T13:17:09.432732+03:30",
+    "source": "مشرق",
+    "title": "قیمت طلا و سکه سه شنبه ۲۸ مهر ۱۴۰۵",
+    "link": "https://www.mashreghnews.ir/news/1846899/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%DB%B2%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "summary": "در بازار قیمت طلای ۱۸عیار ۲۶میلیون و ۴۱۸هزار تومان و قیمت سکه طرح جدید ۲۶۷میلیون و ۷۰۰هزار تومان شد.",
+    "published": "Tue, 20 Oct 2026 09:29:21 GMT",
+    "collected_at": "2026-10-20T13:18:00.637896+03:30",
     "market_score": 12,
     "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
+      "gold": [
+        "طلا"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
     "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن"
+    "gold_matches": [
+      "طلا",
+      "سکه"
     ],
+    "currency_matches": [],
+    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "بورس به مدار صعود برگشت؛ چراغ بازار سهام با ورود ۳ همت پول روشن شد",
-    "link": "https://www.tabnak.ir/fa/news/1399429/بورس-به-مدار-صعود-برگشت-چراغ-بازار-سهام-با-ورود-3-همت-پول-روشن-شد",
-    "summary": "بورس تهران امروز دوشنبه ۲۷ مهرماه با رشد ۷۳ هزار واحدی شاخص کل و ورود ۳ هزار میلیارد تومان نقدینگی حقیقی، روزی سبز و پرقدرت را به ثبت رساند.",
-    "published": "19 Oct 2026 13:00:37 +0330",
-    "collected_at": "2026-10-19T13:17:47.068468+03:30",
-    "market_score": 12,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "نقدینگی"
-    ]
   },
   {
     "source": "دنیای اقتصاد",
@@ -1043,32 +1070,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "چشم انداز سرمایه گذاری ۷۶ میلیارد دلاری در صنعت نفت ونزوئلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4302793-%DA%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B5%D9%86%D8%B9%D8%AA-%D9%86%D9%81%D8%AA-%D9%88%D9%86%D8%B2%D9%88%D8%A6%D9%84%D8%A7",
-    "summary": "دنیای اقتصاد: دولت ونزوئلا که در پی جذب سرمایه بخش خصوصی و بازگرداندن رونق به بخش انرژی است، پیش بینی می کند ظرف پنج سال حدود ۷۶میلیارد دلار در صنعت نفت و گاز این کشور سرمایه گذاری شود.",
-    "published": "Mon, 19 Oct 2026 09:30:07 +0000",
-    "collected_at": "2026-10-19T13:17:35.540520+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مهر",
     "title": "افزایش نرخ بهره، بازار املاک تجاری جهان را به مرز رکود کشاند",
     "link": "https://www.mehrnews.com/news/6982890/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%86%D8%B1%D8%AE-%D8%A8%D9%87%D8%B1%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%85%D8%B1%D8%B2-%D8%B1%DA%A9%D9%88%D8%AF-%DA%A9%D8%B4%D8%A7%D9%86%D8%AF",
@@ -1117,6 +1118,30 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "اختصاص ۲ هزار میلیارد ریال به ورزش و جوانان فارس با رشد ۸۹ درصدی",
+    "link": "https://www.mehrnews.com/news/6983942/%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%DB%B2-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A8%D9%87-%D9%88%D8%B1%D8%B2%D8%B4-%D9%88-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D8%A7-%D8%B1%D8%B4%D8%AF-%DB%B8%DB%B9-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C",
+    "summary": "شیراز- مدیرکل امور مالیاتی فارس از اختصاص ۲ هزار میلیارد ریال از محل عوارض و مالیات بر ارزش افزوده به حوزه ورزش و جوانان استان در نیمه نخست امسال خبر داد.",
+    "published": "Tue, 20 Oct 2026 09:33:36 GMT",
+    "collected_at": "2026-10-20T13:17:30.983183+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "ایسنا",
@@ -1696,6 +1721,30 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "افزایش 79 درصدی درآمد صنعت ارتباطات بورس تهران+ جزئیات",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303055-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D8%B5%D9%86%D8%B9%D8%AA-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%D8%A7%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA",
+    "summary": "درآمد صنعت ارتباطات بورس تهران در ۶ماه نخست امسال مقایسه با دوره مشابه سال گذشته ۷۹درصد افزایش نشان می دهد.",
+    "published": "Tue, 20 Oct 2026 09:26:31 +0000",
+    "collected_at": "2026-10-20T13:17:45.285277+03:30",
+    "market_score": 6,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "ورود ۳.۳ همت پول به بورس؛ سرنوشت سود پالایشی ها چه می شود؟ +فیلم",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302866-%D9%88%D8%B1%D9%88%D8%AF-%D9%87%D9%85%D8%AA-%D9%BE%D9%88%D9%84-%D8%A8%D9%87-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B3%D8%B1%D9%86%D9%88%D8%B4%D8%AA-%D8%B3%D9%88%D8%AF-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DB%8C-%D9%87%D8%A7-%DA%86%D9%87-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
     "summary": "روند معاملات و جریان نقدینگی مورد بررسی قرار گرفت؛ جایی که ورود ۳.۳ همت پول حقیقی و برتری قابل توجه صف های خرید نسبت به فروش، از تقویت تقاضا در بازار حکایت داشت.",
@@ -1766,6 +1815,30 @@
     "high_impact_matches": [
       "جنگ"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "بیت کوین در رقابت با طلا و سهام آمریکا پیشتاز می شود؟",
+    "link": "https://www.isna.ir/news/1405072818978/%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%AF%D8%B1-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA-%D8%A8%D8%A7-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%D9%87%D8%A7%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%BE%DB%8C%D8%B4%D8%AA%D8%A7%D8%B2-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "جی پی مورگان پیش بینی کرد که بیت کوین طی ۱۰ تا ۱۵ سال آینده، بازده سالانه بیشتری نسبت به سهام شرکت های بزرگ آمریکایی و طلا داشته باشد.",
+    "published": "Tue, 20 Oct 2026 09:33:33 GMT",
+    "collected_at": "2026-10-20T13:17:16.978237+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
@@ -2513,78 +2586,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "اولین طلای ایران برای دختر پاراتکواندوکار",
-    "link": "https://www.tabnak.ir/fa/news/1399427/اولین-طلای-ایران-برای-دختر-پاراتکواندوکار",
-    "summary": "آیلار جامی در فینال پاراتکواندو بازی های آسیایی ناگویا مقابل حریف تایلندی مدال طلای این رقابت ها را کسب کرد.",
-    "published": "19 Oct 2026 12:44:44 +0330",
-    "collected_at": "2026-10-19T13:17:47.068512+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "اژه ای: با رانت خواران و متخلفان ارزی قاطعانه برخورد کنید",
-    "link": "https://www.mehrnews.com/news/6982731/%D8%A7%DA%98%D9%87-%D8%A7%DB%8C-%D8%A8%D8%A7-%D8%B1%D8%A7%D9%86%D8%AA-%D8%AE%D9%88%D8%A7%D8%B1%D8%A7%D9%86-%D9%88-%D9%85%D8%AA%D8%AE%D9%84%D9%81%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%82%D8%A7%D8%B7%D8%B9%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%DA%A9%D9%86%DB%8C%D8%AF",
-    "summary": "رئیس قوه قضاییه با تأکید بر ضرورت مبارزه با فساد، خواستار پیگیری جدی تخلفات ارزی، بازنگشتن ارزهای صادراتی و انحراف تسهیلات بانکی از مسیر تولید شد و بر استیفای حقوق بیت المال تأکید کرد.",
-    "published": "Mon, 19 Oct 2026 09:34:14 GMT",
-    "collected_at": "2026-10-19T13:17:23.405662+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "۲ مدال طلا و نقره زنان پارادوومیدانی ایران در ناگویا",
-    "link": "https://www.isna.ir/news/1405072718161/%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%B2%D9%86%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%A7%D8%AF%D9%88%D9%88%D9%85%DB%8C%D8%AF%D8%A7%D9%86%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7",
-    "summary": "در نخستین روز از بازی های پاراآسیایی ۲۰۲۶ ناگویا ژاپن، الهام صالحی در ماده پرتاب نیزه به مدال طلا و معصومه تورانی به مدال نقره دست یافتند.",
-    "published": "Mon, 19 Oct 2026 09:34:52 GMT",
-    "collected_at": "2026-10-19T13:17:09.432629+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "مشرق",
     "title": "روند صعودی تولید و ظرفیت نفت ایران در سایه تحریم ها",
     "link": "https://www.mashreghnews.ir/news/1846599/%D8%B1%D9%88%D9%86%D8%AF-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%88-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7",
@@ -2651,30 +2652,6 @@
     "currency_matches": [],
     "stock_matches": [
       "بورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "توصیه کریمی به متقاضیان سرمایه گذاری: بهتر است مستقیم وارد بازار سرمایه نشوید + ویدئو",
-    "link": "https://www.khabaronline.ir/news/2290322/%D8%AA%D9%88%D8%B5%DB%8C%D9%87-%DA%A9%D8%B1%DB%8C%D9%85%DB%8C-%D8%A8%D9%87-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C%D8%A7%D9%86-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A8%D9%87%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA-%D9%85%D8%B3%D8%AA%D9%82%DB%8C%D9%85-%D9%88%D8%A7%D8%B1%D8%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1",
-    "summary": "سعید کریمی، مدیرعامل و نائب رییس شرکت سرمایه گذاری گروه صنایع بهشهر معتقد است برای سرمایه گذاری باید پرتفو تشکیل بدهند و مستقیم و تک سهم وارد بازار سرمایه نشوند.",
-    "published": "Mon, 19 Oct 2026 09:29:00 GMT",
-    "collected_at": "2026-10-19T13:17:40.896389+03:30",
-    "market_score": 4,
-    "market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بازار سرمایه"
     ],
     "high_impact_matches": [],
     "medium_impact_matches": []
