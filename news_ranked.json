@@ -39,6 +39,42 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "افزایش قیمت ها در بازار ارز و طلا/ قیمت سکه نزولی شد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303325-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF",
+    "summary": "چهارشنبه 29 مهر بازار طلا، سکه و ارز معاملات را با گپ مثبت و افزایش قیمت ها آغاز کرد؛ دلار تا کانال ۲۶۷ هزار تومان پیش رفت و طلای ۱۸ عیار به ۲۶ میلیون و ۶۶۳ هزار تومان رسید، اما سکه امامی در نیمه دوم روز تغییر مسیر داد و نیم سکه و ربع سکه نیز نزولی شدند.",
+    "published": "Wed, 21 Oct 2026 15:03:02 +0000",
+    "collected_at": "2026-10-21T18:46:06.121438+03:30",
+    "market_score": 47,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز",
+        "بازار ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی",
+      "نیم سکه",
+      "ربع سکه"
+    ],
+    "currency_matches": [
+      "دلار",
+      "بازار ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت طلا، سکه و دلار امروز چهارشنبه 29 مهر 1405/ نرخ دلار به کدام سمت می رود؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303251-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D9%86%D8%B1%D8%AE-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%DA%A9%D8%AF%D8%A7%D9%85-%D8%B3%D9%85%D8%AA-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF",
     "summary": "به گفته تحلیلگران، مسیر بازار ارز در معاملات چهارشنبه بیش از هر چیز به اخبار سیاسی و تحولات مرتبط با احتمال کاهش تنش میان ایران و آمریکا وابسته است.",
@@ -1408,6 +1444,30 @@
     ]
   },
   {
+    "source": "مهر",
+    "title": "دستگیری دو جاعل اسکناس با یک میلیارد و ۵۰۰ میلیون ریال پول تقلبی",
+    "link": "https://www.mehrnews.com/news/6985675/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D9%88-%D8%AC%D8%A7%D8%B9%D9%84-%D8%A7%D8%B3%DA%A9%D9%86%D8%A7%D8%B3-%D8%A8%D8%A7-%DB%8C%DA%A9-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D9%88-%DB%B5%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%B1%DB%8C%D8%A7%D9%84-%D9%BE%D9%88%D9%84-%D8%AA%D9%82%D9%84%D8%A8%DB%8C",
+    "summary": "رباط کریم- سرپرست فرماندهی انتظامی رباط کریم، از دستگیری دو متهم به جعل اسکناس و کشف یک میلیارد و ۵۰۰ میلیون ریال پول جعلی خبر داد.",
+    "published": "Wed, 21 Oct 2026 14:45:10 GMT",
+    "collected_at": "2026-10-21T18:46:01.165461+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "نایب رییس مشاوران املاک : پرداخت دلاری و تتری برای خرید ملک غیرقانونی است",
     "link": "https://www.khabaronline.ir/news/2291304/%D9%86%D8%A7%DB%8C%D8%A8-%D8%B1%DB%8C%DB%8C%D8%B3-%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%88-%D8%AA%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%85%D9%84%DA%A9-%D8%BA%DB%8C%D8%B1%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C",
@@ -2374,30 +2434,6 @@
     "summary": "امیرمحمد حقیقت شناس در فینال مسابقات پاراتکواندو بازی های پاراآسیایی ناگویا به پیروزی رسید و مدال طلا را بر گردن آویخت.",
     "published": "Tue, 20 Oct 2026 14:25:00 GMT",
     "collected_at": "2026-10-20T18:17:25.338610+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "زهرا رحیمی: دوست داشتم طلا بگیرم اما حریف قدر بود/ عبدالله پور: نمی خواستم دست خالی برگردم",
-    "link": "https://www.isna.ir/news/1405072819214/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D9%BE%D8%A7%D8%B1%D8%A7%D8%AA%DA%A9%D9%88%D8%A7%D9%86%D8%AF%D9%88-%D8%A8%D9%87-%DA%A9%D8%B3%D8%A8-%D8%AF%D9%88-%D9%85%D8%AF%D8%A7%D9%84-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%D8%B1%D8%A7%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C",
-    "summary": "ملی پوش پاراتکواندوی زنان ایران در مورد کسب مدال نقره در بازی های پاراآسیایی ناگویا گفت: دوست داشتم طلا بگیرم و برای آن با تمام توانم جنگیدم اما حریفم از بهترین های پاراتکواندو و قدر بود.",
-    "published": "Tue, 20 Oct 2026 14:30:00 GMT",
-    "collected_at": "2026-10-20T18:17:03.911635+03:30",
     "market_score": 5,
     "market_matches": {
       "gold": [
