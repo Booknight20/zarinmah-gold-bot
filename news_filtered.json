@@ -452,6 +452,24 @@
     "major_event_matches": []
   },
   {
+    "source": "مهر",
+    "title": "رکورد تاریخی دانش آموزان ایرانی در المپیادهای جهانی؛ ۱۸ طلا در سال جنگ",
+    "link": "https://www.mehrnews.com/news/6983659/%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%DB%B1%DB%B8-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1",
+    "summary": "دانش پژوهان ایرانی در حالی ۱۸ مدال طلا، ۱۶ نقره و ۱۷ برنز در رقابت های علمی جهانی و بین المللی ۲۰۲۶ به دست آوردند که جنگ و محدودیت اینترنت مسیر آماده سازی آنها را دشوار کرده بود.",
+    "published": "Wed, 21 Oct 2026 03:16:00 GMT",
+    "collected_at": "2026-10-21T06:47:17.084413+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [
+      "جنگ"
+    ]
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "دستیار ارزی رئیس کل بانک مرکزی : ذخایر اسکناس ارز به استاندارد رسید",
     "link": "https://www.khabaronline.ir/news/2290987/%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B1%D8%A6%DB%8C%D8%B3-%DA%A9%D9%84-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B3%DA%A9%D9%86%D8%A7%D8%B3-%D8%A7%D8%B1%D8%B2-%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
@@ -735,22 +753,6 @@
     "summary": "معاون رئیس جمهوری آمریکا مدعی شد که هیچ آمریکایی نمی خواهد ایران کنترل عرضه نفت جهان را در دست بگیرد.",
     "published": "Tue, 20 Oct 2026 02:38:41 +0000",
     "collected_at": "2026-10-20T07:14:20.200025+03:30",
-    "market_score": 4,
-    "market_matches": {},
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ]
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "ونس: اگر ایران کنترل عرضه نفت جهان را به دست گیرد، جنگ پایان می یابد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4302990-%D9%88%D9%86%D8%B3-%D8%A7%DA%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%B9%D8%B1%D8%B6%D9%87-%D9%86%D9%81%D8%AA-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AF%D8%B3%D8%AA-%DA%AF%DB%8C%D8%B1%D8%AF-%D8%AC%D9%86%DA%AF-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%85%DB%8C-%DB%8C%D8%A7%D8%A8%D8%AF",
-    "summary": "معاون رئیس جمهوری آمریکا مدعی شد که هیچ آمریکایی نمی خواهد ایران کنترل عرضه نفت جهان را در دست بگیرد.",
-    "published": "Tue, 20 Oct 2026 02:38:41 +0000",
-    "collected_at": "2026-10-20T06:17:20.343950+03:30",
     "market_score": 4,
     "market_matches": {},
     "driver_matches": [
