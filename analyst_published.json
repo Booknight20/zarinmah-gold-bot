@@ -7739,5 +7739,34 @@
     "group_thread_id": 25,
     "group_message_id": 574,
     "published_at": "2026-10-21T10:18:22.772653+03:30"
+  },
+  "https://t.me/drarashamini/7233": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "ریشمک یکی دیگه از نمادهایی هست که در اتاق ترید طی یک ماه گذشته معرفی شد و نزدیک به 44 درصد سودآوری داشت.",
+      "summary": "ریشمک یکی دیگه از نمادهایی هست که در اتاق ترید طی یک ماه گذشته معرفی شد و نزدیک به 44 درصد سودآوری داشت.\nامیدوارم بتونیم همین مسیر رو ادامه بدیم.\n———————————————————————-\n✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7233",
+      "analysis_score": 4,
+      "market_matches": [
+        "طلا",
+        "نماد"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-21T10:48:22.032853+03:30"
+    },
+    "first_seen_at": "2026-10-21T10:48:27.260983+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-21T10:48:27.812919+03:30",
+    "telegram_message_id": 846,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-21T10:48:29.388052+03:30",
+    "eitaa_message_id": 177552354,
+    "group_sent": true,
+    "group_sent_at": "2026-10-21T10:48:29.961601+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 576,
+    "published_at": "2026-10-21T10:48:29.970152+03:30"
   }
 }
