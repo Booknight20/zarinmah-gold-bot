@@ -169,35 +169,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "محبی نجم آبادی: نرخ ارز نباید به صورت صفر و یک و بدون توجه به شرایط اقتصادی مدیریت شود",
-    "link": "https://www.isna.ir/news/1405072819097/%D9%85%D8%AD%D8%A8%DB%8C-%D9%86%D8%AC%D9%85-%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D8%B5%D9%81%D8%B1-%D9%88-%DB%8C%DA%A9-%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%88%D8%AC%D9%87-%D8%A8%D9%87",
-    "summary": "نماینده مردم سبزوار در مجلس شورای اسلامی گفت: نرخ ارز نباید به صورت صفر و یک و بدون توجه به شرایط اقتصادی مدیریت شود، بلکه باید در یک دوره یک ساله، مبنایی نسبتا باثبات داشته باشد و متناسب با نرخ تورم اعلامی بانک مرکزی تعدیل شود.",
-    "published": "Tue, 20 Oct 2026 11:04:12 GMT",
-    "collected_at": "2026-10-20T14:47:23.405957+03:30",
-    "market_score": 25,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "نرخ ارز",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی",
-      "تورم"
-    ],
-    "medium_impact_matches": []
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۹ مهر ۱۴۰۵ در زمان بازگشایی بازار/ پوند ۳۶۰۰ تومان گران شد + جدول",
     "link": "https://www.khabaronline.ir/news/2291069/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B9-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
@@ -484,6 +455,34 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "وصول بیش از ۳ میلیون یورو و دلار تعهدات ارزی در همدان",
+    "link": "https://www.mehrnews.com/news/6984884/%D9%88%D8%B5%D9%88%D9%84-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%AF%D8%B1-%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+    "summary": "همدان-دادستان همدان از وصول بیش از ۳ میلیون یورو و دلار از محل تعهدات ارزی حاصل از صادرات و واردات در استان همدان در نیمه نخست سال ۱۴۰۵ خبر داد.",
+    "published": "Wed, 21 Oct 2026 11:42:05 GMT",
+    "collected_at": "2026-10-21T15:14:15.277653+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -923,6 +922,33 @@
   },
   {
     "source": "مهر",
+    "title": "نیمی از اصلاح شاخص کل با صف فروش یک نماد «مس فروش»",
+    "link": "https://www.mehrnews.com/news/6985419/%D9%86%DB%8C%D9%85%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D8%A7-%D8%B5%D9%81-%D9%81%D8%B1%D9%88%D8%B4-%DB%8C%DA%A9-%D9%86%D9%85%D8%A7%D8%AF-%D9%85%D8%B3-%D9%81%D8%B1%D9%88%D8%B4",
+    "summary": "شاخص کل بورس در آخرین روز کاری مهر با افت ۱.۲ درصدی به ۸ میلیون و ۱۷۳ هزار واحد رسید؛ فشار فروش در فملی و فارس شاخص را پایین کشید و خروج ۴ هزار و ۱۷۳ میلیارد تومان پول حقیقی از سهام ثبت شد.",
+    "published": "Wed, 21 Oct 2026 11:39:01 GMT",
+    "collected_at": "2026-10-21T15:14:15.277712+03:30",
+    "market_score": 14,
+    "market_matches": {
+      "stock": [
+        "شاخص کل",
+        "صف فروش"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "صف فروش"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
     "title": "بررسی نقش جنگ و تحریم بر صعود تورم مصرف کننده در اقتصاد ایران",
     "link": "https://www.mehrnews.com/news/6984974/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%86%D9%82%D8%B4-%D8%AC%D9%86%DA%AF-%D9%88-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D8%A8%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF-%D8%AA%D9%88%D8%B1%D9%85-%D9%85%D8%B5%D8%B1%D9%81-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
     "summary": "ورود شوک های بیرونی مانند جنگ ۱۲روزه، تحریم های نفتی و محاصره دریایی، تورم نقطه به نقطه ایران را به بیش از ۸۳ درصد رساند.",
@@ -1191,58 +1217,6 @@
   },
   {
     "source": "تابناک",
-    "title": "رشد کم رمق شاخص کل بورس/ ۴ هزار میلیارد تومان از کدام گروه بورسی خارج شد؟",
-    "link": "https://www.tabnak.ir/fa/news/1399597/رشد-کم-رمق-شاخص-کل-بورس-4-هزار-میلیارد-تومان-از-کدام-گروه-بورسی-خارج-شد",
-    "summary": "بورس در چهارمین روز هفته سبزپوش ماند و شاخص کل روند صعودی داشت، هرچند شتاب رشد شاخص بورس در نیمه معاملات فروکش کرد.",
-    "published": "20 Oct 2026 13:52:16 +0330",
-    "collected_at": "2026-10-20T14:07:16.753845+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "عقب نشینی ۱۱۴ هزار واحدی شاخص بورس از سقف روزانه",
-    "link": "https://www.mehrnews.com/news/6984092/%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%DB%B1%DB%B1%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D8%B2-%D8%B3%D9%82%D9%81-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87",
-    "summary": "شاخص کل بورس تهران در پایان معاملات سه شنبه با رشد ۰.۲۲ درصدی به ۸ میلیون و ۲۷۲ هزار واحد رسید اما نسبت به سقف روزانه حدود ۱۱۴ هزار واحد عقب نشست.",
-    "published": "Tue, 20 Oct 2026 10:33:08 GMT",
-    "collected_at": "2026-10-20T14:06:58.651767+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
     "title": "قیمت طلا امروز ۲۹ مهر / کدام سکه، بیشترین خطر سرمایه گذاری را دارد؟",
     "link": "https://www.tabnak.ir/fa/news/1399749/قیمت-طلا-امروز-29-مهر-کدام-سکه-بیشترین-خطر-سرمایه-گذاری-را-دارد",
     "summary": "در بازار امروز طلا ، سرمایه درشت سراغ طلا و سکه های تمام رفت و خریدار محافظ به سمت بهار آزادی حرکت کرد؛ اما خریدار خرد به خروج فکر می کرد و تفاوت این دو گروه در یک چیز است و آن این است که پول بزرگ، حباب را درنظر می گیرد و پول خرد صعود را.",
@@ -1298,31 +1272,6 @@
     "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت طلا و سکه امروز کاهشی شد.",
     "published": "Wed, 21 Oct 2026 05:10:16 +0000",
     "collected_at": "2026-10-21T08:47:52.296296+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "سکه"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "قیمت طلا و سکه امروز ۲۸ مهر / طلا سبز شد، اما با ترمز روشن!",
-    "link": "https://www.tabnak.ir/fa/news/1399599/قیمت-طلا-و-سکه-امروز-28-مهر-طلا-سبز-شد-اما-با-ترمز-روشن",
-    "summary": "قیمت طلا و سکه امروز برخلاف روزهای گذشته شد به طوری که این بار سکه های کوچک و بزرگ هم پای هم حرکت کردند و شکاف میان آن ها تقریباً صفر شد این درحالی است که این هم پایی سکه ها یک پرسش را بی پاسخ می گذارد و آن این است که آیا بازار به تعادل رسیده یا در آستانه یک جهش است؟",
-    "published": "20 Oct 2026 13:53:36 +0330",
-    "collected_at": "2026-10-20T14:07:16.753803+03:30",
     "market_score": 10,
     "market_matches": {
       "gold": [
@@ -1494,29 +1443,6 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "موتور پنهان جهش تورم در اقتصاد ایران / «نفت دیگر ملی نیست، حتی دولتی هم نیست» / ماشین اقتصاد ایران «چپ» کرده",
-    "link": "https://www.khabaronline.ir/news/2277317/%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%BE%D9%86%D9%87%D8%A7%D9%86-%D8%AC%D9%87%D8%B4-%D8%AA%D9%88%D8%B1%D9%85-%D8%AF%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%86%D9%81%D8%AA-%D8%AF%DB%8C%DA%AF%D8%B1-%D9%85%D9%84%DB%8C-%D9%86%DB%8C%D8%B3%D8%AA-%D8%AD%D8%AA%DB%8C",
-    "summary": "در اقتصاد ایران اگر می خواهیم جان سالم از این طوفان به در ببریم، هر کاری که از ۸۶ تا ۹۲ انجام شده به مثابه مین گذاری زندگی مردم است و باید خنثی شوند. نفت به جای خود برگردد و پالایشگاه حق العمل کار شوند. ما ۹ تا پالایشگاه دولتی داشتیم که خصوصی شدند. ۸۰۰ میلیارد تومان پالایشگاه اصفهان را قسطی خریدند، امسال ۸۰ همت سود خالص کرده و خود پالایشگاه گزارش کرده در ۱۴۰۵ معادل ۱۷۷ همت سود خالص خواهم کرد.",
-    "published": "Tue, 20 Oct 2026 10:30:00 GMT",
-    "collected_at": "2026-10-20T14:07:14.500407+03:30",
-    "market_score": 7,
-    "market_matches": {},
-    "driver_matches": [
-      "تورم",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "تورم"
-    ],
-    "medium_impact_matches": []
   },
   {
     "source": "مهر",
@@ -2095,30 +2021,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "کشف انبار احتکار ۵۰ میلیارد ریالی مواد غذایی در قم",
-    "link": "https://www.isna.ir/news/1405072819088/%DA%A9%D8%B4%D9%81-%D8%A7%D9%86%D8%A8%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%DA%A9%D8%A7%D8%B1-%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D9%85%D9%88%D8%A7%D8%AF-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D9%82%D9%85",
-    "summary": "جانشین فرمانده انتظامی استان قم از کشف انبار احتکار مواد غذایی به ارزش ۵۰ میلیارد ریال در قم خبر داد.",
-    "published": "Tue, 20 Oct 2026 10:55:35 GMT",
-    "collected_at": "2026-10-20T14:47:23.406121+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "تابناک",
     "title": "نفت و گاز برنده جنگ با محیط زیست!/ قطب شمال قربانی می شود؟",
     "link": "https://www.tabnak.ir/fa/news/1399618/نفت-و-گاز-برنده-جنگ-با-محیط-زیست-قطب-شمال-قربانی-می-شود",
@@ -2140,6 +2042,30 @@
     "high_impact_matches": [
       "جنگ"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "رکوردشکنی دونده فارس و کسب طلای پاراآسیایی ناگویا",
+    "link": "https://www.isna.ir/news/1405072919932/%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%AF%D9%88%D9%86%D8%AF%D9%87-%D9%81%D8%A7%D8%B1%D8%B3-%D9%88-%DA%A9%D8%B3%D8%A8-%D8%B7%D9%84%D8%A7%DB%8C-%D9%BE%D8%A7%D8%B1%D8%A7%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7",
+    "summary": "علیرضا زارع، دونده استان فارس، در سومین روز بازی های پاراآسیایی ناگویا با ثبت زمان ۱۲.۳۲ ثانیه در دوی ۱۰۰ متر کلاس T۳۵، ضمن شکستن رکورد این بازی ها، مدال طلا را کسب کرد.",
+    "published": "Wed, 21 Oct 2026 11:41:20 GMT",
+    "collected_at": "2026-10-21T15:14:07.860786+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
