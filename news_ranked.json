@@ -569,34 +569,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۸ مهر ۱۴۰۵ در زمان بازگشایی بازار/ دلار هزار تومان بالا رفت + جدول",
-    "link": "https://www.khabaronline.ir/news/2290600/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
-    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۲۸ مهر ۱۴۰۵ اعلام شد و یورو ۲۹۵ هزار تومان قیمت خورد.",
-    "published": "Tue, 20 Oct 2026 05:20:00 GMT",
-    "collected_at": "2026-10-20T23:01:34.303884+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "رشد قیمت نفت تا اوج 5 ماهه",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4303178-%D8%B1%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%AA%D8%A7-%D8%A7%D9%88%D8%AC-%D9%85%D8%A7%D9%87%D9%87",
@@ -1025,32 +997,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۲۸ مهر ۱۴۰۵ در زمان بسته شدن بازار/ مثقال طلا ۵۱۶ هزار تومان گران شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2291026/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
-    "summary": "قیمت طلا در بازار تهران امروز ۲۸ مهر ۱۴۰۵ اعلام شد و هر مثقال طلا افزایش ۵۱۶ هزار هزار تومانی قیمت را تجربه کرده و ۱۱۳ میلیون و ۲۵۰ هزار تومان شد.",
-    "published": "Tue, 20 Oct 2026 19:21:28 GMT",
-    "collected_at": "2026-10-20T23:01:34.303482+03:30",
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "مثقال طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "فروش ارز با کارت ملی متوقف نشد/امکان ثبت غیرحضوری درخواست خرید ارز از طریق پیام رسان «بله» فراهم شد",
     "link": "https://www.khabaronline.ir/news/2291365/%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D8%B1%D8%B2-%D8%A8%D8%A7-%DA%A9%D8%A7%D8%B1%D8%AA-%D9%85%D9%84%DB%8C-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D9%86%D8%B4%D8%AF-%D8%A7%D9%85%DA%A9%D8%A7%D9%86-%D8%AB%D8%A8%D8%AA-%D8%BA%DB%8C%D8%B1%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF",
     "summary": "در پی انتشار شایعاتی درباره توقف فروش ارز با کارت ملی و پایان عرضه سهمیه ۱۰ هزار دلاری به متقاضیان، بررسی ها نشان می دهد این طرح همچنان در چارچوب ضوابط اعلام شده دنبال می شود.",
@@ -1353,30 +1299,28 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "پزشکیان: تمام مشکلات منطقه ناشی از خوی جنگ طلبی آمریکاست/ برای هرگونه مذاکره ابتدا باید فشارها، تهدیدها تحریم ها را بردارند",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303191-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AA%D9%85%D8%A7%D9%85-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D9%86%D8%A7%D8%B4%DB%8C-%D8%A7%D8%B2-%D8%AE%D9%88%DB%8C-%D8%AC%D9%86%DA%AF-%D8%B7%D9%84%D8%A8%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%D8%B3%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D8%B1%DA%AF%D9%88%D9%86%D9%87-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%81%D8%B4%D8%A7%D8%B1%D9%87%D8%A7-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%D9%87%D8%A7-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
-    "summary": "رئیس جمهور با قدردانی از تلاش های پاکستان برای کاهش تنش ها و حل و فصل مسائل از مسیر دیپلماتیک با مرور بدعهدی آمریکا در حمله به کشورمان در میانه مذاکرات تأکید کرد که تمام مشکلات منطقه از خوی جنگ طلبی آمریکا نشأت می گیرد.",
-    "published": "Tue, 20 Oct 2026 18:56:57 +0000",
-    "collected_at": "2026-10-20T22:47:39.932519+03:30",
+    "source": "ایسنا",
+    "title": "اختصاص ۳۶۰۰ میلیارد ریال برای رفع تنش آبی روستاهای خراسان شمالی",
+    "link": "https://www.isna.ir/news/1405072920195/%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%DB%B3%DB%B6%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AA%D9%86%D8%B4-%D8%A2%D8%A8%DB%8C-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%87%D8%A7%DB%8C-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%DB%8C",
+    "summary": "معاون رئیس جمهور در امور توسعه روستایی و مناطق محروم کشور از پیش بینی ۳۶۰۰ میلیارد ریال اعتبار برای رفع تنش آبی روستاهای خراسان شمالی خبر داد و بر حمایت از زنجیره های ارزش بومی، احیای واحدهای راکد و توسعه زیرساخت های روستایی تأکید کرد.",
+    "published": "Wed, 21 Oct 2026 20:00:51 GMT",
+    "collected_at": "2026-10-21T23:37:32.076190+03:30",
     "market_score": 7,
-    "market_matches": {},
-    "driver_matches": [
-      "تحریم"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
     "priority": "low",
     "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ"
+    "currency_matches": [
+      "ریال"
     ],
-    "medium_impact_matches": [
-      "تحریم"
-    ]
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "خبرآنلاین اقتصادی",
