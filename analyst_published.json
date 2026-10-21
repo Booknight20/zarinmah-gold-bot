@@ -7709,5 +7709,35 @@
     "group_thread_id": 25,
     "group_message_id": 570,
     "published_at": "2026-10-21T09:06:31.071168+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25657": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "صحبت حباب اهرمی ها داغ شده",
+      "summary": "من یادی بکنم از مادر حباب ها ،حباب صندوق دارایکم ، مشخصا برای بنده شفاف نیست این حباب اهرمی‌ها در بورس به چه سمتی میره، ولی یادتون باشه الان صندوق غیر اهرمی داریم که 35% حباب داره (دارایکم) و نماد پالایش ( همون پالایش یکم ) الان 31% حباب داره !\nحتما باید مشکل این حباب ها حل بشه ولی میخوام بگم میتونند همینجوری حباب منفی و یا مثبت بگیرن و انتهایی نباشه!\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25657",
+      "analysis_score": 7,
+      "market_matches": [
+        "بورس",
+        "نماد",
+        "حباب صندوق"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-21T10:18:16.949692+03:30"
+    },
+    "first_seen_at": "2026-10-21T10:18:19.955079+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-21T10:18:20.614091+03:30",
+    "telegram_message_id": 844,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-21T10:18:22.111285+03:30",
+    "eitaa_message_id": 177546978,
+    "group_sent": true,
+    "group_sent_at": "2026-10-21T10:18:22.764340+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 574,
+    "published_at": "2026-10-21T10:18:22.772653+03:30"
   }
 }
