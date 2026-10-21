@@ -7768,5 +7768,39 @@
     "group_thread_id": 25,
     "group_message_id": 576,
     "published_at": "2026-10-21T10:48:29.970152+03:30"
+  },
+  "https://t.me/nasiirry/17609": {
+    "item": {
+      "analyst": "حسین نصیری",
+      "title": "تحلیل روز هوش مصنوعی ✨ قلق | مظنه آبشده طلا",
+      "summary": "📅 ۲۹ مهر ۱۴۰۵\n🕒 به‌روزرسانی تحلیل: 13:55\n📊 جهت کلی: نزولی\n⬆️ حمایت فعلی: 42,908,000\n⬇️ مقاومت فعلی: 43,319,000\n✅ ساختار غالب در تایم‌فریم‌های کوتاه‌مدت و میان‌مدت نزولی است، اما اشباع فروش و واکنش قیمت به ناحیه حمایتی احتمال نوسان اصلاحی را افزایش داده است.",
+      "source": "حسین نصیری",
+      "link": "https://t.me/nasiirry/17609",
+      "analysis_score": 16,
+      "market_matches": [
+        "طلا",
+        "طلای 18",
+        "آبشده",
+        "دلار",
+        "ارز",
+        "نفت",
+        "اوراق"
+      ],
+      "priority": "high",
+      "collected_at": "2026-10-21T11:15:04.800809+03:30"
+    },
+    "first_seen_at": "2026-10-21T11:15:06.092164+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-21T11:15:06.682068+03:30",
+    "telegram_message_id": 848,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-21T11:15:08.013662+03:30",
+    "eitaa_message_id": 177557308,
+    "group_sent": true,
+    "group_sent_at": "2026-10-21T11:15:08.600083+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 578,
+    "published_at": "2026-10-21T11:15:08.604803+03:30"
   }
 }
