@@ -7931,5 +7931,36 @@
     "group_thread_id": 25,
     "group_message_id": 587,
     "published_at": "2026-10-21T13:47:59.334275+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8628": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "طلای 18 عیار برای دومین روز متوالی حباب مثبت داره و بین 150 تا 200 هزار تومن بالاتر از ارزش ذاتیش داره معامله میشه ‼️",
+      "summary": "طلای 18 عیار برای دومین روز متوالی حباب مثبت داره و بین 150 تا 200 هزار تومن بالاتر از ارزش ذاتیش داره معامله میشه ‼️\n⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8628",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا",
+        "طلای 18",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "priority": "high",
+      "collected_at": "2026-10-21T14:38:31.581130+03:30"
+    },
+    "first_seen_at": "2026-10-21T14:38:32.409788+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-21T14:38:32.894033+03:30",
+    "telegram_message_id": 858,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-21T14:38:34.086620+03:30",
+    "eitaa_message_id": 177597492,
+    "group_sent": true,
+    "group_sent_at": "2026-10-21T14:38:35.666165+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 588,
+    "published_at": "2026-10-21T14:38:35.674641+03:30"
   }
 }
