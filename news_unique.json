@@ -137,35 +137,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا و سکه امروز سه شنبه ۲۸ مهر ۱۴۰۵/ سکه امامی ۲۶۴ میلیون و ۷۰۰ هزار تومان شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303007-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B4%D8%AF",
-    "summary": "قیمت طلا و سکه امروز با وجود کاهش ۲۲ دلاری اونس جهانی طلا، در بازار داخلی روندی افزایشی داشت؛ به طوری که هر گرم طلای ۱۸ عیار به ۲۶ میلیون و ۹۷ هزار و ۷۰۰ تومان و سکه امامی به ۲۶۴ میلیون و ۷۰۰ هزار تومان رسید.",
-    "published": "Tue, 20 Oct 2026 04:44:23 +0000",
-    "collected_at": "2026-10-20T08:15:47.728793+03:30",
-    "market_score": 32,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "اونس جهانی",
-      "سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا در معاملات آتی ۴۱۶۴ دلار شد/ قیمت جدید طلای جهانی امروز ۲۸ مهر ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2290680/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B4%DB%B1%DB%B6%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2",
@@ -189,38 +160,6 @@
       "طلا",
       "اونس طلا",
       "طلای جهانی"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا ۱۸ عیار امروز سه شنبه ۲۸ مهر ۱۴۰۵/اونس جهانی ۲۲ دلار ارزان شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303005-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86-%D8%B4%D8%AF",
-    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت اونس جهانی طلا امروز با کاهش ۲۲ دلاری به ۴ هزار و ۱۳۶ دلار رسید، اما قیمت هر گرم طلای ۱۸ عیار و هر مثقال طلا در بازار ایران افزایش یافت.",
-    "published": "Tue, 20 Oct 2026 04:35:27 +0000",
-    "collected_at": "2026-10-20T08:15:47.728846+03:30",
-    "market_score": 27,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "اونس جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "اونس جهانی",
-      "مثقال طلا"
     ],
     "currency_matches": [
       "دلار"
@@ -256,6 +195,36 @@
       "بانک مرکزی",
       "تورم"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۹ مهر ۱۴۰۵ در زمان بازگشایی بازار/ پوند ۳۶۰۰ تومان گران شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2291069/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B9-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
+    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۲۹ مهر ۱۴۰۵ اعلام شد و پوند با افزایش بیش از ۳ هزار و ۶۰۰ تومانی، ۳۵۴ هزار تومان قیمت خورد.",
+    "published": "Wed, 21 Oct 2026 04:59:00 GMT",
+    "collected_at": "2026-10-21T08:48:04.606622+03:30",
+    "market_score": 22,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو",
+        "پوند"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو",
+      "پوند"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
@@ -338,33 +307,6 @@
       "فرابورس",
       "ارزش معاملات"
     ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "نوسان طلا در بازارهای جهانی؛ افت قیمت طلا و رشد شاخص ۱ روزه",
-    "link": "https://www.mehrnews.com/news/6983486/%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B1%D8%B4%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DB%B1-%D8%B1%D9%88%D8%B2%D9%87",
-    "summary": "بازارهای جهانی فلزات گرانبها شاهد تغییرات قیمتی طلا بودند؛ به طوری که قیمت هر اونس طلا در برابر دلار آمریکا با افت جزئی همراه شد.",
-    "published": "Tue, 20 Oct 2026 05:13:31 GMT",
-    "collected_at": "2026-10-20T08:47:19.588563+03:30",
-    "market_score": 22,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [
-      "طلا",
-      "اونس طلا"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
   },
@@ -852,6 +794,32 @@
     ]
   },
   {
+    "source": "مهر",
+    "title": "آخرین وضعیت و نوسانات قیمت جهانی طلا در بازارهای بین المللی",
+    "link": "https://www.mehrnews.com/news/6984737/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D9%88-%D9%86%D9%88%D8%B3%D8%A7%D9%86%D8%A7%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C",
+    "summary": "بررسی آخرین تغییرات قیمت طلا بر مبنای دلار آمریکا و اونس، همراه با داده های نوسانات روزانه در بازارهای جهانی منتشر شد.",
+    "published": "Wed, 21 Oct 2026 05:01:12 GMT",
+    "collected_at": "2026-10-21T08:47:39.906726+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "ایسنا",
     "title": "ارائه خدمات بشردوستانه به ۸۵۰ نفر در لرستان با اعتبار ۱۷ میلیارد ریالی",
     "link": "https://www.isna.ir/news/1405072819391/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A8%D8%B4%D8%B1%D8%AF%D9%88%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A8%D9%87-%DB%B8%DB%B5%DB%B0-%D9%86%D9%81%D8%B1-%D8%AF%D8%B1-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%DB%B1%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF",
@@ -875,32 +843,6 @@
     "high_impact_matches": [
       "جنگ"
     ],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا امروز سه شنبه ۲۸ مهر ۱۴۰۵ / کاهش قیمت طلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303004-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
-    "summary": "قیمت طلا امروز با کاهش 22 دلاری نسبت به روز گذشته، 4136 (چهار هزار و یکصد و سی و شش) دلار نرخ گذاری شد.",
-    "published": "Tue, 20 Oct 2026 04:40:35 +0000",
-    "collected_at": "2026-10-20T08:15:47.728820+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
@@ -1331,6 +1273,31 @@
     "medium_impact_matches": []
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا و سکه امروز چهارشنبه ۲۹ مهر ۱۴۰۵/ کاهش قیمت طلا و سکه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303243-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت طلا و سکه امروز کاهشی شد.",
+    "published": "Wed, 21 Oct 2026 05:10:16 +0000",
+    "collected_at": "2026-10-21T08:47:52.296296+03:30",
+    "market_score": 10,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا",
+      "سکه"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "تابناک",
     "title": "قیمت طلا و سکه امروز ۲۸ مهر / طلا سبز شد، اما با ترمز روشن!",
     "link": "https://www.tabnak.ir/fa/news/1399599/قیمت-طلا-و-سکه-امروز-28-مهر-طلا-سبز-شد-اما-با-ترمز-روشن",
@@ -1532,29 +1499,28 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مهر",
-    "title": "افزایش نرخ بهره، بازار املاک تجاری جهان را به مرز رکود کشاند",
-    "link": "https://www.mehrnews.com/news/6982890/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%86%D8%B1%D8%AE-%D8%A8%D9%87%D8%B1%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%85%D8%B1%D8%B2-%D8%B1%DA%A9%D9%88%D8%AF-%DA%A9%D8%B4%D8%A7%D9%86%D8%AF",
-    "summary": "افزایش نرخ بهره و هزینه های تأمین مالی، بازار املاک تجاری جهان را به مرز رکود کشانده و با تشدید اختلاف بر سر قیمت ها، معاملات ملکی و اجرای پروژه های جدید را با چالش مواجه کرده است.",
-    "published": "Tue, 20 Oct 2026 05:09:27 GMT",
-    "collected_at": "2026-10-20T08:47:19.588671+03:30",
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا ۱۸ عیار امروز چهارشنبه ۲۹ مهر ۱۴۰۵/طلا ارزان شد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303245-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86-%D8%B4%D8%AF",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت گرم طلا ۱۸ عیار با کاهش، به 26 میلیون و 162 هزار و 400 تومان رسید.",
+    "published": "Wed, 21 Oct 2026 05:13:49 +0000",
+    "collected_at": "2026-10-21T08:47:52.296280+03:30",
     "market_score": 7,
-    "market_matches": {},
-    "driver_matches": [
-      "نرخ بهره",
-      "رکود"
-    ],
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
     "major_event_matches": [],
     "priority": "low",
-    "gold_matches": [],
+    "gold_matches": [
+      "طلا"
+    ],
     "currency_matches": [],
     "stock_matches": [],
-    "high_impact_matches": [
-      "نرخ بهره"
-    ],
-    "medium_impact_matches": [
-      "رکود"
-    ]
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -2104,78 +2070,6 @@
     "currency_matches": [
       "دلار"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "دستگیری دو سارق به عنف در تبریز با کشف اموال ۵۰ میلیارد ریالی",
-    "link": "https://www.mehrnews.com/news/6983472/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D9%88-%D8%B3%D8%A7%D8%B1%D9%82-%D8%A8%D9%87-%D8%B9%D9%86%D9%81-%D8%AF%D8%B1-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%A8%D8%A7-%DA%A9%D8%B4%D9%81-%D8%A7%D9%85%D9%88%D8%A7%D9%84-%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C",
-    "summary": "تبریز- رئیس پلیس آگاهی آذربایجان شرقی از دستگیری دو سارق به عنف در تبریز خبر داد و گفت: در پی این عملیات، اموال مسروقه به ارزش ۵۰ میلیارد ریال کشف و به مالباخته بازگردانده شد.",
-    "published": "Tue, 20 Oct 2026 05:06:09 GMT",
-    "collected_at": "2026-10-20T08:47:19.588750+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "۲۱ ملک بلااستفاده دولت به ارزش ۳۰۳۰ میلیارد ریال در یزد به فروش رسید",
-    "link": "https://www.isna.ir/news/1405072818634/%DB%B2%DB%B1-%D9%85%D9%84%DA%A9-%D8%A8%D9%84%D8%A7%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%AF%D9%88%D9%84%D8%AA-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%DB%B3%DB%B0%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1-%DB%8C%D8%B2%D8%AF-%D8%A8%D9%87-%D9%81%D8%B1%D9%88%D8%B4",
-    "summary": "مدیر کل امور اقتصادی و دارایی استان یزد گفت: از مجموع ۱۶۹ ملک مازاد و بلااستفاده دولتی که دارای مجوز قانون تامین مالی تولید و زیرساخت هاست، طی شش ماهه امسال تعداد ۲۱ ملک به ارزش ۳۰۳۰ میلیارد ریال در قالب قانون تامین مالی تولید و زیرساخت به فروش رسید.",
-    "published": "Tue, 20 Oct 2026 05:09:18 GMT",
-    "collected_at": "2026-10-20T08:47:12.163652+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۲۸ مهر ۱۴۰۵ در زمان بازگشایی بازار/ طلا در کانال ۲۶ میلیون تومان ایستاد + جدول",
-    "link": "https://www.khabaronline.ir/news/2290596/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B8-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D9%84",
-    "summary": "قیمت طلا در بازار تهران امروز ۲۸ مهر ۱۴۰۵ اعلام شد و در بازار طلای ۱۷عیار ۲۶ میلیون و ۱۰۲ هزار تومان قیمت خورده که افزایش ۲۰۹ هزار تومانی را نشان می دهد.",
-    "published": "Tue, 20 Oct 2026 04:37:53 GMT",
-    "collected_at": "2026-10-20T08:15:51.200249+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
