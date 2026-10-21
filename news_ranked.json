@@ -398,63 +398,6 @@
     ]
   },
   {
-    "source": "مشرق",
-    "title": "نفت ایران ۱۰۷ دلار شد",
-    "link": "https://www.mashreghnews.ir/news/1846930/%D9%86%D9%81%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B1%DB%B0%DB%B7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF",
-    "summary": "قیمت نفت ایران در بازار جهانی با افزایش بیش از یک دلاری به ۱۰۷ دلار و ۴۳ سنت در هر بشکه رسید.",
-    "published": "Tue, 20 Oct 2026 12:17:08 GMT",
-    "collected_at": "2026-10-20T16:14:25.532084+03:30",
-    "market_score": 19,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [
-      "قیمت نفت"
-    ]
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "سفر فرمانده ارتش پاکستان به ایران همزمان با جهش قیمت نفت!",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303075-%D8%B3%D9%81%D8%B1-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D8%A7%D8%B1%D8%AA%D8%B4-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7-%D8%AC%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA",
-    "summary": "همزمان با رسیدن نفت برنت به 110 دلار، خبر سفر عاصم منیر به تهران منتشر شده است.",
-    "published": "Tue, 20 Oct 2026 12:17:47 +0000",
-    "collected_at": "2026-10-20T16:14:16.047469+03:30",
-    "market_score": 19,
-    "market_matches": {},
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [
-      "قیمت نفت"
-    ]
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "جزر و مد در بورس",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4303301-%D8%AC%D8%B2%D8%B1-%D9%85%D8%AF-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3",
@@ -704,6 +647,32 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا امروز چهارشنبه ۲۹ مهر ۱۴۰۵ / افزایش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303247-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "قیمت طلا امروز با رشد 10 دلاری نسبت به روز گذشته، ۴۱۳۸ (چهار هزار و یکصد و سی و هشت) دلار نرخ گذاری شد.",
+    "published": "Wed, 21 Oct 2026 13:30:30 +0000",
+    "collected_at": "2026-10-21T17:14:30.463709+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
@@ -1437,6 +1406,54 @@
     "medium_impact_matches": [
       "قیمت نفت"
     ]
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "نایب رییس مشاوران املاک : پرداخت دلاری و تتری برای خرید ملک غیرقانونی است",
+    "link": "https://www.khabaronline.ir/news/2291304/%D9%86%D8%A7%DB%8C%D8%A8-%D8%B1%DB%8C%DB%8C%D8%B3-%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%88-%D8%AA%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%85%D9%84%DA%A9-%D8%BA%DB%8C%D8%B1%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C",
+    "summary": "نایب رییس مشاوران املاک گفت:پرداخت دلاری و تتری برای خرید ملک غیرقانونی است و افرادی که تسویه معاملات ملکی را با دلار یا تتر انجام می دهند، باید نسبت به موضوعات عدم اثبات پرداخت و پیگیری اختلافات آگاه باشند.",
+    "published": "Wed, 21 Oct 2026 13:30:00 GMT",
+    "collected_at": "2026-10-21T17:14:33.583525+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "عبدلیان پور: آرای صادرشده علیه آمریکا به ۳۰۰ میلیارد دلار رسید",
+    "link": "https://www.mehrnews.com/news/6985592/%D8%B9%D8%A8%D8%AF%D9%84%DB%8C%D8%A7%D9%86-%D9%BE%D9%88%D8%B1-%D8%A2%D8%B1%D8%A7%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%B4%D8%AF%D9%87-%D8%B9%D9%84%DB%8C%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%DB%B3%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "خرم آباد-رئیس مرکز وکلا، کارشناسان رسمی و مشاوران خانواده قوه قضائیه با اشاره به روند رسیدگی به دعاوی علیه آمریکا در محاکم داخلی گفت: مجموع آرای صادرشده علیه آمریکا تا ۳۰۰ میلیارد دلار رسید.",
+    "published": "Wed, 21 Oct 2026 13:32:57 GMT",
+    "collected_at": "2026-10-21T17:14:23.705539+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
@@ -2447,30 +2464,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "تابناک",
-    "title": "خسروی رکورد زد و طلا گرفت",
-    "link": "https://www.tabnak.ir/fa/news/1399620/خسروی-رکورد-زد-و-طلا-گرفت",
-    "summary": "یاسین خسروی، در مادۀ پرتاب وزنه کلاس F56/F57 بازی های پاراآسیایی ناگویا با کسب امتیاز ۱۰۳۲، ضمن شکستن رکورد بازی های پاراآسیایی، مدال طلا گرفت",
-    "published": "20 Oct 2026 16:31:21 +0330",
-    "collected_at": "2026-10-20T16:47:54.401852+03:30",
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "پیش بینی بورس فردا چهارشنبه ۲۹ مهر ۱۴۰۵/ آیا برتری نمادهای کوچک می تواند ادامه دار باشد؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303166-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%81%D8%B1%D8%AF%D8%A7-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A2%DB%8C%D8%A7-%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C-%D9%86%D9%85%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%DA%A9%D9%88%DA%86%DA%A9-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B4%D8%AF",
@@ -2514,30 +2507,6 @@
     "currency_matches": [],
     "stock_matches": [
       "بورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "نگرش نوین صندوق های حمایتی در حمایت از کسب وکارها از طریق بازار سرمایه",
-    "link": "https://www.mehrnews.com/news/6984308/%D9%86%DA%AF%D8%B1%D8%B4-%D9%86%D9%88%DB%8C%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D9%88%DA%A9%D8%A7%D8%B1%D9%87%D8%A7-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1",
-    "summary": "یک کارشناس اقتصادی با تأکید بر نقش صندوق های حمایتی در تأمین مالی بنگاه های تولیدی از طریق بازار سرمایه این رویکرد را راهکاری برای کاهش وابستگی به نظام بانکی و تقویت تولید دانست.",
-    "published": "Tue, 20 Oct 2026 13:15:59 GMT",
-    "collected_at": "2026-10-20T16:47:33.219349+03:30",
-    "market_score": 4,
-    "market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بازار سرمایه"
     ],
     "high_impact_matches": [],
     "medium_impact_matches": []
