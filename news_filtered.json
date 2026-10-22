@@ -2489,6 +2489,41 @@
     "filter_applied": true
   },
   {
+    "source": "تابناک",
+    "title": "بورس آمریکا ریخت",
+    "link": "https://www.tabnak.ir/fa/news/1399939/بورس-آمریکا-ریخت",
+    "summary": "بر اساس گزارش مارکت واچ، معاملات آتی نزدک ۱۰۰ در ساعات پیش از آغاز معاملات نقدی حدود ۱.۹ درصد کاهش یافت و به نزدیکی پایین ترین سطوح جلسه رسید.",
+    "published": "22 Oct 2026 23:40:27 +0330",
+    "collected_at": "2026-10-22T23:47:24.847137+03:30",
+    "filter_market_score": 9,
+    "market_score": 9,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "معاملات",
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مهر",
     "title": "صفرزاده با رکوردشکنی طلا گرفت",
     "link": "https://www.mehrnews.com/news/6986255/%D8%B5%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA",
