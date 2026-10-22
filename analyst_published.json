@@ -8056,5 +8056,34 @@
     "group_thread_id": 25,
     "group_message_id": 594,
     "published_at": "2026-10-21T16:14:48.605696+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8646": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "نفت چند روز بالای 100 دلار بوده؟",
+      "summary": "نفت چند روز بالای 100 دلار بوده؟\n⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8646",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-22T09:44:44.510438+03:30"
+    },
+    "first_seen_at": "2026-10-22T09:44:52.522747+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-22T09:44:52.941284+03:30",
+    "telegram_message_id": 875,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-22T09:44:53.581004+03:30",
+    "eitaa_message_id": 177719085,
+    "group_sent": true,
+    "group_sent_at": "2026-10-22T09:44:54.106233+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 603,
+    "published_at": "2026-10-22T09:44:54.111534+03:30"
   }
 }
