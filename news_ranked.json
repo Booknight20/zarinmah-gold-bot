@@ -1,6 +1,44 @@
 [
   {
     "source": "دنیای اقتصاد",
+    "title": "نرخ ارز دلار، طلا و یورو امروز پنجشنبه ۳۰ مهر ۱۴۰۵/ افزایش قیمت طلا و سکه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303486-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد رشد قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
+    "published": "Thu, 22 Oct 2026 10:55:33 +0000",
+    "collected_at": "2026-10-22T16:47:18.559792+03:30",
+    "market_score": 47,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "نرخ ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [
+      "دلار",
+      "نرخ ارز",
+      "ارز",
+      "یورو",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "افزایش قیمت ها در بازار ارز و طلا/ قیمت سکه نزولی شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303325-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF",
     "summary": "چهارشنبه 29 مهر بازار طلا، سکه و ارز معاملات را با گپ مثبت و افزایش قیمت ها آغاز کرد؛ دلار تا کانال ۲۶۷ هزار تومان پیش رفت و طلای ۱۸ عیار به ۲۶ میلیون و ۶۶۳ هزار تومان رسید، اما سکه امامی در نیمه دوم روز تغییر مسیر داد و نیم سکه و ربع سکه نیز نزولی شدند.",
@@ -796,32 +834,6 @@
   },
   {
     "source": "مهر",
-    "title": "ماجرای ۲ میلیارد دلار ارز تجهیزات پزشکی؛ چه کسی با بیمه ها مخالف است",
-    "link": "https://www.mehrnews.com/news/6985237/%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-%DA%86%D9%87-%DA%A9%D8%B3%DB%8C-%D8%A8%D8%A7-%D8%A8%DB%8C%D9%85%D9%87-%D9%87%D8%A7-%D9%85%D8%AE%D8%A7%D9%84%D9%81",
-    "summary": "گفته می شود دولت برای حمایت از حوزه تجهیزات پزشکی، دو میلیارد دلار ارز اختصاص می دهد، اما خروجی این اتفاق برای بیماران قابل لمس نیست.",
-    "published": "Wed, 21 Oct 2026 10:21:34 GMT",
-    "collected_at": "2026-10-21T14:16:59.726884+03:30",
-    "market_score": 12,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
     "title": "دستور جلسه هیئت وزیران برای پرداخت طلب ارزی ۷۵۰ شرکت خصوصی",
     "link": "https://www.mehrnews.com/news/6986408/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%AC%D9%84%D8%B3%D9%87-%D9%87%DB%8C%D8%A6%D8%AA-%D9%88%D8%B2%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%B7%D9%84%D8%A8-%D8%A7%D8%B1%D8%B2%DB%8C-%DB%B7%DB%B5%DB%B0-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C",
     "summary": "نحوه بازپرداخت مطالبات ارزی بیش از ۷۵۰ شرکت خصوصی به ارزش ۴.۰۷ میلیارد یورو، در دستور کار جلسه هیئت وزیران قرار گرفته است.",
@@ -928,31 +940,6 @@
     "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت طلا و سکه امروز افزایشی شد.",
     "published": "Thu, 22 Oct 2026 04:39:17 +0000",
     "collected_at": "2026-10-22T08:15:41.826629+03:30",
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [
-      "طلا",
-      "سکه"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "تابناک",
-    "title": "قیمت طلا امروز ۲۹ مهر / کدام سکه، بیشترین خطر سرمایه گذاری را دارد؟",
-    "link": "https://www.tabnak.ir/fa/news/1399749/قیمت-طلا-امروز-29-مهر-کدام-سکه-بیشترین-خطر-سرمایه-گذاری-را-دارد",
-    "summary": "در بازار امروز طلا ، سرمایه درشت سراغ طلا و سکه های تمام رفت و خریدار محافظ به سمت بهار آزادی حرکت کرد؛ اما خریدار خرد به خروج فکر می کرد و تفاوت این دو گروه در یک چیز است و آن این است که پول بزرگ، حباب را درنظر می گیرد و پول خرد صعود را.",
-    "published": "21 Oct 2026 14:14:36 +0330",
-    "collected_at": "2026-10-21T14:17:21.123996+03:30",
     "market_score": 10,
     "market_matches": {
       "gold": [
@@ -1618,30 +1605,6 @@
     "gold_matches": [],
     "currency_matches": [
       "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "ازهاری: ارزش مبادلات مرزی کردستان به ۵.۲۵ میلیارد دلار رسید",
-    "link": "https://www.mehrnews.com/news/6985320/%D8%A7%D8%B2%D9%87%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B1%D8%B2%D8%B4-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D9%85%D8%B1%D8%B2%DB%8C-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%DB%B5-%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "سنندج- معاون هماهنگی امور اقتصادی استانداری کردستان، گفت: ارزش مبادلات تجاری مرزهای استان در سال گذشته به ۵ میلیارد و ۲۵۰ میلیون دلار رسید.",
-    "published": "Wed, 21 Oct 2026 10:32:29 GMT",
-    "collected_at": "2026-10-21T14:16:59.726664+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
     ],
     "stock_matches": [],
     "high_impact_matches": [],

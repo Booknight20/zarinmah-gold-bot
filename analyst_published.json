@@ -8359,5 +8359,35 @@
     "group_thread_id": 25,
     "group_message_id": 625,
     "published_at": "2026-10-22T15:14:40.369960+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8651": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "با این قیمت‌ها، طلا ۱۸ عیار حدود ۳۰۰ تومن بالاتر از ارزش ذاتیش داره معامله میشه ‼️",
+      "summary": "⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8651",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-22T16:47:35.937460+03:30"
+    },
+    "first_seen_at": "2026-10-22T16:47:38.866151+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-22T16:47:39.287096+03:30",
+    "telegram_message_id": 900,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-22T16:47:40.422693+03:30",
+    "eitaa_message_id": 177791712,
+    "group_sent": true,
+    "group_sent_at": "2026-10-22T16:47:40.892766+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 628,
+    "published_at": "2026-10-22T16:47:40.901615+03:30"
   }
 }
