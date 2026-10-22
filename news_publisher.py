@@ -1,10 +1,17 @@
+
 import hashlib
 import html
 import json
 import os
 import re
 import tempfile
-from datetime import datetime
+from datetime import datetime, timedelta
+from urllib.parse import (
+    urlsplit,
+    urlunsplit,
+    parse_qsl,
+    urlencode,
+)
 
 import requests
 
@@ -27,9 +34,13 @@ EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID")
 
 EITAA_API_URL = "https://eitaayar.ir/api"
 
-# تقسیم محافظه‌کارانه برای سازگاری بهتر با مقصدها
 MAX_PART_CHARS = 2300
+PART_HEADER_RESERVE = 80
 REQUEST_TIMEOUT = 30
+
+# در اولین اجرا، خبرهای جدیدتر از این بازه بررسی می‌شوند.
+# این مقدار محدودیت تعداد خبرهای قابل انتشار نیست.
+FIRST_RUN_RECENT_MINUTES = 90
 
 
 # =========================================================
@@ -59,8 +70,6 @@ def parse_datetime(value):
 
 
 def get_collected_datetime(item):
-    # زمان جمع‌آوری اولویت دارد.
-    # در نبود آن، تاریخ انتشار را بررسی می‌کنیم.
     return (
         parse_datetime(item.get("collected_at"))
         or parse_datetime(item.get("published"))
@@ -126,14 +135,12 @@ def save_json_file(filename, data):
             filename,
         )
 
-    except Exception:
+    finally:
         if temporary_path and os.path.exists(temporary_path):
             try:
                 os.remove(temporary_path)
             except OSError:
                 pass
-
-        raise
 
 
 # =========================================================
@@ -153,8 +160,14 @@ def clean_text(value):
     )
 
     text = re.sub(
-        r"(?i)</(?:p|div|li|h[1-6])\s*>",
+        r"(?i)</(?:p|div|li|h[1-6]|blockquote|article|section)\s*>",
         "\n",
+        text,
+    )
+
+    text = re.sub(
+        r"(?i)<(?:p|div|li|h[1-6]|blockquote|article|section)\b[^>]*>",
+        "",
         text,
     )
 
@@ -170,6 +183,9 @@ def clean_text(value):
     text = text.replace("\u200e", "")
     text = text.replace("\ufeff", "")
     text = text.replace("\u00a0", " ")
+    text = text.replace("\u202f", " ")
+
+    # حفظ نیم‌فاصله فارسی
     text = text.replace("\u200c", "‌")
 
     text = re.sub(
@@ -215,28 +231,47 @@ def normalize_url(url):
     if not url:
         return ""
 
-    # حذف پارامترهای رهگیری
-    url = re.sub(
-        r"([?&])utm_[^&]*",
-        "",
-        url,
-        flags=re.IGNORECASE,
-    )
+    try:
+        parts = urlsplit(url)
 
-    url = re.sub(
-        r"([?&])(fbclid|gclid|ref|campaign)=[^&]*",
-        "",
-        url,
-        flags=re.IGNORECASE,
-    )
+        if not parts.scheme or not parts.netloc:
+            return url.rstrip("/")
 
-    url = re.sub(
-        r"[?&]+$",
-        "",
-        url,
-    )
+        ignored_params = {
+            "fbclid",
+            "gclid",
+            "ref",
+            "campaign",
+        }
 
-    return url.rstrip("/")
+        query_items = []
+
+        for key, value in parse_qsl(
+            parts.query,
+            keep_blank_values=True,
+        ):
+            key_lower = key.lower()
+
+            if (
+                key_lower.startswith("utm_")
+                or key_lower in ignored_params
+            ):
+                continue
+
+            query_items.append((key, value))
+
+        query_items.sort()
+
+        return urlunsplit((
+            parts.scheme.lower(),
+            parts.netloc.lower(),
+            parts.path.rstrip("/"),
+            urlencode(query_items, doseq=True),
+            "",
+        ))
+
+    except Exception:
+        return url.rstrip("/")
 
 
 # =========================================================
@@ -337,12 +372,11 @@ def has_market_evidence(item):
         if isinstance(value, (list, tuple, set)) and value:
             return True
 
-    # بررسی عنوان، خلاصه و متن کامل
-    title = normalize_text(item.get("title", ""))
-    summary = normalize_text(item.get("summary", ""))
-    full_text = normalize_text(item.get("full_text", ""))
-
-    text = f"{title} {summary} {full_text}"
+    text = " ".join([
+        normalize_text(item.get("title", "")),
+        normalize_text(item.get("summary", "")),
+        normalize_text(item.get("full_text", "")),
+    ])
 
     return any(
         normalize_text(term) in text
@@ -351,11 +385,11 @@ def has_market_evidence(item):
 
 
 def is_promotional(item):
-    title = normalize_text(item.get("title", ""))
-    summary = normalize_text(item.get("summary", ""))
-    full_text = normalize_text(item.get("full_text", ""))
-
-    text = f"{title} {summary} {full_text}"
+    text = " ".join([
+        normalize_text(item.get("title", "")),
+        normalize_text(item.get("summary", "")),
+        normalize_text(item.get("full_text", "")),
+    ])
 
     matched = [
         pattern
@@ -376,14 +410,19 @@ def is_promotional(item):
     if any(term in text for term in strong_commercial_terms):
         return True
 
-    # عبارت تبلیغاتی منفرد و مبهم کافی نیست.
     return len(matched) >= 2
 
 
 def get_market_score(item):
     try:
-        return float(item.get("market_score", 0))
-    except (TypeError, ValueError):
+        value = item.get("market_score", 0)
+
+        if isinstance(value, bool):
+            return 0.0
+
+        return float(value)
+
+    except (TypeError, ValueError, OverflowError):
         return 0.0
 
 
@@ -422,18 +461,24 @@ def is_publishable(item):
 def build_news_body(item):
     title = clean_text(item.get("title", ""))
 
-    # متن کامل بر خلاصه اولویت دارد.
     full_text = clean_text(item.get("full_text", ""))
     summary = clean_text(item.get("summary", ""))
 
     body = full_text or summary
 
-    # اگر متن کامل و خلاصه متفاوت باشند،
-    # خلاصه نیز حفظ می‌شود تا نکته‌ای از دست نرود.
     if full_text and summary:
-        if normalize_text(full_text) != normalize_text(summary):
-            if normalize_text(summary) not in normalize_text(full_text):
-                body = full_text + "\n\nخلاصه خبر:\n" + summary
+        normalized_full = normalize_text(full_text)
+        normalized_summary = normalize_text(summary)
+
+        if (
+            normalized_summary
+            and normalized_summary not in normalized_full
+        ):
+            body = (
+                full_text
+                + "\n\nخلاصه خبر:\n"
+                + summary
+            )
 
     source = clean_text(item.get("source", ""))
     link = normalize_url(item.get("link", ""))
@@ -459,7 +504,7 @@ def build_news_body(item):
     if link:
         parts.extend([
             "",
-            f"🔗 مشاهده منبع:",
+            "🔗 مشاهده منبع:",
             link,
         ])
 
@@ -479,6 +524,12 @@ def build_news_body(item):
 # =========================================================
 
 def split_message(text, max_chars=MAX_PART_CHARS):
+    """
+    متن را به بخش‌های محدود تقسیم می‌کند.
+    شکست خطوط و کلمات تا حد امکان حفظ می‌شوند.
+    هیچ سقفی برای تعداد بخش‌ها وجود ندارد.
+    """
+
     text = str(text or "").strip()
 
     if not text:
@@ -547,7 +598,14 @@ def split_message(text, max_chars=MAX_PART_CHARS):
 
 def build_parts(item):
     message = build_news_body(item)
-    chunks = split_message(message)
+
+    # برای شماره بخش‌ها و سربرگ، فضای اضافه رزرو می‌شود.
+    content_limit = MAX_PART_CHARS - PART_HEADER_RESERVE
+
+    chunks = split_message(
+        message,
+        max_chars=content_limit,
+    )
 
     if len(chunks) <= 1:
         return chunks
@@ -557,7 +615,14 @@ def build_parts(item):
 
     for index, chunk in enumerate(chunks, start=1):
         prefix = f"📄 بخش {index} از {total}\n\n"
-        result.append(prefix + chunk)
+        part = prefix + chunk
+
+        if len(part) > MAX_PART_CHARS:
+            raise ValueError(
+                "طول بخش پیام از حد مجاز داخلی بیشتر شده است."
+            )
+
+        result.append(part)
 
     return result
 
@@ -680,9 +745,11 @@ def send_to_eitaa(message):
         or result_data.get("id")
     )
 
-    # API ممکن است موفقیت را بدون شناسه اعلام کند.
-    # در این حالت ثبت «sent» از تلاش فوری مجدد جلوگیری می‌کند.
-    return message_id if message_id is not None else "sent"
+    return (
+        message_id
+        if message_id is not None
+        else "sent"
+    )
 
 
 # =========================================================
@@ -703,7 +770,8 @@ def initialize_publisher(published):
     initialized_at = datetime.now().astimezone()
 
     published["__meta__"] = {
-        "initialized_at": initialized_at.isoformat()
+        "initialized_at": initialized_at.isoformat(),
+        "first_run_recent_minutes": FIRST_RUN_RECENT_MINUTES,
     }
 
     save_json_file(
@@ -912,8 +980,6 @@ def main():
             "EITAA_CHAT_ID تنظیم نشده است."
         )
 
-    # فایل ورودی باید موجود و معتبر باشد.
-    # در صورت خطا، خروجی وضعیت را خالی نمی‌کنیم.
     news = load_json_file(
         INPUT_FILE,
         [],
@@ -940,17 +1006,12 @@ def main():
     )
 
     if first_run:
-        print("ناشر برای اولین بار راه‌اندازی شد.")
+        print("اولین اجرای ناشر: آرشیو قدیمی نادیده گرفته می‌شود.")
         print(
-            "خبرهای آرشیوی قبل از زمان راه‌اندازی "
-            "به‌صورت خودکار منتشر نمی‌شوند."
+            "خبرهای جدیدتر از",
+            FIRST_RUN_RECENT_MINUTES,
+            "دقیقه اخیر قابل بررسی هستند."
         )
-        return
-
-    print(
-        "Initialized at:",
-        initialized_at.isoformat(),
-    )
 
     eligible_news = [
         item
@@ -974,9 +1035,39 @@ def main():
     skipped_count = 0
     failed_count = 0
 
+    first_run_cutoff = initialized_at - timedelta(
+        minutes=FIRST_RUN_RECENT_MINUTES
+    )
+
     for item in eligible_news:
-        news_id = create_news_id(item)
+        base_news_id = create_news_id(item)
         content_hash = create_content_hash(item)
+
+        base_record = published.get(
+            base_news_id,
+            {},
+        )
+
+        if not isinstance(base_record, dict):
+            base_record = {}
+
+        old_hash = base_record.get("content_hash")
+
+        # اگر محتوای خبر تغییر کرده و نسخه قبلی ارسال شده،
+        # نسخه جدید شناسه جداگانه می‌گیرد تا با بخش‌های قبلی
+        # مخلوط نشود و بتواند از ابتدا کامل منتشر شود.
+        if (
+            old_hash
+            and old_hash != content_hash
+            and has_any_delivery(base_record)
+        ):
+            news_id = (
+                base_news_id
+                + ":rev:"
+                + content_hash[:16]
+            )
+        else:
+            news_id = base_news_id
 
         record = ensure_record(
             published,
@@ -986,16 +1077,67 @@ def main():
 
         existing_hash = record.get("content_hash")
 
-        # اگر قبلاً ارسال شروع شده و محتوا تغییر کرده باشد،
-        # ادامه نسخه جدید را با بخش‌های نسخه قبلی ترکیب نمی‌کنیم.
         if (
             existing_hash
             and existing_hash != content_hash
             and has_any_delivery(record)
         ):
             print(
-                "Skipping changed content to prevent mixed or "
-                "duplicate publication:",
+                "Skipping changed revision with prior delivery:",
+                item.get("title", ""),
+            )
+            skipped_count += 1
+            continue
+
+        collected_at = get_collected_datetime(item)
+
+        if collected_at is None:
+            print(
+                "Skipping news without a valid date:",
+                item.get("title", ""),
+            )
+            skipped_count += 1
+            continue
+
+        # اولین اجرا: آرشیو قدیمی را علامت‌گذاری می‌کنیم
+        # تا در اجراهای بعدی به‌اشتباه منتشر نشود.
+        if (
+            first_run
+            and collected_at < first_run_cutoff
+            and not has_any_delivery(record)
+        ):
+            record["content_hash"] = content_hash
+            record["initial_archive_ignored"] = True
+            record["archive_ignored_at"] = now_iso()
+
+            save_record(
+                published,
+                news_id,
+                record,
+            )
+
+            skipped_count += 1
+            continue
+
+        # خبرهایی که قبلاً به‌عنوان آرشیو کنار گذاشته شده‌اند
+        # در همان نسخه دوباره منتشر نمی‌شوند.
+        if (
+            record.get("initial_archive_ignored")
+            and existing_hash == content_hash
+            and not has_any_delivery(record)
+        ):
+            skipped_count += 1
+            continue
+
+        # اگر وضعیت قدیمی پیام دارد اما هش محتوا ندارد،
+        # برای جلوگیری از ارسال تکراری، آن را خودکار از نو نمی‌فرستیم.
+        if (
+            not existing_hash
+            and has_any_delivery(record)
+        ):
+            print(
+                "Legacy delivery state without content hash; "
+                "manual review required:",
                 item.get("title", ""),
             )
             skipped_count += 1
@@ -1003,23 +1145,6 @@ def main():
 
         if not existing_hash:
             record["content_hash"] = content_hash
-
-        collected_at = get_collected_datetime(item)
-
-        # بدون تاریخ معتبر نمی‌توان تشخیص داد خبر آرشیوی است یا جدید.
-        if collected_at is None:
-            print(
-                "Skipping news without a valid collection/publication date:",
-                item.get("title", ""),
-            )
-            skipped_count += 1
-            continue
-
-        # جلوگیری از انتشار آرشیو هنگام اولین راه‌اندازی
-        if collected_at.timestamp() <= initialized_at.timestamp():
-            if not has_any_delivery(record):
-                skipped_count += 1
-                continue
 
         parts = build_parts(item)
 
@@ -1033,6 +1158,9 @@ def main():
 
         record["expected_parts"] = len(parts)
         record["content_hash"] = content_hash
+        record["title"] = item.get("title", "")
+        record["source"] = item.get("source", "")
+        record["link"] = item.get("link", "")
 
         save_record(
             published,
@@ -1078,6 +1206,8 @@ def main():
                 record,
                 len(parts),
             )
+
+            record["last_checked_at"] = now_iso()
 
             save_record(
                 published,
