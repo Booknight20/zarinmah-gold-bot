@@ -236,6 +236,34 @@
     "medium_impact_matches": []
   },
   {
+    "source": "تابناک",
+    "title": "قیمت نفت برنت رکورد زد",
+    "link": "https://www.tabnak.ir/fa/news/1399845/قیمت-نفت-برنت-رکورد-زد",
+    "summary": "قیمت نفت ساعتی پیش مقاومت مهم ۱۱۰ دلاری را که برای جنگ افروزان در منطقه خلیج فارس اهمیت داشت، شکست و به ۱۱۱ دلار در هر بشکه رسید.",
+    "published": "22 Oct 2026 10:21:41 +0330",
+    "collected_at": "2026-10-22T10:44:32.808616+03:30",
+    "market_score": 24,
+    "market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ",
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "قیمت نفت"
+    ]
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "درخواست بازنشستگان از دولت: معوقات به ارزش روز پرداخت شود/ قیمت دلار ۷۲ درصد و طلا ۴۳ درصد در ۵ ماه بالا رفت؛ معوقات بازنشستگان بی ارزش شد",
     "link": "https://www.khabaronline.ir/news/2291552/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%A8%D8%A7%D8%B2%D9%86%D8%B4%D8%B3%D8%AA%DA%AF%D8%A7%D9%86-%D8%A7%D8%B2-%D8%AF%D9%88%D9%84%D8%AA-%D9%85%D8%B9%D9%88%D9%82%D8%A7%D8%AA-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%B1%D9%88%D8%B2-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%B4%D9%88%D8%AF-%D9%82%DB%8C%D9%85%D8%AA",
@@ -396,6 +424,33 @@
       ]
     },
     "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "priority": "high",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [
+      "قیمت نفت"
+    ]
+  },
+  {
+    "source": "ایسنا",
+    "title": "قیمت نفت افزایش یافت",
+    "link": "https://www.isna.ir/news/1405073020313/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
+    "summary": "قیمت نفت در معاملات روز پنج شنبه بازار جهانی، در پی حملات بیشتر نیروهای یمنی به عربستان سعودی و دستور آمریکا به برخی از دیپلمات ها و اعضای خانواده هایشان برای ترک نمایندگی های این کشور در عربستان، بیش از دو دلار در هر بشکه افزایش یافت.",
+    "published": "Thu, 22 Oct 2026 07:01:17 GMT",
+    "collected_at": "2026-10-22T10:44:14.868065+03:30",
+    "market_score": 19,
+    "market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
       "نفت"
     ],
     "major_event_matches": [],
@@ -1154,6 +1209,30 @@
     ]
   },
   {
+    "source": "ایسنا",
+    "title": "کشف قاچاق پارچه به ارزش ۲۱۰ میلیارد ریال در محور گرمسار",
+    "link": "https://www.isna.ir/news/1405073020314/%DA%A9%D8%B4%D9%81-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%DB%B2%DB%B1%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1-%D9%85%D8%AD%D9%88%D8%B1-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1",
+    "summary": "جانشین فرمانده انتظامی استان قم از توقیف یک دستگاه کامیون حامل پارچه قاچاق به ارزش ۲۱۰ میلیارد ریال در محور گرمسار خبر داد.",
+    "published": "Thu, 22 Oct 2026 07:05:29 GMT",
+    "collected_at": "2026-10-22T10:44:14.868056+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "مهر",
     "title": "کشف ۲۵ تن مواد اولیه خوراکی قاچاق به ارزش ۷۰ میلیارد ریال در مرند",
     "link": "https://www.mehrnews.com/news/6986081/%DA%A9%D8%B4%D9%81-%DB%B2%DB%B5-%D8%AA%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%DB%B7%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AF%D8%B1",
@@ -1796,54 +1875,6 @@
     "gold_matches": [],
     "currency_matches": [
       "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "افتتاح چهار پروژه عمرانی ثبت اسناد و املاک در خراسان جنوبی با اعتبار ۸۰۰ میلیارد ریال",
-    "link": "https://www.isna.ir/news/1405072919505/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%DA%86%D9%87%D8%A7%D8%B1-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B9%D9%85%D8%B1%D8%A7%D9%86%DB%8C-%D8%AB%D8%A8%D8%AA-%D8%A7%D8%B3%D9%86%D8%A7%D8%AF-%D9%88-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D8%AF%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%A8%D8%A7",
-    "summary": "چهار پروژه عمرانی سازمان ثبت اسناد و املاک کشور در خراسان جنوبی با اعتباری بالغ بر ۸۰۰ میلیارد ریال، امروز ۲۹ مهرماه با حضور معاون قوه قضاییه و رئیس سازمان ثبت اسناد و املاک کشور افتتاح و به بهره برداری رسید.",
-    "published": "Wed, 21 Oct 2026 05:47:37 GMT",
-    "collected_at": "2026-10-21T09:47:18.986157+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "کشف ۱۰ میلیارد ریال البسه و پارچه قاچاق در مرند",
-    "link": "https://www.mehrnews.com/news/6984763/%DA%A9%D8%B4%D9%81-%DB%B1%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%B3%D9%87-%D9%88-%D9%BE%D8%A7%D8%B1%DA%86%D9%87-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%AF%D8%B1-%D9%85%D8%B1%D9%86%D8%AF",
-    "summary": "مرند- فرمانده انتظامی مرند از کشف ۲ هزار و ۲۹ متر پارچه و ۲۷۶ ثوب انواع لباس زنانه و مردانه قاچاق به ارزش ۱۰ میلیارد ریال در این شهرستان خبر داد.",
-    "published": "Wed, 21 Oct 2026 05:29:15 GMT",
-    "collected_at": "2026-10-21T09:05:50.549705+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
     ],
     "stock_matches": [],
     "high_impact_matches": [],

@@ -2007,5 +2007,27 @@
     "group_message_id": 608,
     "group_chat_id": "@ZarinMahCommunity",
     "group_thread_id": 15
+  },
+  "4e719f187507c64e7e0aed7e4478e88f420b67318797dc8e129c0157aa054735": {
+    "title": "افزایش نرخ ارز در بازار",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405073020313/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
+    "published_at": "2026-10-22T07:14:45.190106+00:00",
+    "telegram_message_id": 881,
+    "eitaa_message_id": 177727783,
+    "group_message_id": 609,
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 15
+  },
+  "c362a81fc65fbc346f38b878ef5d148c9d74ac0654b64de52f13dbae462e7d3e": {
+    "title": "نفت برنت رکورد زد",
+    "source": "تابناک",
+    "link": "https://www.tabnak.ir/fa/news/1399845/قیمت-نفت-برنت-رکورد-زد",
+    "published_at": "2026-10-22T07:14:48.061392+00:00",
+    "telegram_message_id": 882,
+    "eitaa_message_id": 177727788,
+    "group_message_id": 610,
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 15
   }
 }
