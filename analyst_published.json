@@ -8301,5 +8301,63 @@
     "group_thread_id": 25,
     "group_message_id": 622,
     "published_at": "2026-10-22T13:48:12.410802+03:30"
+  },
+  "https://t.me/nasiirry/17647": {
+    "item": {
+      "analyst": "حسین نصیری",
+      "title": "نفت برنت به بالاترین نرخ خودش طی پنج ماهه اخیر رسیده، یعنی ۱۱۳ دلار به ازای هر بشکه ...",
+      "summary": "نفت برنت به بالاترین نرخ خودش طی پنج ماهه اخیر رسیده، یعنی ۱۱۳ دلار به ازای هر بشکه ...",
+      "source": "حسین نصیری",
+      "link": "https://t.me/nasiirry/17647",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-22T15:14:34.056020+03:30"
+    },
+    "first_seen_at": "2026-10-22T15:14:35.353408+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-22T15:14:35.952190+03:30",
+    "telegram_message_id": 896,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-22T15:14:37.550710+03:30",
+    "eitaa_message_id": 177770498,
+    "group_sent": true,
+    "group_sent_at": "2026-10-22T15:14:38.079026+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 624,
+    "published_at": "2026-10-22T15:14:38.083756+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8650": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "نفت برنت بالا زده و رفته بالای ۱۱۳ دلار",
+      "summary": "دیشب توی وبینار در مورد محدوده مهم نفت بهتون گفتم ‼️\n⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8650",
+      "analysis_score": 4,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-22T15:14:34.561161+03:30"
+    },
+    "first_seen_at": "2026-10-22T15:14:38.088249+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-22T15:14:38.519807+03:30",
+    "telegram_message_id": 897,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-22T15:14:39.919739+03:30",
+    "eitaa_message_id": 177770503,
+    "group_sent": true,
+    "group_sent_at": "2026-10-22T15:14:40.365292+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 625,
+    "published_at": "2026-10-22T15:14:40.369960+03:30"
   }
 }
