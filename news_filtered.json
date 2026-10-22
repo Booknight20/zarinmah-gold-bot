@@ -1283,6 +1283,49 @@
     "filter_applied": true
   },
   {
+    "source": "تابناک",
+    "title": "ادامۀ عرضه سنگین دلار از سوی بانک مرکزی",
+    "link": "https://www.tabnak.ir/fa/news/1399913/ادامه-عرضه-سنگین-دلار-از-سوی-بانک-مرکزی",
+    "summary": "عرضۀ اسکناس دلار با نرخ مصوب امروز در شعب منتخب بانکی و صرافی ها ادامه یافت و متقاضیان می توانند با ثبت درخواست در سامانه های تعیین شده، برای خرید ارز اقدام کنند.",
+    "published": "22 Oct 2026 20:12:07 +0330",
+    "collected_at": "2026-10-22T20:25:12.245213+03:30",
+    "filter_market_score": 17,
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "driver_matches": [
+      "بانک مرکزی"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "عرضه",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "منادی مطرح کرد: چرا تبریز با این ظرفیت اقتصادی، بورس کالا ندارد؟",
     "link": "https://www.isna.ir/news/1405073020626/%D9%85%D9%86%D8%A7%D8%AF%DB%8C-%D9%85%D8%B7%D8%B1%D8%AD-%DA%A9%D8%B1%D8%AF-%DA%86%D8%B1%D8%A7-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%A8%D8%A7-%D8%A7%DB%8C%D9%86-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%84%D8%A7-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
@@ -1402,49 +1445,6 @@
       "رشد",
       "قیمت",
       "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مشرق",
-    "title": "قیمت طلا و سکه امروز چهارشنبه ۲۹ مهر ۱۴۰۵",
-    "link": "https://www.mashreghnews.ir/news/1847144/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%DB%B2%DB%B9-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5",
-    "summary": "در بازار قیمت طلای ۱۸عیار ۲۶میلیون و ۶۱۷هزار تومان و قیمت سکه طرح جدید ۲۶۸میلیون و ۵۰۰هزار تومان شد.",
-    "published": "Wed, 21 Oct 2026 12:20:21 GMT",
-    "collected_at": "2026-10-21T16:14:38.885384+03:30",
-    "filter_market_score": 17,
-    "market_score": 17,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
