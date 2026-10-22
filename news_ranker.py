@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import tempfile
 
 
 INPUT_FILE = "news_filtered.json"
@@ -32,6 +33,7 @@ MARKET_KEYWORDS = {
         "طلای ۲۴ عیار",
         "طلای 24 عیار",
         "صندوق طلا",
+        "حباب سکه",
     ],
     "currency": [
         "دلار",
@@ -44,6 +46,9 @@ MARKET_KEYWORDS = {
         "پوند",
         "مرکز مبادله",
         "بازار متشکل ارزی",
+        "تتر",
+        "usd",
+        "usdt",
     ],
     "stock": [
         "بورس",
@@ -59,6 +64,9 @@ MARKET_KEYWORDS = {
         "صف فروش",
         "صندوق درآمد ثابت",
         "بورس کالا",
+        "کدال",
+        "سهام",
+        "بازار سهام",
     ],
 }
 
@@ -75,8 +83,10 @@ HIGH_IMPACT_KEYWORDS = [
     "تحریم‌های جدید",
     "مذاکرات ایران و آمریکا",
     "مذاکرات هسته‌ای",
+    "مذاکرات هسته ای",
     "جنگ",
     "آتش‌بس",
+    "آتش بس",
     "تنش نظامی",
     "تنگه هرمز",
     "تورم آمریکا",
@@ -169,12 +179,25 @@ MARKET_SIGNAL_KEYWORDS = [
     "زیان خالص",
     "مذاکرات",
     "توافق",
+    "آمار",
+    "داده",
+    "گزارش",
+    "روند",
+    "سیگنال",
+    "نرخ جدید",
+    "اعلام شد",
 ]
 
 
 # =========================================================
 # ابزارهای متن
 # =========================================================
+
+DIGIT_MAP = str.maketrans(
+    "۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩",
+    "01234567890123456789",
+)
+
 
 def normalize_text(text):
     if not isinstance(text, str):
@@ -186,15 +209,14 @@ def normalize_text(text):
     text = text.replace("ۀ", "ه")
     text = text.replace("ة", "ه")
 
+    text = text.translate(DIGIT_MAP)
+
     text = text.replace("\u200c", " ")
     text = text.replace("\u200f", " ")
+    text = text.replace("\u200e", " ")
     text = text.replace("\ufeff", " ")
-
-    digit_map = str.maketrans(
-        "۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩",
-        "01234567890123456789",
-    )
-    text = text.translate(digit_map)
+    text = text.replace("\xa0", " ")
+    text = text.replace("ـ", "")
 
     text = re.sub(r"\s+", " ", text)
 
@@ -210,58 +232,138 @@ def safe_int(value, default=0):
         return default
 
 
+def get_text(item, *keys):
+    for key in keys:
+        value = item.get(key)
+
+        if isinstance(value, str) and value.strip():
+            return value.strip()
+
+    return ""
+
+
+def get_all_text_fields(item, *keys):
+    """
+    تمام فیلدهای متنی مرتبط را جمع می‌کند؛
+    وجود یک فیلد نباید مانع بررسی فیلدهای دیگر شود.
+    """
+    result = []
+    seen = set()
+
+    for key in keys:
+        value = item.get(key)
+
+        if not isinstance(value, str) or not value.strip():
+            continue
+
+        normalized = normalize_text(value)
+
+        if not normalized or normalized in seen:
+            continue
+
+        seen.add(normalized)
+        result.append(value.strip())
+
+    return result
+
+
 def load_news():
     if not os.path.exists(INPUT_FILE):
-        print("Input file not found:", INPUT_FILE)
-        return []
+        raise FileNotFoundError(
+            f"Input file not found: {INPUT_FILE}. "
+            "Output was not modified."
+        )
 
     try:
         with open(INPUT_FILE, "r", encoding="utf-8") as file:
             data = json.load(file)
+    except json.JSONDecodeError as error:
+        raise ValueError(
+            f"Invalid JSON in {INPUT_FILE}: {error}"
+        ) from error
 
-        if isinstance(data, list):
-            return [
-                item
-                for item in data
-                if isinstance(item, dict)
-            ]
+    if not isinstance(data, list):
+        raise ValueError(
+            f"{INPUT_FILE} must contain a JSON list. "
+            "Output was not modified."
+        )
 
-        print("Input JSON is not a list.")
-        return []
+    invalid_count = sum(
+        1 for item in data if not isinstance(item, dict)
+    )
 
-    except (OSError, json.JSONDecodeError) as error:
-        print("Could not load news:", error)
-        return []
+    if invalid_count:
+        print("Invalid records skipped:", invalid_count)
+
+    return [
+        item for item in data
+        if isinstance(item, dict)
+    ]
 
 
 def save_news(news):
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
-        json.dump(
-            news,
-            file,
-            ensure_ascii=False,
-            indent=2,
-        )
+    directory = os.path.dirname(os.path.abspath(OUTPUT_FILE))
+    temp_path = None
+
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w",
+            encoding="utf-8",
+            dir=directory,
+            prefix=".news_ranked_",
+            suffix=".tmp",
+            delete=False,
+        ) as file:
+            json.dump(
+                news,
+                file,
+                ensure_ascii=False,
+                indent=2,
+            )
+            file.write("\n")
+            temp_path = file.name
+
+        os.replace(temp_path, OUTPUT_FILE)
+
+    finally:
+        if temp_path and os.path.exists(temp_path):
+            try:
+                os.remove(temp_path)
+            except OSError:
+                pass
+
+
+def keyword_pattern(keyword):
+    normalized = normalize_text(keyword)
+
+    if not normalized:
+        return None
+
+    parts = normalized.split()
+
+    phrase = r"[\s\-_–—]*".join(
+        re.escape(part) for part in parts
+    )
+
+    return (
+        r"(?<!\w)"
+        + phrase
+        + r"(?:ی|ها|های)?"
+        + r"(?!\w)"
+    )
 
 
 def find_matches(text, keywords):
     text = normalize_text(text)
     matches = []
 
+    if not text:
+        return matches
+
     for keyword in keywords:
-        keyword_normalized = normalize_text(keyword)
+        pattern = keyword_pattern(keyword)
 
-        if not keyword_normalized:
-            continue
-
-        pattern = (
-            r"(?<!\w)"
-            + re.escape(keyword_normalized)
-            + r"(?:ی|ها|های)?"
-            + r"(?!\w)"
-        )
-
-        if re.search(pattern, text):
+        if pattern and re.search(pattern, text):
             matches.append(keyword)
 
     return list(dict.fromkeys(matches))
@@ -280,7 +382,7 @@ def combine_matches(*match_lists):
 
 def count_numeric_evidence(text):
     """
-    وجود عدد واقعی را بررسی می‌کند.
+    وجود عدد را بررسی می‌کند.
     وجود عدد به‌تنهایی باعث انتشار خبر نمی‌شود.
     """
     text = normalize_text(text)
@@ -293,14 +395,6 @@ def count_numeric_evidence(text):
 def get_original_filter_score(item):
     """
     امتیاز فیلتر را از امتیاز رتبه‌بندی جدا نگه می‌دارد.
-
-    اولویت:
-    1. filter_market_score ذخیره‌شده
-    2. market_score ورودی، اگر امتیاز فیلتر باشد
-    3. صفر
-
-    در اجرای مجدد روی خروجی قبلی، امتیاز نهایی
-    به‌اشتباه دوباره به‌عنوان امتیاز فیلتر استفاده نمی‌شود.
     """
     if "filter_market_score" in item:
         return max(
@@ -308,6 +402,7 @@ def get_original_filter_score(item):
             safe_int(item.get("filter_market_score"), 0),
         )
 
+    # در خروجی قبلی رتبه‌بندی، market_score امتیاز نهایی است.
     if item.get("ranking_applied") is True:
         return 0
 
@@ -322,19 +417,24 @@ def get_original_filter_score(item):
 # =========================================================
 
 def rank_news(item):
-    title = normalize_text(item.get("title", ""))
+    title = normalize_text(
+        get_text(item, "title", "headline")
+    )
 
     summary = normalize_text(
-        item.get("summary", "")
-        or item.get("description", "")
+        get_text(item, "summary", "description")
     )
 
-    # متن اصلی نیز برای تحلیل شواهد استفاده می‌شود.
-    full_text = normalize_text(
-        item.get("full_text", "")
-        or item.get("content", "")
-        or item.get("text", "")
+    full_text_fields = get_all_text_fields(
+        item,
+        "full_text",
+        "full_content",
+        "content",
+        "text",
     )
+
+    # بررسی تمام متن‌های موجود، نه فقط اولین فیلد غیرخالی
+    full_text = normalize_text(" ".join(full_text_fields))
 
     text = normalize_text(
         title + " " + summary + " " + full_text
@@ -381,42 +481,33 @@ def rank_news(item):
     # -----------------------------------------------------
 
     high_title_matches = find_matches(
-        title,
-        HIGH_IMPACT_KEYWORDS,
+        title, HIGH_IMPACT_KEYWORDS
     )
     high_summary_matches = find_matches(
-        summary,
-        HIGH_IMPACT_KEYWORDS,
+        summary, HIGH_IMPACT_KEYWORDS
     )
     high_full_text_matches = find_matches(
-        full_text,
-        HIGH_IMPACT_KEYWORDS,
+        full_text, HIGH_IMPACT_KEYWORDS
     )
 
     medium_title_matches = find_matches(
-        title,
-        MEDIUM_IMPACT_KEYWORDS,
+        title, MEDIUM_IMPACT_KEYWORDS
     )
     medium_summary_matches = find_matches(
-        summary,
-        MEDIUM_IMPACT_KEYWORDS,
+        summary, MEDIUM_IMPACT_KEYWORDS
     )
     medium_full_text_matches = find_matches(
-        full_text,
-        MEDIUM_IMPACT_KEYWORDS,
+        full_text, MEDIUM_IMPACT_KEYWORDS
     )
 
     signal_title_matches = find_matches(
-        title,
-        MARKET_SIGNAL_KEYWORDS,
+        title, MARKET_SIGNAL_KEYWORDS
     )
     signal_summary_matches = find_matches(
-        summary,
-        MARKET_SIGNAL_KEYWORDS,
+        summary, MARKET_SIGNAL_KEYWORDS
     )
     signal_full_text_matches = find_matches(
-        full_text,
-        MARKET_SIGNAL_KEYWORDS,
+        full_text, MARKET_SIGNAL_KEYWORDS
     )
 
     high_impact_matches = combine_matches(
@@ -443,38 +534,34 @@ def rank_news(item):
 
     score = 0
 
-    # اشاره به بازار در عنوان
+    # عنوان وزن بیشتری دارد.
     score += sum(
         len(matches) * 4
         for matches in title_market_matches.values()
     )
 
-    # اشاره به بازار در خلاصه
+    # خلاصه وزن متوسط دارد.
     score += sum(
         len(matches) * 2
         for matches in summary_market_matches.values()
     )
 
-    # اشاره به بازار در متن کامل، با وزن کمتر
-    score += sum(
+    # متن کامل وزن کمتری دارد و امتیاز آن محدود است.
+    full_text_market_count = sum(
         len(matches)
         for matches in full_text_market_matches.values()
     )
+    score += min(full_text_market_count, 6)
 
-    # عوامل پراثر و متوسط
-    score += len(high_impact_matches) * 4
-    score += len(medium_impact_matches) * 2
-
-    # نشانه‌های کاربردی؛ با سقف امتیاز
+    score += min(len(high_impact_matches), 8) * 4
+    score += min(len(medium_impact_matches), 8) * 2
     score += min(len(signal_matches), 4)
 
-    # وجود رقم واقعی
     has_numeric_evidence = count_numeric_evidence(text)
 
     if has_numeric_evidence:
         score += 2
 
-    # تعداد بازارهای مرتبط
     market_count = sum(
         bool(market_matches.get(market))
         for market in ("gold", "currency", "stock")
@@ -483,7 +570,6 @@ def rank_news(item):
     if market_count >= 2:
         score += 4
 
-    # ارتباط هم‌زمان عنوان و خلاصه با بازار
     if title_market_matches and summary_market_matches:
         score += 2
 
@@ -493,11 +579,8 @@ def rank_news(item):
 
     previous_filter_score = get_original_filter_score(item)
 
-    filter_score_bonus = min(
-        previous_filter_score,
-        6,
-    )
-
+    # امتیاز فیلتر فقط کمک محدود می‌کند تا بر رتبه‌بندی مسلط نشود.
+    filter_score_bonus = min(previous_filter_score, 6)
     score += filter_score_bonus
 
     # -----------------------------------------------------
@@ -550,7 +633,7 @@ def rank_news(item):
         reasons.append("نشانه اطلاعات کاربردی بازار")
 
     if has_numeric_evidence:
-        reasons.append("وجود رقم در متن")
+        reasons.append("وجود عدد در متن")
 
     if market_count >= 2:
         reasons.append("ارتباط با چند بازار")
@@ -562,29 +645,25 @@ def rank_news(item):
         reasons.append("بازار هدف مشخصی شناسایی نشد")
 
     return {
-        # این دو فیلد برای news_publisher.py مهم‌اند.
         "market_score": score,
         "priority": priority,
 
-        # امتیاز مرحله فیلتر جداگانه نگهداری می‌شود.
         "filter_market_score": previous_filter_score,
         "filter_score_bonus": filter_score_bonus,
 
-        # اطلاعات بازار
         "gold_matches": gold_matches,
         "currency_matches": currency_matches,
         "stock_matches": stock_matches,
         "market_matches": market_matches,
 
-        # اطلاعات تفصیلی تشخیص
         "title_market_matches": title_market_matches,
         "summary_market_matches": summary_market_matches,
         "full_text_market_matches": full_text_market_matches,
+
         "high_impact_matches": high_impact_matches,
         "medium_impact_matches": medium_impact_matches,
         "signal_matches": signal_matches,
 
-        # شواهد و دلایل
         "has_numeric_evidence": has_numeric_evidence,
         "market_count": market_count,
         "ranking_reasons": reasons,
@@ -607,7 +686,6 @@ def main():
     for item in news:
         new_item = dict(item)
 
-        # امتیاز اصلی فیلتر را قبل از رتبه‌بندی ثبت می‌کنیم.
         original_filter_score = get_original_filter_score(
             new_item
         )
@@ -627,11 +705,7 @@ def main():
         reverse=True,
     )
 
-    try:
-        save_news(ranked_news)
-    except OSError as error:
-        print("Could not save ranked news:", error)
-        raise
+    save_news(ranked_news)
 
     high_count = sum(
         item.get("priority") == "high"
@@ -664,7 +738,7 @@ def main():
             "|",
             item.get("source", ""),
             "|",
-            item.get("title", ""),
+            get_text(item, "title", "headline"),
         )
 
     print()
