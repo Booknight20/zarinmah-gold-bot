@@ -27,7 +27,6 @@ ANALYST_THREAD_ID = 25
 READY_FILE = "analyst_ready.json"
 PUBLISHED_FILE = "analyst_published.json"
 
-# طول هر بخش عمداً محافظه‌کارانه انتخاب شده است.
 CONTENT_CHUNK_SIZE = 2200
 SEPARATOR = "━━━━━━━━━━━━━━━━━━"
 
@@ -115,7 +114,6 @@ def item_key(item):
 
 
 def get_summary(item):
-    # اولویت با متن کامل ذخیره‌شده است.
     for field in ("full_text", "summary", "text", "content"):
         value = clean_text(item.get(field))
         if value:
@@ -154,13 +152,22 @@ def prepare_published_state():
     if isinstance(data, list):
         mapped = {}
 
-        for item in data:
-            if isinstance(item, dict):
-                key = item.get("link") or item.get("key")
-                if key:
-                    mapped[str(key)] = item
+        for record in data:
+            if not isinstance(record, dict):
+                continue
 
-        data = {"items": mapped}
+            item = record.get("item")
+            link = ""
+
+            if isinstance(item, dict):
+                link = compact_telegram_link(item.get("link"))
+
+            key = link or record.get("link") or record.get("key")
+
+            if key:
+                mapped[str(key)] = record
+
+        return {"items": mapped}, mapped
 
     if not isinstance(data, dict):
         data = {}
@@ -180,6 +187,9 @@ def prepare_published_state():
                 "telegram_sent",
                 "eitaa_sent",
                 "group_sent",
+                "telegram_parts_sent",
+                "eitaa_parts_sent",
+                "group_parts_sent",
                 "item",
             )
         )
@@ -194,14 +204,13 @@ def prepare_published_state():
 
 
 def destination_is_sent(record, destination):
-    """
-    از وضعیت بخش‌های جدید پشتیبانی می‌کند.
-    وضعیت فایل‌های قدیمی نیز حفظ می‌شود.
-    """
+    if not isinstance(record, dict):
+        return False
+
     parts = record.get(f"{destination}_parts_sent")
 
     if isinstance(parts, list) and parts:
-        return all(parts)
+        return all(bool(value) for value in parts)
 
     return bool(
         record.get(f"{destination}_sent")
@@ -211,28 +220,81 @@ def destination_is_sent(record, destination):
 
 
 def initialize_parts(record, destination, total):
-    key = f"{destination}_parts_sent"
+    """
+    وضعیت هر بخش را آماده می‌کند.
+
+    اگر رکورد قدیمی وضعیت ارسال موفق داشته باشد و آرایه بخش‌ها
+    وجود نداشته باشد، برای جلوگیری از انتشار دوباره به آن دست نمی‌زنیم.
+
+    اگر آرایه بخش‌ها وجود داشته باشد اما تعداد بخش‌های متن تغییر کرده
+    باشد، وضعیت بخش‌های قبلی حفظ می‌شود و بخش‌های تازه False می‌مانند.
+    """
+    sent_key = f"{destination}_parts_sent"
     ids_key = f"{destination}_part_message_ids"
 
-    # رکوردهای قدیمی که قبلاً ارسال شده‌اند، دوباره ارسال نشوند.
+    existing_sent = record.get(sent_key)
+    existing_ids = record.get(ids_key)
+
+    if isinstance(existing_sent, list):
+        sent = list(existing_sent[:total])
+        sent.extend([False] * (total - len(sent)))
+
+        if isinstance(existing_ids, list):
+            ids = list(existing_ids[:total])
+        else:
+            ids = []
+
+        ids.extend([None] * (total - len(ids)))
+
+        record[sent_key] = sent
+        record[ids_key] = ids
+        return
+
+    # سازگاری با وضعیت قدیمی که فقط یک پرچم ارسال داشت.
     if destination_is_sent(record, destination):
         return
 
-    sent = record.get(key)
+    record[sent_key] = [False] * total
+    record[ids_key] = [None] * total
 
-    if not isinstance(sent, list):
-        sent = []
 
-    ids = record.get(ids_key)
+def find_existing_record(item, published):
+    """
+    رکورد را با کلید استاندارد پیدا می‌کند.
+    اگر کلید قدیمی متفاوت باشد، لینک داخل item هم بررسی می‌شود.
+    """
+    key = item_key(item)
 
-    if not isinstance(ids, list):
-        ids = []
+    if isinstance(published.get(key), dict):
+        return key, published[key]
 
-    sent = (sent + [False] * total)[:total]
-    ids = (ids + [None] * total)[:total]
+    wanted_link = compact_telegram_link(item.get("link"))
 
-    record[key] = sent
-    record[ids_key] = ids
+    if wanted_link:
+        for old_key, record in list(published.items()):
+            if not isinstance(record, dict):
+                continue
+
+            stored_item = record.get("item")
+
+            if not isinstance(stored_item, dict):
+                continue
+
+            stored_link = compact_telegram_link(stored_item.get("link"))
+
+            if stored_link == wanted_link:
+                # رکورد قدیمی را به کلید استاندارد منتقل می‌کنیم.
+                if old_key != key:
+                    if key not in published:
+                        published[key] = record
+
+                    published.pop(old_key, None)
+
+                return key, record
+
+    record = {}
+    published[key] = record
+    return key, record
 
 
 # =========================================================
@@ -240,10 +302,6 @@ def initialize_parts(record, destination, total):
 # =========================================================
 
 def split_text(text, max_chars=CONTENT_CHUNK_SIZE):
-    """
-    متن را ترجیحاً از محل پاراگراف یا فاصله تقسیم می‌کند.
-    هیچ بخشی از متن عمداً حذف نمی‌شود.
-    """
     text = str(text or "")
 
     if not text:
@@ -335,7 +393,11 @@ def build_message_parts(item):
 # ارسال تلگرام
 # =========================================================
 
-def send_to_telegram(text, chat_id=TELEGRAM_CHANNEL, message_thread_id=None):
+def send_to_telegram(
+    text,
+    chat_id=TELEGRAM_CHANNEL,
+    message_thread_id=None,
+):
     if not BOT_TOKEN:
         raise RuntimeError("TELEGRAM_BOT_TOKEN تنظیم نشده است.")
 
@@ -401,7 +463,7 @@ def send_to_eitaa(text):
 
 
 # =========================================================
-# انتشار بخش‌ها و ثبت وضعیت هر بخش
+# انتشار بخش‌ها و ثبت وضعیت
 # =========================================================
 
 def publish_parts(
@@ -410,8 +472,6 @@ def publish_parts(
     destination,
     send_function,
     state,
-    published,
-    key,
 ):
     messages = build_message_parts(item)
     initialize_parts(record, destination, len(messages))
@@ -419,13 +479,21 @@ def publish_parts(
     sent_key = f"{destination}_parts_sent"
     ids_key = f"{destination}_part_message_ids"
 
-    # اگر یک رکورد قدیمی قبلاً ارسال شده باشد، از ارسال دوباره خودداری کن.
+    # وضعیت قدیمی ارسال موفق، بدون آرایه بخش‌ها
     if destination_is_sent(record, destination):
-        print(f"{destination}: already sent; skipping.")
-        return
+        if not isinstance(record.get(sent_key), list):
+            print(f"{destination}: already sent; skipping.")
+            return
 
-    record[sent_key] = (record.get(sent_key) or [False] * len(messages))
-    record[ids_key] = (record.get(ids_key) or [None] * len(messages))
+    # اطمینان از سازگاری آرایه‌ها با تعداد بخش‌ها
+    if not isinstance(record.get(sent_key), list):
+        record[sent_key] = [False] * len(messages)
+
+    if not isinstance(record.get(ids_key), list):
+        record[ids_key] = [None] * len(messages)
+
+    if len(record[sent_key]) != len(messages):
+        initialize_parts(record, destination, len(messages))
 
     for index, message in enumerate(messages):
         if record[sent_key][index]:
@@ -442,12 +510,13 @@ def publish_parts(
                 f"{destination}: part {index + 1}/{len(messages)} SENT"
             )
 
-            # پس از هر بخش ذخیره می‌کنیم تا در اجرای بعدی از همان‌جا ادامه دهد.
+            # بعد از هر بخش ذخیره می‌کنیم تا در اجرای بعدی ادامه دهد.
             save_json(PUBLISHED_FILE, state)
 
         except Exception as error:
             print(
-                f"{destination}: part {index + 1}/{len(messages)} FAILED: {error}"
+                f"{destination}: part {index + 1}/{len(messages)} "
+                f"FAILED: {error}"
             )
 
             record.setdefault("errors", []).append({
@@ -458,17 +527,15 @@ def publish_parts(
             })
 
             save_json(PUBLISHED_FILE, state)
-
-            # ترتیب بخش‌ها حفظ شود؛ اجرای بعدی از این بخش ادامه می‌دهد.
             raise
 
     if all(record[sent_key]):
         record[f"{destination}_sent"] = True
         record[f"{destination}_sent_at"] = now_iso()
 
-        # برای سازگاری با ابزارهای قدیمی، شناسه اولین بخش نیز نگه داشته می‌شود.
         if record[ids_key]:
             first_id = record[ids_key][0]
+
             if first_id is not None:
                 record[f"{destination}_message_id"] = first_id
 
@@ -493,15 +560,19 @@ def main():
 
     state, published = prepare_published_state()
 
-    # آیتم‌های جدید
+    # ادغام موارد آماده فعلی با مواردی که انتشارشان ناقص مانده است.
     work = {}
 
     for item in ready_data:
-        if isinstance(item, dict):
-            work[item_key(item)] = item
+        if not isinstance(item, dict):
+            continue
 
-    # بازیابی تحلیل‌هایی که در اجرای قبلی ناقص مانده‌اند.
-    for key, record in list(published.items()):
+        key = item_key(item)
+
+        if key not in work:
+            work[key] = item
+
+    for _, record in list(published.items()):
         if not isinstance(record, dict):
             continue
 
@@ -516,7 +587,8 @@ def main():
         )
 
         if not complete:
-            work.setdefault(str(key), stored_item)
+            key = item_key(stored_item)
+            work.setdefault(key, stored_item)
 
     if not work:
         print("No new or pending analyst posts to publish.")
@@ -524,14 +596,9 @@ def main():
 
     errors = []
 
-    for key, item in work.items():
-        record = published.get(key)
+    for _, item in work.items():
+        key, record = find_existing_record(item, published)
 
-        if not isinstance(record, dict):
-            record = {}
-            published[key] = record
-
-        # متن کامل برای تلاش مجدد در فایل وضعیت نگهداری می‌شود.
         record["item"] = item
         record.setdefault("first_seen_at", now_iso())
 
@@ -540,6 +607,8 @@ def main():
             item.get("analyst") or item.get("source") or "تحلیلگر",
             "|",
             item.get("title", ""),
+            "|",
+            key,
         )
 
         # کانال تلگرام
@@ -553,13 +622,11 @@ def main():
                     chat_id=TELEGRAM_CHANNEL,
                 ),
                 state=state,
-                published=published,
-                key=key,
             )
         except Exception as error:
             errors.append(f"Telegram / {key}: {error}")
 
-        # ایتا؛ حتی اگر تلگرام خطا بدهد، این مقصد نیز امتحان می‌شود.
+        # ایتا
         try:
             publish_parts(
                 item=item,
@@ -567,13 +634,11 @@ def main():
                 destination="eitaa",
                 send_function=send_to_eitaa,
                 state=state,
-                published=published,
-                key=key,
             )
         except Exception as error:
             errors.append(f"Eitaa / {key}: {error}")
 
-        # تاپیک تحلیل روزانه در گروه تلگرام
+        # تاپیک تحلیل‌های گروه تلگرام
         try:
             publish_parts(
                 item=item,
@@ -585,27 +650,30 @@ def main():
                     message_thread_id=ANALYST_THREAD_ID,
                 ),
                 state=state,
-                published=published,
-                key=key,
             )
         except Exception as error:
             errors.append(f"Telegram group / {key}: {error}")
 
-        if all(
+        complete = all(
             destination_is_sent(record, destination)
             for destination in ("telegram", "eitaa", "group")
-        ):
+        )
+
+        if complete:
             record["published_at"] = record.get("published_at") or now_iso()
             print("Analysis fully published to all destinations.")
+        else:
+            print("Analysis remains pending in publication state.")
 
         save_json(PUBLISHED_FILE, state)
 
     if errors:
         print("\nSome analyst posts could not be fully published:")
+
         for error in errors:
             print("-", error)
 
-        # اجرای بعدی می‌تواند بخش‌های ناموفق را مجدداً امتحان کند.
+        # اجرای بعدی باید بتواند بخش‌های ناموفق را دوباره امتحان کند.
         sys.exit(1)
 
     print(
