@@ -173,7 +173,7 @@ MARKET_SIGNAL_KEYWORDS = [
 
 
 # =========================================================
-# ابزارهای متن و فایل
+# ابزارهای متن
 # =========================================================
 
 def normalize_text(text):
@@ -201,17 +201,22 @@ def normalize_text(text):
     return text.strip().lower()
 
 
+def safe_int(value, default=0):
+    try:
+        if isinstance(value, bool):
+            return default
+        return int(float(value))
+    except (TypeError, ValueError, OverflowError):
+        return default
+
+
 def load_news():
     if not os.path.exists(INPUT_FILE):
         print("Input file not found:", INPUT_FILE)
         return []
 
     try:
-        with open(
-            INPUT_FILE,
-            "r",
-            encoding="utf-8",
-        ) as file:
+        with open(INPUT_FILE, "r", encoding="utf-8") as file:
             data = json.load(file)
 
         if isinstance(data, list):
@@ -224,17 +229,13 @@ def load_news():
         print("Input JSON is not a list.")
         return []
 
-    except Exception as error:
+    except (OSError, json.JSONDecodeError) as error:
         print("Could not load news:", error)
         return []
 
 
 def save_news(news):
-    with open(
-        OUTPUT_FILE,
-        "w",
-        encoding="utf-8",
-    ) as file:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
         json.dump(
             news,
             file,
@@ -279,20 +280,40 @@ def combine_matches(*match_lists):
 
 def count_numeric_evidence(text):
     """
-    فقط وجود رقم واقعی را بررسی می‌کند.
-    کلماتی مثل «دلار» یا «تومان» به‌تنهایی
-    مدرک عددی محسوب نمی‌شوند.
+    وجود عدد واقعی را بررسی می‌کند.
+    وجود عدد به‌تنهایی باعث انتشار خبر نمی‌شود.
     """
     text = normalize_text(text)
 
-    patterns = [
-        r"\d+(?:[.,]\d+)?\s*%",
-        r"\d+(?:[.,]\d+)?",
-    ]
+    return bool(
+        re.search(r"\d+(?:[.,]\d+)?\s*%?", text)
+    )
 
-    return any(
-        re.search(pattern, text)
-        for pattern in patterns
+
+def get_original_filter_score(item):
+    """
+    امتیاز فیلتر را از امتیاز رتبه‌بندی جدا نگه می‌دارد.
+
+    اولویت:
+    1. filter_market_score ذخیره‌شده
+    2. market_score ورودی، اگر امتیاز فیلتر باشد
+    3. صفر
+
+    در اجرای مجدد روی خروجی قبلی، امتیاز نهایی
+    به‌اشتباه دوباره به‌عنوان امتیاز فیلتر استفاده نمی‌شود.
+    """
+    if "filter_market_score" in item:
+        return max(
+            0,
+            safe_int(item.get("filter_market_score"), 0),
+        )
+
+    if item.get("ranking_applied") is True:
+        return 0
+
+    return max(
+        0,
+        safe_int(item.get("market_score"), 0),
     )
 
 
@@ -301,41 +322,42 @@ def count_numeric_evidence(text):
 # =========================================================
 
 def rank_news(item):
-    title = normalize_text(
-        item.get("title", "")
-    )
+    title = normalize_text(item.get("title", ""))
 
     summary = normalize_text(
         item.get("summary", "")
         or item.get("description", "")
     )
 
+    # متن اصلی نیز برای تحلیل شواهد استفاده می‌شود.
+    full_text = normalize_text(
+        item.get("full_text", "")
+        or item.get("content", "")
+        or item.get("text", "")
+    )
+
     text = normalize_text(
-        title + " " + summary
+        title + " " + summary + " " + full_text
     )
 
     # -----------------------------------------------------
-    # تشخیص بازار در عنوان و خلاصه
+    # تشخیص بازار
     # -----------------------------------------------------
 
     title_market_matches = {}
     summary_market_matches = {}
+    full_text_market_matches = {}
     market_matches = {}
 
     for market_name, keywords in MARKET_KEYWORDS.items():
-        title_matches = find_matches(
-            title,
-            keywords,
-        )
-
-        summary_matches = find_matches(
-            summary,
-            keywords,
-        )
+        title_matches = find_matches(title, keywords)
+        summary_matches = find_matches(summary, keywords)
+        full_text_matches = find_matches(full_text, keywords)
 
         combined = combine_matches(
             title_matches,
             summary_matches,
+            full_text_matches,
         )
 
         if title_matches:
@@ -344,6 +366,9 @@ def rank_news(item):
         if summary_matches:
             summary_market_matches[market_name] = summary_matches
 
+        if full_text_matches:
+            full_text_market_matches[market_name] = full_text_matches
+
         if combined:
             market_matches[market_name] = combined
 
@@ -351,13 +376,20 @@ def rank_news(item):
     currency_matches = market_matches.get("currency", [])
     stock_matches = market_matches.get("stock", [])
 
+    # -----------------------------------------------------
+    # تشخیص عوامل اثرگذار
+    # -----------------------------------------------------
+
     high_title_matches = find_matches(
         title,
         HIGH_IMPACT_KEYWORDS,
     )
-
     high_summary_matches = find_matches(
         summary,
+        HIGH_IMPACT_KEYWORDS,
+    )
+    high_full_text_matches = find_matches(
+        full_text,
         HIGH_IMPACT_KEYWORDS,
     )
 
@@ -365,9 +397,12 @@ def rank_news(item):
         title,
         MEDIUM_IMPACT_KEYWORDS,
     )
-
     medium_summary_matches = find_matches(
         summary,
+        MEDIUM_IMPACT_KEYWORDS,
+    )
+    medium_full_text_matches = find_matches(
+        full_text,
         MEDIUM_IMPACT_KEYWORDS,
     )
 
@@ -375,57 +410,71 @@ def rank_news(item):
         title,
         MARKET_SIGNAL_KEYWORDS,
     )
-
     signal_summary_matches = find_matches(
         summary,
+        MARKET_SIGNAL_KEYWORDS,
+    )
+    signal_full_text_matches = find_matches(
+        full_text,
         MARKET_SIGNAL_KEYWORDS,
     )
 
     high_impact_matches = combine_matches(
         high_title_matches,
         high_summary_matches,
+        high_full_text_matches,
     )
 
     medium_impact_matches = combine_matches(
         medium_title_matches,
         medium_summary_matches,
+        medium_full_text_matches,
     )
 
     signal_matches = combine_matches(
         signal_title_matches,
         signal_summary_matches,
+        signal_full_text_matches,
     )
 
     # -----------------------------------------------------
-    # محاسبه امتیاز
+    # محاسبه امتیاز رتبه‌بندی
     # -----------------------------------------------------
 
     score = 0
 
-    # اشاره مستقیم در عنوان
+    # اشاره به بازار در عنوان
     score += sum(
         len(matches) * 4
         for matches in title_market_matches.values()
     )
 
-    # اشاره در خلاصه، با وزن کمتر
+    # اشاره به بازار در خلاصه
     score += sum(
         len(matches) * 2
         for matches in summary_market_matches.values()
+    )
+
+    # اشاره به بازار در متن کامل، با وزن کمتر
+    score += sum(
+        len(matches)
+        for matches in full_text_market_matches.values()
     )
 
     # عوامل پراثر و متوسط
     score += len(high_impact_matches) * 4
     score += len(medium_impact_matches) * 2
 
-    # وجود نشانه‌های اطلاعات کاربردی
+    # نشانه‌های کاربردی؛ با سقف امتیاز
     score += min(len(signal_matches), 4)
 
     # وجود رقم واقعی
-    if count_numeric_evidence(text):
+    has_numeric_evidence = count_numeric_evidence(text)
+
+    if has_numeric_evidence:
         score += 2
 
-    # ارتباط هم‌زمان با چند بازار
+    # تعداد بازارهای مرتبط
     market_count = sum(
         bool(market_matches.get(market))
         for market in ("gold", "currency", "stock")
@@ -434,23 +483,15 @@ def rank_news(item):
     if market_count >= 2:
         score += 4
 
-    # عنوان و خلاصه هر دو به بازار اشاره دارند
-    if (
-        title_market_matches
-        and summary_market_matches
-    ):
+    # ارتباط هم‌زمان عنوان و خلاصه با بازار
+    if title_market_matches and summary_market_matches:
         score += 2
 
-    # اگر فیلتر قبلی امتیاز ثبت کرده باشد،
-    # فقط سهم محدودی در امتیاز نهایی دارد.
-    # این کار مانع می‌شود امتیاز قبلی بر نتیجه مسلط شود.
-    try:
-        previous_filter_score = max(
-            0,
-            int(item.get("market_score", 0)),
-        )
-    except (TypeError, ValueError):
-        previous_filter_score = 0
+    # -----------------------------------------------------
+    # امتیاز مرحله فیلتر
+    # -----------------------------------------------------
+
+    previous_filter_score = get_original_filter_score(item)
 
     filter_score_bonus = min(
         previous_filter_score,
@@ -467,8 +508,6 @@ def rank_news(item):
     has_high_impact = bool(high_impact_matches)
     has_signal = bool(signal_matches)
 
-    # امتیاز بالا به‌تنهایی کافی نیست:
-    # خبر باید ارتباط مشخصی با بازار هدف داشته باشد.
     if (
         has_market
         and score >= 18
@@ -487,7 +526,7 @@ def rank_news(item):
         priority = "low"
 
     # -----------------------------------------------------
-    # توضیح عوامل امتیازدهی برای بررسی بعدی
+    # دلایل امتیازدهی
     # -----------------------------------------------------
 
     reasons = []
@@ -498,6 +537,9 @@ def rank_news(item):
     if summary_market_matches:
         reasons.append("ارتباط بازار در خلاصه")
 
+    if full_text_market_matches:
+        reasons.append("ارتباط بازار در متن کامل")
+
     if high_impact_matches:
         reasons.append("عامل پراثر اقتصادی یا سیاسی")
 
@@ -507,26 +549,46 @@ def rank_news(item):
     if signal_matches:
         reasons.append("نشانه اطلاعات کاربردی بازار")
 
-    if count_numeric_evidence(text):
+    if has_numeric_evidence:
         reasons.append("وجود رقم در متن")
 
     if market_count >= 2:
         reasons.append("ارتباط با چند بازار")
 
+    if filter_score_bonus:
+        reasons.append("امتیاز کمکی مرحله فیلتر")
+
+    if not has_market:
+        reasons.append("بازار هدف مشخصی شناسایی نشد")
+
     return {
+        # این دو فیلد برای news_publisher.py مهم‌اند.
         "market_score": score,
         "priority": priority,
+
+        # امتیاز مرحله فیلتر جداگانه نگهداری می‌شود.
+        "filter_market_score": previous_filter_score,
+        "filter_score_bonus": filter_score_bonus,
+
+        # اطلاعات بازار
         "gold_matches": gold_matches,
         "currency_matches": currency_matches,
         "stock_matches": stock_matches,
         "market_matches": market_matches,
+
+        # اطلاعات تفصیلی تشخیص
         "title_market_matches": title_market_matches,
         "summary_market_matches": summary_market_matches,
+        "full_text_market_matches": full_text_market_matches,
         "high_impact_matches": high_impact_matches,
         "medium_impact_matches": medium_impact_matches,
         "signal_matches": signal_matches,
+
+        # شواهد و دلایل
+        "has_numeric_evidence": has_numeric_evidence,
+        "market_count": market_count,
         "ranking_reasons": reasons,
-        "filter_score_bonus": filter_score_bonus,
+        "ranking_applied": True,
     }
 
 
@@ -543,13 +605,14 @@ def main():
     ranked_news = []
 
     for item in news:
-        # امتیاز مرحله فیلتر را قبل از محاسبه جدید حفظ می‌کنیم.
         new_item = dict(item)
 
-        if "market_score" in new_item:
-            new_item["filter_market_score"] = (
-                new_item["market_score"]
-            )
+        # امتیاز اصلی فیلتر را قبل از رتبه‌بندی ثبت می‌کنیم.
+        original_filter_score = get_original_filter_score(
+            new_item
+        )
+
+        new_item["filter_market_score"] = original_filter_score
 
         analysis = rank_news(new_item)
         new_item.update(analysis)
@@ -557,11 +620,18 @@ def main():
         ranked_news.append(new_item)
 
     ranked_news.sort(
-        key=lambda item: item.get("market_score", 0),
+        key=lambda item: safe_int(
+            item.get("market_score", 0),
+            0,
+        ),
         reverse=True,
     )
 
-    save_news(ranked_news)
+    try:
+        save_news(ranked_news)
+    except OSError as error:
+        print("Could not save ranked news:", error)
+        raise
 
     high_count = sum(
         item.get("priority") == "high"
