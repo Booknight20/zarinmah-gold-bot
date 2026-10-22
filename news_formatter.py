@@ -9,6 +9,7 @@ OUTPUT_FILE = "news_ready.json"
 
 def load_news():
     if not os.path.exists(INPUT_FILE):
+        print("Input file not found:", INPUT_FILE)
         return []
 
     try:
@@ -19,11 +20,17 @@ def load_news():
         ) as file:
             data = json.load(file)
 
-        return data if isinstance(data, list) else []
+        if not isinstance(data, list):
+            print("Input JSON is not a list.")
+            return []
+
+        return [
+            item for item in data
+            if isinstance(item, dict)
+        ]
 
     except Exception as error:
-        print("Could not load news:")
-        print(error)
+        print("Could not load news:", error)
         return []
 
 
@@ -42,289 +49,122 @@ def save_news(news):
 
 
 def clean_text(text):
-    if not text:
+    if text is None:
         return ""
 
     text = str(text)
 
+    # حذف تگ‌های HTML
     text = re.sub(
         r"<[^>]+>",
         " ",
         text,
     )
 
-    text = text.replace("\u200c", " ")
-    text = text.replace("\u200f", " ")
-    text = text.replace("\ufeff", " ")
+    text = text.replace("&nbsp;", " ")
+    text = text.replace("&amp;", "&")
+    text = text.replace("&quot;", '"')
+    text = text.replace("&#39;", "'")
+    text = text.replace("&lt;", "<")
+    text = text.replace("&gt;", ">")
+
+    text = text.replace("\u200c", "‌")
+    text = text.replace("\u200f", "")
+    text = text.replace("\ufeff", "")
 
     text = re.sub(
-        r"\s+",
+        r"[ \t]+",
         " ",
+        text,
+    )
+
+    text = re.sub(
+        r"\n{3,}",
+        "\n\n",
         text,
     )
 
     return text.strip()
 
 
-def remove_source_opening(text):
-    """
-    حذف عبارت‌های معرفی منبع از ابتدای خلاصه.
-    """
-
+def normalize_for_comparison(text):
     text = clean_text(text)
 
-    patterns = [
-        r"^طبق اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
-        r"^بر اساس اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
-        r"^براساس اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
-        r"^به گزارش(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
-        r"^بنابر اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
-        r"^برپایه اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
-        r"^بر مبنای اعلام(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
-        r"^طبق گزارش(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
-        r"^به نقل از(?:\s+[^،:؛.!؟]+){0,12}\s*(?:،|:|؛)\s*",
-    ]
+    text = text.replace("ي", "ی")
+    text = text.replace("ى", "ی")
+    text = text.replace("ك", "ک")
+    text = text.replace("ۀ", "ه")
+    text = text.replace("ة", "ه")
 
-    previous = None
-
-    while previous != text:
-        previous = text
-
-        for pattern in patterns:
-            text = re.sub(
-                pattern,
-                "",
-                text,
-                flags=re.IGNORECASE,
-            ).strip()
-
-    return text
+    return re.sub(
+        r"\s+",
+        " ",
+        text,
+    ).strip().lower()
 
 
-def remove_redundant_phrases(text):
-    patterns = [
-        r"^این خبر می‌افزاید[،:؛]\s*",
-        r"^این خبر می‌گوید[،:؛]\s*",
-        r"^در همین حال[،:؛]\s*",
-        r"^همچنین[،:؛]\s*",
-    ]
+def build_title(title):
+    """
+    عنوان اصلی منبع حفظ می‌شود.
+    فقط فاصله‌ها و عبارت‌های زمانی انتهایی
+    در صورت اطمینان از بی‌اثر بودن حذف می‌شوند.
+    """
 
-    for pattern in patterns:
-        text = re.sub(
-            pattern,
-            "",
-            text,
-            flags=re.IGNORECASE,
-        ).strip()
-
-    return text
-
-
-def remove_date_and_time(title):
     title = clean_text(title)
 
-    title = re.sub(
-        r"\b(?:[۰-۹0-9]{1,2})\s+"
-        r"(?:فروردین|اردیبهشت|خرداد|تیر|مرداد|شهریور|"
-        r"مهر|آبان|آذر|دی|بهمن|اسفند)\s+"
-        r"[۰-۹0-9]{4}\b",
-        "",
-        title,
-    )
+    if not title:
+        return ""
 
+    # حذف تاریخ یا ساعت فقط از انتهای عنوان؛
+    # تاریخ‌های داخل عنوان دست‌نخورده می‌مانند.
     title = re.sub(
-        r"\b[۰-۹0-9]{1,2}[/-][۰-۹0-9]{1,2}[/-][۰-۹0-9]{2,4}\b",
-        "",
-        title,
-    )
-
-    title = re.sub(
-        r"\b(?:امروز|دیروز|فردا|"
-        r"دوشنبه|سه شنبه|سه‌شنبه|چهارشنبه|"
-        r"پنجشنبه|جمعه|شنبه|یکشنبه)\b",
+        r"\s*[-|،,]\s*"
+        r"(?:امروز|دیروز|فردا)\s*$",
         "",
         title,
         flags=re.IGNORECASE,
-    )
-
-    title = re.sub(
-        r"\s+",
-        " ",
-        title,
     ).strip()
 
-    return title
-
-
-def build_short_title(title, summary):
-    title = clean_text(title)
-    summary = clean_text(summary)
-
-    combined = f"{title} {summary}"
-
-    # طلا + سکه + افزایش و کاهش
-    if (
-        "طلای ۱۸ عیار" in combined
-        and "سکه امامی" in combined
-        and "افزایش" in combined
-        and "کاهش" in combined
-    ):
-        return (
-            "افزایش طلای ۱۸ عیار و نرخ ارز؛ "
-            "سکه امامی کاهش یافت"
-        )
-
-    # طلا و نرخ ارز با هم
-    if (
-        "طلا" in combined
-        and (
-            "دلار" in combined
-            or "نرخ ارز" in combined
-            or "ارز" in combined
-        )
-        and "افزایش" in combined
-        and "کاهش" in combined
-    ):
-        return (
-            "تحولات طلا و ارز؛ "
-            "بازار امروز نوسانی شد"
-        )
-
-    # افزایش قیمت طلا
-    if (
-        "طلا" in combined
-        and "افزایش" in combined
-        and "کاهش" not in combined
-    ):
-        return "افزایش قیمت طلا در بازار"
-
-    # کاهش قیمت طلا
-    if (
-        "طلا" in combined
-        and "کاهش" in combined
-        and "افزایش" not in combined
-    ):
-        return "کاهش قیمت طلا در بازار"
-
-    # افزایش ارز
-    if (
-        (
-            "دلار" in combined
-            or "نرخ ارز" in combined
-            or "بازار ارز" in combined
-        )
-        and "افزایش" in combined
-        and "کاهش" not in combined
-    ):
-        return "افزایش نرخ ارز در بازار"
-
-    # کاهش ارز
-    if (
-        (
-            "دلار" in combined
-            or "نرخ ارز" in combined
-            or "بازار ارز" in combined
-        )
-        and "کاهش" in combined
-        and "افزایش" not in combined
-    ):
-        return "کاهش نرخ ارز در بازار"
-
-    # بورس
-    if (
-        "بورس" in combined
-        or "شاخص کل" in combined
-        or "شاخص هم وزن" in combined
-    ):
-        return "آخرین وضعیت بازار بورس"
-
-    # عنوان عمومی
-    title = remove_date_and_time(
-        title
-    )
-
-    title = re.sub(
-        r"^(?:نرخ|قیمت)\s+",
-        "",
-        title,
-    ).strip()
-
-    if len(title) > 90:
-        title = (
-            title[:87].rstrip()
-            + "..."
-        )
+    if len(title) > 250:
+        # عنوان طولانی را به‌جای بریدن،
+        # کامل نگه می‌داریم تا معنای خبر از بین نرود.
+        return title
 
     return title
-
-
-def split_sentences(text):
-    text = clean_text(text)
-
-    if not text:
-        return []
-
-    parts = re.split(
-        r"(?<=[.!؟؛])\s+",
-        text,
-    )
-
-    return [
-        part.strip()
-        for part in parts
-        if part.strip()
-    ]
 
 
 def build_summary(summary):
+    """
+    خلاصه منبع را بدون محدودیت تعداد جمله یا نویسه حفظ می‌کند.
+    فقط عبارت‌های تکراری ابتدای متن حذف می‌شوند،
+    آن هم وقتی حذفشان به محتوای خبری لطمه نزند.
+    """
+
     summary = clean_text(summary)
 
     if not summary:
-        return (
-            "جزئیات بیشتر در منبع اصلی "
-            "خبر موجود است."
+        return ""
+
+    # فقط عبارت‌های روشن و عمومی که به‌تنهایی
+    # ارزش خبری ندارند، از ابتدای متن حذف می‌شوند.
+    opening_patterns = [
+        r"^به گزارش [^،:؛\n]{1,100}[،:؛]\s*",
+        r"^طبق اعلام [^،:؛\n]{1,100}[،:؛]\s*",
+        r"^بر اساس اعلام [^،:؛\n]{1,100}[،:؛]\s*",
+        r"^براساس اعلام [^،:؛\n]{1,100}[،:؛]\s*",
+        r"^بنابر اعلام [^،:؛\n]{1,100}[،:؛]\s*",
+    ]
+
+    for pattern in opening_patterns:
+        summary = re.sub(
+            pattern,
+            "",
+            summary,
+            count=1,
+            flags=re.IGNORECASE,
         )
 
-    summary = remove_source_opening(
-        summary
-    )
-
-    summary = remove_redundant_phrases(
-        summary
-    )
-
-    sentences = split_sentences(
-        summary
-    )
-
-    # اگر فقط یک جمله طولانی داریم،
-    # نقطه‌ویرگول را هم مرز جمله در نظر می‌گیریم.
-    if len(sentences) == 1:
-        parts = [
-            part.strip()
-            for part in summary.split("؛")
-            if part.strip()
-        ]
-
-        if len(parts) >= 2:
-            sentences = parts
-
-    selected = sentences[:3]
-
-    if not selected:
-        selected = [summary]
-
-    result = "\n".join(
-        selected
-    ).strip()
-
-    if len(result) > 450:
-        result = (
-            result[:447].rstrip()
-            + "..."
-        )
-
-    return result
+    return summary.strip()
 
 
 def format_news(item):
@@ -332,32 +172,32 @@ def format_news(item):
         item.get("title", "")
     )
 
-    original_summary = clean_text(
+    original_summary = (
         item.get("summary", "")
+        or item.get("description", "")
     )
 
-    short_title = build_short_title(
-        original_title,
-        original_summary,
+    title = build_title(
+        original_title
     )
 
     summary = build_summary(
         original_summary
     )
 
-    source = clean_text(
-        item.get("source", "")
-    )
+    # حفظ اطلاعات اصلی و شواهد رتبه‌بندی
+    # تا در مراحل بعد از دست نروند.
+    formatted = dict(item)
 
-    link = clean_text(
-        item.get("link", "")
-    )
-
-    return {
-        "title": short_title,
+    formatted.update({
+        "title": title,
         "summary": summary,
-        "source": source,
-        "link": link,
+        "source": clean_text(
+            item.get("source", "")
+        ),
+        "link": clean_text(
+            item.get("link", "")
+        ),
         "priority": item.get(
             "priority",
             "low",
@@ -374,16 +214,32 @@ def format_news(item):
             "collected_at",
             "",
         ),
-    }
+    })
+
+    return formatted
 
 
 def build_telegram_preview(item):
-    return (
-        f"📰 {item['title']}\n\n"
-        f"{item['summary']}\n\n"
-        f"📌 منبع: {item['source']}\n"
-        f"🔗 {item['link']}"
-    )
+    parts = []
+
+    title = item.get("title", "")
+    summary = item.get("summary", "")
+    source = item.get("source", "")
+    link = item.get("link", "")
+
+    if title:
+        parts.append(f"📰 {title}")
+
+    if summary:
+        parts.append(summary)
+
+    if source:
+        parts.append(f"📌 منبع: {source}")
+
+    if link:
+        parts.append(f"🔗 {link}")
+
+    return "\n\n".join(parts)
 
 
 def main():
@@ -392,14 +248,13 @@ def main():
     print("===================================")
 
     news = load_news()
-
     ready_news = []
 
     for item in news:
-        formatted = format_news(
-            item
-        )
+        formatted = format_news(item)
 
+        # خبر بدون عنوان یا لینک قابل پیگیری
+        # برای انتشار آماده نمی‌شود.
         if not formatted["title"]:
             continue
 
@@ -407,37 +262,24 @@ def main():
             continue
 
         formatted["telegram_preview"] = (
-            build_telegram_preview(
-                formatted
-            )
+            build_telegram_preview(formatted)
         )
 
-        ready_news.append(
-            formatted
-        )
+        ready_news.append(formatted)
 
-    save_news(
-        ready_news
-    )
+    save_news(ready_news)
 
-    print(
-        "Input news:",
-        len(news),
-    )
-
-    print(
-        "Ready news:",
-        len(ready_news),
-    )
+    print("Input news:", len(news))
+    print("Ready news:", len(ready_news))
+    print("Skipped news:", len(news) - len(ready_news))
+    print("Saved:", OUTPUT_FILE)
 
     print()
     print("Sample output:")
 
-    for item in ready_news[:5]:
+    for item in ready_news[:3]:
         print()
-        print(
-            item["telegram_preview"]
-        )
+        print(item["telegram_preview"])
 
 
 if __name__ == "__main__":
