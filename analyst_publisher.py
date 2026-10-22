@@ -1,5 +1,5 @@
+```python
 import hashlib
-import html
 import json
 import os
 import re
@@ -7,7 +7,6 @@ import sys
 import tempfile
 from datetime import datetime
 from zoneinfo import ZoneInfo
-from urllib.parse import urlsplit, urlunsplit
 
 import requests
 
@@ -18,99 +17,21 @@ import requests
 
 TEHRAN_TZ = ZoneInfo("Asia/Tehran")
 
-OUTPUT_FILE = "analyst_ready.json"
-SEEN_FILE = "analyst_seen.json"
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+EITAAYAR_TOKEN = os.environ.get("EITAAYAR_TOKEN", "").strip()
+EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID", "").strip().lstrip("@")
+
+TELEGRAM_CHANNEL = "@ZarinMahGold"
+TELEGRAM_GROUP = "@ZarinMahCommunity"
+ANALYST_THREAD_ID = 25
+
+READY_FILE = "analyst_ready.json"
 PUBLISHED_FILE = "analyst_published.json"
 
+CONTENT_CHUNK_SIZE = 2200
+SEPARATOR = "━━━━━━━━━━━━━━━━━━"
+MAX_ERROR_HISTORY = 30
 REQUEST_TIMEOUT = 30
-MAX_POSTS_PER_SOURCE = 50
-
-TELEGRAM_PUBLIC_URL = "https://t.me/s/"
-
-ANALYSTS = [
-    "Payamelyaskordi",
-    "drarashamini",
-    "nasiirry",
-    "AlirezaMehrabi_ir",
-    "rahavard365",
-]
-
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/131.0.0.0 Safari/537.36"
-    )
-}
-
-MARKET_KEYWORDS = [
-    "طلا", "طلای ۱۸", "طلای 18", "طلای ۱۸ عیار",
-    "طلای آبشده", "آبشده", "آب‌شده", "مظنه",
-    "سکه", "امامی", "نیم سکه", "نیم‌سکه",
-    "ربع سکه", "ربع‌سکه", "گرمی", "پارسیان",
-    "دلار", "تتر", "ارز", "یورو",
-    "بورس", "شاخص کل", "شاخص هم وزن", "شاخص هم‌وزن",
-    "سهام", "نماد", "عرضه اولیه", "فرابورس",
-    "انس جهانی", "اونس جهانی", "انس طلا", "اونس طلا",
-    "بازار سرمایه", "بازار ارز", "بازار طلا",
-    "قیمت دلار", "قیمت طلا", "قیمت سکه",
-]
-
-ANALYSIS_KEYWORDS = [
-    "تحلیل", "تحلیل تکنیکال", "تحلیل بنیادی",
-    "پیش بینی", "پیش‌بینی", "پیشبینی",
-    "سناریو", "هدف قیمتی", "تارگت",
-    "حمایت", "مقاومت", "حد ضرر",
-    "حد سود", "نقطه ورود", "نقطه خروج",
-    "خرید", "فروش", "صعود", "نزول",
-    "اصلاح", "روند", "موج", "شکست",
-    "احتمال", "انتظار می رود", "انتظار می‌رود",
-    "می تواند", "می‌تواند", "به نظر می رسد",
-    "به نظر می‌رسد", "ریسک", "بازده",
-    "ارزش ذاتی", "ارزش‌گذاری", "گزارش مالی",
-    "صورت مالی", "حباب", "نرخ بهره",
-    "نرخ ارز", "معاملات", "ورود پول",
-    "خروج پول", "قدرت خریدار", "قدرت فروشنده",
-    "حجم معاملات", "پیش بینی می شود",
-    "پیش‌بینی می‌شود", "فردا", "هفته آینده",
-    "ماه آینده", "کوتاه مدت", "کوتاه‌مدت",
-    "میان مدت", "میان‌مدت", "بلند مدت", "بلندمدت",
-]
-
-PROMOTIONAL_KEYWORDS = [
-    "تبلیغات", "تبلیغ", "اسپانسر",
-    "ثبت نام کنید", "ثبت‌نام کنید",
-    "عضویت ویژه", "اشتراک ویژه",
-    "خرید اشتراک", "فروش دوره",
-    "دوره آموزشی", "دوره VIP", "vip",
-    "سیگنال VIP", "سیگنال vip",
-    "سیگنال فروشی", "خرید سیگنال",
-    "فروش سیگنال", "کانال پولی",
-    "عضویت پولی", "کد تخفیف",
-    "تخفیف ویژه", "ظرفیت محدود",
-    "برای خرید پیام دهید", "جهت خرید پیام دهید",
-    "مشاوره رایگان", "مشاوره تخصصی",
-    "درآمد تضمینی", "سود تضمینی",
-    "بدون ریسک", "سود قطعی",
-]
-
-PROMOTIONAL_LINK_PATTERNS = [
-    r"t\.me/joinchat/",
-    r"t\.me/\+",
-    r"ثبت.?نام",
-    r"خرید\s+(?:دوره|اشتراک|سیگنال)",
-    r"عضویت\s+(?:ویژه|پولی)",
-    r"دایرکت\s+بده",
-    r"پیام\s+بده(?:ید)?\s+برای",
-]
-
-# این کلمات به‌تنهایی باعث حذف تحلیل نمی‌شوند؛
-# فقط در کنار نشانه‌های تبلیغاتی بررسی می‌شوند.
-PROMOTIONAL_CONTEXT_KEYWORDS = [
-    "قیمت", "تحلیل", "طلا", "دلار", "سکه",
-    "بورس", "سهام", "بازار", "سیگنال",
-    "خرید", "فروش", "تارگت", "حمایت", "مقاومت",
-]
 
 
 # =========================================================
@@ -121,27 +42,28 @@ def now_iso():
     return datetime.now(TEHRAN_TZ).isoformat()
 
 
-def normalize_text(value):
-    text = html.unescape(str(value or ""))
-    text = text.replace("\u200c", " ")
-    text = text.replace("ي", "ی").replace("ك", "ک")
-    text = text.replace("\xa0", " ")
-    text = re.sub(r"[ \t]+", " ", text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    return text.strip()
+def load_json(path, default):
+    if not os.path.exists(path):
+        return default
+
+    try:
+        with open(path, "r", encoding="utf-8") as file:
+            return json.load(file)
+
+    except Exception as error:
+        raise RuntimeError(
+            f"فایل {path} قابل خواندن نیست. "
+            f"برای جلوگیری از ازدست‌رفتن وضعیت انتشار، "
+            f"اجرا متوقف شد: {error}"
+        ) from error
 
 
-def clean_text(value):
-    text = normalize_text(value)
-    return text.strip()
-
-
-def atomic_save_json(path, data):
+def save_json(path, data):
     directory = os.path.dirname(os.path.abspath(path))
     os.makedirs(directory, exist_ok=True)
 
     fd, temporary_path = tempfile.mkstemp(
-        prefix=".analyst_",
+        prefix=".analyst_publisher_",
         suffix=".tmp",
         dir=directory,
     )
@@ -164,82 +86,91 @@ def atomic_save_json(path, data):
             os.unlink(temporary_path)
         except OSError:
             pass
+
         raise
 
 
-def load_json(path, default):
-    if not os.path.exists(path):
-        return default
-
-    try:
-        with open(path, "r", encoding="utf-8") as file:
-            return json.load(file)
-
-    except Exception as error:
-        raise RuntimeError(
-            f"فایل {path} قابل خواندن نیست؛ "
-            f"برای جلوگیری از ازدست‌رفتن وضعیت، اجرا متوقف شد: {error}"
-        ) from error
+def clean_text(value, fallback=""):
+    text = str(value or fallback).strip()
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    text = text.replace("\u0000", "")
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text
 
 
-def normalize_link(link):
-    link = clean_text(link)
-
-    if not link:
-        return ""
-
-    if link.startswith("t.me/"):
-        link = "https://" + link
-
-    if not link.startswith(("http://", "https://")):
-        return link
-
-    try:
-        parts = urlsplit(link)
-        host = parts.netloc.lower().removeprefix("www.")
-
-        if host in ("t.me", "telegram.me"):
-            path = re.sub(r"/+", "/", parts.path).rstrip("/")
-            return urlunsplit(
-                ("https", "t.me", path, "", "")
-            )
-
-        return urlunsplit(
-            (
-                parts.scheme,
-                parts.netloc,
-                parts.path,
-                "",
-                "",
-            )
-        )
-
-    except Exception:
-        return link
-
-
-def post_id_from_link(link):
-    link = normalize_link(link)
+def compact_telegram_link(link):
+    link = str(link or "").strip()
 
     match = re.search(
-        r"https://t\.me/([A-Za-z0-9_]+)/([0-9]+)$",
+        r"(?:https?://)?(?:www\.)?t\.me/([A-Za-z0-9_]+)/([0-9]+)",
         link,
     )
 
     if match:
-        return f"{match.group(1)}/{match.group(2)}"
+        return f"https://t.me/{match.group(1)}/{match.group(2)}"
 
-    return ""
+    return link
+
+
+def format_collected_at(value):
+    if not value:
+        return ""
+
+    try:
+        dt = datetime.fromisoformat(
+            str(value).replace("Z", "+00:00")
+        )
+
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=TEHRAN_TZ)
+
+        return dt.astimezone(TEHRAN_TZ).strftime(
+            "%Y/%m/%d - %H:%M"
+        )
+
+    except Exception:
+        return str(value)
+
+
+def get_summary(item):
+    for field in ("full_text", "summary", "text", "content"):
+        value = clean_text(item.get(field))
+
+        if value:
+            return value
+
+    return "متن تحلیل در منبع ذخیره نشده است."
+
+
+def get_topics(item):
+    matches = item.get("market_matches", [])
+
+    if not isinstance(matches, list):
+        return []
+
+    result = []
+    seen = set()
+
+    for value in matches:
+        topic = clean_text(value)
+        normalized = topic.replace("‌", " ").lower().strip()
+
+        if topic and normalized not in seen:
+            seen.add(normalized)
+            result.append(topic)
+
+    return result
 
 
 def item_key(item):
-    link = normalize_link(item.get("link"))
+    link = compact_telegram_link(item.get("link"))
 
     if link:
         return link
 
     analyst = clean_text(
-        item.get("analyst") or item.get("source")
+        item.get("analyst") or item.get("source"),
+        "تحلیلگر",
     )
     title = clean_text(item.get("title"))
     collected_at = clean_text(item.get("collected_at"))
@@ -250,84 +181,100 @@ def item_key(item):
     return f"fallback:{digest}"
 
 
-# =========================================================
-# خواندن و اعتبارسنجی فایل وضعیت
-# =========================================================
-
-def normalize_seen_data(data):
-    if isinstance(data, list):
-        return {
-            str(value): True
-            for value in data
-            if value
-        }
-
-    if isinstance(data, dict):
-        return data
-
-    raise RuntimeError(
-        f"{SEEN_FILE} باید فهرست یا شیء JSON باشد."
-    )
-
-
-def load_seen():
-    data = load_json(SEEN_FILE, {})
-    return normalize_seen_data(data)
-
-
-def load_ready():
-    data = load_json(OUTPUT_FILE, [])
-
-    if not isinstance(data, list):
-        raise RuntimeError(
-            f"{OUTPUT_FILE} باید شامل فهرست JSON باشد."
-        )
-
-    return [
-        item for item in data
-        if isinstance(item, dict)
-    ]
-
-
-def published_items_map(data):
+def content_signature(item):
     """
-    با ساختارهای قدیمی و جدید analyst_publisher.py سازگار است.
+    امضای محتوایی مستقل از زمان جمع‌آوری.
+
+    تغییر زمان جمع‌آوری به‌تنهایی نباید باعث انتشار دوباره شود.
+    تغییر متن، عنوان، تحلیلگر، لینک یا موضوع‌ها نسخه جدید محسوب می‌شود.
     """
+    payload = {
+        "analyst": clean_text(
+            item.get("analyst") or item.get("source")
+        ),
+        "title": clean_text(item.get("title")),
+        "text": get_summary(item),
+        "link": compact_telegram_link(item.get("link")),
+        "topics": get_topics(item),
+    }
+
+    encoded = json.dumps(
+        payload,
+        ensure_ascii=False,
+        sort_keys=True,
+    ).encode("utf-8")
+
+    return hashlib.sha256(encoded).hexdigest()
+
+
+# =========================================================
+# آماده‌سازی وضعیت انتشار
+# =========================================================
+
+def prepare_published_state():
+    data = load_json(PUBLISHED_FILE, {})
 
     if isinstance(data, list):
-        records = {}
+        mapped = {}
 
         for record in data:
             if not isinstance(record, dict):
                 continue
 
             item = record.get("item")
+            link = ""
 
             if isinstance(item, dict):
-                key = item_key(item)
-            else:
-                key = normalize_link(
-                    record.get("link") or record.get("key")
-                )
+                link = compact_telegram_link(item.get("link"))
+
+            key = (
+                link
+                or record.get("link")
+                or record.get("key")
+            )
 
             if key:
-                records[key] = record
+                mapped[str(key)] = record
 
-        return records
+        return {"items": mapped}, mapped
 
     if not isinstance(data, dict):
         raise RuntimeError(
-            f"{PUBLISHED_FILE} ساختار JSON نامعتبر دارد."
+            f"{PUBLISHED_FILE} باید یک شیء یا فهرست JSON باشد."
         )
 
-    for container in ("items", "published", "posts", "analyses"):
-        if isinstance(data.get(container), dict):
-            return data[container]
+    for container_name in ("items", "published", "posts", "analyses"):
+        if isinstance(data.get(container_name), dict):
+            return data, data[container_name]
 
-    return data
+    looks_like_record_map = any(
+        isinstance(value, dict)
+        and any(
+            field in value
+            for field in (
+                "telegram_message_id",
+                "eitaa_message_id",
+                "group_message_id",
+                "telegram_sent",
+                "eitaa_sent",
+                "group_sent",
+                "telegram_parts_sent",
+                "eitaa_parts_sent",
+                "group_parts_sent",
+                "item",
+            )
+        )
+        for value in data.values()
+    )
+
+    if looks_like_record_map or not data:
+        return data, data
+
+    data["items"] = {}
+    return data, data["items"]
 
 
-def record_destination_sent(record, destination):
+def destination_is_sent(record, destination):
     if not isinstance(record, dict):
         return False
 
@@ -343,391 +290,385 @@ def record_destination_sent(record, destination):
     )
 
 
-def is_fully_published(record):
-    return all(
-        record_destination_sent(record, destination)
-        for destination in ("telegram", "eitaa", "group")
-    )
+def initialize_parts(record, destination, total):
+    sent_key = f"{destination}_parts_sent"
+    ids_key = f"{destination}_part_message_ids"
 
+    existing_sent = record.get(sent_key)
+    existing_ids = record.get(ids_key)
 
-def load_published():
-    data = load_json(PUBLISHED_FILE, {})
-    return published_items_map(data)
+    if isinstance(existing_sent, list):
+        sent = list(existing_sent[:total])
+        sent.extend([False] * (total - len(sent)))
 
-
-# =========================================================
-# دریافت پست‌های کانال عمومی تلگرام
-# =========================================================
-
-def fetch_channel(channel):
-    url = f"{TELEGRAM_PUBLIC_URL}{channel}"
-
-    response = requests.get(
-        url,
-        headers=HEADERS,
-        timeout=REQUEST_TIMEOUT,
-    )
-    response.raise_for_status()
-
-    page = response.text
-
-    if "tgme_widget_message" not in page:
-        print(
-            f"{channel}: نشانه‌ای از پست‌های عمومی "
-            "در صفحه پیدا نشد."
-        )
-
-    blocks = re.findall(
-        r'<div class="tgme_widget_message_wrap[^"]*"[^>]*>'
-        r"(.*?)"
-        r"(?=<div class=\"tgme_widget_message_wrap|"
-        r"</section>|$)",
-        page,
-        flags=re.S,
-    )
-
-    results = []
-    seen_links = set()
-
-    for block in blocks:
-        link_match = re.search(
-            r'data-post="([^"]+)"',
-            block,
-        )
-
-        if not link_match:
-            link_match = re.search(
-                r'href="(https?://t\.me/[^"]+)"[^>]*'
-                r'class="tgme_widget_message_date"',
-                block,
-            )
-
-        if not link_match:
-            continue
-
-        raw_link = html.unescape(link_match.group(1))
-
-        if raw_link.startswith("http"):
-            link = normalize_link(raw_link)
+        if isinstance(existing_ids, list):
+            ids = list(existing_ids[:total])
         else:
-            link = normalize_link(
-                "https://t.me/" + raw_link
-            )
+            ids = []
 
-        if not link or link in seen_links:
-            continue
+        ids.extend([None] * (total - len(ids)))
 
-        seen_links.add(link)
+        record[sent_key] = sent
+        record[ids_key] = ids
+        return
 
-        text_match = re.search(
-            r'<div class="tgme_widget_message_text[^"]*"[^>]*>'
-            r"(.*?)</div>",
-            block,
-            flags=re.S,
-        )
+    # سازگاری با رکوردهای قدیمی که فقط پرچم موفقیت دارند.
+    if destination_is_sent(record, destination):
+        return
 
-        if not text_match:
-            continue
+    record[sent_key] = [False] * total
+    record[ids_key] = [None] * total
 
-        raw_text = text_match.group(1)
 
-        raw_text = re.sub(
-            r"<br\s*/?>",
-            "\n",
-            raw_text,
-            flags=re.I,
-        )
+def reset_destination_state(record, destination):
+    """
+    در صورت تغییر واقعی محتوای تحلیل، وضعیت ارسال نسخه قبلی
+    برای هر مقصد پاک می‌شود تا نسخه جدید منتشر شود.
+    پیام‌های قدیمی در مقصد حذف نمی‌شوند.
+    """
+    for suffix in (
+        "sent",
+        "sent_at",
+        "message_id",
+        "last_success_at",
+    ):
+        record.pop(f"{destination}_{suffix}", None)
 
-        raw_text = re.sub(
-            r"</(?:div|p)>",
-            "\n",
-            raw_text,
-            flags=re.I,
-        )
+    record[f"{destination}_parts_sent"] = []
+    record[f"{destination}_part_message_ids"] = []
 
-        raw_text = re.sub(r"<[^>]+>", " ", raw_text)
-        text = clean_text(raw_text)
 
-        if not text:
-            continue
+def find_existing_record(item, published):
+    key = item_key(item)
 
-        date_match = re.search(
-            r'<time[^>]*datetime="([^"]+)"',
-            block,
-        )
+    if isinstance(published.get(key), dict):
+        return key, published[key]
 
-        published_at = (
-            date_match.group(1)
-            if date_match
-            else ""
-        )
+    wanted_link = compact_telegram_link(item.get("link"))
 
-        results.append({
-            "analyst": channel,
-            "source": channel,
-            "title": make_title(text),
-            "full_text": text,
-            "summary": text,
-            "text": text,
-            "content": text,
-            "link": link,
-            "source_published_at": published_at,
-        })
+    if wanted_link:
+        for old_key, record in list(published.items()):
+            if not isinstance(record, dict):
+                continue
 
-    results.sort(
-        key=lambda item: (
-            post_id_from_link(item.get("link", "")) or ""
-        )
-    )
+            stored_item = record.get("item")
 
-    return results[-MAX_POSTS_PER_SOURCE:]
+            stored_link = ""
+
+            if isinstance(stored_item, dict):
+                stored_link = compact_telegram_link(
+                    stored_item.get("link")
+                )
+
+            if not stored_link:
+                stored_link = compact_telegram_link(
+                    record.get("link")
+                )
+
+            if stored_link == wanted_link:
+                if old_key != key:
+                    if key not in published:
+                        published[key] = record
+
+                    published.pop(old_key, None)
+
+                return key, record
+
+    record = {}
+    published[key] = record
+
+    return key, record
 
 
 # =========================================================
-# تشخیص موضوع و تبلیغات
+# تقسیم متن بدون حذف محتوای اصلی
 # =========================================================
 
-def find_matches(text, keywords):
-    normalized = normalize_text(text).lower()
-    found = []
-
-    for keyword in keywords:
-        if keyword.lower() in normalized:
-            found.append(keyword)
-
-    return found
-
-
-def make_title(text):
-    text = clean_text(text)
+def split_text(text, max_chars=CONTENT_CHUNK_SIZE):
+    text = str(text or "")
 
     if not text:
-        return "مرور دیدگاه جدید بازار"
+        return ["متنی برای نمایش موجود نیست."]
 
-    first_line = next(
-        (
-            line.strip()
-            for line in text.splitlines()
-            if line.strip()
-        ),
-        text,
+    chunks = []
+
+    while len(text) > max_chars:
+        cut = text.rfind("\n\n", 0, max_chars + 1)
+
+        if cut < max_chars // 2:
+            cut = text.rfind("\n", 0, max_chars + 1)
+
+        if cut < max_chars // 2:
+            cut = text.rfind(" ", 0, max_chars + 1)
+
+        if cut < 1:
+            cut = max_chars
+
+        chunk = text[:cut].strip()
+
+        if chunk:
+            chunks.append(chunk)
+
+        text = text[cut:].lstrip()
+
+    if text:
+        chunks.append(text)
+
+    return chunks or ["متنی برای نمایش موجود نیست."]
+
+
+def build_message_parts(item):
+    analyst = clean_text(
+        item.get("analyst") or item.get("source"),
+        "تحلیلگر بازار",
     )
 
-    first_line = re.sub(r"\s+", " ", first_line)
-
-    if len(first_line) > 110:
-        first_line = first_line[:107].rstrip() + "..."
-
-    return first_line
-
-
-def is_promotional(text):
-    normalized = normalize_text(text).lower()
-
-    promo_matches = find_matches(
-        normalized,
-        PROMOTIONAL_KEYWORDS,
+    title = clean_text(
+        item.get("title"),
+        "مرور دیدگاه جدید بازار",
     )
 
-    link_promo = any(
-        re.search(pattern, normalized, flags=re.I)
-        for pattern in PROMOTIONAL_LINK_PATTERNS
+    summary = get_summary(item)
+    link = compact_telegram_link(item.get("link"))
+    collected_at = format_collected_at(
+        item.get("collected_at")
     )
+    topics = get_topics(item)
 
-    context_matches = find_matches(
-        normalized,
-        PROMOTIONAL_CONTEXT_KEYWORDS,
-    )
+    chunks = split_text(summary)
+    total = len(chunks)
+    messages = []
 
-    # تبلیغ صریح همراه با محتوای بازاری، احتمال تبلیغاتی بودن را بالا می‌برد.
-    if link_promo and (
-        promo_matches or context_matches
-    ):
-        return True
+    for index, chunk in enumerate(chunks, start=1):
+        lines = [
+            "🌙✨ زرین ماه | دیدگاه تحلیلگران",
+            SEPARATOR,
+            f"👤 تحلیلگر: {analyst}",
+            f"🧭 موضوع: {title}",
+        ]
 
-    if len(promo_matches) >= 2:
-        return True
+        if topics:
+            lines.append(
+                "🔎 محورهای مطرح‌شده: " + " • ".join(topics)
+            )
 
-    # یک عبارت تبلیغاتی کوتاه به‌تنهایی برای حذف کافی نیست.
-    if (
-        len(normalized) < 350
-        and promo_matches
-        and not context_matches
-    ):
-        return True
+        lines.extend([
+            SEPARATOR,
+            f"📝 متن تحلیل — بخش {index} از {total}",
+            chunk,
+            SEPARATOR,
+        ])
 
-    return False
+        if link:
+            lines.append(f"🔗 مشاهده پست اصلی: {link}")
 
+        if collected_at:
+            lines.append(f"🕒 زمان دریافت: {collected_at}")
 
-def evaluate_analysis(text):
-    normalized = normalize_text(text)
+        lines.extend([
+            "⚠️ این مطلب بازتاب دیدگاه تحلیلگر منبع است "
+            "و توصیه خریدوفروش زرین ماه نیست.",
+            "",
+            "🌙 زرین ماه | ویترین طلای کم‌اجرت",
+            "📲 @ZarinMahGold",
+            "#قیمت_و_تحلیل",
+        ])
 
-    market_matches = find_matches(
-        normalized,
-        MARKET_KEYWORDS,
-    )
-    analysis_matches = find_matches(
-        normalized,
-        ANALYSIS_KEYWORDS,
-    )
+        messages.append("\n\n".join(lines))
 
-    score = 0
-    reasons = []
-
-    if market_matches:
-        score += min(len(market_matches), 5) * 2
-        reasons.append(
-            "اشاره به موضوعات بازار: "
-            + "، ".join(market_matches[:8])
-        )
-
-    if analysis_matches:
-        score += min(len(analysis_matches), 5) * 2
-        reasons.append(
-            "دارای نشانه‌های تحلیلی: "
-            + "، ".join(analysis_matches[:8])
-        )
-
-    if len(normalized) >= 500:
-        score += 2
-        reasons.append("متن نسبتاً مفصل")
-
-    if len(normalized) >= 1200:
-        score += 2
-        reasons.append("دارای جزئیات بیشتر")
-
-    if re.search(r"\d", normalized):
-        score += 1
-        reasons.append("دارای عدد یا سطح قیمتی")
-
-    # پست باید هم به بازار مرتبط باشد و هم نشانه‌ای از تحلیل داشته باشد.
-    accepted = bool(
-        market_matches
-        and analysis_matches
-        and score >= 6
-    )
-
-    if market_matches and not analysis_matches:
-        reasons.append("فاقد نشانه کافی از تحلیل")
-
-    if analysis_matches and not market_matches:
-        reasons.append("موضوع بازار هدف به‌روشنی مشخص نیست")
-
-    return {
-        "accepted": accepted,
-        "score": score,
-        "market_matches": market_matches,
-        "analysis_matches": analysis_matches,
-        "reasons": reasons,
-    }
-
-
-def make_item(raw):
-    text = clean_text(
-        raw.get("full_text")
-        or raw.get("text")
-        or raw.get("content")
-        or raw.get("summary")
-    )
-
-    evaluation = evaluate_analysis(text)
-
-    channel = clean_text(
-        raw.get("analyst") or raw.get("source")
-    )
-
-    link = normalize_link(raw.get("link"))
-
-    title = clean_text(raw.get("title")) or make_title(text)
-
-    priority = (
-        "high"
-        if evaluation["score"] >= 14
-        else "medium"
-    )
-
-    return {
-        "analyst": channel,
-        "title": title,
-        "summary": text,
-        "full_text": text,
-        "source": channel,
-        "link": link,
-        "analysis_score": evaluation["score"],
-        "market_matches": evaluation["market_matches"],
-        "analysis_matches": evaluation["analysis_matches"],
-        "market_groups": evaluation["market_matches"],
-        "analysis_reasons": evaluation["reasons"],
-        "priority": priority,
-        "content_length": len(text),
-        "content_complete_from_source": True,
-        "source_published_at": raw.get("source_published_at", ""),
-        "collected_at": now_iso(),
-    }
+    return messages
 
 
 # =========================================================
-# مدیریت صف و جلوگیری از تکرار
+# ارسال تلگرام
 # =========================================================
 
-def merge_items(*item_groups):
-    merged = {}
-    order = []
+def send_to_telegram(
+    text,
+    chat_id=TELEGRAM_CHANNEL,
+    message_thread_id=None,
+):
+    if not BOT_TOKEN:
+        raise RuntimeError(
+            "متغیر TELEGRAM_BOT_TOKEN تنظیم نشده است."
+        )
 
-    for group in item_groups:
-        for item in group:
-            if not isinstance(item, dict):
-                continue
+    payload = {
+        "chat_id": chat_id,
+        "text": text,
+        "disable_web_page_preview": True,
+    }
 
-            key = item_key(item)
+    if message_thread_id is not None:
+        payload["message_thread_id"] = message_thread_id
 
-            if key not in merged:
-                merged[key] = item
-                order.append(key)
-                continue
+    response = requests.post(
+        f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
+        json=payload,
+        timeout=REQUEST_TIMEOUT,
+    )
 
-            # در صورت تکرار، متن کامل‌تر را نگه می‌داریم.
-            old_item = merged[key]
-            old_text = clean_text(old_item.get("full_text"))
-            new_text = clean_text(item.get("full_text"))
+    response.raise_for_status()
 
-            if len(new_text) > len(old_text):
-                merged[key] = item
+    try:
+        result = response.json()
+    except ValueError as error:
+        raise RuntimeError(
+            "پاسخ تلگرام JSON معتبر نیست."
+        ) from error
 
-    return [merged[key] for key in order]
+    if not result.get("ok"):
+        raise RuntimeError(f"Telegram API error: {result}")
+
+    return result.get("result", {}).get("message_id")
 
 
-def get_pending_published_items(published):
-    pending = []
+# =========================================================
+# ارسال ایتا
+# =========================================================
 
-    for record in published.values():
-        if not isinstance(record, dict):
+def send_to_eitaa(text):
+    if not EITAAYAR_TOKEN:
+        raise RuntimeError(
+            "متغیر EITAAYAR_TOKEN تنظیم نشده است."
+        )
+
+    if not EITAA_CHAT_ID:
+        raise RuntimeError(
+            "متغیر EITAA_CHAT_ID تنظیم نشده است."
+        )
+
+    response = requests.post(
+        f"https://eitaayar.ir/api/{EITAAYAR_TOKEN}/sendMessage",
+        data={
+            "chat_id": EITAA_CHAT_ID,
+            "text": text,
+        },
+        timeout=REQUEST_TIMEOUT,
+    )
+
+    response.raise_for_status()
+
+    try:
+        result = response.json()
+    except ValueError as error:
+        raise RuntimeError(
+            "پاسخ ایتا JSON معتبر نیست."
+        ) from error
+
+    if not result.get("ok"):
+        raise RuntimeError(f"Eitaa API error: {result}")
+
+    payload = result.get("result", {})
+
+    if isinstance(payload, dict):
+        return payload.get("message_id") or payload.get("id")
+
+    return result.get("message_id")
+
+
+# =========================================================
+# انتشار بخش‌ها و ثبت وضعیت
+# =========================================================
+
+def publish_parts(
+    item,
+    record,
+    destination,
+    send_function,
+    state,
+):
+    messages = build_message_parts(item)
+
+    initialize_parts(
+        record,
+        destination,
+        len(messages),
+    )
+
+    sent_key = f"{destination}_parts_sent"
+    ids_key = f"{destination}_part_message_ids"
+
+    # رکورد قدیمی ممکن است فقط یک پرچم موفقیت داشته باشد.
+    if destination_is_sent(record, destination):
+        if not isinstance(record.get(sent_key), list):
+            print(
+                f"{destination}: قبلاً ارسال شده؛ "
+                "برای جلوگیری از تکرار رد شد."
+            )
+            return
+
+    if not isinstance(record.get(sent_key), list):
+        record[sent_key] = [False] * len(messages)
+
+    if not isinstance(record.get(ids_key), list):
+        record[ids_key] = [None] * len(messages)
+
+    # آرایه‌ها باید دقیقاً با تعداد بخش‌های فعلی هماهنگ باشند.
+    if len(record[sent_key]) != len(messages):
+        initialize_parts(
+            record,
+            destination,
+            len(messages),
+        )
+
+    for index, message in enumerate(messages):
+        if record[sent_key][index]:
+            print(
+                f"{destination}: بخش {index + 1} "
+                "قبلاً ثبت شده؛ رد شد."
+            )
             continue
 
-        item = record.get("item")
+        try:
+            message_id = send_function(message)
 
-        if not isinstance(item, dict):
-            continue
+            record[sent_key][index] = True
+            record[ids_key][index] = message_id
+            record[f"{destination}_last_success_at"] = now_iso()
 
-        if not is_fully_published(record):
-            pending.append(item)
+            print(
+                f"{destination}: بخش "
+                f"{index + 1}/{len(messages)} ارسال شد."
+            )
 
-    return pending
+            # ذخیره بلافاصله پس از هر بخش موفق
+            save_json(PUBLISHED_FILE, state)
 
+        except Exception as error:
+            error_entry = {
+                "destination": destination,
+                "part": index + 1,
+                "time": now_iso(),
+                "error": str(error),
+            }
 
-def remove_fully_published_from_ready(items, published):
-    result = []
+            history = record.setdefault("errors", [])
+            history.append(error_entry)
 
-    for item in items:
-        key = item_key(item)
-        record = published.get(key)
+            if len(history) > MAX_ERROR_HISTORY:
+                record["errors"] = history[-MAX_ERROR_HISTORY:]
 
-        if isinstance(record, dict) and is_fully_published(record):
-            continue
+            save_json(PUBLISHED_FILE, state)
 
-        result.append(item)
+            print(
+                f"{destination}: بخش {index + 1}/"
+                f"{len(messages)} ناموفق بود: {error}"
+            )
 
-    return result
+            raise
+
+    if all(record[sent_key]):
+        record[f"{destination}_sent"] = True
+        record[f"{destination}_sent_at"] = now_iso()
+
+        if record[ids_key]:
+            first_id = record[ids_key][0]
+
+            if first_id is not None:
+                record[f"{destination}_message_id"] = first_id
+
+        save_json(PUBLISHED_FILE, state)
 
 
 # =========================================================
@@ -736,125 +677,182 @@ def remove_fully_published_from_ready(items, published):
 
 def main():
     print("===================================")
-    print("ZarinMah Analyst Collector")
+    print("ZarinMah Analyst Publisher")
     print("===================================")
 
-    # اگر هر فایل وضعیت خراب باشد، load_json اجرا را متوقف می‌کند.
-    seen = load_seen()
-    ready_before = load_ready()
-    published = load_published()
+    ready_data = load_json(READY_FILE, [])
 
-    # صف موجود و تحلیل‌های منتشرنشده حفظ می‌شوند.
-    pending_items = get_pending_published_items(published)
+    if not isinstance(ready_data, list):
+        raise RuntimeError(
+            f"{READY_FILE} باید شامل یک فهرست JSON باشد."
+        )
 
-    collected_items = []
-    newly_seen = {}
-    errors = []
+    state, published = prepare_published_state()
 
-    for channel in ANALYSTS:
-        print(f"\nChecking source: {channel}")
+    # صف آماده فعلی
+    work = {}
 
-        try:
-            posts = fetch_channel(channel)
-            print(f"{channel}: {len(posts)} posts fetched.")
-
-        except Exception as error:
-            errors.append(f"{channel}: {error}")
-            print(f"{channel}: FETCH FAILED: {error}")
+    for item in ready_data:
+        if not isinstance(item, dict):
             continue
 
-        for raw in posts:
-            link = normalize_link(raw.get("link"))
-            key = link or item_key(raw)
+        key = item_key(item)
 
-            # پست‌های دیده‌شده را دوباره وارد صف نکن.
-            if key in seen:
-                continue
+        if key not in work:
+            work[key] = item
 
-            text = clean_text(raw.get("full_text"))
+    # بازیابی مواردی که انتشارشان در اجرای قبلی ناقص مانده است.
+    for _, record in list(published.items()):
+        if not isinstance(record, dict):
+            continue
 
-            if not text:
-                continue
+        stored_item = record.get("item")
 
-            # پست تبلیغاتی را در صف تحلیل قرار نده.
-            if is_promotional(text):
-                newly_seen[key] = {
-                    "status": "rejected_promotional",
-                    "analyst": channel,
-                    "link": link,
-                    "seen_at": now_iso(),
-                }
-                continue
+        if not isinstance(stored_item, dict):
+            continue
 
-            item = make_item(raw)
+        if not is_fully_published(record):
+            key = item_key(stored_item)
+            work.setdefault(key, stored_item)
 
-            evaluation = evaluate_analysis(text)
+    if not work:
+        print("تحلیل جدید یا در انتظار انتشاری وجود ندارد.")
+        return
 
-            if not evaluation["accepted"]:
-                # ردشده‌ها نیز ثبت می‌شوند تا در هر اجرا دوباره بررسی نشوند.
-                newly_seen[key] = {
-                    "status": "rejected_low_relevance",
-                    "analyst": channel,
-                    "link": link,
-                    "analysis_score": evaluation["score"],
-                    "seen_at": now_iso(),
-                }
-                continue
+    errors = []
 
-            collected_items.append(item)
+    for _, item in work.items():
+        key, record = find_existing_record(item, published)
 
-            newly_seen[key] = {
-                "status": "accepted",
-                "analyst": channel,
-                "link": link,
-                "seen_at": now_iso(),
-            }
+        old_item = record.get("item")
 
+        new_signature = content_signature(item)
+        old_signature = (
+            content_signature(old_item)
+            if isinstance(old_item, dict)
+            else ""
+        )
+
+        # اگر محتوای یک لینک تغییر کرده باشد، نسخه جدید باید منتشر شود.
+        # زمان جمع‌آوری به‌تنهایی باعث انتشار دوباره نخواهد شد.
+        if (
+            isinstance(old_item, dict)
+            and old_signature
+            and new_signature != old_signature
+        ):
             print(
-                "Accepted:",
-                channel,
-                "|",
-                item.get("title", ""),
-                "| score:",
-                item.get("analysis_score", 0),
+                "تغییر محتوای تحلیل تشخیص داده شد؛ "
+                "وضعیت ارسال نسخه قبلی بازنشانی می‌شود."
             )
 
-    # صف قبلی، تحلیل‌های جدید و موارد ناقص انتشار را ادغام می‌کنیم.
-    combined = merge_items(
-        ready_before,
-        pending_items,
-        collected_items,
-    )
+            record.setdefault("revision_history", []).append({
+                "content_signature": old_signature,
+                "changed_at": now_iso(),
+            })
 
-    combined = remove_fully_published_from_ready(
-        combined,
-        published,
-    )
+            record["revision_history"] = (
+                record["revision_history"][-5:]
+            )
 
-    # ابتدا صف را ذخیره می‌کنیم؛ سپس seen را ثبت می‌کنیم.
-    # اگر ذخیره صف شکست بخورد، پست‌های جدید به‌عنوان دیده‌شده ثبت نمی‌شوند.
-    atomic_save_json(OUTPUT_FILE, combined)
+            for destination in (
+                "telegram",
+                "eitaa",
+                "group",
+            ):
+                reset_destination_state(
+                    record,
+                    destination,
+                )
 
-    seen.update(newly_seen)
-    atomic_save_json(SEEN_FILE, seen)
+            record["revision_count"] = (
+                int(record.get("revision_count", 0)) + 1
+            )
 
-    print("\n===================================")
-    print(f"صف نهایی تحلیل‌ها: {len(combined)}")
-    print(f"پست‌های جدید پذیرفته‌شده: {len(collected_items)}")
-    print(f"موارد ثبت‌شده در وضعیت دیده‌شده: {len(newly_seen)}")
-    print("===================================")
+        record["item"] = item
+        record["content_signature"] = new_signature
+        record.setdefault("first_seen_at", now_iso())
+
+        print(
+            "\nدر حال انتشار:",
+            item.get("analyst") or item.get("source") or "تحلیلگر",
+            "|",
+            item.get("title", ""),
+            "|",
+            key,
+        )
+
+        # کانال اصلی تلگرام
+        try:
+            publish_parts(
+                item=item,
+                record=record,
+                destination="telegram",
+                send_function=lambda message: send_to_telegram(
+                    message,
+                    chat_id=TELEGRAM_CHANNEL,
+                ),
+                state=state,
+            )
+        except Exception as error:
+            errors.append(f"Telegram / {key}: {error}")
+
+        # ایتا
+        try:
+            publish_parts(
+                item=item,
+                record=record,
+                destination="eitaa",
+                send_function=send_to_eitaa,
+                state=state,
+            )
+        except Exception as error:
+            errors.append(f"Eitaa / {key}: {error}")
+
+        # تاپیک تحلیل‌های گروه تلگرام
+        try:
+            publish_parts(
+                item=item,
+                record=record,
+                destination="group",
+                send_function=lambda message: send_to_telegram(
+                    message,
+                    chat_id=TELEGRAM_GROUP,
+                    message_thread_id=ANALYST_THREAD_ID,
+                ),
+                state=state,
+            )
+        except Exception as error:
+            errors.append(f"Telegram group / {key}: {error}")
+
+        complete = all(
+            destination_is_sent(record, destination)
+            for destination in ("telegram", "eitaa", "group")
+        )
+
+        if complete:
+            record["published_at"] = (
+                record.get("published_at") or now_iso()
+            )
+            print("انتشار تحلیل در هر سه مقصد تکمیل شد.")
+        else:
+            print("انتشار تحلیل ناقص است؛ برای تلاش مجدد نگه داشته شد.")
+
+        save_json(PUBLISHED_FILE, state)
 
     if errors:
-        print("\nبرخی منابع با خطا مواجه شدند:")
+        print("\nبرخی تحلیل‌ها کامل منتشر نشدند:")
 
         for error in errors:
             print("-", error)
 
-        # شکست یک منبع را پنهان نمی‌کنیم تا اجرای بعدی مجدداً تلاش کند.
         sys.exit(1)
 
-    print("Analyst collection completed successfully.")
+    print(
+        "\nپردازش صف تحلیل‌ها برای کانال تلگرام، "
+        "تاپیک گروه و ایتا به پایان رسید."
+    )
 
 
 if __name__ == "__main__":
     main()
+```
