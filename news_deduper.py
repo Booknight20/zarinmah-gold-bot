@@ -1,6 +1,8 @@
+
 import json
 import os
 import re
+import tempfile
 from difflib import SequenceMatcher
 from urllib.parse import (
     urlsplit,
@@ -39,6 +41,12 @@ SOURCE_PRIORITY = {
 # نرمال‌سازی متن
 # =========================================================
 
+DIGIT_MAP = str.maketrans(
+    "۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩",
+    "01234567890123456789",
+)
+
+
 def normalize_text(text):
     if not isinstance(text, str):
         text = str(text or "")
@@ -49,15 +57,13 @@ def normalize_text(text):
     text = text.replace("ۀ", "ه")
     text = text.replace("ة", "ه")
 
+    text = text.translate(DIGIT_MAP)
+
     text = text.replace("\u200c", " ")
     text = text.replace("\u200f", " ")
+    text = text.replace("\u200e", " ")
     text = text.replace("\ufeff", " ")
-
-    digit_map = str.maketrans(
-        "۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩",
-        "01234567890123456789",
-    )
-    text = text.translate(digit_map)
+    text = text.replace("\xa0", " ")
 
     text = re.sub(r"<[^>]+>", " ", text)
 
@@ -93,9 +99,43 @@ def safe_float(value, default=0.0):
     try:
         if isinstance(value, bool):
             return default
+
         return float(value)
+
     except (TypeError, ValueError, OverflowError):
         return default
+
+
+def safe_count(value, default=1):
+    try:
+        if isinstance(value, bool):
+            return default
+
+        result = int(float(value))
+
+        return max(1, result)
+
+    except (TypeError, ValueError, OverflowError):
+        return default
+
+
+def unique_text_fields(*values):
+    result = []
+    seen = set()
+
+    for value in values:
+        if not isinstance(value, str) or not value.strip():
+            continue
+
+        normalized = normalize_text(value)
+
+        if not normalized or normalized in seen:
+            continue
+
+        seen.add(normalized)
+        result.append(value.strip())
+
+    return result
 
 
 # =========================================================
@@ -171,9 +211,8 @@ def get_source_priority(item):
     if source in SOURCE_PRIORITY:
         return SOURCE_PRIORITY[source]
 
-    # تطبیق نام منبع در صورت وجود نام یا توضیحات اضافی
     for name, priority in SOURCE_PRIORITY.items():
-        if name in source:
+        if normalize_text(name) in source:
             return priority
 
     return 50
@@ -188,7 +227,9 @@ def get_published(item):
 
 
 def get_title(item):
-    return normalize_text(item.get("title", ""))
+    return normalize_text(
+        item.get("title", "") or item.get("headline", "")
+    )
 
 
 def get_summary(item):
@@ -199,12 +240,19 @@ def get_summary(item):
 
 
 def get_full_text(item):
-    return str(
-        item.get("full_text", "")
-        or item.get("content", "")
-        or item.get("text", "")
-        or ""
-    ).strip()
+    """
+    تمام فیلدهای محتوایی را بررسی می‌کند.
+    وجود full_text مانع بررسی content یا text نمی‌شود.
+    """
+
+    fields = unique_text_fields(
+        item.get("full_text", ""),
+        item.get("full_content", ""),
+        item.get("content", ""),
+        item.get("text", ""),
+    )
+
+    return "\n\n".join(fields)
 
 
 def extract_numbers(text):
@@ -258,21 +306,15 @@ def text_similarity(text1, text2):
         token_score = 0.0
     else:
         union = tokens1 | tokens2
-        token_score = (
-            len(tokens1 & tokens2) / len(union)
-            if union else 0.0
-        )
+        token_score = len(tokens1 & tokens2) / len(union)
 
     return sequence_score * 0.55 + token_score * 0.45
 
 
 def are_same_story(item1, item2):
     """
-    خبرها تنها زمانی تکراری محسوب می‌شوند که شواهد
-    کافی از یکسان بودن موضوع و محتوا وجود داشته باشد.
-
-    اختلاف مهم اعداد مانع ادغام خودکار می‌شود؛
-    حتی اگر لینک‌ها یکسان باشند.
+    ادغام فقط با وجود شواهد کافی انجام می‌شود.
+    اختلاف اعداد مهم، مانع ادغام خودکار است.
     """
 
     title1 = get_title(item1)
@@ -287,13 +329,12 @@ def are_same_story(item1, item2):
     url1 = canonical_url(item1.get("link", ""))
     url2 = canonical_url(item2.get("link", ""))
 
-    # اختلاف اعداد عنوان می‌تواند نشان‌دهنده رویداد
-    # یا قیمت متفاوت باشد.
+    # قیمت یا عدد متفاوت در عنوان: ادغام ممنوع
     if has_conflicting_numbers(title1, title2):
         return False
 
-    # اگر هر دو خلاصه اطلاعات عددی متناقض دارند،
-    # بدون شواهد قوی‌تر آن‌ها را یکی نمی‌کنیم.
+    # اطلاعات عددی متناقض در خلاصه‌ها نیز با احتیاط
+    # بررسی می‌شوند.
     if (
         summary1
         and summary2
@@ -301,14 +342,11 @@ def are_same_story(item1, item2):
     ):
         return False
 
-    # لینک یکسان، به‌تنهایی کافی نیست.
-    # ابتدا سازگاری عنوان بررسی می‌شود.
-    if url1 and url2 and url1 == url2:
-        title_score = text_similarity(title1, title2)
-
-        return title_score >= 0.65
-
     title_score = text_similarity(title1, title2)
+
+    # لینک یکسان به‌تنهایی کافی نیست.
+    if url1 and url2 and url1 == url2:
+        return title_score >= 0.65
 
     # عنوان تقریباً یکسان
     if title_score >= 0.94:
@@ -321,8 +359,7 @@ def are_same_story(item1, item2):
 
         return True
 
-    # برای عنوان‌هایی با شباهت متوسط، خلاصه نیز
-    # باید شواهد کافی از یکسان بودن خبر داشته باشد.
+    # شباهت متوسط: خلاصه‌ها هم باید نزدیک باشند.
     if title_score >= 0.78:
         if not summary1 or not summary2:
             return False
@@ -342,12 +379,11 @@ def are_same_story(item1, item2):
 
         shared_tokens = tokenize(title1) & tokenize(title2)
 
-        if (
+        return (
             len(shared_tokens) >= 3
             and summary_score >= 0.68
             and combined_score >= 0.75
-        ):
-            return True
+        )
 
     return False
 
@@ -358,8 +394,8 @@ def are_same_story(item1, item2):
 
 def choose_best(item1, item2):
     """
-    نسخه اصلی را بر اساس امتیاز، اعتبار منبع،
-    کامل بودن محتوا و تاریخ انتخاب می‌کند.
+    امتیاز بازار، اعتبار منبع و کامل بودن محتوا
+    در انتخاب رکورد اصلی در نظر گرفته می‌شوند.
     """
 
     score1 = get_score(item1)
@@ -399,14 +435,10 @@ def choose_best(item1, item2):
 
 
 # =========================================================
-# ادغام اطلاعات مفید
+# ادغام داده‌ها
 # =========================================================
 
 def merge_list_values(value1, value2):
-    """
-    دو فهرست را بدون حذف مقادیر یکتا ادغام می‌کند.
-    """
-
     result = []
 
     for value in (value1, value2):
@@ -419,23 +451,30 @@ def merge_list_values(value1, value2):
 
 
 def merge_dict_values(value1, value2):
-    """
-    مقادیر دیکشنری را با حفظ کلیدهای هر دو رکورد ادغام می‌کند.
-    """
-
     result = {}
 
-    if isinstance(value1, dict):
-        result.update(value1)
+    for value in (value1, value2):
+        if not isinstance(value, dict):
+            continue
 
-    if isinstance(value2, dict):
-        for key, value in value2.items():
+        for key, item_value in value.items():
             if key not in result:
-                result[key] = value
-            elif isinstance(result[key], list) and isinstance(value, list):
+                result[key] = item_value
+            elif (
+                isinstance(result[key], list)
+                and isinstance(item_value, list)
+            ):
                 result[key] = merge_list_values(
                     result[key],
-                    value,
+                    item_value,
+                )
+            elif (
+                isinstance(result[key], dict)
+                and isinstance(item_value, dict)
+            ):
+                result[key] = merge_dict_values(
+                    result[key],
+                    item_value,
                 )
 
     return result
@@ -443,35 +482,38 @@ def merge_dict_values(value1, value2):
 
 def merge_duplicate_records(item1, item2):
     """
-    بهترین رکورد را به‌عنوان رکورد اصلی انتخاب می‌کند،
-    سپس اطلاعات مفید رکورد دیگر را نیز حفظ می‌کند.
+    بهترین رکورد را نگه می‌دارد و اطلاعات مفید رکورد
+    دیگر را نیز اضافه می‌کند.
     """
 
     best = choose_best(item1, item2)
-    other = item2 if best == item1 else item1
+    other = item2 if best is item1 else item1
 
     merged = dict(best)
 
-    # فیلدهای خالی رکورد اصلی با اطلاعات موجود
-    # از رکورد دیگر تکمیل می‌شوند.
+    # تکمیل فیلدهای خالی
     for key, value in other.items():
         if key not in merged or merged[key] in (None, "", [], {}):
             if value not in (None, "", [], {}):
                 merged[key] = value
 
-    # متن کامل را از رکورد دارای محتوای کامل‌تر انتخاب می‌کنیم.
-    full_text1 = get_full_text(item1)
-    full_text2 = get_full_text(item2)
+    # نگهداری متن‌های موجود بدون حذف محتوای رکورد دیگر
+    full_text_fields = unique_text_fields(
+        item1.get("full_text", ""),
+        item1.get("full_content", ""),
+        item1.get("content", ""),
+        item1.get("text", ""),
+        item2.get("full_text", ""),
+        item2.get("full_content", ""),
+        item2.get("content", ""),
+        item2.get("text", ""),
+    )
 
-    if len(full_text2) > len(full_text1):
-        selected_full_text = full_text2
-    else:
-        selected_full_text = full_text1
+    if full_text_fields:
+        merged["full_text"] = "\n\n".join(full_text_fields)
 
-    if selected_full_text:
-        merged["full_text"] = selected_full_text
-
-    # خلاصه کامل‌تر حفظ می‌شود.
+    # خلاصه‌ها: خلاصه بلندتر اصلی می‌شود و خلاصه دیگر
+    # در صورت متفاوت بودن در فهرست خلاصه‌های جایگزین می‌ماند.
     raw_summary1 = str(
         item1.get("summary", "")
         or item1.get("description", "")
@@ -484,18 +526,40 @@ def merge_duplicate_records(item1, item2):
         or ""
     ).strip()
 
-    if len(raw_summary2) > len(raw_summary1):
-        selected_summary = raw_summary2
-    else:
-        selected_summary = raw_summary1
+    summaries = unique_text_fields(raw_summary1, raw_summary2)
 
-    if selected_summary:
+    if summaries:
+        selected_summary = max(summaries, key=len)
         merged["summary"] = selected_summary
 
-    # امتیاز بالاتر و اولویت نهایی حفظ می‌شوند.
+        alternate_summaries = [
+            summary for summary in summaries
+            if summary != selected_summary
+        ]
+
+        if alternate_summaries:
+            merged["alternate_summaries"] = merge_list_values(
+                merged.get("alternate_summaries", []),
+                alternate_summaries,
+            )
+
+    # حفظ بالاترین امتیاز رتبه‌بندی
     merged["market_score"] = max(
         get_score(item1),
         get_score(item2),
+    )
+
+    # حفظ امتیاز مرحله فیلتر بدون جایگزین کردن آن با امتیاز رتبه‌بندی
+    filter_score1 = safe_float(
+        item1.get("filter_market_score", 0), 0
+    )
+    filter_score2 = safe_float(
+        item2.get("filter_market_score", 0), 0
+    )
+
+    merged["filter_market_score"] = max(
+        filter_score1,
+        filter_score2,
     )
 
     priority_order = {
@@ -512,7 +576,7 @@ def merge_duplicate_records(item1, item2):
         key=lambda value: priority_order.get(value, 0),
     )
 
-    # داده‌های تشخیصی هر دو رکورد حفظ می‌شوند.
+    # ادغام شواهد تشخیصی
     list_fields = [
         "gold_matches",
         "currency_matches",
@@ -542,8 +606,7 @@ def merge_duplicate_records(item1, item2):
             item2.get(field),
         )
 
-    # لینک رکورد اصلی حفظ می‌شود؛ لینک دیگر برای بررسی
-    # منبع جایگزین در فهرستی جداگانه نگهداری می‌شود.
+    # لینک جایگزین
     links = merge_list_values(
         item1.get("alternate_links", []),
         item2.get("alternate_links", []),
@@ -559,6 +622,7 @@ def merge_duplicate_records(item1, item2):
     if links:
         merged["alternate_links"] = links
 
+    # منابع جایگزین
     sources = merge_list_values(
         item1.get("alternate_sources", []),
         item2.get("alternate_sources", []),
@@ -574,10 +638,10 @@ def merge_duplicate_records(item1, item2):
     if sources:
         merged["alternate_sources"] = sources
 
-    # تعداد رکوردهای ادغام‌شده
+    # شمارنده: هر رکورد می‌تواند قبلاً چند رکورد را نمایندگی کند.
     merged["duplicate_count"] = (
-        max(1, safe_float(item1.get("duplicate_count", 1), 1))
-        + max(1, safe_float(item2.get("duplicate_count", 1), 1))
+        safe_count(item1.get("duplicate_count", 1))
+        + safe_count(item2.get("duplicate_count", 1))
     )
 
     return merged
@@ -590,43 +654,67 @@ def merge_duplicate_records(item1, item2):
 def load_news():
     if not os.path.exists(INPUT_FILE):
         raise FileNotFoundError(
-            f"Input file not found: {INPUT_FILE}"
+            f"Input file not found: {INPUT_FILE}. "
+            "Output was not modified."
         )
 
     try:
         with open(INPUT_FILE, "r", encoding="utf-8") as file:
             data = json.load(file)
 
-        if not isinstance(data, list):
-            raise ValueError("Input JSON is not a list.")
+    except json.JSONDecodeError as error:
+        raise ValueError(
+            f"Invalid JSON in {INPUT_FILE}: {error}"
+        ) from error
 
-        return [
-            item
-            for item in data
-            if isinstance(item, dict)
-        ]
+    if not isinstance(data, list):
+        raise ValueError(
+            f"{INPUT_FILE} must contain a JSON list."
+        )
 
-    except (OSError, json.JSONDecodeError, ValueError) as error:
-        print("Could not load ranked news:", error)
-        raise
+    invalid_count = sum(
+        1 for item in data if not isinstance(item, dict)
+    )
+
+    if invalid_count:
+        print("Invalid records skipped:", invalid_count)
+
+    return [
+        item for item in data
+        if isinstance(item, dict)
+    ]
 
 
 def save_news(news):
-    temporary_file = OUTPUT_FILE + ".tmp"
+    directory = os.path.dirname(os.path.abspath(OUTPUT_FILE))
+    temp_path = None
 
-    with open(
-        temporary_file,
-        "w",
-        encoding="utf-8",
-    ) as file:
-        json.dump(
-            news,
-            file,
-            ensure_ascii=False,
-            indent=2,
-        )
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w",
+            encoding="utf-8",
+            dir=directory,
+            prefix=".news_unique_",
+            suffix=".tmp",
+            delete=False,
+        ) as file:
+            json.dump(
+                news,
+                file,
+                ensure_ascii=False,
+                indent=2,
+            )
+            file.write("\n")
+            temp_path = file.name
 
-    os.replace(temporary_file, OUTPUT_FILE)
+        os.replace(temp_path, OUTPUT_FILE)
+
+    finally:
+        if temp_path and os.path.exists(temp_path):
+            try:
+                os.remove(temp_path)
+            except OSError:
+                pass
 
 
 # =========================================================
@@ -654,8 +742,8 @@ def deduplicate_news(news):
 
         else:
             unique_news[duplicate_index] = merge_duplicate_records(
-                item,
                 unique_news[duplicate_index],
+                item,
             )
 
     return unique_news
@@ -705,3 +793,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
