@@ -3,6 +3,7 @@ import html
 import json
 import os
 import re
+import tempfile
 from datetime import datetime
 
 import requests
@@ -20,29 +21,19 @@ CHANNEL = "@ZarinMahGold"
 NEWS_GROUP = "@ZarinMahCommunity"
 NEWS_THREAD_ID = 15
 
-TELEGRAM_BOT_TOKEN = os.environ.get(
-    "TELEGRAM_BOT_TOKEN"
-)
-
-EITAAYAR_TOKEN = os.environ.get(
-    "EITAAYAR_TOKEN"
-)
-
-EITAA_CHAT_ID = os.environ.get(
-    "EITAA_CHAT_ID"
-)
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+EITAAYAR_TOKEN = os.environ.get("EITAAYAR_TOKEN")
+EITAA_CHAT_ID = os.environ.get("EITAA_CHAT_ID")
 
 EITAA_API_URL = "https://eitaayar.ir/api"
 
-# برای جلوگیری از عبور از محدودیت طول پیام،
-# هر بخش با فاصله کافی از سقف تلگرام ساخته می‌شود.
-MAX_PART_CHARS = 3200
-
+# تقسیم محافظه‌کارانه برای سازگاری بهتر با مقصدها
+MAX_PART_CHARS = 2300
 REQUEST_TIMEOUT = 30
 
 
 # =========================================================
-# ابزار تاریخ و JSON
+# تاریخ
 # =========================================================
 
 def now_iso():
@@ -67,17 +58,26 @@ def parse_datetime(value):
         return None
 
 
-def comparable_datetime(value):
-    parsed = parse_datetime(value)
+def get_collected_datetime(item):
+    # زمان جمع‌آوری اولویت دارد.
+    # در نبود آن، تاریخ انتشار را بررسی می‌کنیم.
+    return (
+        parse_datetime(item.get("collected_at"))
+        or parse_datetime(item.get("published"))
+    )
 
-    if parsed is None:
-        return None
 
-    return parsed.timestamp()
+# =========================================================
+# خواندن و ذخیره امن JSON
+# =========================================================
 
-
-def load_json_file(filename, default):
+def load_json_file(filename, default, required=False):
     if not os.path.exists(filename):
+        if required:
+            raise FileNotFoundError(
+                f"فایل ضروری پیدا نشد: {filename}"
+            )
+
         return default
 
     try:
@@ -89,31 +89,125 @@ def load_json_file(filename, default):
             return json.load(file)
 
     except Exception as error:
-        print(f"Could not load {filename}: {error}")
-        return default
+        raise RuntimeError(
+            f"خواندن {filename} ناموفق بود: {error}"
+        ) from error
 
 
 def save_json_file(filename, data):
-    temporary_file = filename + ".tmp"
+    output_dir = os.path.dirname(
+        os.path.abspath(filename)
+    )
 
-    with open(
-        temporary_file,
-        "w",
-        encoding="utf-8",
-    ) as file:
-        json.dump(
-            data,
-            file,
-            ensure_ascii=False,
-            indent=2,
+    temporary_path = None
+
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w",
+            encoding="utf-8",
+            dir=output_dir,
+            prefix=".publisher_",
+            suffix=".tmp",
+            delete=False,
+        ) as file:
+            temporary_path = file.name
+
+            json.dump(
+                data,
+                file,
+                ensure_ascii=False,
+                indent=2,
+            )
+
+            file.write("\n")
+
+        os.replace(
+            temporary_path,
+            filename,
         )
 
-    os.replace(temporary_file, filename)
+    except Exception:
+        if temporary_path and os.path.exists(temporary_path):
+            try:
+                os.remove(temporary_path)
+            except OSError:
+                pass
+
+        raise
 
 
 # =========================================================
-# شناسه خبر
+# پاک‌سازی و نرمال‌سازی
 # =========================================================
+
+def clean_text(value):
+    if value is None:
+        return ""
+
+    text = str(value)
+
+    text = re.sub(
+        r"(?i)<br\s*/?>",
+        "\n",
+        text,
+    )
+
+    text = re.sub(
+        r"(?i)</(?:p|div|li|h[1-6])\s*>",
+        "\n",
+        text,
+    )
+
+    text = re.sub(
+        r"<[^>]+>",
+        " ",
+        text,
+    )
+
+    text = html.unescape(text)
+
+    text = text.replace("\u200f", "")
+    text = text.replace("\u200e", "")
+    text = text.replace("\ufeff", "")
+    text = text.replace("\u00a0", " ")
+    text = text.replace("\u200c", "‌")
+
+    text = re.sub(
+        r"[ \t]+",
+        " ",
+        text,
+    )
+
+    text = re.sub(
+        r" *\n *",
+        "\n",
+        text,
+    )
+
+    text = re.sub(
+        r"\n{3,}",
+        "\n\n",
+        text,
+    )
+
+    return text.strip()
+
+
+def normalize_text(value):
+    text = clean_text(value)
+
+    text = text.replace("ي", "ی")
+    text = text.replace("ى", "ی")
+    text = text.replace("ك", "ک")
+    text = text.replace("ۀ", "ه")
+    text = text.replace("ة", "ه")
+
+    return re.sub(
+        r"\s+",
+        " ",
+        text,
+    ).strip().lower()
+
 
 def normalize_url(url):
     url = str(url or "").strip()
@@ -121,7 +215,7 @@ def normalize_url(url):
     if not url:
         return ""
 
-    # حذف پارامترهای رایج رهگیری
+    # حذف پارامترهای رهگیری
     url = re.sub(
         r"([?&])utm_[^&]*",
         "",
@@ -136,39 +230,50 @@ def normalize_url(url):
         flags=re.IGNORECASE,
     )
 
-    url = url.rstrip("?&")
+    url = re.sub(
+        r"[?&]+$",
+        "",
+        url,
+    )
 
     return url.rstrip("/")
 
 
+# =========================================================
+# شناسه خبر و نسخه محتوا
+# =========================================================
+
 def create_news_id(item):
     link = normalize_url(item.get("link", ""))
-    title = normalize_text(item.get("title", ""))
 
-    base = link or title
+    if link:
+        base = "url:" + link
+    else:
+        title = normalize_text(item.get("title", ""))
+        source = normalize_text(item.get("source", ""))
+        base = f"title:{title}|source:{source}"
 
     return hashlib.sha256(
         base.encode("utf-8")
     ).hexdigest()
 
 
-def normalize_text(text):
-    text = str(text or "")
+def create_content_hash(item):
+    content = "\n".join([
+        clean_text(item.get("title", "")),
+        clean_text(item.get("summary", "")),
+        clean_text(item.get("full_text", "")),
+        clean_text(item.get("source", "")),
+        normalize_url(item.get("link", "")),
+    ])
 
-    text = text.replace("ي", "ی")
-    text = text.replace("ى", "ی")
-    text = text.replace("ك", "ک")
-    text = text.replace("ۀ", "ه")
-    text = text.replace("ة", "ه")
-    text = text.replace("\u200c", " ")
-
-    text = re.sub(r"\s+", " ", text)
-
-    return text.strip().lower()
+    return hashlib.sha256(
+        content.encode("utf-8")
+    ).hexdigest()
 
 
 # =========================================================
-# بررسی ارزش انتشار
+# بررسی ارتباط با بازار
 # =========================================================
 
 PROMOTIONAL_PATTERNS = [
@@ -201,6 +306,27 @@ MARKET_FIELDS = (
 )
 
 
+MARKET_TERMS = [
+    "طلا",
+    "آبشده",
+    "سکه",
+    "دلار",
+    "ارز",
+    "بورس",
+    "بازار سرمایه",
+    "شاخص کل",
+    "اونس جهانی",
+    "طلای ۱۸ عیار",
+    "طلای 18 عیار",
+    "نرخ ارز",
+    "بازار سهام",
+    "شاخص بورس",
+    "نیم سکه",
+    "ربع سکه",
+    "سکه امامی",
+]
+
+
 def has_market_evidence(item):
     for field in MARKET_FIELDS:
         value = item.get(field)
@@ -211,36 +337,25 @@ def has_market_evidence(item):
         if isinstance(value, (list, tuple, set)) and value:
             return True
 
-    # پشتیبانی از داده‌های قدیمی که فقط امتیاز دارند.
+    # بررسی عنوان، خلاصه و متن کامل
     title = normalize_text(item.get("title", ""))
     summary = normalize_text(item.get("summary", ""))
-    text = f"{title} {summary}"
+    full_text = normalize_text(item.get("full_text", ""))
 
-    market_terms = [
-        "طلا",
-        "آبشده",
-        "سکه",
-        "دلار",
-        "ارز",
-        "بورس",
-        "بازار سرمایه",
-        "شاخص کل",
-        "اونس جهانی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار",
-        "نرخ ارز",
-    ]
+    text = f"{title} {summary} {full_text}"
 
-    return any(term in text for term in market_terms)
+    return any(
+        normalize_text(term) in text
+        for term in MARKET_TERMS
+    )
 
 
 def is_promotional(item):
     title = normalize_text(item.get("title", ""))
     summary = normalize_text(item.get("summary", ""))
+    full_text = normalize_text(item.get("full_text", ""))
 
-    # عنوان به‌تنهایی برای رد خبر کافی نیست؛
-    # تبلیغ باید با چند نشانه مشخص همراه باشد.
-    text = f"{title} {summary}"
+    text = f"{title} {summary} {full_text}"
 
     matched = [
         pattern
@@ -248,7 +363,7 @@ def is_promotional(item):
         if re.search(pattern, text)
     ]
 
-    commercial_terms = [
+    strong_commercial_terms = [
         "خرید دوره",
         "فروش دوره",
         "ثبت سفارش",
@@ -258,13 +373,11 @@ def is_promotional(item):
         "درآمد تضمینی",
     ]
 
-    if any(term in text for term in commercial_terms):
+    if any(term in text for term in strong_commercial_terms):
         return True
 
-    if len(matched) >= 2:
-        return True
-
-    return False
+    # عبارت تبلیغاتی منفرد و مبهم کافی نیست.
+    return len(matched) >= 2
 
 
 def get_market_score(item):
@@ -275,12 +388,6 @@ def get_market_score(item):
 
 
 def is_publishable(item):
-    """
-    تعداد خبرها محدود نیست.
-    فقط خبرهای دارای ارتباط روشن با بازار،
-    امتیاز کافی و اولویت مناسب منتشر می‌شوند.
-    """
-
     priority = str(
         item.get("priority", "")
     ).strip().lower()
@@ -291,7 +398,7 @@ def is_publishable(item):
     if not has_market_evidence(item):
         return False
 
-    minimum_score = 9 if priority == "medium" else 18
+    minimum_score = 18 if priority == "high" else 9
 
     if get_market_score(item) < minimum_score:
         return False
@@ -299,65 +406,66 @@ def is_publishable(item):
     if is_promotional(item):
         return False
 
-    if not str(item.get("title", "")).strip():
+    if not clean_text(item.get("title", "")):
         return False
 
-    if not str(item.get("link", "")).strip():
+    if not normalize_url(item.get("link", "")):
         return False
 
     return True
 
 
 # =========================================================
-# آماده‌سازی متن
+# ساخت متن خبر
 # =========================================================
 
-def clean_text(text):
-    text = str(text or "")
-
-    text = re.sub(
-        r"<[^>]+>",
-        " ",
-        text,
-    )
-
-    text = text.replace("\u200c", "‌")
-    text = text.replace("\u200f", "")
-    text = text.replace("\ufeff", "")
-
-    text = re.sub(
-        r"\n{3,}",
-        "\n\n",
-        text,
-    )
-
-    return text.strip()
-
-
-def build_plain_message(item):
+def build_news_body(item):
     title = clean_text(item.get("title", ""))
+
+    # متن کامل بر خلاصه اولویت دارد.
+    full_text = clean_text(item.get("full_text", ""))
     summary = clean_text(item.get("summary", ""))
+
+    body = full_text or summary
+
+    # اگر متن کامل و خلاصه متفاوت باشند،
+    # خلاصه نیز حفظ می‌شود تا نکته‌ای از دست نرود.
+    if full_text and summary:
+        if normalize_text(full_text) != normalize_text(summary):
+            if normalize_text(summary) not in normalize_text(full_text):
+                body = full_text + "\n\nخلاصه خبر:\n" + summary
+
     source = clean_text(item.get("source", ""))
-    link = str(item.get("link", "") or "").strip()
+    link = normalize_url(item.get("link", ""))
 
     parts = [
-        "🌙 زرین ماه",
+        "🌙 زرین ماه | اخبار بازار",
         "",
         f"📰 {title}",
     ]
 
-    if summary:
-        parts.extend(["", summary])
+    if body:
+        parts.extend([
+            "",
+            body,
+        ])
 
     if source:
-        parts.extend(["", f"📌 منبع: {source}"])
+        parts.extend([
+            "",
+            f"📌 منبع: {source}",
+        ])
 
     if link:
-        parts.extend(["", f"🔗 مشاهده خبر کامل: {link}"])
+        parts.extend([
+            "",
+            f"🔗 مشاهده منبع:",
+            link,
+        ])
 
     parts.extend([
         "",
-        "🌙 اخبار و تحلیل‌های بیشتر زرین ماه",
+        "🌙 زرین ماه | طلای کم‌اجرت",
         "https://t.me/ZarinMahGold",
         "",
         "#اخبار_بازار",
@@ -366,12 +474,11 @@ def build_plain_message(item):
     return "\n".join(parts)
 
 
-def split_message(text, max_chars=MAX_PART_CHARS):
-    """
-    متن را ترجیحاً در مرز پاراگراف و جمله تقسیم می‌کند.
-    هیچ متن طولانی‌ای به‌صورت بی‌صدا حذف نمی‌شود.
-    """
+# =========================================================
+# تقسیم پیام بدون حذف متن
+# =========================================================
 
+def split_message(text, max_chars=MAX_PART_CHARS):
     text = str(text or "").strip()
 
     if not text:
@@ -380,7 +487,6 @@ def split_message(text, max_chars=MAX_PART_CHARS):
     if len(text) <= max_chars:
         return [text]
 
-    paragraphs = text.split("\n")
     chunks = []
     current = ""
 
@@ -392,33 +498,37 @@ def split_message(text, max_chars=MAX_PART_CHARS):
 
         current = ""
 
-    for paragraph in paragraphs:
+    for paragraph in text.split("\n"):
         paragraph = paragraph.strip()
 
         if not paragraph:
-            candidate = current + "\n"
-
-            if len(candidate) <= max_chars:
-                current = candidate
-
+            if current and not current.endswith("\n"):
+                current += "\n"
             continue
 
         while len(paragraph) > max_chars:
             if current:
                 flush()
 
-            # شکستن پاراگراف خیلی طولانی در نزدیک‌ترین فاصله
-            cut = paragraph.rfind(" ", 0, max_chars + 1)
+            cut = paragraph.rfind(
+                " ",
+                0,
+                max_chars + 1,
+            )
 
             if cut < max_chars // 2:
                 cut = max_chars
 
-            chunks.append(paragraph[:cut].strip())
+            chunks.append(
+                paragraph[:cut].strip()
+            )
+
             paragraph = paragraph[cut:].strip()
 
         candidate = (
             current + "\n" + paragraph
-            if current else paragraph
+            if current.strip()
+            else paragraph
         )
 
         if len(candidate) <= max_chars:
@@ -429,33 +539,31 @@ def split_message(text, max_chars=MAX_PART_CHARS):
 
     flush()
 
-    return [chunk for chunk in chunks if chunk]
+    return [
+        chunk for chunk in chunks
+        if chunk
+    ]
 
 
 def build_parts(item):
-    base_message = build_plain_message(item)
-    chunks = split_message(base_message)
+    message = build_news_body(item)
+    chunks = split_message(message)
 
     if len(chunks) <= 1:
         return chunks
 
     total = len(chunks)
+    result = []
 
-    return [
-        f"📄 بخش {index} از {total}\n\n{chunk}"
-        for index, chunk in enumerate(chunks, start=1)
-    ]
+    for index, chunk in enumerate(chunks, start=1):
+        prefix = f"📄 بخش {index} از {total}\n\n"
+        result.append(prefix + chunk)
 
-
-def build_telegram_html_message(plain_text):
-    """
-    متن را به‌صورت HTML امن برای تلگرام می‌فرستد.
-    """
-    return html.escape(plain_text)
+    return result
 
 
 # =========================================================
-# ارسال به تلگرام
+# ارسال تلگرام
 # =========================================================
 
 def send_to_telegram(
@@ -464,7 +572,9 @@ def send_to_telegram(
     message_thread_id=None,
 ):
     if not TELEGRAM_BOT_TOKEN:
-        raise RuntimeError("TELEGRAM_BOT_TOKEN is missing.")
+        raise RuntimeError(
+            "TELEGRAM_BOT_TOKEN تنظیم نشده است."
+        )
 
     url = (
         "https://api.telegram.org/bot"
@@ -473,7 +583,7 @@ def send_to_telegram(
 
     payload = {
         "chat_id": chat_id,
-        "text": build_telegram_html_message(message),
+        "text": html.escape(message),
         "parse_mode": "HTML",
         "disable_web_page_preview": True,
     }
@@ -488,10 +598,8 @@ def send_to_telegram(
     )
 
     print(
-        "Telegram destination:",
+        "Telegram:",
         chat_id,
-        "topic:",
-        message_thread_id if message_thread_id is not None else "default",
         "HTTP:",
         response.status_code,
     )
@@ -502,50 +610,52 @@ def send_to_telegram(
 
     if not result.get("ok"):
         raise RuntimeError(
-            f"Telegram API returned ok=false: {result}"
+            f"خطای API تلگرام: {result}"
         )
 
-    message_id = (
-        result.get("result", {}).get("message_id")
-    )
+    message_id = result.get(
+        "result", {}
+    ).get("message_id")
 
     if message_id is None:
         raise RuntimeError(
-            "Telegram response has no message_id."
+            "شناسه پیام از تلگرام دریافت نشد."
         )
 
     return message_id
 
 
 # =========================================================
-# ارسال به ایتا
+# ارسال ایتا
 # =========================================================
 
 def send_to_eitaa(message):
     if not EITAAYAR_TOKEN:
-        raise RuntimeError("EITAAYAR_TOKEN is missing.")
+        raise RuntimeError(
+            "EITAAYAR_TOKEN تنظیم نشده است."
+        )
 
     if not EITAA_CHAT_ID:
-        raise RuntimeError("EITAA_CHAT_ID is missing.")
+        raise RuntimeError(
+            "EITAA_CHAT_ID تنظیم نشده است."
+        )
 
     token = EITAAYAR_TOKEN.strip()
-    chat_id = EITAA_CHAT_ID.strip().lstrip("@")
+    chat_id = EITAA_CHAT_ID.strip()
 
     url = f"{EITAA_API_URL}/{token}/sendMessage"
 
-    payload = {
-        "chat_id": chat_id,
-        "text": message,
-    }
-
     response = requests.post(
         url,
-        data=payload,
+        data={
+            "chat_id": chat_id,
+            "text": message,
+        },
         timeout=REQUEST_TIMEOUT,
     )
 
     print(
-        "Eitaa HTTP status:",
+        "Eitaa HTTP:",
         response.status_code,
     )
 
@@ -555,30 +665,28 @@ def send_to_eitaa(message):
         result = response.json()
     except ValueError as error:
         raise RuntimeError(
-            "Eitaa API returned invalid JSON."
+            "پاسخ ایتا JSON معتبر نیست."
         ) from error
 
     if not result.get("ok"):
         raise RuntimeError(
-            f"Eitaa API returned ok=false: {result}"
+            f"خطای API ایتا: {result}"
         )
+
+    result_data = result.get("result", {})
 
     message_id = (
-        result.get("result", {}).get("message_id")
+        result_data.get("message_id")
+        or result_data.get("id")
     )
 
-    if message_id is None:
-        message_id = (
-            result.get("result", {}).get("id")
-        )
-
-    # اگر API موفقیت را اعلام کرده اما شناسه پیام نداده،
-    # وضعیت موفقیت را با نشانگر ثبت می‌کنیم تا تکرار ناخواسته نشود.
+    # API ممکن است موفقیت را بدون شناسه اعلام کند.
+    # در این حالت ثبت «sent» از تلاش فوری مجدد جلوگیری می‌کند.
     return message_id if message_id is not None else "sent"
 
 
 # =========================================================
-# وضعیت انتشار و سازگاری با فایل قبلی
+# وضعیت ناشر
 # =========================================================
 
 def initialize_publisher(published):
@@ -598,21 +706,12 @@ def initialize_publisher(published):
         "initialized_at": initialized_at.isoformat()
     }
 
-    save_json_file(PUBLISHED_FILE, published)
+    save_json_file(
+        PUBLISHED_FILE,
+        published,
+    )
 
     return initialized_at, True
-
-
-def get_collected_datetime(item):
-    return parse_datetime(item.get("collected_at", ""))
-
-
-def get_sort_value(item):
-    return (
-        item.get("published")
-        or item.get("collected_at")
-        or ""
-    )
 
 
 def ensure_record(published, news_id, item):
@@ -621,26 +720,35 @@ def ensure_record(published, news_id, item):
     if not isinstance(record, dict):
         record = {}
 
-    record.setdefault("title", item.get("title", ""))
-    record.setdefault("source", item.get("source", ""))
-    record.setdefault("link", item.get("link", ""))
-    record.setdefault("published_at", now_iso())
+    record.setdefault(
+        "title",
+        item.get("title", ""),
+    )
 
-    # تبدیل شناسه‌های قدیمی به فهرست بخش‌ها
+    record.setdefault(
+        "source",
+        item.get("source", ""),
+    )
+
+    record.setdefault(
+        "link",
+        item.get("link", ""),
+    )
+
     for destination in (
         "telegram",
         "eitaa",
         "group",
     ):
-        list_key = f"{destination}_message_ids"
+        ids_key = f"{destination}_message_ids"
+        legacy_key = f"{destination}_message_id"
 
-        if list_key not in record:
-            legacy_key = f"{destination}_message_id"
-            legacy_value = record.get(legacy_key)
+        if not isinstance(record.get(ids_key), list):
+            old_id = record.get(legacy_key)
 
-            record[list_key] = (
-                [legacy_value]
-                if legacy_value is not None
+            record[ids_key] = (
+                [old_id]
+                if old_id is not None
                 else []
             )
 
@@ -651,78 +759,38 @@ def ensure_record(published, news_id, item):
 
 def save_record(published, news_id, record):
     published[news_id] = record
-    save_json_file(PUBLISHED_FILE, published)
+
+    save_json_file(
+        PUBLISHED_FILE,
+        published,
+    )
 
 
-def send_parts_to_destination(
-    *,
-    parts,
-    record,
-    published,
-    news_id,
-    destination,
-    chat_id=None,
-    thread_id=None,
-):
-    ids_key = f"{destination}_message_ids"
-    sent_ids = record.setdefault(ids_key, [])
-
-    # وضعیت قدیمی ممکن است یک پیام ثبت کرده باشد.
-    if not isinstance(sent_ids, list):
-        sent_ids = []
-        record[ids_key] = sent_ids
-
-    while len(sent_ids) < len(parts):
-        sent_ids.append(None)
-
-    for index, part in enumerate(parts):
-        if sent_ids[index] is not None:
-            continue
-
-        print(
-            f"Sending {destination}: "
-            f"part {index + 1}/{len(parts)}"
+def has_any_delivery(record):
+    for destination in (
+        "telegram",
+        "eitaa",
+        "group",
+    ):
+        ids = record.get(
+            f"{destination}_message_ids",
+            [],
         )
 
-        if destination == "telegram":
-            message_id = send_to_telegram(
-                part,
-                chat_id=chat_id or CHANNEL,
-            )
-        elif destination == "group":
-            message_id = send_to_telegram(
-                part,
-                chat_id=chat_id or NEWS_GROUP,
-                message_thread_id=thread_id or NEWS_THREAD_ID,
-            )
-        elif destination == "eitaa":
-            message_id = send_to_eitaa(part)
-        else:
-            raise ValueError(
-                f"Unknown destination: {destination}"
-            )
+        if isinstance(ids, list) and any(
+            value is not None for value in ids
+        ):
+            return True
 
-        sent_ids[index] = message_id
-
-        # برای هر بخش بلافاصله وضعیت ذخیره می‌شود.
-        record[ids_key] = sent_ids
-        record[f"{destination}_last_sent_at"] = now_iso()
-
-        # حفظ کلیدهای قدیمی برای سازگاری با سابقه انتشار
-        if index == 0:
-            record[f"{destination}_message_id"] = message_id
-
-        save_record(
-            published,
-            news_id,
-            record,
-        )
-
-    return True
+    return False
 
 
 def is_fully_published(record, expected_parts):
-    for destination in ("telegram", "eitaa", "group"):
+    for destination in (
+        "telegram",
+        "eitaa",
+        "group",
+    ):
         ids = record.get(
             f"{destination}_message_ids",
             [],
@@ -734,8 +802,88 @@ def is_fully_published(record, expected_parts):
         if len(ids) < expected_parts:
             return False
 
-        if any(value is None for value in ids[:expected_parts]):
+        if any(
+            value is None
+            for value in ids[:expected_parts]
+        ):
             return False
+
+    return True
+
+
+# =========================================================
+# ارسال بخش‌ها با ذخیره وضعیت هر پیام
+# =========================================================
+
+def send_parts_to_destination(
+    parts,
+    record,
+    published,
+    news_id,
+    destination,
+    chat_id=None,
+    thread_id=None,
+):
+    ids_key = f"{destination}_message_ids"
+    sent_ids = record.setdefault(ids_key, [])
+
+    if not isinstance(sent_ids, list):
+        raise RuntimeError(
+            f"وضعیت {destination} نامعتبر است."
+        )
+
+    while len(sent_ids) < len(parts):
+        sent_ids.append(None)
+
+    for index, part in enumerate(parts):
+        if sent_ids[index] is not None:
+            continue
+
+        print(
+            f"Sending {destination}: "
+            f"{index + 1}/{len(parts)}"
+        )
+
+        if destination == "telegram":
+            message_id = send_to_telegram(
+                part,
+                chat_id=chat_id or CHANNEL,
+            )
+
+        elif destination == "group":
+            message_id = send_to_telegram(
+                part,
+                chat_id=chat_id or NEWS_GROUP,
+                message_thread_id=(
+                    thread_id
+                    if thread_id is not None
+                    else NEWS_THREAD_ID
+                ),
+            )
+
+        elif destination == "eitaa":
+            message_id = send_to_eitaa(part)
+
+        else:
+            raise ValueError(
+                f"مقصد ناشناخته: {destination}"
+            )
+
+        sent_ids[index] = message_id
+
+        record[ids_key] = sent_ids
+        record[f"{destination}_last_sent_at"] = now_iso()
+
+        if index == 0:
+            record[
+                f"{destination}_message_id"
+            ] = message_id
+
+        save_record(
+            published,
+            news_id,
+            record,
+        )
 
     return True
 
@@ -750,50 +898,73 @@ def main():
     print("===================================")
 
     if not TELEGRAM_BOT_TOKEN:
-        raise RuntimeError("TELEGRAM_BOT_TOKEN is missing.")
+        raise RuntimeError(
+            "TELEGRAM_BOT_TOKEN تنظیم نشده است."
+        )
 
     if not EITAAYAR_TOKEN:
-        raise RuntimeError("EITAAYAR_TOKEN is missing.")
+        raise RuntimeError(
+            "EITAAYAR_TOKEN تنظیم نشده است."
+        )
 
     if not EITAA_CHAT_ID:
-        raise RuntimeError("EITAA_CHAT_ID is missing.")
+        raise RuntimeError(
+            "EITAA_CHAT_ID تنظیم نشده است."
+        )
 
-    news = load_json_file(INPUT_FILE, [])
+    # فایل ورودی باید موجود و معتبر باشد.
+    # در صورت خطا، خروجی وضعیت را خالی نمی‌کنیم.
+    news = load_json_file(
+        INPUT_FILE,
+        [],
+        required=True,
+    )
 
     if not isinstance(news, list):
         raise RuntimeError(
-            f"{INPUT_FILE} must contain a JSON list."
+            f"{INPUT_FILE} باید یک فهرست JSON باشد."
         )
 
-    published = load_json_file(PUBLISHED_FILE, {})
+    published = load_json_file(
+        PUBLISHED_FILE,
+        {},
+    )
 
     if not isinstance(published, dict):
-        published = {}
+        raise RuntimeError(
+            f"{PUBLISHED_FILE} باید یک شیء JSON باشد."
+        )
 
-    initialized_at, is_first_run = initialize_publisher(
+    initialized_at, first_run = initialize_publisher(
         published
     )
 
-    if is_first_run:
-        print("Publisher initialized.")
-        print("Old news will not be published on the first run.")
+    if first_run:
+        print("ناشر برای اولین بار راه‌اندازی شد.")
+        print(
+            "خبرهای آرشیوی قبل از زمان راه‌اندازی "
+            "به‌صورت خودکار منتشر نمی‌شوند."
+        )
         return
 
     print(
-        "Publisher initialized at:",
+        "Initialized at:",
         initialized_at.isoformat(),
     )
 
-    # هیچ سقف تعدادی برای خبرهای واجد شرایط وجود ندارد.
     eligible_news = [
         item
         for item in news
-        if is_publishable(item)
+        if isinstance(item, dict)
+        and is_publishable(item)
     ]
 
     eligible_news.sort(
-        key=get_sort_value,
-        reverse=True,
+        key=lambda item: (
+            get_collected_datetime(item).timestamp()
+            if get_collected_datetime(item)
+            else 0
+        )
     )
 
     print("Total ready news:", len(news))
@@ -805,6 +976,7 @@ def main():
 
     for item in eligible_news:
         news_id = create_news_id(item)
+        content_hash = create_content_hash(item)
 
         record = ensure_record(
             published,
@@ -812,26 +984,40 @@ def main():
             item,
         )
 
-        collected_at = get_collected_datetime(item)
+        existing_hash = record.get("content_hash")
 
-        if collected_at is None:
+        # اگر قبلاً ارسال شروع شده و محتوا تغییر کرده باشد،
+        # ادامه نسخه جدید را با بخش‌های نسخه قبلی ترکیب نمی‌کنیم.
+        if (
+            existing_hash
+            and existing_hash != content_hash
+            and has_any_delivery(record)
+        ):
             print(
-                "Skipping news with invalid collection time:",
+                "Skipping changed content to prevent mixed or "
+                "duplicate publication:",
                 item.get("title", ""),
             )
             skipped_count += 1
             continue
 
-        # جلوگیری از انتشار آرشیو موجود قبل از شروع ناشر
-        if collected_at.timestamp() <= initialized_at.timestamp():
-            # اگر قبلاً بخشی از این خبر ارسال شده،
-            # اجازه می‌دهیم ادامه انتشار ناقص تکمیل شود.
-            has_previous_delivery = any(
-                record.get(f"{destination}_message_ids")
-                for destination in ("telegram", "eitaa", "group")
-            )
+        if not existing_hash:
+            record["content_hash"] = content_hash
 
-            if not has_previous_delivery:
+        collected_at = get_collected_datetime(item)
+
+        # بدون تاریخ معتبر نمی‌توان تشخیص داد خبر آرشیوی است یا جدید.
+        if collected_at is None:
+            print(
+                "Skipping news without a valid collection/publication date:",
+                item.get("title", ""),
+            )
+            skipped_count += 1
+            continue
+
+        # جلوگیری از انتشار آرشیو هنگام اولین راه‌اندازی
+        if collected_at.timestamp() <= initialized_at.timestamp():
+            if not has_any_delivery(record):
                 skipped_count += 1
                 continue
 
@@ -845,11 +1031,20 @@ def main():
             skipped_count += 1
             continue
 
+        record["expected_parts"] = len(parts)
+        record["content_hash"] = content_hash
+
+        save_record(
+            published,
+            news_id,
+            record,
+        )
+
         print()
         print("Publishing:", item.get("title", ""))
         print("Priority:", item.get("priority"))
         print("Market score:", item.get("market_score"))
-        print("Message parts:", len(parts))
+        print("Parts:", len(parts))
 
         try:
             send_parts_to_destination(
@@ -879,7 +1074,6 @@ def main():
                 thread_id=NEWS_THREAD_ID,
             )
 
-            record["expected_parts"] = len(parts)
             record["fully_published"] = is_fully_published(
                 record,
                 len(parts),
@@ -893,10 +1087,10 @@ def main():
 
             if record["fully_published"]:
                 sent_count += 1
-                print("Publication completed in all destinations.")
+                print("Publication completed.")
             else:
                 failed_count += 1
-                print("Publication remains incomplete.")
+                print("Publication incomplete.")
 
         except Exception as error:
             failed_count += 1
@@ -904,11 +1098,9 @@ def main():
             print(
                 "Publishing failed:",
                 item.get("title", ""),
-                error,
+                str(error),
             )
 
-            # وضعیت مقصدهایی که موفق بوده‌اند حفظ می‌شود؛
-            # اجرای بعدی فقط بخش‌های ثبت‌نشده را تلاش می‌کند.
             save_record(
                 published,
                 news_id,
@@ -919,7 +1111,7 @@ def main():
     print("===================================")
     print("Publishing finished")
     print("===================================")
-    print("Published this run:", sent_count)
+    print("Published:", sent_count)
     print("Skipped:", skipped_count)
     print("Failed or incomplete:", failed_count)
 
