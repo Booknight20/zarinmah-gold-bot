@@ -8211,5 +8211,65 @@
     "group_thread_id": 25,
     "group_message_id": 618,
     "published_at": "2026-10-22T12:18:07.631105+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25674": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "نفت ۱۱۲ دلار ، انس طلا ۴۰۹۰ دلار و نقره ۵۷ دلار",
+      "summary": "بازارهای جهانی به استقبال تنش‌ها رفتن به جای صلح و حتی به مذاکرات روسیه و اوکراین هم خوش بین نیستن.\nفارس هم اعلام کرده دیشب ۴ کشتی که مربوط به آمریکا بودن ، تو تنگه هرمز مورد هدف قرار گرفتن.\n@payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25674",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "دلار",
+        "نفت"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-22T12:45:02.482967+03:30"
+    },
+    "first_seen_at": "2026-10-22T12:45:06.131010+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-22T12:45:06.725402+03:30",
+    "telegram_message_id": 891,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-22T12:45:08.137435+03:30",
+    "eitaa_message_id": 177748140,
+    "group_sent": true,
+    "group_sent_at": "2026-10-22T12:45:08.659907+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 619,
+    "published_at": "2026-10-22T12:45:08.665196+03:30"
+  },
+  "https://t.me/drarashamini/7244": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "گواهی شمش طلا در بورس کالا امروز با توجه به افزایش قیمت دلار، در محدوده 2 درصد مثبت معامله میشه ک...",
+      "summary": "گواهی شمش طلا در بورس کالا امروز با توجه به افزایش قیمت دلار، در محدوده 2 درصد مثبت معامله میشه که در معاملات صندوق های طلا در روز شنبه میتونیم تاثیرش رو ببینیم.\n———————————————————————-\n✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7244",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "دلار",
+        "بورس"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-22T12:45:03.168925+03:30"
+    },
+    "first_seen_at": "2026-10-22T12:45:08.669958+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-22T12:45:09.214702+03:30",
+    "telegram_message_id": 892,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-22T12:45:10.339163+03:30",
+    "eitaa_message_id": 177748150,
+    "group_sent": true,
+    "group_sent_at": "2026-10-22T12:45:10.852779+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 620,
+    "published_at": "2026-10-22T12:45:10.858108+03:30"
   }
 }
