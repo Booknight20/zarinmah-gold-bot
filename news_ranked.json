@@ -349,37 +349,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "افزایش تنش ها در خاورمیانه؛ قیمت نفت برنت از ۱۱۰ دلار گذشت",
-    "link": "https://www.khabaronline.ir/news/2291175/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D9%86%D8%B4-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%DB%B1%DB%B1%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%DA%AF%D8%B0%D8%B4%D8%AA",
-    "summary": "قیمت نفت برنت با افزایش تنش ها در خاورمیانه با ۱.۵درصد افزایش به ۱۱۰ دلار و ۵۹ سنت رسید.",
-    "published": "Wed, 21 Oct 2026 07:55:44 GMT",
-    "collected_at": "2026-10-21T11:47:44.574180+03:30",
-    "market_score": 19,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "priority": "high",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [
-      "قیمت نفت"
-    ]
-  },
-  {
     "source": "مهر",
     "title": "نفت برنت از ۱۱۱ دلار عبور کرد",
     "link": "https://www.mehrnews.com/news/6986055/%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%DB%B1%DB%B1%DB%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF",
@@ -516,6 +485,34 @@
       "شاخص هم وزن",
       "فرابورس"
     ],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۳۰ مهر ۱۴۰۵/ دلار وارد کانال ۲۷۲ هزار تومان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2291650/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3%DB%B0-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF",
+    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۳۰ مهر ۱۴۰۵ اعلام و دلار با افزایش ۲ هزار و ۸۰۰ تومانی به کانال ۲۷۲ هزار تومان وارد شد.",
+    "published": "Thu, 22 Oct 2026 09:19:00 GMT",
+    "collected_at": "2026-10-22T13:17:40.552230+03:30",
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
   },
@@ -682,34 +679,6 @@
       "دلار",
       "ارز",
       "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت دلار، یورو و درهم امروز چهارشنبه ۲۹ مهر ۱۴۰۵/ دلار به ۲۶۶ هزار تومان رسید",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303272-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "قیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته، از 183,281 (یکصد و هشتاد و سه هزار و دویست و هشتاد و یک) تومان به 183,831 (یکصد و هشتاد و سه هزار و هشتصد و سی و یک) تومان رسید.",
-    "published": "Wed, 21 Oct 2026 08:05:41 +0000",
-    "collected_at": "2026-10-21T11:47:40.984562+03:30",
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "یورو",
-        "درهم"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "medium",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "یورو",
-      "درهم"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -1153,6 +1122,30 @@
     "medium_impact_matches": [
       "تحریم"
     ]
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "معافیت ۳ هزار دلاری کالای همراه مسافر در کیش تا پایان سال ۱۴۰۵ اجرا می شود",
+    "link": "https://www.khabaronline.ir/news/2291674/%D9%85%D8%B9%D8%A7%D9%81%DB%8C%D8%AA-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%DA%A9%D8%A7%D9%84%D8%A7%DB%8C-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%85%D8%B3%D8%A7%D9%81%D8%B1-%D8%AF%D8%B1-%DA%A9%DB%8C%D8%B4-%D8%AA%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B3%D8%A7%D9%84-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "summary": "در پی پیگیری های سازمان منطقه آزاد کیش و موافقت دولت، سقف معافیت کالای همراه مسافر افزایش یافت؛ تصمیمی که می تواند نقش مؤثری در رونق تجارت و گردشگری جزیره داشته باشد.",
+    "published": "Thu, 22 Oct 2026 09:27:10 GMT",
+    "collected_at": "2026-10-22T13:17:40.552214+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "ایسنا",
@@ -1755,78 +1748,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "مهر",
-    "title": "جریمه ۳.۵ میلیارد ریالی قاچاقچی آرد در رزن",
-    "link": "https://www.mehrnews.com/news/6985024/%D8%AC%D8%B1%DB%8C%D9%85%D9%87-%DB%B3-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82%DA%86%DB%8C-%D8%A2%D8%B1%D8%AF-%D8%AF%D8%B1-%D8%B1%D8%B2%D9%86",
-    "summary": "همدان-مدیرکل تعزیرات حکومتی استان همدان از محکومیت ۳ میلیارد و ۵۶۴ میلیون ریالی متخلف قاچاق آرد یارانه ای در شهرستان رزن خبر داد.",
-    "published": "Wed, 21 Oct 2026 08:00:03 GMT",
-    "collected_at": "2026-10-21T11:47:28.261390+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "مهر",
-    "title": "کسری تجاری ژاپن به ۱۷.۸ میلیارد دلار رسید",
-    "link": "https://www.mehrnews.com/news/6985034/%DA%A9%D8%B3%D8%B1%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%DA%98%D8%A7%D9%BE%D9%86-%D8%A8%D9%87-%DB%B2-%DB%B8%DB%B1-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "ژاپن در نیمه نخست سال مالی ۲۰۲۶ با کسری تجاری ۲.۸۱ تریلیون ینی، معادل حدود ۱۷.۸ میلیارد دلار، مواجه شد.",
-    "published": "Wed, 21 Oct 2026 08:11:30 GMT",
-    "collected_at": "2026-10-21T11:47:28.261233+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "صادرات ۴۴۶ میلیون دلاری کالا از رفسنجان در نیمه نخست امسال",
-    "link": "https://www.isna.ir/news/1405072919671/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B4%DB%B4%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%A7%D9%85%D8%B3%D8%A7%D9%84",
-    "summary": "رئیس گمرک رفسنجان از صادرات ۴۴۶ میلیون دلاری کالا از این شهرستان در نیمه نخست امسال خبر داد و گفت: ارزش صادرات رفسنجان در مقایسه با مدت مشابه سال گذشته، ۳۱۵ میلیون دلار افزایش یافته است.",
-    "published": "Wed, 21 Oct 2026 07:58:25 GMT",
-    "collected_at": "2026-10-21T11:47:15.427766+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "افت شاخص کل در آخرین روز مهر؛ گواهی های سپرده پیشتاز بازدهی +فیلم",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303337-%D8%A7%D9%81%D8%AA-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%AF%D8%B1-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%D9%85%D9%87%D8%B1-%DA%AF%D9%88%D8%A7%D9%87%DB%8C-%D9%87%D8%A7%DB%8C-%D8%B3%D9%BE%D8%B1%D8%AF%D9%87-%D9%BE%DB%8C%D8%B4%D8%AA%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
@@ -1874,6 +1795,30 @@
     "high_impact_matches": [
       "تنگه هرمز"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "مهر",
+    "title": "دونده اصفهانی طلای ناگویا را تسخیر کرد",
+    "link": "https://www.mehrnews.com/news/6986278/%D8%AF%D9%88%D9%86%D8%AF%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7-%D8%B1%D8%A7-%D8%AA%D8%B3%D8%AE%DB%8C%D8%B1-%DA%A9%D8%B1%D8%AF",
+    "summary": "اصفهان- هاجر صفرزاده، دونده مستعد اصفهانی، در فینال دوی ۴۰۰ متر بانوان کلاس T12 بازی های پاراآسیایی ناگویا رکورد این دوره از مسابقات را شکست و با ایستادن بر سکوی اول، مدال طلا را تصاحب کرد.",
+    "published": "Thu, 22 Oct 2026 09:27:05 GMT",
+    "collected_at": "2026-10-22T13:17:25.562499+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {
