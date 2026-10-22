@@ -7,6 +7,10 @@ INPUT_FILE = "news_filtered.json"
 OUTPUT_FILE = "news_ranked.json"
 
 
+# =========================================================
+# بازارهای هدف
+# =========================================================
+
 MARKET_KEYWORDS = {
     "gold": [
         "طلا",
@@ -18,8 +22,16 @@ MARKET_KEYWORDS = {
         "مثقال طلا",
         "سکه",
         "سکه امامی",
+        "سکه بهار آزادی",
         "نیم سکه",
         "ربع سکه",
+        "سکه گرمی",
+        "سکه پارسیان",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار",
+        "طلای ۲۴ عیار",
+        "طلای 24 عیار",
+        "صندوق طلا",
     ],
     "currency": [
         "دلار",
@@ -30,8 +42,8 @@ MARKET_KEYWORDS = {
         "یورو",
         "درهم",
         "پوند",
-        "ریال",
         "مرکز مبادله",
+        "بازار متشکل ارزی",
     ],
     "stock": [
         "بورس",
@@ -45,9 +57,15 @@ MARKET_KEYWORDS = {
         "خروج پول حقیقی",
         "صف خرید",
         "صف فروش",
+        "صندوق درآمد ثابت",
+        "بورس کالا",
     ],
 }
 
+
+# =========================================================
+# عوامل مهم اقتصادی و سیاسی
+# =========================================================
 
 HIGH_IMPACT_KEYWORDS = [
     "نرخ بهره",
@@ -69,6 +87,15 @@ HIGH_IMPACT_KEYWORDS = [
     "صادرات نفت",
     "سیاست ارزی",
     "ذخایر ارزی",
+    "تصمیم بانک مرکزی",
+    "توافق ایران",
+    "حمله نظامی",
+    "محدودیت صادرات نفت",
+    "تغییر سیاست پولی",
+    "تصمیم فدرال رزرو",
+    "نرخ تورم",
+    "تولید ناخالص داخلی",
+    "gdp",
 ]
 
 
@@ -82,31 +109,93 @@ MEDIUM_IMPACT_KEYWORDS = [
     "اشتغال آمریکا",
     "بازده اوراق",
     "اوراق خزانه آمریکا",
-    "قیمت نفت",
     "تحریم",
+    "تراز تجاری",
+    "نرخ بیکاری",
+    "عرضه ارز",
+    "تقاضای ارز",
+    "سیاست مالی",
+    "واردات",
+    "صادرات",
+    "تراز پرداخت‌ها",
+    "تراز پرداخت ها",
 ]
 
 
-IMPORTANT_NUMBERS = [
-    "%",
-    "درصد",
-    "میلیون",
-    "میلیارد",
-    "تریلیون",
-    "دلار",
-    "ریال",
-    "تومان",
+# =========================================================
+# نشانه‌های اطلاعات کاربردی بازار
+# =========================================================
+
+MARKET_SIGNAL_KEYWORDS = [
+    "افزایش",
+    "کاهش",
+    "رشد",
+    "افت",
+    "صعود",
+    "نزول",
+    "سقوط",
+    "جهش",
+    "ریزش",
+    "نوسان",
+    "رکورد",
+    "پیش‌بینی",
+    "پیش بینی",
+    "تحلیل",
+    "چشم‌انداز",
+    "چشم انداز",
+    "قیمت",
+    "نرخ",
+    "معاملات",
+    "عرضه",
+    "تقاضا",
+    "تصمیم",
+    "تصویب",
+    "ابلاغ",
+    "تغییر",
+    "ممنوعیت",
+    "آزادسازی",
+    "ورود پول",
+    "خروج پول",
+    "حمایت",
+    "مقاومت",
+    "هدف قیمتی",
+    "بازدهی",
+    "حباب",
+    "حراج",
+    "بازگشایی",
+    "توقف معاملات",
+    "گزارش مالی",
+    "سود خالص",
+    "زیان خالص",
+    "مذاکرات",
+    "توافق",
 ]
 
+
+# =========================================================
+# ابزارهای متن و فایل
+# =========================================================
 
 def normalize_text(text):
-    text = text or ""
+    if not isinstance(text, str):
+        text = str(text or "")
 
     text = text.replace("ي", "ی")
     text = text.replace("ى", "ی")
     text = text.replace("ك", "ک")
     text = text.replace("ۀ", "ه")
     text = text.replace("ة", "ه")
+
+    text = text.replace("\u200c", " ")
+    text = text.replace("\u200f", " ")
+    text = text.replace("\ufeff", " ")
+
+    digit_map = str.maketrans(
+        "۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩",
+        "01234567890123456789",
+    )
+    text = text.translate(digit_map)
+
     text = re.sub(r"\s+", " ", text)
 
     return text.strip().lower()
@@ -114,6 +203,7 @@ def normalize_text(text):
 
 def load_news():
     if not os.path.exists(INPUT_FILE):
+        print("Input file not found:", INPUT_FILE)
         return []
 
     try:
@@ -124,11 +214,18 @@ def load_news():
         ) as file:
             data = json.load(file)
 
-        return data if isinstance(data, list) else []
+        if isinstance(data, list):
+            return [
+                item
+                for item in data
+                if isinstance(item, dict)
+            ]
+
+        print("Input JSON is not a list.")
+        return []
 
     except Exception as error:
-        print("Could not load filtered news:")
-        print(error)
+        print("Could not load news:", error)
         return []
 
 
@@ -147,23 +244,61 @@ def save_news(news):
 
 
 def find_matches(text, keywords):
+    text = normalize_text(text)
     matches = []
 
     for keyword in keywords:
         keyword_normalized = normalize_text(keyword)
 
+        if not keyword_normalized:
+            continue
+
         pattern = (
-            r"(?<![\w])"
+            r"(?<!\w)"
             + re.escape(keyword_normalized)
             + r"(?:ی|ها|های)?"
-            + r"(?![\w])"
+            + r"(?!\w)"
         )
 
         if re.search(pattern, text):
             matches.append(keyword)
 
-    return matches
+    return list(dict.fromkeys(matches))
 
+
+def combine_matches(*match_lists):
+    result = []
+
+    for match_list in match_lists:
+        for match in match_list:
+            if match not in result:
+                result.append(match)
+
+    return result
+
+
+def count_numeric_evidence(text):
+    """
+    فقط وجود رقم واقعی را بررسی می‌کند.
+    کلماتی مثل «دلار» یا «تومان» به‌تنهایی
+    مدرک عددی محسوب نمی‌شوند.
+    """
+    text = normalize_text(text)
+
+    patterns = [
+        r"\d+(?:[.,]\d+)?\s*%",
+        r"\d+(?:[.,]\d+)?",
+    ]
+
+    return any(
+        re.search(pattern, text)
+        for pattern in patterns
+    )
+
+
+# =========================================================
+# رتبه‌بندی خبر
+# =========================================================
 
 def rank_news(item):
     title = normalize_text(
@@ -172,81 +307,211 @@ def rank_news(item):
 
     summary = normalize_text(
         item.get("summary", "")
+        or item.get("description", "")
     )
 
-    text = f"{title} {summary}".strip()
-
-    gold_matches = find_matches(
-        text,
-        MARKET_KEYWORDS["gold"],
+    text = normalize_text(
+        title + " " + summary
     )
 
-    currency_matches = find_matches(
-        text,
-        MARKET_KEYWORDS["currency"],
-    )
+    # -----------------------------------------------------
+    # تشخیص بازار در عنوان و خلاصه
+    # -----------------------------------------------------
 
-    stock_matches = find_matches(
-        text,
-        MARKET_KEYWORDS["stock"],
-    )
+    title_market_matches = {}
+    summary_market_matches = {}
+    market_matches = {}
 
-    high_impact_matches = find_matches(
-        text,
+    for market_name, keywords in MARKET_KEYWORDS.items():
+        title_matches = find_matches(
+            title,
+            keywords,
+        )
+
+        summary_matches = find_matches(
+            summary,
+            keywords,
+        )
+
+        combined = combine_matches(
+            title_matches,
+            summary_matches,
+        )
+
+        if title_matches:
+            title_market_matches[market_name] = title_matches
+
+        if summary_matches:
+            summary_market_matches[market_name] = summary_matches
+
+        if combined:
+            market_matches[market_name] = combined
+
+    gold_matches = market_matches.get("gold", [])
+    currency_matches = market_matches.get("currency", [])
+    stock_matches = market_matches.get("stock", [])
+
+    high_title_matches = find_matches(
+        title,
         HIGH_IMPACT_KEYWORDS,
     )
 
-    medium_impact_matches = find_matches(
-        text,
+    high_summary_matches = find_matches(
+        summary,
+        HIGH_IMPACT_KEYWORDS,
+    )
+
+    medium_title_matches = find_matches(
+        title,
         MEDIUM_IMPACT_KEYWORDS,
     )
 
-    number_matches = find_matches(
-        text,
-        IMPORTANT_NUMBERS,
+    medium_summary_matches = find_matches(
+        summary,
+        MEDIUM_IMPACT_KEYWORDS,
     )
+
+    signal_title_matches = find_matches(
+        title,
+        MARKET_SIGNAL_KEYWORDS,
+    )
+
+    signal_summary_matches = find_matches(
+        summary,
+        MARKET_SIGNAL_KEYWORDS,
+    )
+
+    high_impact_matches = combine_matches(
+        high_title_matches,
+        high_summary_matches,
+    )
+
+    medium_impact_matches = combine_matches(
+        medium_title_matches,
+        medium_summary_matches,
+    )
+
+    signal_matches = combine_matches(
+        signal_title_matches,
+        signal_summary_matches,
+    )
+
+    # -----------------------------------------------------
+    # محاسبه امتیاز
+    # -----------------------------------------------------
 
     score = 0
 
-    # ارتباط مستقیم با بازار
-    score += len(gold_matches) * 5
-    score += len(currency_matches) * 5
-    score += len(stock_matches) * 4
+    # اشاره مستقیم در عنوان
+    score += sum(
+        len(matches) * 4
+        for matches in title_market_matches.values()
+    )
 
-    # عوامل مهم اقتصادی و سیاسی
-    score += len(high_impact_matches) * 5
+    # اشاره در خلاصه، با وزن کمتر
+    score += sum(
+        len(matches) * 2
+        for matches in summary_market_matches.values()
+    )
+
+    # عوامل پراثر و متوسط
+    score += len(high_impact_matches) * 4
     score += len(medium_impact_matches) * 2
 
-    # وجود اعداد و تغییرات قیمتی معمولاً ارزش خبری بیشتری دارد
-    if number_matches:
+    # وجود نشانه‌های اطلاعات کاربردی
+    score += min(len(signal_matches), 4)
+
+    # وجود رقم واقعی
+    if count_numeric_evidence(text):
         score += 2
 
-    # اگر خبر هم بازار هدف داشته باشد و هم عامل اثرگذار،
-    # ارزش آن بیشتر می‌شود.
+    # ارتباط هم‌زمان با چند بازار
     market_count = sum(
-        [
-            bool(gold_matches),
-            bool(currency_matches),
-            bool(stock_matches),
-        ]
+        bool(market_matches.get(market))
+        for market in ("gold", "currency", "stock")
     )
 
     if market_count >= 2:
-        score += 5
+        score += 4
 
+    # عنوان و خلاصه هر دو به بازار اشاره دارند
     if (
-        market_count >= 1
-        and high_impact_matches
+        title_market_matches
+        and summary_market_matches
     ):
-        score += 5
+        score += 2
 
-    # تعیین سطح اهمیت
-    if score >= 18:
+    # اگر فیلتر قبلی امتیاز ثبت کرده باشد،
+    # فقط سهم محدودی در امتیاز نهایی دارد.
+    # این کار مانع می‌شود امتیاز قبلی بر نتیجه مسلط شود.
+    try:
+        previous_filter_score = max(
+            0,
+            int(item.get("market_score", 0)),
+        )
+    except (TypeError, ValueError):
+        previous_filter_score = 0
+
+    filter_score_bonus = min(
+        previous_filter_score,
+        6,
+    )
+
+    score += filter_score_bonus
+
+    # -----------------------------------------------------
+    # تعیین اولویت
+    # -----------------------------------------------------
+
+    has_market = bool(market_matches)
+    has_high_impact = bool(high_impact_matches)
+    has_signal = bool(signal_matches)
+
+    # امتیاز بالا به‌تنهایی کافی نیست:
+    # خبر باید ارتباط مشخصی با بازار هدف داشته باشد.
+    if (
+        has_market
+        and score >= 18
+        and (
+            has_signal
+            or has_high_impact
+            or market_count >= 2
+        )
+    ):
         priority = "high"
-    elif score >= 10:
+
+    elif has_market and score >= 9:
         priority = "medium"
+
     else:
         priority = "low"
+
+    # -----------------------------------------------------
+    # توضیح عوامل امتیازدهی برای بررسی بعدی
+    # -----------------------------------------------------
+
+    reasons = []
+
+    if title_market_matches:
+        reasons.append("ارتباط بازار در عنوان")
+
+    if summary_market_matches:
+        reasons.append("ارتباط بازار در خلاصه")
+
+    if high_impact_matches:
+        reasons.append("عامل پراثر اقتصادی یا سیاسی")
+
+    if medium_impact_matches:
+        reasons.append("عامل اقتصادی")
+
+    if signal_matches:
+        reasons.append("نشانه اطلاعات کاربردی بازار")
+
+    if count_numeric_evidence(text):
+        reasons.append("وجود رقم در متن")
+
+    if market_count >= 2:
+        reasons.append("ارتباط با چند بازار")
 
     return {
         "market_score": score,
@@ -254,10 +519,20 @@ def rank_news(item):
         "gold_matches": gold_matches,
         "currency_matches": currency_matches,
         "stock_matches": stock_matches,
+        "market_matches": market_matches,
+        "title_market_matches": title_market_matches,
+        "summary_market_matches": summary_market_matches,
         "high_impact_matches": high_impact_matches,
         "medium_impact_matches": medium_impact_matches,
+        "signal_matches": signal_matches,
+        "ranking_reasons": reasons,
+        "filter_score_bonus": filter_score_bonus,
     }
 
+
+# =========================================================
+# اجرای برنامه
+# =========================================================
 
 def main():
     print("===================================")
@@ -265,32 +540,48 @@ def main():
     print("===================================")
 
     news = load_news()
-
     ranked_news = []
 
     for item in news:
-        analysis = rank_news(item)
-
+        # امتیاز مرحله فیلتر را قبل از محاسبه جدید حفظ می‌کنیم.
         new_item = dict(item)
 
+        if "market_score" in new_item:
+            new_item["filter_market_score"] = (
+                new_item["market_score"]
+            )
+
+        analysis = rank_news(new_item)
         new_item.update(analysis)
 
         ranked_news.append(new_item)
 
     ranked_news.sort(
-        key=lambda item: item.get(
-            "market_score",
-            0,
-        ),
+        key=lambda item: item.get("market_score", 0),
         reverse=True,
     )
 
     save_news(ranked_news)
 
-    print(
-        "Total ranked news:",
-        len(ranked_news),
+    high_count = sum(
+        item.get("priority") == "high"
+        for item in ranked_news
     )
+
+    medium_count = sum(
+        item.get("priority") == "medium"
+        for item in ranked_news
+    )
+
+    low_count = sum(
+        item.get("priority") == "low"
+        for item in ranked_news
+    )
+
+    print("Total ranked news:", len(ranked_news))
+    print("High priority:", high_count)
+    print("Medium priority:", medium_count)
+    print("Low priority:", low_count)
 
     print()
     print("Top news:")
@@ -301,8 +592,13 @@ def main():
             "|",
             item.get("market_score"),
             "|",
-            item.get("title"),
+            item.get("source", ""),
+            "|",
+            item.get("title", ""),
         )
+
+    print()
+    print("Saved:", OUTPUT_FILE)
 
 
 if __name__ == "__main__":
