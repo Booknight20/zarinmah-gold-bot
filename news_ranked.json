@@ -3820,59 +3820,6 @@
   },
   {
     "source": "ایسنا",
-    "title": "ویدیو/حقیقت پور: جریانی ادعای مبارزه می کند که هرگز در جبهه دیده نشده است",
-    "link": "https://www.isna.ir/news/1405072920079/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%AD%D9%82%DB%8C%D9%82%D8%AA-%D9%BE%D9%88%D8%B1-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86%DB%8C-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D9%85%D8%A8%D8%A7%D8%B1%D8%B2%D9%87-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%DA%A9%D9%87-%D9%87%D8%B1%DA%AF%D8%B2-%D8%AF%D8%B1-%D8%AC%D8%A8%D9%87%D9%87",
-    "summary": "فعال سیاسی اصولگرا گفت: جریانی اقلیتی در طیف راست از زمانی که تیم احمدی نژاد در کشور مستقر شد، به دلیل تحریم، میلیاردها دلار به ایران خسارت زدند و تحمیل جنگ و بردن ایران به سوی تحریم های شدید هم حاصل عملکرد آنان است؛ همان ها که امروز خود را مدعی مبارزه با آمریکا معرفی می کند اما در هیچ یک از جبهه ها حضور نداشته است.",
-    "published": "Wed, 21 Oct 2026 16:00:00 GMT",
-    "collected_at": "2026-10-21T19:36:01.273505+03:30",
-    "filter_market_score": 8,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "تحریم"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ"
-    ],
-    "medium_impact_matches": [
-      "تحریم"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
     "title": "جهش ۵ برابری سرمایه گذاری خارجی مصوب در خراسان رضوی",
     "link": "https://www.isna.ir/news/1405073020298/%D8%AC%D9%87%D8%B4-%DB%B5-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1%DB%8C-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D9%85%D8%B5%D9%88%D8%A8-%D8%AF%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C",
     "summary": "مدیرکل امور اقتصادی و دارایی خراسان رضوی از تصویب ۲۵ طرح سرمایه گذاری خارجی به ارزش ۱۱۹ میلیون و ۵۰۰ هزار دلار در استان طی نیمه نخست سال جاری خبر داد و گفت: ارزش طرح های سرمایه گذاری خارجی مصوب استان نسبت به مدت مشابه سال گذشته ۴.۶ برابر رشد داشته است.",
