@@ -61,6 +61,7 @@
     ],
     "filter_market_score": 44,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا",
       "سکه",
@@ -76,16 +77,20 @@
       "مرکز مبادله"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود رقم در متن",
-      "ارتباط با چند بازار"
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -147,6 +152,7 @@
     ],
     "filter_market_score": 38,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا",
       "سکه",
@@ -162,16 +168,20 @@
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود رقم در متن",
-      "ارتباط با چند بازار"
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -219,6 +229,7 @@
     ],
     "filter_market_score": 30,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا",
       "اونس طلا",
@@ -228,16 +239,20 @@
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود رقم در متن",
-      "ارتباط با چند بازار"
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -292,6 +307,7 @@
     ],
     "filter_market_score": 26,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا",
       "سکه",
@@ -304,16 +320,20 @@
     "stock_matches": [
       "بورس"
     ],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 3,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود رقم در متن",
-      "ارتباط با چند بازار"
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مشرق",
@@ -359,6 +379,7 @@
     ],
     "filter_market_score": 24,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
@@ -366,19 +387,23 @@
     "stock_matches": [
       "بورس"
     ],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "قیمت نفت"
     ],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود رقم در متن",
-      "ارتباط با چند بازار"
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -421,6 +446,7 @@
     ],
     "filter_market_score": 19,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "سکه",
       "نیم سکه",
@@ -430,15 +456,19 @@
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -479,6 +509,7 @@
     ],
     "filter_market_score": 23,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [],
     "stock_matches": [
@@ -487,15 +518,19 @@
       "شاخص کل",
       "شاخص هم وزن"
     ],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -535,6 +570,7 @@
     ],
     "filter_market_score": 23,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار",
@@ -542,15 +578,19 @@
       "یورو"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -595,6 +635,7 @@
     ],
     "filter_market_score": 22,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
@@ -603,16 +644,20 @@
       "نرخ دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود رقم در متن",
-      "ارتباط با چند بازار"
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -651,6 +696,7 @@
     ],
     "filter_market_score": 22,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار",
@@ -658,15 +704,19 @@
       "یورو"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -707,24 +757,29 @@
     ],
     "filter_market_score": 22,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا",
       "طلای جهانی"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "تورم",
       "قیمت نفت"
     ],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار"
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -763,6 +818,7 @@
     ],
     "filter_market_score": 22,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار",
@@ -770,15 +826,19 @@
       "یورو"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -822,6 +882,7 @@
     ],
     "filter_market_score": 21,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
@@ -829,19 +890,23 @@
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "قیمت نفت"
     ],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود رقم در متن",
-      "ارتباط با چند بازار"
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -876,26 +941,31 @@
     "signal_matches": [],
     "filter_market_score": 17,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار",
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "بانک مرکزی"
     ],
     "medium_impact_matches": [
       "واردات"
     ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "عامل اقتصادی",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -934,6 +1004,7 @@
     ],
     "filter_market_score": 13,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا",
       "سکه",
@@ -941,15 +1012,19 @@
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -987,21 +1062,26 @@
     ],
     "filter_market_score": 18,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار",
       "مرکز مبادله"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -1038,6 +1118,7 @@
     ],
     "filter_market_score": 18,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار",
@@ -1045,15 +1126,19 @@
       "درهم"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -1094,6 +1179,7 @@
     ],
     "filter_market_score": 18,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [],
     "stock_matches": [
@@ -1102,15 +1188,19 @@
       "شاخص هم وزن",
       "فرابورس"
     ],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -1151,6 +1241,7 @@
     ],
     "filter_market_score": 17,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
@@ -1158,16 +1249,20 @@
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود رقم در متن",
-      "ارتباط با چند بازار"
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -1205,24 +1300,29 @@
     ],
     "filter_market_score": 16,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "قیمت نفت",
       "جنگ"
     ],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -1262,6 +1362,7 @@
     ],
     "filter_market_score": 16,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
@@ -1269,16 +1370,20 @@
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود رقم در متن",
-      "ارتباط با چند بازار"
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -1314,21 +1419,26 @@
     ],
     "filter_market_score": 16,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا",
       "مثقال طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -1362,26 +1472,31 @@
     "signal_matches": [],
     "filter_market_score": 13,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "ارز",
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "بانک مرکزی"
     ],
     "medium_impact_matches": [
       "واردات"
     ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "عامل اقتصادی",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -1417,21 +1532,26 @@
     ],
     "filter_market_score": 10,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا",
       "سکه"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -1468,23 +1588,28 @@
     ],
     "filter_market_score": 15,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "قیمت نفت"
     ],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -1522,6 +1647,7 @@
     ],
     "filter_market_score": 15,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [],
     "stock_matches": [
@@ -1529,15 +1655,19 @@
       "شاخص کل",
       "شاخص هم وزن"
     ],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مشرق",
@@ -1572,21 +1702,26 @@
     ],
     "filter_market_score": 9,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا",
       "سکه"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -1621,20 +1756,25 @@
     ],
     "filter_market_score": 15,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "نرخ ارز",
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار"
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -1668,23 +1808,28 @@
     ],
     "filter_market_score": 12,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "یورو"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "تولید ناخالص داخلی"
     ],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -1719,23 +1864,28 @@
     ],
     "filter_market_score": 11,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "قیمت نفت",
       "جنگ"
     ],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -1769,20 +1919,25 @@
     ],
     "filter_market_score": 13,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -1816,21 +1971,26 @@
     ],
     "filter_market_score": 11,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "ارز",
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -1863,20 +2023,25 @@
     ],
     "filter_market_score": 12,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -1909,20 +2074,25 @@
     ],
     "filter_market_score": 12,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -1954,20 +2124,25 @@
     "signal_matches": [],
     "filter_market_score": 10,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "ارز",
       "یورو"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -2001,22 +2176,27 @@
     ],
     "filter_market_score": 10,
     "priority": "high",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "قیمت نفت"
     ],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -2051,21 +2231,26 @@
     ],
     "filter_market_score": 4,
     "priority": "high",
+    "filter_score_bonus": 4,
     "gold_matches": [
       "سکه",
       "سکه بهار آزادی"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 4
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -2097,20 +2282,25 @@
     ],
     "filter_market_score": 9,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -2142,20 +2332,25 @@
     ],
     "filter_market_score": 9,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -2187,20 +2382,25 @@
     ],
     "filter_market_score": 9,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -2234,21 +2434,26 @@
     ],
     "filter_market_score": 11,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [],
     "stock_matches": [
       "شاخص کل"
     ],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [
       "نقدینگی"
     ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار"
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -2278,19 +2483,24 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -2320,19 +2530,24 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -2362,19 +2577,24 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -2404,19 +2624,24 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -2446,19 +2671,24 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -2488,19 +2718,24 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -2530,19 +2765,24 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -2572,19 +2812,24 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -2614,19 +2859,24 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -2659,21 +2909,26 @@
     ],
     "filter_market_score": 9,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "قیمت نفت"
     ],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار"
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -2705,19 +2960,24 @@
     ],
     "filter_market_score": 9,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار"
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -2749,20 +3009,25 @@
     ],
     "filter_market_score": 7,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "نرخ ارز",
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مشرق",
@@ -2793,22 +3058,27 @@
     ],
     "filter_market_score": 7,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "قیمت نفت"
     ],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -2838,22 +3108,27 @@
     ],
     "filter_market_score": 6,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [
       "واردات"
     ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -2883,23 +3158,28 @@
     ],
     "filter_market_score": 6,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [
       "رکود",
       "صادرات"
     ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -2930,19 +3210,24 @@
     ],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -2972,18 +3257,23 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه"
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -3013,18 +3303,23 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه"
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -3054,18 +3349,23 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [],
     "stock_matches": [
       "بورس"
     ],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه"
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -3095,18 +3395,23 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه"
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -3136,18 +3441,23 @@
     "signal_matches": [],
     "filter_market_score": 8,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه"
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -3176,19 +3486,24 @@
     ],
     "filter_market_score": 6,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -3217,19 +3532,24 @@
     ],
     "filter_market_score": 6,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -3260,19 +3580,24 @@
     ],
     "filter_market_score": 6,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -3302,23 +3627,28 @@
     "signal_matches": [],
     "filter_market_score": 6,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "جنگ"
     ],
     "medium_impact_matches": [
       "تحریم"
     ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی"
+      "عامل اقتصادی",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -3348,22 +3678,27 @@
     ],
     "filter_market_score": 5,
     "priority": "medium",
+    "filter_score_bonus": 5,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [
       "جنگ"
     ],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 5
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -3391,20 +3726,25 @@
     "signal_matches": [],
     "filter_market_score": 6,
     "priority": "medium",
+    "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [
       "بودجه"
     ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
-      "عامل اقتصادی"
+      "عامل اقتصادی",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 6
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -3434,19 +3774,24 @@
     ],
     "filter_market_score": 5,
     "priority": "medium",
+    "filter_score_bonus": 5,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 5
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -3475,19 +3820,24 @@
     ],
     "filter_market_score": 4,
     "priority": "medium",
+    "filter_score_bonus": 4,
     "gold_matches": [],
     "currency_matches": [
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 4
+    "ranking_applied": true
   },
   {
     "source": "مشرق",
@@ -3513,18 +3863,23 @@
     "signal_matches": [],
     "filter_market_score": 4,
     "priority": "medium",
+    "filter_score_bonus": 4,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 4
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -3550,18 +3905,23 @@
     "signal_matches": [],
     "filter_market_score": 4,
     "priority": "medium",
+    "filter_score_bonus": 4,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 4
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -3590,19 +3950,24 @@
     ],
     "filter_market_score": 4,
     "priority": "medium",
+    "filter_score_bonus": 4,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 4
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -3628,18 +3993,23 @@
     "signal_matches": [],
     "filter_market_score": 4,
     "priority": "medium",
+    "filter_score_bonus": 4,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 4
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -3667,21 +4037,26 @@
     ],
     "filter_market_score": 4,
     "priority": "medium",
+    "filter_score_bonus": 4,
     "gold_matches": [],
     "currency_matches": [
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [
       "صادرات"
     ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار"
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 4
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -3707,21 +4082,26 @@
     "signal_matches": [],
     "filter_market_score": 3,
     "priority": "medium",
+    "filter_score_bonus": 3,
     "gold_matches": [],
     "currency_matches": [
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [
       "صادرات"
     ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 3
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -3747,17 +4127,22 @@
     "signal_matches": [],
     "filter_market_score": 4,
     "priority": "low",
+    "filter_score_bonus": 4,
     "gold_matches": [],
     "currency_matches": [
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
-      "ارتباط بازار در عنوان"
+      "ارتباط بازار در عنوان",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 4
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -3785,18 +4170,23 @@
     "signal_matches": [],
     "filter_market_score": 4,
     "priority": "low",
+    "filter_score_bonus": 4,
     "gold_matches": [],
     "currency_matches": [],
     "stock_matches": [
       "بورس",
       "بورس کالا"
     ],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
-      "ارتباط بازار در خلاصه"
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 4
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -3824,19 +4214,24 @@
     ],
     "filter_market_score": 3,
     "priority": "low",
+    "filter_score_bonus": 3,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 3
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -3862,18 +4257,23 @@
     "signal_matches": [],
     "filter_market_score": 3,
     "priority": "low",
+    "filter_score_bonus": 3,
     "gold_matches": [],
     "currency_matches": [
       "پوند"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 3
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -3901,18 +4301,23 @@
     ],
     "filter_market_score": 3,
     "priority": "low",
+    "filter_score_bonus": 3,
     "gold_matches": [],
     "currency_matches": [
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار"
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 3
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -3940,18 +4345,23 @@
     ],
     "filter_market_score": 3,
     "priority": "low",
+    "filter_score_bonus": 3,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار"
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 3
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -3977,18 +4387,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [],
     "currency_matches": [
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -4014,18 +4429,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [],
     "currency_matches": [
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -4051,18 +4471,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -4088,18 +4513,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "مشرق",
@@ -4125,18 +4555,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -4162,18 +4597,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -4199,18 +4639,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -4236,18 +4681,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "مشرق",
@@ -4273,18 +4723,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -4310,18 +4765,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -4347,18 +4807,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [],
     "currency_matches": [
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "ایسنا",
@@ -4384,18 +4849,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "تابناک",
@@ -4421,18 +4891,23 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [],
     "currency_matches": [
       "ارز"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "وجود رقم در متن"
+      "وجود رقم در متن",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "مهر",
@@ -4458,17 +4933,22 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [
       "طلا"
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
-      "ارتباط بازار در خلاصه"
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   },
   {
     "source": "دنیای اقتصاد",
@@ -4494,16 +4974,21 @@
     "signal_matches": [],
     "filter_market_score": 2,
     "priority": "low",
+    "filter_score_bonus": 2,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
     ],
     "stock_matches": [],
+    "full_text_market_matches": {},
     "high_impact_matches": [],
     "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
     "ranking_reasons": [
-      "ارتباط بازار در خلاصه"
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
     ],
-    "filter_score_bonus": 2
+    "ranking_applied": true
   }
 ]
