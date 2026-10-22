@@ -1,9 +1,10 @@
-```python
+
 import json
 import os
 import re
 import html
 import tempfile
+from difflib import SequenceMatcher
 
 
 INPUT_FILE = "news_unique.json"
@@ -37,6 +38,14 @@ def load_news():
         raise ValueError(
             "ساختار news_unique.json باید یک فهرست باشد."
         )
+
+    invalid_count = sum(
+        1 for item in data
+        if not isinstance(item, dict)
+    )
+
+    if invalid_count:
+        print("Invalid records skipped:", invalid_count)
 
     return [
         item for item in data
@@ -80,14 +89,12 @@ def save_news(news):
             OUTPUT_FILE,
         )
 
-    except Exception:
+    finally:
         if temp_path and os.path.exists(temp_path):
             try:
                 os.remove(temp_path)
             except OSError:
                 pass
-
-        raise
 
 
 # =========================================================
@@ -100,7 +107,10 @@ def clean_text(text):
 
     text = str(text)
 
-    # حذف تگ‌های HTML و حفظ فاصله بین بخش‌ها
+    # تبدیل موجودیت‌های HTML پیش از پاک‌سازی تگ‌ها
+    text = html.unescape(text)
+
+    # حفظ شکست خطوط میان بخش‌های مختلف متن
     text = re.sub(
         r"(?i)<br\s*/?>",
         "\n",
@@ -108,30 +118,35 @@ def clean_text(text):
     )
 
     text = re.sub(
-        r"(?i)</(?:p|div|li|h[1-6])\s*>",
+        r"(?i)</(?:p|div|li|h[1-6]|blockquote|article|section)\s*>",
         "\n",
         text,
     )
 
+    text = re.sub(
+        r"(?i)<(?:p|div|li|h[1-6]|blockquote|article|section)\b[^>]*>",
+        "",
+        text,
+    )
+
+    # حذف تگ‌های باقی‌مانده
     text = re.sub(
         r"<[^>]+>",
         " ",
         text,
     )
 
-    # تبدیل موجودیت‌های HTML
-    text = html.unescape(text)
-
-    # یکسان‌سازی برخی نویسه‌های نامرئی
+    # یکسان‌سازی نویسه‌های نامرئی
     text = text.replace("\u200f", "")
     text = text.replace("\u200e", "")
     text = text.replace("\ufeff", "")
     text = text.replace("\u00a0", " ")
+    text = text.replace("\u202f", " ")
 
     # حفظ نیم‌فاصله فارسی
     text = text.replace("\u200c", "‌")
 
-    # پاک‌سازی فاصله‌ها بدون حذف شکست خطوط مفید
+    # پاک‌سازی فاصله‌ها بدون حذف شکست خطوط
     text = re.sub(
         r"[ \t]+",
         " ",
@@ -162,11 +177,118 @@ def normalize_for_comparison(text):
     text = text.replace("ۀ", "ه")
     text = text.replace("ة", "ه")
 
+    text = text.replace("\u200c", " ")
+
     return re.sub(
         r"\s+",
         " ",
         text,
     ).strip().lower()
+
+
+# =========================================================
+# انتخاب متن‌های معتبر و جلوگیری از تکرار
+# =========================================================
+
+def unique_text_values(*values):
+    """
+    متن‌های غیرخالی و متمایز را نگه می‌دارد.
+    متن‌های تکراری پس از نرمال‌سازی حذف می‌شوند.
+    """
+
+    result = []
+    seen = set()
+
+    for value in values:
+        text = clean_text(value)
+
+        if not text:
+            continue
+
+        normalized = normalize_for_comparison(text)
+
+        if not normalized or normalized in seen:
+            continue
+
+        seen.add(normalized)
+        result.append(text)
+
+    return result
+
+
+def choose_best_text(*values):
+    """
+    از میان چند نسخه یک متن، طولانی‌ترین نسخه معتبر را انتخاب
+    می‌کند؛ ترتیب فیلدها باعث انتخاب متن کوتاه‌تر نمی‌شود.
+    """
+
+    candidates = unique_text_values(*values)
+
+    if not candidates:
+        return ""
+
+    return max(
+        candidates,
+        key=len,
+    )
+
+
+def choose_full_text(*values):
+    """
+    متن کامل را از تمام فیلدهای محتوایی بررسی می‌کند.
+
+    1. متن‌های خالی و تکراری حذف می‌شوند.
+    2. متن‌های کوتاه‌تر که داخل متن بلندتر هستند دوباره اضافه نمی‌شوند.
+    3. متن‌های متمایز و مفید، در صورت عدم شباهت زیاد، حفظ می‌شوند.
+    4. هیچ سقف طولی برای متن تعیین نمی‌شود.
+    """
+
+    candidates = unique_text_values(*values)
+
+    if not candidates:
+        return ""
+
+    candidates.sort(
+        key=len,
+        reverse=True,
+    )
+
+    accepted = []
+    accepted_normalized = []
+
+    for candidate in candidates:
+        normalized = normalize_for_comparison(candidate)
+
+        if not normalized:
+            continue
+
+        is_redundant = False
+
+        for old_normalized in accepted_normalized:
+            # اگر یک متن داخل متن دیگر باشد، دوباره اضافه نشود.
+            if (
+                normalized in old_normalized
+                or old_normalized in normalized
+            ):
+                is_redundant = True
+                break
+
+            # جلوگیری از تکرار متن‌های تقریباً یکسان
+            similarity = SequenceMatcher(
+                None,
+                normalized,
+                old_normalized,
+            ).ratio()
+
+            if similarity >= 0.90:
+                is_redundant = True
+                break
+
+        if not is_redundant:
+            accepted.append(candidate)
+            accepted_normalized.append(normalized)
+
+    return "\n\n".join(accepted)
 
 
 # =========================================================
@@ -179,7 +301,8 @@ def build_title(title):
     if not title:
         return ""
 
-    # حذف فقط عبارت‌های زمانی انتهایی و مشخص
+    # فقط عبارت زمانی انتهایی مشخص حذف می‌شود.
+    # طول عنوان محدود نمی‌شود.
     title = re.sub(
         r"\s*[-|،,]\s*"
         r"(?:امروز|دیروز|فردا)\s*$",
@@ -188,7 +311,6 @@ def build_title(title):
         flags=re.IGNORECASE,
     ).strip()
 
-    # عنوان را به دلیل طولانی بودن نمی‌بریم.
     return title
 
 
@@ -202,8 +324,7 @@ def build_summary(summary):
     if not summary:
         return ""
 
-    # حذف عبارت معرفی منبع فقط در ابتدای متن،
-    # بدون حذف بدنه اصلی خبر.
+    # حذف عبارت معرفی منبع فقط از ابتدای متن
     opening_patterns = [
         r"^به گزارش [^،:؛\n]{1,100}[،:؛]\s*",
         r"^طبق اعلام [^،:؛\n]{1,100}[،:؛]\s*",
@@ -231,7 +352,7 @@ def build_summary(summary):
 def choose_text(*values):
     """
     اولین متن غیرخالی را برمی‌گرداند.
-    متن‌ها کوتاه یا محدود نمی‌شوند.
+    مناسب فیلدهایی مانند عنوان، منبع و لینک است.
     """
 
     for value in values:
@@ -244,49 +365,53 @@ def choose_text(*values):
 
 
 def format_news(item):
-    # حفظ متن اصلی و اطلاعات رتبه‌بندی
+    # تمام فیلدهای قبلی، از جمله اطلاعات رتبه‌بندی،
+    # ابتدا حفظ می‌شوند.
     formatted = dict(item)
 
+    # عنوان
     original_title = choose_text(
         item.get("title"),
         item.get("headline"),
     )
 
-    original_summary = choose_text(
+    title = build_title(original_title)
+
+    # خلاصه: طولانی‌ترین نسخه از summary و description
+    original_summary = choose_best_text(
         item.get("summary"),
         item.get("description"),
-    )
-
-    original_full_text = choose_text(
-        item.get("full_text"),
-        item.get("full_content"),
-        item.get("content"),
-        item.get("text"),
-        original_summary,
-    )
-
-    title = build_title(
-        original_title
     )
 
     summary = build_summary(
         original_summary
     )
 
-    # اگر خلاصه وجود نداشته باشد، از متن کامل استفاده می‌کنیم.
-    if not summary:
-        summary = build_summary(
-            original_full_text
-        )
+    # متن کامل:
+    # تمام فیلدهای محتوایی بررسی می‌شوند؛
+    # وجود full_text مانع بررسی content و text نمی‌شود.
+    original_full_text = choose_full_text(
+        item.get("full_text"),
+        item.get("full_content"),
+        item.get("content"),
+        item.get("text"),
+    )
 
     full_text = clean_text(
         original_full_text
     )
 
-    # اگر متن کامل موجود نباشد، خلاصه حفظ می‌شود.
+    # اگر خلاصه وجود ندارد، از متن کامل استفاده می‌شود.
+    if not summary:
+        summary = build_summary(
+            full_text
+        )
+
+    # اگر متن کامل وجود ندارد، خلاصه حفظ می‌شود.
     if not full_text:
         full_text = summary
 
+    # تکمیل اطلاعات اصلی بدون جعل داده
     formatted.update({
         "title": title,
         "summary": summary,
@@ -294,9 +419,9 @@ def format_news(item):
         "source": clean_text(
             item.get("source", "")
         ),
-        "link": clean_text(
-            item.get("link", "")
-        ),
+        "link": str(
+            item.get("link", "") or ""
+        ).strip(),
         "priority": item.get(
             "priority",
             "low",
@@ -315,8 +440,6 @@ def format_news(item):
         ),
     })
 
-    # این فیلدها در صورت وجود حفظ می‌شوند؛
-    # اگر وجود نداشته باشند، چیزی جعل نمی‌کنیم.
     return formatted
 
 
@@ -364,17 +487,19 @@ def main():
     print("ZarinMah News Formatter")
     print("===================================")
 
-    # در صورت نبودن یا خرابی ورودی، برنامه متوقف می‌شود
-    # و خروجی قبلی دست‌نخورده باقی می‌ماند.
+    # اگر ورودی وجود نداشته باشد یا خراب باشد،
+    # خروجی قبلی تغییر نمی‌کند.
     news = load_news()
 
     ready_news = []
     skipped = 0
+    missing_summary = 0
+    missing_full_text = 0
 
     for item in news:
         formatted = format_news(item)
 
-        # خبر باید عنوان و لینک قابل پیگیری داشته باشد.
+        # عنوان و لینک برای انتشار الزامی هستند.
         if not formatted.get("title"):
             skipped += 1
             continue
@@ -382,6 +507,12 @@ def main():
         if not formatted.get("link"):
             skipped += 1
             continue
+
+        if not formatted.get("summary"):
+            missing_summary += 1
+
+        if not formatted.get("full_text"):
+            missing_full_text += 1
 
         formatted["telegram_preview"] = (
             build_telegram_preview(formatted)
@@ -398,6 +529,8 @@ def main():
     print("Input news:", len(news))
     print("Ready news:", len(ready_news))
     print("Skipped news:", skipped)
+    print("Without summary:", missing_summary)
+    print("Without full text:", missing_full_text)
     print("Saved:", OUTPUT_FILE)
 
     print()
@@ -415,4 +548,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
