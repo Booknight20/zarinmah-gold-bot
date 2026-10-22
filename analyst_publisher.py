@@ -1,4 +1,3 @@
-```python
 import hashlib
 import html
 import json
@@ -859,4 +858,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
