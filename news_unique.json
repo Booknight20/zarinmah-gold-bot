@@ -859,6 +859,31 @@
     "medium_impact_matches": []
   },
   {
+    "source": "مهر",
+    "title": "دستور جلسه هیئت وزیران برای پرداخت طلب ارزی ۷۵۰ شرکت خصوصی",
+    "link": "https://www.mehrnews.com/news/6986408/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%AC%D9%84%D8%B3%D9%87-%D9%87%DB%8C%D8%A6%D8%AA-%D9%88%D8%B2%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%B7%D9%84%D8%A8-%D8%A7%D8%B1%D8%B2%DB%8C-%DB%B7%DB%B5%DB%B0-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C",
+    "summary": "نحوه بازپرداخت مطالبات ارزی بیش از ۷۵۰ شرکت خصوصی به ارزش ۴.۰۷ میلیارد یورو، در دستور کار جلسه هیئت وزیران قرار گرفته است.",
+    "published": "Thu, 22 Oct 2026 12:13:29 GMT",
+    "collected_at": "2026-10-22T15:46:35.313540+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "فروش ارز با کارت ملی متوقف نشد/امکان ثبت غیرحضوری درخواست خرید ارز از طریق پیام رسان «بله» فراهم شد",
     "link": "https://www.khabaronline.ir/news/2291365/%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D8%B1%D8%B2-%D8%A8%D8%A7-%DA%A9%D8%A7%D8%B1%D8%AA-%D9%85%D9%84%DB%8C-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D9%86%D8%B4%D8%AF-%D8%A7%D9%85%DA%A9%D8%A7%D9%86-%D8%AB%D8%A8%D8%AA-%D8%BA%DB%8C%D8%B1%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF",
@@ -1010,6 +1035,30 @@
     "medium_impact_matches": [
       "تحریم"
     ]
+  },
+  {
+    "source": "مشرق",
+    "title": "از خاموشی رادارها تا پاداش ۵۰ هزار دلاری",
+    "link": "https://www.mashreghnews.ir/news/1847256/%D8%A7%D8%B2-%D8%AE%D8%A7%D9%85%D9%88%D8%B4%DB%8C-%D8%B1%D8%A7%D8%AF%D8%A7%D8%B1%D9%87%D8%A7-%D8%AA%D8%A7-%D9%BE%D8%A7%D8%AF%D8%A7%D8%B4-%DB%B5%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
+    "summary": "",
+    "published": "Thu, 22 Oct 2026 11:56:00 GMT",
+    "collected_at": "2026-10-22T15:47:03.236482+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "مهر",
@@ -1607,30 +1656,6 @@
       "طلا"
     ],
     "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
-    "source": "ایسنا",
-    "title": "پایان مماشات با MDهای معیوب/ برخی ایرلاین ها حاضر نیستند از سود میلیون دلاری بگذرند",
-    "link": "https://www.isna.ir/news/1405072919837/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%85%D9%85%D8%A7%D8%B4%D8%A7%D8%AA-%D8%A8%D8%A7-MD%D9%87%D8%A7%DB%8C-%D9%85%D8%B9%DB%8C%D9%88%D8%A8-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%A7%DB%8C%D8%B1%D9%84%D8%A7%DB%8C%D9%86-%D9%87%D8%A7-%D8%AD%D8%A7%D8%B6%D8%B1-%D9%86%DB%8C%D8%B3%D8%AA%D9%86%D8%AF-%D8%A7%D8%B2-%D8%B3%D9%88%D8%AF",
-    "summary": "رئیس سازمان هواپیمایی کشوری با تأکید بر اینکه ایمنی مسافران قربانی منافع مالی ایرلاین ها نمی شود، اعلام کرد: پرواز هواپیماهای MD فاقد صلاحیت پروازی تا زمان رفع نقص فنی و اجرای دستورالعمل های ایمنی ممنوع خواهد.",
-    "published": "Wed, 21 Oct 2026 10:10:24 GMT",
-    "collected_at": "2026-10-21T13:47:10.168029+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": []
