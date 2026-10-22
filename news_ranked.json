@@ -869,6 +869,32 @@
     "medium_impact_matches": []
   },
   {
+    "source": "تابناک",
+    "title": "قیمت دلار امروز پنجشنبه ۳۰ مهرماه؛ افزایش هم زمان نرخ بازار و مرکز مبادله",
+    "link": "https://www.tabnak.ir/fa/news/1399861/قیمت-دلار-امروز-پنجشنبه-30-مهرماه-افزایش-هم-زمان-نرخ-بازار-و-مرکز-مبادله",
+    "summary": "قیمت دلار امروز پنجشنبه ۳۰ مهرماه ۱۴۰۵ به محدوده ۲۷۰ هزار تومان افزایش یافته است. در این گزارش، آخرین تغییرات قیمت انواع دلار در بازار آزاد و مرکز مبادله را تحلیل کرده ایم.",
+    "published": "22 Oct 2026 13:29:05 +0330",
+    "collected_at": "2026-10-22T13:47:53.730986+03:30",
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "مرکز مبادله"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "medium",
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ظهر ۳۰ مهر ۱۴۰۵/ مثقال طلا باز هم ۲ میلیون تومان افزایش قیمت داشت + جدول",
     "link": "https://www.khabaronline.ir/news/2291637/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B8%D9%87%D8%B1-%DB%B3%DB%B0-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
@@ -1122,6 +1148,30 @@
     "medium_impact_matches": [
       "تحریم"
     ]
+  },
+  {
+    "source": "مهر",
+    "title": "دستگیری کلاهبردار ۱۰ میلیارد ریالی در کرج",
+    "link": "https://www.mehrnews.com/news/6986283/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%DB%B1%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC",
+    "summary": "البرز _ فرمانده انتظامی کرج از دستگیری کلاهبردار فیشینگ خبر داد و گفت: این متهم با سوءاستفاده از کارت های بانکی اجاره ای، بیش از ۱۰ میلیارد ریال از حساب شهروندان برداشت کرد.",
+    "published": "Thu, 22 Oct 2026 09:59:40 GMT",
+    "collected_at": "2026-10-22T13:47:34.948354+03:30",
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ریال"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [],
+    "currency_matches": [
+      "ریال"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": []
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -1724,30 +1774,6 @@
     "medium_impact_matches": []
   },
   {
-    "source": "ایسنا",
-    "title": "حامل آرد یارانه ای قاچاق در درگزین ۳.۵ میلیارد ریال جریمه شد",
-    "link": "https://www.isna.ir/news/1405072919735/%D8%AD%D8%A7%D9%85%D9%84-%D8%A2%D8%B1%D8%AF-%DB%8C%D8%A7%D8%B1%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%AF%D8%B1-%D8%AF%D8%B1%DA%AF%D8%B2%DB%8C%D9%86-%DB%B3-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%AC%D8%B1%DB%8C%D9%85%D9%87-%D8%B4%D8%AF",
-    "summary": "مدیرکل تعزیرات حکومتی استان همدان از محکومیت خودروی حامل ۴۰ کیسه آرد یارانه ای خارج از ضوابط دولتی به پرداخت سه میلیارد و ۵۶۴ میلیون ریال جریمه نقدی در شهرستان درگزین خبر داد.",
-    "published": "Wed, 21 Oct 2026 08:40:23 GMT",
-    "collected_at": "2026-10-21T12:14:38.218640+03:30",
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "ریال"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "priority": "low",
-    "gold_matches": [],
-    "currency_matches": [
-      "ریال"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": []
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "افت شاخص کل در آخرین روز مهر؛ گواهی های سپرده پیشتاز بازدهی +فیلم",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303337-%D8%A7%D9%81%D8%AA-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%AF%D8%B1-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%D9%85%D9%87%D8%B1-%DA%AF%D9%88%D8%A7%D9%87%DB%8C-%D9%87%D8%A7%DB%8C-%D8%B3%D9%BE%D8%B1%D8%AF%D9%87-%D9%BE%DB%8C%D8%B4%D8%AA%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
@@ -1795,6 +1821,30 @@
     "high_impact_matches": [
       "تنگه هرمز"
     ],
+    "medium_impact_matches": []
+  },
+  {
+    "source": "ایسنا",
+    "title": "درخشش ضیغمی نژاد و ایزدیار با ۲ طلا و ۲ نقره در ناگویا",
+    "link": "https://www.isna.ir/news/1405073020449/%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%A7%D8%B4%D9%86%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7",
+    "summary": "شناگران ایران با قرار گرفتن در رده های اول و دوم فینال رقابت های ۱۰۰ متر قورباغه مردان و ۵۰ متد آزاد بازی های پاراآسیایی ناگویا دو مدال طلا و دو مدال نقره کسب کردند.",
+    "published": "Thu, 22 Oct 2026 09:57:44 GMT",
+    "collected_at": "2026-10-22T13:47:26.603164+03:30",
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "priority": "low",
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
     "medium_impact_matches": []
   },
   {

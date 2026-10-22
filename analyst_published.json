@@ -8271,5 +8271,35 @@
     "group_thread_id": 25,
     "group_message_id": 620,
     "published_at": "2026-10-22T12:45:10.858108+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8649": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "یه سری به قیمت ها بزنیم:",
+      "summary": "طلا ۱۸ عیار: ۲۷,۱۹۰,۰۰۰ تومان\nنقره ۹۲۵: ۴۵۲,۰۰۰ تومان\nتتر: ۲۷۰,۵۰۰ تومان\nاونس طلا: ۴,۰۸۴ دلار\nبیت‌کوین: ۸۱,۸۵۶ دلار\n⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8649",
+      "analysis_score": 6,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "دلار"
+      ],
+      "priority": "medium",
+      "collected_at": "2026-10-22T13:48:08.048969+03:30"
+    },
+    "first_seen_at": "2026-10-22T13:48:09.339060+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-22T13:48:10.242372+03:30",
+    "telegram_message_id": 894,
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-22T13:48:11.757219+03:30",
+    "eitaa_message_id": 177756812,
+    "group_sent": true,
+    "group_sent_at": "2026-10-22T13:48:12.402021+03:30",
+    "group_chat_id": "@ZarinMahCommunity",
+    "group_thread_id": 25,
+    "group_message_id": 622,
+    "published_at": "2026-10-22T13:48:12.410802+03:30"
   }
 }
