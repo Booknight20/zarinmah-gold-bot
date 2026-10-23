@@ -1861,6 +1861,43 @@
     "filter_applied": true
   },
   {
+    "source": "تابناک",
+    "title": "اعمال محدودیت در ثبت سفارش برای مدیریت منابع ارزی",
+    "link": "https://www.tabnak.ir/fa/news/1400000/اعمال-محدودیت-در-ثبت-سفارش-برای-مدیریت-منابع-ارزی",
+    "summary": "معاون خدمات تجاری سازمان توسعه تجارت ایران، با اشاره به محدودیت منابع ارزی کشور گفت: محدودیت های اعمال شده در ثبت سفارش، تخصیص و تامین ارز با هدف مدیریت منابع ارزی و اولویت بندی مصارف کشور صورت گرفته است.",
+    "published": "23 Oct 2026 15:32:33 +0330",
+    "collected_at": "2026-10-23T15:44:32.442119+03:30",
+    "filter_market_score": 11,
+    "market_score": 11,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "هدف"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "طلای پرتاب دیسک ناگویا بر گردن ورشکار فارس",
     "link": "https://www.isna.ir/news/1405080100101/%D8%B7%D9%84%D8%A7%DB%8C-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8-%D8%AF%DB%8C%D8%B3%DA%A9-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7-%D8%A8%D8%B1-%DA%AF%D8%B1%D8%AF%D9%86-%D9%88%D8%B1%D8%B4%DA%A9%D8%A7%D8%B1-%D9%81%D8%A7%D8%B1%D8%B3",
@@ -2004,43 +2041,6 @@
     "major_event_matches": [],
     "signal_matches": [
       "رکورد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "بسته حمایتی ۹ میلیارد دلاری برای صنایع خودرو و فولاد کانادا",
-    "link": "https://www.isna.ir/news/1405073020342/%D8%A8%D8%B3%D8%AA%D9%87-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%DB%8C-%DB%B9-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%88-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7",
-    "summary": "دولت فدرال کانادا و استان انتاریو روز چهارشنبه از بسته حمایتی ۹ میلیارد دلار کانادا (۶.۴ میلیارد دلار) برای کمک به صنایع فولاد و خودرو در مقابله با تعرفه های آمریکا و همچنین تقویت زنجیره تامین مواد معدنی حیاتی رونمایی کردند.",
-    "published": "Thu, 22 Oct 2026 07:28:00 GMT",
-    "collected_at": "2026-10-22T11:14:13.800118+03:30",
-    "filter_market_score": 11,
-    "market_score": 11,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "حمایت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2955,41 +2955,6 @@
     "major_event_matches": [],
     "signal_matches": [
       "توافق"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "افروز: به چیزی که می خواستیم رسیدیم/ طلایم را به شهدای جنگ رمضان تقدیم می کنم",
-    "link": "https://www.isna.ir/news/1405073020328/%D8%A7%D9%81%D8%B1%D9%88%D8%B2-%D8%A8%D9%87-%DA%86%DB%8C%D8%B2%DB%8C-%DA%A9%D9%87-%D9%85%DB%8C-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%DB%8C%D9%85-%D8%B1%D8%B3%DB%8C%D8%AF%DB%8C%D9%85-%D8%B7%D9%84%D8%A7%DB%8C%D9%85-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D8%AC%D9%86%DA%AF-%D8%B1%D9%85%D8%B6%D8%A7%D9%86",
-    "summary": "سعید افروز پس از کسب مدال طلای پرتاب نیزه بازی های پاراآسیایی ناگویا و شکستن رکورد جهان، این موفقیت را حاصل برنامه ریزی و تلاش چندساله خود دانست و از اهدافش برای مسابقات جهانی و پارالمپیک ۲۰۲۸ گفت.",
-    "published": "Thu, 22 Oct 2026 07:40:00 GMT",
-    "collected_at": "2026-10-22T11:14:13.800043+03:30",
-    "filter_market_score": 7,
-    "market_score": 7,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "رکورد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
