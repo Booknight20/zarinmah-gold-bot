@@ -95,79 +95,6 @@
     "ranking_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "طلا به پایین ترین سطح قیمتی رسید؛ اونس طلا در معاملات آتی ۴۱۱۱ دلار قیمت گرفت/ قیمت جدید طلای جهانی امروز ۳۰ مهر ۱۴۰۵",
-    "link": "https://www.khabaronline.ir/news/2291573/%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D9%82%DB%8C%D9%85%D8%AA%DB%8C-%D8%B1%D8%B3%DB%8C%D8%AF-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B4%DB%B1%DB%B1%DB%B1",
-    "summary": "قیمت هر اونس طلا برای تحویل فوری، با ۱.۱ درصد کاهش، به ۴۰۹۴ دلار و ۹۰ سنت رسید که پایین ترین سطح از ۱۴ اکتبر محسوب می شود.",
-    "published": "Thu, 22 Oct 2026 07:24:22 GMT",
-    "collected_at": "2026-10-22T11:14:32.030790+03:30",
-    "filter_market_score": 35,
-    "market_score": 39,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "معاملات",
-      "کاهش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "اونس طلا",
-      "طلای جهانی"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "مشرق",
     "title": "پرواز برنت به مرز ۱۱۲ دلار؛ سقوط بورس های جهانی زیر سایه ترس از هوش مصنوعی",
     "link": "https://www.mashreghnews.ir/news/1847366/%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%D9%85%D8%B1%D8%B2-%DB%B1%DB%B1%DB%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%D9%82%D9%88%D8%B7-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B2%DB%8C%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D8%AA%D8%B1%D8%B3",
@@ -3906,26 +3833,26 @@
   },
   {
     "source": "ایسنا",
-    "title": "بازداشت متهم مخل نظام ارزی کشور در ارومیه",
-    "link": "https://www.isna.ir/news/1405073020366/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%AA%D9%87%D9%85-%D9%85%D8%AE%D9%84-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D8%B1%D8%B2%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87",
-    "summary": "رئیس کل دادگستری آذربایجان غربی از بازداشت متهم مخل نظام ارزی کشور در ارومیه خبر داد.",
-    "published": "Thu, 22 Oct 2026 08:04:40 GMT",
-    "collected_at": "2026-10-22T11:44:00.883726+03:30",
+    "title": "نظر لواندوفسکی درباره برنده توپ طلا",
+    "link": "https://www.isna.ir/news/1405080100217/%D9%86%D8%B8%D8%B1-%D9%84%D9%88%D8%A7%D9%86%D8%AF%D9%88%D9%81%D8%B3%DA%A9%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7",
+    "summary": "مهاجم لهستانی شیکاگو فایر، در آستانه مراسم توپ طلا، درباره گزینه های مورد علاقه خود صحبت کرد.",
+    "published": "Fri, 23 Oct 2026 12:46:00 GMT",
+    "collected_at": "2026-10-23T16:17:12.652099+03:30",
     "filter_market_score": 9,
     "market_score": 14,
     "market_matches": {
-      "currency": [
-        "ارز"
+      "gold": [
+        "طلا"
       ]
     },
     "title_market_matches": {
-      "currency": [
-        "ارز"
+      "gold": [
+        "طلا"
       ]
     },
     "summary_market_matches": {
-      "currency": [
-        "ارز"
+      "gold": [
+        "طلا"
       ]
     },
     "full_text_market_matches": {},
@@ -3936,10 +3863,10 @@
     "filter_applied": true,
     "priority": "medium",
     "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
+    "gold_matches": [
+      "طلا"
     ],
+    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
