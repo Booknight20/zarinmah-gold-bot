@@ -2624,44 +2624,6 @@
   },
   {
     "source": "ایسنا",
-    "title": "افزایش ۲۰ درصدی قیمت بلیت قطار از فردا",
-    "link": "https://www.isna.ir/news/1405073020421/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B2%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D9%84%DB%8C%D8%AA-%D9%82%D8%B7%D8%A7%D8%B1-%D8%A7%D8%B2-%D9%81%D8%B1%D8%AF%D8%A7",
-    "summary": "دبیر انجمن صنفی شرکت های حمل ونقل ریلی مسافری از افزایش ۲۰ درصدی قیمت بلیت قطار از فردا (اول آبان ماه) خبر داد و گفت: با توجه به افزایش هزینه های قطعات یدکی، تعمیر و نگهداری، نیروی انسانی و نرخ ارز، اصلاح قیمت ها ضروری است هرچند مجوز افزایش قیمت تا سقف ۳۹ درصد صادر شده است.",
-    "published": "Thu, 22 Oct 2026 09:22:35 GMT",
-    "collected_at": "2026-10-22T13:17:11.459960+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "قیمت",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
     "title": "نظر لواندوفسکی درباره برنده توپ طلا",
     "link": "https://www.isna.ir/news/1405080100217/%D9%86%D8%B8%D8%B1-%D9%84%D9%88%D8%A7%D9%86%D8%AF%D9%88%D9%81%D8%B3%DA%A9%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7",
     "summary": "مهاجم لهستانی شیکاگو فایر، در آستانه مراسم توپ طلا، درباره گزینه های مورد علاقه خود صحبت کرد.",
