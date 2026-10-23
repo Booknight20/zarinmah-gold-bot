@@ -5,6 +5,7 @@ import json
 import os
 import re
 import tempfile
+import time
 from datetime import datetime, timedelta
 from urllib.parse import (
     urlsplit,
@@ -37,6 +38,11 @@ EITAA_API_URL = "https://eitaayar.ir/api"
 MAX_PART_CHARS = 2300
 PART_HEADER_RESERVE = 80
 REQUEST_TIMEOUT = 30
+
+# فاصله پایه بین ارسال‌های موفق تلگرام برای کاهش احتمال محدودیت
+TELEGRAM_SEND_INTERVAL_SECONDS = 1.2
+TELEGRAM_MAX_RETRIES = 6
+TELEGRAM_RETRY_MIN_SECONDS = 2
 
 # در اولین اجرا، خبرهای جدیدتر از این بازه بررسی می‌شوند.
 # این مقدار محدودیت تعداد خبرهای قابل انتشار نیست.
@@ -262,9 +268,14 @@ def normalize_url(url):
 
         query_items.sort()
 
+        # حذف www برای نمایش جمع‌وجورتر؛ پارامترهای ضروری حفظ می‌شوند.
+        netloc = parts.netloc.lower()
+        if netloc.startswith("www."):
+            netloc = netloc[4:]
+
         return urlunsplit((
             parts.scheme.lower(),
-            parts.netloc.lower(),
+            netloc,
             parts.path.rstrip("/"),
             urlencode(query_items, doseq=True),
             "",
@@ -646,9 +657,27 @@ def send_to_telegram(
         f"{TELEGRAM_BOT_TOKEN}/sendMessage"
     )
 
+    # لینک‌های مستقل در تلگرام به صورت متن کوتاه و قابل کلیک نمایش داده می‌شوند.
+    # در ایتا، لینک فشرده‌شده به شکل معمولی باقی می‌ماند.
+    escaped_lines = []
+    for line in str(message).splitlines():
+        stripped = line.strip()
+        if re.match(r"^https?://\S+$", stripped, flags=re.IGNORECASE):
+            safe_url = html.escape(stripped, quote=True)
+            link_label = (
+                "کانال زرین ماه"
+                if "t.me/zarinmahgold" in stripped.lower()
+                else "مشاهده منبع"
+            )
+            escaped_lines.append(
+                f'<a href="{safe_url}">{link_label}</a>'
+            )
+        else:
+            escaped_lines.append(html.escape(line))
+
     payload = {
         "chat_id": chat_id,
-        "text": html.escape(message),
+        "text": "\n".join(escaped_lines),
         "parse_mode": "HTML",
         "disable_web_page_preview": True,
     }
@@ -656,38 +685,83 @@ def send_to_telegram(
     if message_thread_id is not None:
         payload["message_thread_id"] = message_thread_id
 
-    response = requests.post(
-        url,
-        json=payload,
-        timeout=REQUEST_TIMEOUT,
-    )
+    for attempt in range(TELEGRAM_MAX_RETRIES + 1):
+        try:
+            response = requests.post(
+                url,
+                json=payload,
+                timeout=REQUEST_TIMEOUT,
+            )
+        except requests.RequestException:
+            if attempt >= TELEGRAM_MAX_RETRIES:
+                raise
+            wait_seconds = min(2 ** attempt, 30)
+            print(
+                f"Telegram network error; retrying in {wait_seconds}s "
+                f"(attempt {attempt + 1}/{TELEGRAM_MAX_RETRIES})"
+            )
+            time.sleep(wait_seconds)
+            continue
 
-    print(
-        "Telegram:",
-        chat_id,
-        "HTTP:",
-        response.status_code,
-    )
-
-    response.raise_for_status()
-
-    result = response.json()
-
-    if not result.get("ok"):
-        raise RuntimeError(
-            f"خطای API تلگرام: {result}"
+        print(
+            "Telegram:",
+            chat_id,
+            "HTTP:",
+            response.status_code,
         )
 
-    message_id = result.get(
-        "result", {}
-    ).get("message_id")
+        if response.status_code == 429:
+            try:
+                error_data = response.json()
+            except ValueError:
+                error_data = {}
 
-    if message_id is None:
-        raise RuntimeError(
-            "شناسه پیام از تلگرام دریافت نشد."
-        )
+            retry_after = (
+                error_data.get("parameters", {}).get("retry_after", 0)
+                if isinstance(error_data, dict)
+                else 0
+            )
+            try:
+                retry_after = int(retry_after)
+            except (TypeError, ValueError, OverflowError):
+                retry_after = 0
 
-    return message_id
+            if attempt >= TELEGRAM_MAX_RETRIES:
+                response.raise_for_status()
+
+            wait_seconds = max(
+                retry_after,
+                TELEGRAM_RETRY_MIN_SECONDS,
+            ) + 1
+            print(
+                f"Telegram rate limit (429); waiting {wait_seconds}s "
+                f"before retry {attempt + 1}/{TELEGRAM_MAX_RETRIES}."
+            )
+            time.sleep(wait_seconds)
+            continue
+
+        response.raise_for_status()
+
+        result = response.json()
+        if not result.get("ok"):
+            raise RuntimeError(
+                f"خطای API تلگرام: {result}"
+            )
+
+        message_id = result.get(
+            "result", {}
+        ).get("message_id")
+
+        if message_id is None:
+            raise RuntimeError(
+                "شناسه پیام از تلگرام دریافت نشد."
+            )
+
+        # فاصله کوتاه پس از ارسال موفق، پیش از ارسال بعدی
+        time.sleep(TELEGRAM_SEND_INTERVAL_SECONDS)
+        return message_id
+
+    raise RuntimeError("ارسال تلگرام پس از چند تلاش ناموفق ماند.")
 
 
 # =========================================================
