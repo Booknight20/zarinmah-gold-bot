@@ -781,14 +781,32 @@ def send_to_eitaa(message):
 
     token = EITAAYAR_TOKEN.strip()
     chat_id = EITAA_CHAT_ID.strip()
-
     url = f"{EITAA_API_URL}/{token}/sendMessage"
+
+    # در ایتا هم URL خام را با عنوان کوتاه و قابل کلیک نمایش می‌دهیم.
+    # آدرس مقصد داخل href حفظ می‌شود؛ خود URL طولانی در متن دیده نمی‌شود.
+    escaped_lines = []
+    for line in str(message).splitlines():
+        stripped = line.strip()
+        if re.match(r"^https?://\\S+$", stripped, flags=re.IGNORECASE):
+            safe_url = html.escape(stripped, quote=True)
+            link_label = (
+                "کانال زرین ماه"
+                if "t.me/zarinmahgold" in stripped.lower()
+                else "مشاهده منبع"
+            )
+            escaped_lines.append(
+                f'<a href="{safe_url}">{link_label}</a>'
+            )
+        else:
+            escaped_lines.append(html.escape(line))
 
     response = requests.post(
         url,
         data={
             "chat_id": chat_id,
-            "text": message,
+            "text": "\\n".join(escaped_lines),
+            "parse_mode": "HTML",
         },
         timeout=REQUEST_TIMEOUT,
     )
@@ -797,7 +815,6 @@ def send_to_eitaa(message):
         "Eitaa HTTP:",
         response.status_code,
     )
-
     response.raise_for_status()
 
     try:
@@ -813,7 +830,6 @@ def send_to_eitaa(message):
         )
 
     result_data = result.get("result", {})
-
     message_id = (
         result_data.get("message_id")
         or result_data.get("id")
