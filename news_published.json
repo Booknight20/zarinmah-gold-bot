@@ -6830,5 +6830,29 @@
     "group_message_id": 841,
     "fully_published": true,
     "last_checked_at": "2026-10-23T20:46:30.518650+00:00"
+  },
+  "bcb6a6a0b5c1629f1635d53b82f2486763b4e1347b71b0704d0f6eaa9e3984ab": {
+    "title": "فروش 6.7 میلیون پوندی کاخ ابراهیم گلستان فیلمساز ایرانی!",
+    "source": "تابناک",
+    "link": "https://www.tabnak.ir/fa/news/1400013/فروش-6-7-میلیون-پوندی-کاخ-ابراهیم-گلستان-فیلمساز-ایرانی",
+    "telegram_message_ids": [
+      1118
+    ],
+    "eitaa_message_ids": [
+      177980238
+    ],
+    "group_message_ids": [
+      848
+    ],
+    "content_hash": "ae6412873d3976f58d395e12db7f2fde6a9f73d789eed08c6093fb768149d255",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T21:44:33.722815+00:00",
+    "telegram_message_id": 1118,
+    "eitaa_last_sent_at": "2026-10-23T21:44:35.218535+00:00",
+    "eitaa_message_id": 177980238,
+    "group_last_sent_at": "2026-10-23T21:44:37.024976+00:00",
+    "group_message_id": 848,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T21:44:37.031387+00:00"
   }
 }
