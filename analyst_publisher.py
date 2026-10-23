@@ -289,6 +289,20 @@ def destination_is_sent(record, destination):
     )
 
 
+def is_fully_published(record):
+    """
+    بررسی می‌کند تحلیل برای هر سه مقصد اصلی منتشر شده باشد.
+    از پرچم‌های قدیمی و وضعیت ارسال چندبخشی نیز پشتیبانی می‌کند.
+    """
+    if not isinstance(record, dict):
+        return False
+
+    return all(
+        destination_is_sent(record, destination)
+        for destination in ("telegram", "eitaa", "group")
+    )
+
+
 def initialize_parts(record, destination, total):
     sent_key = f"{destination}_parts_sent"
     ids_key = f"{destination}_part_message_ids"
