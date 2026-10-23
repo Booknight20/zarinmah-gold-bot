@@ -1078,54 +1078,6 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۲۹ مهر ۱۴۰۵ در زمان بسته شدن بازار/ طلا از مرز ۲۷ میلیون تومان عبور کرد + جدول",
-    "link": "https://www.khabaronline.ir/news/2291482/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B9-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%D9%85%D8%B1%D8%B2",
-    "summary": "قیمت طلا در بازار تهران امروز ۲۹ مهر ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار با افزایش ۸۱۷ هزار تومانی، از مرز ۲۷ میلیون تومان عبور کرد.",
-    "published": "Wed, 21 Oct 2026 18:51:00 GMT",
-    "collected_at": "2026-10-21T22:47:20.023292+03:30",
-    "filter_market_score": 22,
-    "market_score": 22,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "افزایش",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "مشرق",
     "title": "سقوط طلا به سمت کانال ۳ هزار دلاری",
     "link": "https://www.mashreghnews.ir/news/1847457/%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D8%B3%D9%85%D8%AA-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
@@ -1256,6 +1208,50 @@
       "افزایش",
       "قیمت",
       "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "جهش دوباره نفت برنت / قیمت نفت از ۱۱۵ دلار عبور کرد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303599-%D8%AC%D9%87%D8%B4-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF",
+    "summary": "قیمت نفت برنت در معاملات روز جمعه، اول آبان ماه، بار دیگر روند صعودی در پیش گرفت و از مرز ۱۱۵ دلار عبور کرد.",
+    "published": "Fri, 23 Oct 2026 06:53:45 +0000",
+    "collected_at": "2026-10-23T10:37:46.095469+03:30",
+    "filter_market_score": 19,
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "جهش",
+      "قیمت",
+      "صعود",
+      "معاملات",
+      "روند"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3616,35 +3612,34 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۲۹ مهر ۱۴۰۵ در زمان بسته شدن بازار/ سکه ۲۷۳ میلیون تومان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2291486/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B9-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%DB%B2%DB%B7%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
-    "summary": "قیمت سکه در بازار تهران امروز ۲۹ مهر ۱۴۰۵ اعلام و سکه بهار آزادی با افزایش بیش از ۷ میلیون تومانی، وارد کانال ۲۷۳ هزار تومان شد.",
-    "published": "Wed, 21 Oct 2026 19:16:16 GMT",
-    "collected_at": "2026-10-21T22:47:20.023261+03:30",
-    "filter_market_score": 6,
-    "market_score": 6,
+    "source": "مشرق",
+    "title": "توصیف جالب عراقچی از یک رابطه انگلی!",
+    "link": "https://www.mashreghnews.ir/news/1847467/%D8%AA%D9%88%D8%B5%DB%8C%D9%81-%D8%AC%D8%A7%D9%84%D8%A8-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A7%D8%B2-%DB%8C%DA%A9-%D8%B1%D8%A7%D8%A8%D8%B7%D9%87-%D8%A7%D9%86%DA%AF%D9%84%DB%8C",
+    "summary": "عراقچی اعلام کرد: آمریکا ۱۱ میلیارد دلار از پول مالیات دهندگان آمریکایی را صرف دفاع موشکی از اسرائیل کرده است.",
+    "published": "Fri, 23 Oct 2026 06:56:09 GMT",
+    "collected_at": "2026-10-23T10:37:54.394890+03:30",
+    "filter_market_score": 5,
+    "market_score": 5,
     "market_matches": {
-      "gold": [
-        "سکه بهار آزادی"
+      "currency": [
+        "دلار"
       ]
     },
     "title_market_matches": {},
     "summary_market_matches": {
-      "gold": [
-        "سکه بهار آزادی"
+      "currency": [
+        "دلار"
       ]
     },
     "full_text_market_matches": {
-      "gold": [
-        "سکه بهار آزادی"
+      "currency": [
+        "دلار"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "قیمت",
-      "افزایش"
+      "اعلام کرد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
