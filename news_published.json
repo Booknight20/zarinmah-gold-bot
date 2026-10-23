@@ -4076,240 +4076,480 @@
     "source": "تابناک",
     "link": "https://www.tabnak.ir/fa/news/1399926/فروش-دلار-دولتی-و-بانکی-ادامه-دارد",
     "telegram_message_ids": [
-      null
+      1006
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960596
+    ],
+    "group_message_ids": [
+      736
+    ],
     "content_hash": "52f3e0eb6beec3d4943b497f39059d81d894bf4acf9c97fc1c16e6b5076a4d9d",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:02.742598+00:00",
+    "telegram_message_id": 1006,
+    "eitaa_last_sent_at": "2026-10-23T18:28:03.897373+00:00",
+    "eitaa_message_id": 177960596,
+    "group_last_sent_at": "2026-10-23T18:28:04.423405+00:00",
+    "group_message_id": 736,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:04.432311+00:00"
   },
   "7d3f064b5e94df1c01696992ae13d7ebdbee89f589c6a19fe85db5990ed5e041": {
     "title": "قیمت نفت برنت از ۱۱۳ دلار عبور کرد",
     "source": "مشرق",
     "link": "https://www.mashreghnews.ir/news/1847421/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%DB%B1%DB%B1%DB%B3-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF",
     "telegram_message_ids": [
-      null
+      1007
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960599
+    ],
+    "group_message_ids": [
+      737
+    ],
     "content_hash": "568111d19dbd6fbdbc8aa406e514e86df97e71742f57fd52b78849170d94c682",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:04.894747+00:00",
+    "telegram_message_id": 1007,
+    "eitaa_last_sent_at": "2026-10-23T18:28:05.754262+00:00",
+    "eitaa_message_id": 177960599,
+    "group_last_sent_at": "2026-10-23T18:28:06.179461+00:00",
+    "group_message_id": 737,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:06.188776+00:00"
   },
   "fa7824244969374ee8563a4770947c3613b01c445393983f5f7553e5ed6dddd0": {
     "title": "قیمت دلار، یورو و انواع ارزها امروز ۳۰ مهر ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۲۵۰۵ تومان + جدول",
     "source": "خبرآنلاین اقتصادی",
     "link": "https://www.khabaronline.ir/news/2291839/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3%DB%B0-%D9%85%D9%87%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
     "telegram_message_ids": [
-      null
+      1008
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960603
+    ],
+    "group_message_ids": [
+      738
+    ],
     "content_hash": "e85cc52cc466ffd412dd8e772a7476ef2d047039b7bfbbef3c51fa1c25d70b6e",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:06.608313+00:00",
+    "telegram_message_id": 1008,
+    "eitaa_last_sent_at": "2026-10-23T18:28:07.679122+00:00",
+    "eitaa_message_id": 177960603,
+    "group_last_sent_at": "2026-10-23T18:28:08.096087+00:00",
+    "group_message_id": 738,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:08.105177+00:00"
   },
   "23a323c706669f1bc41344f2fb4b89e84448e64e274be6769bd78953b0fa6c6a": {
     "title": "عبور قیمت نفت برنت از ۱۱۳ دلار",
     "source": "دنیای اقتصاد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303568-%D8%B9%D8%A8%D9%88%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1",
     "telegram_message_ids": [
-      null
+      1009
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960605
+    ],
+    "group_message_ids": [
+      739
+    ],
     "content_hash": "9b5b858ed7df758249d44daf4b43581a16e7830f56b7833967bc90d8f9802662",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:08.511367+00:00",
+    "telegram_message_id": 1009,
+    "eitaa_last_sent_at": "2026-10-23T18:28:09.350995+00:00",
+    "eitaa_message_id": 177960605,
+    "group_last_sent_at": "2026-10-23T18:28:09.773053+00:00",
+    "group_message_id": 739,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:09.782199+00:00"
   },
   "8446b69f504eccf0928c72b1d831dbee27c4d027e7f3755a1d75f0e28bfcc3e9": {
     "title": "بورس آمریکا ریخت",
     "source": "تابناک",
     "link": "https://www.tabnak.ir/fa/news/1399939/بورس-آمریکا-ریخت",
     "telegram_message_ids": [
-      null
+      1010
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960609
+    ],
+    "group_message_ids": [
+      740
+    ],
     "content_hash": "c45fe4edd3560ed95aadcf237ecea05c442d05dcbda0bad27b4f95f79b70d6fd",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:10.176075+00:00",
+    "telegram_message_id": 1010,
+    "eitaa_last_sent_at": "2026-10-23T18:28:11.215321+00:00",
+    "eitaa_message_id": 177960609,
+    "group_last_sent_at": "2026-10-23T18:28:11.642179+00:00",
+    "group_message_id": 740,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:11.651375+00:00"
   },
   "d58387301f0dcd1583f516e4b06688403cf3e48c001bd6e3ef70c21cf8a2b6a0": {
     "title": "افت شاخص بورس عربستان در پی عملیات ارتش یمن",
     "source": "مهر",
     "link": "https://www.mehrnews.com/news/6986738/%D8%A7%D9%81%D8%AA-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%A7%D8%B1%D8%AA%D8%B4-%DB%8C%D9%85%D9%86",
     "telegram_message_ids": [
-      null
+      1011
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960617
+    ],
+    "group_message_ids": [
+      741
+    ],
     "content_hash": "0c6de1f8e325ebd438dad1ec29c531ab0077f6617b29365402c54af4d7f8f373",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:12.105781+00:00",
+    "telegram_message_id": 1011,
+    "eitaa_last_sent_at": "2026-10-23T18:28:13.246342+00:00",
+    "eitaa_message_id": 177960617,
+    "group_last_sent_at": "2026-10-23T18:28:13.700368+00:00",
+    "group_message_id": 741,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:13.709482+00:00"
   },
   "3e3eb68ca74ede4700b6cc7e54beae5098122162a403c70e7b8221a78c61c554": {
     "title": "فوری/ انفجار جدید در تنگۀ هرمز/ قیمت نفت به ۱۱۳ دلار رسید",
     "source": "دنیای اقتصاد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303578-%D9%81%D9%88%D8%B1%DB%8C-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF-%D9%87%D8%B1%D9%85%D8%B2-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
     "telegram_message_ids": [
-      null
+      1012
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960621
+    ],
+    "group_message_ids": [
+      742
+    ],
     "content_hash": "ac3aa1e015332c288b42b9d926bdaa9702ffa68b603d261f383dcad9add404ee",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:14.107110+00:00",
+    "telegram_message_id": 1012,
+    "eitaa_last_sent_at": "2026-10-23T18:28:14.675119+00:00",
+    "eitaa_message_id": 177960621,
+    "group_last_sent_at": "2026-10-23T18:28:15.163151+00:00",
+    "group_message_id": 742,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:15.172210+00:00"
   },
   "352092b4530a94676eddf665facc72a76812518ffb2a57ae80acd4c02aa2386d": {
     "title": "دفاع ترامپ از حمله به ایران/میهن پرستان واقعی، جنگ با ایران را واقعا دوست دارند",
     "source": "دنیای اقتصاد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303576-%D8%AF%D9%81%D8%A7%D8%B9-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%DB%8C%D9%87%D9%86-%D9%BE%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%88%D8%A7%D9%82%D8%B9%D8%A7-%D8%AF%D9%88%D8%B3%D8%AA-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
     "telegram_message_ids": [
-      null
+      1013
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960627
+    ],
+    "group_message_ids": [
+      743
+    ],
     "content_hash": "5205be89c6ee773c6ca8cebfd564504def53bbd6adbd6d0889de32c3805d4d6d",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:15.590356+00:00",
+    "telegram_message_id": 1013,
+    "eitaa_last_sent_at": "2026-10-23T18:28:16.743888+00:00",
+    "eitaa_message_id": 177960627,
+    "group_last_sent_at": "2026-10-23T18:28:17.194117+00:00",
+    "group_message_id": 743,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:17.203590+00:00"
   },
   "8ac85d19180f3cdd5612a27cf784012438a237906f408f9c91dd03e21f21111a": {
     "title": "نکویی مجد نخستین طلای روز پنجم را گرفت/ مدال نقره برای بیگ رضایی",
     "source": "مهر",
     "link": "https://www.mehrnews.com/news/6986776/%D9%86%DA%A9%D9%88%DB%8C%DB%8C-%D9%85%D8%AC%D8%AF-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D9%85-%D8%B1%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA-%D9%85%D8%AF%D8%A7%D9%84-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%DB%8C%DA%AF-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C",
     "telegram_message_ids": [
-      null
+      1014
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960631
+    ],
+    "group_message_ids": [
+      744
+    ],
     "content_hash": "3a0d1de794a9f8f824d499f40fc4fb4013aaac347eac8d90553def4615ccb9d2",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:17.615884+00:00",
+    "telegram_message_id": 1014,
+    "eitaa_last_sent_at": "2026-10-23T18:28:18.686856+00:00",
+    "eitaa_message_id": 177960631,
+    "group_last_sent_at": "2026-10-23T18:28:19.288060+00:00",
+    "group_message_id": 744,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:19.297413+00:00"
   },
   "c0cb141cbbfb46e7971701809766af374ef3fb7ed5bf6a52cc393581ad354702": {
     "title": "سکوی پرتاب دیسک مردان در تسخیر ایرانی ها/ اولاد طلا گرفت، باجولوند و علیپور نقره و برنز",
     "source": "ایسنا",
     "link": "https://www.isna.ir/news/1405080100018/%D8%B3%DA%A9%D9%88%DB%8C-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8-%D8%AF%DB%8C%D8%B3%DA%A9-%D9%85%D8%B1%D8%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%B3%D8%AE%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%A7%D9%88%D9%84%D8%A7%D8%AF-%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA-%D8%A8%D8%A7%D8%AC%D9%88%D9%84%D9%88%D9%86%D8%AF",
     "telegram_message_ids": [
-      null
+      1015
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960637
+    ],
+    "group_message_ids": [
+      745
+    ],
     "content_hash": "26c6b2e72cd7581ae7dee6a24da651876b013f5513aca866ee750acacd43ae51",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:19.710971+00:00",
+    "telegram_message_id": 1015,
+    "eitaa_last_sent_at": "2026-10-23T18:28:20.824916+00:00",
+    "eitaa_message_id": 177960637,
+    "group_last_sent_at": "2026-10-23T18:28:21.252552+00:00",
+    "group_message_id": 745,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:21.261779+00:00"
   },
   "76bcbba735b8d5ab1f6082a60c6969e79d5e4b9a31b3cc3ad417f164caeb5736": {
     "title": "نخستین طلای ایران در روز پنجم/ دو نقره و یک برنز در پارادوومیدانی",
     "source": "ایسنا",
     "link": "https://www.isna.ir/news/1405080100017/%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D9%85-%D8%AF%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D9%88-%DB%8C%DA%A9-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AF%D8%B1-%D9%BE%D8%A7%D8%B1%D8%A7%D8%AF%D9%88%D9%88%D9%85%DB%8C%D8%AF%D8%A7%D9%86%DB%8C",
     "telegram_message_ids": [
-      null
+      1016
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960644
+    ],
+    "group_message_ids": [
+      746
+    ],
     "content_hash": "eb5631836ad3d2f378a15302629c87429458c825ce30f951aa67ccd947806e1b",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:21.723629+00:00",
+    "telegram_message_id": 1016,
+    "eitaa_last_sent_at": "2026-10-23T18:28:25.155447+00:00",
+    "eitaa_message_id": 177960644,
+    "group_last_sent_at": "2026-10-23T18:28:25.574960+00:00",
+    "group_message_id": 746,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:25.584329+00:00"
   },
   "f25ab0b16facb95158fef460320d38e6b9c8ee287eaf3cb5d8e87fa3cd5da50c": {
     "title": "طلا و نقره پرتاب وزنه بانوان به ایران رسید",
     "source": "مهر",
     "link": "https://www.mehrnews.com/news/6986783/%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8-%D9%88%D8%B2%D9%86%D9%87-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
     "telegram_message_ids": [
-      null
+      1017
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960650
+    ],
+    "group_message_ids": [
+      747
+    ],
     "content_hash": "75468018d72d7c0a848b531d9b4c2d08daeb0458c3ef278cacdcf9ef569a388d",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:25.988348+00:00",
+    "telegram_message_id": 1017,
+    "eitaa_last_sent_at": "2026-10-23T18:28:27.096216+00:00",
+    "eitaa_message_id": 177960650,
+    "group_last_sent_at": "2026-10-23T18:28:27.493709+00:00",
+    "group_message_id": 747,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:27.502877+00:00"
   },
   "6aa86f7e2b60928db11b9ed4936fbbb076e6a6206426b7f9d5217f0dbe0d9161": {
     "title": "قیمت طلا امروز جمعه ۱ آبان ۱۴۰۵/ کاهش قیمت طلا",
     "source": "دنیای اقتصاد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303583-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AC%D9%85%D8%B9%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
     "telegram_message_ids": [
-      null
+      1018
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960654
+    ],
+    "group_message_ids": [
+      748
+    ],
     "content_hash": "01772e4784f9017c2fa4cb7953b1d18994945699be356dcde54b04a759ff2dc1",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:27.905653+00:00",
+    "telegram_message_id": 1018,
+    "eitaa_last_sent_at": "2026-10-23T18:28:28.499377+00:00",
+    "eitaa_message_id": 177960654,
+    "group_last_sent_at": "2026-10-23T18:28:28.907973+00:00",
+    "group_message_id": 748,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:28.917137+00:00"
   },
   "57ab6341c8ad7031475240d5a8c34aa10ce9ac85ef2e90fab1fa0b8ff8e001b2": {
     "title": "ظرفیت ۸.۵ میلیارد دلاری صادرات بخش کشاورزی",
     "source": "مهر",
     "link": "https://www.mehrnews.com/news/6986635/%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%DB%B8-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C",
     "telegram_message_ids": [
-      null
+      1019
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960657
+    ],
+    "group_message_ids": [
+      749
+    ],
     "content_hash": "d6a4802ee28c2dc0829d5f1b9e445c714eb54bff79ae4cb0a362c9fdeb4087ca",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:29.281412+00:00",
+    "telegram_message_id": 1019,
+    "eitaa_last_sent_at": "2026-10-23T18:28:29.870386+00:00",
+    "eitaa_message_id": 177960657,
+    "group_last_sent_at": "2026-10-23T18:28:30.258104+00:00",
+    "group_message_id": 749,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:30.267440+00:00"
   },
   "aa077ae64e97e01fcb9784aa78294d362af21bd329aa33e97d58a58a2a02a36f": {
     "title": "قیمت سکه امروز اول آبان ۱۴۰۵/ نیم سکه 141 میلیون و ۹۰۰ هزار تومان شد + جدول",
     "source": "خبرآنلاین اقتصادی",
     "link": "https://www.khabaronline.ir/news/2291879/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A7%D9%88%D9%84-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-141-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B9%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
     "telegram_message_ids": [
-      null
+      1020
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960661
+    ],
+    "group_message_ids": [
+      750
+    ],
     "content_hash": "812e39372cffcf0624544ef4502110b235f8f00aff4e5f7f1ad3747f8b8eaf20",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:30.661301+00:00",
+    "telegram_message_id": 1020,
+    "eitaa_last_sent_at": "2026-10-23T18:28:31.771408+00:00",
+    "eitaa_message_id": 177960661,
+    "group_last_sent_at": "2026-10-23T18:28:32.233543+00:00",
+    "group_message_id": 750,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:32.242878+00:00"
   },
   "885d7b99230ff79e0fba1577794780b725f03c5ae08e752a066faf8e77f4b091": {
     "title": "جزئیات قرارداد محرمانه ترامپ برای چپاول نفت ونزوئلا",
     "source": "تابناک",
     "link": "https://www.tabnak.ir/fa/news/1399953/جزئیات-قرارداد-محرمانه-ترامپ-برای-چپاول-نفت-ونزوئلا",
     "telegram_message_ids": [
-      null
+      1021
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960666
+    ],
+    "group_message_ids": [
+      751
+    ],
     "content_hash": "dcb4b707745d92f63f7db80f47da55ce876387c758f3d08d2c7bb5eadb597337",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:32.669277+00:00",
+    "telegram_message_id": 1021,
+    "eitaa_last_sent_at": "2026-10-23T18:28:33.248171+00:00",
+    "eitaa_message_id": 177960666,
+    "group_last_sent_at": "2026-10-23T18:28:33.636753+00:00",
+    "group_message_id": 751,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:33.646098+00:00"
   },
   "b92a8d1a53ef61bfe420beb69820ec270279d58b42dd3814c9909705ab345511": {
     "title": "روز پرمدال خوزستانی ها در پاراآسیایی ناگویا/ از طلای صالحی تا نقره حنان و حدیدی",
     "source": "ایسنا",
     "link": "https://www.isna.ir/news/1405080100026/%D8%B1%D9%88%D8%B2-%D9%BE%D8%B1%D9%85%D8%AF%D8%A7%D9%84-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%BE%D8%A7%D8%B1%D8%A7%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7-%D8%A7%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B5%D8%A7%D9%84%D8%AD%DB%8C-%D8%AA%D8%A7",
     "telegram_message_ids": [
-      null
+      1022
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960672
+    ],
+    "group_message_ids": [
+      752
+    ],
     "content_hash": "a0b773a2b500ce2e47174f12e02785a86a1059ec79036c19a6edd8344675ec95",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:34.022422+00:00",
+    "telegram_message_id": 1022,
+    "eitaa_last_sent_at": "2026-10-23T18:28:35.084221+00:00",
+    "eitaa_message_id": 177960672,
+    "group_last_sent_at": "2026-10-23T18:28:35.490362+00:00",
+    "group_message_id": 752,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:35.499901+00:00"
   },
   "d49474fba4d9ef63dae332fa0c9799e2cd0fe8673d1e700525c577e58af09325": {
     "title": "قیمت طلا امروز اول آبان ۱۴۰۵/ مثقال طلا ۱.۵۳۸.۰۰۰ هزار تومان گران شد + جدول",
     "source": "خبرآنلاین اقتصادی",
     "link": "https://www.khabaronline.ir/news/2291878/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A7%D9%88%D9%84-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%DB%B1-%DB%B5%DB%B3%DB%B8-%DB%B0%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
     "telegram_message_ids": [
-      null
+      1023
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960676
+    ],
+    "group_message_ids": [
+      753
+    ],
     "content_hash": "59f6fdda7977270b60a12d6d2b51a1fb026854064b59715b9d11055104b6368f",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:35.901504+00:00",
+    "telegram_message_id": 1023,
+    "eitaa_last_sent_at": "2026-10-23T18:28:36.477036+00:00",
+    "eitaa_message_id": 177960676,
+    "group_last_sent_at": "2026-10-23T18:28:36.914816+00:00",
+    "group_message_id": 753,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:36.924270+00:00"
   },
   "fc24c37d4cd514fcd462c9800d5dd2a473aec194f46403179fc1182d06f52694": {
     "title": "نفت ۱۱۴ دلار شد",
     "source": "خبرآنلاین اقتصادی",
     "link": "https://www.khabaronline.ir/news/2291889/%D9%86%D9%81%D8%AA-%DB%B1%DB%B1%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF",
     "telegram_message_ids": [
-      null
+      1024
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960679
+    ],
+    "group_message_ids": [
+      754
+    ],
     "content_hash": "450a7f6e06f5316d45946c704831401033158f42f61ec1785723ed019cff5299",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:37.321913+00:00",
+    "telegram_message_id": 1024,
+    "eitaa_last_sent_at": "2026-10-23T18:28:37.918495+00:00",
+    "eitaa_message_id": 177960679,
+    "group_last_sent_at": "2026-10-23T18:28:38.315059+00:00",
+    "group_message_id": 754,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:38.324540+00:00"
   },
   "4c8dcec4749510af6684bbb6356356a5e59923527e0aa90a225d297ec84744fd": {
     "title": "پیش بینی قیمت طلا و سکه در آبان ۱۴۰۵ / طلا به سمت قله ۲۸ میلیونی خیز برداشت / سکه برای فتح کانال ۲۸۰ میلیونی آماده می شود؟",
     "source": "دنیای اقتصاد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303590-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D8%B1-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D8%B3%D9%85%D8%AA-%D9%82%D9%84%D9%87-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%AE%DB%8C%D8%B2-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B4%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%AA%D8%AD-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
     "telegram_message_ids": [
-      null
+      1025
     ],
-    "eitaa_message_ids": [],
-    "group_message_ids": [],
+    "eitaa_message_ids": [
+      177960684
+    ],
+    "group_message_ids": [
+      755
+    ],
     "content_hash": "2e0b5f5e672fbc9e99859c586552e129a7edf6a08c5a43e8c22ccfbc0e5cd650",
-    "expected_parts": 1
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T18:28:38.766081+00:00",
+    "telegram_message_id": 1025,
+    "eitaa_last_sent_at": "2026-10-23T18:28:39.789421+00:00",
+    "eitaa_message_id": 177960684,
+    "group_last_sent_at": "2026-10-23T18:28:40.213216+00:00",
+    "group_message_id": 755,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T18:28:40.222733+00:00"
   },
   "bf0e9e1243aca50858a5e5d2f93850f77c2d5d4b9a003d105919cc7c43581043": {
     "title": "قیمت دلار، یورو و انواع ارزها امروز اول آبان ۱۴۰۵/ یورو ۳۰۵ هزار تومان قیمت خورد + جدول",
@@ -4981,6 +5221,18 @@
     "eitaa_message_ids": [],
     "group_message_ids": [],
     "content_hash": "93e21a97a3b26db88460852c399a3d587ed5961977db98fa617aa3b599b2bb10",
+    "expected_parts": 1
+  },
+  "73a7645bb9e43fa16fc37330068f49747adec0d2e7fcf950604e2b2e92f219ae": {
+    "title": "پیش بینی بورس فردا شنبه ۲ آبان ۱۴۰۵/ محرک احتمالی بورس برای فردا/ بازار سرمایه هفته را سبزپوش آغاز می کند؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303720-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%81%D8%B1%D8%AF%D8%A7-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D9%85%D8%AD%D8%B1%DA%A9-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1%D8%AF%D8%A7-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%87%D9%81%D8%AA%D9%87-%D8%B1%D8%A7-%D8%B3%D8%A8%D8%B2%D9%BE%D9%88%D8%B4-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+    "telegram_message_ids": [
+      null
+    ],
+    "eitaa_message_ids": [],
+    "group_message_ids": [],
+    "content_hash": "db0030b84c95ac0547f72a1dd2b11d53783dc2160c300ed5e1f47708aca5ea77",
     "expected_parts": 1
   }
 }
