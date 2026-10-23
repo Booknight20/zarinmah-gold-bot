@@ -4892,5 +4892,49 @@
     ],
     "ranking_applied": true,
     "duplicate_count": 1
+  },
+  {
+    "source": "ایسنا",
+    "title": "ایستادن زیر پرچم جمهوری اسلامی ایران با هیچ سرمایه ای قابل معاوضه نیست",
+    "link": "https://www.isna.ir/news/1405080100356/%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%D9%86-%D8%B2%DB%8C%D8%B1-%D9%BE%D8%B1%DA%86%D9%85-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D9%87%DB%8C%DA%86-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%A7%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B9%D8%A7%D9%88%D8%B6%D9%87",
+    "summary": "مربی و داور بین المللی و دارنده نشان درجه یک ورزش در سطح کشور،با اشاره به دریافت پیشنهادهای وسوسه انگیز چند ده میلیارد دلاری از سوی کشورهای مختلف جهان برای جذب نفر اول آمادگی جسمانی جهان، تأکید کرد:ایستادن زیر پرچم مقدس جمهوری اسلامی ایران با هیچ سرمایه ای قابل معاوضه نیست.درست است بنده وضعیت مالی مطلوبی ندارم؛اما با صبر و توکل به خداوند متعال و ائمه اطهار (ع) مسیر خود را با قدرت ادامه می دهم.",
+    "published": "Fri, 23 Oct 2026 19:41:26 GMT",
+    "collected_at": "2026-10-23T23:15:38.456030+03:30",
+    "filter_market_score": 4,
+    "market_score": 6,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
   }
 ]
