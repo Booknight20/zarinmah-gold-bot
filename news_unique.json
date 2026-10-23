@@ -170,67 +170,78 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "قیمت سکه، نیم سکه و ربع سکه امروز پنجشنبه ۳۰ مهر ۱۴۰۵ / قیمت سکه صعودی شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303484-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D9%85%D9%87%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%B4%D8%AF",
-    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت سکه امامی امروز با افزایش، در نرخ 273 میلیون و 600 هزار تومان در معامله بود.",
-    "published": "Thu, 22 Oct 2026 10:51:26 +0000",
-    "collected_at": "2026-10-22T15:14:15.034668+03:30",
-    "filter_market_score": 24,
+    "title": "موج کاهشی بازارهای جهانی",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4303693-%D9%85%D9%88%D8%AC-%DA%A9%D8%A7%D9%87%D8%B4%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+    "summary": "فروکش کردن تب هوش مصنوعی و بازگشت سایه سنگین تورم، دومینوی ریزش را در بازارهای جهانی به حرکت درآورده است. افت سنگین سهام شرکت های فناوری آمریکا در وال استریت، بلافاصله به بازار رمزارزها سرریز شد و بیت کوین را با ریزش قیمت به مرز ۸۱هزار دلار رساند. از سوی دیگر با پیشروی قیمت نفت در سطوح بالای 100دلار، طلای جهانی که در هفته های گذشته در کانال 4100دلاری تثبیت شده بود، به کمتر از 4هزار دلار به ازای هر اونس رسید.",
+    "published": "Fri, 23 Oct 2026 20:30:00 +0000",
+    "collected_at": "2026-10-24T00:15:41.793538+03:30",
+    "filter_market_score": 27,
     "market_score": 32,
     "market_matches": {
       "gold": [
-        "سکه",
-        "نیم سکه",
-        "ربع سکه",
         "طلا",
-        "سکه امامی"
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
       ]
     },
-    "title_market_matches": {
-      "gold": [
-        "سکه",
-        "نیم سکه",
-        "ربع سکه"
-      ]
-    },
+    "title_market_matches": {},
     "summary_market_matches": {
       "gold": [
         "طلا",
-        "سکه",
-        "سکه امامی"
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
       ]
     },
     "full_text_market_matches": {},
-    "driver_matches": [],
+    "driver_matches": [
+      "تورم",
+      "قیمت نفت",
+      "نفت"
+    ],
     "major_event_matches": [],
     "signal_matches": [
-      "صعود",
-      "قیمت",
-      "افزایش",
-      "نرخ"
+      "کاهش",
+      "افت",
+      "ریزش",
+      "قیمت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "high",
     "filter_score_bonus": 6,
     "gold_matches": [
-      "سکه",
-      "نیم سکه",
-      "ربع سکه",
       "طلا",
-      "سکه امامی"
+      "طلای جهانی"
     ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [
+      "سهام"
+    ],
+    "high_impact_matches": [
+      "تورم",
+      "قیمت نفت"
+    ],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
-    "market_count": 1,
+    "market_count": 3,
     "ranking_reasons": [
-      "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -763,6 +774,75 @@
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "صورت حساب یک تریلیون دلاری امنیت انرژی",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4303728-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8-%DB%8C%DA%A9-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A7%D9%86%D8%B1%DA%98%DB%8C",
+    "summary": "دنیای اقتصاد: آسیا باید در ۱۵سال آینده سالانه تا یک تریلیون دلار در امنیت انرژی سرمایه گذاری کند. این برآورد گزارش تازه معتبرترین شرکت مشاور مدیریت جهانی مک کنزی است که جمعه 23اکتبر منتشر شد. دلیل اصلی هم روشن است: جنگ علیه ایران جریان نفت و گاز را از تنگه هرمز مختل کرده و کشورهای آسیایی که بیشترین وابستگی را به واردات دارند، ناگهان فهمیدند امنیت انرژی دیگر شعار نیست و هزینه ای است که باید پرداخت شود. مک کنزی پیش بینی خود از تقاضای انرژی آسیا در سال۲۰۴۰ را به ۳۷۰ میلیون تراژول رسانده، یعنی ۱۵درصد بیش از برآورد یک سال پیش.",
+    "published": "Fri, 23 Oct 2026 20:30:00 +0000",
+    "collected_at": "2026-10-24T00:15:41.793704+03:30",
+    "filter_market_score": 23,
+    "market_score": 30,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نفت",
+      "واردات"
+    ],
+    "major_event_matches": [
+      "جنگ",
+      "تنگه هرمز"
+    ],
+    "signal_matches": [
+      "پیش‌بینی",
+      "پیش بینی",
+      "تقاضا",
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ",
+      "تنگه هرمز"
+    ],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -1958,6 +2038,66 @@
     "duplicate_count": 1
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "شمارش معکوس نفت برای جنگ؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4303724-%D8%B4%D9%85%D8%A7%D8%B1%D8%B4-%D9%85%D8%B9%DA%A9%D9%88%D8%B3-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D9%86%DA%AF",
+    "summary": "قیمت نفت برنت روز جمعه 23اکتبر از مرز ۱17دلار در هر بشکه عبور کرد؛ سطحی که از ۴مه، یعنی زمان ثبت رکورد چهار ساله ۱۱۴.۴۴ دلار، تاکنون مشاهده نشده بود. اما این جهش بیش از آنکه نشانه کمبود نفت باشد، نشانه ترس است و همین نکته کلید فهم آن است. دو خبر همزمان قیمت را بالا کشیدند. نخست، حوثی های یمن مسوولیت حملات تازه به بندر ینبع در دریای سرخ را بر عهده گرفته و به یک میدان نفتی و یک فرودگاه در عربستان، بزرگ ترین صادرکننده نفت جهان، ضربات مرگباری زدند. دوم، گزارش ها از آن حکایت دارد که آمریکا و اسرائیل برای تهاجم نظامی مجدد علیه ایران پس از انتخابات میان دوره ای نقشه کشیده اند و زیرساخت های انرژی ایران احتمالا هدف اصلی آن خواهد بود. با این همه، آنچه قیمت ها را بالا برده کمبود فیزیکی نیست.",
+    "published": "Fri, 23 Oct 2026 20:30:00 +0000",
+    "collected_at": "2026-10-24T00:15:41.793635+03:30",
+    "filter_market_score": 15,
+    "market_score": 22,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [
+      "جهش",
+      "رکورد",
+      "قیمت",
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ",
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "نفت ۱۱۴ دلار شد",
     "link": "https://www.khabaronline.ir/news/2291889/%D9%86%D9%81%D8%AA-%DB%B1%DB%B1%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF",
@@ -2297,6 +2437,62 @@
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "عامل اقتصادی",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "بازگشت مسکن به خط دلار",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%85%D8%B3%DA%A9%D9%86-%D8%B4%D9%87%D8%B1%DB%8C-18/4303740-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%85%D8%B3%DA%A9%D9%86-%D8%A8%D9%87-%D8%AE%D8%B7-%D8%AF%D9%84%D8%A7%D8%B1",
+    "summary": "قیمت مسکن در ماه گذشته بالاترین رشد نقطه ای 13.5سال اخیر را تجربه کرد. بررسی های «دنیای اقتصاد» نشان می دهد، این افزایش بیشتر از آنچه ناشی از «عمق بخشی به معاملات از سمت خریداران» باشد، نتیجه انعکاس بخشی از انتظارات تورمی به بازار ملک است.",
+    "published": "Fri, 23 Oct 2026 20:30:00 +0000",
+    "collected_at": "2026-10-24T00:15:41.793450+03:30",
+    "filter_market_score": 12,
+    "market_score": 20,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تورم"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "رشد",
+      "قیمت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تورم"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -2995,56 +3191,6 @@
     "summary": "حاصل تلاش ورزشکاران ایران در روز چهارم بازی های پاراآسیایی 2026 ناگویا، کسب 5 طلا، 11 نقره و 6 برنز بود.",
     "published": "22 Oct 2026 17:40:21 +0330",
     "collected_at": "2026-10-22T18:15:54.567507+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "تابناک",
-    "title": "باز هم طلا و نقره در پاراشنای ناگویا تکرار شد",
-    "link": "https://www.tabnak.ir/fa/news/1399874/باز-هم-طلا-و-نقره-در-پاراشنای-ناگویا-تکرار-شد",
-    "summary": "سینا ضیغمی نژاد و شاهین ایزدیار در رقابت های پاراشنای بازی های پاراآسیایی ناگویا ۲۰۲۶ به ترتیب مدال طلا و نقره را کسب کردند. ضیغمی نژاد تاکنون سه مدال طلا در این رقابت ها به دست آورده است.",
-    "published": "22 Oct 2026 14:59:28 +0330",
-    "collected_at": "2026-10-22T15:14:25.888014+03:30",
     "filter_market_score": 10,
     "market_score": 16,
     "market_matches": {
@@ -4617,141 +4763,6 @@
     "summary": "کاروان ایران در پایان روز چهارم بازی های پاراآسیایی ناگویا صاحب ۱۹ مدال طلا، ۲۹ نقره و ۳۲ برنز شد و در رده ششم قرار گرفت.",
     "published": "Thu, 22 Oct 2026 12:40:00 GMT",
     "collected_at": "2026-10-22T16:17:19.318055+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مشرق",
-    "title": "دو شناگر ایران در نیم ساعت ۴ مدال گرفتند",
-    "link": "https://www.mashreghnews.ir/news/1847331/%D8%AF%D9%88-%D8%B4%D9%86%D8%A7%DA%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%D8%A7%D8%B9%D8%AA-%DB%B4-%D9%85%D8%AF%D8%A7%D9%84-%DA%AF%D8%B1%D9%81%D8%AA%D9%86%D8%AF",
-    "summary": "سینا ضیغمی نژاد و شاهین ایزدیار با تکرار مدال های طلا و نقره در دو ماده شنای بازی های پاراآسیایی ناگویا، بار دیگر سکوی نخست و دوم را به ایران اختصاص دادند.",
-    "published": "Thu, 22 Oct 2026 11:36:52 GMT",
-    "collected_at": "2026-10-22T15:14:28.381287+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "استقبال مردم ساری از قهرمان کشتی آزاد زیر ۲۳ سال جهان",
-    "link": "https://www.mehrnews.com/news/6986370/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%85%D8%B1%D8%AF%D9%85-%D8%B3%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%B2%DB%8C%D8%B1-%DB%B2%DB%B3-%D8%B3%D8%A7%D9%84-%D8%AC%D9%87%D8%A7%D9%86",
-    "summary": "ساری- «اهورا خاطری» قهرمان کشتی آزاد زیر ۲۳ سال جهان، پس از کسب مدال طلای رقابت های جهانی در لاس وگاس آمریکا، با استقبال پرشور مردم ورزش دوست ساری به زادگاهش بازگشت.",
-    "published": "Thu, 22 Oct 2026 11:26:34 GMT",
-    "collected_at": "2026-10-22T15:14:07.260354+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "حسن یزدانی ۶ مدال دیگر خود را به موزه افتخارات اهدا کرد",
-    "link": "https://www.mehrnews.com/news/6986384/%D8%AD%D8%B3%D9%86-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%DB%B6-%D9%85%D8%AF%D8%A7%D9%84-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%85%D9%88%D8%B2%D9%87-%D8%A7%D9%81%D8%AA%D8%AE%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%87%D8%AF%D8%A7-%DA%A9%D8%B1%D8%AF",
-    "summary": "دارنده ۱۰ مدال طلا، نقره و برنز جهان و المپیک، ۶ مدال از رقابت های بین المللی خود را به موزه افتخارات کشتی ایران تقدیم کرد.",
-    "published": "Thu, 22 Oct 2026 11:38:10 GMT",
-    "collected_at": "2026-10-22T15:14:07.260290+03:30",
     "filter_market_score": 4,
     "market_score": 8,
     "market_matches": {

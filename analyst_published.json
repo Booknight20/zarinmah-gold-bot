@@ -9257,5 +9257,69 @@
     "group_sent_at": "2026-10-23T23:55:46.474878+03:30",
     "group_message_id": 837,
     "published_at": "2026-10-23T23:55:46.484244+03:30"
+  },
+  "https://t.me/drarashamini/7251": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "کانال 8 تلویزیون اقلیم کردستان عراق:",
+      "summary": "کانال 8 تلویزیون اقلیم کردستان عراق:\n\nایالات متحده، دولت عراق را از احتمال انجام یک حمله نظامی قریب‌الوقوع علیه ایران مطلع کرده است.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "کانال 8 تلویزیون اقلیم کردستان عراق:\n\nایالات متحده، دولت عراق را از احتمال انجام یک حمله نظامی قریب‌الوقوع علیه ایران مطلع کرده است.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7251",
+      "analysis_score": 10,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "احتمال"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال"
+      ],
+      "priority": "medium",
+      "content_length": 257,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-24T00:16:08.476797+03:30"
+    },
+    "content_signature": "908a6625fad42c2b5560b8ef227b52b07ccbe14f2549c926966fd9d09436dbfe",
+    "first_seen_at": "2026-10-24T00:16:30.667983+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1112
+    ],
+    "telegram_last_success_at": "2026-10-24T00:16:31.251186+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-24T00:16:31.262082+03:30",
+    "telegram_message_id": 1112,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      177975716
+    ],
+    "eitaa_last_success_at": "2026-10-24T00:16:36.099740+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-24T00:16:36.111782+03:30",
+    "eitaa_message_id": 177975716,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      842
+    ],
+    "group_last_success_at": "2026-10-24T00:16:36.670519+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-24T00:16:36.681688+03:30",
+    "group_message_id": 842,
+    "published_at": "2026-10-24T00:16:36.689455+03:30"
   }
 }
