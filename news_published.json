@@ -6710,5 +6710,29 @@
     "group_message_id": 825,
     "fully_published": true,
     "last_checked_at": "2026-10-23T20:03:35.804168+00:00"
+  },
+  "07e80828bc7af0599417af4fec5e1d84b703db357a8e5a30da4f1d60741171cd": {
+    "title": "توییت معنادار سخنگوی سپاه درباره قیمت نفت و تحولات تنگه هرمز",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080100364/%D8%AA%D9%88%DB%8C%DB%8C%D8%AA-%D9%85%D8%B9%D9%86%D8%A7%D8%AF%D8%A7%D8%B1-%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%B3%D9%BE%D8%A7%D9%87-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D9%88-%D8%AA%D8%AD%D9%88%D9%84%D8%A7%D8%AA-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
+    "telegram_message_ids": [
+      1096
+    ],
+    "eitaa_message_ids": [
+      177971881
+    ],
+    "group_message_ids": [
+      826
+    ],
+    "content_hash": "a5ba3295ceac749f456b15040f5c1cd44e2f87775a4ca24042006cba03f985b8",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T20:17:55.553561+00:00",
+    "telegram_message_id": 1096,
+    "eitaa_last_sent_at": "2026-10-23T20:17:57.580137+00:00",
+    "eitaa_message_id": 177971881,
+    "group_last_sent_at": "2026-10-23T20:17:59.356209+00:00",
+    "group_message_id": 826,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T20:17:59.367908+00:00"
   }
 }
