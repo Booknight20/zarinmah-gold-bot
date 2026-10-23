@@ -1233,6 +1233,70 @@
     "ranking_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "سقوط طلا به سمت کانال ۳ هزار دلاری",
+    "link": "https://www.mashreghnews.ir/news/1847457/%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D8%B3%D9%85%D8%AA-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
+    "summary": "قیمت طلا در معاملات امروز در مسیر ثبت شدیدترین افت هفتگی خود طی بیش از چهار ماه گذشته قرار گرفت.",
+    "published": "Fri, 23 Oct 2026 05:50:00 GMT",
+    "collected_at": "2026-10-23T09:27:31.507952+03:30",
+    "filter_market_score": 21,
+    "market_score": 28,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "سقوط",
+      "افت",
+      "قیمت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "تابناک",
     "title": "قیمت دلار امروز پنجشنبه ۳۰ مهرماه؛ افزایش هم زمان نرخ بازار و مرکز مبادله",
     "link": "https://www.tabnak.ir/fa/news/1399861/قیمت-دلار-امروز-پنجشنبه-30-مهرماه-افزایش-هم-زمان-نرخ-بازار-و-مرکز-مبادله",
