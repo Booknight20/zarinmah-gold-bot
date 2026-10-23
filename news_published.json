@@ -6854,5 +6854,53 @@
     "group_message_id": 848,
     "fully_published": true,
     "last_checked_at": "2026-10-23T21:44:37.031387+00:00"
+  },
+  "e7b9e3558b78cc27a034d7e64ff6b550fd3a95744dbe9be2097d51eaee255554": {
+    "title": "جهش ناگهانی قیمت نفت درپی تهدیدات ترامپ و تنش های منطقه ای",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6987476/%D8%AC%D9%87%D8%B4-%D9%86%D8%A7%DA%AF%D9%87%D8%A7%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1%D9%BE%DB%8C-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%D8%A7%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%88-%D8%AA%D9%86%D8%B4-%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      1119
+    ],
+    "eitaa_message_ids": [
+      177983597
+    ],
+    "group_message_ids": [
+      849
+    ],
+    "content_hash": "5df608a0acc60dc6e9c5c20a12110f37ebc13338cc0494665c49b600efb62de3",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T22:47:47.169648+00:00",
+    "telegram_message_id": 1119,
+    "eitaa_last_sent_at": "2026-10-23T22:47:48.468076+00:00",
+    "eitaa_message_id": 177983597,
+    "group_last_sent_at": "2026-10-23T22:47:50.207387+00:00",
+    "group_message_id": 849,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T22:47:50.219626+00:00"
+  },
+  "0b90ddd2d54501fdef23c60ef54f2eb44c4d2a1cb808a3b5fc0788e8de85ae40": {
+    "title": "واکنش نفت به حمله احتمالی آمریکا به ایران/ قیمت هر بشکه از 117 دلار عبور کرد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303784-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D8%AD%D9%85%D9%84%D9%87-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%B1-%D8%A8%D8%B4%DA%A9%D9%87-%D8%A7%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1120
+    ],
+    "eitaa_message_ids": [
+      177983601
+    ],
+    "group_message_ids": [
+      850
+    ],
+    "content_hash": "31cf35f5843f37f28651d021509cba682766167599681e8a4a942f554aaf3dfc",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-23T22:47:51.867758+00:00",
+    "telegram_message_id": 1120,
+    "eitaa_last_sent_at": "2026-10-23T22:47:53.111276+00:00",
+    "eitaa_message_id": 177983601,
+    "group_last_sent_at": "2026-10-23T22:47:54.892919+00:00",
+    "group_message_id": 850,
+    "fully_published": true,
+    "last_checked_at": "2026-10-23T22:47:54.904880+00:00"
   }
 }
