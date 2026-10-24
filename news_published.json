@@ -8150,5 +8150,101 @@
     "group_message_id": 918,
     "fully_published": true,
     "last_checked_at": "2026-10-24T10:46:47.650576+00:00"
+  },
+  "1a6ddd9b79d9c2c63e2ac8c3f987e62797e9bc21e08d8ec8769d5ecb4aa6fa74": {
+    "title": "واکنش حماس به یورش های اشغالگران در کرانه باختری",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080200842/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%AD%D9%85%D8%A7%D8%B3-%D8%A8%D9%87-%DB%8C%D9%88%D8%B1%D8%B4-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B4%D8%BA%D8%A7%D9%84%DA%AF%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%A7%D9%86%D9%87-%D8%A8%D8%A7%D8%AE%D8%AA%D8%B1%DB%8C",
+    "telegram_message_ids": [
+      1191
+    ],
+    "eitaa_message_ids": [
+      178064122
+    ],
+    "group_message_ids": [
+      921
+    ],
+    "content_hash": "240c0bfa4d4683c5c63f362ac3857fba1e5d55df527394fb5264624df409fc68",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T11:18:14.766391+00:00",
+    "telegram_message_id": 1191,
+    "eitaa_last_sent_at": "2026-10-24T11:18:16.021691+00:00",
+    "eitaa_message_id": 178064122,
+    "group_last_sent_at": "2026-10-24T11:18:17.833953+00:00",
+    "group_message_id": 921,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T11:18:17.847948+00:00"
+  },
+  "89a7405b6b71a07e44691dd475a3cdd8b811fe2fd55360d45fa1276d8852adcf": {
+    "title": "نحوه محاسبه قیمت طلا در زمان خرید و فروش",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6987887/%D9%86%D8%AD%D9%88%D9%87-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4",
+    "telegram_message_ids": [
+      1192
+    ],
+    "eitaa_message_ids": [
+      178064139
+    ],
+    "group_message_ids": [
+      922
+    ],
+    "content_hash": "e294893684b7d431b5cd719ec5be585e81a2cfa3502febc668524f3a698f6474",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T11:18:19.642088+00:00",
+    "telegram_message_id": 1192,
+    "eitaa_last_sent_at": "2026-10-24T11:18:20.794528+00:00",
+    "eitaa_message_id": 178064139,
+    "group_last_sent_at": "2026-10-24T11:18:22.565544+00:00",
+    "group_message_id": 922,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T11:18:22.579666+00:00"
+  },
+  "836ec5e2b5a9c805be889a060591b834d2a6a200b108689d8aa550160fedf381": {
+    "title": "بازدهی یک ساله صندوق مثقال آگاه به ۱۵۰ درصد رسید",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292429/%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84%D9%87-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A2%DA%AF%D8%A7%D9%87-%D8%A8%D9%87-%DB%B1%DB%B5%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      1193
+    ],
+    "eitaa_message_ids": [
+      178064152
+    ],
+    "group_message_ids": [
+      923
+    ],
+    "content_hash": "418377eab38f4991fb4f979ee8029865eee4f287a5f876d9f16ffcb9fce41375",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T11:18:24.369041+00:00",
+    "telegram_message_id": 1193,
+    "eitaa_last_sent_at": "2026-10-24T11:18:25.184721+00:00",
+    "eitaa_message_id": 178064152,
+    "group_last_sent_at": "2026-10-24T11:18:27.476251+00:00",
+    "group_message_id": 923,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T11:18:27.490179+00:00"
+  },
+  "58185a582a9971d271536e4b563b55661cf9dd1862500b28066d826e963b39f9": {
+    "title": "فرزانی، تحلیل گر حوزه پولی : عرضه ۱۰ هزار دلار به هر نفر توانست روند افزایشی نرخ ارز را متوقف کند و انتظارات روانی را تا حدی مهار کند",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2291412/%D9%81%D8%B1%D8%B2%D8%A7%D9%86%DB%8C-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%DA%AF%D8%B1-%D8%AD%D9%88%D8%B2%D9%87-%D9%BE%D9%88%D9%84%DB%8C-%D8%B9%D8%B1%D8%B6%D9%87-%DB%B1%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D9%87%D8%B1-%D9%86%D9%81%D8%B1-%D8%AA%D9%88%D8%A7%D9%86%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1194
+    ],
+    "eitaa_message_ids": [
+      178064163
+    ],
+    "group_message_ids": [
+      924
+    ],
+    "content_hash": "7b41805d0ddb2e8d6f375815c602f31252dd14067fbaf319ff546e7df55be494",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T11:18:29.358418+00:00",
+    "telegram_message_id": 1194,
+    "eitaa_last_sent_at": "2026-10-24T11:18:30.496014+00:00",
+    "eitaa_message_id": 178064163,
+    "group_last_sent_at": "2026-10-24T11:18:32.269030+00:00",
+    "group_message_id": 924,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T11:18:32.283105+00:00"
   }
 }

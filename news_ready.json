@@ -336,6 +336,78 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "فرزانی، تحلیل گر حوزه پولی : عرضه ۱۰ هزار دلار به هر نفر توانست روند افزایشی نرخ ارز را متوقف کند و انتظارات روانی را تا حدی مهار کند",
+    "link": "https://www.khabaronline.ir/news/2291412/%D9%81%D8%B1%D8%B2%D8%A7%D9%86%DB%8C-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%DA%AF%D8%B1-%D8%AD%D9%88%D8%B2%D9%87-%D9%BE%D9%88%D9%84%DB%8C-%D8%B9%D8%B1%D8%B6%D9%87-%DB%B1%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D9%87%D8%B1-%D9%86%D9%81%D8%B1-%D8%AA%D9%88%D8%A7%D9%86%D8%B3%D8%AA",
+    "summary": "فرزانی، تحلیل گر حوزه پولی معتقد است : اقدام بانک مرکزی در عرضه ۱۰ هزار دلار به هر نفر توانست روند افزایشی نرخ ارز را متوقف کند و انتظارات روانی را تا حدی مهار کند؛برای ارزیابی میزان موفقیت این سیاست و سنجش پیامدهای آن هنوز زود است.",
+    "published": "Sat, 24 Oct 2026 11:00:00 GMT",
+    "collected_at": "2026-10-24T14:47:43.982536+03:30",
+    "filter_market_score": 31,
+    "market_score": 36,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "تحلیل",
+      "نرخ",
+      "عرضه",
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "فرزانی، تحلیل گر حوزه پولی معتقد است : اقدام بانک مرکزی در عرضه ۱۰ هزار دلار به هر نفر توانست روند افزایشی نرخ ارز را متوقف کند و انتظارات روانی را تا حدی مهار کند؛برای ارزیابی میزان موفقیت این سیاست و سنجش پیامدهای آن هنوز زود است.",
+    "telegram_preview": "📰 فرزانی، تحلیل گر حوزه پولی : عرضه ۱۰ هزار دلار به هر نفر توانست روند افزایشی نرخ ارز را متوقف کند و انتظارات روانی را تا حدی مهار کند\n\nفرزانی، تحلیل گر حوزه پولی معتقد است : اقدام بانک مرکزی در عرضه ۱۰ هزار دلار به هر نفر توانست روند افزایشی نرخ ارز را متوقف کند و انتظارات روانی را تا حدی مهار کند؛برای ارزیابی میزان موفقیت این سیاست و سنجش پیامدهای آن هنوز زود است.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2291412/%D9%81%D8%B1%D8%B2%D8%A7%D9%86%DB%8C-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%DA%AF%D8%B1-%D8%AD%D9%88%D8%B2%D9%87-%D9%BE%D9%88%D9%84%DB%8C-%D8%B9%D8%B1%D8%B6%D9%87-%DB%B1%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D9%87%D8%B1-%D9%86%D9%81%D8%B1-%D8%AA%D9%88%D8%A7%D9%86%D8%B3%D8%AA"
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۲ آبان ۱۴۰۵ در زمان بازگشایی بازار/ طلای ۱۸ عیار ۲۶ میلیون و ۱۷۶ هزار تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2292175/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8-%D8%B9%DB%8C%D8%A7%D8%B1",
     "summary": "قیمت طلا در بازار تهران امروز ۲ آبان ۱۴۰۵ اعلام شد و قیمت طلای ۱۸عیار امروز در زمان بازگشایی بازار ۲۶ میلیون و ۱۷۶ هزار تومان قیمت خورده که کاهش ۴۶۴ هزار تومانی را نشان می دهد.",
@@ -2029,68 +2101,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا ۳.۵ درصد ریزش کرد/ قیمت جدید طلای جهانی امروز اول آبان ۱۴۰۵",
-    "link": "https://www.khabaronline.ir/news/2291905/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%DB%B3-%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B1%DB%8C%D8%B2%D8%B4-%DA%A9%D8%B1%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A7%D9%88%D9%84-%D8%A2%D8%A8%D8%A7%D9%86",
-    "summary": "طلا از ابتدای هفته جاری میلادی حدود ۳.۵ درصد کاهش قیمت داشته است؛ افتی که در صورت تداوم تا پایان معاملات هفتگی، شدیدترین کاهش هفتگی آن از ژوئن ۲۰۲۶ خواهد بود.",
-    "published": "Fri, 23 Oct 2026 08:44:11 GMT",
-    "collected_at": "2026-10-23T12:17:30.914930+03:30",
-    "filter_market_score": 20,
-    "market_score": 24,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "ریزش",
-      "قیمت",
-      "کاهش",
-      "افت",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "طلای جهانی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "طلا از ابتدای هفته جاری میلادی حدود ۳.۵ درصد کاهش قیمت داشته است؛ افتی که در صورت تداوم تا پایان معاملات هفتگی، شدیدترین کاهش هفتگی آن از ژوئن ۲۰۲۶ خواهد بود.",
-    "telegram_preview": "📰 قیمت طلا ۳.۵ درصد ریزش کرد/ قیمت جدید طلای جهانی امروز اول آبان ۱۴۰۵\n\nطلا از ابتدای هفته جاری میلادی حدود ۳.۵ درصد کاهش قیمت داشته است؛ افتی که در صورت تداوم تا پایان معاملات هفتگی، شدیدترین کاهش هفتگی آن از ژوئن ۲۰۲۶ خواهد بود.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2291905/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%DB%B3-%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B1%DB%8C%D8%B2%D8%B4-%DA%A9%D8%B1%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A7%D9%88%D9%84-%D8%A2%D8%A8%D8%A7%D9%86"
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا ظهر امروز ۲ آبان ۱۴۰۵/ مثقال طلا ۱۱۳ میلیون و ۹۰ هزار تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2292312/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%DB%B1%DB%B1%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B9%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1",
     "summary": "قیمت طلا در بازار تهران امروز ۲ آبان ۱۴۰۵ اعلام شد و قیمت مثقال طلا ۱۱۳ میلیون و ۹۰ هزار تومان قیمت خورده است.",
@@ -2148,68 +2158,6 @@
     "duplicate_count": 1,
     "full_text": "قیمت طلا در بازار تهران امروز ۲ آبان ۱۴۰۵ اعلام شد و قیمت مثقال طلا ۱۱۳ میلیون و ۹۰ هزار تومان قیمت خورده است.",
     "telegram_preview": "📰 قیمت طلا ظهر امروز ۲ آبان ۱۴۰۵/ مثقال طلا ۱۱۳ میلیون و ۹۰ هزار تومان شد + جدول\n\nقیمت طلا در بازار تهران امروز ۲ آبان ۱۴۰۵ اعلام شد و قیمت مثقال طلا ۱۱۳ میلیون و ۹۰ هزار تومان قیمت خورده است.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2292312/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%DB%B1%DB%B1%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B9%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1"
-  },
-  {
-    "source": "ایسنا",
-    "title": "همتی: ذخایر ارزی ایران برای تامین واردات تا پایان دوره ریاست جمهوری ترامپ کافی است",
-    "link": "https://www.isna.ir/news/1405080100126/%D9%87%D9%85%D8%AA%DB%8C-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AA%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D9%88%D8%B1%D9%87-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C",
-    "summary": "رئیس کل بانک مرکزی اعلام کرد: ذخایر ارزی ایران در وضعیت مناسبی قرار دارد و کشور می تواند نیازهای وارداتی خود را تا پایان دوره ریاست جمهوری دونالد ترامپ و حتی پس از آن تامین کند.",
-    "published": "Fri, 23 Oct 2026 09:04:43 GMT",
-    "collected_at": "2026-10-23T12:36:08.407981+03:30",
-    "filter_market_score": 18,
-    "market_score": 24,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی",
-      "ذخایر ارزی",
-      "واردات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "ذخایر ارزی",
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": [
-      "واردات"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "رئیس کل بانک مرکزی اعلام کرد: ذخایر ارزی ایران در وضعیت مناسبی قرار دارد و کشور می تواند نیازهای وارداتی خود را تا پایان دوره ریاست جمهوری دونالد ترامپ و حتی پس از آن تامین کند.",
-    "telegram_preview": "📰 همتی: ذخایر ارزی ایران برای تامین واردات تا پایان دوره ریاست جمهوری ترامپ کافی است\n\nرئیس کل بانک مرکزی اعلام کرد: ذخایر ارزی ایران در وضعیت مناسبی قرار دارد و کشور می تواند نیازهای وارداتی خود را تا پایان دوره ریاست جمهوری دونالد ترامپ و حتی پس از آن تامین کند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080100126/%D9%87%D9%85%D8%AA%DB%8C-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AA%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D9%88%D8%B1%D9%87-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C"
   },
   {
     "source": "مهر",
@@ -3166,6 +3114,66 @@
     "duplicate_count": 1,
     "full_text": "قیمت سکه در بازار تهران امروز ۲ آبان ۱۴۰۵ اعلام و هر قطعه سکه امامی ۲۶۶ میلیون تومان شد.",
     "telegram_preview": "📰 قیمت سکه امروز ۲ آبان ۱۴۰۵ در زمان بازگشایی بازار/ سکه ۲۶۶ میلیون تومان شد + جدول\n\nقیمت سکه در بازار تهران امروز ۲ آبان ۱۴۰۵ اعلام و هر قطعه سکه امامی ۲۶۶ میلیون تومان شد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2292176/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%DB%B2%DB%B6%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86"
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "بازدهی یک ساله صندوق مثقال آگاه به ۱۵۰ درصد رسید",
+    "link": "https://www.khabaronline.ir/news/2292429/%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84%D9%87-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A2%DA%AF%D8%A7%D9%87-%D8%A8%D9%87-%DB%B1%DB%B5%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "صندوق طلای مثقال آگاه در یک سال منتهی به مهر ۱۴۰۵ بازدهی ۱۵۰٫۱ درصدی ثبت کرده است؛ رقمی که بر اساس داده های اعلام شده، از میانگین صندوق های طلا و بازدهی سکه امامی در همین دوره بیشتر بوده است.",
+    "published": "Sat, 24 Oct 2026 11:00:03 GMT",
+    "collected_at": "2026-10-24T14:47:43.982506+03:30",
+    "filter_market_score": 28,
+    "market_score": 18,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "سکه امامی",
+        "صندوق طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "سکه امامی",
+        "صندوق طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "بازدهی",
+      "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی",
+      "صندوق طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "صندوق طلای مثقال آگاه در یک سال منتهی به مهر ۱۴۰۵ بازدهی ۱۵۰٫۱ درصدی ثبت کرده است؛ رقمی که بر اساس داده های اعلام شده، از میانگین صندوق های طلا و بازدهی سکه امامی در همین دوره بیشتر بوده است.",
+    "telegram_preview": "📰 بازدهی یک ساله صندوق مثقال آگاه به ۱۵۰ درصد رسید\n\nصندوق طلای مثقال آگاه در یک سال منتهی به مهر ۱۴۰۵ بازدهی ۱۵۰٫۱ درصدی ثبت کرده است؛ رقمی که بر اساس داده های اعلام شده، از میانگین صندوق های طلا و بازدهی سکه امامی در همین دوره بیشتر بوده است.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2292429/%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84%D9%87-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%A2%DA%AF%D8%A7%D9%87-%D8%A8%D9%87-%DB%B1%DB%B5%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF"
   },
   {
     "source": "ایسنا",
@@ -4237,58 +4245,6 @@
     "telegram_preview": "📰 ۲ طلای بیت سیاح و زارع در دوومیدانی/والیبال نشسته زنان ایران نایب قهرمان شد\n\nعلیرضا زارع در دوی ۲۰۰ متر و صادق بیت سیاح در پرتاب نیزه بازی های پاراآسیایی ناگویا به مدال طلا رسیدند و تیم ملی والیبال نشسته زنان ایران نیز در فینال برابر چین شکست خورد و نایب قهرمان شد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080100178/%DB%B2-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A8%DB%8C%D8%AA-%D8%B3%DB%8C%D8%A7%D8%AD-%D9%88-%D8%B2%D8%A7%D8%B1%D8%B9-%D8%AF%D8%B1-%D8%AF%D9%88%D9%88%D9%85%DB%8C%D8%AF%D8%A7%D9%86%DB%8C-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D9%86%D8%B4%D8%B3%D8%AA%D9%87-%D8%B2%D9%86%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86"
   },
   {
-    "source": "تابناک",
-    "title": "طلای روز پنجم پارادوومیدانی بر گردن نکویی مجد",
-    "link": "https://www.tabnak.ir/fa/news/1399980/طلای-روز-پنجم-پارادوومیدانی-بر-گردن-نکویی-مجد",
-    "summary": "مهران نکویی مجد با قهرمانی در پرتاب وزنه کلاس F۳۴، نخستین طلای ایران در روز پنجم بازی های پاراآسیایی ناگویا را به دست آورد.",
-    "published": "23 Oct 2026 12:31:02 +0330",
-    "collected_at": "2026-10-23T12:36:17.461417+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "مهران نکویی مجد با قهرمانی در پرتاب وزنه کلاس F۳۴، نخستین طلای ایران در روز پنجم بازی های پاراآسیایی ناگویا را به دست آورد.",
-    "telegram_preview": "📰 طلای روز پنجم پارادوومیدانی بر گردن نکویی مجد\n\nمهران نکویی مجد با قهرمانی در پرتاب وزنه کلاس F۳۴، نخستین طلای ایران در روز پنجم بازی های پاراآسیایی ناگویا را به دست آورد.\n\n📌 منبع: تابناک\n\n🔗 https://www.tabnak.ir/fa/news/1399980/طلای-روز-پنجم-پارادوومیدانی-بر-گردن-نکویی-مجد"
-  },
-  {
     "source": "مشرق",
     "title": "چرا قیمت نفت، خیال پایین آمدن ندارد؟",
     "link": "https://www.mashreghnews.ir/news/1847686/%DA%86%D8%B1%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%AE%DB%8C%D8%A7%D9%84-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D8%A2%D9%85%D8%AF%D9%86-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
@@ -4821,6 +4777,56 @@
     "telegram_preview": "📰 تلاش های ناکام ترامپ برای کاهش قیمت گازوئیل\n\nقیمت گازوئیل در آمریکا با افزایشی نزدیک به 10 سنت به میانگین 6.28 دلار در هر گالن رسیده و نزدیک به بالاترین حد خود باقی مانده است.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303804-%D8%AA%D9%84%D8%A7%D8%B4-%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%DA%A9%D8%A7%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%DA%AF%D8%A7%D8%B2%D9%88%D8%A6%DB%8C%D9%84"
   },
   {
+    "source": "مهر",
+    "title": "نحوه محاسبه قیمت طلا در زمان خرید و فروش",
+    "link": "https://www.mehrnews.com/news/6987887/%D9%86%D8%AD%D9%88%D9%87-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4",
+    "summary": "محاسبه ارزش این فلز گران بها در زمان خرید و فروش، به دلیل اعمال متغیرهایی نظیر مالیات بر ارزش افزوده، اجرت ساخت و تفاوت عیار معاملاتی، با اختلاف های ساختاری مواجه است.",
+    "published": "Sat, 24 Oct 2026 11:12:00 GMT",
+    "collected_at": "2026-10-24T14:47:26.831536+03:30",
+    "filter_market_score": 8,
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "محاسبه ارزش این فلز گران بها در زمان خرید و فروش، به دلیل اعمال متغیرهایی نظیر مالیات بر ارزش افزوده، اجرت ساخت و تفاوت عیار معاملاتی، با اختلاف های ساختاری مواجه است.",
+    "telegram_preview": "📰 نحوه محاسبه قیمت طلا در زمان خرید و فروش\n\nمحاسبه ارزش این فلز گران بها در زمان خرید و فروش، به دلیل اعمال متغیرهایی نظیر مالیات بر ارزش افزوده، اجرت ساخت و تفاوت عیار معاملاتی، با اختلاف های ساختاری مواجه است.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6987887/%D9%86%D8%AD%D9%88%D9%87-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%88-%D9%81%D8%B1%D9%88%D8%B4"
+  },
+  {
     "source": "ایسنا",
     "title": "بازار چین برای خودروسازان غربی از دست رفت",
     "link": "https://www.isna.ir/news/1405080200583/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%86%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA",
@@ -5165,6 +5171,55 @@
     "duplicate_count": 1,
     "full_text": "علیرضا زارع با قهرمانی در دوی ۲۰۰ متر کلاس T35 و شکستن رکورد آسیا و بازی های پاراآسیایی، دومین مدال طلای خود را در ناگویا به دست آورد.",
     "telegram_preview": "📰 علیرضا زارع دوباره طلایی شد\n\nعلیرضا زارع با قهرمانی در دوی ۲۰۰ متر کلاس T35 و شکستن رکورد آسیا و بازی های پاراآسیایی، دومین مدال طلای خود را در ناگویا به دست آورد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6987069/%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%B2%D8%A7%D8%B1%D8%B9-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF"
+  },
+  {
+    "source": "ایسنا",
+    "title": "واکنش حماس به یورش های اشغالگران در کرانه باختری",
+    "link": "https://www.isna.ir/news/1405080200842/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%AD%D9%85%D8%A7%D8%B3-%D8%A8%D9%87-%DB%8C%D9%88%D8%B1%D8%B4-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B4%D8%BA%D8%A7%D9%84%DA%AF%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%A7%D9%86%D9%87-%D8%A8%D8%A7%D8%AE%D8%AA%D8%B1%DB%8C",
+    "summary": "جنبش مقاومت اسلامی فلسطین (حماس) یورش های اشغالگران صهیونیست در کرانه باختری را محکوم و اعلام کرد که این یورش ها عزم و اراده ملت فلسطین را درهم نخواهد شکست.",
+    "published": "Sat, 24 Oct 2026 10:48:20 GMT",
+    "collected_at": "2026-10-24T14:47:16.102421+03:30",
+    "filter_market_score": 6,
+    "market_score": 9,
+    "market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "مقاومت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "جنبش مقاومت اسلامی فلسطین (حماس) یورش های اشغالگران صهیونیست در کرانه باختری را محکوم و اعلام کرد که این یورش ها عزم و اراده ملت فلسطین را درهم نخواهد شکست.",
+    "telegram_preview": "📰 واکنش حماس به یورش های اشغالگران در کرانه باختری\n\nجنبش مقاومت اسلامی فلسطین (حماس) یورش های اشغالگران صهیونیست در کرانه باختری را محکوم و اعلام کرد که این یورش ها عزم و اراده ملت فلسطین را درهم نخواهد شکست.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080200842/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%AD%D9%85%D8%A7%D8%B3-%D8%A8%D9%87-%DB%8C%D9%88%D8%B1%D8%B4-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B4%D8%BA%D8%A7%D9%84%DA%AF%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%A7%D9%86%D9%87-%D8%A8%D8%A7%D8%AE%D8%AA%D8%B1%DB%8C"
   },
   {
     "source": "تابناک",
