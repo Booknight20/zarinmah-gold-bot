@@ -7382,5 +7382,77 @@
     "group_message_id": 875,
     "fully_published": true,
     "last_checked_at": "2026-10-24T06:48:50.061793+00:00"
+  },
+  "9055e68f01eaf2b77c746f60accbc9e2fe5c1434157e1e90c20fd56f2f4e1168": {
+    "title": "موبایل تاشو دو هزار دلاری اپل نیامده کمیاب شد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6987648/%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%AA%D8%A7%D8%B4%D9%88-%D8%AF%D9%88-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84-%D9%86%DB%8C%D8%A7%D9%85%D8%AF%D9%87-%DA%A9%D9%85%DB%8C%D8%A7%D8%A8-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1147
+    ],
+    "eitaa_message_ids": [
+      178024568
+    ],
+    "group_message_ids": [
+      877
+    ],
+    "content_hash": "27e4d1616eb6d62107a7a8744a4dcb529e87124d52ccbb65439eb7cdc9993dcd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T07:18:06.184428+00:00",
+    "telegram_message_id": 1147,
+    "eitaa_last_sent_at": "2026-10-24T07:18:07.340746+00:00",
+    "eitaa_message_id": 178024568,
+    "group_last_sent_at": "2026-10-24T07:18:09.013020+00:00",
+    "group_message_id": 877,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T07:18:09.025597+00:00"
+  },
+  "47b281c1b9a01f6407cc8226f63a2c887c060713250324d85338be296adc1645": {
+    "title": "بورس تهران شنبه ۲ آبان ۱۱۵ هزار واحد افت کرد و به ۸ میلیون و ۵۸ هزار واحد رسید",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/live/2292270/%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%86%D8%A8%D9%87-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF-%D9%88-%D8%A8%D9%87-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88",
+    "telegram_message_ids": [
+      1148
+    ],
+    "eitaa_message_ids": [
+      178024579
+    ],
+    "group_message_ids": [
+      878
+    ],
+    "content_hash": "41038a25e0f8dd158f37059dcc27562613bda88fff22e6039b2fcd431029f098",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T07:18:10.642725+00:00",
+    "telegram_message_id": 1148,
+    "eitaa_last_sent_at": "2026-10-24T07:18:11.789095+00:00",
+    "eitaa_message_id": 178024579,
+    "group_last_sent_at": "2026-10-24T07:18:13.461100+00:00",
+    "group_message_id": 878,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T07:18:13.473953+00:00"
+  },
+  "c4b552f44b56d3801c1a0524c509a4bedb3eb97779cf6f41c0a3121c70c11182": {
+    "title": "قیمت نفت به بالاترین سطح در ۶ ماه اخیر رسید",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1847697/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D8%AF%D8%B1-%DB%B6-%D9%85%D8%A7%D9%87-%D8%A7%D8%AE%DB%8C%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      1149
+    ],
+    "eitaa_message_ids": [
+      178024596
+    ],
+    "group_message_ids": [
+      879
+    ],
+    "content_hash": "59a815b488ee559cd4cfdb546b6aedce38483cd0f7fee279b3051d14d6ac7a0a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T07:18:15.069204+00:00",
+    "telegram_message_id": 1149,
+    "eitaa_last_sent_at": "2026-10-24T07:18:16.127828+00:00",
+    "eitaa_message_id": 178024596,
+    "group_last_sent_at": "2026-10-24T07:18:17.721199+00:00",
+    "group_message_id": 879,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T07:18:17.733869+00:00"
   }
 }
