@@ -8414,5 +8414,77 @@
     "group_message_id": 935,
     "fully_published": true,
     "last_checked_at": "2026-10-24T12:48:17.970842+00:00"
+  },
+  "88a2b99680878b2a91efea0d0f7a38e952617232d8c8b30d01d109f271645773": {
+    "title": "کشف ۱۴ دستگاه استخراج غیرمجاز رمز ارز در بندرلنگه",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6988202/%DA%A9%D8%B4%D9%81-%DB%B1%DB%B4-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%B1%D9%85%D8%B2-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1%D9%84%D9%86%DA%AF%D9%87",
+    "telegram_message_ids": [
+      1207
+    ],
+    "eitaa_message_ids": [
+      178083114
+    ],
+    "group_message_ids": [
+      937
+    ],
+    "content_hash": "e57f3146cc0136ce46e7c8c7ac22d4e0af4476057baaecec177ff5afa2c5d18f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T13:18:13.861041+00:00",
+    "telegram_message_id": 1207,
+    "eitaa_last_sent_at": "2026-10-24T13:18:15.059595+00:00",
+    "eitaa_message_id": 178083114,
+    "group_last_sent_at": "2026-10-24T13:18:16.829270+00:00",
+    "group_message_id": 937,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T13:18:16.843703+00:00"
+  },
+  "e3ad820e545c3f0d567bfbc5351247c03eede96c95b8e18994f3f89108ec4969": {
+    "title": "رکورد خروج پول 1405 شکسته شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4303878-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D9%BE%D9%88%D9%84-%D8%B4%DA%A9%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1208
+    ],
+    "eitaa_message_ids": [
+      178083127
+    ],
+    "group_message_ids": [
+      938
+    ],
+    "content_hash": "18783c6e70aec2f51c7e32fde1da67449b628ee9a8f2bb9108e77e8eceb2e0ef",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T13:18:18.530953+00:00",
+    "telegram_message_id": 1208,
+    "eitaa_last_sent_at": "2026-10-24T13:18:19.748826+00:00",
+    "eitaa_message_id": 178083127,
+    "group_last_sent_at": "2026-10-24T13:18:21.469673+00:00",
+    "group_message_id": 938,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T13:18:21.484107+00:00"
+  },
+  "dd63e31763d002fda39a7c5fc74558f8b28dce81e9055cb9935a22978b319111": {
+    "title": "توئیت کاربر خارجی: یمنی ها در می زنند، ریاض متروکه می شود! +فیلم",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1847777/%D8%AA%D9%88%D8%A6%DB%8C%D8%AA-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%DB%8C%D9%85%D9%86%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%DB%8C-%D8%B2%D9%86%D9%86%D8%AF-%D8%B1%DB%8C%D8%A7%D8%B6-%D9%85%D8%AA%D8%B1%D9%88%DA%A9%D9%87-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      1209
+    ],
+    "eitaa_message_ids": [
+      178083147
+    ],
+    "group_message_ids": [
+      939
+    ],
+    "content_hash": "7fdc05f2c4ab2043877f8e723d3975e7ac656d890ba4da303f516789346dc742",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T13:18:23.141577+00:00",
+    "telegram_message_id": 1209,
+    "eitaa_last_sent_at": "2026-10-24T13:18:24.399972+00:00",
+    "eitaa_message_id": 178083147,
+    "group_last_sent_at": "2026-10-24T13:18:26.113827+00:00",
+    "group_message_id": 939,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T13:18:26.128295+00:00"
   }
 }
