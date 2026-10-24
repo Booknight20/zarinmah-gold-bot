@@ -6902,5 +6902,77 @@
     "group_message_id": 850,
     "fully_published": true,
     "last_checked_at": "2026-10-23T22:47:54.904880+00:00"
+  },
+  "8a3eae35fab3bb7ca70f331acbd1e586e2d64a95c5e519c10bf0df9a250e1194": {
+    "title": "قیمت طلا امروز شنبه ۲ آبان ۱۴۰۵/ کاهش قیمت طلا",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303800-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1121
+    ],
+    "eitaa_message_ids": [
+      177998009
+    ],
+    "group_message_ids": [
+      851
+    ],
+    "content_hash": "7d9d5b3c9ca67029ebb6e9188d9b1e4898f407d4255b051616e1e8032979333b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T04:45:24.657256+00:00",
+    "telegram_message_id": 1121,
+    "eitaa_last_sent_at": "2026-10-24T04:45:25.999683+00:00",
+    "eitaa_message_id": 177998009,
+    "group_last_sent_at": "2026-10-24T04:45:27.667136+00:00",
+    "group_message_id": 851,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T04:45:27.675602+00:00"
+  },
+  "40e2bb0028c42360f1d2f15e726af01ffa1ad75cd575a0222b8d8a8aa37e6aba": {
+    "title": "قیمت طلا ۱۸ عیار امروز شنبه ۲ آبان ۱۴۰۵/طلا نزولی شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303801-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1122
+    ],
+    "eitaa_message_ids": [
+      177998014
+    ],
+    "group_message_ids": [
+      852
+    ],
+    "content_hash": "7dc6c4a01c426e60809a3a7c2e1d7af4a27dc1fe98f1570e23983b4e9f0ca433",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T04:45:29.296368+00:00",
+    "telegram_message_id": 1122,
+    "eitaa_last_sent_at": "2026-10-24T04:45:30.520741+00:00",
+    "eitaa_message_id": 177998014,
+    "group_last_sent_at": "2026-10-24T04:45:32.178471+00:00",
+    "group_message_id": 852,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T04:45:32.187156+00:00"
+  },
+  "1b210e1d56ca5f6916650ed881460241037dc1728eba8b734b0969d8700927c6": {
+    "title": "قیمت طلا امروز ۲ آبان ۱۴۰۵ در زمان بازگشایی بازار/ طلای ۱۸ عیار ۲۶ میلیون و ۱۷۶ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292175/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8-%D8%B9%DB%8C%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1123
+    ],
+    "eitaa_message_ids": [
+      177998021
+    ],
+    "group_message_ids": [
+      853
+    ],
+    "content_hash": "eeb283be72b585557411f15cd0e7ddc87d0a9ab2a5a2f72b8a2076eeab71bf2d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T04:45:33.991578+00:00",
+    "telegram_message_id": 1123,
+    "eitaa_last_sent_at": "2026-10-24T04:45:35.218689+00:00",
+    "eitaa_message_id": 177998021,
+    "group_last_sent_at": "2026-10-24T04:45:36.840973+00:00",
+    "group_message_id": 853,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T04:45:36.849468+00:00"
   }
 }
