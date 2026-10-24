@@ -8822,5 +8822,29 @@
     "group_message_id": 966,
     "fully_published": true,
     "last_checked_at": "2026-10-24T18:15:32.200613+00:00"
+  },
+  "31d6299d120aca347e3fa1447dcc6ab0139d5c305dd94fe4dbc0d04e431b0636": {
+    "title": "بورس دبی جمعه ۱ آبان ۱۴۰۵، ۱.۴ درصد سقوط کرد و به کف چهارماهه رسید",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292371/%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%A8%DB%8C-%D8%AC%D9%85%D8%B9%D9%87-%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%DB%B1-%DB%B4-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B3%D9%82%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF-%D9%88-%D8%A8%D9%87-%DA%A9%D9%81-%DA%86%D9%87%D8%A7%D8%B1%D9%85%D8%A7%D9%87%D9%87",
+    "telegram_message_ids": [
+      1235
+    ],
+    "eitaa_message_ids": [
+      178133983
+    ],
+    "group_message_ids": [
+      967
+    ],
+    "content_hash": "6a633586dff9efaf27af1f6f42b44bd523e86943fb0d52c7f807ef0e9288f9e9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T19:00:41.905210+00:00",
+    "telegram_message_id": 1235,
+    "eitaa_last_sent_at": "2026-10-24T19:00:44.178640+00:00",
+    "eitaa_message_id": 178133983,
+    "group_last_sent_at": "2026-10-24T19:00:46.184697+00:00",
+    "group_message_id": 967,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T19:00:46.199646+00:00"
   }
 }
