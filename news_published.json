@@ -8510,5 +8510,29 @@
     "group_message_id": 940,
     "fully_published": true,
     "last_checked_at": "2026-10-24T13:48:05.860197+00:00"
+  },
+  "9b75c6bc6563061e161cfc8fd3da7f77b76e3fa02a1b401aad136db643a06ac6": {
+    "title": "زشت و زیبای آیفون تاشو",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4303882-%D8%B2%D8%B4%D8%AA-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%D8%AA%D8%A7%D8%B4%D9%88",
+    "telegram_message_ids": [
+      1214
+    ],
+    "eitaa_message_ids": [
+      178097789
+    ],
+    "group_message_ids": [
+      944
+    ],
+    "content_hash": "508bdff8a883e2b46147aebc95727416ce633b101168d5c0e70fc2c8aeb4ef83",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T14:18:05.244537+00:00",
+    "telegram_message_id": 1214,
+    "eitaa_last_sent_at": "2026-10-24T14:18:06.826975+00:00",
+    "eitaa_message_id": 178097789,
+    "group_last_sent_at": "2026-10-24T14:18:08.661452+00:00",
+    "group_message_id": 944,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T14:18:08.675838+00:00"
   }
 }
