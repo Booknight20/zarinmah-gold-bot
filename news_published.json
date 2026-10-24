@@ -8366,5 +8366,53 @@
     "group_message_id": 932,
     "fully_published": true,
     "last_checked_at": "2026-10-24T12:15:38.715279+00:00"
+  },
+  "bc6daf19368d66262b7ddf2de4f78046ff8ccf4bafce1595d38d4695988d4adc": {
+    "title": "مدیرکل صمت استان: هیات تجاری گیلان به آستراخان روسیه اعزام می شود",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080200923/%D9%85%D8%AF%DB%8C%D8%B1%DA%A9%D9%84-%D8%B5%D9%85%D8%AA-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%A7%D9%85%D8%B3%D8%A7%D9%84-%DB%B1%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4",
+    "telegram_message_ids": [
+      1204
+    ],
+    "eitaa_message_ids": [
+      178075840
+    ],
+    "group_message_ids": [
+      934
+    ],
+    "content_hash": "a202eec4ee2a243e1d5f7ed70783d4fadc3351c2faeed224f2c265cb0f40e06e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T12:48:10.720817+00:00",
+    "telegram_message_id": 1204,
+    "eitaa_last_sent_at": "2026-10-24T12:48:11.847315+00:00",
+    "eitaa_message_id": 178075840,
+    "group_last_sent_at": "2026-10-24T12:48:13.512704+00:00",
+    "group_message_id": 934,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T12:48:13.526769+00:00"
+  },
+  "5d3c4a1bf14ef7d5562cf2f25a4e6e653874ee40de215e6fdf73a66d45215e07": {
+    "title": "پورحیدری: صادرات گیلان در نیمه نخست سال ۱۰ درصد افزایش یافت",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6988272/%D9%BE%D9%88%D8%B1%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%B3%D8%A7%D9%84-%DB%B1%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
+    "telegram_message_ids": [
+      1205
+    ],
+    "eitaa_message_ids": [
+      178075848
+    ],
+    "group_message_ids": [
+      935
+    ],
+    "content_hash": "e3be8d05183ebaf3af3307fe9053e3950149e9dafd3519585b58fa11b084fedb",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T12:48:15.212478+00:00",
+    "telegram_message_id": 1205,
+    "eitaa_last_sent_at": "2026-10-24T12:48:16.356769+00:00",
+    "eitaa_message_id": 178075848,
+    "group_last_sent_at": "2026-10-24T12:48:17.956384+00:00",
+    "group_message_id": 935,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T12:48:17.970842+00:00"
   }
 }
