@@ -8870,5 +8870,29 @@
     "group_message_id": 968,
     "fully_published": true,
     "last_checked_at": "2026-10-24T19:18:07.224056+00:00"
+  },
+  "3cd15eae479ad0f8c8b8a76677d1e73707543d96f233b100be8c6b770179d058": {
+    "title": "قیمت طلا امروز ۲ آبان ۱۴۰۵ در زمان بسته شدن بازار/ طلای ۱۸عبار ۲۵ میلیون و ۵۷۶ هزار تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292613/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%D8%A8%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1237
+    ],
+    "eitaa_message_ids": [
+      178143982
+    ],
+    "group_message_ids": [
+      969
+    ],
+    "content_hash": "50b8d11b2cb8018d1338d0464de0f4999ee7a50acb9df97c531f6ae402238280",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T20:17:57.933148+00:00",
+    "telegram_message_id": 1237,
+    "eitaa_last_sent_at": "2026-10-24T20:17:58.996980+00:00",
+    "eitaa_message_id": 178143982,
+    "group_last_sent_at": "2026-10-24T20:18:00.667512+00:00",
+    "group_message_id": 969,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T20:18:00.682478+00:00"
   }
 }
