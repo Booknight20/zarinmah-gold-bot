@@ -768,6 +768,11 @@ def send_to_telegram(
 # ارسال ایتا
 # =========================================================
 
+
+# =========================================================
+# ارسال ایتا
+# =========================================================
+
 def send_to_eitaa(message):
     if not EITAAYAR_TOKEN:
         raise RuntimeError(
@@ -783,38 +788,45 @@ def send_to_eitaa(message):
     chat_id = EITAA_CHAT_ID.strip()
     url = f"{EITAA_API_URL}/{token}/sendMessage"
 
-    # در ایتا هم URL خام را با عنوان کوتاه و قابل کلیک نمایش می‌دهیم.
-    # آدرس مقصد داخل href حفظ می‌شود؛ خود URL طولانی در متن دیده نمی‌شود.
     escaped_lines = []
+
     for line in str(message).splitlines():
         stripped = line.strip()
-        if re.match(r"^https?://\\S+$", stripped, flags=re.IGNORECASE):
+
+        # تبدیل URL مستقل به لینک کوتاه و قابل کلیک
+        if re.match(
+            r"^https?://\S+$",
+            stripped,
+            flags=re.IGNORECASE,
+        ):
             safe_url = html.escape(stripped, quote=True)
+
             link_label = (
                 "کانال زرین ماه"
                 if "t.me/zarinmahgold" in stripped.lower()
-                else "مشاهده منبع"
+                else "🔗 مشاهده خبر اصلی"
             )
+
             escaped_lines.append(
                 f'<a href="{safe_url}">{link_label}</a>'
             )
         else:
             escaped_lines.append(html.escape(line))
 
+    formatted_message = "\n".join(escaped_lines)
+
     response = requests.post(
         url,
         data={
             "chat_id": chat_id,
-            "text": "\\n".join(escaped_lines),
+            "text": formatted_message,
             "parse_mode": "HTML",
         },
         timeout=REQUEST_TIMEOUT,
     )
 
-    print(
-        "Eitaa HTTP:",
-        response.status_code,
-    )
+    print("Eitaa HTTP:", response.status_code)
+
     response.raise_for_status()
 
     try:
@@ -830,16 +842,15 @@ def send_to_eitaa(message):
         )
 
     result_data = result.get("result", {})
+
     message_id = (
         result_data.get("message_id")
         or result_data.get("id")
+        if isinstance(result_data, dict)
+        else None
     )
 
-    return (
-        message_id
-        if message_id is not None
-        else "sent"
-    )
+    return message_id if message_id is not None else "sent"
 
 
 # =========================================================
