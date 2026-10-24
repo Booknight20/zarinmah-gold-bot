@@ -10542,5 +10542,73 @@
     "group_sent_at": "2026-10-24T17:48:12.351441+03:30",
     "group_message_id": 945,
     "published_at": "2026-10-24T17:48:12.362784+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8676": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "سر ریزش اونس جهانی قیمت طلای 18 عیار اومده زیر 26/500 ولی با این حال حدود 1/5 درصد حباب مثبت داره ‼️ ⚡️ @AlirezaMehra...",
+      "summary": "سر ریزش اونس جهانی قیمت طلای 18 عیار اومده زیر 26/500 ولی با این حال حدود 1/5 درصد حباب مثبت داره ‼️ ⚡️ @AlirezaMehrabi_ir",
+      "full_text": "سر ریزش اونس جهانی قیمت طلای 18 عیار اومده زیر 26/500 ولی با این حال حدود 1/5 درصد حباب مثبت داره ‼️ ⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8676",
+      "analysis_score": 18,
+      "market_matches": [
+        "طلا",
+        "طلای ۱۸",
+        "طلای 18",
+        "اونس",
+        "اونس جهانی"
+      ],
+      "analysis_matches": [
+        "ریزش",
+        "قیمت",
+        "حباب"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "high",
+      "content_length": 122,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-24T19:17:52.049008+03:30"
+    },
+    "content_signature": "be30dd71586653be1009cd6557750b56dbdcf2bf3df18cdc882810d146e737c4",
+    "first_seen_at": "2026-10-24T19:18:06.975701+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1222
+    ],
+    "telegram_last_success_at": "2026-10-24T19:18:07.512811+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-24T19:18:07.525008+03:30",
+    "telegram_message_id": 1222,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178109263
+    ],
+    "eitaa_last_success_at": "2026-10-24T19:18:08.733921+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-24T19:18:08.745466+03:30",
+    "eitaa_message_id": 178109263,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      954
+    ],
+    "group_last_success_at": "2026-10-24T19:18:09.551595+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-24T19:18:09.563477+03:30",
+    "group_message_id": 954,
+    "published_at": "2026-10-24T19:18:09.574798+03:30"
   }
 }
