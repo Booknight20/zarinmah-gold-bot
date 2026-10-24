@@ -9062,5 +9062,29 @@
     "group_message_id": 976,
     "fully_published": true,
     "last_checked_at": "2026-10-24T20:48:39.206836+00:00"
+  },
+  "3fd4a3c17e77f54c8c9166d154a21fd0697c22be2d164dfa4d80f390cdfeab77": {
+    "title": "از سقوط طلا و آینده بازارهای جهانی تا هزینه های فزاینده حمل ونقل نفت در سایه جنگ خاورمیانه +فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304008-%D8%A7%D8%B2-%D8%B3%D9%82%D9%88%D8%B7-%D8%B7%D9%84%D8%A7-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%AA%D8%A7-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D9%81%D8%B2%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D8%AD%D9%85%D9%84-%D9%88%D9%86%D9%82%D9%84-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D8%AC%D9%86%DA%AF-%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      1245
+    ],
+    "eitaa_message_ids": [
+      178150857
+    ],
+    "group_message_ids": [
+      977
+    ],
+    "content_hash": "d03419b04aa3ecc6bf55560f902903f8874b0060c7e0c7c3c36566ffbc469fb5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T21:17:51.811104+00:00",
+    "telegram_message_id": 1245,
+    "eitaa_last_sent_at": "2026-10-24T21:17:52.886588+00:00",
+    "eitaa_message_id": 178150857,
+    "group_last_sent_at": "2026-10-24T21:17:54.475884+00:00",
+    "group_message_id": 977,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T21:17:54.491608+00:00"
   }
 }
