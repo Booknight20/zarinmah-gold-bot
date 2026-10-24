@@ -8486,5 +8486,29 @@
     "group_message_id": 939,
     "fully_published": true,
     "last_checked_at": "2026-10-24T13:18:26.128295+00:00"
+  },
+  "ddcbf519201f378a09cd1f49ac6bbd010089ae301c6976802a717472bcdc4b0d": {
+    "title": "۸ هزار میلیارد تومان از این بازار خارج شد/ چند درصد نمادهای بورس منفی شدند؟",
+    "source": "تابناک",
+    "link": "https://www.tabnak.ir/fa/news/1400149/8-هزار-میلیارد-تومان-از-این-بازار-خارج-شد-چند-درصد-نمادهای-بورس-منفی-شدند",
+    "telegram_message_ids": [
+      1210
+    ],
+    "eitaa_message_ids": [
+      178089218
+    ],
+    "group_message_ids": [
+      940
+    ],
+    "content_hash": "993f33c691af29acd698e0bf3b0d65de7f5988befa060f67e25a21cb6a053bfa",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T13:48:02.443002+00:00",
+    "telegram_message_id": 1210,
+    "eitaa_last_sent_at": "2026-10-24T13:48:04.060780+00:00",
+    "eitaa_message_id": 178089218,
+    "group_last_sent_at": "2026-10-24T13:48:05.845523+00:00",
+    "group_message_id": 940,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T13:48:05.860197+00:00"
   }
 }

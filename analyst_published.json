@@ -10340,5 +10340,140 @@
     "group_sent_at": "2026-10-24T15:45:41.066077+03:30",
     "group_message_id": 933,
     "published_at": "2026-10-24T15:45:41.078812+03:30"
+  },
+  "https://t.me/drarashamini/7238": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "💰 قیمت طلا و سکه",
+      "summary": "💰 قیمت طلا و سکه\n\nانس طلا: ۴,۱۱۷ دلار 🔴 \nمظنه تهران: ۱۱۵.۳۱۰ میلیون تومان 🟢 \nطلا ۱۸ عیار: ۲۶.۶۱۹ میلیون تومان 🟢 \nطلای ۲۴ عیار: ۳۵.۴۸۹ میلیون تومان 🟢 \n\n 🪙 سکه:\nسکه طرح جدید:\n۲۶۸.۵۰۰ میلیون تومان 🟢 \nسکه طرح قدیم:\n۲۶۲.۵۰۰ میلیون تومان 🟢 \nنیم سکه:\n۱۴۱.۵۰۰ میلیون تومان 🟢 \nربع سکه:\n۷۴.۹۰۰ میلیون تومان 🟢 \n\n 🕒 آخرین بروزرسانی: ۲۹ مهر ۱۴۰۵ - ۱۳:۳۹:۰۸\n\nاگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "💰 قیمت طلا و سکه\n\nانس طلا: ۴,۱۱۷ دلار 🔴 \nمظنه تهران: ۱۱۵.۳۱۰ میلیون تومان 🟢 \nطلا ۱۸ عیار: ۲۶.۶۱۹ میلیون تومان 🟢 \nطلای ۲۴ عیار: ۳۵.۴۸۹ میلیون تومان 🟢 \n\n 🪙 سکه:\nسکه طرح جدید:\n۲۶۸.۵۰۰ میلیون تومان 🟢 \nسکه طرح قدیم:\n۲۶۲.۵۰۰ میلیون تومان 🟢 \nنیم سکه:\n۱۴۱.۵۰۰ میلیون تومان 🟢 \nربع سکه:\n۷۴.۹۰۰ میلیون تومان 🟢 \n\n 🕒 آخرین بروزرسانی: ۲۹ مهر ۱۴۰۵ - ۱۳:۳۹:۰۸\n\nاگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7238",
+      "analysis_score": 27,
+      "market_matches": [
+        "طلا",
+        "طلای ۲۴",
+        "طلای 24",
+        "سکه",
+        "نیم سکه",
+        "نیم‌سکه",
+        "ربع سکه",
+        "ربع‌سکه",
+        "دلار"
+      ],
+      "analysis_matches": [
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 439,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-24T17:17:58.858621+03:30"
+    },
+    "content_signature": "3cf08e34af8aecfa476bd52798b974ec3e09a27ed0188c29a95278f2b4d9a8c8",
+    "first_seen_at": "2026-10-24T17:18:06.039731+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1211
+    ],
+    "telegram_last_success_at": "2026-10-24T17:18:06.561349+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-24T17:18:06.573418+03:30",
+    "telegram_message_id": 1211,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178089226
+    ],
+    "eitaa_last_success_at": "2026-10-24T17:18:07.579866+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-24T17:18:07.591637+03:30",
+    "eitaa_message_id": 178089226,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      941
+    ],
+    "group_last_success_at": "2026-10-24T17:18:08.294102+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-24T17:18:08.305654+03:30",
+    "group_message_id": 941,
+    "published_at": "2026-10-24T17:18:08.316609+03:30"
+  },
+  "https://t.me/drarashamini/7256": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "مجوز فعالیت صندوق پروژه نیروگاه خورشیدی #نور صادر شد و به زودی بازگشایی خواهد شد",
+      "summary": "مجوز فعالیت صندوق پروژه نیروگاه خورشیدی #نور صادر شد و به زودی بازگشایی خواهد شد\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "مجوز فعالیت صندوق پروژه نیروگاه خورشیدی #نور صادر شد و به زودی بازگشایی خواهد شد\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7256",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [],
+      "market_groups": [
+        "gold",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "medium",
+      "content_length": 205,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-24T17:17:58.864653+03:30"
+    },
+    "content_signature": "bf4ce9397d4dce2db5478962437a1d45b5952fb13dec81272f56b21a8a64a4da",
+    "first_seen_at": "2026-10-24T17:18:08.327925+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1212
+    ],
+    "telegram_last_success_at": "2026-10-24T17:18:08.946282+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-24T17:18:08.958175+03:30",
+    "telegram_message_id": 1212,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178089234
+    ],
+    "eitaa_last_success_at": "2026-10-24T17:18:10.402996+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-24T17:18:10.414603+03:30",
+    "eitaa_message_id": 178089234,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      942
+    ],
+    "group_last_success_at": "2026-10-24T17:18:10.894907+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-24T17:18:10.906317+03:30",
+    "group_message_id": 942,
+    "published_at": "2026-10-24T17:18:10.917443+03:30"
   }
 }
