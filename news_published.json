@@ -6974,5 +6974,101 @@
     "group_message_id": 853,
     "fully_published": true,
     "last_checked_at": "2026-10-24T04:45:36.849468+00:00"
+  },
+  "d206750e2653b6589074d8061aa558fd44da8bda170836a87181ecd0f49d0c0e": {
+    "title": "طلای جهانی به زیر ۴۰۰۰ دلار سقوط کرد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080200423/%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1-%DB%B4%DB%B0%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%D9%82%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1124
+    ],
+    "eitaa_message_ids": [
+      178003149
+    ],
+    "group_message_ids": [
+      854
+    ],
+    "content_hash": "c50404f590ff44c1ba229e3bf6e9970ba6fec993b53c01b0fb712a2afb2249d9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T05:14:37.707566+00:00",
+    "telegram_message_id": 1124,
+    "eitaa_last_sent_at": "2026-10-24T05:14:39.001176+00:00",
+    "eitaa_message_id": 178003149,
+    "group_last_sent_at": "2026-10-24T05:14:40.692876+00:00",
+    "group_message_id": 854,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T05:14:40.699438+00:00"
+  },
+  "30110ef756b4c6125720483a9b63fb7ca5096bb34df32d9547aa0d90e1f61528": {
+    "title": "بازگشت طلا به کانال ۳ هزار دلار در آخرین لحظات بازار جهانی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6987558/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+    "telegram_message_ids": [
+      1125
+    ],
+    "eitaa_message_ids": [
+      178003163
+    ],
+    "group_message_ids": [
+      855
+    ],
+    "content_hash": "a9fdb254f0db76c8b3f672b504487e8b8844ed12c76fa1a08b4f52dc2a92194a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T05:14:42.365024+00:00",
+    "telegram_message_id": 1125,
+    "eitaa_last_sent_at": "2026-10-24T05:14:43.613095+00:00",
+    "eitaa_message_id": 178003163,
+    "group_last_sent_at": "2026-10-24T05:14:45.258311+00:00",
+    "group_message_id": 855,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T05:14:45.265197+00:00"
+  },
+  "966cc6404f1c7f1e111497c229c9326b8fe50d2de875e516fe11f5fae4e232ed": {
+    "title": "تلاش های ناکام ترامپ برای کاهش قیمت گازوئیل",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303804-%D8%AA%D9%84%D8%A7%D8%B4-%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%DA%A9%D8%A7%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%DA%AF%D8%A7%D8%B2%D9%88%D8%A6%DB%8C%D9%84",
+    "telegram_message_ids": [
+      1126
+    ],
+    "eitaa_message_ids": [
+      178003171
+    ],
+    "group_message_ids": [
+      856
+    ],
+    "content_hash": "925001207fef58a2ffdf1759594b060a99063b877f46a6472f32b1a279efdf37",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T05:14:46.966062+00:00",
+    "telegram_message_id": 1126,
+    "eitaa_last_sent_at": "2026-10-24T05:14:47.604655+00:00",
+    "eitaa_message_id": 178003171,
+    "group_last_sent_at": "2026-10-24T05:14:49.236102+00:00",
+    "group_message_id": 856,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T05:14:49.242954+00:00"
+  },
+  "c3b235d414747131714ae0ac3b265de8596f725b8cbd21a40c6eaadcf463a52b": {
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۲ آبان ۱۴۰۵ در زمان بازگشایی بازار/ دلار ۲۶۶ هزار تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292178/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
+    "telegram_message_ids": [
+      1127
+    ],
+    "eitaa_message_ids": [
+      178003184
+    ],
+    "group_message_ids": [
+      857
+    ],
+    "content_hash": "1cad53d324f493c7f482eb151b52acec24f0565e7772d22ec82710391705317e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T05:14:50.897491+00:00",
+    "telegram_message_id": 1127,
+    "eitaa_last_sent_at": "2026-10-24T05:14:52.106374+00:00",
+    "eitaa_message_id": 178003184,
+    "group_last_sent_at": "2026-10-24T05:14:53.736452+00:00",
+    "group_message_id": 857,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T05:14:53.743451+00:00"
   }
 }
