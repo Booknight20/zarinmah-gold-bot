@@ -9787,5 +9787,209 @@
     "group_sent_at": "2026-10-24T11:48:39.258821+03:30",
     "group_message_id": 892,
     "published_at": "2026-10-24T11:48:39.269146+03:30"
+  },
+  "https://t.me/rahavard365/58563": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "گزارش روزانه",
+      "summary": "گزارش روزانه \n \n ⚠️ وضعیت: بی‌توجهی بازار به گزارشات فصلی\n\n ⬅ وضعیت ورود و خروج پول حقیقی:\n \n 🟪 معاملات خرد: ۸۲۳۸- میلیارد تومان 🔽 \n 🟪 درآمد ثابت : ۲۰۱۱- میلیارد تومان 🔽 \n 🟪 صندوق اهرمی: ۱۶۸- میلیارد تومان 🔽 \n\n 🌟 ارزش معاملات خرد: ۴۶.۲ همت\n\n 🔽 شاخص کل : (۱۲۹۱۳۸-) ۸,۰۴۴,۶۳۰\n 🔽 شاخص هم‌وزن : (۱۹۲۴۵-) ۲,۲۳۶,۴۱۰\n\n 🗓 شنبه ۰۲ آبان ۱۴۰۵ \n\n ✉️ @rahavard365",
+      "full_text": "گزارش روزانه \n \n ⚠️ وضعیت: بی‌توجهی بازار به گزارشات فصلی\n\n ⬅ وضعیت ورود و خروج پول حقیقی:\n \n 🟪 معاملات خرد: ۸۲۳۸- میلیارد تومان 🔽 \n 🟪 درآمد ثابت : ۲۰۱۱- میلیارد تومان 🔽 \n 🟪 صندوق اهرمی: ۱۶۸- میلیارد تومان 🔽 \n\n 🌟 ارزش معاملات خرد: ۴۶.۲ همت\n\n 🔽 شاخص کل : (۱۲۹۱۳۸-) ۸,۰۴۴,۶۳۰\n 🔽 شاخص هم‌وزن : (۱۹۲۴۵-) ۲,۲۳۶,۴۱۰\n\n 🗓 شنبه ۰۲ آبان ۱۴۰۵ \n\n ✉️ @rahavard365",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58563",
+      "analysis_score": 26,
+      "market_matches": [
+        "ارز",
+        "شاخص",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "شاخص هم‌وزن",
+        "ارزش معاملات",
+        "خروج پول حقیقی",
+        "پول حقیقی"
+      ],
+      "analysis_matches": [
+        "ورود",
+        "خروج"
+      ],
+      "market_groups": [
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 350,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-24T13:18:30.820794+03:30"
+    },
+    "content_signature": "8b24e468134d77a66e7ae098e76fe78d9b02df3b2dfdaf9a4e53e05898537b06",
+    "first_seen_at": "2026-10-24T13:18:35.950842+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1172
+    ],
+    "telegram_last_success_at": "2026-10-24T13:18:36.397676+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-24T13:18:36.408966+03:30",
+    "telegram_message_id": 1172,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178049792
+    ],
+    "eitaa_last_success_at": "2026-10-24T13:18:37.244692+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-24T13:18:37.255576+03:30",
+    "eitaa_message_id": 178049792,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      902
+    ],
+    "group_last_success_at": "2026-10-24T13:18:37.736790+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-24T13:18:37.747781+03:30",
+    "group_message_id": 902,
+    "published_at": "2026-10-24T13:18:37.758178+03:30"
+  },
+  "https://t.me/drarashamini/7255": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "وضعیت صندوق های طلا و نقره",
+      "summary": "وضعیت صندوق های طلا و نقره \n\nامروز تقریبا ورود و خروج خاصی در بازار طلا و نقره نداشتیم. \n\nهرچند افت قیمت طلا خاصی رو نمیشه با این شرایط پیش بینی کرد.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "وضعیت صندوق های طلا و نقره \n\nامروز تقریبا ورود و خروج خاصی در بازار طلا و نقره نداشتیم. \n\nهرچند افت قیمت طلا خاصی رو نمیشه با این شرایط پیش بینی کرد.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7255",
+      "analysis_score": 21,
+      "market_matches": [
+        "طلا",
+        "صندوق‌های طلا"
+      ],
+      "analysis_matches": [
+        "پیش بینی",
+        "پیش‌بینی",
+        "ورود",
+        "خروج",
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 274,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-24T13:18:29.200872+03:30"
+    },
+    "content_signature": "0bf74fe7b360a5929051c0c8d5fe1b81e41f45f4c4076a786a8a5e94176e631f",
+    "first_seen_at": "2026-10-24T13:18:37.769037+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1173
+    ],
+    "telegram_last_success_at": "2026-10-24T13:18:38.245670+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-24T13:18:38.256300+03:30",
+    "telegram_message_id": 1173,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178049795
+    ],
+    "eitaa_last_success_at": "2026-10-24T13:18:39.455766+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-24T13:18:39.466863+03:30",
+    "eitaa_message_id": 178049795,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      903
+    ],
+    "group_last_success_at": "2026-10-24T13:18:39.899812+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-24T13:18:39.910813+03:30",
+    "group_message_id": 903,
+    "published_at": "2026-10-24T13:18:39.921016+03:30"
+  },
+  "https://t.me/nasiirry/17671": {
+    "item": {
+      "analyst": "حسین نصیری",
+      "title": "میدونستید تو این سایت با ۳ میلیون سرمایه می تونید بیت کوین معامله کنید؟ 👇 👇 👇 👇",
+      "summary": "میدونستید تو این سایت با ۳ میلیون سرمایه می تونید بیت کوین معامله کنید؟ 👇 👇 👇 👇 \n\n https://mazanefx.com/ref/30615",
+      "full_text": "میدونستید تو این سایت با ۳ میلیون سرمایه می تونید بیت کوین معامله کنید؟ 👇 👇 👇 👇 \n\n https://mazanefx.com/ref/30615",
+      "source": "حسین نصیری",
+      "link": "https://t.me/nasiirry/17671",
+      "analysis_score": 8,
+      "market_matches": [
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "معامله"
+      ],
+      "market_groups": [],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 113,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-24T13:18:29.697286+03:30"
+    },
+    "content_signature": "ddfc7cffe6248be7e55549e04426e571ac549f33ae41934623a2387b5c7c9966",
+    "first_seen_at": "2026-10-24T13:18:39.931715+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1174
+    ],
+    "telegram_last_success_at": "2026-10-24T13:18:40.343177+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-24T13:18:40.354191+03:30",
+    "telegram_message_id": 1174,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178049801
+    ],
+    "eitaa_last_success_at": "2026-10-24T13:18:41.537773+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-24T13:18:41.548695+03:30",
+    "eitaa_message_id": 178049801,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      904
+    ],
+    "group_last_success_at": "2026-10-24T13:18:42.025797+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-24T13:18:42.036554+03:30",
+    "group_message_id": 904,
+    "published_at": "2026-10-24T13:18:42.046693+03:30"
   }
 }

@@ -7838,5 +7838,29 @@
     "group_message_id": 900,
     "fully_published": true,
     "last_checked_at": "2026-10-24T09:18:29.229868+00:00"
+  },
+  "e170be9e593fc0c017b9e0346ac41b6ca07358cccc83395b8e7aebad6290284a": {
+    "title": "فروش هیجانی سهام در نخستین روز کاری آبان؛ خروج ۸ همت پول حقیقی از بورس",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6988026/%D9%81%D8%B1%D9%88%D8%B4-%D9%87%DB%8C%D8%AC%D8%A7%D9%86%DB%8C-%D8%B3%D9%87%D8%A7%D9%85-%D8%AF%D8%B1-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AE%D8%B1%D9%88%D8%AC-%DB%B8-%D9%87%D9%85%D8%AA-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C",
+    "telegram_message_ids": [
+      1171
+    ],
+    "eitaa_message_ids": [
+      178049786
+    ],
+    "group_message_ids": [
+      901
+    ],
+    "content_hash": "da2236063b0293da5b3d3efee5852699a1e55d47258a57a6b991ad27f8b77d50",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T09:48:32.719413+00:00",
+    "telegram_message_id": 1171,
+    "eitaa_last_sent_at": "2026-10-24T09:48:34.079529+00:00",
+    "eitaa_message_id": 178049786,
+    "group_last_sent_at": "2026-10-24T09:48:35.753960+00:00",
+    "group_message_id": 901,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T09:48:35.767158+00:00"
   }
 }
