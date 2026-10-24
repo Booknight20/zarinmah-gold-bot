@@ -1346,49 +1346,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز اول آبان ۱۴۰۵/ مثقال طلا ۱.۵۳۸.۰۰۰ هزار تومان گران شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2291878/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A7%D9%88%D9%84-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%DB%B1-%DB%B5%DB%B3%DB%B8-%DB%B0%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
-    "summary": "قیمت طلا در بازار تهران امروز اول آبان ۱۴۰۵ اعلام شد و هر مثقال طلا ۱.۵۳۸.۰۰۰ تومان افزایش قیمت داشت.",
-    "published": "Fri, 23 Oct 2026 04:53:00 GMT",
-    "collected_at": "2026-10-23T08:24:14.115409+03:30",
-    "filter_market_score": 20,
-    "market_score": 20,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "افزایش",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا ظهر امروز ۲ آبان ۱۴۰۵/ مثقال طلا ۱۱۳ میلیون و ۹۰ هزار تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2292312/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%DB%B1%DB%B1%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B9%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1",
     "summary": "قیمت طلا در بازار تهران امروز ۲ آبان ۱۴۰۵ اعلام شد و قیمت مثقال طلا ۱۱۳ میلیون و ۹۰ هزار تومان قیمت خورده است.",
@@ -1783,54 +1740,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "قیمت طلا امروز جمعه ۱ آبان ۱۴۰۵/ کاهش قیمت طلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303583-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AC%D9%85%D8%B9%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
-    "summary": "قیمت طلا امروز با کاهش، 4018 (چهار هزار و هجده) دلار نرخ گذاری شد.",
-    "published": "Fri, 23 Oct 2026 04:03:37 +0000",
-    "collected_at": "2026-10-23T07:37:43.589057+03:30",
-    "filter_market_score": 18,
-    "market_score": 18,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "بانک مرکزی برای صندوق های ارزی شرط گذاشت/ دریافت ارز به صورت اسکناس صرفا به صورت دلار آبی رنگ مجاز است",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303843-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B4%D8%B1%D8%B7-%DA%AF%D8%B0%D8%A7%D8%B4%D8%AA-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D8%A7%D8%B1%D8%B2-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A7%D8%B3%DA%A9%D9%86%D8%A7%D8%B3-%D8%B5%D8%B1%D9%81%D8%A7-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A2%D8%A8%DB%8C-%D8%B1%D9%86%DA%AF-%D9%85%D8%AC%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA",
     "summary": "بانک مرکزی در خصوص کیفیت اسکناس ارز قابل مبادله مابین صندوق های سرمایه گذاری با درآمد ثابت ارزی و سرمایه گذاران، شرایط الزامی را تعیین کرد.",
@@ -2079,6 +1988,45 @@
     "filter_applied": true
   },
   {
+    "source": "ایسنا",
+    "title": "انارکی: وزیر نفت باید برای افزایش درآمدهای ارزی و رفع موانع تولید برنامه داشته باشد",
+    "link": "https://www.isna.ir/news/1405080200725/%D8%A7%D9%86%D8%A7%D8%B1%DA%A9%DB%8C-%D9%88%D8%B2%DB%8C%D8%B1-%D9%86%D9%81%D8%AA-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D8%AA%D9%88%D9%84%DB%8C%D8%AF",
+    "summary": "عضو کمیسیون اقتصادی مجلس با تاکید بر ضرورت انتخاب وزیر نفتی آشنا با ابعاد اقتصادی این صنعت گفت: وزارت نفت فقط مسئول تولید و صادرات نفت نیست بلکه یکی از پیشران های اصلی اقتصاد کشور است لذا باید وزیر نفت آینده بتواند ظرفیت های این مجموعه را به درآمد پایدار، سرمایه گذاری بیشتر و رونق تولید تبدیل کند.",
+    "published": "Sat, 24 Oct 2026 09:14:57 GMT",
+    "collected_at": "2026-10-24T12:47:13.231939+03:30",
+    "filter_market_score": 15,
+    "market_score": 15,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [
+      "نفت",
+      "صادرات نفت",
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "تولید",
+      "صادرات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "شمارش معکوس نفت برای جنگ؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4303724-%D8%B4%D9%85%D8%A7%D8%B1%D8%B4-%D9%85%D8%B9%DA%A9%D9%88%D8%B3-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D9%86%DA%AF",
@@ -2242,6 +2190,50 @@
     "filter_applied": true
   },
   {
+    "source": "تابناک",
+    "title": "هشدار درباره جهش دوباره قیمت خودرو!",
+    "link": "https://www.tabnak.ir/fa/news/1400126/هشدار-درباره-جهش-دوباره-قیمت-خودرو",
+    "summary": "یک کارشناس بازار خودرو با اشاره به افزایش شدید قیمت ها و خودداری برخی فروشندگان از فروش خودرو اظهار کرد: رشد نرخ دلار، ابهام در روند واردات و مداخلات دولتی، موجب تشدید آشفتگی در بازار خودرو شده است.",
+    "published": "24 Oct 2026 12:32:31 +0330",
+    "collected_at": "2026-10-24T12:47:45.532171+03:30",
+    "filter_market_score": 14,
+    "market_score": 14,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ]
+    },
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "جهش",
+      "قیمت",
+      "افزایش",
+      "رشد",
+      "نرخ",
+      "واردات",
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "قیمت خودرو هیچ تناسبی با درآمد مردم ندارد/ فروشندگان فعلا نمی فروشند!",
     "link": "https://www.isna.ir/news/1405080200473/%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%87%DB%8C%DA%86-%D8%AA%D9%86%D8%A7%D8%B3%D8%A8%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D9%85%D8%B1%D8%AF%D9%85-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%81%D8%B9%D9%84%D8%A7-%D9%86%D9%85%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF",
@@ -2285,40 +2277,40 @@
     "filter_applied": true
   },
   {
-    "source": "مهر",
-    "title": "ظرفیت ۸.۵ میلیارد دلاری صادرات بخش کشاورزی",
-    "link": "https://www.mehrnews.com/news/6986635/%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%DB%B8-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C",
-    "summary": "ساری - معاون توسعه بازرگانی وزارت جهاد کشاورزی با تأکید بر اهمیت توسعه صادرات محصولات کشاورزی گفت: بخش کشاورزی کشور ظرفیت دستیابی به صادرات سالانه حدود ۸ تا ۸.۵ میلیارد دلار را دارد.",
-    "published": "Fri, 23 Oct 2026 04:11:00 GMT",
-    "collected_at": "2026-10-23T07:47:14.924109+03:30",
+    "source": "مشرق",
+    "title": "بورس دبی باز هم فرو ریخت",
+    "link": "https://www.mashreghnews.ir/news/1847738/%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%A8%DB%8C-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D9%81%D8%B1%D9%88-%D8%B1%DB%8C%D8%AE%D8%AA",
+    "summary": "بورس های کشورهای حاشیه خلیج فارس روز جمعه تحت فشار نگرانی های امنیتی به روند نزولی خود ادامه دادند و در این میان بورس دبی با افت ۱.۴ درصدی به پایین ترین سطح بیش از چهار ماه گذشته رسید.",
+    "published": "Sat, 24 Oct 2026 09:14:46 GMT",
+    "collected_at": "2026-10-24T12:47:48.809294+03:30",
     "filter_market_score": 13,
     "market_score": 13,
     "market_matches": {
-      "currency": [
-        "دلار"
+      "stock": [
+        "بورس"
       ]
     },
     "title_market_matches": {
-      "currency": [
-        "دلار"
+      "stock": [
+        "بورس"
       ]
     },
     "summary_market_matches": {
-      "currency": [
-        "دلار"
+      "stock": [
+        "بورس"
       ]
     },
     "full_text_market_matches": {
-      "currency": [
-        "دلار"
+      "stock": [
+        "بورس"
       ]
     },
-    "driver_matches": [
-      "صادرات"
-    ],
+    "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "صادرات"
+      "افت",
+      "نزول",
+      "روند"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2553,44 +2545,6 @@
     "signal_matches": [
       "قیمت",
       "افزایش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز اول آبان ۱۴۰۵/ نیم سکه 141 میلیون و ۹۰۰ هزار تومان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2291879/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A7%D9%88%D9%84-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-141-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B9%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
-    "summary": "قیمت سکه در بازار تهران امروز اول آبان ۱۴۰۵ اعلام شد و نیم سکه نیم سکه 141 میلیون و ۹۰۰ هزار تومان شد.",
-    "published": "Fri, 23 Oct 2026 04:36:58 GMT",
-    "collected_at": "2026-10-23T08:07:36.495232+03:30",
-    "filter_market_score": 12,
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3107,146 +3061,6 @@
   },
   {
     "source": "مهر",
-    "title": "طلا و نقره پرتاب وزنه بانوان به ایران رسید",
-    "link": "https://www.mehrnews.com/news/6986783/%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8-%D9%88%D8%B2%D9%86%D9%87-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "نمایندگان پرتاب وزنه بانوان کشورمان با قرار گرفتن در رده های اول و دوم فینال بازی های پاراآسیایی ناگویا موفق به کسب مدال های طلا و نقره شدند.",
-    "published": "Fri, 23 Oct 2026 03:18:31 GMT",
-    "collected_at": "2026-10-23T06:57:17.423322+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "نخستین طلای ایران در روز پنجم/ دو نقره و یک برنز در پارادوومیدانی",
-    "link": "https://www.isna.ir/news/1405080100017/%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D9%85-%D8%AF%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D9%88-%DB%8C%DA%A9-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AF%D8%B1-%D9%BE%D8%A7%D8%B1%D8%A7%D8%AF%D9%88%D9%88%D9%85%DB%8C%D8%AF%D8%A7%D9%86%DB%8C",
-    "summary": "نمایندگان پرتاب وزنه مردان با قرار گرفتن در رده های اول و دوم فینال بازی های پاراآسیایی ناگویا موفق به کسب مدال های طلا و نقره شدند و نمایندگان پرتاب دیسک زنان یک نقره و یک برنز گرفتند.",
-    "published": "Fri, 23 Oct 2026 02:31:42 GMT",
-    "collected_at": "2026-10-23T06:13:59.863626+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "سکوی پرتاب دیسک مردان در تسخیر ایرانی ها/ اولاد طلا گرفت، باجولوند و علیپور نقره و برنز",
-    "link": "https://www.isna.ir/news/1405080100018/%D8%B3%DA%A9%D9%88%DB%8C-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8-%D8%AF%DB%8C%D8%B3%DA%A9-%D9%85%D8%B1%D8%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%B3%D8%AE%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%A7%D9%88%D9%84%D8%A7%D8%AF-%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA-%D8%A8%D8%A7%D8%AC%D9%88%D9%84%D9%88%D9%86%D8%AF",
-    "summary": "در پنجمین روز از بازی های پاراآسیایی ۲۰۲۶ ناگویا، در پرتاب دیسک مردان نمایندگان ایران به مدال طلا، نقره و برنز دست یافتند.",
-    "published": "Fri, 23 Oct 2026 02:39:00 GMT",
-    "collected_at": "2026-10-23T06:13:59.863604+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "نکویی مجد نخستین طلای روز پنجم را گرفت/ مدال نقره برای بیگ رضایی",
-    "link": "https://www.mehrnews.com/news/6986776/%D9%86%DA%A9%D9%88%DB%8C%DB%8C-%D9%85%D8%AC%D8%AF-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D9%85-%D8%B1%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA-%D9%85%D8%AF%D8%A7%D9%84-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%DB%8C%DA%AF-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C",
-    "summary": "نمایندگان پرتاب وزنه مردان کشورمان با قرار گرفتن در رده های اول و دوم فینال بازی های پاراآسیایی ناگویا موفق به کسب مدال های طلا و نقره شدند.",
-    "published": "Fri, 23 Oct 2026 02:12:45 GMT",
-    "collected_at": "2026-10-23T05:46:37.888107+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
     "title": "پایان روند صعودی کاروان پارالمپیک؛ اتفاق نگران کننده پس از ۴ دوره!",
     "link": "https://www.mehrnews.com/news/6987523/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B1%D9%88%D9%86%D8%AF-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%86%DA%AF%D8%B1%D8%A7%D9%86-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%86%D9%87%D8%A7%D8%B1",
     "summary": "کاروان ورزش ایران در حالی به کار خود در بازی های پاراآسیایی پایان داد که پس از دومی در هانگژو، چهار پله سقوط کرد؛ افتی که با کاهش ۱۸ طلا همراه بود و پایان تلخی برای روند صعودی ایران رقم زد.",
@@ -3529,41 +3343,6 @@
     "filter_applied": true
   },
   {
-    "source": "تابناک",
-    "title": "جزئیات قرارداد محرمانه ترامپ برای چپاول نفت ونزوئلا",
-    "link": "https://www.tabnak.ir/fa/news/1399953/جزئیات-قرارداد-محرمانه-ترامپ-برای-چپاول-نفت-ونزوئلا",
-    "summary": "آمریکا در چارچوب توافقی محرمانه، نفت ونزوئلا را با تخفیف دریافت می کند و ۳۵ درصد از سهام یک شرکت خصوصی نفتی را به دست آورده است.",
-    "published": "23 Oct 2026 08:00:01 +0330",
-    "collected_at": "2026-10-23T08:07:39.453026+03:30",
-    "filter_market_score": 7,
-    "market_score": 7,
-    "market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "توافق"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "بازار چین برای خودروسازان غربی از دست رفت",
     "link": "https://www.isna.ir/news/1405080200583/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%86%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA",
@@ -3727,37 +3506,6 @@
     "filter_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "روز پرمدال خوزستانی ها در پاراآسیایی ناگویا/ از طلای صالحی تا نقره حنان و حدیدی",
-    "link": "https://www.isna.ir/news/1405080100026/%D8%B1%D9%88%D8%B2-%D9%BE%D8%B1%D9%85%D8%AF%D8%A7%D9%84-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%BE%D8%A7%D8%B1%D8%A7%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7-%D8%A7%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B5%D8%A7%D9%84%D8%AD%DB%8C-%D8%AA%D8%A7",
-    "summary": "در روز پنجم بازی های پاراآسیایی ناگویا ورزشکاران خوزستانی تاکنون سه مدال کسب کرده اند و در حال حاضر تعداد مدال ورزشکاران استان به عدد ۱۱ رسیده است.",
-    "published": "Fri, 23 Oct 2026 04:32:07 GMT",
-    "collected_at": "2026-10-23T08:15:37.190701+03:30",
-    "filter_market_score": 6,
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت سکه امروز ۲ آبان ۱۴۰۵ در زمان بازگشایی بازار/ سکه ۲۶۶ میلیون تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2292176/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%DB%B2%DB%B6%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
@@ -3884,6 +3632,39 @@
     "major_event_matches": [],
     "signal_matches": [
       "اعلام کرد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت سکه ظهر امروز ۲ آبان ۱۴۰۵/ هر قطعه سکه ۲۶۶ میلیون و ۷۰۰ هزار تومان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2292319/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%D9%82%D8%B7%D8%B9%D9%87-%D8%B3%DA%A9%D9%87-%DB%B2%DB%B6%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B7%DB%B0%DB%B0",
+    "summary": "قیمت سکه در بازار تهران امروز ۲ آبان ۱۴۰۵ اعلام و هر قطعه سکه امامی ۲۶۶ میلیون و ۷۰۰ هزار تومان شد.",
+    "published": "Sat, 24 Oct 2026 09:15:00 GMT",
+    "collected_at": "2026-10-24T12:47:43.530386+03:30",
+    "filter_market_score": 4,
+    "market_score": 4,
+    "market_matches": {
+      "gold": [
+        "سکه امامی"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "سکه امامی"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "سکه امامی"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -4190,37 +3971,6 @@
     "full_text_market_matches": {
       "currency": [
         "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "هر سه مدال پرتاب دیسک به ایرانی ها رسید",
-    "link": "https://www.mehrnews.com/news/6986777/%D9%87%D8%B1-%D8%B3%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8-%D8%AF%DB%8C%D8%B3%DA%A9-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "رقابت های پرتاب دیسک کلاس F۱۱ در حالی برگزار شد که سه مدال طلا، نقره و برنز این بخش از آن نمایندگان ایرانی ها شد.",
-    "published": "Fri, 23 Oct 2026 02:16:28 GMT",
-    "collected_at": "2026-10-23T05:54:11.216934+03:30",
-    "filter_market_score": 4,
-    "market_score": 4,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
       ]
     },
     "driver_matches": [],
