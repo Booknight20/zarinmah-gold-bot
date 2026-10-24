@@ -8774,5 +8774,53 @@
     "group_message_id": 963,
     "fully_published": true,
     "last_checked_at": "2026-10-24T17:47:16.712175+00:00"
+  },
+  "c6d7d22d3fb803eb029fa1caaf8b11b409d1c0eb8a245d0ef0e96966e6b7825a": {
+    "title": "نوری: مسیرهای جدید تجاری، فرصت تازه ای برای توسعه صادرات است",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6988546/%D9%86%D9%88%D8%B1%DB%8C-%D9%85%D8%B3%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D9%81%D8%B1%D8%B5%D8%AA-%D8%AA%D8%A7%D8%B2%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1233
+    ],
+    "eitaa_message_ids": [
+      178128086
+    ],
+    "group_message_ids": [
+      965
+    ],
+    "content_hash": "1920967b08157b0141ffe2c38c418e85b1d7ae453f7ddada8eb46a92eb49f480",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T18:15:23.701340+00:00",
+    "telegram_message_id": 1233,
+    "eitaa_last_sent_at": "2026-10-24T18:15:25.541443+00:00",
+    "eitaa_message_id": 178128086,
+    "group_last_sent_at": "2026-10-24T18:15:27.226553+00:00",
+    "group_message_id": 965,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T18:15:27.236050+00:00"
+  },
+  "6cfc24ff8badce59db7e0f6a6372f8b0e9aff1797a05feb8b3621806cc778791": {
+    "title": "فیلم/ افزایش قیمت حمل نفت خام دربازارهای جهانی",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1847769/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AD%D9%85%D9%84-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+    "telegram_message_ids": [
+      1234
+    ],
+    "eitaa_message_ids": [
+      178128108
+    ],
+    "group_message_ids": [
+      966
+    ],
+    "content_hash": "83d21fa93a9c38242cdf5b29d6a42a5622db200c403beb197ce19c51311f97d9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T18:15:28.955422+00:00",
+    "telegram_message_id": 1234,
+    "eitaa_last_sent_at": "2026-10-24T18:15:30.554970+00:00",
+    "eitaa_message_id": 178128108,
+    "group_last_sent_at": "2026-10-24T18:15:32.190996+00:00",
+    "group_message_id": 966,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T18:15:32.200613+00:00"
   }
 }

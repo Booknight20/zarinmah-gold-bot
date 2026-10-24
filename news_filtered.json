@@ -3019,6 +3019,43 @@
     "filter_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "فیلم/ افزایش قیمت حمل نفت خام دربازارهای جهانی",
+    "link": "https://www.mashreghnews.ir/news/1847769/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AD%D9%85%D9%84-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+    "summary": "با افزایش ناامنی در مسیرهای دریایی، بهای حمل نفت خام به بیش از چهل دلار در هر بشکه رسیده است. براساس گزارش پایگاه «اویل اَند گاز» افزایش حق بیمه ی نفتکش ها به گرانی سوخت درکشورهای جهان دامن زده است.",
+    "published": "Sat, 24 Oct 2026 18:00:00 GMT",
+    "collected_at": "2026-10-24T21:45:06.676611+03:30",
+    "filter_market_score": 9,
+    "market_score": 9,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مهر",
     "title": "پایان روند صعودی کاروان پارالمپیک؛ اتفاق نگران کننده پس از ۴ دوره!",
     "link": "https://www.mehrnews.com/news/6987523/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B1%D9%88%D9%86%D8%AF-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%86%DA%AF%D8%B1%D8%A7%D9%86-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%86%D9%87%D8%A7%D8%B1",
@@ -3301,6 +3338,41 @@
     ],
     "major_event_matches": [],
     "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "نوری: مسیرهای جدید تجاری، فرصت تازه ای برای توسعه صادرات است",
+    "link": "https://www.mehrnews.com/news/6988546/%D9%86%D9%88%D8%B1%DB%8C-%D9%85%D8%B3%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D9%81%D8%B1%D8%B5%D8%AA-%D8%AA%D8%A7%D8%B2%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA",
+    "summary": "قزوین- مدیرکل دفتر بنگاه ها و تشکل های سازمان توسعه تجارت ایران گفت: توسعه مسیرهای جایگزین حمل ونقل، تسهیل بازگشت ارز و رفع موانع تجاری می تواند به بهبود صادرات کشور کمک کند.",
+    "published": "Sat, 24 Oct 2026 18:03:34 GMT",
+    "collected_at": "2026-10-24T21:44:54.283633+03:30",
+    "filter_market_score": 7,
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "صادرات"
+    ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
