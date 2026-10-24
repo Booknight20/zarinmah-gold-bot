@@ -7334,5 +7334,53 @@
     "group_message_id": 872,
     "fully_published": true,
     "last_checked_at": "2026-10-24T06:18:44.715405+00:00"
+  },
+  "8b96ce369f992640176605077436d9640d052b83271f10136e31f7daac3283b0": {
+    "title": "انهدام باند استخراج غیرمجاز رمز ارز در همدان با کشف ۱۵ دستگاه ماینر",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6986949/%D8%A7%D9%86%D9%87%D8%AF%D8%A7%D9%85-%D8%A8%D8%A7%D9%86%D8%AF-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%B1%D9%85%D8%B2-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%A8%D8%A7-%DA%A9%D8%B4%D9%81-%DB%B1%DB%B5-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87",
+    "telegram_message_ids": [
+      1144
+    ],
+    "eitaa_message_ids": [
+      178018298
+    ],
+    "group_message_ids": [
+      874
+    ],
+    "content_hash": "fe26bf2aca4a22948b945720460a04ec4fccb0c91b3c826bfa7683648106e4ed",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T06:48:42.002049+00:00",
+    "telegram_message_id": 1144,
+    "eitaa_last_sent_at": "2026-10-24T06:48:43.616294+00:00",
+    "eitaa_message_id": 178018298,
+    "group_last_sent_at": "2026-10-24T06:48:45.700218+00:00",
+    "group_message_id": 874,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T06:48:45.713156+00:00"
+  },
+  "d404a228b7371c2aff6b98577ce0bacc4df4f16a1691fb9f24467f6c2c8589bf": {
+    "title": "چرا قیمت نفت، خیال پایین آمدن ندارد؟",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1847686/%DA%86%D8%B1%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%AE%DB%8C%D8%A7%D9%84-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D8%A2%D9%85%D8%AF%D9%86-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1145
+    ],
+    "eitaa_message_ids": [
+      178018310
+    ],
+    "group_message_ids": [
+      875
+    ],
+    "content_hash": "2d3d33a2d85249797ea7efa6af919121de5d74d77e941e749f3be9c57f7c708d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T06:48:47.484644+00:00",
+    "telegram_message_id": 1145,
+    "eitaa_last_sent_at": "2026-10-24T06:48:48.281714+00:00",
+    "eitaa_message_id": 178018310,
+    "group_last_sent_at": "2026-10-24T06:48:50.048248+00:00",
+    "group_message_id": 875,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T06:48:50.061793+00:00"
   }
 }
