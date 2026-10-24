@@ -9458,5 +9458,70 @@
     "group_sent_at": "2026-10-24T08:44:58.132449+03:30",
     "group_message_id": 859,
     "published_at": "2026-10-24T08:44:58.138092+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25705": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "بابک زنجانی گفته دلارهایی که بابت فروش بیت کوین انجام داده رو بریزه تو بازار دلار میاد زیر ۲۰۰ هزارتومان یعنی بابک زن...",
+      "summary": "بابک زنجانی گفته دلارهایی که بابت فروش بیت کوین انجام داده رو بریزه تو بازار دلار میاد زیر ۲۰۰ هزارتومان یعنی بابک زنجانی میتونه باعث ریزش ۲۵٪ دلار بشه!!!! @payamelyaskordi ✅",
+      "full_text": "بابک زنجانی گفته دلارهایی که بابت فروش بیت کوین انجام داده رو بریزه تو بازار دلار میاد زیر ۲۰۰ هزارتومان یعنی بابک زنجانی میتونه باعث ریزش ۲۵٪ دلار بشه!!!! @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25705",
+      "analysis_score": 12,
+      "market_matches": [
+        "دلار",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "ریزش",
+        "فروش"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "high",
+      "content_length": 174,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-24T09:18:14.360562+03:30"
+    },
+    "content_signature": "01022c25c1af730239e8d6869bf1beadf74ddf8c53a2545d16ef69e6c6e827a2",
+    "first_seen_at": "2026-10-24T09:18:46.428295+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1136
+    ],
+    "telegram_last_success_at": "2026-10-24T09:18:46.916198+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-24T09:18:46.927084+03:30",
+    "telegram_message_id": 1136,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178007396
+    ],
+    "eitaa_last_success_at": "2026-10-24T09:18:48.348369+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-24T09:18:48.359092+03:30",
+    "eitaa_message_id": 178007396,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      866
+    ],
+    "group_last_success_at": "2026-10-24T09:18:48.897968+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-24T09:18:48.908536+03:30",
+    "group_message_id": 866,
+    "published_at": "2026-10-24T09:18:48.918782+03:30"
   }
 }
