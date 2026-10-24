@@ -1911,6 +1911,46 @@
     "filter_applied": true
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "فشار ریسک جنگ بر بازار سرمایه؛ جهش سود پالایشگاه ها در تابستان +فیلم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303948-%D9%81%D8%B4%D8%A7%D8%B1-%D8%B1%DB%8C%D8%B3%DA%A9-%D8%AC%D9%86%DA%AF-%D8%A8%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AC%D9%87%D8%B4-%D8%B3%D9%88%D8%AF-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "امروز به به بررسی عملکرد شش ماهه پالایشگاه ها و ابهام های مصوبه جدید قیمت گذاری خوراک و فرآورده های نفتی پرداختیم. سود خالص شش پالایشگاه بررسی شده به حدود ۴۵۶ همت رسید.",
+    "published": "Sat, 24 Oct 2026 17:37:01 +0000",
+    "collected_at": "2026-10-24T21:16:42.481083+03:30",
+    "filter_market_score": 14,
+    "market_score": 14,
+    "market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [
+      "جهش",
+      "سود",
+      "قیمت",
+      "سود خالص"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "تابناک",
     "title": "هشدار درباره جهش دوباره قیمت خودرو!",
     "link": "https://www.tabnak.ir/fa/news/1400126/هشدار-درباره-جهش-دوباره-قیمت-خودرو",

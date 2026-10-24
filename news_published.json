@@ -8750,5 +8750,29 @@
     "group_message_id": 961,
     "fully_published": true,
     "last_checked_at": "2026-10-24T16:48:04.210395+00:00"
+  },
+  "9c9fcc1b670fb4d9904f067356cebd566948874ff058ba46385d552548333570": {
+    "title": "فشار ریسک جنگ بر بازار سرمایه؛ جهش سود پالایشگاه ها در تابستان +فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303948-%D9%81%D8%B4%D8%A7%D8%B1-%D8%B1%DB%8C%D8%B3%DA%A9-%D8%AC%D9%86%DA%AF-%D8%A8%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AC%D9%87%D8%B4-%D8%B3%D9%88%D8%AF-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      1231
+    ],
+    "eitaa_message_ids": [
+      178124257
+    ],
+    "group_message_ids": [
+      963
+    ],
+    "content_hash": "af2efe6cf33d220e07ced896f05275dfa7d12a5bbd3962f96b594c850efb58c8",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T17:47:13.586962+00:00",
+    "telegram_message_id": 1231,
+    "eitaa_last_sent_at": "2026-10-24T17:47:14.926217+00:00",
+    "eitaa_message_id": 178124257,
+    "group_last_sent_at": "2026-10-24T17:47:16.699106+00:00",
+    "group_message_id": 963,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T17:47:16.712175+00:00"
   }
 }
