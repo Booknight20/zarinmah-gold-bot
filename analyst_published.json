@@ -9523,5 +9523,68 @@
     "group_sent_at": "2026-10-24T09:18:48.908536+03:30",
     "group_message_id": 866,
     "published_at": "2026-10-24T09:18:48.918782+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8664": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "70 نمادها، هفته رو منفی شروع کردن ‼️",
+      "summary": "70 نمادها، هفته رو منفی شروع کردن ‼️ \n\n 🔹 صف سفارشات فروش: 14 همت\n 🔹 صف سفارشات خرید: 7 همت\n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "70 نمادها، هفته رو منفی شروع کردن ‼️ \n\n 🔹 صف سفارشات فروش: 14 همت\n 🔹 صف سفارشات خرید: 7 همت\n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8664",
+      "analysis_score": 8,
+      "market_matches": [
+        "نماد"
+      ],
+      "analysis_matches": [
+        "خرید",
+        "فروش"
+      ],
+      "market_groups": [
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 115,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-24T09:48:19.122154+03:30"
+    },
+    "content_signature": "5e6b48f8b00fdaae49c5ea03639cdac15c7ae559ad653bf2ce13af97bb369472",
+    "first_seen_at": "2026-10-24T09:48:44.900152+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1143
+    ],
+    "telegram_last_success_at": "2026-10-24T09:48:45.477398+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-24T09:48:45.489012+03:30",
+    "telegram_message_id": 1143,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178012827
+    ],
+    "eitaa_last_success_at": "2026-10-24T09:48:47.050268+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-24T09:48:47.061122+03:30",
+    "eitaa_message_id": 178012827,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      873
+    ],
+    "group_last_success_at": "2026-10-24T09:48:47.798724+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-24T09:48:47.809475+03:30",
+    "group_message_id": 873,
+    "published_at": "2026-10-24T09:48:47.819502+03:30"
   }
 }
