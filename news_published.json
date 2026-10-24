@@ -8534,5 +8534,53 @@
     "group_message_id": 944,
     "fully_published": true,
     "last_checked_at": "2026-10-24T14:18:08.675838+00:00"
+  },
+  "be322e35d8171c817480254b3d415e08aa562a1602e67e7d493f4df2526352ec": {
+    "title": "پیام احمدی اولین فینالیست لقب گرفت؛ یک طلا در انتظار کشتی فرنگی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6988175/%D9%BE%DB%8C%D8%A7%D9%85-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D9%84%D9%82%D8%A8-%DA%AF%D8%B1%D9%81%D8%AA-%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C",
+    "telegram_message_ids": [
+      1217
+    ],
+    "eitaa_message_ids": [
+      178102263
+    ],
+    "group_message_ids": [
+      949
+    ],
+    "content_hash": "f43dafdc9966af15a78f7db72f86e1b115888f4b62600d3509c9d5b6e2798d0b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T14:48:05.877055+00:00",
+    "telegram_message_id": 1217,
+    "eitaa_last_sent_at": "2026-10-24T14:48:07.017018+00:00",
+    "eitaa_message_id": 178102263,
+    "group_last_sent_at": "2026-10-24T14:48:08.758876+00:00",
+    "group_message_id": 949,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T14:48:08.773340+00:00"
+  },
+  "21f2ae5e21204e903e64126bc869223334298e427b4941efff8a3a929bb82cf7": {
+    "title": "تأیید بانک مرکزی برای صدور، تمدید و لغو مجوز پلتفرم های فروش آنلاین طلا و تعیین ساعت فعالیت حذف شد/مرجع جایگزینی برای تعیین ساعات کاری مشخص نشد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292503/%D8%AA%D8%A3%DB%8C%DB%8C%D8%AF-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D8%AF%D9%88%D8%B1-%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%D9%88-%D9%84%D8%BA%D9%88-%D9%85%D8%AC%D9%88%D8%B2-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D9%88%D8%B4",
+    "telegram_message_ids": [
+      1218
+    ],
+    "eitaa_message_ids": [
+      178102274
+    ],
+    "group_message_ids": [
+      950
+    ],
+    "content_hash": "53de2f88f0ceed5cea95c061b98a35ccdb030ce7727e40cc17beb0103c4ec238",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T14:48:10.433638+00:00",
+    "telegram_message_id": 1218,
+    "eitaa_last_sent_at": "2026-10-24T14:48:11.507720+00:00",
+    "eitaa_message_id": 178102274,
+    "group_last_sent_at": "2026-10-24T14:48:13.106351+00:00",
+    "group_message_id": 950,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T14:48:13.133665+00:00"
   }
 }
