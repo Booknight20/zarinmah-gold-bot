@@ -8318,5 +8318,53 @@
     "group_message_id": 928,
     "fully_published": true,
     "last_checked_at": "2026-10-24T11:48:19.787920+00:00"
+  },
+  "6aefbf184466c376b93d1a318fdbf0ff92b930a00479f138f34d6c008a6c0bbf": {
+    "title": "بیشترین جذب سرمایه هند از کدام کشورهاست؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4303872-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%DB%8C%D9%86-%D8%AC%D8%B0%D8%A8-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%87%D9%86%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%AF%D8%A7%D9%85-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1201
+    ],
+    "eitaa_message_ids": [
+      178071576
+    ],
+    "group_message_ids": [
+      931
+    ],
+    "content_hash": "6da1cd5217f520836445328643aed67fb0ad7237f9dc1bb134f2d468cd2dcc8a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T12:15:30.990874+00:00",
+    "telegram_message_id": 1201,
+    "eitaa_last_sent_at": "2026-10-24T12:15:32.264525+00:00",
+    "eitaa_message_id": 178071576,
+    "group_last_sent_at": "2026-10-24T12:15:33.979477+00:00",
+    "group_message_id": 931,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T12:15:34.172473+00:00"
+  },
+  "22669f20feaffee24798c62b28da8e6a4147d322a40a0535bfe5c4739e80cda4": {
+    "title": "قیمت طلا و سکه امروز شنبه ۲ آبان / کدام سکه بیشترین افت را داشت؟",
+    "source": "تابناک",
+    "link": "https://www.tabnak.ir/fa/news/1400156/قیمت-طلا-و-سکه-امروز-شنبه-2-آبان-کدام-سکه-بیشترین-افت-را-داشت",
+    "telegram_message_ids": [
+      1202
+    ],
+    "eitaa_message_ids": [
+      178071587
+    ],
+    "group_message_ids": [
+      932
+    ],
+    "content_hash": "d1dea193eb7ee5c6043881a45b1070f5e90d3550bbcb236ffe31cb3cd620acfa",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-24T12:15:35.806975+00:00",
+    "telegram_message_id": 1202,
+    "eitaa_last_sent_at": "2026-10-24T12:15:37.087496+00:00",
+    "eitaa_message_id": 178071587,
+    "group_last_sent_at": "2026-10-24T12:15:38.701926+00:00",
+    "group_message_id": 932,
+    "fully_published": true,
+    "last_checked_at": "2026-10-24T12:15:38.715279+00:00"
   }
 }

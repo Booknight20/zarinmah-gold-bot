@@ -2240,6 +2240,66 @@
     "telegram_preview": "📰 قیمت طلا ظهر امروز ۲ آبان ۱۴۰۵/ مثقال طلا ۱۱۳ میلیون و ۹۰ هزار تومان شد + جدول\n\nقیمت طلا در بازار تهران امروز ۲ آبان ۱۴۰۵ اعلام شد و قیمت مثقال طلا ۱۱۳ میلیون و ۹۰ هزار تومان قیمت خورده است.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2292312/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%DB%B1%DB%B1%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B9%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1"
   },
   {
+    "source": "تابناک",
+    "title": "قیمت طلا و سکه امروز شنبه ۲ آبان / کدام سکه بیشترین افت را داشت؟",
+    "link": "https://www.tabnak.ir/fa/news/1400156/قیمت-طلا-و-سکه-امروز-شنبه-2-آبان-کدام-سکه-بیشترین-افت-را-داشت",
+    "summary": "قیمت طلا و سکه امروز رفتار متفاوتی داشت ؛ افت امروز، در نگاه اول خبر خوبی است: خرید ارزان تر. اما واقعیت تلخ تر است: افت، ساختار را درست نکرد؛ فقط قیمت را پایین آورد. حالا بازار با قیمت پایین تر اما ریسک بالاتر برگشته است — و این بدترین ترکیب برای خریدار حقیقی است.*",
+    "published": "24 Oct 2026 15:41:26 +0330",
+    "collected_at": "2026-10-24T15:45:04.744242+03:30",
+    "filter_market_score": 12,
+    "market_score": 24,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افت",
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "سکه"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "قیمت طلا و سکه امروز رفتار متفاوتی داشت ؛ افت امروز، در نگاه اول خبر خوبی است: خرید ارزان تر. اما واقعیت تلخ تر است: افت، ساختار را درست نکرد؛ فقط قیمت را پایین آورد. حالا بازار با قیمت پایین تر اما ریسک بالاتر برگشته است — و این بدترین ترکیب برای خریدار حقیقی است.*",
+    "telegram_preview": "📰 قیمت طلا و سکه امروز شنبه ۲ آبان / کدام سکه بیشترین افت را داشت؟\n\nقیمت طلا و سکه امروز رفتار متفاوتی داشت ؛ افت امروز، در نگاه اول خبر خوبی است: خرید ارزان تر. اما واقعیت تلخ تر است: افت، ساختار را درست نکرد؛ فقط قیمت را پایین آورد. حالا بازار با قیمت پایین تر اما ریسک بالاتر برگشته است — و این بدترین ترکیب برای خریدار حقیقی است.*\n\n📌 منبع: تابناک\n\n🔗 https://www.tabnak.ir/fa/news/1400156/قیمت-طلا-و-سکه-امروز-شنبه-2-آبان-کدام-سکه-بیشترین-افت-را-داشت"
+  },
+  {
     "source": "مهر",
     "title": "فروش هیجانی سهام در نخستین روز کاری آبان؛ خروج ۸ همت پول حقیقی از بورس",
     "link": "https://www.mehrnews.com/news/6988026/%D9%81%D8%B1%D9%88%D8%B4-%D9%87%DB%8C%D8%AC%D8%A7%D9%86%DB%8C-%D8%B3%D9%87%D8%A7%D9%85-%D8%AF%D8%B1-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AE%D8%B1%D9%88%D8%AC-%DB%B8-%D9%87%D9%85%D8%AA-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C",
@@ -4058,6 +4118,62 @@
     "telegram_preview": "📰 جهش دوباره نفت برنت/ قیمت نفت از 117 عبور کرد\n\nقیمت جهانی نفت از مرز 117 دلار در هر بشکه فراتر رفت.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303711-%D8%AC%D9%87%D8%B4-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF"
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "بیشترین جذب سرمایه هند از کدام کشورهاست؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4303872-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%DB%8C%D9%86-%D8%AC%D8%B0%D8%A8-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%87%D9%86%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%AF%D8%A7%D9%85-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%D8%B3%D8%AA",
+    "summary": "دنیای اقتصاد: هند در سه ماهه نخست سال مالی ۲۰۲۶، از آوریل تا ژوئن، ۱۹.۸۲ میلیارد دلار سرمایه گذاری مستقیم خارجی از محل ورود سرمایه به سهام جذب کرد.",
+    "published": "Sat, 24 Oct 2026 11:55:17 +0000",
+    "collected_at": "2026-10-24T15:45:00.380395+03:30",
+    "filter_market_score": 10,
+    "market_score": 16,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [
+      "سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "دنیای اقتصاد: هند در سه ماهه نخست سال مالی ۲۰۲۶، از آوریل تا ژوئن، ۱۹.۸۲ میلیارد دلار سرمایه گذاری مستقیم خارجی از محل ورود سرمایه به سهام جذب کرد.",
+    "telegram_preview": "📰 بیشترین جذب سرمایه هند از کدام کشورهاست؟\n\nدنیای اقتصاد: هند در سه ماهه نخست سال مالی ۲۰۲۶، از آوریل تا ژوئن، ۱۹.۸۲ میلیارد دلار سرمایه گذاری مستقیم خارجی از محل ورود سرمایه به سهام جذب کرد.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4303872-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%DB%8C%D9%86-%D8%AC%D8%B0%D8%A8-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%87%D9%86%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%AF%D8%A7%D9%85-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%D8%B3%D8%AA"
+  },
+  {
     "source": "ایسنا",
     "title": "بازگرداندن طلای ۱۵ میلیارد ریالی به صاحبش در سمنان",
     "link": "https://www.isna.ir/news/1405080200788/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%D8%AF%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%D8%B5%D8%A7%D8%AD%D8%A8%D8%B4-%D8%AF%D8%B1-%D8%B3%D9%85%D9%86%D8%A7%D9%86",
@@ -5111,55 +5227,6 @@
     "duplicate_count": 1,
     "full_text": "باید گفت که قیمت جهانی نفت خام به دنبال تهدیدات اخیر دونالد ترامپ به بالای ۱۱۷ دلار در هر بشکه رسید.",
     "telegram_preview": "📰 شوک نفتی در سایه حمله احتمالی آمریکا به ایران\n\nباید گفت که قیمت جهانی نفت خام به دنبال تهدیدات اخیر دونالد ترامپ به بالای ۱۱۷ دلار در هر بشکه رسید.\n\n📌 منبع: تابناک\n\n🔗 https://www.tabnak.ir/fa/news/1400093/شوک-نفتی-در-سایه-حمله-احتمالی-آمریکا-به-ایران"
-  },
-  {
-    "source": "مشرق",
-    "title": "فیلم/ شکست میلیارد دلاری پدافند سعودی ها به روایت رسانه موساد",
-    "link": "https://www.mashreghnews.ir/news/1847492/%D9%81%DB%8C%D9%84%D9%85-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D9%87%D8%A7-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%B3%D8%A7%D8%AF",
-    "summary": "پروپاگاندای رسانه ای اینترنشنال برای فروش تسلیحات گران قیمت به سعودی با اعتراف به شکست پایان یافت.",
-    "published": "Fri, 23 Oct 2026 09:51:07 GMT",
-    "collected_at": "2026-10-23T13:25:52.218804+03:30",
-    "filter_market_score": 6,
-    "market_score": 11,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "پروپاگاندای رسانه ای اینترنشنال برای فروش تسلیحات گران قیمت به سعودی با اعتراف به شکست پایان یافت.",
-    "telegram_preview": "📰 فیلم/ شکست میلیارد دلاری پدافند سعودی ها به روایت رسانه موساد\n\nپروپاگاندای رسانه ای اینترنشنال برای فروش تسلیحات گران قیمت به سعودی با اعتراف به شکست پایان یافت.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1847492/%D9%81%DB%8C%D9%84%D9%85-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D9%87%D8%A7-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%B3%D8%A7%D8%AF"
   },
   {
     "source": "مهر",

@@ -2411,6 +2411,44 @@
     "filter_applied": true
   },
   {
+    "source": "تابناک",
+    "title": "قیمت طلا و سکه امروز شنبه ۲ آبان / کدام سکه بیشترین افت را داشت؟",
+    "link": "https://www.tabnak.ir/fa/news/1400156/قیمت-طلا-و-سکه-امروز-شنبه-2-آبان-کدام-سکه-بیشترین-افت-را-داشت",
+    "summary": "قیمت طلا و سکه امروز رفتار متفاوتی داشت ؛ افت امروز، در نگاه اول خبر خوبی است: خرید ارزان تر. اما واقعیت تلخ تر است: افت، ساختار را درست نکرد؛ فقط قیمت را پایین آورد. حالا بازار با قیمت پایین تر اما ریسک بالاتر برگشته است — و این بدترین ترکیب برای خریدار حقیقی است.*",
+    "published": "24 Oct 2026 15:41:26 +0330",
+    "collected_at": "2026-10-24T15:45:04.744242+03:30",
+    "filter_market_score": 12,
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افت",
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مهر",
     "title": "جیوه به طلا تبدیل شد!",
     "link": "https://www.mehrnews.com/news/6988181/%D8%AC%DB%8C%D9%88%D9%87-%D8%A8%D9%87-%D8%B7%D9%84%D8%A7-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%B4%D8%AF",
@@ -2903,6 +2941,46 @@
     "signal_matches": [
       "هدف"
     ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "بیشترین جذب سرمایه هند از کدام کشورهاست؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4303872-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%DB%8C%D9%86-%D8%AC%D8%B0%D8%A8-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%87%D9%86%D8%AF-%D8%A7%D8%B2-%DA%A9%D8%AF%D8%A7%D9%85-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%D8%B3%D8%AA",
+    "summary": "دنیای اقتصاد: هند در سه ماهه نخست سال مالی ۲۰۲۶، از آوریل تا ژوئن، ۱۹.۸۲ میلیارد دلار سرمایه گذاری مستقیم خارجی از محل ورود سرمایه به سهام جذب کرد.",
+    "published": "Sat, 24 Oct 2026 11:55:17 +0000",
+    "collected_at": "2026-10-24T15:45:00.380395+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
@@ -3668,39 +3746,6 @@
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مشرق",
-    "title": "فیلم/ شکست میلیارد دلاری پدافند سعودی ها به روایت رسانه موساد",
-    "link": "https://www.mashreghnews.ir/news/1847492/%D9%81%DB%8C%D9%84%D9%85-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D9%87%D8%A7-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%85%D9%88%D8%B3%D8%A7%D8%AF",
-    "summary": "پروپاگاندای رسانه ای اینترنشنال برای فروش تسلیحات گران قیمت به سعودی با اعتراف به شکست پایان یافت.",
-    "published": "Fri, 23 Oct 2026 09:51:07 GMT",
-    "collected_at": "2026-10-23T13:25:52.218804+03:30",
-    "filter_market_score": 6,
-    "market_score": 6,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت"
-    ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
