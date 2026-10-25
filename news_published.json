@@ -9182,5 +9182,53 @@
     "group_message_id": 982,
     "fully_published": true,
     "last_checked_at": "2026-10-25T03:44:46.663812+00:00"
+  },
+  "759266beeea79e7e5c600c044a25f4f78449832c92efea711ad02c6de26e8412": {
+    "title": "کشف پرونده سرقت ۳ میلیارد تومان طلا در مشهد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6988650/%DA%A9%D8%B4%D9%81-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF",
+    "telegram_message_ids": [
+      1251
+    ],
+    "eitaa_message_ids": [
+      178168348
+    ],
+    "group_message_ids": [
+      983
+    ],
+    "content_hash": "f07220b8ae001b1fdc152511089467a310f9d4a57c79bfa4442b59c388be8b38",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T04:18:13.004187+00:00",
+    "telegram_message_id": 1251,
+    "eitaa_last_sent_at": "2026-10-25T04:18:14.545990+00:00",
+    "eitaa_message_id": 178168348,
+    "group_last_sent_at": "2026-10-25T04:18:16.318623+00:00",
+    "group_message_id": 983,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T04:18:16.334118+00:00"
+  },
+  "24ffbfeadbdb1c96972fffa2cf5b3ad7081a786be4bdc3ae38dd646bb82eda1d": {
+    "title": "پیش بینی قیمت ها در بازار طلا و ارز در آبان 1405/ قیمت دلار جهش خواهد کرد؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304028-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%A2%D8%A8%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AC%D9%87%D8%B4-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1252
+    ],
+    "eitaa_message_ids": [
+      178168353
+    ],
+    "group_message_ids": [
+      984
+    ],
+    "content_hash": "26dbfe8b906bedc882ab13d07c0fc7d5289d4bb38bb622d48dcfbe270a400ec1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T04:18:18.113081+00:00",
+    "telegram_message_id": 1252,
+    "eitaa_last_sent_at": "2026-10-25T04:18:19.666488+00:00",
+    "eitaa_message_id": 178168353,
+    "group_last_sent_at": "2026-10-25T04:18:21.384715+00:00",
+    "group_message_id": 984,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T04:18:21.400557+00:00"
   }
 }
