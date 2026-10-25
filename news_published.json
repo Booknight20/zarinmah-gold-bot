@@ -9350,5 +9350,101 @@
     "group_message_id": 989,
     "fully_published": true,
     "last_checked_at": "2026-10-25T04:48:34.410028+00:00"
+  },
+  "e8a1da97f3b504e57faf043f5d933e4b2697d54d5bd4a61964109554d8bf6452": {
+    "title": "درخواست از وزارت صمت برای شناسایی خریداران غیرواقعی مواد اولیه نساجی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080301162/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%A7%D8%B2-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%B5%D9%85%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%BA%DB%8C%D8%B1%D9%88%D8%A7%D9%82%D8%B9%DB%8C-%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%87",
+    "telegram_message_ids": [
+      1258
+    ],
+    "eitaa_message_ids": [
+      178174823
+    ],
+    "group_message_ids": [
+      990
+    ],
+    "content_hash": "8094986a184ec0a31fb81dbed987ea9c07296dfe68519566e5dc5ee46322c63c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T05:14:47.727419+00:00",
+    "telegram_message_id": 1258,
+    "eitaa_last_sent_at": "2026-10-25T05:14:49.012430+00:00",
+    "eitaa_message_id": 178174823,
+    "group_last_sent_at": "2026-10-25T05:14:50.648405+00:00",
+    "group_message_id": 990,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T05:14:50.657393+00:00"
+  },
+  "8fc0fc62c3fc3530352509c385cc0e1db469b8e1f9800f8489f5c5da1856ab5c": {
+    "title": "محمد نخودی در سودای نخستین طلای جهانی؛ فرصت طلایی برای تاریخ سازی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6988717/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%AE%D9%88%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%B3%D9%88%D8%AF%D8%A7%DB%8C-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%81%D8%B1%D8%B5%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B3%D8%A7%D8%B2%DB%8C",
+    "telegram_message_ids": [
+      1259
+    ],
+    "eitaa_message_ids": [
+      178174836
+    ],
+    "group_message_ids": [
+      991
+    ],
+    "content_hash": "3477d65ec3b3d9dd6e78d097e6c9e366c9dcda60c434ed4f844cd028adad7447",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T05:14:52.324215+00:00",
+    "telegram_message_id": 1259,
+    "eitaa_last_sent_at": "2026-10-25T05:14:53.482635+00:00",
+    "eitaa_message_id": 178174836,
+    "group_last_sent_at": "2026-10-25T05:14:55.111881+00:00",
+    "group_message_id": 991,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T05:14:55.121216+00:00"
+  },
+  "907b05c329f2c82bf77ca61aa3fa50cdc4b31446735aac7ad2c420e1620e908a": {
+    "title": "قیمت سکه امروز ۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ نیم سکه به قیمت ۱۳۸ میلیون و ۳۰۰ هزار تومان به فروش رفت + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292695/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87",
+    "telegram_message_ids": [
+      1260
+    ],
+    "eitaa_message_ids": [
+      178174842
+    ],
+    "group_message_ids": [
+      992
+    ],
+    "content_hash": "7d22f88689d52660b8a8338bb3d01ecc2a147a3d0efb7844c514363930cb1509",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T05:14:56.779543+00:00",
+    "telegram_message_id": 1260,
+    "eitaa_last_sent_at": "2026-10-25T05:14:58.036821+00:00",
+    "eitaa_message_id": 178174842,
+    "group_last_sent_at": "2026-10-25T05:14:59.658643+00:00",
+    "group_message_id": 992,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T05:14:59.667917+00:00"
+  },
+  "e5214ee669c7edf1954e191ea84e6c805103e6f21738b7767c901e7cc4a0f4e5": {
+    "title": "رونمایی از سیاست تجاری جدید عراق با ایران/ ۱۰ میلیارد دلار زیر تیغ !",
+    "source": "تابناک",
+    "link": "https://www.tabnak.ir/fa/news/1399766/رونمایی-از-سیاست-تجاری-جدید-عراق-با-ایران-10-میلیارد-دلار-زیر-تیغ",
+    "telegram_message_ids": [
+      1261
+    ],
+    "eitaa_message_ids": [
+      178174853
+    ],
+    "group_message_ids": [
+      993
+    ],
+    "content_hash": "2897a96f3cfa51342c3535b64830dacf5770d276655041a2b7c92eaf5361033c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T05:15:01.329644+00:00",
+    "telegram_message_id": 1261,
+    "eitaa_last_sent_at": "2026-10-25T05:15:03.347111+00:00",
+    "eitaa_message_id": 178174853,
+    "group_last_sent_at": "2026-10-25T05:15:04.961258+00:00",
+    "group_message_id": 993,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T05:15:04.970289+00:00"
   }
 }
