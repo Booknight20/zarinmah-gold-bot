@@ -3065,66 +3065,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "رکورد خروج پول 1405 شکسته شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4303878-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D9%BE%D9%88%D9%84-%D8%B4%DA%A9%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF",
-    "summary": "دنیای اقتصاد: معاملات بورس تهران در روز شنبه در ادامه فضای منفی حاکم بر بازار در روزهای اخیر دنبال شد و شاخص های سهامی با کاهش ارتفاع همراه شدند. شاخص کل در این روز 1.58 درصد افت کرد و به سطح ۸ میلیون و ۴۴ هزار واحد رسید و بیش از 8همت توسط سرمایه گذاران حقیقی از بازار خارج شد. این رقم بیشترین خروج روزانه پول حقیقی ها از ابتدای سال جاری به شمار می رود.",
-    "published": "Sat, 24 Oct 2026 13:04:12 +0000",
-    "collected_at": "2026-10-24T16:47:39.624292+03:30",
-    "filter_market_score": 15,
-    "market_score": 18,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "سهام"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رکورد",
-      "خروج پول",
-      "کاهش",
-      "افت",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "دنیای اقتصاد: معاملات بورس تهران در روز شنبه در ادامه فضای منفی حاکم بر بازار در روزهای اخیر دنبال شد و شاخص های سهامی با کاهش ارتفاع همراه شدند. شاخص کل در این روز 1.58 درصد افت کرد و به سطح ۸ میلیون و ۴۴ هزار واحد رسید و بیش از 8همت توسط سرمایه گذاران حقیقی از بازار خارج شد. این رقم بیشترین خروج روزانه پول حقیقی ها از ابتدای سال جاری به شمار می رود.",
-    "telegram_preview": "📰 رکورد خروج پول 1405 شکسته شد\n\nدنیای اقتصاد: معاملات بورس تهران در روز شنبه در ادامه فضای منفی حاکم بر بازار در روزهای اخیر دنبال شد و شاخص های سهامی با کاهش ارتفاع همراه شدند. شاخص کل در این روز 1.58 درصد افت کرد و به سطح ۸ میلیون و ۴۴ هزار واحد رسید و بیش از 8همت توسط سرمایه گذاران حقیقی از بازار خارج شد. این رقم بیشترین خروج روزانه پول حقیقی ها از ابتدای سال جاری به شمار می رود.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4303878-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D9%BE%D9%88%D9%84-%D8%B4%DA%A9%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF"
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "سقوط سنگین سهام ولوو/ ۲۵۰۰ نیروی کار تعدیل شدند",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303911-%D8%B3%D9%82%D9%88%D8%B7-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%B3%D9%87%D8%A7%D9%85-%D9%88%D9%84%D9%88%D9%88-%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%DA%A9%D8%A7%D8%B1-%D8%AA%D8%B9%D8%AF%DB%8C%D9%84-%D8%B4%D8%AF%D9%86%D8%AF",
     "summary": "ولوو کارز در سه ماهه سوم زیان عملیاتی ۳.۷ میلیارد کرونی سوئد را ثبت کرد. انتشار این نتایج با افت ۲۴ درصدی ارزش سهام شرکت همراه شد.",
@@ -3725,58 +3665,6 @@
     "duplicate_count": 1,
     "full_text": "علی عالی پور، وزنه بردار دسته ۹۵ کیلوگرم کشورمان پس از کسب مدال طلای بازی های آسیایی ۲۰۲۶ آیچی-ناگویا حالا می گوید که به فکر کسب مدال طلای المپیک ۲۰۲۸ لس آنجلس است.",
     "telegram_preview": "📰 عالی پور: کار ما با آهن است که زبان نمی فهمد/ با هشتمی در آسیا انگیزه نداشتم/ باور دارم که طلای المپیک را می گیرم\n\nعلی عالی پور، وزنه بردار دسته ۹۵ کیلوگرم کشورمان پس از کسب مدال طلای بازی های آسیایی ۲۰۲۶ آیچی-ناگویا حالا می گوید که به فکر کسب مدال طلای المپیک ۲۰۲۸ لس آنجلس است.\n\n📌 منبع: تابناک\n\n🔗 https://www.tabnak.ir/fa/news/1399474/عالی-پور-کار-ما-با-آهن-است-که-زبان-نمی-فهمد-با-هشتمی-در-آسیا-انگیزه-نداشتم-باور-دارم-که-طلای-المپیک-را-می-گیرم"
-  },
-  {
-    "source": "مهر",
-    "title": "کشف ۱۴ دستگاه استخراج غیرمجاز رمز ارز در بندرلنگه",
-    "link": "https://www.mehrnews.com/news/6988202/%DA%A9%D8%B4%D9%81-%DB%B1%DB%B4-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%B1%D9%85%D8%B2-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1%D9%84%D9%86%DA%AF%D9%87",
-    "summary": "بندرلنگه – رئیس پلیس امنیت اقتصادی هرمزگان از کشف ۱۴ دستگاه استخراج غیرمجاز رمز ارز دیجیتال به ارزش ۲۸ میلیارد ریال در بازرسی از دو منزل مسکونی در شهرستان بندرلنگه خبر داد.",
-    "published": "Sat, 24 Oct 2026 13:00:56 GMT",
-    "collected_at": "2026-10-24T16:47:26.841870+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "بندرلنگه – رئیس پلیس امنیت اقتصادی هرمزگان از کشف ۱۴ دستگاه استخراج غیرمجاز رمز ارز دیجیتال به ارزش ۲۸ میلیارد ریال در بازرسی از دو منزل مسکونی در شهرستان بندرلنگه خبر داد.",
-    "telegram_preview": "📰 کشف ۱۴ دستگاه استخراج غیرمجاز رمز ارز در بندرلنگه\n\nبندرلنگه – رئیس پلیس امنیت اقتصادی هرمزگان از کشف ۱۴ دستگاه استخراج غیرمجاز رمز ارز دیجیتال به ارزش ۲۸ میلیارد ریال در بازرسی از دو منزل مسکونی در شهرستان بندرلنگه خبر داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6988202/%DA%A9%D8%B4%D9%81-%DB%B1%DB%B4-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%B1%D9%85%D8%B2-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1%D9%84%D9%86%DA%AF%D9%87"
   },
   {
     "source": "دنیای اقتصاد",
@@ -4878,6 +4766,100 @@
     "telegram_preview": "📰 حواشی کشتی فرنگی قهرمانی جهان؛ شکست رضا کایالپ و مصدومیت شدید غنی زاده\n\nاولوی غنی زاده ی آذربایجانی که سال گذشته بعد از کسب مدال طلای جهانی کتفش را جراحی کرده بود، از ناحیه زانو به شدت آسیب دید و از راهیابی به نیمه نهایی وزن ۷۲ کیلوگرم قهرمانی جهان بازماند.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1848003/%D8%AD%D9%88%D8%A7%D8%B4%DB%8C-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%B1%D8%B6%D8%A7-%DA%A9%D8%A7%DB%8C%D8%A7%D9%84%D9%BE-%D9%88-%D9%85%D8%B5%D8%AF%D9%88%D9%85%DB%8C%D8%AA-%D8%B4%D8%AF%DB%8C%D8%AF"
   },
   {
+    "source": "مشرق",
+    "title": "فیلم/ احمدی وفا طلا را به حریف ژاپنی داد و نقره ای شد",
+    "link": "https://www.mashreghnews.ir/news/1848065/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%88%D9%81%D8%A7-%D8%B7%D9%84%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AD%D8%B1%DB%8C%D9%81-%DA%98%D8%A7%D9%BE%D9%86%DB%8C-%D8%AF%D8%A7%D8%AF-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D8%B4%D8%AF",
+    "summary": "علی احمدی وفا در فینال وزن ۶۰ کیلوگرم مسابقات کشتی فرنگی قهرمانی جهان درحالی که با نتیجه ۷ بر ۵ مقابل کوتو گومی از ژاپن به پیروزی پیش بود، ضربه فنی شد و به مدال نقره رسید.",
+    "published": "Sun, 25 Oct 2026 14:02:00 GMT",
+    "collected_at": "2026-10-25T17:47:28.234653+03:30",
+    "filter_market_score": 6,
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "علی احمدی وفا در فینال وزن ۶۰ کیلوگرم مسابقات کشتی فرنگی قهرمانی جهان درحالی که با نتیجه ۷ بر ۵ مقابل کوتو گومی از ژاپن به پیروزی پیش بود، ضربه فنی شد و به مدال نقره رسید.",
+    "telegram_preview": "📰 فیلم/ احمدی وفا طلا را به حریف ژاپنی داد و نقره ای شد\n\nعلی احمدی وفا در فینال وزن ۶۰ کیلوگرم مسابقات کشتی فرنگی قهرمانی جهان درحالی که با نتیجه ۷ بر ۵ مقابل کوتو گومی از ژاپن به پیروزی پیش بود، ضربه فنی شد و به مدال نقره رسید.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1848065/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%88%D9%81%D8%A7-%D8%B7%D9%84%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AD%D8%B1%DB%8C%D9%81-%DA%98%D8%A7%D9%BE%D9%86%DB%8C-%D8%AF%D8%A7%D8%AF-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D8%B4%D8%AF"
+  },
+  {
+    "source": "مهر",
+    "title": "طلا مفت پرید؛ احمدی وفا به نقره بسنده کرد",
+    "link": "https://www.mehrnews.com/news/6989186/%D8%B7%D9%84%D8%A7-%D9%85%D9%81%D8%AA-%D9%BE%D8%B1%DB%8C%D8%AF-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%88%D9%81%D8%A7-%D8%A8%D9%87-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%B3%D9%86%D8%AF%D9%87-%DA%A9%D8%B1%D8%AF",
+    "summary": "علی احمدی وفا فرنگی کار وزن ۶۰ کیلوگرم با شکست برابر حریف ژاپنی خود به مدال نقره مسابقات جهانی رسید.",
+    "published": "Sun, 25 Oct 2026 13:52:59 GMT",
+    "collected_at": "2026-10-25T17:47:09.160243+03:30",
+    "filter_market_score": 6,
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "علی احمدی وفا فرنگی کار وزن ۶۰ کیلوگرم با شکست برابر حریف ژاپنی خود به مدال نقره مسابقات جهانی رسید.",
+    "telegram_preview": "📰 طلا مفت پرید؛ احمدی وفا به نقره بسنده کرد\n\nعلی احمدی وفا فرنگی کار وزن ۶۰ کیلوگرم با شکست برابر حریف ژاپنی خود به مدال نقره مسابقات جهانی رسید.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989186/%D8%B7%D9%84%D8%A7-%D9%85%D9%81%D8%AA-%D9%BE%D8%B1%DB%8C%D8%AF-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%88%D9%81%D8%A7-%D8%A8%D9%87-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%B3%D9%86%D8%AF%D9%87-%DA%A9%D8%B1%D8%AF"
+  },
+  {
     "source": "مهر",
     "title": "پیام احمدی نقره خود را تکرار کرد؛ یک مدال طلا از دست رفت",
     "link": "https://www.mehrnews.com/news/6989076/%D9%BE%DB%8C%D8%A7%D9%85-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%86%D9%82%D8%B1%D9%87-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF-%DB%8C%DA%A9-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA",
@@ -5474,13 +5456,13 @@
     "telegram_preview": "📰 سه فینالیست کشتی فرنگی ایران در روز نخست؛ یک ملی پوش از طلا جا ماند\n\nچهار وزن نخست کشتی فرنگی مسابقات قهرمانی جهان در شرایطی به مرحله فینال و رده بندی رسید که سه ملی پوش ایران مقتدرانه راهی فینال شدند و یک ملی پوش هم برای کسب مدال برنز مبارزه خواهد کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6988402/%D8%B3%D9%87-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2-%D9%86%D8%AE%D8%B3%D8%AA-%DB%8C%DA%A9-%D9%85%D9%84%DB%8C-%D9%BE%D9%88%D8%B4-%D8%A7%D8%B2-%D8%B7%D9%84%D8%A7-%D8%AC%D8%A7"
   },
   {
-    "source": "مشرق",
-    "title": "توئیت کاربر خارجی: یمنی ها در می زنند، ریاض متروکه می شود! +فیلم",
-    "link": "https://www.mashreghnews.ir/news/1847777/%D8%AA%D9%88%D8%A6%DB%8C%D8%AA-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%DB%8C%D9%85%D9%86%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%DB%8C-%D8%B2%D9%86%D9%86%D8%AF-%D8%B1%DB%8C%D8%A7%D8%B6-%D9%85%D8%AA%D8%B1%D9%88%DA%A9%D9%87-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
-    "summary": "اخبار و گزارش های مختلف از آن حکایت دارد که حکام مزدور سعودی از هر نیروی مزدوری، از سودان تا سوریه، با خرج گونی های دلار، فراخوان داده اند، اما شاهدان عینی می گویند، اوضاع آل سعود خراب تر از این است.",
-    "published": "Sat, 24 Oct 2026 12:49:54 GMT",
-    "collected_at": "2026-10-24T16:47:49.610663+03:30",
-    "filter_market_score": 6,
+    "source": "مهر",
+    "title": "افزایش چشمگیر کمک های مالی به کارزار انتخاباتی ایلهان عمر",
+    "link": "https://www.mehrnews.com/news/6989553/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DA%86%D8%B4%D9%85%DA%AF%DB%8C%D8%B1-%DA%A9%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%D8%B2%D8%A7%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%A7%DB%8C%D9%84%D9%87%D8%A7%D9%86-%D8%B9%D9%85%D8%B1",
+    "summary": "کارزار انتخاباتی ایلهان عمر پس از یورش ماموران فدرال به منزلش، طی دو روز بیش از ۱.۵ میلیون دلار کمک مالی دریافت کرد.",
+    "published": "Sun, 25 Oct 2026 14:09:40 GMT",
+    "collected_at": "2026-10-25T17:47:09.160157+03:30",
+    "filter_market_score": 5,
     "market_score": 10,
     "market_matches": {
       "currency": [
@@ -5497,13 +5479,12 @@
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "داده",
-      "گزارش"
+      "افزایش"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "medium",
-    "filter_score_bonus": 6,
+    "filter_score_bonus": 5,
     "gold_matches": [],
     "currency_matches": [
       "دلار"
@@ -5511,17 +5492,18 @@
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
-    "has_numeric_evidence": false,
+    "has_numeric_evidence": true,
     "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
     "duplicate_count": 1,
-    "full_text": "اخبار و گزارش های مختلف از آن حکایت دارد که حکام مزدور سعودی از هر نیروی مزدوری، از سودان تا سوریه، با خرج گونی های دلار، فراخوان داده اند، اما شاهدان عینی می گویند، اوضاع آل سعود خراب تر از این است.",
-    "telegram_preview": "📰 توئیت کاربر خارجی: یمنی ها در می زنند، ریاض متروکه می شود! +فیلم\n\nاخبار و گزارش های مختلف از آن حکایت دارد که حکام مزدور سعودی از هر نیروی مزدوری، از سودان تا سوریه، با خرج گونی های دلار، فراخوان داده اند، اما شاهدان عینی می گویند، اوضاع آل سعود خراب تر از این است.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1847777/%D8%AA%D9%88%D8%A6%DB%8C%D8%AA-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%DB%8C%D9%85%D9%86%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%DB%8C-%D8%B2%D9%86%D9%86%D8%AF-%D8%B1%DB%8C%D8%A7%D8%B6-%D9%85%D8%AA%D8%B1%D9%88%DA%A9%D9%87-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D9%81%DB%8C%D9%84%D9%85"
+    "full_text": "کارزار انتخاباتی ایلهان عمر پس از یورش ماموران فدرال به منزلش، طی دو روز بیش از ۱.۵ میلیون دلار کمک مالی دریافت کرد.",
+    "telegram_preview": "📰 افزایش چشمگیر کمک های مالی به کارزار انتخاباتی ایلهان عمر\n\nکارزار انتخاباتی ایلهان عمر پس از یورش ماموران فدرال به منزلش، طی دو روز بیش از ۱.۵ میلیون دلار کمک مالی دریافت کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989553/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DA%86%D8%B4%D9%85%DA%AF%DB%8C%D8%B1-%DA%A9%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%D8%B2%D8%A7%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%A7%DB%8C%D9%84%D9%87%D8%A7%D9%86-%D8%B9%D9%85%D8%B1"
   },
   {
     "source": "ایسنا",
@@ -5998,6 +5980,52 @@
     "telegram_preview": "📰 برای اولین بار در ایران ؛ اعطای تندیس برند نمونه استاندارد ملی به شرکت \" شودر \"\n\nدر روزهایی که صنعت و تولید کشور زیر بار سنگین نوسانات ارزی، محدودیت های تامین مواد اولیه و چالش های زنجیره ای ناشی از بحران انرژی نفس می کشد، انتخاب استراتژی ماندگاری برای برندها به مرز مرگ و زندگی رسیده است؛ جایی که برخی راهبرد انقباضی و تعطیلی موقت را در پیش می گیرند و برخی دیگر، ایستادگی، تعهد به معیشت کارگران و توسعه را برمی گزینند.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4304094-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%A8%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B9%D8%B7%D8%A7%DB%8C-%D8%AA%D9%86%D8%AF%DB%8C%D8%B3-%D8%A8%D8%B1%D9%86%D8%AF-%D9%86%D9%85%D9%88%D9%86%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D9%85%D9%84%DB%8C-%D8%A8%D9%87-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B4%D9%88%D8%AF%D8%B1"
   },
   {
+    "source": "مهر",
+    "title": "مشکلات مالی و اینترنت، تهدیدی برای آینده گیمرهای ایرانی است",
+    "link": "https://www.mehrnews.com/news/6989043/%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D9%88-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%DA%AF%DB%8C%D9%85%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA",
+    "summary": "مدال آور طلای فوتبال الکترونیک ایران گفت: اگر رشته ورزش های الکترونیک را حرفه ای می دانیم، باید آن را به عنوان شغل به رسمیت بشناسیم و شرایط درآمدزایی بازیکنان را فراهم کنیم.",
+    "published": "Sun, 25 Oct 2026 14:00:16 GMT",
+    "collected_at": "2026-10-25T17:47:09.160194+03:30",
+    "filter_market_score": 4,
+    "market_score": 6,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "مدال آور طلای فوتبال الکترونیک ایران گفت: اگر رشته ورزش های الکترونیک را حرفه ای می دانیم، باید آن را به عنوان شغل به رسمیت بشناسیم و شرایط درآمدزایی بازیکنان را فراهم کنیم.",
+    "telegram_preview": "📰 مشکلات مالی و اینترنت، تهدیدی برای آینده گیمرهای ایرانی است\n\nمدال آور طلای فوتبال الکترونیک ایران گفت: اگر رشته ورزش های الکترونیک را حرفه ای می دانیم، باید آن را به عنوان شغل به رسمیت بشناسیم و شرایط درآمدزایی بازیکنان را فراهم کنیم.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989043/%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D9%88-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%DA%AF%DB%8C%D9%85%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA"
+  },
+  {
     "source": "ایسنا",
     "title": "دختر ملایری بر سکوی قهرمانی بوکس کشور ایستاد",
     "link": "https://www.isna.ir/news/1405080301230/%D8%AF%D8%AE%D8%AA%D8%B1-%D9%85%D9%84%D8%A7%DB%8C%D8%B1%DB%8C-%D8%A8%D8%B1-%D8%B3%DA%A9%D9%88%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D9%88%DA%A9%D8%B3-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF",
@@ -6088,51 +6116,5 @@
     "duplicate_count": 1,
     "full_text": "غلامرضا فرخی کشتی گیر شیرازی تیم ملی کشتی فرنگی با درخشش در پیکارهای جهانی آستانه قزاقستان، در آستانه کسب مدال طلای جهان قرار گرفت.",
     "telegram_preview": "📰 فرخی در آستانه قهرمانی جهان\n\nغلامرضا فرخی کشتی گیر شیرازی تیم ملی کشتی فرنگی با درخشش در پیکارهای جهانی آستانه قزاقستان، در آستانه کسب مدال طلای جهان قرار گرفت.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080201080/%D9%81%D8%B1%D8%AE%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86"
-  },
-  {
-    "source": "تابناک",
-    "title": "پاسخ صریح سفارت ایران به ادعای مقام عراقی",
-    "link": "https://www.tabnak.ir/fa/news/1400162/پاسخ-صریح-سفارت-ایران-به-ادعای-مقام-عراقی",
-    "summary": "ایران ادعای بسته شدن گذرگاه مرزی الشیب به بهانه گسترش مواد مخدر و ارز جعلی را رد کرد و از مقامات عراقی خواست در برابر اظهاراتی که به روابط دو کشور لطمه می زند، موضع گیری کنند.",
-    "published": "24 Oct 2026 16:21:01 +0330",
-    "collected_at": "2026-10-24T16:47:46.591730+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "ایران ادعای بسته شدن گذرگاه مرزی الشیب به بهانه گسترش مواد مخدر و ارز جعلی را رد کرد و از مقامات عراقی خواست در برابر اظهاراتی که به روابط دو کشور لطمه می زند، موضع گیری کنند.",
-    "telegram_preview": "📰 پاسخ صریح سفارت ایران به ادعای مقام عراقی\n\nایران ادعای بسته شدن گذرگاه مرزی الشیب به بهانه گسترش مواد مخدر و ارز جعلی را رد کرد و از مقامات عراقی خواست در برابر اظهاراتی که به روابط دو کشور لطمه می زند، موضع گیری کنند.\n\n📌 منبع: تابناک\n\n🔗 https://www.tabnak.ir/fa/news/1400162/پاسخ-صریح-سفارت-ایران-به-ادعای-مقام-عراقی"
   }
 ]

@@ -10598,5 +10598,77 @@
     "group_message_id": 1072,
     "fully_published": true,
     "last_checked_at": "2026-10-25T13:46:34.645089+00:00"
+  },
+  "8762436241530efefc0c5fccc817c702dc39d9abd681394988923a73512f184e": {
+    "title": "افزایش چشمگیر کمک های مالی به کارزار انتخاباتی ایلهان عمر",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989553/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DA%86%D8%B4%D9%85%DA%AF%DB%8C%D8%B1-%DA%A9%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%D8%B2%D8%A7%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%A7%DB%8C%D9%84%D9%87%D8%A7%D9%86-%D8%B9%D9%85%D8%B1",
+    "telegram_message_ids": [
+      1337
+    ],
+    "eitaa_message_ids": [
+      178272905
+    ],
+    "group_message_ids": [
+      1075
+    ],
+    "content_hash": "0dab3a76e0f756712f8865479f8695030ee56203ed383abf8d8e7a5486da0f9d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T14:17:52.410747+00:00",
+    "telegram_message_id": 1337,
+    "eitaa_last_sent_at": "2026-10-25T14:17:53.920830+00:00",
+    "eitaa_message_id": 178272905,
+    "group_last_sent_at": "2026-10-25T14:17:55.659528+00:00",
+    "group_message_id": 1075,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T14:17:55.677287+00:00"
+  },
+  "8258e0813cde59eddb5be26c5e57a2601b5bf78a3f5789eb715006df3d6c875f": {
+    "title": "طلا مفت پرید؛ احمدی وفا به نقره بسنده کرد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989186/%D8%B7%D9%84%D8%A7-%D9%85%D9%81%D8%AA-%D9%BE%D8%B1%DB%8C%D8%AF-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%88%D9%81%D8%A7-%D8%A8%D9%87-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%B3%D9%86%D8%AF%D9%87-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1338
+    ],
+    "eitaa_message_ids": [
+      178272916
+    ],
+    "group_message_ids": [
+      1076
+    ],
+    "content_hash": "922d2a070c879f7ac664c76243b590842e4cd43ab6b0e28d19b57c82eced9e65",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T14:17:57.710373+00:00",
+    "telegram_message_id": 1338,
+    "eitaa_last_sent_at": "2026-10-25T14:17:59.161576+00:00",
+    "eitaa_message_id": 178272916,
+    "group_last_sent_at": "2026-10-25T14:18:00.871096+00:00",
+    "group_message_id": 1076,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T14:18:00.888157+00:00"
+  },
+  "804f648d4fffdeb918aba05dda234de9f5a0b8d32d18b4d3d47645358b91a8ca": {
+    "title": "فیلم/ احمدی وفا طلا را به حریف ژاپنی داد و نقره ای شد",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848065/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%88%D9%81%D8%A7-%D8%B7%D9%84%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AD%D8%B1%DB%8C%D9%81-%DA%98%D8%A7%D9%BE%D9%86%DB%8C-%D8%AF%D8%A7%D8%AF-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1339
+    ],
+    "eitaa_message_ids": [
+      178272923
+    ],
+    "group_message_ids": [
+      1077
+    ],
+    "content_hash": "90268edf0c972823fd20be7bcf6360ba5ce62eace31e288b3dfd8dd62a7eb114",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T14:18:02.606279+00:00",
+    "telegram_message_id": 1339,
+    "eitaa_last_sent_at": "2026-10-25T14:18:04.044998+00:00",
+    "eitaa_message_id": 178272923,
+    "group_last_sent_at": "2026-10-25T14:18:05.756272+00:00",
+    "group_message_id": 1077,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T14:18:05.775434+00:00"
   }
 }
