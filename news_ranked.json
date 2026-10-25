@@ -600,84 +600,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "موج کاهشی بازارهای جهانی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4303693-%D9%85%D9%88%D8%AC-%DA%A9%D8%A7%D9%87%D8%B4%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-    "summary": "فروکش کردن تب هوش مصنوعی و بازگشت سایه سنگین تورم، دومینوی ریزش را در بازارهای جهانی به حرکت درآورده است. افت سنگین سهام شرکت های فناوری آمریکا در وال استریت، بلافاصله به بازار رمزارزها سرریز شد و بیت کوین را با ریزش قیمت به مرز ۸۱هزار دلار رساند. از سوی دیگر با پیشروی قیمت نفت در سطوح بالای 100دلار، طلای جهانی که در هفته های گذشته در کانال 4100دلاری تثبیت شده بود، به کمتر از 4هزار دلار به ازای هر اونس رسید.",
-    "published": "Fri, 23 Oct 2026 20:30:00 +0000",
-    "collected_at": "2026-10-24T00:15:41.793538+03:30",
-    "filter_market_score": 27,
-    "market_score": 32,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "سهام"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "تورم",
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "افت",
-      "ریزش",
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "طلای جهانی"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [
-      "سهام"
-    ],
-    "high_impact_matches": [
-      "تورم",
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 3,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "قیمت سکه، نیم سکه و ربع سکه امروز شنبه ۲ آبان ۱۴۰۵ / قیمت سکه نزولی شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4303836-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF",
     "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت سکه امامی امروز با کاهش، در نرخ 267 میلیون و 100 هزار تومان در معامله بود.",
@@ -1131,74 +1053,6 @@
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "صورت حساب یک تریلیون دلاری امنیت انرژی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4303728-%D8%B5%D9%88%D8%B1%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8-%DB%8C%DA%A9-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A7%D9%86%D8%B1%DA%98%DB%8C",
-    "summary": "دنیای اقتصاد: آسیا باید در ۱۵سال آینده سالانه تا یک تریلیون دلار در امنیت انرژی سرمایه گذاری کند. این برآورد گزارش تازه معتبرترین شرکت مشاور مدیریت جهانی مک کنزی است که جمعه 23اکتبر منتشر شد. دلیل اصلی هم روشن است: جنگ علیه ایران جریان نفت و گاز را از تنگه هرمز مختل کرده و کشورهای آسیایی که بیشترین وابستگی را به واردات دارند، ناگهان فهمیدند امنیت انرژی دیگر شعار نیست و هزینه ای است که باید پرداخت شود. مک کنزی پیش بینی خود از تقاضای انرژی آسیا در سال۲۰۴۰ را به ۳۷۰ میلیون تراژول رسانده، یعنی ۱۵درصد بیش از برآورد یک سال پیش.",
-    "published": "Fri, 23 Oct 2026 20:30:00 +0000",
-    "collected_at": "2026-10-24T00:15:41.793704+03:30",
-    "filter_market_score": 23,
-    "market_score": 30,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نفت",
-      "واردات"
-    ],
-    "major_event_matches": [
-      "جنگ",
-      "تنگه هرمز"
-    ],
-    "signal_matches": [
-      "پیش‌بینی",
-      "پیش بینی",
-      "تقاضا",
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ",
-      "تنگه هرمز"
-    ],
-    "medium_impact_matches": [
-      "واردات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -2292,65 +2146,6 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "شمارش معکوس نفت برای جنگ؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-126/4303724-%D8%B4%D9%85%D8%A7%D8%B1%D8%B4-%D9%85%D8%B9%DA%A9%D9%88%D8%B3-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D9%86%DA%AF",
-    "summary": "قیمت نفت برنت روز جمعه 23اکتبر از مرز ۱17دلار در هر بشکه عبور کرد؛ سطحی که از ۴مه، یعنی زمان ثبت رکورد چهار ساله ۱۱۴.۴۴ دلار، تاکنون مشاهده نشده بود. اما این جهش بیش از آنکه نشانه کمبود نفت باشد، نشانه ترس است و همین نکته کلید فهم آن است. دو خبر همزمان قیمت را بالا کشیدند. نخست، حوثی های یمن مسوولیت حملات تازه به بندر ینبع در دریای سرخ را بر عهده گرفته و به یک میدان نفتی و یک فرودگاه در عربستان، بزرگ ترین صادرکننده نفت جهان، ضربات مرگباری زدند. دوم، گزارش ها از آن حکایت دارد که آمریکا و اسرائیل برای تهاجم نظامی مجدد علیه ایران پس از انتخابات میان دوره ای نقشه کشیده اند و زیرساخت های انرژی ایران احتمالا هدف اصلی آن خواهد بود. با این همه، آنچه قیمت ها را بالا برده کمبود فیزیکی نیست.",
-    "published": "Fri, 23 Oct 2026 20:30:00 +0000",
-    "collected_at": "2026-10-24T00:15:41.793635+03:30",
-    "filter_market_score": 15,
-    "market_score": 22,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "جهش",
-      "رکورد",
-      "قیمت",
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ",
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -4464,6 +4259,54 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "جبران ارز نهاده های دامی از جیب بیماران بستری+فیلم",
+    "link": "https://www.mehrnews.com/news/6987679/%D8%AC%D8%A8%D8%B1%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2-%D9%86%D9%87%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D9%85%DB%8C-%D8%A7%D8%B2-%D8%AC%DB%8C%D8%A8-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "رئیس کانون عالی بازنشستگان تامین اجتماعی، به جزئیات مصوبه ای اشاره کرد که بر اساس آن، برای جبران ارز نهاده های دامی، مبلغی از بیماران بستری در بیمارستان ها دریافت می شود.",
+    "published": "Sun, 25 Oct 2026 02:39:00 GMT",
+    "collected_at": "2026-10-25T06:17:19.863675+03:30",
+    "filter_market_score": 10,
+    "market_score": 14,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "کریمی : خرید سهام وصنا و بهشهر را توصیه می کنم + ویدئو",
     "link": "https://www.khabaronline.ir/news/2292569/%DA%A9%D8%B1%DB%8C%D9%85%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B3%D9%87%D8%A7%D9%85-%D9%88%D8%B5%D9%86%D8%A7-%D9%88-%D8%A8%D9%87%D8%B4%D9%87%D8%B1-%D8%B1%D8%A7-%D8%AA%D9%88%D8%B5%DB%8C%D9%87-%D9%85%DB%8C-%DA%A9%D9%86%D9%85-%D9%88%DB%8C%D8%AF%D8%A6%D9%88",
@@ -5667,6 +5510,50 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "\"گلادیاتور\" جویبار به دنبال تاج سوم/ آمریکا و روسیه رقبای اصلی کامران قاسمپور",
+    "link": "https://www.isna.ir/news/1405080200911/%DA%AF%D9%84%D8%A7%D8%AF%DB%8C%D8%A7%D8%AA%D9%88%D8%B1-%D8%AC%D9%88%DB%8C%D8%A8%D8%A7%D8%B1-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%AA%D8%A7%D8%AC-%D8%B3%D9%88%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%B1%D9%82%D8%A8%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%DB%8C",
+    "summary": "کامران قاسم پور، دارنده دو عنوان قهرمانی جهان در ۹۲ کیلوگرم به کسب سومین طلای خود در این دوره چشم دوخته است.",
+    "published": "Sun, 25 Oct 2026 02:40:00 GMT",
+    "collected_at": "2026-10-25T06:17:16.792036+03:30",
+    "filter_market_score": 4,
+    "market_score": 8,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true

@@ -9134,5 +9134,29 @@
     "group_message_id": 980,
     "fully_published": true,
     "last_checked_at": "2026-10-25T01:17:48.000123+00:00"
+  },
+  "009050b01af6e2927ec49e212484d1fce4e3d1f21a1f34cd5a25df72eab1a2f9": {
+    "title": "جبران ارز نهاده های دامی از جیب بیماران بستری+فیلم",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6987679/%D8%AC%D8%A8%D8%B1%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2-%D9%86%D9%87%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D9%85%DB%8C-%D8%A7%D8%B2-%D8%AC%DB%8C%D8%A8-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D8%B1%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      1249
+    ],
+    "eitaa_message_ids": [
+      178163356
+    ],
+    "group_message_ids": [
+      981
+    ],
+    "content_hash": "e31415cdd49c96f62ba39aab9feb0ca852c3ed18e0a8e2846f3c56c1bf7738cb",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T02:47:51.433808+00:00",
+    "telegram_message_id": 1249,
+    "eitaa_last_sent_at": "2026-10-25T02:47:52.600018+00:00",
+    "eitaa_message_id": 178163356,
+    "group_last_sent_at": "2026-10-25T02:47:54.202177+00:00",
+    "group_message_id": 981,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T02:47:54.217693+00:00"
   }
 }
