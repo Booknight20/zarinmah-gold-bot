@@ -9494,5 +9494,101 @@
     "group_message_id": 999,
     "fully_published": true,
     "last_checked_at": "2026-10-25T05:48:31.218167+00:00"
+  },
+  "d707c3de9802f99be99db2186dcddc74291b36c3cf446909f39918320c493d1b": {
+    "title": "صادرات بیش از یک میلیارد دلار کالا از کرمانشاه",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080301233/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%8C%DA%A9-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
+    "telegram_message_ids": [
+      1269
+    ],
+    "eitaa_message_ids": [
+      178186698
+    ],
+    "group_message_ids": [
+      1003
+    ],
+    "content_hash": "4b49b0fb9564b3d8a228ce390dc7165f8c24108bd566c4e3c34548b36123843d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T06:18:20.389741+00:00",
+    "telegram_message_id": 1269,
+    "eitaa_last_sent_at": "2026-10-25T06:18:21.786121+00:00",
+    "eitaa_message_id": 178186698,
+    "group_last_sent_at": "2026-10-25T06:18:23.512831+00:00",
+    "group_message_id": 1003,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T06:18:23.529029+00:00"
+  },
+  "1a63f4703f8cf63751cbcc83d716ee6aa5d0355c059fee695fd1f7d2d7a20524": {
+    "title": "آئودی با سرمایه گذاری ۴ میلیارد دلاری به آمریکا می رود",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080301221/%D8%A2%D8%A6%D9%88%D8%AF%DB%8C-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF",
+    "telegram_message_ids": [
+      1270
+    ],
+    "eitaa_message_ids": [
+      178186717
+    ],
+    "group_message_ids": [
+      1004
+    ],
+    "content_hash": "97ea963a3c6966cf436f93a6b8ea9f88080ef940c032a6f241b0066afbd5bb69",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T06:18:25.300500+00:00",
+    "telegram_message_id": 1270,
+    "eitaa_last_sent_at": "2026-10-25T06:18:26.313741+00:00",
+    "eitaa_message_id": 178186717,
+    "group_last_sent_at": "2026-10-25T06:18:27.997851+00:00",
+    "group_message_id": 1004,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T06:18:28.013723+00:00"
+  },
+  "effb688a11cf7eec596a0a4e6bf65b8fbe7910ee80a6f16af83e7fc6729d481b": {
+    "title": "پیش بینی قیمت طلا، دلار و سکه امروز یکشنبه ۳ آبان ۱۴۰۵/ ریزش قیمت ها ادامه دارد؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304051-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1271
+    ],
+    "eitaa_message_ids": [
+      178186727
+    ],
+    "group_message_ids": [
+      1005
+    ],
+    "content_hash": "12b56b34c21d119282b11c3cb807d470f8f9ba43c98c81625345585c143e630f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T06:18:29.721472+00:00",
+    "telegram_message_id": 1271,
+    "eitaa_last_sent_at": "2026-10-25T06:18:31.213327+00:00",
+    "eitaa_message_id": 178186727,
+    "group_last_sent_at": "2026-10-25T06:18:32.911926+00:00",
+    "group_message_id": 1005,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T06:18:32.928134+00:00"
+  },
+  "0868c6812691f46b40c5bb26c020cd63bb874509eb2ba9956287322fcd4aba4e": {
+    "title": "قیمت طلا ۱۸ عیار امروز یکشنبه ۳ آبان ۱۴۰۵/طلا نزولی شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304033-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1272
+    ],
+    "eitaa_message_ids": [
+      178186735
+    ],
+    "group_message_ids": [
+      1006
+    ],
+    "content_hash": "ef7b6246fe85a266d2b672368383948fba017ea2452d9b195e0f6072b9446a2e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T06:18:34.629538+00:00",
+    "telegram_message_id": 1272,
+    "eitaa_last_sent_at": "2026-10-25T06:18:36.014842+00:00",
+    "eitaa_message_id": 178186735,
+    "group_last_sent_at": "2026-10-25T06:18:37.699070+00:00",
+    "group_message_id": 1006,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T06:18:37.714974+00:00"
   }
 }

@@ -11057,5 +11057,68 @@
     "group_sent_at": "2026-10-25T09:18:36.994234+03:30",
     "group_message_id": 1001,
     "published_at": "2026-10-25T09:18:37.005934+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25726": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "دلار حواله به 185.305 هزار تومان رسیده اما دلار بازار آزاد 21 روز هست که تو روند رنج قرار داره و تو همین 21 روز دلار...",
+      "summary": "دلار حواله به 185.305 هزار تومان رسیده اما دلار بازار آزاد 21 روز هست که تو روند رنج قرار داره و تو همین 21 روز دلار حواله 5.5% رشد کرده .\n\nسرعت رشد دلار حواله هم کمتر شده.\n @payamelyaskordi ✅",
+      "full_text": "دلار حواله به 185.305 هزار تومان رسیده اما دلار بازار آزاد 21 روز هست که تو روند رنج قرار داره و تو همین 21 روز دلار حواله 5.5% رشد کرده .\n\nسرعت رشد دلار حواله هم کمتر شده.\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25726",
+      "analysis_score": 8,
+      "market_matches": [
+        "دلار"
+      ],
+      "analysis_matches": [
+        "روند",
+        "رشد"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 192,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-25T09:48:16.008799+03:30"
+    },
+    "content_signature": "db80bd4026ff5c3e8f222cc447b0489d1cf2d645d3641f29e7473cca2d933b4d",
+    "first_seen_at": "2026-10-25T09:48:37.908858+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1273
+    ],
+    "telegram_last_success_at": "2026-10-25T09:48:38.380824+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-25T09:48:38.393503+03:30",
+    "telegram_message_id": 1273,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178186744
+    ],
+    "eitaa_last_success_at": "2026-10-25T09:48:39.168839+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-25T09:48:39.181328+03:30",
+    "eitaa_message_id": 178186744,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1007
+    ],
+    "group_last_success_at": "2026-10-25T09:48:39.679913+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-25T09:48:39.692277+03:30",
+    "group_message_id": 1007,
+    "published_at": "2026-10-25T09:48:39.704106+03:30"
   }
 }
