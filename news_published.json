@@ -10526,5 +10526,77 @@
     "group_message_id": 1069,
     "fully_published": true,
     "last_checked_at": "2026-10-25T13:18:36.795754+00:00"
+  },
+  "d33967c85f181eff7908464e5d84960b92d7106f60bfb915f8f7158e1f7ece24": {
+    "title": "پیام احمدی نقره خود را تکرار کرد؛ یک مدال طلا از دست رفت",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989076/%D9%BE%DB%8C%D8%A7%D9%85-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%86%D9%82%D8%B1%D9%87-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF-%DB%8C%DA%A9-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA",
+    "telegram_message_ids": [
+      1332
+    ],
+    "eitaa_message_ids": [
+      178268955
+    ],
+    "group_message_ids": [
+      1070
+    ],
+    "content_hash": "624a663333f6d221e68dc96c35e55d201ea929020ceaa55925d4a4d4c40d788a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T13:46:22.385517+00:00",
+    "telegram_message_id": 1332,
+    "eitaa_last_sent_at": "2026-10-25T13:46:23.765737+00:00",
+    "eitaa_message_id": 178268955,
+    "group_last_sent_at": "2026-10-25T13:46:25.399265+00:00",
+    "group_message_id": 1070,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T13:46:25.413327+00:00"
+  },
+  "9fe241b026fa07bd2b2c4853e678daab81e0069757d027c341e94a72b4644186": {
+    "title": "رییس کل بانک مرکزی: تامین ارز و منابع ریالی دارو بدون محدودیت ادامه دارد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292899/%D8%B1%DB%8C%DB%8C%D8%B3-%DA%A9%D9%84-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%D9%88-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%AF%D8%A7%D8%B1%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA",
+    "telegram_message_ids": [
+      1333
+    ],
+    "eitaa_message_ids": [
+      178268960
+    ],
+    "group_message_ids": [
+      1071
+    ],
+    "content_hash": "6de7e576782257e3f06345145d9ca42be3c77159955ab4e66897b1ba6a33ef10",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T13:46:27.086176+00:00",
+    "telegram_message_id": 1333,
+    "eitaa_last_sent_at": "2026-10-25T13:46:28.480483+00:00",
+    "eitaa_message_id": 178268960,
+    "group_last_sent_at": "2026-10-25T13:46:30.081918+00:00",
+    "group_message_id": 1071,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T13:46:30.094795+00:00"
+  },
+  "09b0a4c668713d1207b5de1ab48ecf64a35a4921931cadfec7131c12c6d920ff": {
+    "title": "سقوط بورس عربستان به پایین ترین سطح در پنج سال اخیر",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848051/%D8%B3%D9%82%D9%88%D8%B7-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D8%AF%D8%B1-%D9%BE%D9%86%D8%AC-%D8%B3%D8%A7%D9%84-%D8%A7%D8%AE%DB%8C%D8%B1",
+    "telegram_message_ids": [
+      1334
+    ],
+    "eitaa_message_ids": [
+      178268978
+    ],
+    "group_message_ids": [
+      1072
+    ],
+    "content_hash": "d04d1d6a36faaef59838a6ed71458b0647d939228db55edca1d8b20e97196e5e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T13:46:31.751108+00:00",
+    "telegram_message_id": 1334,
+    "eitaa_last_sent_at": "2026-10-25T13:46:32.938178+00:00",
+    "eitaa_message_id": 178268978,
+    "group_last_sent_at": "2026-10-25T13:46:34.631937+00:00",
+    "group_message_id": 1072,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T13:46:34.645089+00:00"
   }
 }
