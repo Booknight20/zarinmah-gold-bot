@@ -9446,5 +9446,53 @@
     "group_message_id": 993,
     "fully_published": true,
     "last_checked_at": "2026-10-25T05:15:04.970289+00:00"
+  },
+  "19c2a1c6528e976beb7a95de412ea2493349b689596c7da69de2a5c51b6c82af": {
+    "title": "نرخ رسمی ارزهای مهم در مرکز مبادله ایران؛ یکشنبه ۳ آبان ۱۴۰۵",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6988805/%D9%86%D8%B1%D8%AE-%D8%B1%D8%B3%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D9%85%D9%87%D9%85-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "telegram_message_ids": [
+      1264
+    ],
+    "eitaa_message_ids": [
+      178181187
+    ],
+    "group_message_ids": [
+      998
+    ],
+    "content_hash": "075aa94146bc4c258af23e0eee96329ff7f5da51f22a1deae21aeedb7c5a451e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T05:48:23.556826+00:00",
+    "telegram_message_id": 1264,
+    "eitaa_last_sent_at": "2026-10-25T05:48:24.711659+00:00",
+    "eitaa_message_id": 178181187,
+    "group_last_sent_at": "2026-10-25T05:48:26.442240+00:00",
+    "group_message_id": 998,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T05:48:26.458320+00:00"
+  },
+  "9a2bced2045cc769bb5060d5e756756ebcdabc70c3afc7c45a83041a61dac1a3": {
+    "title": "خصوصی سازی شاد؛ ابهام در مالکیت، نگرانی درباره عدالت آموزشی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6987763/%D8%AE%D8%B5%D9%88%D8%B5%DB%8C-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%A7%D8%AF-%D8%A7%D8%A8%D9%87%D8%A7%D9%85-%D8%AF%D8%B1-%D9%85%D8%A7%D9%84%DA%A9%DB%8C%D8%AA-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C",
+    "telegram_message_ids": [
+      1265
+    ],
+    "eitaa_message_ids": [
+      178181197
+    ],
+    "group_message_ids": [
+      999
+    ],
+    "content_hash": "b5ee0eb7e5d60c6403b09b2ca21001432059c1451ce35fd38798bc193cf715bf",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T05:48:28.241266+00:00",
+    "telegram_message_id": 1265,
+    "eitaa_last_sent_at": "2026-10-25T05:48:29.412558+00:00",
+    "eitaa_message_id": 178181197,
+    "group_last_sent_at": "2026-10-25T05:48:31.202066+00:00",
+    "group_message_id": 999,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T05:48:31.218167+00:00"
   }
 }
