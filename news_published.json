@@ -10478,5 +10478,53 @@
     "group_message_id": 1065,
     "fully_published": true,
     "last_checked_at": "2026-10-25T12:48:46.196512+00:00"
+  },
+  "f7994e2ca3c1e944642b17146e935baac33792b16af81b8107f2d5e92f66c10e": {
+    "title": "برای خرید طلای آب شده به کجا مراجعه کنیم؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4304109-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A2%D8%A8-%D8%B4%D8%AF%D9%87-%D8%A8%D9%87-%DA%A9%D8%AC%D8%A7-%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D9%87-%DA%A9%D9%86%DB%8C%D9%85",
+    "telegram_message_ids": [
+      1330
+    ],
+    "eitaa_message_ids": [
+      178265548
+    ],
+    "group_message_ids": [
+      1068
+    ],
+    "content_hash": "2586d3a10c53ab5cba25efa005c8fc0c1709c16eb1e5cbd19751316531263170",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T13:18:28.151147+00:00",
+    "telegram_message_id": 1330,
+    "eitaa_last_sent_at": "2026-10-25T13:18:29.714636+00:00",
+    "eitaa_message_id": 178265548,
+    "group_last_sent_at": "2026-10-25T13:18:31.466283+00:00",
+    "group_message_id": 1068,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T13:18:31.483988+00:00"
+  },
+  "1d189eed0da13b5088928752da58ba4a7452a5cc14120754e836b35a311d3ff9": {
+    "title": "افت تقاضاهای تجملی در چین و امریکا / از ابتدای ۲۰۲۶ بازار کالاهای لوکس ۲۵۱ میلیارد دلار کوچک شد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292815/%D8%A7%D9%81%D8%AA-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7%D9%87%D8%A7%DB%8C-%D8%AA%D8%AC%D9%85%D9%84%DB%8C-%D8%AF%D8%B1-%DA%86%DB%8C%D9%86-%D9%88-%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B2%DB%B6-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%A9%D8%A7%D9%84%D8%A7%D9%87%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      1331
+    ],
+    "eitaa_message_ids": [
+      178265559
+    ],
+    "group_message_ids": [
+      1069
+    ],
+    "content_hash": "39b2d92aaffcf944a7caf44cdea9c7a0e1323d81c1407d6101e022ad2e70c0c1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T13:18:33.447306+00:00",
+    "telegram_message_id": 1331,
+    "eitaa_last_sent_at": "2026-10-25T13:18:35.030808+00:00",
+    "eitaa_message_id": 178265559,
+    "group_last_sent_at": "2026-10-25T13:18:36.778237+00:00",
+    "group_message_id": 1069,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T13:18:36.795754+00:00"
   }
 }
