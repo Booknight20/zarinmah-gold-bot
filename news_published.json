@@ -9230,5 +9230,125 @@
     "group_message_id": 984,
     "fully_published": true,
     "last_checked_at": "2026-10-25T04:18:21.400557+00:00"
+  },
+  "53f1ff8cd6ff18130c466a9626ba834142e3d762e7fb7115b7a50e2096b4f058": {
+    "title": "قیمت سکه، نیم سکه و ربع سکه امروز یکشنبه ۳ آبان ۱۴۰۵ / افت قیمت سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304036-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      1253
+    ],
+    "eitaa_message_ids": [
+      178171518
+    ],
+    "group_message_ids": [
+      985
+    ],
+    "content_hash": "7a1ccd88f087992c5fd6fd6b477894dfb90d35aa81feec8e10b20fb36ba1fa45",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T04:48:14.882620+00:00",
+    "telegram_message_id": 1253,
+    "eitaa_last_sent_at": "2026-10-25T04:48:16.051086+00:00",
+    "eitaa_message_id": 178171518,
+    "group_last_sent_at": "2026-10-25T04:48:17.654114+00:00",
+    "group_message_id": 985,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T04:48:17.671748+00:00"
+  },
+  "3b8e763f3b8a65664a413cda14ed73276871e9e9b14972df335dbe4116266449": {
+    "title": "قیمت طلا و سکه امروز یکشنبه ۳ آبان ۱۴۰۵/ کاهش قیمت طلا و سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304034-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      1254
+    ],
+    "eitaa_message_ids": [
+      178171526
+    ],
+    "group_message_ids": [
+      986
+    ],
+    "content_hash": "389e4fbbac9b51156c74ad9536a91f0cba66cf4b35f79888924f84e88197b298",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T04:48:19.360445+00:00",
+    "telegram_message_id": 1254,
+    "eitaa_last_sent_at": "2026-10-25T04:48:20.660564+00:00",
+    "eitaa_message_id": 178171526,
+    "group_last_sent_at": "2026-10-25T04:48:22.252007+00:00",
+    "group_message_id": 986,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T04:48:22.268229+00:00"
+  },
+  "d1abc5d1d246bb54e68be53f6060bab3be15bc138ea1e64b36d95c37ff36d220": {
+    "title": "قیمت طلا امروز یکشنبه ۳ آبان ۱۴۰۵",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304032-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1255
+    ],
+    "eitaa_message_ids": [
+      178171529
+    ],
+    "group_message_ids": [
+      987
+    ],
+    "content_hash": "8656dade77dd0db0e992f369e1e24d45aaad239c94ffb69eb9660ebe4cb587e4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T04:48:23.883715+00:00",
+    "telegram_message_id": 1255,
+    "eitaa_last_sent_at": "2026-10-25T04:48:24.536291+00:00",
+    "eitaa_message_id": 178171529,
+    "group_last_sent_at": "2026-10-25T04:48:26.146103+00:00",
+    "group_message_id": 987,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T04:48:26.162138+00:00"
+  },
+  "280e2b6db96985ab7298a9adc9ad498c15d975608640128f4ee4bd39b9cfcd55": {
+    "title": "قیمت طلا امروز ۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ مثقال طلا ۱۱۰ میلیون و ۷۹۰ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292694/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1256
+    ],
+    "eitaa_message_ids": [
+      178171541
+    ],
+    "group_message_ids": [
+      988
+    ],
+    "content_hash": "d6daa772d95d29575f48c7ee371fb248af88e89d3d5720467e50dec1ad982d47",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T04:48:27.769598+00:00",
+    "telegram_message_id": 1256,
+    "eitaa_last_sent_at": "2026-10-25T04:48:28.906428+00:00",
+    "eitaa_message_id": 178171541,
+    "group_last_sent_at": "2026-10-25T04:48:30.503687+00:00",
+    "group_message_id": 988,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T04:48:30.519522+00:00"
+  },
+  "3fac924bdd8cf5667dcbd7d4f1d73ca77fb0fc9e08dc4cb7b555734db9983036": {
+    "title": "وقاحت برجامی اروپا زیر چکمه نفت ۱۲۰ دلاری",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1847867/%D9%88%D9%82%D8%A7%D8%AD%D8%AA-%D8%A8%D8%B1%D8%AC%D8%A7%D9%85%DB%8C-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B2%DB%8C%D8%B1-%DA%86%DA%A9%D9%85%D9%87-%D9%86%D9%81%D8%AA-%DB%B1%DB%B2%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
+    "telegram_message_ids": [
+      1257
+    ],
+    "eitaa_message_ids": [
+      178171555
+    ],
+    "group_message_ids": [
+      989
+    ],
+    "content_hash": "4e2d08807015cc6e2e0f7e7d16ec767e69572b73211ac27861676edf0e081b14",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T04:48:32.143829+00:00",
+    "telegram_message_id": 1257,
+    "eitaa_last_sent_at": "2026-10-25T04:48:32.801166+00:00",
+    "eitaa_message_id": 178171555,
+    "group_last_sent_at": "2026-10-25T04:48:34.394287+00:00",
+    "group_message_id": 989,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T04:48:34.410028+00:00"
   }
 }
