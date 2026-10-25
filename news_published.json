@@ -10382,5 +10382,29 @@
     "group_message_id": 1057,
     "fully_published": true,
     "last_checked_at": "2026-10-25T11:58:40.349296+00:00"
+  },
+  "0772c81b9a0049cc2f2abb3246ee85bb89a035e21172e47b01b353c0044876b1": {
+    "title": "هدایتی و سهرابی فینالیست شدند؛ در یک قدمی ۲ طلا",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989330/%D9%81%D8%B1%D8%AF%DB%8C%D9%86-%D9%87%D8%AF%D8%A7%DB%8C%D8%AA%DB%8C-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%B4%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%82%D8%AF%D9%85%DB%8C-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C",
+    "telegram_message_ids": [
+      1323
+    ],
+    "eitaa_message_ids": [
+      178252279
+    ],
+    "group_message_ids": [
+      1061
+    ],
+    "content_hash": "a45b0f5d514827f78b3df5d5144045bb428d808b45e1ba823c2151ff22233a72",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T12:18:22.985326+00:00",
+    "telegram_message_id": 1323,
+    "eitaa_last_sent_at": "2026-10-25T12:18:24.134787+00:00",
+    "eitaa_message_id": 178252279,
+    "group_last_sent_at": "2026-10-25T12:18:25.741509+00:00",
+    "group_message_id": 1061,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T12:18:25.759103+00:00"
   }
 }
