@@ -12247,5 +12247,69 @@
     "group_sent_at": "2026-10-25T19:12:51.128745+03:30",
     "group_message_id": 1085,
     "published_at": "2026-10-25T19:12:51.141685+03:30"
+  },
+  "https://t.me/drarashamini/7268": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "✅ پست بسیار مهم راجع به شناسایی سود یا نگهداری طلا در اینستاگرام آپلود شد.",
+      "summary": "✅ پست بسیار مهم راجع به شناسایی سود یا نگهداری طلا در اینستاگرام آپلود شد.\n\n ✅ در این پست بررسی کردیم که آیا باید طلای خودمون رو بفروشیم یا خیر؟\n\nاین پست رو حتما برای دوستان و خانواده بفرستید.\n\n https://www.instagram.com/p/De7F1xZCEZ9/?rpxt=MWZtMHg1dWs3M3RzbQ==",
+      "full_text": "✅ پست بسیار مهم راجع به شناسایی سود یا نگهداری طلا در اینستاگرام آپلود شد.\n\n ✅ در این پست بررسی کردیم که آیا باید طلای خودمون رو بفروشیم یا خیر؟\n\nاین پست رو حتما برای دوستان و خانواده بفرستید.\n\n https://www.instagram.com/p/De7F1xZCEZ9/?rpxt=MWZtMHg1dWs3M3RzbQ==",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7268",
+      "analysis_score": 10,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "فروش"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال"
+      ],
+      "priority": "medium",
+      "content_length": 261,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-25T19:48:05.220674+03:30"
+    },
+    "content_signature": "736246d5bedb781de54c64bb9dc359fd8b44960e108d05ee86e07bf9a9e31bb9",
+    "first_seen_at": "2026-10-25T19:58:05.158981+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1352
+    ],
+    "telegram_last_success_at": "2026-10-25T19:58:05.575746+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-25T19:58:05.589993+03:30",
+    "telegram_message_id": 1352,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178283556
+    ],
+    "eitaa_last_success_at": "2026-10-25T19:58:06.707339+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-25T19:58:06.721162+03:30",
+    "eitaa_message_id": 178283556,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1090
+    ],
+    "group_last_success_at": "2026-10-25T19:58:07.124665+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-25T19:58:07.138137+03:30",
+    "group_message_id": 1090,
+    "published_at": "2026-10-25T19:58:07.151356+03:30"
   }
 }
