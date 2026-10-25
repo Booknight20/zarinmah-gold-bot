@@ -4965,57 +4965,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "مشرق",
-    "title": "فیلم/ افزایش قیمت حمل نفت خام دربازارهای جهانی",
-    "link": "https://www.mashreghnews.ir/news/1847769/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AD%D9%85%D9%84-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-    "summary": "با افزایش ناامنی در مسیرهای دریایی، بهای حمل نفت خام به بیش از چهل دلار در هر بشکه رسیده است. براساس گزارش پایگاه «اویل اَند گاز» افزایش حق بیمه ی نفتکش ها به گرانی سوخت درکشورهای جهان دامن زده است.",
-    "published": "Sat, 24 Oct 2026 18:00:00 GMT",
-    "collected_at": "2026-10-24T21:45:06.676611+03:30",
-    "filter_market_score": 9,
-    "market_score": 11,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "قیمت",
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "نقره سی یا گرمی، از کجا نقره بخریم؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4304093-%D9%86%D9%82%D8%B1%D9%87-%D8%B3%DB%8C-%DB%8C%D8%A7-%DA%AF%D8%B1%D9%85%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%AC%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%AE%D8%B1%DB%8C%D9%85",
@@ -5619,50 +5568,6 @@
     "summary": "سرپرست اداره ورزش و جوانان ملایر از کسب مدال طلای مسابقات بوکس قهرمانی دختران کشور توسط مهنا غلامی، بوکسور خردسال ملایری، خبرداد و گفت: این ورزشکار آینده دار بادرخشش در رقابت های کشوری، مجوز حضور در اردوی تیم ملی بوکس خردسالان دختر ایران را به دست آورد.",
     "published": "Sun, 25 Oct 2026 06:13:24 GMT",
     "collected_at": "2026-10-25T09:47:15.483432+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "ایسنا",
-    "title": "فرخی در آستانه قهرمانی جهان",
-    "link": "https://www.isna.ir/news/1405080201080/%D9%81%D8%B1%D8%AE%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86",
-    "summary": "غلامرضا فرخی کشتی گیر شیرازی تیم ملی کشتی فرنگی با درخشش در پیکارهای جهانی آستانه قزاقستان، در آستانه کسب مدال طلای جهان قرار گرفت.",
-    "published": "Sat, 24 Oct 2026 18:25:06 GMT",
-    "collected_at": "2026-10-24T22:15:32.059722+03:30",
     "filter_market_score": 4,
     "market_score": 6,
     "market_matches": {
