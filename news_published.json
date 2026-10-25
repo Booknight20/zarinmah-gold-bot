@@ -10703,13 +10703,21 @@
       1341
     ],
     "eitaa_message_ids": [
-      null
+      178278151
     ],
-    "group_message_ids": [],
+    "group_message_ids": [
+      1081
+    ],
     "content_hash": "514f1bb789fa762d115eefb28f9dd870dcf1394d3ee61720aab23d5249d6827a",
     "expected_parts": 1,
     "telegram_last_sent_at": "2026-10-25T14:48:14.182829+00:00",
-    "telegram_message_id": 1341
+    "telegram_message_id": 1341,
+    "eitaa_last_sent_at": "2026-10-25T15:04:44.615988+00:00",
+    "eitaa_message_id": 178278151,
+    "group_last_sent_at": "2026-10-25T15:04:46.297293+00:00",
+    "group_message_id": 1081,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T15:04:46.307489+00:00"
   },
   "fce60de1eace590ebd46bcdbdc940678024b278805ab7d819302d5556c9a6d33": {
     "title": "غلامرضا فرخی با اقتدار قهرمان جهان شد/ دومین طلای پیاپی قهرمان شیرازی +فیلم",
