@@ -1393,71 +1393,6 @@
     "ranking_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "بورس تهران شنبه ۲ آبان ۱۱۵ هزار واحد افت کرد و به ۸ میلیون و ۵۸ هزار واحد رسید",
-    "link": "https://www.khabaronline.ir/live/2292270/%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%86%D8%A8%D9%87-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF-%D9%88-%D8%A8%D9%87-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88",
-    "summary": "شاخص کل بورس در معاملات صبح شنبه ۲ آبان ۱۴۰۵ تا ساعت ۹:۵۸ با افت ۱۱۵ هزار و ۲۶۳ واحدی به ۸ میلیون و ۵۸ هزار واحد رسید. هم زمان با افت شاخص هم وزن و فرابورس، فشار فروش در بازار افزایش یافت و نگرانی ها درباره احتمال ازسرگیری درگیری میان ایران و آمریکا نیز به عنوان یکی از ریسک های پیش روی سرمایه گذاران مطرح است.",
-    "published": "Sat, 24 Oct 2026 06:59:46 GMT",
-    "collected_at": "2026-10-24T10:47:39.202438+03:30",
-    "filter_market_score": 27,
-    "market_score": 25,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [
-      "ایران و آمریکا"
-    ],
-    "signal_matches": [
-      "افت",
-      "افزایش",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن",
-      "فرابورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "بورس در مسیر اصلاح",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4303933-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD",
@@ -3592,58 +3527,6 @@
   },
   {
     "source": "مهر",
-    "title": "موبایل تاشو دو هزار دلاری اپل نیامده کمیاب شد",
-    "link": "https://www.mehrnews.com/news/6987648/%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%AA%D8%A7%D8%B4%D9%88-%D8%AF%D9%88-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%D9%BE%D9%84-%D9%86%DB%8C%D8%A7%D9%85%D8%AF%D9%87-%DA%A9%D9%85%DB%8C%D8%A7%D8%A8-%D8%B4%D8%AF",
-    "summary": "اپل موبایل تاشو «آیفون دوئو» را عرضه کرد اما حتی با قیمت دو هزار دلاری هم نمی تواند تعداد کافی از آن برای مشتریان بسازد.",
-    "published": "Sat, 24 Oct 2026 07:15:27 GMT",
-    "collected_at": "2026-10-24T10:47:22.842039+03:30",
-    "filter_market_score": 12,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "عرضه"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
     "title": "کشف پرونده سرقت ۳ میلیارد تومان طلا در مشهد",
     "link": "https://www.mehrnews.com/news/6988650/%DA%A9%D8%B4%D9%81-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF",
     "summary": "مشهد- فرمانده انتظامی کلان شهر مشهد گفت: با تلاش ماموران کلانتری سناباد پرونده سرقت ۳۰ میلیارد ریال طلا از یک خانه مسکونی در شهر مشهد کشف شد.",
@@ -3886,60 +3769,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مشرق",
-    "title": "قیمت نفت به بالاترین سطح در ۶ ماه اخیر رسید",
-    "link": "https://www.mashreghnews.ir/news/1847697/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D8%AF%D8%B1-%DB%B6-%D9%85%D8%A7%D9%87-%D8%A7%D8%AE%DB%8C%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "قیمت نفت روز جمعه به بالاترین سطح در ۶ ماه گذشته رسید و با رشد بیش از ۳ دلاری به ۱۱۶ دلار و۷۲ سنت رسید.",
-    "published": "Sat, 24 Oct 2026 07:15:23 GMT",
-    "collected_at": "2026-10-24T10:47:43.930356+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "رشد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -4232,56 +4061,6 @@
       "طلا"
     ],
     "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "تب هوش مصنوعی هزینه مراکز داده را ۲ برابر می کند",
-    "link": "https://www.isna.ir/news/1405080200581/%D8%AA%D8%A8-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B1%D8%A7-%DB%B2-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-    "summary": "برآورد شرکت تحقیقات جهانی «بوفا» نشان داد، هزینه جهانی در حوزه مراکز داده در ۲۰۲۶ به یک تریلیون دلار می رسد و تا ۲۰۲۸ بیش از دو برابر می شود و به ۲.۱ تریلیون دلار افزایش می یابد. رشد تقاضا برای خدمات هوش مصنوعی و توسعه این خدمات، عامل اصلی این افزایش است.",
-    "published": "Sat, 24 Oct 2026 07:29:03 GMT",
-    "collected_at": "2026-10-24T11:04:50.906332+03:30",
-    "filter_market_score": 8,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "داده",
-      "افزایش",
-      "رشد",
-      "تقاضا"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
@@ -4821,54 +4600,6 @@
       "دلار"
     ],
     "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "بازار چین برای خودروسازان غربی از دست رفت",
-    "link": "https://www.isna.ir/news/1405080200583/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%86%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA",
-    "summary": "سهام ولوو پس از آنکه مدیرعامل این خودروساز سوئدی از افول سریع بازار چین برای خودروهای توسعه یافته در غرب خبر داد، حدود ۳۰ درصد سقوط کرد و به پایین ترین سطح تاریخی خود رسید. هم زمان، این شرکت از حذف ۲۵۰۰ شغل دیگر برای کاهش هزینه ها خبر داد.",
-    "published": "Sat, 24 Oct 2026 07:30:21 GMT",
-    "collected_at": "2026-10-24T11:04:50.906298+03:30",
-    "filter_market_score": 6,
-    "market_score": 12,
-    "market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "سقوط"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "سهام"
-    ],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
@@ -5791,49 +5522,6 @@
     "summary": "سفارت جمهوری اسلامی ایران در عراق، اظهارات مشاور نخست وزیر این کشور درباره بسته شدن گذرگاه مرزی چذابه (الشیب) به بهانه قاچاق مواد مخدر و ارز تقلبی را رد کرد و خواستار موضع گیری نهادهای مسئول در برابر این ادعاها شد.",
     "published": "Sat, 24 Oct 2026 12:44:01 GMT",
     "collected_at": "2026-10-24T16:17:16.101136+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "معاون سازمان توسعه تجارت خواستار تدوین «بسته نجات تجارت ایران» شد",
-    "link": "https://www.mehrnews.com/news/6987744/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%AA%D8%AF%D9%88%DB%8C%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D9%86%D8%AC%D8%A7%D8%AA-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-    "summary": "یک مقام مسئول با انتقاد از پیچیدگی مقررات و سیاست های ارزی، اصلاح قانون رفع تعهد ارزی و ساماندهی حکمرانی تجارت را ضروری دانست.",
-    "published": "Sat, 24 Oct 2026 07:10:42 GMT",
-    "collected_at": "2026-10-24T10:47:22.842120+03:30",
     "filter_market_score": 4,
     "market_score": 6,
     "market_matches": {
