@@ -10670,5 +10670,69 @@
     "group_message_id": 1077,
     "fully_published": true,
     "last_checked_at": "2026-10-25T14:18:05.775434+00:00"
+  },
+  "ec137e0f0ee0c1ef78c6c81ee27c6d4216d19ba64d5c87d63b8c98a491b251c1": {
+    "title": "غلامرضا فرخی قهرمان جهان شد/ نخستین طلای کشتی فرنگی ایران در آستانه",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080301781/%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7-%D9%81%D8%B1%D8%AE%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1340
+    ],
+    "eitaa_message_ids": [
+      178276849
+    ],
+    "group_message_ids": [
+      1078
+    ],
+    "content_hash": "31acb8452d142fde3b4b231f01ff7eca44b55bd2d2b030c5101407960c67b2c8",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T14:48:08.971817+00:00",
+    "telegram_message_id": 1340,
+    "eitaa_last_sent_at": "2026-10-25T14:48:10.568940+00:00",
+    "eitaa_message_id": 178276849,
+    "group_last_sent_at": "2026-10-25T14:48:12.397319+00:00",
+    "group_message_id": 1078,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T14:48:12.415279+00:00"
+  },
+  "aef843732320d3f144c0f9e62c01bcfb10cab691160833f83e04a1d35e6f7bf1": {
+    "title": "چراغ طلا را غلامرضا فرخی روشن کرد؛ نخستین مدال طلای تیم فرنگی ایران",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989157/%DA%86%D8%B1%D8%A7%D8%BA-%D8%B7%D9%84%D8%A7-%D8%B1%D8%A7-%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7-%D9%81%D8%B1%D8%AE%DB%8C-%D8%B1%D9%88%D8%B4%D9%86-%DA%A9%D8%B1%D8%AF-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%DB%8C%D9%85-%D9%81%D8%B1%D9%86%DA%AF%DB%8C",
+    "telegram_message_ids": [
+      1341
+    ],
+    "eitaa_message_ids": [
+      null
+    ],
+    "group_message_ids": [],
+    "content_hash": "514f1bb789fa762d115eefb28f9dd870dcf1394d3ee61720aab23d5249d6827a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T14:48:14.182829+00:00",
+    "telegram_message_id": 1341
+  },
+  "fce60de1eace590ebd46bcdbdc940678024b278805ab7d819302d5556c9a6d33": {
+    "title": "غلامرضا فرخی با اقتدار قهرمان جهان شد/ دومین طلای پیاپی قهرمان شیرازی +فیلم",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848073/%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7-%D9%81%D8%B1%D8%AE%DB%8C-%D8%A8%D8%A7-%D8%A7%D9%82%D8%AA%D8%AF%D8%A7%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D9%BE%DB%8C%D8%A7%D9%BE%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1342
+    ],
+    "eitaa_message_ids": [
+      178276902
+    ],
+    "group_message_ids": [
+      1079
+    ],
+    "content_hash": "ce7424bd66084651bb89dcfc99cc555ae5350e0d6909059b21483872f3b760e9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T14:48:46.841446+00:00",
+    "telegram_message_id": 1342,
+    "eitaa_last_sent_at": "2026-10-25T14:48:48.307915+00:00",
+    "eitaa_message_id": 178276902,
+    "group_last_sent_at": "2026-10-25T14:48:50.069284+00:00",
+    "group_message_id": 1079,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T14:48:50.086998+00:00"
   }
 }
