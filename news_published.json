@@ -9110,5 +9110,29 @@
     "group_message_id": 979,
     "fully_published": true,
     "last_checked_at": "2026-10-25T00:47:55.108680+00:00"
+  },
+  "14be032366ca63438fe65e0e8db1bd572097448061062e3c1fcc162fa59eb0a0": {
+    "title": "سهم ایران از پنجمین نمایشگاه ابوحنیفه کابل چقدر است؟",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080301124/%D8%B3%D9%87%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D9%BE%D9%86%D8%AC%D9%85%DB%8C%D9%86-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%D8%A8%D9%88%D8%AD%D9%86%DB%8C%D9%81%D9%87-%DA%A9%D8%A7%D8%A8%D9%84-%DA%86%D9%82%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1248
+    ],
+    "eitaa_message_ids": [
+      178159913
+    ],
+    "group_message_ids": [
+      980
+    ],
+    "content_hash": "add71158677a7be3c9ce04f0b979c1d02bca60151c0752b362b10bf227ceb894",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T01:17:45.038594+00:00",
+    "telegram_message_id": 1248,
+    "eitaa_last_sent_at": "2026-10-25T01:17:46.397285+00:00",
+    "eitaa_message_id": 178159913,
+    "group_last_sent_at": "2026-10-25T01:17:47.978902+00:00",
+    "group_message_id": 980,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T01:17:48.000123+00:00"
   }
 }

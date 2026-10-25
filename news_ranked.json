@@ -4824,6 +4824,58 @@
     "ranking_applied": true
   },
   {
+    "source": "ایسنا",
+    "title": "سهم ایران از پنجمین نمایشگاه ابوحنیفه کابل چقدر است؟",
+    "link": "https://www.isna.ir/news/1405080301124/%D8%B3%D9%87%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D9%BE%D9%86%D8%AC%D9%85%DB%8C%D9%86-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%D8%A8%D9%88%D8%AD%D9%86%DB%8C%D9%81%D9%87-%DA%A9%D8%A7%D8%A8%D9%84-%DA%86%D9%82%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA",
+    "summary": "پنجمین نمایشگاه بین المللی امام ابوحنیفه در کابل با حضور بیش از ۶۰ شرکت ایرانی و انعقاد تفاهم نامه هایی به ارزش بیش از ۵۰ میلیون دلار برگزار شد؛ رویدادی که به گفته فعالان اقتصادی، در کنار ظرفیت افزایش صادرات، می تواند زمینه ساز توسعه سرمایه گذاری های مشترک، انتقال فناوری و تقویت جایگاه خراسان رضوی در مبادلات اقتصادی ایران و افغانستان باشد.",
+    "published": "Sun, 25 Oct 2026 00:59:04 GMT",
+    "collected_at": "2026-10-25T04:47:14.202831+03:30",
+    "filter_market_score": 8,
+    "market_score": 13,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مهر",
     "title": "پورحیدری: صادرات گیلان در نیمه نخست سال ۱۰ درصد افزایش یافت",
     "link": "https://www.mehrnews.com/news/6988272/%D9%BE%D9%88%D8%B1%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%B3%D8%A7%D9%84-%DB%B1%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
