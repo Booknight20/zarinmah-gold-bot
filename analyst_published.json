@@ -12096,5 +12096,71 @@
     "group_sent_at": "2026-10-25T18:34:48.811864+03:30",
     "group_message_id": 1082,
     "published_at": "2026-10-25T18:34:48.819555+03:30"
+  },
+  "https://t.me/nasiirry/17683": {
+    "item": {
+      "analyst": "حسین نصیری",
+      "title": "تو این چند روز به یک نکته ی مهم دقت کردید؟",
+      "summary": "تو این چند روز به یک نکته ی مهم دقت کردید؟ \n\nاونم اینکه با وجودِ تنش های بالا، قیمت طلا رشد زیادی نکرد بلکه اصلاح هم داشت ...\nهستین تو یک ویس علتش و اینکه چه زمانی رشد انفجاریش رو خواهد داشت بهتون توضیح بدم؟؟ 👇 \n\n @nasiirry",
+      "full_text": "تو این چند روز به یک نکته ی مهم دقت کردید؟ \n\nاونم اینکه با وجودِ تنش های بالا، قیمت طلا رشد زیادی نکرد بلکه اصلاح هم داشت ...\nهستین تو یک ویس علتش و اینکه چه زمانی رشد انفجاریش رو خواهد داشت بهتون توضیح بدم؟؟ 👇 \n\n @nasiirry",
+      "source": "حسین نصیری",
+      "link": "https://t.me/nasiirry/17683",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "اصلاح",
+        "رشد",
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل"
+      ],
+      "priority": "medium",
+      "content_length": 223,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-25T18:48:32.808419+03:30"
+    },
+    "content_signature": "25b299852818e605e45f90d2d39b212731c7c3d69c47334c762e5428c89b6316",
+    "first_seen_at": "2026-10-25T18:48:39.082648+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1346
+    ],
+    "telegram_last_success_at": "2026-10-25T18:48:39.546901+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-25T18:48:39.560542+03:30",
+    "telegram_message_id": 1346,
+    "eitaa_parts_sent": [
+      false
+    ],
+    "eitaa_part_message_ids": [
+      null
+    ],
+    "errors": [
+      {
+        "destination": "eitaa",
+        "part": 1,
+        "time": "2026-10-25T18:49:10.613284+03:30",
+        "error": "HTTPSConnectionPool(host='eitaayar.ir', port=443): Read timed out. (read timeout=30)"
+      }
+    ],
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1084
+    ],
+    "group_last_success_at": "2026-10-25T18:49:11.155431+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-25T18:49:11.168996+03:30",
+    "group_message_id": 1084
   }
 }

@@ -10742,5 +10742,29 @@
     "group_message_id": 1079,
     "fully_published": true,
     "last_checked_at": "2026-10-25T14:48:50.086998+00:00"
+  },
+  "54c6bce3eafd3a5c971967cae47aa2482f655861ebb4d6ae8ebc21807d378e7a": {
+    "title": "۴۱ درصد صادرات زمینی ایران به عراق از کرمانشاه انجام می شود",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989604/%DB%B4%DB%B1-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B2%D9%85%DB%8C%D9%86%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D8%B2-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "telegram_message_ids": [
+      1345
+    ],
+    "eitaa_message_ids": [
+      178279074
+    ],
+    "group_message_ids": [
+      1083
+    ],
+    "content_hash": "05324d92bd44306fd4936bdbfbced815136d1f8e1e2f8dffbae13dda1ec95b3c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T15:18:35.927236+00:00",
+    "telegram_message_id": 1345,
+    "eitaa_last_sent_at": "2026-10-25T15:18:37.190585+00:00",
+    "eitaa_message_id": 178279074,
+    "group_last_sent_at": "2026-10-25T15:18:38.876402+00:00",
+    "group_message_id": 1083,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T15:18:38.894604+00:00"
   }
 }
