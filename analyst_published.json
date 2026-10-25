@@ -11886,5 +11886,69 @@
     "group_sent_at": "2026-10-25T15:48:28.973959+03:30",
     "group_message_id": 1062,
     "published_at": "2026-10-25T15:48:28.986562+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25736": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "یه مشاوره مالیاتی بهتون بدم حواستون باشه سرتون کلاه نره .",
+      "summary": "یه مشاوره مالیاتی بهتون بدم حواستون باشه سرتون کلاه نره .\n\nامروز سخنگوی سازمان امور مالیاتی گفته که احتمالاً از اردیبهشت ۱۴۰۶، سود معاملات رمزارزها مشمول مالیات می‌شه که مربوط به بخش مالیات بر عایدی سرمایه است ، حالا جزئیاتش منتشر بشه داخل کانال براتون میزارم.\n\n @payamelyaskordi ✅",
+      "full_text": "یه مشاوره مالیاتی بهتون بدم حواستون باشه سرتون کلاه نره .\n\nامروز سخنگوی سازمان امور مالیاتی گفته که احتمالاً از اردیبهشت ۱۴۰۶، سود معاملات رمزارزها مشمول مالیات می‌شه که مربوط به بخش مالیات بر عایدی سرمایه است ، حالا جزئیاتش منتشر بشه داخل کانال براتون میزارم.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25736",
+      "analysis_score": 9,
+      "market_matches": [
+        "ارز",
+        "رمزارز"
+      ],
+      "analysis_matches": [
+        "احتمال"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 281,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-25T16:18:28.469199+03:30"
+    },
+    "content_signature": "8fa2be44408666202f3995650deb491b9d95fe65785c8b58317df5b16d143848",
+    "first_seen_at": "2026-10-25T16:18:46.389510+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1328
+    ],
+    "telegram_last_success_at": "2026-10-25T16:18:46.944682+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-25T16:18:46.958701+03:30",
+    "telegram_message_id": 1328,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178257764
+    ],
+    "eitaa_last_success_at": "2026-10-25T16:18:48.548571+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-25T16:18:48.562233+03:30",
+    "eitaa_message_id": 178257764,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1066
+    ],
+    "group_last_success_at": "2026-10-25T16:18:49.132114+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-25T16:18:49.145607+03:30",
+    "group_message_id": 1066,
+    "published_at": "2026-10-25T16:18:49.158964+03:30"
   }
 }

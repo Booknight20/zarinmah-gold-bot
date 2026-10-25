@@ -10406,5 +10406,77 @@
     "group_message_id": 1061,
     "fully_published": true,
     "last_checked_at": "2026-10-25T12:18:25.759103+00:00"
+  },
+  "24a20407e19e46d72be784128452fbbd8af723536e8bb70082e81cb183d29bf6": {
+    "title": "حراج شمش طلا سه شنبه ۵ آبان برگزار می شود",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989435/%D8%AD%D8%B1%D8%A7%D8%AC-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "telegram_message_ids": [
+      1325
+    ],
+    "eitaa_message_ids": [
+      178257750
+    ],
+    "group_message_ids": [
+      1063
+    ],
+    "content_hash": "8093ef1963e83c5ad36548c066a8f08bbc7bda5e518b20e0cc99dbf22271262c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T12:48:33.098901+00:00",
+    "telegram_message_id": 1325,
+    "eitaa_last_sent_at": "2026-10-25T12:48:34.663152+00:00",
+    "eitaa_message_id": 178257750,
+    "group_last_sent_at": "2026-10-25T12:48:36.507330+00:00",
+    "group_message_id": 1063,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T12:48:36.524751+00:00"
+  },
+  "c79657929cd600b83e9572d6720fbcac1a2a2aeac04caf7a6cb5eccd6dbc3cbf": {
+    "title": "زمان و شرایط ثبت نام در حراج جدید شمش طلا اعلام شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304107-%D8%B2%D9%85%D8%A7%D9%86-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%AB%D8%A8%D8%AA-%D9%86%D8%A7%D9%85-%D8%AF%D8%B1-%D8%AD%D8%B1%D8%A7%D8%AC-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1326
+    ],
+    "eitaa_message_ids": [
+      178257757
+    ],
+    "group_message_ids": [
+      1064
+    ],
+    "content_hash": "b9ef895aaa889f4b82cfc36c07dc8cf1acfa6a237a993ad5cb28800a647bf3d4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T12:48:38.296456+00:00",
+    "telegram_message_id": 1326,
+    "eitaa_last_sent_at": "2026-10-25T12:48:39.824314+00:00",
+    "eitaa_message_id": 178257757,
+    "group_last_sent_at": "2026-10-25T12:48:41.589536+00:00",
+    "group_message_id": 1064,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T12:48:41.607031+00:00"
+  },
+  "e354f5179a61f01630701ed1c58693771fdbaf33e91e54f94736785c0a592915": {
+    "title": "قیمت منصفانه طلا را چطور تشخیص دهیم؟ از مظنه تا حباب سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4304098-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D9%86%D8%B5%D9%81%D8%A7%D9%86%D9%87-%D8%B7%D9%84%D8%A7-%D8%B1%D8%A7-%DA%86%D8%B7%D9%88%D8%B1-%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5-%D8%AF%D9%87%DB%8C%D9%85-%D8%A7%D8%B2-%D9%85%D8%B8%D9%86%D9%87-%D8%AA%D8%A7-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      1327
+    ],
+    "eitaa_message_ids": [
+      178257760
+    ],
+    "group_message_ids": [
+      1065
+    ],
+    "content_hash": "1fd16de8afa7d389dc5a78d646ee5634bc6a8347caacf06d2a280db1b29f96df",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T12:48:43.390990+00:00",
+    "telegram_message_id": 1327,
+    "eitaa_last_sent_at": "2026-10-25T12:48:44.413038+00:00",
+    "eitaa_message_id": 178257760,
+    "group_last_sent_at": "2026-10-25T12:48:46.177439+00:00",
+    "group_message_id": 1065,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T12:48:46.196512+00:00"
   }
 }
