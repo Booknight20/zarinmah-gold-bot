@@ -10766,5 +10766,45 @@
     "group_message_id": 1083,
     "fully_published": true,
     "last_checked_at": "2026-10-25T15:18:38.894604+00:00"
+  },
+  "ff30a9382b3c1fa9cca4506d3f8c514c4e5db0220b23ab874c2a9e0cff656c68": {
+    "title": "۱۳۴ میلیون دلار برای آزمایشگاه امنیت زیستی هوش مصنوعی بریتانیا",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080301819/%DB%B1%DB%B3%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%B2%DB%8C%D8%B3%D8%AA%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7",
+    "telegram_message_ids": [
+      1349
+    ],
+    "eitaa_message_ids": [
+      178282915
+    ],
+    "group_message_ids": [
+      1087
+    ],
+    "content_hash": "11e16d12c172c3f3e4c90ea6fef562f0bf7248ab3bb5c2da7b5772d5238a95c4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T16:18:09.309976+00:00",
+    "telegram_message_id": 1349,
+    "eitaa_last_sent_at": "2026-10-25T16:18:10.837780+00:00",
+    "eitaa_message_id": 178282915,
+    "group_last_sent_at": "2026-10-25T16:18:12.766235+00:00",
+    "group_message_id": 1087,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T16:18:12.784090+00:00"
+  },
+  "f1126f2d59b74d3be72a2568e1832561789299a209764c27d8ee2e63b441968c": {
+    "title": "بورس در نیمه دوم عقب نشست؛ فراکاب ها در مسیر رشد درآمد +فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304138-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D8%AF%D9%88%D9%85-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%D8%B3%D8%AA-%D9%81%D8%B1%D8%A7%DA%A9%D8%A7%D8%A8-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%B1%D8%B4%D8%AF-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      1350
+    ],
+    "eitaa_message_ids": [
+      null
+    ],
+    "group_message_ids": [],
+    "content_hash": "f1187bce4a2e976e317f6ce9ba7df0af2dac080587737d86a2b84f7077fadb22",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T16:18:14.573902+00:00",
+    "telegram_message_id": 1350
   }
 }
