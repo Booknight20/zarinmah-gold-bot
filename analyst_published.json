@@ -11120,5 +11120,68 @@
     "group_sent_at": "2026-10-25T09:48:39.692277+03:30",
     "group_message_id": 1007,
     "published_at": "2026-10-25T09:48:39.704106+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8679": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "بلیط قطار چند روز پیش ۲۰ تا ۳۵ درصد گرون شده بود، الان هم بلیط‌ هواپیماها تا ۴۵ درصد افزایش قیمت داشته ‼️",
+      "summary": "بلیط قطار چند روز پیش ۲۰ تا ۳۵ درصد گرون شده بود، الان هم بلیط‌ هواپیماها تا ۴۵ درصد افزایش قیمت داشته ‼️ \n\n گفتن هزینه‌های دلاریمون زیاد شده برای همین گرون کردیم \n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "بلیط قطار چند روز پیش ۲۰ تا ۳۵ درصد گرون شده بود، الان هم بلیط‌ هواپیماها تا ۴۵ درصد افزایش قیمت داشته ‼️ \n\n گفتن هزینه‌های دلاریمون زیاد شده برای همین گرون کردیم \n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8679",
+      "analysis_score": 8,
+      "market_matches": [
+        "دلار"
+      ],
+      "analysis_matches": [
+        "افزایش",
+        "قیمت"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 187,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-25T10:17:32.112255+03:30"
+    },
+    "content_signature": "7da068315ca0eea665bedbdad29548012bc12ebf5aef1091a57adfcccf012386",
+    "first_seen_at": "2026-10-25T10:17:46.764808+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1277
+    ],
+    "telegram_last_success_at": "2026-10-25T10:17:47.234003+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-25T10:17:47.250996+03:30",
+    "telegram_message_id": 1277,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178192152
+    ],
+    "eitaa_last_success_at": "2026-10-25T10:17:48.043094+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-25T10:17:48.056346+03:30",
+    "eitaa_message_id": 178192152,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1011
+    ],
+    "group_last_success_at": "2026-10-25T10:17:48.532470+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-25T10:17:48.545507+03:30",
+    "group_message_id": 1011,
+    "published_at": "2026-10-25T10:17:48.558310+03:30"
   }
 }
