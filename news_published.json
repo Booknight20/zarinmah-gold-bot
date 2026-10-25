@@ -9998,5 +9998,77 @@
     "group_message_id": 1033,
     "fully_published": true,
     "last_checked_at": "2026-10-25T09:18:52.907623+00:00"
+  },
+  "40ef91106a27f10a84feccc5f934c73adf90a5e82b7743907ae84f1cbf522f7e": {
+    "title": "زنگنه: دولت، بانک ها و پتروشیمی ها ذی نفعان افزایش نرخ ارز هستند",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989182/%D8%B2%D9%86%DA%AF%D9%86%D9%87-%D8%AF%D9%88%D9%84%D8%AA-%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7-%D9%88-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C-%D9%87%D8%A7-%D8%B0%DB%8C-%D9%86%D9%81%D8%B9%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
+    "telegram_message_ids": [
+      1298
+    ],
+    "eitaa_message_ids": [
+      178225812
+    ],
+    "group_message_ids": [
+      1034
+    ],
+    "content_hash": "70a5133b778cd1de8e54895e1f3d02177aeca210e87b7128af98644f6454e3a6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T09:48:19.722993+00:00",
+    "telegram_message_id": 1298,
+    "eitaa_last_sent_at": "2026-10-25T09:48:20.848768+00:00",
+    "eitaa_message_id": 178225812,
+    "group_last_sent_at": "2026-10-25T09:48:22.477990+00:00",
+    "group_message_id": 1034,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T09:48:22.494478+00:00"
+  },
+  "5964ea7c1bd6b75530059d6736da6fc79419541f9e84a87caee56fc2df90a9dd": {
+    "title": "رونمایی از سامانه «چشم هوشمند» برای مقابله با سرقت در بازار طلای فارس",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989153/%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%DA%86%D8%B4%D9%85-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D9%82%D8%A7%D8%A8%D9%84%D9%87-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%82%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      1299
+    ],
+    "eitaa_message_ids": [
+      178225828
+    ],
+    "group_message_ids": [
+      1035
+    ],
+    "content_hash": "c09924548b009c2c9a269e48debf6d09ef36ca695d2203a84acb5aa1fb91b3cf",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T09:48:24.075569+00:00",
+    "telegram_message_id": 1299,
+    "eitaa_last_sent_at": "2026-10-25T09:48:25.170941+00:00",
+    "eitaa_message_id": 178225828,
+    "group_last_sent_at": "2026-10-25T09:48:26.746127+00:00",
+    "group_message_id": 1035,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T09:48:26.762546+00:00"
+  },
+  "808760015ddc7e9f17f442aefffcdb87a6d871edb403325157c24a247e6a8eb2": {
+    "title": "همتی: تأمین ارز دارو ۲۸ درصد افزایش یافت",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1847999/%D9%87%D9%85%D8%AA%DB%8C-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%A7%D8%B1%D9%88-%DB%B2%DB%B8-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
+    "telegram_message_ids": [
+      1300
+    ],
+    "eitaa_message_ids": [
+      178225845
+    ],
+    "group_message_ids": [
+      1036
+    ],
+    "content_hash": "dd423942fc34506b22816e9ad1e764074a276979bdf7db4e47346de249f34ce2",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T09:48:28.979774+00:00",
+    "telegram_message_id": 1300,
+    "eitaa_last_sent_at": "2026-10-25T09:48:30.364928+00:00",
+    "eitaa_message_id": 178225845,
+    "group_last_sent_at": "2026-10-25T09:48:31.942545+00:00",
+    "group_message_id": 1036,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T09:48:31.959284+00:00"
   }
 }
