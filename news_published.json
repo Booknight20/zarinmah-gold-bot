@@ -9086,5 +9086,29 @@
     "group_message_id": 977,
     "fully_published": true,
     "last_checked_at": "2026-10-24T21:17:54.491608+00:00"
+  },
+  "9e07ca650d135e2c41e45c7e3158a1f0f30d4488564a4d6101fe0f0b3fbc97d2": {
+    "title": "سودهای میلیون دلاری به قیمت جان مردم!",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080301123/%D8%B3%D9%88%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%A7%D9%86-%D9%85%D8%B1%D8%AF%D9%85",
+    "telegram_message_ids": [
+      1247
+    ],
+    "eitaa_message_ids": [
+      178159196
+    ],
+    "group_message_ids": [
+      979
+    ],
+    "content_hash": "cdf843f85ac8b5c608c6011b4582c26e4b45d293745b4ed8d824edae7a1d20b9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T00:47:52.429389+00:00",
+    "telegram_message_id": 1247,
+    "eitaa_last_sent_at": "2026-10-25T00:47:53.502304+00:00",
+    "eitaa_message_id": 178159196,
+    "group_last_sent_at": "2026-10-25T00:47:55.093196+00:00",
+    "group_message_id": 979,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T00:47:55.108680+00:00"
   }
 }
