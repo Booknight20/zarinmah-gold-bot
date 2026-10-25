@@ -10262,5 +10262,77 @@
     "group_message_id": 1048,
     "fully_published": true,
     "last_checked_at": "2026-10-25T11:16:49.739735+00:00"
+  },
+  "46d99b9003988156c869b618bb1fe231698c15aceb828d293ac87ba9eea028cb": {
+    "title": "تله مسافرکشی برای سرقت طلای مسافران/ رفع تعهد ارزی ۴۵۰ هزار یورویی با پیگیری پلیس",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080301660/%D8%AA%D9%84%D9%87-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%DA%A9%D8%B4%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D9%82%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D8%A7%D9%86-%D8%B1%D9%81%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C-%DB%B4%DB%B5%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1315
+    ],
+    "eitaa_message_ids": [
+      178245068
+    ],
+    "group_message_ids": [
+      1051
+    ],
+    "content_hash": "e71f1a9e91ad03b9fa9f31724df2be4af8cd2fd60a311039a9a9f50d0dfab83e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T11:48:18.876377+00:00",
+    "telegram_message_id": 1315,
+    "eitaa_last_sent_at": "2026-10-25T11:48:20.011896+00:00",
+    "eitaa_message_id": 178245068,
+    "group_last_sent_at": "2026-10-25T11:48:21.601577+00:00",
+    "group_message_id": 1051,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T11:48:21.619441+00:00"
+  },
+  "212a7bc66915df51625403c64b82e46a05c725b958917dbd0950a9e37645aca5": {
+    "title": "تسهیلات ویژه ارزی و ریالی برای تکمیل پتروشیمی دهدشت اختصاص یافت",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989378/%D8%AA%D8%B3%D9%87%DB%8C%D9%84%D8%A7%D8%AA-%D9%88%DB%8C%DA%98%D9%87-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C-%D8%AF%D9%87%D8%AF%D8%B4%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%DB%8C%D8%A7%D9%81%D8%AA",
+    "telegram_message_ids": [
+      1316
+    ],
+    "eitaa_message_ids": [
+      178245083
+    ],
+    "group_message_ids": [
+      1052
+    ],
+    "content_hash": "4c4570ef8bb928f4cb17d2b61dd67b9a59a63f99d6ffee50bf364ae645633d5e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T11:48:23.214658+00:00",
+    "telegram_message_id": 1316,
+    "eitaa_last_sent_at": "2026-10-25T11:48:24.405510+00:00",
+    "eitaa_message_id": 178245083,
+    "group_last_sent_at": "2026-10-25T11:48:26.000641+00:00",
+    "group_message_id": 1052,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T11:48:26.017935+00:00"
+  },
+  "c21f278053fca14b8a95ece9bbb170816841ad8759ba84a4484438279272c90d": {
+    "title": "اینفوگرافیک؛ صادرات ۱۴۰ هزار تن محصولات کشاورزی از آذربایجان شرقی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/photo/6983985/%D8%A7%DB%8C%D9%86%D9%81%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1%DB%B4%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%86-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%A7%D8%B2-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C",
+    "telegram_message_ids": [
+      1317
+    ],
+    "eitaa_message_ids": [
+      178245092
+    ],
+    "group_message_ids": [
+      1053
+    ],
+    "content_hash": "21734b969215fb072ed38e01cfd1cfbc48353a2239939b65e6c180e15fc729d5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T11:48:27.601783+00:00",
+    "telegram_message_id": 1317,
+    "eitaa_last_sent_at": "2026-10-25T11:48:28.783888+00:00",
+    "eitaa_message_id": 178245092,
+    "group_last_sent_at": "2026-10-25T11:48:30.388703+00:00",
+    "group_message_id": 1053,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T11:48:30.406009+00:00"
   }
 }
