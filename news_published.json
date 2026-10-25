@@ -9158,5 +9158,29 @@
     "group_message_id": 981,
     "fully_published": true,
     "last_checked_at": "2026-10-25T02:47:54.217693+00:00"
+  },
+  "462bf30df2dc11b387c5d5958eb5fb2dac4b68078e57efada99e9b3a76dd2a26": {
+    "title": "اثر بازار خودروهای برقی بر بورس ایران | چرا رشد قیمت مسکن دیگر محرک ساخت وساز نیست؟ | کدام خبرها هنوز قیمت سازند؟ | مقایسه ریسک دارایی های مختلف",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304024-%D8%A7%D8%AB%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DA%86%D8%B1%D8%A7-%D8%B1%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D8%B3%DA%A9%D9%86-%D8%AF%DB%8C%DA%AF%D8%B1-%D9%85%D8%AD%D8%B1%DA%A9-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%88%D8%B3%D8%A7%D8%B2-%D9%86%DB%8C%D8%B3%D8%AA-%DA%A9%D8%AF%D8%A7%D9%85-%D8%AE%D8%A8%D8%B1%D9%87%D8%A7-%D9%87%D9%86%D9%88%D8%B2-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%D8%A7%D8%B2%D9%86%D8%AF-%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%B1%DB%8C%D8%B3%DA%A9-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%85%D8%AE%D8%AA%D9%84%D9%81",
+    "telegram_message_ids": [
+      1250
+    ],
+    "eitaa_message_ids": [
+      178166057
+    ],
+    "group_message_ids": [
+      982
+    ],
+    "content_hash": "3769b26f7f7ba9897217f34606d941e3481ab9efbf9bc23b823ad5e46e397356",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T03:44:43.799500+00:00",
+    "telegram_message_id": 1250,
+    "eitaa_last_sent_at": "2026-10-25T03:44:45.028272+00:00",
+    "eitaa_message_id": 178166057,
+    "group_last_sent_at": "2026-10-25T03:44:46.654481+00:00",
+    "group_message_id": 982,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T03:44:46.663812+00:00"
   }
 }
