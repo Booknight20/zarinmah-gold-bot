@@ -12311,5 +12311,195 @@
     "group_sent_at": "2026-10-25T19:58:07.138137+03:30",
     "group_message_id": 1090,
     "published_at": "2026-10-25T19:58:07.151356+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8698": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "سلام و عرض ادب",
+      "summary": "سلام و عرض ادب\nوقت بخیر\nما یک خانواده چهار نفره هستیم البته بچه دومم الان پنج ماهش هست \nخدا وسکر الان یک واحد داریم که البته کوچیکه (۸۵ متر)\nمسلما لازم هست دو سه سال دیگه واحد رو بزرگتر و سه خواب کنیم\nالان طلا دارم که اینکار رو انجام بدم.\nبنظرتون الان انجام بدم و تبدیل کنم به واحد بزرگتر یا صبر کنم دو سه سال دیگه و طلا رو تبدیل به واحد بزرگتر کنم.\nاینم بگم همین الان بدون فروش واحدی که داخلش هستیم هم میتونم با فروش طلای فعلی واحد سه خواب خرید کنیم",
+      "full_text": "سلام و عرض ادب\nوقت بخیر\nما یک خانواده چهار نفره هستیم البته بچه دومم الان پنج ماهش هست \nخدا وسکر الان یک واحد داریم که البته کوچیکه (۸۵ متر)\nمسلما لازم هست دو سه سال دیگه واحد رو بزرگتر و سه خواب کنیم\nالان طلا دارم که اینکار رو انجام بدم.\nبنظرتون الان انجام بدم و تبدیل کنم به واحد بزرگتر یا صبر کنم دو سه سال دیگه و طلا رو تبدیل به واحد بزرگتر کنم.\nاینم بگم همین الان بدون فروش واحدی که داخلش هستیم هم میتونم با فروش طلای فعلی واحد سه خواب خرید کنیم",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8698",
+      "analysis_score": 9,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "خرید",
+        "فروش"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 450,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-25T20:17:56.090733+03:30"
+    },
+    "content_signature": "e708366fb1c4c688e5c8ac568abb24a9ab7c0b3cde09fc69ebed9b7485d6e07e",
+    "first_seen_at": "2026-10-25T20:17:57.033890+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1353
+    ],
+    "telegram_last_success_at": "2026-10-25T20:17:57.392999+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-25T20:17:57.407163+03:30",
+    "telegram_message_id": 1353,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178285005
+    ],
+    "eitaa_last_success_at": "2026-10-25T20:17:58.339722+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-25T20:17:58.353759+03:30",
+    "eitaa_message_id": 178285005,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1091
+    ],
+    "group_last_success_at": "2026-10-25T20:17:58.735035+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-25T20:17:58.748878+03:30",
+    "group_message_id": 1091,
+    "published_at": "2026-10-25T20:17:58.764771+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8695": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "استاد تو وبینار صدا اصلا واضح نبود منم تو ماشین بودم صداشو اصلا نمیشنیدم میشه اونو اینجا بذارین یا تحلیل طلارو بگین ا...",
+      "summary": "استاد تو وبینار صدا اصلا واضح نبود منم تو ماشین بودم صداشو اصلا نمیشنیدم میشه اونو اینجا بذارین یا تحلیل طلارو بگین الان من همه داراییم طلا هس تو چه قیمت بفروشم یا بخرم",
+      "full_text": "استاد تو وبینار صدا اصلا واضح نبود منم تو ماشین بودم صداشو اصلا نمیشنیدم میشه اونو اینجا بذارین یا تحلیل طلارو بگین الان من همه داراییم طلا هس تو چه قیمت بفروشم یا بخرم",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8695",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "فروش",
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل"
+      ],
+      "priority": "medium",
+      "content_length": 168,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-25T20:17:56.084094+03:30"
+    },
+    "content_signature": "fcad4af425c599693e9541b18d4402705cf1f004130b5fa12557db3fa7a1c0b0",
+    "first_seen_at": "2026-10-25T20:17:58.779371+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1354
+    ],
+    "telegram_last_success_at": "2026-10-25T20:17:59.140563+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-25T20:17:59.154302+03:30",
+    "telegram_message_id": 1354,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178285009
+    ],
+    "eitaa_last_success_at": "2026-10-25T20:18:00.266065+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-25T20:18:00.279623+03:30",
+    "eitaa_message_id": 178285009,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1092
+    ],
+    "group_last_success_at": "2026-10-25T20:18:00.634155+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-25T20:18:00.647830+03:30",
+    "group_message_id": 1092,
+    "published_at": "2026-10-25T20:18:00.660854+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8696": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "استاد تو وبینار صدا اصلا واضح نبود منم تو ماشین بودم صداشو اصلا نمیشنیدم میشه اونو اینجا بذارین یا تحلیل طلارو بگین ا...",
+      "summary": "استاد تو وبینار صدا اصلا واضح نبود منم تو ماشین بودم صداشو اصلا نمیشنیدم میشه اونو اینجا بذارین یا تحلیل طلارو بگین الان من همه داراییم طلا هس تو چه قیمت بفروشم یا بخرم",
+      "full_text": "استاد تو وبینار صدا اصلا واضح نبود منم تو ماشین بودم صداشو اصلا نمیشنیدم میشه اونو اینجا بذارین یا تحلیل طلارو بگین الان من همه داراییم طلا هس تو چه قیمت بفروشم یا بخرم",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8696",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "فروش",
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل"
+      ],
+      "priority": "medium",
+      "content_length": 168,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-25T20:17:56.086335+03:30"
+    },
+    "content_signature": "46367ac8a79b83a58792b23dc7f9380a0f7f37d758f1b0071eb9b7ce9aa8e176",
+    "first_seen_at": "2026-10-25T20:18:00.674447+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1355
+    ],
+    "telegram_last_success_at": "2026-10-25T20:18:01.033624+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-25T20:18:01.047515+03:30",
+    "telegram_message_id": 1355,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178285015
+    ],
+    "eitaa_last_success_at": "2026-10-25T20:18:02.132006+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-25T20:18:02.145633+03:30",
+    "eitaa_message_id": 178285015,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1093
+    ],
+    "group_last_success_at": "2026-10-25T20:18:02.532493+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-25T20:18:02.546313+03:30",
+    "group_message_id": 1093,
+    "published_at": "2026-10-25T20:18:02.559498+03:30"
   }
 }
