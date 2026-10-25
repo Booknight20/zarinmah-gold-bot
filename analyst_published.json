@@ -12136,13 +12136,13 @@
     ],
     "telegram_last_success_at": "2026-10-25T18:48:39.546901+03:30",
     "telegram_sent": true,
-    "telegram_sent_at": "2026-10-25T18:56:07.737007+03:30",
+    "telegram_sent_at": "2026-10-25T19:12:51.155057+03:30",
     "telegram_message_id": 1346,
     "eitaa_parts_sent": [
-      false
+      true
     ],
     "eitaa_part_message_ids": [
-      null
+      178280937
     ],
     "errors": [
       {
@@ -12166,7 +12166,86 @@
     ],
     "group_last_success_at": "2026-10-25T18:49:11.155431+03:30",
     "group_sent": true,
-    "group_sent_at": "2026-10-25T18:56:38.935025+03:30",
-    "group_message_id": 1084
+    "group_sent_at": "2026-10-25T19:12:54.705847+03:30",
+    "group_message_id": 1084,
+    "eitaa_last_success_at": "2026-10-25T19:12:54.674463+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-25T19:12:54.692864+03:30",
+    "eitaa_message_id": 178280937,
+    "published_at": "2026-10-25T19:12:54.718837+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25742": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "خلاصه بازار 3 آبان 1405",
+      "summary": "خلاصه بازار 3 آبان 1405 \n\n ۱- طلا فیزیکی 18 عیار 25/915/000 تومان \n ۲- صندوق طلا 15698 میلیارد تومان ارزش معاملات ، 1530 میلیارد ورود پول (میانگین حباب ۱٪+)\n ۳- شمش طلای 24 عیار 34/170/000 تومان\n ۴- صندوق نقره 553 میلیارد تومان ارزش معاملات ، 2 میلیارد خروج پول (حباب نداشتن)\n ۵- شمش 999‌ نقره 480/000 تومان \n ۶- صندوق درآمد ثابت 42600 میلیارد تومان ارزش معاملات ، 2644 میلیارد تومان ورود پول\n ۷- انس 3993 $ انس نقره 53 $\nنسبت طلا به نقره 74 \n ۸- بین‌کوین 80000 $ معادل 21/500 میلیارد تومان \n \n @payamelyaskordi ✅",
+      "full_text": "خلاصه بازار 3 آبان 1405 \n\n ۱- طلا فیزیکی 18 عیار 25/915/000 تومان \n ۲- صندوق طلا 15698 میلیارد تومان ارزش معاملات ، 1530 میلیارد ورود پول (میانگین حباب ۱٪+)\n ۳- شمش طلای 24 عیار 34/170/000 تومان\n ۴- صندوق نقره 553 میلیارد تومان ارزش معاملات ، 2 میلیارد خروج پول (حباب نداشتن)\n ۵- شمش 999‌ نقره 480/000 تومان \n ۶- صندوق درآمد ثابت 42600 میلیارد تومان ارزش معاملات ، 2644 میلیارد تومان ورود پول\n ۷- انس 3993 $ انس نقره 53 $\nنسبت طلا به نقره 74 \n ۸- بین‌کوین 80000 $ معادل 21/500 میلیارد تومان \n \n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25742",
+      "analysis_score": 26,
+      "market_matches": [
+        "طلا",
+        "طلای ۲۴",
+        "طلای 24",
+        "ارز",
+        "ارزش معاملات",
+        "صندوق طلا",
+        "صندوق نقره"
+      ],
+      "analysis_matches": [
+        "ورود",
+        "خروج",
+        "حباب"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 513,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-25T19:12:42.736059+03:30"
+    },
+    "content_signature": "91fd9caab8db5c45d4defca05fec40bc1b1b6f93fc86c6a3f5f0fa725b97bf9a",
+    "first_seen_at": "2026-10-25T19:12:45.812416+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1347
+    ],
+    "telegram_last_success_at": "2026-10-25T19:12:46.403496+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-25T19:12:46.417483+03:30",
+    "telegram_message_id": 1347,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178280927
+    ],
+    "eitaa_last_success_at": "2026-10-25T19:12:50.369303+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-25T19:12:50.383057+03:30",
+    "eitaa_message_id": 178280927,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1085
+    ],
+    "group_last_success_at": "2026-10-25T19:12:51.115207+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-25T19:12:51.128745+03:30",
+    "group_message_id": 1085,
+    "published_at": "2026-10-25T19:12:51.141685+03:30"
   }
 }
