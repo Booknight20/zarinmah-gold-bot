@@ -11249,5 +11249,73 @@
     "group_sent_at": "2026-10-25T10:48:17.589582+03:30",
     "group_message_id": 1013,
     "published_at": "2026-10-25T10:48:17.601582+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8680": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "طلا 18 عیار دوباره حباب منفی گرفته و 200 تومنی زیر ارزش ذاتیش داره معامله میشه ‼️",
+      "summary": "طلا 18 عیار دوباره حباب منفی گرفته و 200 تومنی زیر ارزش ذاتیش داره معامله میشه ‼️ \n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "طلا 18 عیار دوباره حباب منفی گرفته و 200 تومنی زیر ارزش ذاتیش داره معامله میشه ‼️ \n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8680",
+      "analysis_score": 17,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "analysis_matches": [
+        "معامله",
+        "حباب",
+        "ارزش ذاتی"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 106,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-25T11:48:00.679751+03:30"
+    },
+    "content_signature": "35b8b9beab3fa9d50c897d15ae859b86391712b69404a88819389c125bbd0b38",
+    "first_seen_at": "2026-10-25T11:48:22.712712+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1286
+    ],
+    "telegram_last_success_at": "2026-10-25T11:48:23.112798+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-25T11:48:23.125266+03:30",
+    "telegram_message_id": 1286,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178210194
+    ],
+    "eitaa_last_success_at": "2026-10-25T11:48:24.250938+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-25T11:48:24.263138+03:30",
+    "eitaa_message_id": 178210194,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1022
+    ],
+    "group_last_success_at": "2026-10-25T11:48:24.675955+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-25T11:48:24.688161+03:30",
+    "group_message_id": 1022,
+    "published_at": "2026-10-25T11:48:24.699710+03:30"
   }
 }

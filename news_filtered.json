@@ -76,6 +76,63 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "گزارش بازار سرمایه امروز شنبه ۲ آبان ۱۴۰۵ / شاخص کل بورس ۱۲۹ هزار واحد افت کرد و ۸ هزار میلیارد تومان پول حقیقی خارج شد",
+    "link": "https://www.khabaronline.ir/live/2292270/%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%86%D8%A8%D9%87-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF-%D9%88-%D8%A8%D9%87-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88",
+    "summary": "بازار سرمایه در معاملات امروز شنبه ۲ آبان ۱۴۰۵ با افت ۱.۵۸ درصدی شاخص کل بورس و خروج ۸ هزار و ۳۵ میلیارد تومان پول حقیقی از سهام همراه شد؛ هم زمان، ۳۵۴ نماد در صف فروش قرار گرفتند.",
+    "published": "Sat, 24 Oct 2026 10:30:00 GMT",
+    "collected_at": "2026-10-25T11:47:27.693918+03:30",
+    "filter_market_score": 40,
+    "market_score": 40,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "شاخص کل بورس",
+        "صف فروش",
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "شاخص کل بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "صف فروش",
+        "سهام",
+        "شاخص کل بورس"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "صف فروش",
+        "سهام",
+        "شاخص کل بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افت",
+      "گزارش",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت ها در بازار طلا و ارز در آبان 1405/ قیمت دلار جهش خواهد کرد؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304028-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%A2%D8%A8%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AC%D9%87%D8%B4-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%DA%A9%D8%B1%D8%AF",
@@ -136,64 +193,6 @@
       "پیش‌بینی",
       "پیش بینی",
       "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلای جهانی امروز ۲ آبان ۱۴۰۵ / قیمت هر اونس طلا برای تحویل فوری به ۳۹۹۸ دلار و ۳۵ سنت رسید",
-    "link": "https://www.khabaronline.ir/news/2292223/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%AD%D9%88%DB%8C%D9%84",
-    "summary": "قیمت طلا در معاملات روز جمعه بازار جهانی، کاهش یافت و به پایین ترین سطح خود در سه ماه اخیر رسید و بیشترین کاهش هفتگی در بیش از چهار ماه گذشته را رقم زد. بر این اساس، قیمت هر اونس طلا برای تحویل فوری به ۳۹۹۸ دلار و ۳۵ سنت رسید.",
-    "published": "Sat, 24 Oct 2026 07:20:00 GMT",
-    "collected_at": "2026-10-24T11:05:15.649432+03:30",
-    "filter_market_score": 35,
-    "market_score": 35,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "کاهش",
-      "معاملات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -1093,6 +1092,50 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "قیمت دلار، یورو و درهم امروز یکشنبه ۳ آبان ۱۴۰۵/ دلار ۲۶۷ هزار تومان شد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304066-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B4%D8%AF",
+    "summary": "قیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته، از 184,936 (یکصد و هشتاد و چهار هزار و نهصد و سی و شش) تومان به 185,305 (یکصد و هشتاد و پنج هزار و سیصد و پنج) تومان رسید.",
+    "published": "Sun, 25 Oct 2026 07:53:04 +0000",
+    "collected_at": "2026-10-25T11:47:22.870304+03:30",
+    "filter_market_score": 22,
+    "market_score": 22,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "یورو",
+        "درهم"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "یورو",
+        "درهم"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار",
+        "یورو",
+        "درهم"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "افزایش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "بورس در مسیر اصلاح",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4303933-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD",
     "summary": "بورس تهران در نخستین روز معاملاتی هفته با افت شاخص ها و تشدید فشار فروش مواجه شد. خروج ۸هزار و ۱۰۰ میلیارد تومان پول حقیقی ها، سومین رکورد تاریخی خروج نقدینگی از بازار سهام را رقم زد که نشانه ای از غلبه احتیاط بر معاملات بود.",
@@ -1275,6 +1318,53 @@
     "filter_applied": true
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "رفت وبرگشت بورس در کانال ۸ میلیونی",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4304070-%D8%B1%D9%81%D8%AA-%D9%88%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C",
+    "summary": "دنیای اقتصاد: معاملات بورس تهران در روز یکشنبه با نوسان شاخص های سهامی میان محدوده مثبت و منفی آغاز شده است؛ به طوری که شاخص کل در ساعات ابتدایی معاملات با افت قابل توجهی مواجه شد و حتی کانال ۸ میلیونواحدی را از دست داد، اما در ادامه با افزایش تقاضا بار دیگر به این کانال بازگشت.",
+    "published": "Sun, 25 Oct 2026 08:11:36 +0000",
+    "collected_at": "2026-10-25T11:47:22.870241+03:30",
+    "filter_market_score": 21,
+    "market_score": 21,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "افت",
+      "نوسان",
+      "معاملات",
+      "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ مثقال طلا ۱۱۰ میلیون و ۷۹۰ هزار تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2292694/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
@@ -1359,6 +1449,51 @@
     "signal_matches": [
       "روند",
       "خروج نقدینگی"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "تابناک",
+    "title": "قیمت دلار امروز یکشنبه ۳ آبان؛ دلار ۲۵۸ هزار تومانی با شرط تسویه تراولی!",
+    "link": "https://www.tabnak.ir/fa/news/1400263/قیمت-دلار-امروز-یکشنبه-3-آبان-دلار-258-هزار-تومانی-با-شرط-تسویه-تراولی",
+    "summary": "بازار ارز در دومین روز هفته در حالی با افت نسبی قیمت ها در کانال ۲۶۷ هزار تومانی روبه رو شده که بازگشت شیوه تسویه با ایران چک در کف بازار، دلار ارزان تر از نرخ رسمی را رقم زده است.",
+    "published": "25 Oct 2026 11:42:05 +0330",
+    "collected_at": "2026-10-25T11:47:30.699508+03:30",
+    "filter_market_score": 19,
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "بازار ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "بازار ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "بازار ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "افت",
+      "نرخ"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -1833,48 +1968,6 @@
       "معاملات",
       "افزایش",
       "افت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "صادرات ۸.۵ میلیارد دلاری کشاورزی در دسترس است/ رفع موانع صادرات مرکبات و مرغ در مازندران",
-    "link": "https://www.isna.ir/news/1405080200563/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B8-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3-%D8%A7%D8%B3%D8%AA-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA",
-    "summary": "معاون توسعه بازرگانی وزارت جهاد کشاورزی با تأکید بر اینکه بخش کشاورزی کشور ظرفیت دستیابی به صادرات سالانه ۸ تا ۸.۵ میلیارد دلار را دارد، از پیگیری رفع موانع صادرات مرکبات مازندران، تعیین سهمیه ماهانه ۵ تا ۱۰ هزار تنی صادرات مرغ و تسهیل رفع تعهدات ارزی بازرگانان خبر داد.",
-    "published": "Sat, 24 Oct 2026 07:18:35 GMT",
-    "collected_at": "2026-10-24T11:04:50.906579+03:30",
-    "filter_market_score": 16,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صادرات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2621,6 +2714,41 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "معاون وزیر اقتصاد: خرید ارز برای مصارف شخصی، به خودی خود مشمول مالیات نمی شود",
+    "link": "https://www.khabaronline.ir/news/2292775/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%B2%DB%8C%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B5%D8%A7%D8%B1%D9%81-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D9%87-%D8%AE%D9%88%D8%AF%DB%8C-%D8%AE%D9%88%D8%AF-%D9%85%D8%B4%D9%85%D9%88%D9%84",
+    "summary": "معاون وزیر اقتصاد در توضیحی رسمی اعلام کرده است که خرید ارز برای مصارف شخصی، به خودی خود مشمول مالیات نمی شود و دریافت مالیات باید بر اساس قانون و مقررات مصوب باشد.",
+    "published": "Sun, 25 Oct 2026 07:50:00 GMT",
+    "collected_at": "2026-10-25T11:47:27.693480+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مشرق",
     "title": "وقاحت برجامی اروپا زیر چکمه نفت ۱۲۰ دلاری",
     "link": "https://www.mashreghnews.ir/news/1847867/%D9%88%D9%82%D8%A7%D8%AD%D8%AA-%D8%A8%D8%B1%D8%AC%D8%A7%D9%85%DB%8C-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B2%DB%8C%D8%B1-%DA%86%DA%A9%D9%85%D9%87-%D9%86%D9%81%D8%AA-%DB%B1%DB%B2%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
@@ -3122,43 +3250,6 @@
       "افزایش",
       "قیمت",
       "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "پایان روند صعودی کاروان پارالمپیک؛ اتفاق نگران کننده پس از ۴ دوره!",
-    "link": "https://www.mehrnews.com/news/6987523/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B1%D9%88%D9%86%D8%AF-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%86%DA%AF%D8%B1%D8%A7%D9%86-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%86%D9%87%D8%A7%D8%B1",
-    "summary": "کاروان ورزش ایران در حالی به کار خود در بازی های پاراآسیایی پایان داد که پس از دومی در هانگژو، چهار پله سقوط کرد؛ افتی که با کاهش ۱۸ طلا همراه بود و پایان تلخی برای روند صعودی ایران رقم زد.",
-    "published": "Sat, 24 Oct 2026 07:22:04 GMT",
-    "collected_at": "2026-10-24T11:05:02.941116+03:30",
-    "filter_market_score": 9,
-    "market_score": 9,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صعود",
-      "روند",
-      "کاهش",
-      "افت",
-      "سقوط"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true

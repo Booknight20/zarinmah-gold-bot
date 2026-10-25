@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "analyst": "علیرضا محرابی",
+    "title": "طلا 18 عیار دوباره حباب منفی گرفته و 200 تومنی زیر ارزش ذاتیش داره معامله میشه ‼️",
+    "summary": "طلا 18 عیار دوباره حباب منفی گرفته و 200 تومنی زیر ارزش ذاتیش داره معامله میشه ‼️ \n\n ⚡️ @Alirezamehrabi_ir",
+    "full_text": "طلا 18 عیار دوباره حباب منفی گرفته و 200 تومنی زیر ارزش ذاتیش داره معامله میشه ‼️ \n\n ⚡️ @Alirezamehrabi_ir",
+    "source": "علیرضا محرابی",
+    "link": "https://t.me/AlirezaMehrabi_ir/8680",
+    "analysis_score": 17,
+    "market_matches": [
+      "طلا",
+      "ارز",
+      "ارزش ذاتی"
+    ],
+    "analysis_matches": [
+      "معامله",
+      "حباب",
+      "ارزش ذاتی"
+    ],
+    "market_groups": [
+      "gold",
+      "currency"
+    ],
+    "analysis_reasons": [
+      "ارتباط با بازار",
+      "دارای نشانه‌های تحلیل",
+      "دارای داده عددی",
+      "ارتباط میان چند حوزه بازار"
+    ],
+    "priority": "high",
+    "content_length": 106,
+    "content_complete_from_source": true,
+    "collected_at": "2026-10-25T11:48:00.679751+03:30"
+  }
+]
