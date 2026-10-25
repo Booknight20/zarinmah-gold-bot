@@ -10334,5 +10334,53 @@
     "group_message_id": 1053,
     "fully_published": true,
     "last_checked_at": "2026-10-25T11:48:30.406009+00:00"
+  },
+  "ca38b8f219b2f0b843555d3bfd082c75b154d94a80ad47ca4f4fcdc1fd7e7adb": {
+    "title": "نامه ۱۰ تشکل صنایع غذایی به بانک مرکزی؛ هشدار درباره امنیت غذایی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989402/%D9%86%D8%A7%D9%85%D9%87-%DB%B1%DB%B0-%D8%AA%D8%B4%DA%A9%D9%84-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C",
+    "telegram_message_ids": [
+      1320
+    ],
+    "eitaa_message_ids": [
+      178247174
+    ],
+    "group_message_ids": [
+      1056
+    ],
+    "content_hash": "052a571f6d8c551bec77122dd4731e276418731ea8fe13527035a1f572ded52e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T11:58:31.831591+00:00",
+    "telegram_message_id": 1320,
+    "eitaa_last_sent_at": "2026-10-25T11:58:33.348108+00:00",
+    "eitaa_message_id": 178247174,
+    "group_last_sent_at": "2026-10-25T11:58:35.143710+00:00",
+    "group_message_id": 1056,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T11:58:35.161168+00:00"
+  },
+  "5e14b91e9f0ffa988af77f718dbdd3d17aa26ace9bcc81211ef631475be24881": {
+    "title": "احتیاط بورس در مرز ۸میلیونی",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304102-%D8%A7%D8%AD%D8%AA%DB%8C%D8%A7%D8%B7-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C",
+    "telegram_message_ids": [
+      1321
+    ],
+    "eitaa_message_ids": [
+      178247182
+    ],
+    "group_message_ids": [
+      1057
+    ],
+    "content_hash": "d8292151c35e5dafbc6de8ac9f039594fb2ab9ff007d47077fde3ea7136c7c6e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T11:58:36.921792+00:00",
+    "telegram_message_id": 1321,
+    "eitaa_last_sent_at": "2026-10-25T11:58:38.560901+00:00",
+    "eitaa_message_id": 178247182,
+    "group_last_sent_at": "2026-10-25T11:58:40.331873+00:00",
+    "group_message_id": 1057,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T11:58:40.349296+00:00"
   }
 }
