@@ -1,17 +1,17 @@
 {
-  "gold18": 25986890,
-  "dollar": 268200,
-  "coin": 264000000,
-  "half": 139000000,
-  "quarter": 74000000,
+  "gold18": 25732200,
+  "dollar": 267500,
+  "coin": 263755000,
+  "half": 139360000,
+  "quarter": 74390000,
   "_sources": {
-    "gold18": "navasan",
-    "dollar": "navasan",
-    "coin": "navasan",
-    "half": "navasan",
-    "quarter": "navasan"
+    "gold18": "tgju",
+    "dollar": "tgju",
+    "coin": "tgju",
+    "half": "tgju",
+    "quarter": "tgju"
   },
-  "_saved_at": "2026-10-25T10:31:26.456935+03:30",
+  "_saved_at": "2026-10-25T11:31:23.335020+03:30",
   "_daily_date": "2026-10-25",
   "_daily_prices": {
     "gold18": 26094200,
