@@ -10214,5 +10214,53 @@
     "group_message_id": 1045,
     "fully_published": true,
     "last_checked_at": "2026-10-25T10:48:15.662576+00:00"
+  },
+  "af4919c92a5cd62b8bc12d12b97ced5479fc74149702f47a6cd40d552baaa3ac": {
+    "title": "طلا خلاف جهت جنگ حرکت کرد/ دلیل افت قیمت ها چیست؟",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080301619/%D8%B7%D9%84%D8%A7-%D8%AE%D9%84%D8%A7%D9%81-%D8%AC%D9%87%D8%AA-%D8%AC%D9%86%DA%AF-%D8%AD%D8%B1%DA%A9%D8%AA-%DA%A9%D8%B1%D8%AF-%D8%AF%D9%84%DB%8C%D9%84-%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%DA%86%DB%8C%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1311
+    ],
+    "eitaa_message_ids": [
+      178241026
+    ],
+    "group_message_ids": [
+      1047
+    ],
+    "content_hash": "92be77f4bfe0fda049464987bbd4338468913d19bbe00b488f6931f3f28691bb",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T11:16:41.142236+00:00",
+    "telegram_message_id": 1311,
+    "eitaa_last_sent_at": "2026-10-25T11:16:42.661903+00:00",
+    "eitaa_message_id": 178241026,
+    "group_last_sent_at": "2026-10-25T11:16:44.420105+00:00",
+    "group_message_id": 1047,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T11:16:44.432992+00:00"
+  },
+  "25760a3f123467673861020e1d9fe7355276387dc62f3b9284f23519cf5c5f9b": {
+    "title": "نقره سی یا گرمی، از کجا نقره بخریم؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4304093-%D9%86%D9%82%D8%B1%D9%87-%D8%B3%DB%8C-%DB%8C%D8%A7-%DA%AF%D8%B1%D9%85%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%AC%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%AE%D8%B1%DB%8C%D9%85",
+    "telegram_message_ids": [
+      1312
+    ],
+    "eitaa_message_ids": [
+      178241032
+    ],
+    "group_message_ids": [
+      1048
+    ],
+    "content_hash": "14c5910611ba0f1cca9d9d4ad19ca46995835579818deb5679264d39594fdfc2",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T11:16:46.256917+00:00",
+    "telegram_message_id": 1312,
+    "eitaa_last_sent_at": "2026-10-25T11:16:47.782073+00:00",
+    "eitaa_message_id": 178241032,
+    "group_last_sent_at": "2026-10-25T11:16:49.727201+00:00",
+    "group_message_id": 1048,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T11:16:49.739735+00:00"
   }
 }
