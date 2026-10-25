@@ -4357,36 +4357,5 @@
     "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "عزیزی: با پول دولت مدیریت کردن آسان است/ تراکتور هنوز مجوز پرواز نگرفته است",
-    "link": "https://www.isna.ir/news/1405080200992/%D8%B9%D8%B2%DB%8C%D8%B2%DB%8C-%D8%A8%D8%A7-%D9%BE%D9%88%D9%84-%D8%AF%D9%88%D9%84%D8%AA-%D9%87%D9%85%D9%87-%D9%85%D8%AF%DB%8C%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D9%87%D9%86%D9%88%D8%B2-%D9%85%D8%AC%D9%88%D8%B2-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2",
-    "summary": "مدیر تیم فوتبال تراکتور با انتقاد تند از هزینه ۱۰۰ هزار دلاری پرواز به امارات، از بلاتکلیفی این تیم برای سفر به دبی گفت و در ادامه کنایه های تندی را متوجه مدیران استقلال کرد.",
-    "published": "Sat, 24 Oct 2026 14:24:11 GMT",
-    "collected_at": "2026-10-24T18:17:12.814287+03:30",
-    "filter_market_score": 4,
-    "market_score": 4,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
   }
 ]

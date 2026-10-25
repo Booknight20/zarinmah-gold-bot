@@ -12136,7 +12136,7 @@
     ],
     "telegram_last_success_at": "2026-10-25T18:48:39.546901+03:30",
     "telegram_sent": true,
-    "telegram_sent_at": "2026-10-25T18:48:39.560542+03:30",
+    "telegram_sent_at": "2026-10-25T18:56:07.737007+03:30",
     "telegram_message_id": 1346,
     "eitaa_parts_sent": [
       false
@@ -12150,6 +12150,12 @@
         "part": 1,
         "time": "2026-10-25T18:49:10.613284+03:30",
         "error": "HTTPSConnectionPool(host='eitaayar.ir', port=443): Read timed out. (read timeout=30)"
+      },
+      {
+        "destination": "eitaa",
+        "part": 1,
+        "time": "2026-10-25T18:56:38.920666+03:30",
+        "error": "HTTPSConnectionPool(host='eitaayar.ir', port=443): Read timed out. (read timeout=30)"
       }
     ],
     "group_parts_sent": [
@@ -12160,7 +12166,7 @@
     ],
     "group_last_success_at": "2026-10-25T18:49:11.155431+03:30",
     "group_sent": true,
-    "group_sent_at": "2026-10-25T18:49:11.168996+03:30",
+    "group_sent_at": "2026-10-25T18:56:38.935025+03:30",
     "group_message_id": 1084
   }
 }
