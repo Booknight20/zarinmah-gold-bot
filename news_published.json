@@ -10934,5 +10934,53 @@
     "group_message_id": 1099,
     "fully_published": true,
     "last_checked_at": "2026-10-25T19:46:24.015009+00:00"
+  },
+  "888f2df71f0f0e4ea69ba0e92d8b38adca0cad42ab31b8c3405666b53c09d5da": {
+    "title": "سقوط آزاد بورس عربستان",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989824/%D8%B3%D9%82%D9%88%D8%B7-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1362
+    ],
+    "eitaa_message_ids": [
+      178307490
+    ],
+    "group_message_ids": [
+      1100
+    ],
+    "content_hash": "b96ec7e02a415ffde9b363427c9430477773f40b7943987fdb8abb716383097f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T20:18:05.005297+00:00",
+    "telegram_message_id": 1362,
+    "eitaa_last_sent_at": "2026-10-25T20:18:06.141986+00:00",
+    "eitaa_message_id": 178307490,
+    "group_last_sent_at": "2026-10-25T20:18:07.751649+00:00",
+    "group_message_id": 1100,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T20:18:07.769735+00:00"
+  },
+  "9d68f3874eeeb15b19809c046f19e1a1dffcf97fa5148abd94efffc101c29249": {
+    "title": "قیمت یورو، دلار و انواع ارزها امروز ۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ دلار ۲۶۸ هزار ۵۰۰ تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292696/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
+    "telegram_message_ids": [
+      1363
+    ],
+    "eitaa_message_ids": [
+      178307501
+    ],
+    "group_message_ids": [
+      1101
+    ],
+    "content_hash": "0b5a60b667d0e163c02e08524c1f4c8953f8dfc15712530579b23a12b01fc2ae",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T20:18:10.452166+00:00",
+    "telegram_message_id": 1363,
+    "eitaa_last_sent_at": "2026-10-25T20:18:11.551045+00:00",
+    "eitaa_message_id": 178307501,
+    "group_last_sent_at": "2026-10-25T20:18:13.251753+00:00",
+    "group_message_id": 1101,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T20:18:13.270102+00:00"
   }
 }
