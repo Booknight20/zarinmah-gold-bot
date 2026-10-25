@@ -10838,5 +10838,53 @@
     "group_message_id": 1089,
     "fully_published": true,
     "last_checked_at": "2026-10-25T16:28:04.950198+00:00"
+  },
+  "b24bfc4bf448f5116a5cca1f7fe2c5abc9f08d9e0db2c4aee646545dbaf97b80": {
+    "title": "بازارهای جهانی چشم انتظار تصمیم فدرال رزرو و داده های تورمی آمریکا/ نسل زد در اروپا به چه اعتراض می کند؟ +فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304173-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%DA%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%81%D8%AF%D8%B1%D8%A7%D9%84-%D8%B1%D8%B2%D8%B1%D9%88-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B1%D9%85%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%86%D8%B3%D9%84-%D8%B2%D8%AF-%D8%AF%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%DA%86%D9%87-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      1358
+    ],
+    "eitaa_message_ids": [
+      178295974
+    ],
+    "group_message_ids": [
+      1096
+    ],
+    "content_hash": "34e462432e8c378f973646f583bb46d95f9d4012682ad43fd2b7946f4fd7fe02",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T18:34:59.384152+00:00",
+    "telegram_message_id": 1358,
+    "eitaa_last_sent_at": "2026-10-25T18:35:00.513961+00:00",
+    "eitaa_message_id": 178295974,
+    "group_last_sent_at": "2026-10-25T18:35:02.178340+00:00",
+    "group_message_id": 1096,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T18:35:02.191785+00:00"
+  },
+  "a3d3a9b7acec5e68a4de6b75f4de0befde7235ff536383974786394aa031c7ab": {
+    "title": "صورت حساب ادامه جنگ؛ ۱۷۳ میلیارد دلار هزینه نظامی اوکراین در ۲۰۲۷",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848116/%D8%B5%D9%88%D8%B1%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AC%D9%86%DA%AF-%DB%B1%DB%B7%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D8%AF%D8%B1",
+    "telegram_message_ids": [
+      1359
+    ],
+    "eitaa_message_ids": [
+      178295981
+    ],
+    "group_message_ids": [
+      1097
+    ],
+    "content_hash": "6602f3de2fd728789c827d82241bcd9027334cecb7004163ed141fbe1ae6d42c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-25T18:35:03.828661+00:00",
+    "telegram_message_id": 1359,
+    "eitaa_last_sent_at": "2026-10-25T18:35:04.966097+00:00",
+    "eitaa_message_id": 178295981,
+    "group_last_sent_at": "2026-10-25T18:35:06.607323+00:00",
+    "group_message_id": 1097,
+    "fully_published": true,
+    "last_checked_at": "2026-10-25T18:35:06.620655+00:00"
   }
 }
