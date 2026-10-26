@@ -12398,5 +12398,29 @@
     "group_message_id": 1180,
     "fully_published": true,
     "last_checked_at": "2026-10-26T11:16:42.573508+00:00"
+  },
+  "dbfdfd63d1426ad3f28b29df256542449bacbe9d0ff140725ed534b054b08a8b": {
+    "title": "رشد ۵۴ هزار واحدی شاخص بورس/ ۱.۷ همت نفتی شد؛ ۲ همت به طلا رسید!",
+    "source": "تابناک",
+    "link": "https://example.com/fa/news/30007889/%D8%B1%D8%B4%D8%AF-54-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-1-7-%D9%87%D9%85%D8%AA-%D9%86%D9%81%D8%AA%DB%8C-%D8%B4%D8%AF-2-%D9%87%D9%85%D8%AA-%D8%A8%D9%87-%D8%B7%D9%84%D8%A7-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      1445
+    ],
+    "eitaa_message_ids": [
+      178409719
+    ],
+    "group_message_ids": [
+      1183
+    ],
+    "content_hash": "610824f390f19a21bc69f28ae2c0f3cd69e7fb0632f39c319ecbe0efbc66844f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T11:48:20.501582+00:00",
+    "telegram_message_id": 1445,
+    "eitaa_last_sent_at": "2026-10-26T11:48:21.639261+00:00",
+    "eitaa_message_id": 178409719,
+    "group_last_sent_at": "2026-10-26T11:48:23.289077+00:00",
+    "group_message_id": 1183,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T11:48:23.309695+00:00"
   }
 }
