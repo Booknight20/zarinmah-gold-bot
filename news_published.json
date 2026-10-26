@@ -12326,5 +12326,77 @@
     "group_message_id": 1177,
     "fully_published": true,
     "last_checked_at": "2026-10-26T10:44:52.849536+00:00"
+  },
+  "c70a46c1b1c19ffb1cf32ec7b6b8e8de17c548330cf5ae05c1525d132f1fc542": {
+    "title": "هزینه حج ۱۴۰۶ به نرخ ارز بستگی دارد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6990473/%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%AD%D8%AC-%DB%B1%DB%B4%DB%B0%DB%B6-%D8%A8%D9%87-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B3%D8%AA%DA%AF%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1440
+    ],
+    "eitaa_message_ids": [
+      178405565
+    ],
+    "group_message_ids": [
+      1178
+    ],
+    "content_hash": "b40ef21440c0f68a827028a0502b15f58f55275e6895777359fd258659f60b63",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T11:16:29.387672+00:00",
+    "telegram_message_id": 1440,
+    "eitaa_last_sent_at": "2026-10-26T11:16:30.837463+00:00",
+    "eitaa_message_id": 178405565,
+    "group_last_sent_at": "2026-10-26T11:16:32.602116+00:00",
+    "group_message_id": 1178,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T11:16:32.617048+00:00"
+  },
+  "425fcb520dd178b84f0939ef1627ff622f8431e38087c80fefe6c9414ea1d9fa": {
+    "title": "گزارش بازار سرمایه امروز دوشنبه ۴ آبان ۱۴۰۵ / شاخص کل بورس ۵۴ هزار واحد رشد کرد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/live/2293259/%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B1%DB%B0%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF-%DB%B2%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1441
+    ],
+    "eitaa_message_ids": [
+      178405577
+    ],
+    "group_message_ids": [
+      1179
+    ],
+    "content_hash": "966dfbe6c45651cb5fdb25bc9071f82aaadc74052ad104f14d0d073ac1cadd3e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T11:16:34.366300+00:00",
+    "telegram_message_id": 1441,
+    "eitaa_last_sent_at": "2026-10-26T11:16:35.799197+00:00",
+    "eitaa_message_id": 178405577,
+    "group_last_sent_at": "2026-10-26T11:16:37.486127+00:00",
+    "group_message_id": 1179,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T11:16:37.501091+00:00"
+  },
+  "ebcce0ea8dce1441dd0d8dc5c46b3b3ff15b0d18fa8f554a2b8f31915fb9c3d2": {
+    "title": "رشد ۵۴ هزار واحدی شاخص کل بورس",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848281/%D8%B1%D8%B4%D8%AF-%DB%B5%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      1442
+    ],
+    "eitaa_message_ids": [
+      178405595
+    ],
+    "group_message_ids": [
+      1180
+    ],
+    "content_hash": "8301c64757d9f03cc94a3e219aa7ef3c61cd176fed3f953f33b52bbbf4223b45",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T11:16:39.200238+00:00",
+    "telegram_message_id": 1442,
+    "eitaa_last_sent_at": "2026-10-26T11:16:40.840819+00:00",
+    "eitaa_message_id": 178405595,
+    "group_last_sent_at": "2026-10-26T11:16:42.558556+00:00",
+    "group_message_id": 1180,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T11:16:42.573508+00:00"
   }
 }
