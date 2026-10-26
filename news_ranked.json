@@ -3282,6 +3282,59 @@
     "ranking_applied": true
   },
   {
+    "source": "ایسنا",
+    "title": "یک کارشناس ارز دیجیتال:ارائه خدمات به کاربران ساکن ایران در اکثر صرافی های خارجی ممنوع است",
+    "link": "https://www.isna.ir/news/1405080401937/%DB%8C%DA%A9-%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%D8%B1%D8%A7%D8%A6%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%B3%D8%A7%DA%A9%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%DA%A9%D8%AB%D8%B1",
+    "summary": "یک کارشناس ارز دیجیتال با تاکید بر اینکه ارائه خدمات به کاربران ساکن در ایران در اکثر پروژه ها و صرافی های خارجی ممنوع است و این پلتفرم ها حق بلوکه و ضبط دارایی ها را برای خود محفوظ می دانند، گفت: برای اعمال تحریم و فریز دارایی یک آدرس، ملیت ایرانی کاربر به تنهایی کفایت می کند و نیازی به ارتباط با نهادهای دولتی نیست.",
+    "published": "Mon, 26 Oct 2026 03:37:02 GMT",
+    "collected_at": "2026-10-26T07:14:14.531953+03:30",
+    "filter_market_score": 12,
+    "market_score": 16,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تحریم"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "تحریم"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مهر",
     "title": "رکود در دروازه های شرق؛ ارزش صادرات خراسان رضوی ۲۶ درصد افت کرد",
     "link": "https://www.mehrnews.com/news/6988654/%D8%B1%DA%A9%D9%88%D8%AF-%D8%AF%D8%B1-%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%D9%87-%D9%87%D8%A7%DB%8C-%D8%B4%D8%B1%D9%82-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%DB%B2%DB%B6-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF",
@@ -5111,50 +5164,6 @@
     "summary": "مدیرکل آموزش وپرورش استان زنجان از کسب ۲۲ مدال طلا، ۲۱ مدال نقره و ۱۵ مدال برنز در رقابت های ورزشی، هشت رتبه برتر کشوری در جشنواره نوجوان خوارزمی و ۲۹ مقام کشوری در جشنواره فرهنگی - هنری «فردا» توسط دانش آموزان استان خبر داد و گفت: موفقیت های دانش آموزان زنجانی در حوزه های علمی، فرهنگی، پرورشی و ورزشی طی یک سال گذشته قابل توجه بوده است.",
     "published": "Sun, 25 Oct 2026 05:31:14 GMT",
     "collected_at": "2026-10-25T09:17:19.414356+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "\"گلادیاتور\" جویبار به دنبال تاج سوم/ آمریکا و روسیه رقبای اصلی کامران قاسمپور",
-    "link": "https://www.isna.ir/news/1405080200911/%DA%AF%D9%84%D8%A7%D8%AF%DB%8C%D8%A7%D8%AA%D9%88%D8%B1-%D8%AC%D9%88%DB%8C%D8%A8%D8%A7%D8%B1-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%AA%D8%A7%D8%AC-%D8%B3%D9%88%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%B1%D9%82%D8%A8%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%DB%8C",
-    "summary": "کامران قاسم پور، دارنده دو عنوان قهرمانی جهان در ۹۲ کیلوگرم به کسب سومین طلای خود در این دوره چشم دوخته است.",
-    "published": "Sun, 25 Oct 2026 02:40:00 GMT",
-    "collected_at": "2026-10-25T06:17:16.792036+03:30",
     "filter_market_score": 4,
     "market_score": 8,
     "market_matches": {

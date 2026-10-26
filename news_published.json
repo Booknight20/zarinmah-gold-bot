@@ -11150,5 +11150,29 @@
     "group_message_id": 1108,
     "fully_published": true,
     "last_checked_at": "2026-10-26T02:47:59.932109+00:00"
+  },
+  "76ebce0982a389169ba10b7362917fd477295abff1eee73b83c338406b83e2f2": {
+    "title": "یک کارشناس ارز دیجیتال:ارائه خدمات به کاربران ساکن ایران در اکثر صرافی های خارجی ممنوع است",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080401937/%DB%8C%DA%A9-%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%D8%B1%D8%A7%D8%A6%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%B3%D8%A7%DA%A9%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%DA%A9%D8%AB%D8%B1",
+    "telegram_message_ids": [
+      1371
+    ],
+    "eitaa_message_ids": [
+      178329809
+    ],
+    "group_message_ids": [
+      1109
+    ],
+    "content_hash": "804603c2ede941f7aeb8e7436ae1e3da353285bfdd8a6450bb197a64abb1c936",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T03:44:45.220346+00:00",
+    "telegram_message_id": 1371,
+    "eitaa_last_sent_at": "2026-10-26T03:44:46.562723+00:00",
+    "eitaa_message_id": 178329809,
+    "group_last_sent_at": "2026-10-26T03:44:48.200780+00:00",
+    "group_message_id": 1109,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T03:44:48.211407+00:00"
   }
 }
