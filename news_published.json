@@ -13190,5 +13190,29 @@
     "group_message_id": 1240,
     "fully_published": true,
     "last_checked_at": "2026-10-26T19:18:11.955706+00:00"
+  },
+  "01895e6d30a3a052a89652b9a5343336e67c6c6232cf77ce49ffd34d456308bd": {
+    "title": "نظر شوچنکو درباره برنده توپ طلا",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080402680/%D9%86%D8%B8%D8%B1-%D8%B4%D9%88%DA%86%D9%86%DA%A9%D9%88-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1501
+    ],
+    "eitaa_message_ids": [
+      178483600
+    ],
+    "group_message_ids": [
+      1241
+    ],
+    "content_hash": "bb0c01b9336fd9984afe408911ac8bc5481b7635f7ed0ae6c89e654d029395db",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T19:42:19.932682+00:00",
+    "telegram_message_id": 1501,
+    "eitaa_last_sent_at": "2026-10-26T19:42:21.310345+00:00",
+    "eitaa_message_id": 178483600,
+    "group_last_sent_at": "2026-10-26T19:42:23.001667+00:00",
+    "group_message_id": 1241,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T19:42:23.013632+00:00"
   }
 }

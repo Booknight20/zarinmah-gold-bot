@@ -4088,6 +4088,56 @@
     "duplicate_count": 1
   },
   {
+    "source": "ایسنا",
+    "title": "نظر شوچنکو درباره برنده توپ طلا",
+    "link": "https://www.isna.ir/news/1405080402680/%D9%86%D8%B8%D8%B1-%D8%B4%D9%88%DA%86%D9%86%DA%A9%D9%88-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7",
+    "summary": "برنده توپ طلای ۲۰۰۴، پیش از مراسم گفت رقابت بین کیلیان ام باپه، لامین یامال و هری کین است و معتقد است عملکرد خوب فردی بدون کسب جام تیمی کافی نیست.",
+    "published": "Mon, 26 Oct 2026 19:19:40 GMT",
+    "collected_at": "2026-10-26T23:11:46.911017+03:30",
+    "filter_market_score": 10,
+    "market_score": 16,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "مشرق",
     "title": "فیلم/ اهدای مدال طلای فردین هدایتی و اهتزاز پرچم ایران",
     "link": "https://www.mashreghnews.ir/news/1848350/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D9%81%D8%B1%D8%AF%DB%8C%D9%86-%D9%87%D8%AF%D8%A7%DB%8C%D8%AA%DB%8C-%D9%88-%D8%A7%D9%87%D8%AA%D8%B2%D8%A7%D8%B2-%D9%BE%D8%B1%DA%86%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
