@@ -12182,5 +12182,53 @@
     "group_message_id": 1166,
     "fully_published": true,
     "last_checked_at": "2026-10-26T09:18:55.686215+00:00"
+  },
+  "577de85b153f2d370fbdf39e7b91ea2b4626701527e154c649b1cd9942f5e47e": {
+    "title": "دو مدال طلا و نقره سهم خراسان رضوی از مسابقات کشوری پاراسنگ نوردان",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080402271/%D8%AF%D9%88-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%B3%D9%87%D9%85-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%A7%D8%B2-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1%DB%8C-%D9%BE%D8%A7%D8%B1%D8%A7%D8%B3%D9%86%DA%AF-%D9%86%D9%88%D8%B1%D8%AF%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1431
+    ],
+    "eitaa_message_ids": [
+      178391273
+    ],
+    "group_message_ids": [
+      1169
+    ],
+    "content_hash": "1c9762079b3c16771b10efbb8f8ca7ee1a3420f6bdb89d055d5217df9e317b73",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T09:44:52.753432+00:00",
+    "telegram_message_id": 1431,
+    "eitaa_last_sent_at": "2026-10-26T09:44:54.104304+00:00",
+    "eitaa_message_id": 178391273,
+    "group_last_sent_at": "2026-10-26T09:44:55.754078+00:00",
+    "group_message_id": 1169,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T09:44:55.766688+00:00"
+  },
+  "c4c7563d408007716312f303e75fa99ce003eca7af8254ac48046f15e4a3ad60": {
+    "title": "قیمت سکه و طلا امروز 4 آبان/ کدام سکه ها گران شد؟",
+    "source": "تابناک",
+    "link": "https://example.com/fa/news/30007879/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%88-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-4-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%AF%D8%A7%D9%85-%D8%B3%DA%A9%D9%87-%D9%87%D8%A7-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1432
+    ],
+    "eitaa_message_ids": [
+      178391280
+    ],
+    "group_message_ids": [
+      1170
+    ],
+    "content_hash": "7e9e622cbd0ea2cd160c7ab2af0a5bd73a80b334dbceee913aacd4dc5a9e0202",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T09:44:57.376238+00:00",
+    "telegram_message_id": 1432,
+    "eitaa_last_sent_at": "2026-10-26T09:44:58.457543+00:00",
+    "eitaa_message_id": 178391280,
+    "group_last_sent_at": "2026-10-26T09:45:00.048296+00:00",
+    "group_message_id": 1170,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T09:45:00.058649+00:00"
   }
 }
