@@ -12590,5 +12590,77 @@
     "group_message_id": 1197,
     "fully_published": true,
     "last_checked_at": "2026-10-26T13:16:39.144860+00:00"
+  },
+  "9413bec812689588b93285452033a82012d444f1bf5d757d74d9da574c46d24e": {
+    "title": "غول ایرانی دو هفته بعد از آنژیوی قلب به مدال طلای جهان رسید!",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080402523/%D8%BA%D9%88%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D9%88-%D9%87%D9%81%D8%AA%D9%87-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%D8%A2%D9%86%DA%98%DB%8C%D9%88%DB%8C-%D9%82%D9%84%D8%A8-%D8%A8%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      1460
+    ],
+    "eitaa_message_ids": [
+      178433214
+    ],
+    "group_message_ids": [
+      1198
+    ],
+    "content_hash": "56bf8f4de07016ca77b7688a29d36ae46370fdb606ff14ff5751235cc3ca9b87",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T13:47:35.716396+00:00",
+    "telegram_message_id": 1460,
+    "eitaa_last_sent_at": "2026-10-26T13:47:37.194993+00:00",
+    "eitaa_message_id": 178433214,
+    "group_last_sent_at": "2026-10-26T13:47:38.905761+00:00",
+    "group_message_id": 1198,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T13:47:38.950644+00:00"
+  },
+  "4043bd861417638de23926d47b53cda8be0528c07516fd94c02dfaed8ba54569": {
+    "title": "هشدار دوباره یمن درباره ناامن بودن تاسیسات شرکت آرامکو",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080402500/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%DB%8C%D9%85%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%86%D8%A7%D8%A7%D9%85%D9%86-%D8%A8%D9%88%D8%AF%D9%86-%D8%AA%D8%A7%D8%B3%DB%8C%D8%B3%D8%A7%D8%AA-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B1%D8%A7%D9%85%DA%A9%D9%88",
+    "telegram_message_ids": [
+      1461
+    ],
+    "eitaa_message_ids": [
+      178433220
+    ],
+    "group_message_ids": [
+      1199
+    ],
+    "content_hash": "0bd9fb841a45a05d13d5eac5c1cc2fd8b6ca9b43b67f497cdc08e82338da2574",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T13:47:40.647944+00:00",
+    "telegram_message_id": 1461,
+    "eitaa_last_sent_at": "2026-10-26T13:47:42.106591+00:00",
+    "eitaa_message_id": 178433220,
+    "group_last_sent_at": "2026-10-26T13:47:43.796511+00:00",
+    "group_message_id": 1199,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T13:47:43.811639+00:00"
+  },
+  "4f70b606d20577e0e0a31a64ba2b298e6acf592b67bda3ec9241d9a2b8c9fead": {
+    "title": "طوفان یک دقیقه ای سنگین وزن ایران؛ فردین هدایتی به مدال طلا رسید",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989986/%D9%81%D8%B1%D8%AF%DB%8C%D9%86-%D9%87%D8%AF%D8%A7%DB%8C%D8%AA%DB%8C-%DA%A9%D9%85%D8%AA%D8%B1-%D8%A7%D8%B2-%DB%8C%DA%A9-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1462
+    ],
+    "eitaa_message_ids": [
+      178433229
+    ],
+    "group_message_ids": [
+      1200
+    ],
+    "content_hash": "354b3ba3f71d9a5f6394fb05822b28ac9370f30f5a5cc6d1d1bfddb38a80272f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T13:47:45.511206+00:00",
+    "telegram_message_id": 1462,
+    "eitaa_last_sent_at": "2026-10-26T13:47:47.076803+00:00",
+    "eitaa_message_id": 178433229,
+    "group_last_sent_at": "2026-10-26T13:47:48.766161+00:00",
+    "group_message_id": 1200,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T13:47:48.781494+00:00"
   }
 }

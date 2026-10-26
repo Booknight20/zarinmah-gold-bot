@@ -14043,5 +14043,72 @@
     "group_sent_at": "2026-10-26T16:16:42.416133+03:30",
     "group_message_id": 1195,
     "published_at": "2026-10-26T16:16:42.495580+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8722": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "الان وضعیت حباب سکه‌ها به این شکله و بالاتر از ارزش ذاتیشون هستن ‼️",
+      "summary": "الان وضعیت حباب سکه‌ها به این شکله و بالاتر از ارزش ذاتیشون هستن ‼️ \n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "الان وضعیت حباب سکه‌ها به این شکله و بالاتر از ارزش ذاتیشون هستن ‼️ \n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8722",
+      "analysis_score": 15,
+      "market_matches": [
+        "سکه",
+        "حباب سکه",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "analysis_matches": [
+        "حباب",
+        "ارزش ذاتی"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 92,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-26T17:17:33.138388+03:30"
+    },
+    "content_signature": "fde4d27c1194bb2c7f02a4e3f0beaf8c345c37bc8b306a71843c4c15812c9b1c",
+    "first_seen_at": "2026-10-26T17:17:48.952807+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1463
+    ],
+    "telegram_last_success_at": "2026-10-26T17:17:49.524437+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-26T17:17:49.536689+03:30",
+    "telegram_message_id": 1463,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178433232
+    ],
+    "eitaa_last_success_at": "2026-10-26T17:17:51.099243+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-26T17:17:51.111275+03:30",
+    "eitaa_message_id": 178433232,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1201
+    ],
+    "group_last_success_at": "2026-10-26T17:17:51.661841+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-26T17:17:51.673964+03:30",
+    "group_message_id": 1201,
+    "published_at": "2026-10-26T17:17:51.695963+03:30"
   }
 }
