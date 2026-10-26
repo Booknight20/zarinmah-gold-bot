@@ -13094,5 +13094,53 @@
     "group_message_id": 1236,
     "fully_published": true,
     "last_checked_at": "2026-10-26T18:18:21.235981+00:00"
+  },
+  "e22b1bc79b4e905910475ed23329c43774314f52cca6edc4e622e55f1d80be4a": {
+    "title": "پیش بینی بورس فردا سه شنبه ۵ آبان ۱۴۰۵/ احتمال حرکت بازار سرمایه به سمت مثبت شدن چقدر بالاست؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304427-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%81%D8%B1%D8%AF%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%AD%D8%B1%DA%A9%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%A8%D9%87-%D8%B3%D9%85%D8%AA-%D9%85%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF%D9%86-%DA%86%D9%82%D8%AF%D8%B1-%D8%A8%D8%A7%D9%84%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1497
+    ],
+    "eitaa_message_ids": [
+      178475454
+    ],
+    "group_message_ids": [
+      1237
+    ],
+    "content_hash": "da77339ebbb21313ed8a934c171f504c56f9d0329d35a807c1590d625729193e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T18:47:43.893304+00:00",
+    "telegram_message_id": 1497,
+    "eitaa_last_sent_at": "2026-10-26T18:47:45.104074+00:00",
+    "eitaa_message_id": 178475454,
+    "group_last_sent_at": "2026-10-26T18:47:46.729150+00:00",
+    "group_message_id": 1237,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T18:47:46.749805+00:00"
+  },
+  "304a9256ebe8fac8e08345a43d1860e2b7e55e7d71224f6b1333f8364544d8e1": {
+    "title": "قیمت طلا امروز ۴ آبان ۱۴۰۵ در زمان بسته شدن بازار/ هر گرم طلای ۱۸ عیار ۲۶ میلیون و ۱۱۸ هزار تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293592/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      1498
+    ],
+    "eitaa_message_ids": [
+      178475461
+    ],
+    "group_message_ids": [
+      1238
+    ],
+    "content_hash": "53402e669a2a3bbaa16e4040efcee2c2e128c984d5e998c40e983c03a09c0fda",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T18:47:48.379454+00:00",
+    "telegram_message_id": 1498,
+    "eitaa_last_sent_at": "2026-10-26T18:47:49.498223+00:00",
+    "eitaa_message_id": 178475461,
+    "group_last_sent_at": "2026-10-26T18:47:51.094066+00:00",
+    "group_message_id": 1238,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T18:47:51.114459+00:00"
   }
 }
