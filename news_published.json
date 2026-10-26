@@ -11846,5 +11846,77 @@
     "group_message_id": 1145,
     "fully_published": true,
     "last_checked_at": "2026-10-26T07:48:48.210966+00:00"
+  },
+  "5831a6c0ccfe4b2e855635645c4b9a4482c64c03f44c5ce558681dc94c152767": {
+    "title": "شتاب رشد جای خود را به ریزش داد؛ توصیه به سهامداران",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080402168/%D8%B4%D8%AA%D8%A7%D8%A8-%D8%B1%D8%B4%D8%AF-%D8%AC%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%AF%D8%A7%D8%AF-%D8%AA%D9%88%D8%B5%DB%8C%D9%87-%D8%A8%D9%87-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA",
+    "telegram_message_ids": [
+      1410
+    ],
+    "eitaa_message_ids": [
+      178374720
+    ],
+    "group_message_ids": [
+      1148
+    ],
+    "content_hash": "2e14326996e964f40ec88c9909003086f65b4565981aa90022326b4967d489c0",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T08:18:25.961918+00:00",
+    "telegram_message_id": 1410,
+    "eitaa_last_sent_at": "2026-10-26T08:18:27.138934+00:00",
+    "eitaa_message_id": 178374720,
+    "group_last_sent_at": "2026-10-26T08:18:28.838776+00:00",
+    "group_message_id": 1148,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T08:18:28.859023+00:00"
+  },
+  "d1cad657f8ca637fb57edd5688add4aa1c799fc8e823e5936de3e942641595c2": {
+    "title": "بیم و امید بورس",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4304275-%D8%A8%DB%8C%D9%85-%D8%A7%D9%85%DB%8C%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      1411
+    ],
+    "eitaa_message_ids": [
+      178374745
+    ],
+    "group_message_ids": [
+      1149
+    ],
+    "content_hash": "5a15d6bd073b4a562172256460c614de83ae00acb1b04ee00b300d8f798a391a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T08:18:30.466989+00:00",
+    "telegram_message_id": 1411,
+    "eitaa_last_sent_at": "2026-10-26T08:18:31.652979+00:00",
+    "eitaa_message_id": 178374745,
+    "group_last_sent_at": "2026-10-26T08:18:33.249838+00:00",
+    "group_message_id": 1149,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T08:18:33.270064+00:00"
+  },
+  "4a0ae3dbf361b8e3d97e2b2bba64b8098085990d3803a9e1a8137cfa8aed5193": {
+    "title": "نرخ ارز دلار، طلا و یورو امروز دوشنبه ۴ آبان ۱۴۰۵/ افزایش قیمت طلا و سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304274-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      1412
+    ],
+    "eitaa_message_ids": [
+      178374754
+    ],
+    "group_message_ids": [
+      1150
+    ],
+    "content_hash": "c088ebe20736bf31a0e0371b3f865779a06646df954cc11ca25136f7617b9e18",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T08:18:34.883900+00:00",
+    "telegram_message_id": 1412,
+    "eitaa_last_sent_at": "2026-10-26T08:18:35.633341+00:00",
+    "eitaa_message_id": 178374754,
+    "group_last_sent_at": "2026-10-26T08:18:37.212255+00:00",
+    "group_message_id": 1150,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T08:18:37.232320+00:00"
   }
 }
