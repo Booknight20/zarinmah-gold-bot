@@ -402,62 +402,58 @@
   },
   {
     "source": "مهر",
-    "title": "نرخ رسمی ارزهای مهم در مرکز مبادله ایران؛ یکشنبه ۳ آبان ۱۴۰۵",
-    "link": "https://www.mehrnews.com/news/6988805/%D9%86%D8%B1%D8%AE-%D8%B1%D8%B3%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D9%85%D9%87%D9%85-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
-    "summary": "مرکز مبادله ارز و طلای ایران نرخ رسمی انواع ارز از جمله دلار، یورو و درهم را برای روز یکشنبه سوم آبان ۱۴۰۵ اعلام کرد.",
-    "published": "Sun, 25 Oct 2026 05:44:00 GMT",
-    "collected_at": "2026-10-25T09:17:28.507825+03:30",
-    "filter_market_score": 34,
+    "title": "عبور طلا از کانال ۴ هزار دلار؛ بهای هر اونس طلا به ۴۰۱۴ دلار رسید",
+    "link": "https://www.mehrnews.com/news/6989994/%D8%B9%D8%A8%D9%88%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87%D8%A7%DB%8C-%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4%DB%B0%DB%B1%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1",
+    "summary": "با رشد ۱۵.۶۰ دلاری در معاملات اخیر، قیمت هر اونس طلا به ۴,۰۱۴.۱۹ دلار رسید تا این فلز گرانبها بار دیگر وارد کانال ۴ هزار دلاری شود.",
+    "published": "Mon, 26 Oct 2026 05:27:46 GMT",
+    "collected_at": "2026-10-26T09:17:07.259337+03:30",
+    "filter_market_score": 30,
     "market_score": 35,
     "market_matches": {
       "gold": [
-        "طلا"
+        "طلا",
+        "اونس طلا"
       ],
       "currency": [
-        "ارز",
-        "مرکز مبادله",
-        "دلار",
-        "یورو",
-        "درهم"
+        "دلار"
       ]
     },
     "title_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
       "currency": [
-        "ارز",
-        "مرکز مبادله"
+        "دلار"
       ]
     },
     "summary_market_matches": {
       "gold": [
-        "طلا"
+        "طلا",
+        "اونس طلا"
       ],
       "currency": [
-        "دلار",
-        "ارز",
-        "یورو",
-        "درهم",
-        "مرکز مبادله"
+        "دلار"
       ]
     },
     "full_text_market_matches": {},
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "نرخ"
+      "رشد",
+      "قیمت",
+      "معاملات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "high",
     "filter_score_bonus": 6,
     "gold_matches": [
-      "طلا"
+      "طلا",
+      "اونس طلا"
     ],
     "currency_matches": [
-      "ارز",
-      "مرکز مبادله",
-      "دلار",
-      "یورو",
-      "درهم"
+      "دلار"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -523,6 +519,75 @@
       "ارز",
       "یورو"
     ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا و سکه امروز دوشنبه ۴ آبان ۱۴۰۵ / کاهش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304217-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "طلای 18 عیار نزولی شد و قیمت سکه امامی امروز با افزایش، در نرخ 265 میلیون و 200 هزار تومان در معامله بود.​",
+    "published": "Mon, 26 Oct 2026 04:39:03 +0000",
+    "collected_at": "2026-10-26T09:17:19.615362+03:30",
+    "filter_market_score": 24,
+    "market_score": 32,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "سکه امامی",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "سکه امامی",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت",
+      "افزایش",
+      "نزول",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی",
+      "طلای ۱۸ عیار",
+      "طلای 18 عیار"
+    ],
+    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
@@ -1339,64 +1404,6 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ نیم سکه به قیمت ۱۳۸ میلیون و ۳۰۰ هزار تومان به فروش رفت + جدول",
-    "link": "https://www.khabaronline.ir/news/2292695/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87",
-    "summary": "قیمت سکه در بازار تهران امروز ۳ آبان ۱۴۰۵ اعلام شد و هر قطعه نیم سکه به قیمت ۱۳۸ میلیون و ۳۰۰ هزار تومان به فروش رفت.",
-    "published": "Sun, 25 Oct 2026 05:05:00 GMT",
-    "collected_at": "2026-10-25T08:44:22.804459+03:30",
-    "filter_market_score": 13,
-    "market_score": 25,
-    "market_matches": {
-      "gold": [
-        "سکه",
-        "نیم سکه"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه",
-        "نیم سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "سکه",
-        "نیم سکه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "بازگشایی",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "سکه",
-      "نیم سکه"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -2636,58 +2643,6 @@
     "ranking_applied": true
   },
   {
-    "source": "مهر",
-    "title": "محمد نخودی در سودای نخستین طلای جهانی؛ فرصت طلایی برای تاریخ سازی",
-    "link": "https://www.mehrnews.com/news/6988717/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%AE%D9%88%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%B3%D9%88%D8%AF%D8%A7%DB%8C-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%81%D8%B1%D8%B5%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B3%D8%A7%D8%B2%DB%8C",
-    "summary": "محمد نخودی در شرایطی برای کسب مدال طلای وزن ۷۹ کیلوگرم کشتی آزاد قهرمانی جهان تلاش می کند که با ۱۲ پیروزی متوالی در رقابت های بین المللی یکی از مدعیان اصلی این وزن به حساب می آید.",
-    "published": "Sun, 25 Oct 2026 04:57:25 GMT",
-    "collected_at": "2026-10-25T08:44:12.509840+03:30",
-    "filter_market_score": 15,
-    "market_score": 20,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "طلای جهانی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "تغییر قواعد بازی در بازار طلای آنلاین/ تاییدیه بانک مرکزی حذف شد",
     "link": "https://www.isna.ir/news/1405080301479/%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF%DB%8C%D9%87-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AD%D8%B0%D9%81",
@@ -3137,6 +3092,59 @@
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "پاسخ بانک مرکزی به نامه تشکل ها درباره مطالبات ارزی واردکنندگان",
+    "link": "https://www.mehrnews.com/news/6989990/%D9%BE%D8%A7%D8%B3%D8%AE-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D9%87-%D9%86%D8%A7%D9%85%D9%87-%D8%AA%D8%B4%DA%A9%D9%84-%D9%87%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86",
+    "summary": "بانک مرکزی در واکنش به مطالبات واردکنندگان کالاهای اساسی اعلام کرد که ایفای تعهدات ارزی مستلزم تأمین منابع از سوی دولت است.",
+    "published": "Mon, 26 Oct 2026 05:23:49 GMT",
+    "collected_at": "2026-10-26T09:17:07.259361+03:30",
+    "filter_market_score": 13,
+    "market_score": 18,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -3757,6 +3765,61 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "گزارش دیوان محاسبات کشور از عملکرد واردات خودرو در سال ۱۴۰۴",
+    "link": "https://www.mehrnews.com/news/6990012/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AF%DB%8C%D9%88%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84-%DB%B1%DB%B4%DB%B0%DB%B4",
+    "summary": "دیوان محاسبات اعلام کرد: ۶۲ هزار و ۷۰۸ دستگاه خودرو با تأمین ارز به میزان ۹۴۰ میلیون یورو وارد کشور شده است.",
+    "published": "Mon, 26 Oct 2026 05:42:21 GMT",
+    "collected_at": "2026-10-26T09:17:07.259159+03:30",
+    "filter_market_score": 12,
+    "market_score": 15,
+    "market_matches": {
+      "currency": [
+        "ارز",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "برای خرید طلای آب شده به کجا مراجعه کنیم؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4304109-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A2%D8%A8-%D8%B4%D8%AF%D9%87-%D8%A8%D9%87-%DA%A9%D8%AC%D8%A7-%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D9%87-%DA%A9%D9%86%DB%8C%D9%85",
@@ -4349,52 +4412,6 @@
     "ranking_applied": true
   },
   {
-    "source": "تابناک",
-    "title": "رونمایی از سیاست تجاری جدید عراق با ایران/ ۱۰ میلیارد دلار زیر تیغ !",
-    "link": "https://www.tabnak.ir/fa/news/1399766/رونمایی-از-سیاست-تجاری-جدید-عراق-با-ایران-10-میلیارد-دلار-زیر-تیغ",
-    "summary": "بسته شدن مرز چذابه شاید در نگاه اول بحران به نظر برسد؛ اما واقعیت چیز دیگری است ؛ اینکه این مرز کم ترین بار را داشته و سهمش از کل تردد کامیون های مرزی حدود هفت درصد است اما مشکل واقعی نه در بسته شدن این گذرگاه، بلکه در الگویی است که ممکن است از آن آغاز شود.",
-    "published": "25 Oct 2026 08:30:01 +0330",
-    "collected_at": "2026-10-25T08:44:27.580684+03:30",
-    "filter_market_score": 8,
-    "market_score": 12,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "سیاست تجاری"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "مهر",
     "title": "۴۱ درصد صادرات زمینی ایران به عراق از کرمانشاه انجام می شود",
     "link": "https://www.mehrnews.com/news/6989604/%DB%B4%DB%B1-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B2%D9%85%DB%8C%D9%86%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D8%B2-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
@@ -4764,55 +4781,6 @@
     "ranking_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "درخواست از وزارت صمت برای شناسایی خریداران غیرواقعی مواد اولیه نساجی",
-    "link": "https://www.isna.ir/news/1405080301162/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%A7%D8%B2-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%B5%D9%85%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%BA%DB%8C%D8%B1%D9%88%D8%A7%D9%82%D8%B9%DB%8C-%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%87",
-    "summary": "دبیر انجمن صنایع نساجی ایران با اشاره به رقابت بالا و کمبود مواد اولیه پتروشیمی نظیر چیپس پلی استر و گرانول پلی پروپیلن در بورس کالا، از افت تولید در نیمه نخست سال به دلیل نارسایی در تامین مواد پایه خبر داد و خواستار راستی آزمایی سهمیه ها و شناسایی خریداران غیرواقعی توسط وزارت صمت شد.",
-    "published": "Sun, 25 Oct 2026 05:08:27 GMT",
-    "collected_at": "2026-10-25T08:44:08.242001+03:30",
-    "filter_market_score": 9,
-    "market_score": 11,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "بورس کالا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "بورس کالا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بورس کالا"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "نقره سی یا گرمی، از کجا نقره بخریم؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4304093-%D9%86%D9%82%D8%B1%D9%87-%D8%B3%DB%8C-%DB%8C%D8%A7-%DA%AF%D8%B1%D9%85%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%AC%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%AE%D8%B1%DB%8C%D9%85",
@@ -5142,50 +5110,6 @@
     "summary": "موی تای کاران جوان استان فارس در مسابقات قهرمانی کشور و انتخابی تیم ملی که در مجموعه ورزشی آزادی تهران برگزار شد، موفق به کسب ۲ مدال طلا و ۵ مدال برنز شدند.",
     "published": "Sun, 25 Oct 2026 12:11:46 GMT",
     "collected_at": "2026-10-25T15:47:21.435690+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "درخشش دانش آموزان زنجانی؛ از رتبه ۱۲ کنکور در ماهنشان تا کسب رتبه های برتر کشوری",
-    "link": "https://www.isna.ir/news/1405080301181/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2%D8%A7%D9%86-%D8%B2%D9%86%D8%AC%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%B1%D8%AA%D8%A8%D9%87-%DB%B1%DB%B2-%DA%A9%D9%86%DA%A9%D9%88%D8%B1-%D8%AF%D8%B1-%D9%85%D8%A7%D9%87%D9%86%D8%B4%D8%A7%D9%86-%D8%AA%D8%A7-%DA%A9%D8%B3%D8%A8",
-    "summary": "مدیرکل آموزش وپرورش استان زنجان از کسب ۲۲ مدال طلا، ۲۱ مدال نقره و ۱۵ مدال برنز در رقابت های ورزشی، هشت رتبه برتر کشوری در جشنواره نوجوان خوارزمی و ۲۹ مقام کشوری در جشنواره فرهنگی - هنری «فردا» توسط دانش آموزان استان خبر داد و گفت: موفقیت های دانش آموزان زنجانی در حوزه های علمی، فرهنگی، پرورشی و ورزشی طی یک سال گذشته قابل توجه بوده است.",
-    "published": "Sun, 25 Oct 2026 05:31:14 GMT",
-    "collected_at": "2026-10-25T09:17:19.414356+03:30",
     "filter_market_score": 4,
     "market_score": 8,
     "market_matches": {
