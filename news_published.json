@@ -12950,5 +12950,77 @@
     "group_message_id": 1221,
     "fully_published": true,
     "last_checked_at": "2026-10-26T15:48:35.004347+00:00"
+  },
+  "c19ad7d0f579247a65c6dd6b21cdac8f84163854ed0dbb1f3776a28429c473e3": {
+    "title": "صادرات ۱.۳ میلیون تن کالا از مرز مهران",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6990823/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%86-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%D9%85%D8%B1%D8%B2-%D9%85%D9%87%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1487
+    ],
+    "eitaa_message_ids": [
+      178459835
+    ],
+    "group_message_ids": [
+      1225
+    ],
+    "content_hash": "f465bcdcfa6bfeff6867dadce088d3337ea7780b9f6f8d51da9152e683a79b7b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T16:48:12.458568+00:00",
+    "telegram_message_id": 1487,
+    "eitaa_last_sent_at": "2026-10-26T16:48:13.821441+00:00",
+    "eitaa_message_id": 178459835,
+    "group_last_sent_at": "2026-10-26T16:48:15.527184+00:00",
+    "group_message_id": 1225,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T16:48:15.548389+00:00"
+  },
+  "f312e759db6e5b322f209ff60330c5b85388d4a02bf7d36a415be759a21187fd": {
+    "title": "خواب ترامپ برای بنزین تعبیر نشد/ قیمت بنزین در آمریکا از میانگین دوره بایدن هم پیشی گرفت",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304345-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D8%AA%D8%B9%D8%A8%DB%8C%D8%B1-%D9%86%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D9%85%DB%8C%D8%A7%D9%86%DA%AF%DB%8C%D9%86-%D8%AF%D9%88%D8%B1%D9%87-%D8%A8%D8%A7%DB%8C%D8%AF%D9%86-%D9%87%D9%85-%D9%BE%DB%8C%D8%B4%DB%8C-%DA%AF%D8%B1%D9%81%D8%AA",
+    "telegram_message_ids": [
+      1488
+    ],
+    "eitaa_message_ids": [
+      178459845
+    ],
+    "group_message_ids": [
+      1226
+    ],
+    "content_hash": "b1165b1ed20e7881babf7495ab9e446474bf7f13b479e61624cb06f5f5b0b0a3",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T16:48:17.235713+00:00",
+    "telegram_message_id": 1488,
+    "eitaa_last_sent_at": "2026-10-26T16:48:18.555466+00:00",
+    "eitaa_message_id": 178459845,
+    "group_last_sent_at": "2026-10-26T16:48:20.211595+00:00",
+    "group_message_id": 1226,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T16:48:20.232930+00:00"
+  },
+  "df21249e8309a09b20e027012ccbade80b90ee1a393dd20442579c461b50ca1e": {
+    "title": "سخنگوی وزارت صنعت، معدن و تجارت: التهاب بازار خودرو کاهش می یابد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293473/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA-%D9%85%D8%B9%D8%AF%D9%86-%D9%88-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%DA%A9%D8%A7%D9%87%D8%B4-%D9%85%DB%8C-%DB%8C%D8%A7%D8%A8%D8%AF",
+    "telegram_message_ids": [
+      1489
+    ],
+    "eitaa_message_ids": [
+      178459860
+    ],
+    "group_message_ids": [
+      1227
+    ],
+    "content_hash": "3dfddd206f5cb7abca5625fbd04181eeb207937080b0a77100bd9ae16ee809e5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T16:48:22.130985+00:00",
+    "telegram_message_id": 1489,
+    "eitaa_last_sent_at": "2026-10-26T16:48:23.403521+00:00",
+    "eitaa_message_id": 178459860,
+    "group_last_sent_at": "2026-10-26T16:48:25.044211+00:00",
+    "group_message_id": 1227,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T16:48:25.065806+00:00"
   }
 }

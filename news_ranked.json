@@ -3685,58 +3685,6 @@
   },
   {
     "source": "ایسنا",
-    "title": "۱۳۴ میلیون دلار برای آزمایشگاه امنیت زیستی هوش مصنوعی بریتانیا",
-    "link": "https://www.isna.ir/news/1405080301819/%DB%B1%DB%B3%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%B2%DB%8C%D8%B3%D8%AA%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7",
-    "summary": "بریتانیا ۱۳۴ میلیون دلار در یک آزمایشگاه امنیت زیستی مبتنی بر هوش مصنوعی سرمایه گذاری می کند و شرکت های اوپن ای آی(OpenAI)، آنتروپیک(Anthropic) و گوگل دیپ مایند از این طرح حمایت می کنند.",
-    "published": "Sun, 25 Oct 2026 15:59:05 GMT",
-    "collected_at": "2026-10-25T19:47:12.236092+03:30",
-    "filter_market_score": 11,
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "حمایت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
     "title": "یک کارشناس ارز دیجیتال:ارائه خدمات به کاربران ساکن ایران در اکثر صرافی های خارجی ممنوع است",
     "link": "https://www.isna.ir/news/1405080401937/%DB%8C%DA%A9-%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A7%D8%B1%D8%A7%D8%A6%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%B3%D8%A7%DA%A9%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%DA%A9%D8%AB%D8%B1",
     "summary": "یک کارشناس ارز دیجیتال با تاکید بر اینکه ارائه خدمات به کاربران ساکن در ایران در اکثر پروژه ها و صرافی های خارجی ممنوع است و این پلتفرم ها حق بلوکه و ضبط دارایی ها را برای خود محفوظ می دانند، گفت: برای اعمال تحریم و فریز دارایی یک آدرس، ملیت ایرانی کاربر به تنهایی کفایت می کند و نیازی به ارتباط با نهادهای دولتی نیست.",
@@ -4298,6 +4246,61 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "سخنگوی وزارت صنعت، معدن و تجارت: التهاب بازار خودرو کاهش می یابد",
+    "link": "https://www.khabaronline.ir/news/2293473/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA-%D9%85%D8%B9%D8%AF%D9%86-%D9%88-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%DA%A9%D8%A7%D9%87%D8%B4-%D9%85%DB%8C-%DB%8C%D8%A7%D8%A8%D8%AF",
+    "summary": "سخنگوی وزارت صنعت، معدن و تجارت گفت: با لغو مصوبه اخیر هیئت وزیران درباره نرخ ارز مبنای محاسبه ارزش گمرکی کالاهای وارداتی، التهابات بازار خودرو کاهش می یابد.",
+    "published": "Mon, 26 Oct 2026 16:39:46 GMT",
+    "collected_at": "2026-10-26T20:17:41.136999+03:30",
+    "filter_market_score": 12,
+    "market_score": 14,
+    "market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -4885,6 +4888,55 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "صادرات ۱.۳ میلیون تن کالا از مرز مهران",
+    "link": "https://www.mehrnews.com/news/6990823/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%86-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%D9%85%D8%B1%D8%B2-%D9%85%D9%87%D8%B1%D8%A7%D9%86",
+    "summary": "ایلام - مدیرکل گمرک ایلام از صادرات یک میلیون و ۳۰۰ هزار تن کالا به ارزش بیش از ۵۶۰ میلیون دلار از مرز مهران در سال جاری خبر داد.",
+    "published": "Mon, 26 Oct 2026 16:42:22 GMT",
+    "collected_at": "2026-10-26T20:17:29.661515+03:30",
+    "filter_market_score": 7,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "حقوق ورودی خودرو وارداتی حداقل ۱۰۰ درصد تعیین شد",
     "link": "https://www.isna.ir/news/1405080402430/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B1%DB%B0%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AD%D9%82%D9%88%D9%82-%D9%88%D8%B1%D9%88%D8%AF%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A2%D8%B2%D8%A7%D8%AF",
@@ -5151,6 +5203,53 @@
     "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "خواب ترامپ برای بنزین تعبیر نشد/ قیمت بنزین در آمریکا از میانگین دوره بایدن هم پیشی گرفت",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304345-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D8%AA%D8%B9%D8%A8%DB%8C%D8%B1-%D9%86%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D9%85%DB%8C%D8%A7%D9%86%DA%AF%DB%8C%D9%86-%D8%AF%D9%88%D8%B1%D9%87-%D8%A8%D8%A7%DB%8C%D8%AF%D9%86-%D9%87%D9%85-%D9%BE%DB%8C%D8%B4%DB%8C-%DA%AF%D8%B1%D9%81%D8%AA",
+    "summary": "یک هفته مانده به انتخابات میان دوره ای، آمریکایی ها در دوره دوم ریاست جمهوری ترامپ به طور متوسط ۳.۷۴ دلار برای یک گالن بنزین بدون سرب پرداخت کرده اند که این رقم در دوره ریاست جمهوری بایدن ۳.۶۹ دلار بود.",
+    "published": "Mon, 26 Oct 2026 16:37:17 +0000",
+    "collected_at": "2026-10-26T20:17:35.402636+03:30",
+    "filter_market_score": 5,
+    "market_score": 10,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
