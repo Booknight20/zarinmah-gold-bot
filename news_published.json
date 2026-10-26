@@ -12782,5 +12782,53 @@
     "group_message_id": 1213,
     "fully_published": true,
     "last_checked_at": "2026-10-26T14:16:50.971423+00:00"
+  },
+  "561c625ccef71930e7dff67c989289c25746cef22b1bcee9c4e25cd4dd1c5738": {
+    "title": "درخشش فرنگی کاران ایران در آستانه؛ دو طلا و یک برنز در روز دوم",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6990685/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%AF%D9%88-%D8%B7%D9%84%D8%A7-%D9%88-%DB%8C%DA%A9-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D9%85",
+    "telegram_message_ids": [
+      1476
+    ],
+    "eitaa_message_ids": [
+      178443208
+    ],
+    "group_message_ids": [
+      1214
+    ],
+    "content_hash": "9a99d5bf0850c67c9b8f660696bb5e7d14a7f138361c5639c3fe412b869f32bd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T14:47:40.593246+00:00",
+    "telegram_message_id": 1476,
+    "eitaa_last_sent_at": "2026-10-26T14:47:41.913166+00:00",
+    "eitaa_message_id": 178443208,
+    "group_last_sent_at": "2026-10-26T14:47:43.571165+00:00",
+    "group_message_id": 1214,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T14:47:43.591253+00:00"
+  },
+  "7cbd74ecae58bd2391ead5ae720a41d55b452c03496b83c07bd0d18c0dda4161": {
+    "title": "فیلم/ اهدای مدال طلای فردین هدایتی و اهتزاز پرچم ایران",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848350/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D9%81%D8%B1%D8%AF%DB%8C%D9%86-%D9%87%D8%AF%D8%A7%DB%8C%D8%AA%DB%8C-%D9%88-%D8%A7%D9%87%D8%AA%D8%B2%D8%A7%D8%B2-%D9%BE%D8%B1%DA%86%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1477
+    ],
+    "eitaa_message_ids": [
+      178443217
+    ],
+    "group_message_ids": [
+      1215
+    ],
+    "content_hash": "56dc2beb86d7fc29af87d0316b501a658eb0e51b3e869dd1772b69b14a985601",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T14:47:45.259948+00:00",
+    "telegram_message_id": 1477,
+    "eitaa_last_sent_at": "2026-10-26T14:47:45.933368+00:00",
+    "eitaa_message_id": 178443217,
+    "group_last_sent_at": "2026-10-26T14:47:47.612164+00:00",
+    "group_message_id": 1215,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T14:47:47.634636+00:00"
   }
 }
