@@ -11126,5 +11126,29 @@
     "group_message_id": 1107,
     "fully_published": true,
     "last_checked_at": "2026-10-25T20:48:43.558788+00:00"
+  },
+  "125719166f5f94c32b2186c843437d19e5cbbcf94b99ce4aada370b8df05b4a9": {
+    "title": "قیمت طلا امروز دوشنبه ۴ آبان ۱۴۰۵",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304215-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1370
+    ],
+    "eitaa_message_ids": [
+      178326385
+    ],
+    "group_message_ids": [
+      1108
+    ],
+    "content_hash": "49cf65588b8e5bd65590598638508c9b1d0b62e4ddbf6ac75f07d6625bb0fbb8",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T02:47:56.678280+00:00",
+    "telegram_message_id": 1370,
+    "eitaa_last_sent_at": "2026-10-26T02:47:58.141759+00:00",
+    "eitaa_message_id": 178326385,
+    "group_last_sent_at": "2026-10-26T02:47:59.913409+00:00",
+    "group_message_id": 1108,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T02:47:59.932109+00:00"
   }
 }
