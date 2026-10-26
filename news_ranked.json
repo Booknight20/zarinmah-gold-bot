@@ -189,6 +189,82 @@
     "ranking_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "نرخ حواله دلار، یورو و سایر ارزها در مرکز مبادله",
+    "link": "https://www.mashreghnews.ir/news/1848254/%D9%86%D8%B1%D8%AE-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%B3%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87",
+    "summary": "مرکز مبادله ارز و طلای ایران نرخ حواله انواع ارز از جمله دلار، یورو و درهم را برای روز دوشنبه ۱۴۰۵/۰۸/۰۴ اعلام کرد.",
+    "published": "Mon, 26 Oct 2026 09:11:57 GMT",
+    "collected_at": "2026-10-26T12:47:56.835426+03:30",
+    "filter_market_score": 42,
+    "market_score": 43,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو",
+        "مرکز مبادله",
+        "درهم"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو",
+        "مرکز مبادله"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو",
+        "درهم",
+        "مرکز مبادله"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو",
+      "مرکز مبادله",
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "شجاعت عمل در سیاستگذاری ارزی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4304158-%D8%B4%D8%AC%D8%A7%D8%B9%D8%AA-%D8%B9%D9%85%D9%84-%D8%AF%D8%B1-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C",
@@ -262,6 +338,78 @@
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "فروش دلار سهمیه ای چقدر ضرب بازار ارز را گرفت؟",
+    "link": "https://www.isna.ir/news/1405080402247/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%D9%87%D9%85%DB%8C%D9%87-%D8%A7%DB%8C-%DA%86%D9%82%D8%AF%D8%B1-%D8%B6%D8%B1%D8%A8-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%B1%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA",
+    "summary": "بانک مرکزی به دنبال افزایش نوسانات بازار ارز، در مهرماه سیاست افزایش عرضه دلار و امکان خرید تا سقف ۱۰ هزار دلار با کارت ملی را به اجرا گذاشت؛ سیاستی که قرار بود در دو مرحله، زمینه عرضه دو میلیارد دلار اسکناس ارز را فراهم کند؛ هرچند هنوز میزان دقیق عرضه و فروش رسما اعلام نشده اما به زعم کارشناسان، جلوی تقاضای هیجانی و سقف نرخ دلار را تاحدودی گرفت و نوسان بازار ارز را سه - چهار درصد مدیریت کرد.",
+    "published": "Mon, 26 Oct 2026 09:09:50 GMT",
+    "collected_at": "2026-10-26T12:47:17.213999+03:30",
+    "filter_market_score": 34,
+    "market_score": 38,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "بازار ارز",
+        "ارز",
+        "نرخ دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "بازار ارز",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ دلار",
+        "بازار ارز",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "نوسان",
+      "نرخ",
+      "عرضه",
+      "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "بازار ارز",
+      "ارز",
+      "نرخ دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -411,74 +559,6 @@
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "گزارش بازار سرمایه امروز شنبه ۲ آبان ۱۴۰۵ / شاخص کل بورس ۱۲۹ هزار واحد افت کرد و ۸ هزار میلیارد تومان پول حقیقی خارج شد",
-    "link": "https://www.khabaronline.ir/live/2292270/%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%86%D8%A8%D9%87-%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B1%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF-%D9%88-%D8%A8%D9%87-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88",
-    "summary": "بازار سرمایه در معاملات امروز شنبه ۲ آبان ۱۴۰۵ با افت ۱.۵۸ درصدی شاخص کل بورس و خروج ۸ هزار و ۳۵ میلیارد تومان پول حقیقی از سهام همراه شد؛ هم زمان، ۳۵۴ نماد در صف فروش قرار گرفتند.",
-    "published": "Sat, 24 Oct 2026 10:30:00 GMT",
-    "collected_at": "2026-10-25T11:47:27.693918+03:30",
-    "filter_market_score": 40,
-    "market_score": 35,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه",
-        "شاخص کل",
-        "صف فروش",
-        "سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه",
-        "شاخص کل"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه",
-        "شاخص کل",
-        "صف فروش",
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افت",
-      "گزارش",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه",
-      "شاخص کل",
-      "صف فروش",
-      "سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -890,6 +970,68 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۴ آبان ۱۴۰۵/ دلار به قیمت ۲۷۰ هزار و ۷۱۰ تومان رسید + جدول",
+    "link": "https://www.khabaronline.ir/news/2293305/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87",
+    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۴ آبان ۱۴۰۵ اعلام شد. بر این اساس دلار با هزار و ۲۱۰ تومان افزایش قیمت، به ۲۷۰ هزار و ۷۱۰ تومان رسید.",
+    "published": "Mon, 26 Oct 2026 09:10:00 GMT",
+    "collected_at": "2026-10-26T12:47:45.810463+03:30",
+    "filter_market_score": 27,
+    "market_score": 31,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "افزایش",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۳ آبان ۱۴۰۵/ دلار ۲۶۹ هزار ۵۰۰ تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2292838/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B6%DB%B9",
     "summary": "قیمت دلار، یورو و سایر ارزها امروز ۳ آبان ۱۴۰۵ اعلام شد. بر این اساس دلار با هزار تومان افزایش قیمت، به ۲۶۹ هزار و ۵۰۰ تومان رسید.",
@@ -1124,6 +1266,73 @@
       "طلای 18 عیار"
     ],
     "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "تابناک",
+    "title": "قیمت دلار امروز دوشنبه ۴ آبان ماه ۱۴۰۵؛ نوسان افزایش شاخص ارزی",
+    "link": "https://example.com/fa/news/30007868/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-4-%D8%A2%D8%A8%D8%A7%D9%86-%D9%85%D8%A7%D9%87-1405-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A7%D8%B1%D8%B2%DB%8C",
+    "summary": "قیمت دلار امروز دوشنبه 4 آبان ۱۴۰۵ به محدوده 270 هزار تومان افزایش یافته است. در این گزارش، آخرین تغییرات نرخ ارز در بازار و مرکز مبادله را تحلیل کرده ایم.",
+    "published": "Mon, 26 Oct 2026 12:21:00 +0330",
+    "collected_at": "2026-10-26T12:47:51.070098+03:30",
+    "filter_market_score": 28,
+    "market_score": 30,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "نرخ ارز",
+        "مرکز مبادله"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ ارز",
+        "ارز",
+        "مرکز مبادله"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "نوسان",
+      "قیمت",
+      "تحلیل",
+      "نرخ",
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "نرخ ارز",
+      "مرکز مبادله"
+    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
@@ -2195,6 +2404,63 @@
     "ranking_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت سکه ظهر امروز ۴ آبان ۱۴۰۵/ سکه امامی ۲۶۹ میلیون و ۲۸۰ هزار تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2293329/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C-%DB%B2%DB%B6%DB%B9-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B2%DB%B8%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1",
+    "summary": "قیمت سکه در بازار تهران امروز ۴ آبان ۱۴۰۵ اعلام شد و سکه امامی ۲۶۹ میلیون و ۲۸۰ هزار تومان قیمت خورد.",
+    "published": "Mon, 26 Oct 2026 08:51:37 GMT",
+    "collected_at": "2026-10-26T12:47:45.810490+03:30",
+    "filter_market_score": 12,
+    "market_score": 24,
+    "market_matches": {
+      "gold": [
+        "سکه",
+        "سکه امامی"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "سکه",
+        "سکه امامی"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "سکه",
+        "سکه امامی"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مهر",
     "title": "زنگنه: دولت، بانک ها و پتروشیمی ها ذی نفعان افزایش نرخ ارز هستند",
     "link": "https://www.mehrnews.com/news/6989182/%D8%B2%D9%86%DA%AF%D9%86%D9%87-%D8%AF%D9%88%D9%84%D8%AA-%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7-%D9%88-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C-%D9%87%D8%A7-%D8%B0%DB%8C-%D9%86%D9%81%D8%B9%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
@@ -2294,66 +2560,6 @@
     "currency_matches": [
       "ارز",
       "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "قیمت دلار امروز یکشنبه ۳ آبان؛ دلار ۲۵۸ هزار تومانی با شرط تسویه تراولی!",
-    "link": "https://www.tabnak.ir/fa/news/1400263/قیمت-دلار-امروز-یکشنبه-3-آبان-دلار-258-هزار-تومانی-با-شرط-تسویه-تراولی",
-    "summary": "بازار ارز در دومین روز هفته در حالی با افت نسبی قیمت ها در کانال ۲۶۷ هزار تومانی روبه رو شده که بازگشت شیوه تسویه با ایران چک در کف بازار، دلار ارزان تر از نرخ رسمی را رقم زده است.",
-    "published": "25 Oct 2026 11:42:05 +0330",
-    "collected_at": "2026-10-25T11:47:30.699508+03:30",
-    "filter_market_score": 19,
-    "market_score": 23,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "بازار ارز",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "بازار ارز",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "افت",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "بازار ارز",
-      "ارز"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -3582,63 +3788,6 @@
     "ranking_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "هشدار درباره گسترش واردات غیررسمی موبایل/ محدودیت رجیستری مانع خروج ارز نمی شود",
-    "link": "https://www.isna.ir/news/1405080301445/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%BA%DB%8C%D8%B1%D8%B1%D8%B3%D9%85%DB%8C-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C-%D9%85%D8%A7%D9%86%D8%B9",
-    "summary": "سخنگوی انجمن تلفن همراه با انتقاد از کنار گذاشته شدن شبکه رسمی توزیع از واردات نسل های جدید موبایل، نسبت به گسترش واردات مسافری و شبکه غیر رسمی واردات به کشور هشدار داد و گفت: وقتی تقاضای مصرف کننده وجود دارد بی شک محدودیت رجیستری الزاما مانع تامین کالا و خروج ارز نمی شود و منطقی تر آن است که این تقاضا از مسیر رسمی، شفاف و قابل نظارت پاسخ داده شود.",
-    "published": "Sun, 25 Oct 2026 08:42:26 GMT",
-    "collected_at": "2026-10-25T12:13:55.232126+03:30",
-    "filter_market_score": 15,
-    "market_score": 18,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "واردات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "تقاضا",
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "واردات"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "مهر",
     "title": "پاسخ بانک مرکزی به نامه تشکل ها درباره مطالبات ارزی واردکنندگان",
     "link": "https://www.mehrnews.com/news/6989990/%D9%BE%D8%A7%D8%B3%D8%AE-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D9%87-%D9%86%D8%A7%D9%85%D9%87-%D8%AA%D8%B4%DA%A9%D9%84-%D9%87%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86",
@@ -3687,6 +3836,59 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "گسترش بورس صنعت و مشاغل به همه مقاطع تحصیلی",
+    "link": "https://www.isna.ir/news/1405080402237/%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B5%D9%86%D8%B9%D8%AA-%D9%88-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%D8%A8%D9%87-%D9%87%D9%85%D9%87-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D8%AA%D8%AD%D8%B5%DB%8C%D9%84%DB%8C",
+    "summary": "مدیرکل بورس و اعزام دانشجویان سازمان امور دانشجویان، با تشریح روند رو به رشد طرح «بورس صنعت و مشاغل» از سال ۱۴۰۲ تاکنون، از گسترش همه جانبه این طرح در سال ۱۴۰۵ به تمامی مقاطع تحصیلی خبر داد.",
+    "published": "Mon, 26 Oct 2026 08:57:37 GMT",
+    "collected_at": "2026-10-26T12:47:17.214132+03:30",
+    "filter_market_score": 12,
+    "market_score": 18,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد",
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -3791,6 +3993,60 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "تعهدات ارزی، مسیر قاچاق زعفران را هموار کرده است",
+    "link": "https://www.isna.ir/news/1405080402226/%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%85%D8%B3%DB%8C%D8%B1-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%87%D9%85%D9%88%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+    "summary": "رئیس اتحادیه صادرکنندگان زعفران خراسان رضوی با اشاره به محدودیت های داخلی پیش روی صادرکنندگان، گفت: کاهش صادرات رسمی زعفران ایران از ۳۲۵ تن به حدود ۱۰۰ الی ۱۲۰ تن در سال، در شرایطی رخ داده که شمار کشورهای طرف تجاری ایران از ۴۷ به ۷۱ کشور افزایش یافته است همچنین محدودیت های دخلی صادرات رسمی یکی از عوامل فراهم کننده زمینه قاچاق این محصول فراهم کرده است.",
+    "published": "Mon, 26 Oct 2026 08:47:13 GMT",
+    "collected_at": "2026-10-26T12:47:17.214290+03:30",
+    "filter_market_score": 12,
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "کاهش",
+      "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -4911,54 +5167,6 @@
     "ranking_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "معاون وزیر اقتصاد: خرید ارز برای مصارف شخصی، به خودی خود مشمول مالیات نمی شود",
-    "link": "https://www.khabaronline.ir/news/2292775/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D9%88%D8%B2%DB%8C%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B5%D8%A7%D8%B1%D9%81-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D9%87-%D8%AE%D9%88%D8%AF%DB%8C-%D8%AE%D9%88%D8%AF-%D9%85%D8%B4%D9%85%D9%88%D9%84",
-    "summary": "معاون وزیر اقتصاد در توضیحی رسمی اعلام کرده است که خرید ارز برای مصارف شخصی، به خودی خود مشمول مالیات نمی شود و دریافت مالیات باید بر اساس قانون و مقررات مصوب باشد.",
-    "published": "Sun, 25 Oct 2026 07:50:00 GMT",
-    "collected_at": "2026-10-25T11:47:27.693480+03:30",
-    "filter_market_score": 10,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "مهر",
     "title": "نامه ۱۰ تشکل صنایع غذایی به بانک مرکزی؛ هشدار درباره امنیت غذایی",
     "link": "https://www.mehrnews.com/news/6989402/%D9%86%D8%A7%D9%85%D9%87-%DB%B1%DB%B0-%D8%AA%D8%B4%DA%A9%D9%84-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C",
@@ -5519,6 +5727,50 @@
     "ranking_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "توپ طلای ۲۰۲۶؛ اهالی فوتبال امشب برترین های سال را می شناسند",
+    "link": "https://www.mashreghnews.ir/news/1848246/%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B2%DB%B6-%D8%A7%D9%87%D8%A7%D9%84%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%85%D8%B4%D8%A8-%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%A7%DB%8C-%D8%B3%D8%A7%D9%84-%D8%B1%D8%A7-%D9%85%DB%8C-%D8%B4%D9%86%D8%A7%D8%B3%D9%86%D8%AF",
+    "summary": "برترین های سال امشب در لندن انتخاب خواهند شد و در نتیجه از مرد سال فوتبال دنیا رونمایی می شود.",
+    "published": "Mon, 26 Oct 2026 09:04:11 GMT",
+    "collected_at": "2026-10-26T12:47:56.835481+03:30",
+    "filter_market_score": 5,
+    "market_score": 11,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "نقره سی یا گرمی، از کجا نقره بخریم؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4304093-%D9%86%D9%82%D8%B1%D9%87-%D8%B3%DB%8C-%DB%8C%D8%A7-%DA%AF%D8%B1%D9%85%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%AC%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%AE%D8%B1%DB%8C%D9%85",
@@ -5655,6 +5907,50 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مشرق",
+    "title": "سعید اسماعیلی با شکست نماینده میزبان راهی نیمه نهایی شد +فیلم",
+    "link": "https://www.mashreghnews.ir/news/1848255/%D8%B3%D8%B9%DB%8C%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C-%D8%A8%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86-%D8%B1%D8%A7%D9%87%DB%8C-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "سعید اسماعیلی دارنده مدال طلای جهان و المپیک در مرحله نیمه نهایی وزن ۶۷ کیلوگرم پیکارهای کشتی فرنگی قهرمانی جهان با شکست حریف قزاقستانی راهی نیمه نهایی شد.",
+    "published": "Mon, 26 Oct 2026 09:12:36 GMT",
+    "collected_at": "2026-10-26T12:47:56.835411+03:30",
+    "filter_market_score": 4,
+    "market_score": 8,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
