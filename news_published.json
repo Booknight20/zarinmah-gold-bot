@@ -11318,5 +11318,101 @@
     "group_message_id": 1115,
     "fully_published": true,
     "last_checked_at": "2026-10-26T04:49:08.901034+00:00"
+  },
+  "cced8a016e72662ef77bc26f88fa0b9534181df2447f2c4f6e74fe6f6124813f": {
+    "title": "صادرات ۶۱ میلیون دلاری لرستان در نیمه نخست سال؛ رشد ۳۸ درصدی وزن کالاهای صادراتی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080401967/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B6%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%B3%D8%A7%D9%84-%D8%B1%D8%B4%D8%AF-%DB%B3%DB%B8-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C",
+    "telegram_message_ids": [
+      1379
+    ],
+    "eitaa_message_ids": [
+      178340285
+    ],
+    "group_message_ids": [
+      1117
+    ],
+    "content_hash": "aaa44db6464d8cd76ab037705dd8dbd7e9e5f1c3e290cf8b55c66ceff621a062",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T05:15:00.973357+00:00",
+    "telegram_message_id": 1379,
+    "eitaa_last_sent_at": "2026-10-26T05:15:02.257094+00:00",
+    "eitaa_message_id": 178340285,
+    "group_last_sent_at": "2026-10-26T05:15:03.885703+00:00",
+    "group_message_id": 1117,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T05:15:03.896453+00:00"
+  },
+  "8fb31ec82920b95a98b2952c93488d5ec172c0cb5ac1407ea92ad79d022a1dea": {
+    "title": "کسب سه مدال طلا و برنز توسط گراپلینگ کاران ملایری در مسابقات کشوری",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080401966/%DA%A9%D8%B3%D8%A8-%D8%B3%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%88-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AA%D9%88%D8%B3%D8%B7-%DA%AF%D8%B1%D8%A7%D9%BE%D9%84%DB%8C%D9%86%DA%AF-%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D9%85%D9%84%D8%A7%DB%8C%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA",
+    "telegram_message_ids": [
+      1380
+    ],
+    "eitaa_message_ids": [
+      178340313
+    ],
+    "group_message_ids": [
+      1118
+    ],
+    "content_hash": "3b54ec518b7c74f6992e34d55881d3e95de91e0e948271f7691f032c46d1fe22",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T05:15:05.519846+00:00",
+    "telegram_message_id": 1380,
+    "eitaa_last_sent_at": "2026-10-26T05:15:06.886254+00:00",
+    "eitaa_message_id": 178340313,
+    "group_last_sent_at": "2026-10-26T05:15:08.496335+00:00",
+    "group_message_id": 1118,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T05:15:08.507157+00:00"
+  },
+  "ffe03cad0d92a371d435ba3ed5759d70c93933defc68e59196546d67052dcb8d": {
+    "title": "قیمت سکه امروز ۴ آبان ۱۴۰۵ در زمان بازگشایی بازار/ ربع سکه ۷۵ میلیون و ۷۰۰ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293170/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%DB%B7%DB%B5",
+    "telegram_message_ids": [
+      1381
+    ],
+    "eitaa_message_ids": [
+      178340321
+    ],
+    "group_message_ids": [
+      1119
+    ],
+    "content_hash": "83ab8cdaecb9eb7d4be8451908bfeaabd07a2c11147db7e33f4e755162532d2c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T05:15:10.131913+00:00",
+    "telegram_message_id": 1381,
+    "eitaa_last_sent_at": "2026-10-26T05:15:11.369389+00:00",
+    "eitaa_message_id": 178340321,
+    "group_last_sent_at": "2026-10-26T05:15:12.999915+00:00",
+    "group_message_id": 1119,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T05:15:13.010377+00:00"
+  },
+  "e98adb1d3f58939ffabad4d5c24cbaf252a41640fb956f5d1db8239bc70347d7": {
+    "title": "قیمت طلا امروز ۴ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۱۸ عیار ۲۵ میلیون و ۸۵۳ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293169/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      1382
+    ],
+    "eitaa_message_ids": [
+      178340335
+    ],
+    "group_message_ids": [
+      1120
+    ],
+    "content_hash": "5e5b8b1985295a59e0f8e43307f92387836d03d2d044039742ffe00c7f99172c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T05:15:14.649684+00:00",
+    "telegram_message_id": 1382,
+    "eitaa_last_sent_at": "2026-10-26T05:15:15.956627+00:00",
+    "eitaa_message_id": 178340335,
+    "group_last_sent_at": "2026-10-26T05:15:17.572935+00:00",
+    "group_message_id": 1120,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T05:15:17.583797+00:00"
   }
 }
