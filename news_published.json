@@ -12830,5 +12830,77 @@
     "group_message_id": 1215,
     "fully_published": true,
     "last_checked_at": "2026-10-26T14:47:47.634636+00:00"
+  },
+  "a0cfa64817393c495f48d8f4ab96dc89c58b7185e70c4d7ea05d8b146df6e476": {
+    "title": "معاون استاندار: مدال طلای پارسا محمدی برای جوانان کردستان ایجاد انگیزه کرد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080402570/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF",
+    "telegram_message_ids": [
+      1479
+    ],
+    "eitaa_message_ids": [
+      178447168
+    ],
+    "group_message_ids": [
+      1217
+    ],
+    "content_hash": "6b7023ed2b3337084af1fb00d31c91d1d92eb0b58062086d200048e1936e67f3",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T15:18:20.199570+00:00",
+    "telegram_message_id": 1479,
+    "eitaa_last_sent_at": "2026-10-26T15:18:21.725784+00:00",
+    "eitaa_message_id": 178447168,
+    "group_last_sent_at": "2026-10-26T15:18:23.444709+00:00",
+    "group_message_id": 1217,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T15:18:23.466066+00:00"
+  },
+  "7bf19218f8874493ac295da6d0dbddd6e8868fc8e82e3a9632fc0fc78f5f5228": {
+    "title": "سال گذشته در واردات محصولات چاپی، صرفه جویی ارزی پنج همتی داشتیم",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080402567/%D8%B3%D8%A7%D9%84-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D8%AF%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%DA%86%D8%A7%D9%BE%DB%8C-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%BE%D9%86%D8%AC-%D9%87%D9%85%D8%AA%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C%D9%85",
+    "telegram_message_ids": [
+      1480
+    ],
+    "eitaa_message_ids": [
+      178447190
+    ],
+    "group_message_ids": [
+      1218
+    ],
+    "content_hash": "aa8c6b1c098f818aeb34f28f3e37f37acfa1dffa687f99ce1437f1f3ef33c92f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T15:18:25.201367+00:00",
+    "telegram_message_id": 1480,
+    "eitaa_last_sent_at": "2026-10-26T15:18:31.756375+00:00",
+    "eitaa_message_id": 178447190,
+    "group_last_sent_at": "2026-10-26T15:18:33.499976+00:00",
+    "group_message_id": 1218,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T15:18:33.520975+00:00"
+  },
+  "87ff3722efe5b2eee3e1426b2a0d884d76f10b40196b63ac00c9e501d2a10492": {
+    "title": "کشتی گیر ایرانی رکورد سریع ترین مدال طلای تاریخ کشتی را شکست+ فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304325-%DA%A9%D8%B4%D8%AA%DB%8C-%DA%AF%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AA%D8%B1%DB%8C%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%B1%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      1481
+    ],
+    "eitaa_message_ids": [
+      178447203
+    ],
+    "group_message_ids": [
+      1219
+    ],
+    "content_hash": "55c8fb30e9b5d551c40aebe83f511dadcc9e0856f7700cf855fd303db344b76f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T15:18:35.268454+00:00",
+    "telegram_message_id": 1481,
+    "eitaa_last_sent_at": "2026-10-26T15:18:36.758432+00:00",
+    "eitaa_message_id": 178447203,
+    "group_last_sent_at": "2026-10-26T15:18:38.566474+00:00",
+    "group_message_id": 1219,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T15:18:38.587500+00:00"
   }
 }

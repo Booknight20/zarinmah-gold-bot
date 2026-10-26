@@ -3163,6 +3163,66 @@
     "telegram_preview": "📰 صورت حساب ادامه جنگ؛ ۱۷۳ میلیارد دلار هزینه نظامی اوکراین در ۲۰۲۷\n\nاگر درگیری با روسیه ادامه یابد، هزینه های نظامی اوکراین در سال ۲۰۲۷ به ۴۷۳ میلیون دلار در روز خواهد رسید.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1848116/%D8%B5%D9%88%D8%B1%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AC%D9%86%DA%AF-%DB%B1%DB%B7%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D8%AF%D8%B1"
   },
   {
+    "source": "ایسنا",
+    "title": "سال گذشته در واردات محصولات چاپی، صرفه جویی ارزی پنج همتی داشتیم",
+    "link": "https://www.isna.ir/news/1405080402567/%D8%B3%D8%A7%D9%84-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D8%AF%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%DA%86%D8%A7%D9%BE%DB%8C-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%BE%D9%86%D8%AC-%D9%87%D9%85%D8%AA%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C%D9%85",
+    "summary": "مدیرکل دفتر چاپ و نشر وزارت فرهنگ و ارشاد اسلامی گفت: واردات محصولات چاپی به کشور محدود شده و سال گذشته میزان واردات این محصولات ۴۹ درصد کاهش یافت که به صرفه جویی ارزی پنج همتی منجر شد.",
+    "published": "Mon, 26 Oct 2026 14:55:27 GMT",
+    "collected_at": "2026-10-26T18:47:28.135343+03:30",
+    "filter_market_score": 14,
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "مدیرکل دفتر چاپ و نشر وزارت فرهنگ و ارشاد اسلامی گفت: واردات محصولات چاپی به کشور محدود شده و سال گذشته میزان واردات این محصولات ۴۹ درصد کاهش یافت که به صرفه جویی ارزی پنج همتی منجر شد.",
+    "telegram_preview": "📰 سال گذشته در واردات محصولات چاپی، صرفه جویی ارزی پنج همتی داشتیم\n\nمدیرکل دفتر چاپ و نشر وزارت فرهنگ و ارشاد اسلامی گفت: واردات محصولات چاپی به کشور محدود شده و سال گذشته میزان واردات این محصولات ۴۹ درصد کاهش یافت که به صرفه جویی ارزی پنج همتی منجر شد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080402567/%D8%B3%D8%A7%D9%84-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D8%AF%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%DA%86%D8%A7%D9%BE%DB%8C-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%BE%D9%86%D8%AC-%D9%87%D9%85%D8%AA%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C%D9%85"
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا ۱۸ عیار امروز دوشنبه ۴ آبان ۱۴۰۵",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304216-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86",
@@ -4154,58 +4214,6 @@
     "telegram_preview": "📰 غلامرضا فرخی با اقتدار قهرمان جهان شد/ دومین طلای پیاپی قهرمان شیرازی +فیلم\n\nفرنگی کار وزن ۸۲ کیلوگرم ایران برای دومین سال متوالی به مدال طلای رقابت های جهانی قزاقستان دست یافت.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1848073/%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7-%D9%81%D8%B1%D8%AE%DB%8C-%D8%A8%D8%A7-%D8%A7%D9%82%D8%AA%D8%AF%D8%A7%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D9%BE%DB%8C%D8%A7%D9%BE%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86"
   },
   {
-    "source": "ایسنا",
-    "title": "غلامرضا فرخی قهرمان جهان شد/ نخستین طلای کشتی فرنگی ایران در آستانه",
-    "link": "https://www.isna.ir/news/1405080301781/%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7-%D9%81%D8%B1%D8%AE%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF",
-    "summary": "فرنگی کار وزن ۸۲ کیلوگرم ایران برای دومین سال متوالی به مدال طلای رقابت های جهانی قزاقستان دست یافت.",
-    "published": "Sun, 25 Oct 2026 14:28:36 GMT",
-    "collected_at": "2026-10-25T18:17:15.766345+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "فرنگی کار وزن ۸۲ کیلوگرم ایران برای دومین سال متوالی به مدال طلای رقابت های جهانی قزاقستان دست یافت.",
-    "telegram_preview": "📰 غلامرضا فرخی قهرمان جهان شد/ نخستین طلای کشتی فرنگی ایران در آستانه\n\nفرنگی کار وزن ۸۲ کیلوگرم ایران برای دومین سال متوالی به مدال طلای رقابت های جهانی قزاقستان دست یافت.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080301781/%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7-%D9%81%D8%B1%D8%AE%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF"
-  },
-  {
     "source": "مشرق",
     "title": "قیمت نفت کاهش یافت",
     "link": "https://www.mashreghnews.ir/news/1848204/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
@@ -4591,6 +4599,57 @@
     "telegram_preview": "📰 برندهای بزرگ نقره ایران در نمایشگاه طلا و جواهر شیراز شرکت کردند\n\nحضور برندهای فعال صنعت نقره در کنار دیگر فعالان زنجیره طلا و جواهر، فرصتی برای معرفی توانمندی های تولیدی، بررسی جایگاه برندهای داخلی و آشنایی با استانداردهای نوین این صنعت فراهم می کند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989299/%D8%A8%D8%B1%D9%86%D8%AF%D9%87%D8%A7%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AC%D9%88%D8%A7%D9%87%D8%B1-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF"
   },
   {
+    "source": "ایسنا",
+    "title": "معاون استاندار: مدال طلای پارسا محمدی برای جوانان کردستان ایجاد انگیزه کرد",
+    "link": "https://www.isna.ir/news/1405080402570/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF",
+    "summary": "معاون توسعه و مدیریت منابع استاندار کردستان گفت: مدال طلای پارسا محمدی دو برابر ارزشمند است، زیرا علاوه بر کسب قهرمانی، در میان جوانان استان نیز ایجاد انگیزه کرده است.",
+    "published": "Mon, 26 Oct 2026 14:56:56 GMT",
+    "collected_at": "2026-10-26T18:47:28.135302+03:30",
+    "filter_market_score": 10,
+    "market_score": 14,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "معاون توسعه و مدیریت منابع استاندار کردستان گفت: مدال طلای پارسا محمدی دو برابر ارزشمند است، زیرا علاوه بر کسب قهرمانی، در میان جوانان استان نیز ایجاد انگیزه کرده است.",
+    "telegram_preview": "📰 معاون استاندار: مدال طلای پارسا محمدی برای جوانان کردستان ایجاد انگیزه کرد\n\nمعاون توسعه و مدیریت منابع استاندار کردستان گفت: مدال طلای پارسا محمدی دو برابر ارزشمند است، زیرا علاوه بر کسب قهرمانی، در میان جوانان استان نیز ایجاد انگیزه کرده است.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080402570/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF"
+  },
+  {
     "source": "مهر",
     "title": "درخشش فرنگی کاران ایران در آستانه؛ دو طلا و یک برنز در روز دوم",
     "link": "https://www.mehrnews.com/news/6990685/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%AF%D9%88-%D8%B7%D9%84%D8%A7-%D9%88-%DB%8C%DA%A9-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D9%85",
@@ -4949,6 +5008,56 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "کشتی گیر ایرانی رکورد سریع ترین مدال طلای تاریخ کشتی را شکست+ فیلم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304325-%DA%A9%D8%B4%D8%AA%DB%8C-%DA%AF%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AA%D8%B1%DB%8C%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%B1%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "فردین هدایتی، کشتی گیر ۲۲ ساله ایرانی رکورد سریع ترین بردهای متوالی برای قهرمانی جهان را شکست.",
+    "published": "Mon, 26 Oct 2026 15:12:11 +0000",
+    "collected_at": "2026-10-26T18:47:46.064810+03:30",
+    "filter_market_score": 6,
+    "market_score": 13,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رکورد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "فردین هدایتی، کشتی گیر ۲۲ ساله ایرانی رکورد سریع ترین بردهای متوالی برای قهرمانی جهان را شکست.",
+    "telegram_preview": "📰 کشتی گیر ایرانی رکورد سریع ترین مدال طلای تاریخ کشتی را شکست+ فیلم\n\nفردین هدایتی، کشتی گیر ۲۲ ساله ایرانی رکورد سریع ترین بردهای متوالی برای قهرمانی جهان را شکست.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304325-%DA%A9%D8%B4%D8%AA%DB%8C-%DA%AF%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AA%D8%B1%DB%8C%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%B1%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%81%DB%8C%D9%84%D9%85"
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "از جدال اوباما و ترامپ بر سر ایران تا توقف واردات خودرو با فرمان ارزی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4303813-%D8%A7%D8%B2-%D8%AC%D8%AF%D8%A7%D9%84-%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1-%D8%B3%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%AA%D9%88%D9%82%D9%81-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D9%81%D8%B1%D9%85%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2%DB%8C",
     "summary": "دنیای اقتصاد: دنیای اقتصاد هرصبح در پادکست«دشت اول» به بررسی مهم ترین اخبار اقتصادی و سیاسی ایران و جهان به صورت خلاصه می پردازد تا بتوانید در کوتاه ترین زمان از مهم ترین تحولات داخلی و بین المللی باخبر شوید.",
@@ -5244,100 +5353,6 @@
     "telegram_preview": "📰 تحقق ۸۳ درصد درآمدهای امسال کرمانشاه/ صدور مجوز برای ۱۳ میلیون دلار سرمایه گذاری خارجی\n\nمدیرکل امور اقتصادی و دارایی استان کرمانشاه از تحقق ۸۳ درصدی درآمدهای مصوب استان از ابتدای سال جاری تاکنون خبر داد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080402224/%D8%AA%D8%AD%D9%82%D9%82-%DB%B8%DB%B3-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D9%85%D8%B3%D8%A7%D9%84-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B5%D8%AF%D9%88%D8%B1-%D9%85%D8%AC%D9%88%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%DB%B1%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86"
   },
   {
-    "source": "مشرق",
-    "title": "فیلم/ احمدی وفا طلا را به حریف ژاپنی داد و نقره ای شد",
-    "link": "https://www.mashreghnews.ir/news/1848065/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%88%D9%81%D8%A7-%D8%B7%D9%84%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AD%D8%B1%DB%8C%D9%81-%DA%98%D8%A7%D9%BE%D9%86%DB%8C-%D8%AF%D8%A7%D8%AF-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D8%B4%D8%AF",
-    "summary": "علی احمدی وفا در فینال وزن ۶۰ کیلوگرم مسابقات کشتی فرنگی قهرمانی جهان درحالی که با نتیجه ۷ بر ۵ مقابل کوتو گومی از ژاپن به پیروزی پیش بود، ضربه فنی شد و به مدال نقره رسید.",
-    "published": "Sun, 25 Oct 2026 14:02:00 GMT",
-    "collected_at": "2026-10-25T17:47:28.234653+03:30",
-    "filter_market_score": 6,
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "علی احمدی وفا در فینال وزن ۶۰ کیلوگرم مسابقات کشتی فرنگی قهرمانی جهان درحالی که با نتیجه ۷ بر ۵ مقابل کوتو گومی از ژاپن به پیروزی پیش بود، ضربه فنی شد و به مدال نقره رسید.",
-    "telegram_preview": "📰 فیلم/ احمدی وفا طلا را به حریف ژاپنی داد و نقره ای شد\n\nعلی احمدی وفا در فینال وزن ۶۰ کیلوگرم مسابقات کشتی فرنگی قهرمانی جهان درحالی که با نتیجه ۷ بر ۵ مقابل کوتو گومی از ژاپن به پیروزی پیش بود، ضربه فنی شد و به مدال نقره رسید.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1848065/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%88%D9%81%D8%A7-%D8%B7%D9%84%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AD%D8%B1%DB%8C%D9%81-%DA%98%D8%A7%D9%BE%D9%86%DB%8C-%D8%AF%D8%A7%D8%AF-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A7%DB%8C-%D8%B4%D8%AF"
-  },
-  {
-    "source": "مهر",
-    "title": "طلا مفت پرید؛ احمدی وفا به نقره بسنده کرد",
-    "link": "https://www.mehrnews.com/news/6989186/%D8%B7%D9%84%D8%A7-%D9%85%D9%81%D8%AA-%D9%BE%D8%B1%DB%8C%D8%AF-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%88%D9%81%D8%A7-%D8%A8%D9%87-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%B3%D9%86%D8%AF%D9%87-%DA%A9%D8%B1%D8%AF",
-    "summary": "علی احمدی وفا فرنگی کار وزن ۶۰ کیلوگرم با شکست برابر حریف ژاپنی خود به مدال نقره مسابقات جهانی رسید.",
-    "published": "Sun, 25 Oct 2026 13:52:59 GMT",
-    "collected_at": "2026-10-25T17:47:09.160243+03:30",
-    "filter_market_score": 6,
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "علی احمدی وفا فرنگی کار وزن ۶۰ کیلوگرم با شکست برابر حریف ژاپنی خود به مدال نقره مسابقات جهانی رسید.",
-    "telegram_preview": "📰 طلا مفت پرید؛ احمدی وفا به نقره بسنده کرد\n\nعلی احمدی وفا فرنگی کار وزن ۶۰ کیلوگرم با شکست برابر حریف ژاپنی خود به مدال نقره مسابقات جهانی رسید.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989186/%D8%B7%D9%84%D8%A7-%D9%85%D9%81%D8%AA-%D9%BE%D8%B1%DB%8C%D8%AF-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%88%D9%81%D8%A7-%D8%A8%D9%87-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%B3%D9%86%D8%AF%D9%87-%DA%A9%D8%B1%D8%AF"
-  },
-  {
     "source": "ایسنا",
     "title": "حذف ۲۵ هزار شغل در بخش دولتی هلند",
     "link": "https://www.isna.ir/news/1405080402432/%D8%AD%D8%B0%D9%81-%DB%B2%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D8%B4%D8%BA%D9%84-%D8%AF%D8%B1-%D8%A8%D8%AE%D8%B4-%D8%AF%D9%88%D9%84%D8%AA%DB%8C-%D9%87%D9%84%D9%86%D8%AF",
@@ -5433,56 +5448,6 @@
     "duplicate_count": 1,
     "full_text": "برترین های سال امشب در لندن انتخاب خواهند شد و در نتیجه از مرد سال فوتبال دنیا رونمایی می شود.",
     "telegram_preview": "📰 توپ طلای ۲۰۲۶؛ اهالی فوتبال امشب برترین های سال را می شناسند\n\nبرترین های سال امشب در لندن انتخاب خواهند شد و در نتیجه از مرد سال فوتبال دنیا رونمایی می شود.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1848246/%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B2%DB%B6-%D8%A7%D9%87%D8%A7%D9%84%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%85%D8%B4%D8%A8-%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%A7%DB%8C-%D8%B3%D8%A7%D9%84-%D8%B1%D8%A7-%D9%85%DB%8C-%D8%B4%D9%86%D8%A7%D8%B3%D9%86%D8%AF"
-  },
-  {
-    "source": "مهر",
-    "title": "افزایش چشمگیر کمک های مالی به کارزار انتخاباتی ایلهان عمر",
-    "link": "https://www.mehrnews.com/news/6989553/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DA%86%D8%B4%D9%85%DA%AF%DB%8C%D8%B1-%DA%A9%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%D8%B2%D8%A7%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%A7%DB%8C%D9%84%D9%87%D8%A7%D9%86-%D8%B9%D9%85%D8%B1",
-    "summary": "کارزار انتخاباتی ایلهان عمر پس از یورش ماموران فدرال به منزلش، طی دو روز بیش از ۱.۵ میلیون دلار کمک مالی دریافت کرد.",
-    "published": "Sun, 25 Oct 2026 14:09:40 GMT",
-    "collected_at": "2026-10-25T17:47:09.160157+03:30",
-    "filter_market_score": 5,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 5,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "کارزار انتخاباتی ایلهان عمر پس از یورش ماموران فدرال به منزلش، طی دو روز بیش از ۱.۵ میلیون دلار کمک مالی دریافت کرد.",
-    "telegram_preview": "📰 افزایش چشمگیر کمک های مالی به کارزار انتخاباتی ایلهان عمر\n\nکارزار انتخاباتی ایلهان عمر پس از یورش ماموران فدرال به منزلش، طی دو روز بیش از ۱.۵ میلیون دلار کمک مالی دریافت کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989553/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DA%86%D8%B4%D9%85%DA%AF%DB%8C%D8%B1-%DA%A9%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%D8%B2%D8%A7%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%A7%DB%8C%D9%84%D9%87%D8%A7%D9%86-%D8%B9%D9%85%D8%B1"
   },
   {
     "source": "ایسنا",
@@ -5912,53 +5877,6 @@
   },
   {
     "source": "ایسنا",
-    "title": "استاندار آذربایجان شرقی درخشش ورزشکاران استان در پاراآسیایی ناگویا را تبریک گفت",
-    "link": "https://www.isna.ir/news/1405080301785/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C-%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D9%88%D8%B1%D8%B2%D8%B4%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%D8%A7%D8%B1%D8%A7%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7",
-    "summary": "استاندار آذربایجان شرقی با تبریک افتخارآفرینی ورزشکاران استان در پنجمین دوره بازی های پاراآسیایی آیچی–ناگویا ۲۰۲۶ ژاپن، کسب سه مدال طلا، یک نقره و یک برنز توسط ورزشکاران آذربایجان شرقی را مایه مباهات و سربلندی مردم استان دانست.",
-    "published": "Sun, 25 Oct 2026 14:37:00 GMT",
-    "collected_at": "2026-10-25T18:17:15.766278+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "استاندار آذربایجان شرقی با تبریک افتخارآفرینی ورزشکاران استان در پنجمین دوره بازی های پاراآسیایی آیچی–ناگویا ۲۰۲۶ ژاپن، کسب سه مدال طلا، یک نقره و یک برنز توسط ورزشکاران آذربایجان شرقی را مایه مباهات و سربلندی مردم استان دانست.",
-    "telegram_preview": "📰 استاندار آذربایجان شرقی درخشش ورزشکاران استان در پاراآسیایی ناگویا را تبریک گفت\n\nاستاندار آذربایجان شرقی با تبریک افتخارآفرینی ورزشکاران استان در پنجمین دوره بازی های پاراآسیایی آیچی–ناگویا ۲۰۲۶ ژاپن، کسب سه مدال طلا، یک نقره و یک برنز توسط ورزشکاران آذربایجان شرقی را مایه مباهات و سربلندی مردم استان دانست.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080301785/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C-%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D9%88%D8%B1%D8%B2%D8%B4%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%D8%A7%D8%B1%D8%A7%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7"
-  },
-  {
-    "source": "ایسنا",
     "title": "رئیس مرکز ملی فرش ایران: قم یکی از پرظرفیت ترین قطب های فرش دستباف کشور است",
     "link": "https://www.isna.ir/news/1405080402361/%D8%B1%D8%A6%DB%8C%D8%B3-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D9%84%DB%8C-%D9%81%D8%B1%D8%B4-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%82%D9%85-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D9%BE%D8%B1%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D8%AA%D8%B1%DB%8C%D9%86-%D9%82%D8%B7%D8%A8-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%B4-%D8%AF%D8%B3%D8%AA%D8%A8%D8%A7%D9%81",
     "summary": "رئیس مرکز ملی فرش ایران از پیگیری جدی برای رفع موانع ارزی و توسعه تعاملات بین المللی خبر داد و گفت: استان قم یکی از مهم ترین و پرظرفیت ترین شهرهای کشور در زمینه تولید فرش دستباف است که نقش پیشران را در این صنعت ایفا می کند.",
@@ -6186,51 +6104,5 @@
     "duplicate_count": 1,
     "full_text": "فرنگی کاران ایران در دومین روز رقابت های جهانی آستانه با کسب یک طلا، دو نقره و یک برنز عملکرد قاقبل قولی داشتند اما تنها غلامرضا فرخی توانست در این چهار وزن به مدال طلا دست پیدا کند.",
     "telegram_preview": "📰 چهار مدال برای چهار وزن کشتی فرنگی ایران؛ طلایی که «مفت» از دست رفت!\n\nفرنگی کاران ایران در دومین روز رقابت های جهانی آستانه با کسب یک طلا، دو نقره و یک برنز عملکرد قاقبل قولی داشتند اما تنها غلامرضا فرخی توانست در این چهار وزن به مدال طلا دست پیدا کند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989548/%DA%86%D9%87%D8%A7%D8%B1-%D9%85%D8%AF%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D9%88%D8%B2%D9%86-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D9%85%D9%81%D8%AA-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA"
-  },
-  {
-    "source": "مهر",
-    "title": "مشکلات مالی و اینترنت، تهدیدی برای آینده گیمرهای ایرانی است",
-    "link": "https://www.mehrnews.com/news/6989043/%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D9%88-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%DA%AF%DB%8C%D9%85%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA",
-    "summary": "مدال آور طلای فوتبال الکترونیک ایران گفت: اگر رشته ورزش های الکترونیک را حرفه ای می دانیم، باید آن را به عنوان شغل به رسمیت بشناسیم و شرایط درآمدزایی بازیکنان را فراهم کنیم.",
-    "published": "Sun, 25 Oct 2026 14:00:16 GMT",
-    "collected_at": "2026-10-25T17:47:09.160194+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "مدال آور طلای فوتبال الکترونیک ایران گفت: اگر رشته ورزش های الکترونیک را حرفه ای می دانیم، باید آن را به عنوان شغل به رسمیت بشناسیم و شرایط درآمدزایی بازیکنان را فراهم کنیم.",
-    "telegram_preview": "📰 مشکلات مالی و اینترنت، تهدیدی برای آینده گیمرهای ایرانی است\n\nمدال آور طلای فوتبال الکترونیک ایران گفت: اگر رشته ورزش های الکترونیک را حرفه ای می دانیم، باید آن را به عنوان شغل به رسمیت بشناسیم و شرایط درآمدزایی بازیکنان را فراهم کنیم.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989043/%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D9%88-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%DA%AF%DB%8C%D9%85%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA"
   }
 ]
