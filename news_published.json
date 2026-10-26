@@ -12230,5 +12230,53 @@
     "group_message_id": 1170,
     "fully_published": true,
     "last_checked_at": "2026-10-26T09:45:00.058649+00:00"
+  },
+  "4c3767b4de0f89462fb658e165df6eb51daf34fc2599ace3afcad31693c05ab5": {
+    "title": "دادستان تهران: بیش از ۱۰ میلیارد یورو رفع تعهد ارزی صورت گرفته است",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6990406/%D8%AF%D8%A7%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%B1%D9%81%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B5%D9%88%D8%B1%D8%AA-%DA%AF%D8%B1%D9%81%D8%AA%D9%87",
+    "telegram_message_ids": [
+      1434
+    ],
+    "eitaa_message_ids": [
+      178396307
+    ],
+    "group_message_ids": [
+      1172
+    ],
+    "content_hash": "5ad706d5af1048965f4038b99622a42c7051bb3e72181ae20e0251e79b133cf5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T10:18:31.686614+00:00",
+    "telegram_message_id": 1434,
+    "eitaa_last_sent_at": "2026-10-26T10:18:33.269362+00:00",
+    "eitaa_message_id": 178396307,
+    "group_last_sent_at": "2026-10-26T10:18:35.114884+00:00",
+    "group_message_id": 1172,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T10:18:35.135089+00:00"
+  },
+  "fcc7b437a19dac641f2fa4e0bdfe7c76a59de15a5ee883c450416fcec9543b03": {
+    "title": "رشد ۵۴ هزار واحدی شاخص کل بورس؛ ورود ۱۰۰۰ میلیارد تومان پول حقیقی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6990388/%D8%B1%D8%B4%D8%AF-%DB%B5%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D9%88%D8%B1%D9%88%D8%AF-%DB%B1%DB%B0%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C",
+    "telegram_message_ids": [
+      1435
+    ],
+    "eitaa_message_ids": [
+      178396322
+    ],
+    "group_message_ids": [
+      1173
+    ],
+    "content_hash": "81c72e22a2265db338af3fc0c8b5a71524d5ae7bcdc1672b67659e4291144dec",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T10:18:36.925642+00:00",
+    "telegram_message_id": 1435,
+    "eitaa_last_sent_at": "2026-10-26T10:18:38.494078+00:00",
+    "eitaa_message_id": 178396322,
+    "group_last_sent_at": "2026-10-26T10:18:40.245036+00:00",
+    "group_message_id": 1173,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T10:18:40.265511+00:00"
   }
 }

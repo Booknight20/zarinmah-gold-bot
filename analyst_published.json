@@ -13495,5 +13495,73 @@
     "group_sent_at": "2026-10-26T13:15:04.028230+03:30",
     "group_message_id": 1171,
     "published_at": "2026-10-26T13:15:04.036721+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25760": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "سکه قبل ۸۶ بخریم یا بعد ۸۶؟",
+      "summary": "سکه قبل ۸۶ بخریم یا بعد ۸۶؟ \nاگه می‌خوای راحت‌تر بفروشی، معمولاً امامی ۸۶ و جدیدتر بهتره.\nاگه دنبال خرید ارزون‌تر و نگهداری بلندمدتی، بهار آزادی یا قبل ۸۶ هم خوبه؛ چون مقدار طلاشون یکیه!\n حالا کدومو بخریم ؟ \nبرای فروش راحت‌تر امامی، برای خرید اقتصادی‌تر بهار آزادی\n\n @payamelyaskordi ✅",
+      "full_text": "سکه قبل ۸۶ بخریم یا بعد ۸۶؟ \nاگه می‌خوای راحت‌تر بفروشی، معمولاً امامی ۸۶ و جدیدتر بهتره.\nاگه دنبال خرید ارزون‌تر و نگهداری بلندمدتی، بهار آزادی یا قبل ۸۶ هم خوبه؛ چون مقدار طلاشون یکیه!\n حالا کدومو بخریم ؟ \nبرای فروش راحت‌تر امامی، برای خرید اقتصادی‌تر بهار آزادی\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25760",
+      "analysis_score": 16,
+      "market_matches": [
+        "طلا",
+        "سکه",
+        "ارز"
+      ],
+      "analysis_matches": [
+        "خرید",
+        "فروش"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 285,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-26T13:48:26.945727+03:30"
+    },
+    "content_signature": "040ba166b71364f4b0af83f8d042ce5dfc2c98f23e319feeeb296182cac2a290",
+    "first_seen_at": "2026-10-26T13:48:40.455763+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1436
+    ],
+    "telegram_last_success_at": "2026-10-26T13:48:40.987766+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-26T13:48:41.004111+03:30",
+    "telegram_message_id": 1436,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178396329
+    ],
+    "eitaa_last_success_at": "2026-10-26T13:48:42.553713+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-26T13:48:42.568867+03:30",
+    "eitaa_message_id": 178396329,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1174
+    ],
+    "group_last_success_at": "2026-10-26T13:48:43.235355+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-26T13:48:43.250206+03:30",
+    "group_message_id": 1174,
+    "published_at": "2026-10-26T13:48:43.264095+03:30"
   }
 }
