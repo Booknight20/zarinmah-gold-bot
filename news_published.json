@@ -13214,5 +13214,29 @@
     "group_message_id": 1241,
     "fully_published": true,
     "last_checked_at": "2026-10-26T19:42:23.013632+00:00"
+  },
+  "cafadbfe5bd88ac22dbbf47dbbd27e79c7cc40eb145746e51ea594bc94be1524": {
+    "title": "گمانه زنی درباره پیشنهاد وزیر دفاع عربستان به تهران",
+    "source": "تابناک",
+    "link": "https://example.com/fa/news/30007946/%DA%AF%D9%85%D8%A7%D9%86%D9%87-%D8%B2%D9%86%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF-%D9%88%D8%B2%DB%8C%D8%B1-%D8%AF%D9%81%D8%A7%D8%B9-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1502
+    ],
+    "eitaa_message_ids": [
+      178487840
+    ],
+    "group_message_ids": [
+      1242
+    ],
+    "content_hash": "e2383177dec301f5e34393c5652236c4b6d225606b5732097d93acd1c70c71dd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T20:17:53.538827+00:00",
+    "telegram_message_id": 1502,
+    "eitaa_last_sent_at": "2026-10-26T20:17:55.298252+00:00",
+    "eitaa_message_id": 178487840,
+    "group_last_sent_at": "2026-10-26T20:17:57.017878+00:00",
+    "group_message_id": 1242,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T20:17:57.038315+00:00"
   }
 }
