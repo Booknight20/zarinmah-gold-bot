@@ -171,86 +171,6 @@
     "ranking_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "شجاعت عمل در سیاستگذاری ارزی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4304158-%D8%B4%D8%AC%D8%A7%D8%B9%D8%AA-%D8%B9%D9%85%D9%84-%D8%AF%D8%B1-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C",
-    "summary": "دنیای اقتصاد:بن برنانکی، رئیس فدرال رزرو در سال های 2006 تا 2014، کتاب اتوبیوگرافی خود را «شجاعت عمل» نام گذاشت. در این کتاب برنانکی لحظه و جسارت تصمیم گیری سیاستگذار (بانک مرکزی) در مواجهه با شرایط اضطرار را شجاعت عمل نامید که به معنای اتخاذ مناسب ترین راه حل در دسترس در کوتاه ترین زمان ممکن در رویارویی با پدیده های منفی اقتصاد کلان است. از اوایل شهریورماه سال جاری، به واسطه شرایط خاص بیرونی حاکم بر کشور از جمله جنگ، تشدید تحریم های خصمانه و محاصره اقتصادی، نرخ ارز در بازار غیررسمی با نوسانات قابل توجهی همراه شد و در شرایطی که نرخ دلار غیررسمی در فصل بهار در کانال قیمتی 180-150هزار تومان و در دو ماه ابتدایی تابستان در دامنه قیمتی 190-170 هزار تومان نوسان داشت، از اوایل شهریورماه با گذر از مقاومت قیمتی 200هزار تومان، در روندی شتابان به حدود 270هزار تومان نزدیک شد.",
-    "published": "Sun, 25 Oct 2026 20:30:00 +0000",
-    "collected_at": "2026-10-26T00:17:27.364367+03:30",
-    "filter_market_score": 32,
-    "market_score": 40,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "دلار",
-        "نرخ دلار",
-        "نرخ ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "نرخ دلار",
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی",
-      "فدرال رزرو",
-      "تحریم"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "نوسان",
-      "قیمت",
-      "نرخ",
-      "تصمیم",
-      "مقاومت",
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز",
-      "دلار",
-      "نرخ دلار",
-      "نرخ ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "فدرال رزرو",
-      "بانک مرکزی",
-      "جنگ"
-    ],
-    "medium_impact_matches": [
-      "تحریم"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "فروش دلار سهمیه ای چقدر ضرب بازار ارز را گرفت؟",
     "link": "https://www.isna.ir/news/1405080402247/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%D9%87%D9%85%DB%8C%D9%87-%D8%A7%DB%8C-%DA%86%D9%82%D8%AF%D8%B1-%D8%B6%D8%B1%D8%A8-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%B1%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA",
@@ -3522,59 +3442,6 @@
     "ranking_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "توضیحات بانک مرکزی درباره مطالبات ارزی واردکنندگان کالاهای اساسی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304219-%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%DA%A9%D8%A7%D9%84%D8%A7%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C",
-    "summary": "بانک مرکزی ابراز امیدواری کرد با اهتمام دولت و همکاری دستگاه های ذی ربط، تأمین منابع ارزی مورد نیاز برای پرداخت مطالبات ارزی واردکنندگان کالاهای اساسی فراهم شود.",
-    "published": "Sun, 25 Oct 2026 20:24:26 +0000",
-    "collected_at": "2026-10-26T00:17:27.364179+03:30",
-    "filter_market_score": 12,
-    "market_score": 18,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "این عتیقه ۳۴ میلیون دلار می ارزد",
     "link": "https://www.isna.ir/news/1405080402011/%D8%A7%DB%8C%D9%86-%D8%B9%D8%AA%DB%8C%D9%82%D9%87-%DB%B3%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%D8%AF",
@@ -3941,61 +3808,6 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "رکود در دروازه های شرق؛ ارزش صادرات خراسان رضوی ۲۶ درصد افت کرد",
-    "link": "https://www.mehrnews.com/news/6988654/%D8%B1%DA%A9%D9%88%D8%AF-%D8%AF%D8%B1-%D8%AF%D8%B1%D9%88%D8%A7%D8%B2%D9%87-%D9%87%D8%A7%DB%8C-%D8%B4%D8%B1%D9%82-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%DB%B2%DB%B6-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF",
-    "summary": "مشهد- ثبت افت ۲۶ درصدی ارزش صادرات خراسان رضوی در نیمه نخست سال، زنگ خطری جدی برای تداوم رکود تجاری، کاهش درآمدهای ارزی و از دست رفتن بازارهای هدف در شرق کشور به صدا درآورد.",
-    "published": "Sun, 25 Oct 2026 20:29:00 GMT",
-    "collected_at": "2026-10-26T00:17:20.191540+03:30",
-    "filter_market_score": 12,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "رکود",
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افت",
-      "کاهش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "رکود",
-      "صادرات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -5060,54 +4872,6 @@
     "summary": "ورزشکاران ملایری در مسابقات قهرمانی گراپلینگ کیک بوکسینگ کشور با کسب دو مدال طلا و یک مدال برنز، در دو رده سنی نونهالان و نوجوانان خوش درخشیدند.",
     "published": "Mon, 26 Oct 2026 05:02:46 GMT",
     "collected_at": "2026-10-26T08:44:21.686299+03:30",
-    "filter_market_score": 10,
-    "market_score": 14,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "کار بزرگ مصباحی روی رینگ جهانی، یک قدم تا اولین طلای بوکس جوانان",
-    "link": "https://www.mehrnews.com/news/6989793/%DA%A9%D8%A7%D8%B1-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%85%D8%B5%D8%A8%D8%A7%D8%AD%DB%8C-%D8%B1%D9%88%DB%8C-%D8%B1%DB%8C%D9%86%DA%AF-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%DB%8C%DA%A9-%D9%82%D8%AF%D9%85-%D8%AA%D8%A7-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A8%D9%88%DA%A9%D8%B3-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86",
-    "summary": "محمدصالح مصباحی با شکست نماینده انگلیس به فینال مسابقات جهانی بوکس جوانان راه یافت و حالا برای کسب نخستین طلای تاریخ بوکس ایران در رقابت های جهانی به مصاف نماینده ازبکستان می رود.",
-    "published": "Sun, 25 Oct 2026 20:30:40 GMT",
-    "collected_at": "2026-10-26T00:17:20.191526+03:30",
     "filter_market_score": 10,
     "market_score": 14,
     "market_matches": {
