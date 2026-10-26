@@ -11702,5 +11702,29 @@
     "group_message_id": 1136,
     "fully_published": true,
     "last_checked_at": "2026-10-26T06:38:24.778301+00:00"
+  },
+  "2023985302852c3d7714f2e92bfccc191282857687464a2f76dbd93ccabf55ba": {
+    "title": "شاخص کل بورس ۸ میلیون و ۱۰۵ هزار واحد رسید/ ۲۰۰ میلیارد تومان نقدینگی وارد بازار سهام شد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293259/%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B1%DB%B0%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF-%DB%B2%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1400
+    ],
+    "eitaa_message_ids": [
+      178360600
+    ],
+    "group_message_ids": [
+      1138
+    ],
+    "content_hash": "66edb4c5f5ceda57aed04a33e226a3b396e592e95b841ee819e84566623c2ed9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T07:18:35.660179+00:00",
+    "telegram_message_id": 1400,
+    "eitaa_last_sent_at": "2026-10-26T07:18:36.780558+00:00",
+    "eitaa_message_id": 178360600,
+    "group_last_sent_at": "2026-10-26T07:18:39.807859+00:00",
+    "group_message_id": 1138,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T07:18:39.827147+00:00"
   }
 }
