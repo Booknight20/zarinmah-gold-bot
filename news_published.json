@@ -13142,5 +13142,53 @@
     "group_message_id": 1238,
     "fully_published": true,
     "last_checked_at": "2026-10-26T18:47:51.114459+00:00"
+  },
+  "74b1554ef8f4136b9a72bf26229dc4c9a390022e24302e27d235b656d2b25d6d": {
+    "title": "جهش دوباره بهای نفت/ نفت برنت از ۱۱۷ دلار عبور کرد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304450-%D8%AC%D9%87%D8%B4-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D9%87%D8%A7%DB%8C-%D9%86%D9%81%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1499
+    ],
+    "eitaa_message_ids": [
+      178480184
+    ],
+    "group_message_ids": [
+      1239
+    ],
+    "content_hash": "52e6acd24fb6c32df6cb25068f0fe8ee5e903686de0af85b7bca4dfe7c4c9632",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T19:18:04.238544+00:00",
+    "telegram_message_id": 1499,
+    "eitaa_last_sent_at": "2026-10-26T19:18:05.561152+00:00",
+    "eitaa_message_id": 178480184,
+    "group_last_sent_at": "2026-10-26T19:18:07.204804+00:00",
+    "group_message_id": 1239,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T19:18:07.226221+00:00"
+  },
+  "e23f5ab5974ce51b8baff640dc169308069d60c0d16a4e0b05ae04fe3f77f65b": {
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۴ آبان ۱۴۰۵ در زمان بسته شدن بازار/ دلار روی قیمت ۲۷۱ هزار و ۵۰۰ تومان ایستاد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293596/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
+    "telegram_message_ids": [
+      1500
+    ],
+    "eitaa_message_ids": [
+      178480196
+    ],
+    "group_message_ids": [
+      1240
+    ],
+    "content_hash": "4e6c82ec54aee8ed3eea7656a08eb2f8de522952641440d79ec32c235ec60a7e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T19:18:08.886604+00:00",
+    "telegram_message_id": 1500,
+    "eitaa_last_sent_at": "2026-10-26T19:18:10.247422+00:00",
+    "eitaa_message_id": 178480196,
+    "group_last_sent_at": "2026-10-26T19:18:11.934227+00:00",
+    "group_message_id": 1240,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T19:18:11.955706+00:00"
   }
 }
