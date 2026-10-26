@@ -14110,5 +14110,140 @@
     "group_sent_at": "2026-10-26T17:17:51.673964+03:30",
     "group_message_id": 1201,
     "published_at": "2026-10-26T17:17:51.695963+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25771": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "نکته مهم این هست که در این نشست تمام سطوح مقامات کشور هستند ، پزشکیان ، عراقچی ، محسن رضایی جالبه قیمت نفت هنوز واکنش...",
+      "summary": "نکته مهم این هست که در این نشست تمام سطوح مقامات کشور هستند ، پزشکیان ، عراقچی ، محسن رضایی جالبه قیمت نفت هنوز واکنشی نشون نداده و تا ۱۱۶ دلار هم رشد کرده. @payamelyaskordi ✅",
+      "full_text": "نکته مهم این هست که در این نشست تمام سطوح مقامات کشور هستند ، پزشکیان ، عراقچی ، محسن رضایی جالبه قیمت نفت هنوز واکنشی نشون نداده و تا ۱۱۶ دلار هم رشد کرده. @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25771",
+      "analysis_score": 15,
+      "market_matches": [
+        "دلار",
+        "قیمت نفت",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "رشد",
+        "قیمت"
+      ],
+      "market_groups": [
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 175,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-26T19:18:21.374078+03:30"
+    },
+    "content_signature": "43859300595f6b15f1eda0ff0f9312da0d012c3b4663b16098d28e33efbe3c14",
+    "first_seen_at": "2026-10-26T19:18:35.207534+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1484
+    ],
+    "telegram_last_success_at": "2026-10-26T19:18:35.824085+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-26T19:18:35.840727+03:30",
+    "telegram_message_id": 1484,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178451298
+    ],
+    "eitaa_last_success_at": "2026-10-26T19:18:36.688477+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-26T19:18:36.704277+03:30",
+    "eitaa_message_id": 178451298,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1222
+    ],
+    "group_last_success_at": "2026-10-26T19:18:37.272257+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-26T19:18:37.287785+03:30",
+    "group_message_id": 1222,
+    "published_at": "2026-10-26T19:18:37.302781+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8726": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "الان با پولت چه کار کنی؟",
+      "summary": "الان با پولت چه کار کنی؟\nطلا، دلار، بورس یا ترکیبی از این‌ها؟\n\n خیلی فرصت ها وجود داره که شما حتی از وجودش اطلاع نداری \n\nجواب از شرایط تو شروع می‌شه؛\nاینکه چقدر سرمایه داری و چقدر ریسک رو می‌پذیری.\n\n شماره‌ت رو بذار تا تیم آرم اینوست باهات تماس بگیره و برای شروع راهنمایی‌ت کنه. \n\n https://B2n.ir/dk8713 \n\nبعدش تصمیم نهایی با خودته ❤️",
+      "full_text": "الان با پولت چه کار کنی؟\nطلا، دلار، بورس یا ترکیبی از این‌ها؟\n\n خیلی فرصت ها وجود داره که شما حتی از وجودش اطلاع نداری \n\nجواب از شرایط تو شروع می‌شه؛\nاینکه چقدر سرمایه داری و چقدر ریسک رو می‌پذیری.\n\n شماره‌ت رو بذار تا تیم آرم اینوست باهات تماس بگیره و برای شروع راهنمایی‌ت کنه. \n\n https://B2n.ir/dk8713 \n\nبعدش تصمیم نهایی با خودته ❤️",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8726",
+      "analysis_score": 14,
+      "market_matches": [
+        "طلا",
+        "دلار",
+        "بورس"
+      ],
+      "analysis_matches": [
+        "ریسک"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 334,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-26T19:18:23.325534+03:30"
+    },
+    "content_signature": "1a77bb3ef7650c6f871eb48d213f682d05bf42da0c68be7d6863cfc5d54b78d3",
+    "first_seen_at": "2026-10-26T19:18:37.318648+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1485
+    ],
+    "telegram_last_success_at": "2026-10-26T19:18:37.880318+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-26T19:18:37.895906+03:30",
+    "telegram_message_id": 1485,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178451301
+    ],
+    "eitaa_last_success_at": "2026-10-26T19:18:38.721219+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-26T19:18:38.737026+03:30",
+    "eitaa_message_id": 178451301,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1223
+    ],
+    "group_last_success_at": "2026-10-26T19:18:39.302985+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-26T19:18:39.318975+03:30",
+    "group_message_id": 1223,
+    "published_at": "2026-10-26T19:18:39.334842+03:30"
   }
 }

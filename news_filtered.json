@@ -959,6 +959,66 @@
     "filter_applied": true
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "رشد شاخص کل در بازاری پرابهام؛ آربیتراژ طلا چطور کار می کند؟ +فیلم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304330-%D8%B1%D8%B4%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%DB%8C-%D9%BE%D8%B1%D8%A7%D8%A8%D9%87%D8%A7%D9%85-%D8%A2%D8%B1%D8%A8%DB%8C%D8%AA%D8%B1%D8%A7%DA%98-%D8%B7%D9%84%D8%A7-%DA%86%D8%B7%D9%88%D8%B1-%DA%A9%D8%A7%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "در این برنامه، ضمن بررسی نقشه بازار، به بررسی مفهوم آربیتراژ پرداختیم و با تمرکز بر گواهی سپرده شمش طلا و طلای فیزیکی، نحوه محاسبه ارزش مبنای طلا بر اساس قیمت جهانی اونس و نرخ دلار را توضیح دادیم.",
+    "published": "Mon, 26 Oct 2026 15:37:09 +0000",
+    "collected_at": "2026-10-26T19:17:48.958750+03:30",
+    "filter_market_score": 27,
+    "market_score": 27,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ],
+      "stock": [
+        "شاخص کل"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "stock": [
+        "شاخص کل"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ],
+      "stock": [
+        "شاخص کل"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد",
+      "قیمت",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۴ آبان ۱۴۰۵/ دلار به قیمت ۲۷۰ هزار و ۷۱۰ تومان رسید + جدول",
     "link": "https://www.khabaronline.ir/news/2293305/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87",
@@ -2835,6 +2895,43 @@
     "filter_applied": true
   },
   {
+    "source": "مهر",
+    "title": "فروش طلای تخفیفی و قسطی به بازنشستگان تأمین اجتماعی",
+    "link": "https://www.mehrnews.com/news/6990752/%D9%81%D8%B1%D9%88%D8%B4-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D8%AE%D9%81%DB%8C%D9%81%DB%8C-%D9%88-%D9%82%D8%B3%D8%B7%DB%8C-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D9%86%D8%B4%D8%B3%D8%AA%DA%AF%D8%A7%D9%86-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C",
+    "summary": "سرپرست سازمان تأمین اجتماعی گفت: بازنشستگان به مرور در سرمایه گذاری کالاهای دارای ارزش ذاتی بالا سهیم خواهند شد. در این مسیر، طلا با تخفیف یا تقسیط عرضه می شود.",
+    "published": "Mon, 26 Oct 2026 15:34:00 GMT",
+    "collected_at": "2026-10-26T19:17:36.384712+03:30",
+    "filter_market_score": 11,
+    "market_score": 11,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "عرضه"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "دو مدال طلا و نقره سهم خراسان رضوی از مسابقات کشوری پاراسنگ نوردان",
     "link": "https://www.isna.ir/news/1405080402271/%D8%AF%D9%88-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%B3%D9%87%D9%85-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%A7%D8%B2-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1%DB%8C-%D9%BE%D8%A7%D8%B1%D8%A7%D8%B3%D9%86%DA%AF-%D9%86%D9%88%D8%B1%D8%AF%D8%A7%D9%86",
@@ -3443,41 +3540,6 @@
   },
   {
     "source": "مشرق",
-    "title": "غلامرضا فرخی با اقتدار قهرمان جهان شد/ دومین طلای پیاپی قهرمان شیرازی +فیلم",
-    "link": "https://www.mashreghnews.ir/news/1848073/%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7-%D9%81%D8%B1%D8%AE%DB%8C-%D8%A8%D8%A7-%D8%A7%D9%82%D8%AA%D8%AF%D8%A7%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D9%BE%DB%8C%D8%A7%D9%BE%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86",
-    "summary": "فرنگی کار وزن ۸۲ کیلوگرم ایران برای دومین سال متوالی به مدال طلای رقابت های جهانی قزاقستان دست یافت.",
-    "published": "Sun, 25 Oct 2026 14:34:41 GMT",
-    "collected_at": "2026-10-25T18:17:43.164856+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مشرق",
     "title": "قیمت نفت کاهش یافت",
     "link": "https://www.mashreghnews.ir/news/1848204/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
     "summary": "قیمت نفت با کاهش بیش از ۲ دلاری به ۱۱۴ دلار و۶۰ سنت رسید.",
@@ -3549,41 +3611,6 @@
     "filter_applied": true
   },
   {
-    "source": "مهر",
-    "title": "چراغ طلا را غلامرضا فرخی روشن کرد؛ نخستین مدال طلای تیم فرنگی ایران",
-    "link": "https://www.mehrnews.com/news/6989157/%DA%86%D8%B1%D8%A7%D8%BA-%D8%B7%D9%84%D8%A7-%D8%B1%D8%A7-%D8%BA%D9%84%D8%A7%D9%85%D8%B1%D8%B6%D8%A7-%D9%81%D8%B1%D8%AE%DB%8C-%D8%B1%D9%88%D8%B4%D9%86-%DA%A9%D8%B1%D8%AF-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%DB%8C%D9%85-%D9%81%D8%B1%D9%86%DA%AF%DB%8C",
-    "summary": "غلامرضا فرخی کشتی گیر وزن ۸۲ کیلوگرم با شکست حریف ترکیه ای خود به مدال طلای مسابقات جهانی رسید.",
-    "published": "Sun, 25 Oct 2026 14:29:10 GMT",
-    "collected_at": "2026-10-25T18:17:21.100644+03:30",
-    "filter_market_score": 9,
-    "market_score": 9,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "حقوق ورودی خودرو وارداتی حداقل ۱۰۰ درصد تعیین شد",
     "link": "https://www.isna.ir/news/1405080402430/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B1%DB%B0%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AD%D9%82%D9%88%D9%82-%D9%88%D8%B1%D9%88%D8%AF%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A2%D8%B2%D8%A7%D8%AF",
@@ -3614,41 +3641,6 @@
     "major_event_matches": [],
     "signal_matches": [
       "واردات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "۴۱ درصد صادرات زمینی ایران به عراق از کرمانشاه انجام می شود",
-    "link": "https://www.mehrnews.com/news/6989604/%DB%B4%DB%B1-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B2%D9%85%DB%8C%D9%86%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D8%B2-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
-    "summary": "کرمانشاه - سرپرست معاونت توسعه گمرک کرمانشاه از ثبت بیش از ۲ میلیارد دلار فعالیت تجاری در استان طی نیمه نخست امسال خبر داد.",
-    "published": "Sun, 25 Oct 2026 15:16:17 GMT",
-    "collected_at": "2026-10-25T18:47:54.401336+03:30",
-    "filter_market_score": 7,
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صادرات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -4246,37 +4238,6 @@
     "full_text_market_matches": {
       "currency": [
         "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "چهار مدال برای چهار وزن کشتی فرنگی ایران؛ طلایی که «مفت» از دست رفت!",
-    "link": "https://www.mehrnews.com/news/6989548/%DA%86%D9%87%D8%A7%D8%B1-%D9%85%D8%AF%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D9%88%D8%B2%D9%86-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D9%85%D9%81%D8%AA-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA",
-    "summary": "فرنگی کاران ایران در دومین روز رقابت های جهانی آستانه با کسب یک طلا، دو نقره و یک برنز عملکرد قاقبل قولی داشتند اما تنها غلامرضا فرخی توانست در این چهار وزن به مدال طلا دست پیدا کند.",
-    "published": "Sun, 25 Oct 2026 15:03:01 GMT",
-    "collected_at": "2026-10-25T18:34:19.196059+03:30",
-    "filter_market_score": 4,
-    "market_score": 4,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
       ]
     },
     "driver_matches": [],

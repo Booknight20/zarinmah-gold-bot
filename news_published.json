@@ -12902,5 +12902,53 @@
     "group_message_id": 1219,
     "fully_published": true,
     "last_checked_at": "2026-10-26T15:18:38.587500+00:00"
+  },
+  "849dc7bd8f4bbff007a69e76aa91f359bf77e079b31f9a4c629523352ec32969": {
+    "title": "فروش طلای تخفیفی و قسطی به بازنشستگان تأمین اجتماعی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6990752/%D9%81%D8%B1%D9%88%D8%B4-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D8%AE%D9%81%DB%8C%D9%81%DB%8C-%D9%88-%D9%82%D8%B3%D8%B7%DB%8C-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D9%86%D8%B4%D8%B3%D8%AA%DA%AF%D8%A7%D9%86-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C",
+    "telegram_message_ids": [
+      1482
+    ],
+    "eitaa_message_ids": [
+      178451256
+    ],
+    "group_message_ids": [
+      1220
+    ],
+    "content_hash": "1f8cc2aa7d0e02a7b2ad61d75876262f95804731d3f75319e5c70726ee88eb3f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T15:48:26.144409+00:00",
+    "telegram_message_id": 1482,
+    "eitaa_last_sent_at": "2026-10-26T15:48:27.804793+00:00",
+    "eitaa_message_id": 178451256,
+    "group_last_sent_at": "2026-10-26T15:48:29.606045+00:00",
+    "group_message_id": 1220,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T15:48:29.628095+00:00"
+  },
+  "c7933a6fbcdb13dc37b7925a6141bd33aff1f12280bab574c3aebe97b2abc1e6": {
+    "title": "رشد شاخص کل در بازاری پرابهام؛ آربیتراژ طلا چطور کار می کند؟ +فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304330-%D8%B1%D8%B4%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%DB%8C-%D9%BE%D8%B1%D8%A7%D8%A8%D9%87%D8%A7%D9%85-%D8%A2%D8%B1%D8%A8%DB%8C%D8%AA%D8%B1%D8%A7%DA%98-%D8%B7%D9%84%D8%A7-%DA%86%D8%B7%D9%88%D8%B1-%DA%A9%D8%A7%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      1483
+    ],
+    "eitaa_message_ids": [
+      178451288
+    ],
+    "group_message_ids": [
+      1221
+    ],
+    "content_hash": "2d08689dc5fa1d7779960c39522590d6b5ed9d5f1f8affac40da486a9b674ba5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T15:48:31.564638+00:00",
+    "telegram_message_id": 1483,
+    "eitaa_last_sent_at": "2026-10-26T15:48:33.194334+00:00",
+    "eitaa_message_id": 178451288,
+    "group_last_sent_at": "2026-10-26T15:48:34.982533+00:00",
+    "group_message_id": 1221,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T15:48:35.004347+00:00"
   }
 }
