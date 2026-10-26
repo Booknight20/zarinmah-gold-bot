@@ -12518,5 +12518,53 @@
     "group_message_id": 1191,
     "fully_published": true,
     "last_checked_at": "2026-10-26T12:18:43.782486+00:00"
+  },
+  "396103bcb4ef6e867c4c268553e4802a6fa2c2458badda3192e741fbd5b19714": {
+    "title": "تصویب ۴ طرح تولید بار اول فناورانه به ارزش سه میلیون دلار",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6990575/%D8%AA%D8%B5%D9%88%DB%8C%D8%A8-%DA%86%D9%87%D8%A7%D8%B1-%D8%B7%D8%B1%D8%AD-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A8%D8%A7%D8%B1-%D8%A7%D9%88%D9%84-%D9%81%D9%86%D8%A7%D9%88%D8%B1%D8%A7%D9%86%D9%87-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%B3%D9%87-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1455
+    ],
+    "eitaa_message_ids": [
+      178420035
+    ],
+    "group_message_ids": [
+      1193
+    ],
+    "content_hash": "d9bd0f1521a303e9f61a3fe8d6e5086cf9bcda2736ddc933f11f7331c6b1912a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T12:46:32.533290+00:00",
+    "telegram_message_id": 1455,
+    "eitaa_last_sent_at": "2026-10-26T12:46:33.784140+00:00",
+    "eitaa_message_id": 178420035,
+    "group_last_sent_at": "2026-10-26T12:46:35.471117+00:00",
+    "group_message_id": 1193,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T12:46:35.486554+00:00"
+  },
+  "cbbf675c5178c127932c7ab5013cf6023cf9d0f7c64bb3e2bad96394f73dfa67": {
+    "title": "مهمدی با اقتدار فینالیست شد؛ یک گام تا طلا",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848308/%D9%85%D9%87%D9%85%D8%AF%DB%8C-%D8%A8%D8%A7-%D8%A7%D9%82%D8%AA%D8%AF%D8%A7%D8%B1-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%B4%D8%AF-%DB%8C%DA%A9-%DA%AF%D8%A7%D9%85-%D8%AA%D8%A7-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1456
+    ],
+    "eitaa_message_ids": [
+      178420042
+    ],
+    "group_message_ids": [
+      1194
+    ],
+    "content_hash": "b97cfe7218b373fa503fc8325938fcde492e43e8a6b75a2f7f1abec8e906fd70",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T12:46:37.120868+00:00",
+    "telegram_message_id": 1456,
+    "eitaa_last_sent_at": "2026-10-26T12:46:38.386046+00:00",
+    "eitaa_message_id": 178420042,
+    "group_last_sent_at": "2026-10-26T12:46:40.006432+00:00",
+    "group_message_id": 1194,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T12:46:40.021687+00:00"
   }
 }

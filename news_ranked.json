@@ -1665,70 +1665,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "احتیاط بورس در مرز ۸میلیونی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304102-%D8%A7%D8%AD%D8%AA%DB%8C%D8%A7%D8%B7-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C",
-    "summary": "دنیای اقتصاد: بازار سهام در دومین روز هفته، تحت تاثیر بازگشایی نمادهای پالایشی و ریسک¬های سیاسی روزی پرنوسان را پشت سر گذاشت. در حالی که شاخص کل بورس معاملات امروز را در محدوده منفی آغاز کرد، در ادامه بخشی از افت خود را جبران کرد، اما در نهایت با کاهش ۰.۳۶ درصدی نسبت به روز گذشته به کار خود پایان داد.",
-    "published": "Sun, 25 Oct 2026 11:48:29 +0000",
-    "collected_at": "2026-10-25T15:27:53.662312+03:30",
-    "filter_market_score": 26,
-    "market_score": 26,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "سهام",
-        "بازار سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "سهام",
-        "بازار سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "افت",
-      "معاملات",
-      "بازگشایی"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "سهام",
-      "بازار سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "قیمت دلار، یورو و درهم امروز دوشنبه ۴ آبان ۱۴۰۵/ افزایش قیمت دلار",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304272-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
     "summary": "قیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته، از 185,305 (یکصد و هشتاد و پنج هزار و سیصد و پنج) تومان به 185,676 (یکصد و هشتاد و پنج هزار و ششصد و هفتاد و شش) تومان رسید.",
@@ -3582,6 +3518,58 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "تصویب ۴ طرح تولید بار اول فناورانه به ارزش سه میلیون دلار",
+    "link": "https://www.mehrnews.com/news/6990575/%D8%AA%D8%B5%D9%88%DB%8C%D8%A8-%DA%86%D9%87%D8%A7%D8%B1-%D8%B7%D8%B1%D8%AD-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A8%D8%A7%D8%B1-%D8%A7%D9%88%D9%84-%D9%81%D9%86%D8%A7%D9%88%D8%B1%D8%A7%D9%86%D9%87-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%B3%D9%87-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1",
+    "summary": "دبیر کارگروه تولید بار اول از تصویب چهار طرح فناورانه به ارزش مجموع سه میلیون دلار در پنجاه وهشتمین جلسه این کارگروه خبر داد.",
+    "published": "Mon, 26 Oct 2026 12:31:09 GMT",
+    "collected_at": "2026-10-26T16:15:56.165650+03:30",
+    "filter_market_score": 12,
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "تصویب"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مشرق",
     "title": "هنوز قیمت حج سال آینده مشخص نیست",
     "link": "https://www.mashreghnews.ir/news/1848295/%D9%87%D9%86%D9%88%D8%B2-%D9%82%DB%8C%D9%85%D8%AA-%D8%AD%D8%AC-%D8%B3%D8%A7%D9%84-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%85%D8%B4%D8%AE%D8%B5-%D9%86%DB%8C%D8%B3%D8%AA",
@@ -4711,55 +4699,6 @@
     "ranking_applied": true
   },
   {
-    "source": "مهر",
-    "title": "نامه ۱۰ تشکل صنایع غذایی به بانک مرکزی؛ هشدار درباره امنیت غذایی",
-    "link": "https://www.mehrnews.com/news/6989402/%D9%86%D8%A7%D9%85%D9%87-%DB%B1%DB%B0-%D8%AA%D8%B4%DA%A9%D9%84-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C",
-    "summary": "۱۰ تشکل صنایع غذایی در نامه ای به بانک مرکزی، خواستار اجرای دستور رئیس جمهور مبنی بر پرداخت ۵۰ درصد مطالبات ارزی واردکنندگان کالاهای اساسی شدند.",
-    "published": "Sun, 25 Oct 2026 11:49:10 GMT",
-    "collected_at": "2026-10-25T15:27:48.217843+03:30",
-    "filter_market_score": 6,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "از جدال اوباما و ترامپ بر سر ایران تا توقف واردات خودرو با فرمان ارزی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4303813-%D8%A7%D8%B2-%D8%AC%D8%AF%D8%A7%D9%84-%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1-%D8%B3%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%AA%D9%88%D9%82%D9%81-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D9%81%D8%B1%D9%85%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2%DB%8C",
@@ -5308,6 +5247,95 @@
     "ranking_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "مهمدی با اقتدار فینالیست شد؛ یک گام تا طلا",
+    "link": "https://www.mashreghnews.ir/news/1848308/%D9%85%D9%87%D9%85%D8%AF%DB%8C-%D8%A8%D8%A7-%D8%A7%D9%82%D8%AA%D8%AF%D8%A7%D8%B1-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%B4%D8%AF-%DB%8C%DA%A9-%DA%AF%D8%A7%D9%85-%D8%AA%D8%A7-%D8%B7%D9%84%D8%A7",
+    "summary": "ملی پوش کشتی فرنگی ایران با برتری در دیدار نیمه نهایی کشتی فرنگی قهرمانی جهان، فینالیست شد.",
+    "published": "Mon, 26 Oct 2026 12:29:00 GMT",
+    "collected_at": "2026-10-26T16:16:12.312876+03:30",
+    "filter_market_score": 5,
+    "market_score": 9,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "مقام نظامی یمن: شرکت آرامکو و سرمایه گذاری در آن امن نیست",
+    "link": "https://www.mehrnews.com/news/6990596/%D9%85%D9%82%D8%A7%D9%85-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%DB%8C%D9%85%D9%86-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A2%D8%B1%D8%A7%D9%85%DA%A9%D9%88-%D9%88-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A2%D9%86-%D8%A7%D9%85%D9%86-%D9%86%DB%8C%D8%B3%D8%AA",
+    "summary": "یک مقام نظامی یمنی به همه سرمایه گذاران در شرکت آرامکوی عربستان هشدار داد که پیش از اتخاذ هر نوع تصمیمی، شاخص های مالی و ارزش سهام این شرکت را بررسی کنند چرا که امنیت ندارد.",
+    "published": "Mon, 26 Oct 2026 12:41:11 GMT",
+    "collected_at": "2026-10-26T16:15:56.165607+03:30",
+    "filter_market_score": 5,
+    "market_score": 8,
+    "market_matches": {
+      "stock": [
+        "سهام"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "stock": [
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "تصمیم"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 5,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "پاداش۷۰۰ میلیونی برای طلایی های ورزش تهران در بازی های ناگویا",
     "link": "https://www.isna.ir/news/1405080402360/%D9%BE%D8%A7%D8%AF%D8%A7%D8%B4%DB%B7%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7",
@@ -5516,50 +5544,6 @@
     "stock_matches": [
       "سهام"
     ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "کسب ۷ مدال توسط موی تای کاران فارس در مسابقات کشوری",
-    "link": "https://www.isna.ir/news/1405080301700/%DA%A9%D8%B3%D8%A8-%DB%B7-%D9%85%D8%AF%D8%A7%D9%84-%D8%AA%D9%88%D8%B3%D8%B7-%D9%85%D9%88%DB%8C-%D8%AA%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1%DB%8C",
-    "summary": "موی تای کاران جوان استان فارس در مسابقات قهرمانی کشور و انتخابی تیم ملی که در مجموعه ورزشی آزادی تهران برگزار شد، موفق به کسب ۲ مدال طلا و ۵ مدال برنز شدند.",
-    "published": "Sun, 25 Oct 2026 12:11:46 GMT",
-    "collected_at": "2026-10-25T15:47:21.435690+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
