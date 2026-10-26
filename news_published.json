@@ -12662,5 +12662,125 @@
     "group_message_id": 1200,
     "fully_published": true,
     "last_checked_at": "2026-10-26T13:47:48.781494+00:00"
+  },
+  "2f3affb590ec8cd274a58e0734f16085bf5fdda8c8146551c46ef845e1439fa6": {
+    "title": "سومین مدال طلای کشتی فرنگی بر گردن دانیال سهرابی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6989958/%D8%B3%D9%88%D9%85%DB%8C%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%A8%D8%B1-%DA%AF%D8%B1%D8%AF%D9%86-%D8%AF%D8%A7%D9%86%DB%8C%D8%A7%D9%84-%D8%B3%D9%87%D8%B1%D8%A7%D8%A8%DB%8C",
+    "telegram_message_ids": [
+      1471
+    ],
+    "eitaa_message_ids": [
+      178438573
+    ],
+    "group_message_ids": [
+      1209
+    ],
+    "content_hash": "309e6ffe18ca025e8c9a5c21a060074a0c7f6b00334616734e2988de815051f3",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T14:16:29.268144+00:00",
+    "telegram_message_id": 1471,
+    "eitaa_last_sent_at": "2026-10-26T14:16:30.620920+00:00",
+    "eitaa_message_id": 178438573,
+    "group_last_sent_at": "2026-10-26T14:16:32.265342+00:00",
+    "group_message_id": 1209,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T14:16:32.280906+00:00"
+  },
+  "c2ffce6b73418b1e726500f2c1cd662a7278c4d512935024c0c6be3587badf0f": {
+    "title": "دانیال سهرابی سومین طلای فرنگی را ضرب کرد",
+    "source": "تابناک",
+    "link": "https://example.com/fa/news/30007907/%D8%AF%D8%A7%D9%86%DB%8C%D8%A7%D9%84-%D8%B3%D9%87%D8%B1%D8%A7%D8%A8%DB%8C-%D8%B3%D9%88%D9%85%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%B1%D8%A7-%D8%B6%D8%B1%D8%A8-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1472
+    ],
+    "eitaa_message_ids": [
+      178438578
+    ],
+    "group_message_ids": [
+      1210
+    ],
+    "content_hash": "029d03ace50169d7bd267ca85a4c3e60b9d38b339e09d0426a0462bbe360d4f8",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T14:16:33.917506+00:00",
+    "telegram_message_id": 1472,
+    "eitaa_last_sent_at": "2026-10-26T14:16:35.114960+00:00",
+    "eitaa_message_id": 178438578,
+    "group_last_sent_at": "2026-10-26T14:16:36.895477+00:00",
+    "group_message_id": 1210,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T14:16:36.911031+00:00"
+  },
+  "52aa5daab6302a57f04cddd390da2274379ec6ad5b8596e3b09289a658449575": {
+    "title": "فردین هدایتی مدال طلا گرفت",
+    "source": "تابناک",
+    "link": "https://example.com/fa/news/30007905/%D9%81%D8%B1%D8%AF%DB%8C%D9%86-%D9%87%D8%AF%D8%A7%DB%8C%D8%AA%DB%8C-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA",
+    "telegram_message_ids": [
+      1473
+    ],
+    "eitaa_message_ids": [
+      178438596
+    ],
+    "group_message_ids": [
+      1211
+    ],
+    "content_hash": "855083782da5688bd8dde8b612bf7c88b75d5b3921047dfb6af8b3a20b286854",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T14:16:38.569480+00:00",
+    "telegram_message_id": 1473,
+    "eitaa_last_sent_at": "2026-10-26T14:16:39.842562+00:00",
+    "eitaa_message_id": 178438596,
+    "group_last_sent_at": "2026-10-26T14:16:41.590634+00:00",
+    "group_message_id": 1211,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T14:16:41.606209+00:00"
+  },
+  "73b37fa950b93171ec594e93f5b493f79684cb6d5f33794886ba7ffb5a815311": {
+    "title": "نفت به ۱۲۰ دلار می رسد!؛ بازار جهانی نفت در انتظار جنگ؟",
+    "source": "تابناک",
+    "link": "https://example.com/fa/news/30007903/%D9%86%D9%81%D8%AA-%D8%A8%D9%87-120-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B1%D8%B3%D8%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%AC%D9%86%DA%AF",
+    "telegram_message_ids": [
+      1474
+    ],
+    "eitaa_message_ids": [
+      178438598
+    ],
+    "group_message_ids": [
+      1212
+    ],
+    "content_hash": "ac01b184d91becc98d628309a9e3c59bcf1294834010c89c27d39372a4f3b23f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T14:16:43.320563+00:00",
+    "telegram_message_id": 1474,
+    "eitaa_last_sent_at": "2026-10-26T14:16:44.616770+00:00",
+    "eitaa_message_id": 178438598,
+    "group_last_sent_at": "2026-10-26T14:16:46.301326+00:00",
+    "group_message_id": 1212,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T14:16:46.316846+00:00"
+  },
+  "ad7b5d87e0b873c8196ceb953919fd735d83ac22eb52ac27af7089eb32c76081": {
+    "title": "سهرابی برنز سال پیش را با طلا جبران کرد +فیلم",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848347/%D8%B3%D9%87%D8%B1%D8%A7%D8%A8%DB%8C-%D8%A8%D8%B1%D9%86%D8%B2-%D8%B3%D8%A7%D9%84-%D9%BE%DB%8C%D8%B4-%D8%B1%D8%A7-%D8%A8%D8%A7-%D8%B7%D9%84%D8%A7-%D8%AC%D8%A8%D8%B1%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      1475
+    ],
+    "eitaa_message_ids": [
+      178438604
+    ],
+    "group_message_ids": [
+      1213
+    ],
+    "content_hash": "2ddc955e3d44ec9d2becdc6a0238e6b66d14e59ca28a5124be7bb9fbe27a4d48",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T14:16:47.969641+00:00",
+    "telegram_message_id": 1475,
+    "eitaa_last_sent_at": "2026-10-26T14:16:49.290839+00:00",
+    "eitaa_message_id": 178438604,
+    "group_last_sent_at": "2026-10-26T14:16:50.955860+00:00",
+    "group_message_id": 1213,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T14:16:50.971423+00:00"
   }
 }
