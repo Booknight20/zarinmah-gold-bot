@@ -13216,5 +13216,75 @@
     "group_sent_at": "2026-10-26T11:48:43.546648+03:30",
     "group_message_id": 1153,
     "published_at": "2026-10-26T11:48:43.560558+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25759": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "جدول حساسیت نقره |نقره هنوز جذابه؟",
+      "summary": "جدول حساسیت نقره |نقره هنوز جذابه؟ \nنقره ۹۹۹ بازار: حدود ۴۹۸ هزار تومان \n اونس نقره: ۵۴ دلار \nارزش ذاتی هر گرم نقره حدود ۴۶۸ هزار تومان درمیاد؛ یعنی نقره بازار تقریباً ۶ ٪ بالاتر از ارزش ذاتی معامله میشه.\n\nبا جدول حساسیت نقره خیلی ساده می‌بینید با تغییر دلار و نقره جهانی ، قیمت نقره باید چه عددی باشه؛ نقره سمت راست، دلار بالای جدول .\n\n @payamelyaskordi ✅",
+      "full_text": "جدول حساسیت نقره |نقره هنوز جذابه؟ \nنقره ۹۹۹ بازار: حدود ۴۹۸ هزار تومان \n اونس نقره: ۵۴ دلار \nارزش ذاتی هر گرم نقره حدود ۴۶۸ هزار تومان درمیاد؛ یعنی نقره بازار تقریباً ۶ ٪ بالاتر از ارزش ذاتی معامله میشه.\n\nبا جدول حساسیت نقره خیلی ساده می‌بینید با تغییر دلار و نقره جهانی ، قیمت نقره باید چه عددی باشه؛ نقره سمت راست، دلار بالای جدول .\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25759",
+      "analysis_score": 20,
+      "market_matches": [
+        "اونس",
+        "دلار",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "analysis_matches": [
+        "معامله",
+        "قیمت",
+        "ارزش ذاتی"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 356,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-26T12:18:12.632057+03:30"
+    },
+    "content_signature": "b532d05ad34aa0def49dd8645568b8d5d6df62d867e56e0ce34199c807e4357a",
+    "first_seen_at": "2026-10-26T12:18:27.446123+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1419
+    ],
+    "telegram_last_success_at": "2026-10-26T12:18:27.823350+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-26T12:18:27.838145+03:30",
+    "telegram_message_id": 1419,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178381156
+    ],
+    "eitaa_last_success_at": "2026-10-26T12:18:29.025023+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-26T12:18:29.039857+03:30",
+    "eitaa_message_id": 178381156,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1157
+    ],
+    "group_last_success_at": "2026-10-26T12:18:29.414156+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-26T12:18:29.428613+03:30",
+    "group_message_id": 1157,
+    "published_at": "2026-10-26T12:18:29.442410+03:30"
   }
 }
