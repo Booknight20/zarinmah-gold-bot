@@ -12566,5 +12566,29 @@
     "group_message_id": 1194,
     "fully_published": true,
     "last_checked_at": "2026-10-26T12:46:40.021687+00:00"
+  },
+  "eb5b3d47530261badc3f061b9050009735bc101a28db324bba7e262932a54ea1": {
+    "title": "بازگشت بورس بازان پس از 4 روز",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304306-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%A7%D8%B2%D8%A7%D9%86-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B1%D9%88%D8%B2",
+    "telegram_message_ids": [
+      1459
+    ],
+    "eitaa_message_ids": [
+      178424729
+    ],
+    "group_message_ids": [
+      1197
+    ],
+    "content_hash": "1a7c046b45766c9cec3a31c447b818088ca6055f1a2cd16a9ad4ace8f3c83445",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T13:16:35.900806+00:00",
+    "telegram_message_id": 1459,
+    "eitaa_last_sent_at": "2026-10-26T13:16:37.381397+00:00",
+    "eitaa_message_id": 178424729,
+    "group_last_sent_at": "2026-10-26T13:16:39.129379+00:00",
+    "group_message_id": 1197,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T13:16:39.144860+00:00"
   }
 }
