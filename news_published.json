@@ -11510,5 +11510,125 @@
     "group_message_id": 1125,
     "fully_published": true,
     "last_checked_at": "2026-10-26T05:48:14.302659+00:00"
+  },
+  "ecb1fc88badd7c00fe2a54f39410fb711073ffba03e049652e58aacec7dece35": {
+    "title": "این عتیقه ۳۴ میلیون دلار می ارزد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080402011/%D8%A7%DB%8C%D9%86-%D8%B9%D8%AA%DB%8C%D9%82%D9%87-%DB%B3%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%D8%AF",
+    "telegram_message_ids": [
+      1390
+    ],
+    "eitaa_message_ids": [
+      178349896
+    ],
+    "group_message_ids": [
+      1128
+    ],
+    "content_hash": "be0e4ef844fdc240e556862535c90f84a774163a17e0d2db0c50d059fbad523b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T06:16:30.055747+00:00",
+    "telegram_message_id": 1390,
+    "eitaa_last_sent_at": "2026-10-26T06:16:31.750892+00:00",
+    "eitaa_message_id": 178349896,
+    "group_last_sent_at": "2026-10-26T06:16:33.447908+00:00",
+    "group_message_id": 1128,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T06:16:33.462297+00:00"
+  },
+  "c69ae45f69b4b8adad8a2151db2cc740d8f55b5c477590a32c88d8ca5f0459bc": {
+    "title": "نوسان قیمت نفت و انرژی؛ نرخ نفت برنت به ۱۱۴.۸ دلار رسید",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6990030/%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D9%88-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D9%86%D8%B1%D8%AE-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%DB%B1%DB%B1%DB%B4-%DB%B8-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      1391
+    ],
+    "eitaa_message_ids": [
+      178349904
+    ],
+    "group_message_ids": [
+      1129
+    ],
+    "content_hash": "9454e9b837d49d4ecb5a2b6296834c41058f259076e3d3b1d1c601ab667a6d37",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T06:16:35.158029+00:00",
+    "telegram_message_id": 1391,
+    "eitaa_last_sent_at": "2026-10-26T06:16:36.813547+00:00",
+    "eitaa_message_id": 178349904,
+    "group_last_sent_at": "2026-10-26T06:16:38.545171+00:00",
+    "group_message_id": 1129,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T06:16:38.559171+00:00"
+  },
+  "7607f43f42fd3ed5c852f92fa58a9d701171ec076c1aa2128c1ae993031cfa28": {
+    "title": "پیش بینی قیمت طلا، سکه و دلار امروز دوشنبه ۴ آبان ۱۴۰۵/ دلار صعودی می شود؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304261-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "telegram_message_ids": [
+      1392
+    ],
+    "eitaa_message_ids": [
+      178349910
+    ],
+    "group_message_ids": [
+      1130
+    ],
+    "content_hash": "84fbb31577fe8231cebd8413b6242e37cbdd2b3bcde7f49a5dfba2f4487363f4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T06:16:40.315106+00:00",
+    "telegram_message_id": 1392,
+    "eitaa_last_sent_at": "2026-10-26T06:16:41.807631+00:00",
+    "eitaa_message_id": 178349910,
+    "group_last_sent_at": "2026-10-26T06:16:43.487750+00:00",
+    "group_message_id": 1130,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T06:16:43.501743+00:00"
+  },
+  "58ca1d1d3f34c75f88bc3849ac83f672149838574611ed35d49c19c908eb2db6": {
+    "title": "از جدال اوباما و ترامپ بر سر ایران تا توقف واردات خودرو با فرمان ارزی",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4303813-%D8%A7%D8%B2-%D8%AC%D8%AF%D8%A7%D9%84-%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1-%D8%B3%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%AA%D9%88%D9%82%D9%81-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D9%81%D8%B1%D9%85%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2%DB%8C",
+    "telegram_message_ids": [
+      1393
+    ],
+    "eitaa_message_ids": [
+      178349920
+    ],
+    "group_message_ids": [
+      1131
+    ],
+    "content_hash": "b05f01f2b0bc10e802a431a96f7f87cfdf07f28070a25176bcf5a699259f9f76",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T06:16:45.195430+00:00",
+    "telegram_message_id": 1393,
+    "eitaa_last_sent_at": "2026-10-26T06:16:46.624528+00:00",
+    "eitaa_message_id": 178349920,
+    "group_last_sent_at": "2026-10-26T06:16:48.309587+00:00",
+    "group_message_id": 1131,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T06:16:48.323670+00:00"
+  },
+  "dc734a4dbb2c35a9221e4be10e08af749806e13d7dd084699d3743cc80606e49": {
+    "title": "اونس طلا به ۴ هزار و ۱۴ دلار رسید/ قیمت طلا در بازار جهانی امروز ۴ آبان ۱۴۰۵",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293208/%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B1%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2",
+    "telegram_message_ids": [
+      1394
+    ],
+    "eitaa_message_ids": [
+      178349935
+    ],
+    "group_message_ids": [
+      1132
+    ],
+    "content_hash": "4ee53712c7d1ead50c62c204fe205e84369b62921c43cd20a570a88e73a94a80",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T06:16:50.109209+00:00",
+    "telegram_message_id": 1394,
+    "eitaa_last_sent_at": "2026-10-26T06:16:51.807696+00:00",
+    "eitaa_message_id": 178349935,
+    "group_last_sent_at": "2026-10-26T06:16:53.525645+00:00",
+    "group_message_id": 1132,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T06:16:53.539761+00:00"
   }
 }

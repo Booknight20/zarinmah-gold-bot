@@ -401,6 +401,76 @@
     "ranking_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "اونس طلا به ۴ هزار و ۱۴ دلار رسید/ قیمت طلا در بازار جهانی امروز ۴ آبان ۱۴۰۵",
+    "link": "https://www.khabaronline.ir/news/2293208/%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B1%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2",
+    "summary": "با رشد ۱۵.۶۰ دلاری در معاملات اخیر، قیمت هر اونس طلا به ۴,۰۱۴.۱۹ دلار رسید تا این فلز گرانبها بار دیگر وارد کانال ۴ هزار دلاری شود.",
+    "published": "Mon, 26 Oct 2026 05:57:59 GMT",
+    "collected_at": "2026-10-26T09:46:01.201859+03:30",
+    "filter_market_score": 30,
+    "market_score": 35,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "رشد",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "اونس طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مهر",
     "title": "عبور طلا از کانال ۴ هزار دلار؛ بهای هر اونس طلا به ۴۰۱۴ دلار رسید",
     "link": "https://www.mehrnews.com/news/6989994/%D8%B9%D8%A8%D9%88%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87%D8%A7%DB%8C-%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4%DB%B0%DB%B1%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1",
@@ -598,6 +668,75 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "پیش بینی قیمت طلا، سکه و دلار امروز دوشنبه ۴ آبان ۱۴۰۵/ دلار صعودی می شود؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304261-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "از نگاه تحلیلگران، محدوده ۲۶۹ هزار تا ۲۶۸ هزار تومان نخستین منطقه حمایتی دلار در معاملات دوشنبه محسوب می شود و از دست رفتن آن می تواند زمینه عقب نشینی قیمت تا محدوده ۲۶۶ هزار و ۵۰۰ تومان و سپس ۲۶۵ هزار تومان را فراهم کند.",
+    "published": "Mon, 26 Oct 2026 05:49:19 +0000",
+    "collected_at": "2026-10-26T09:45:58.549632+03:30",
+    "filter_market_score": 23,
+    "market_score": 32,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "صعود",
+      "پیش‌بینی",
+      "پیش بینی",
+      "قیمت",
+      "معاملات",
+      "حمایت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "سکه"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -1954,6 +2093,66 @@
   },
   {
     "source": "مهر",
+    "title": "نوسان قیمت نفت و انرژی؛ نرخ نفت برنت به ۱۱۴.۸ دلار رسید",
+    "link": "https://www.mehrnews.com/news/6990030/%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D9%88-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D9%86%D8%B1%D8%AE-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%DB%B1%DB%B1%DB%B4-%DB%B8-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "بازارهای جهانی انرژی با تغییرات قیمتی همراه شدند؛ به طوری که نفت برنت ۱۱۴.۸ دلار و گاز طبیعی ۲.۵۲۲ دلار قیمت خوردند.",
+    "published": "Mon, 26 Oct 2026 05:58:05 GMT",
+    "collected_at": "2026-10-26T09:45:49.226879+03:30",
+    "filter_market_score": 17,
+    "market_score": 23,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "نوسان",
+      "قیمت",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
     "title": "حراج شمش طلا سه شنبه ۵ آبان برگزار می شود",
     "link": "https://www.mehrnews.com/news/6989435/%D8%AD%D8%B1%D8%A7%D8%AC-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
     "summary": "مرکز مبادله ایران سه شنبه ۵ آبان ماه میزبان یکصد و پنجاه و نهمین حراج شمش طلا خواهد بود و متقاضیان خرید تا ساعت ۲۴ روز دوشنبه ۴ آبان ماه برای ثبت نام و واریز وجه الضمان فرصت دارند.",
@@ -3204,13 +3403,13 @@
   },
   {
     "source": "ایسنا",
-    "title": "آئودی با سرمایه گذاری ۴ میلیارد دلاری به آمریکا می رود",
-    "link": "https://www.isna.ir/news/1405080301221/%D8%A2%D8%A6%D9%88%D8%AF%DB%8C-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF",
-    "summary": "آئودی قصد دارد یک کارخانه مونتاژ ۴ میلیارد دلاری در جورجیا برای تولید سالانه ۲۰۰ هزار خودروی شاسی بلند احداث کند، زیرا او به دنبال متقاعد کردن آمریکایی ها برای حمایت از جمهوری خواهان در انتخابات میان دوره ای سوم نوامبر است.",
-    "published": "Sun, 25 Oct 2026 06:05:15 GMT",
-    "collected_at": "2026-10-25T09:47:15.483532+03:30",
-    "filter_market_score": 12,
-    "market_score": 17,
+    "title": "این عتیقه ۳۴ میلیون دلار می ارزد",
+    "link": "https://www.isna.ir/news/1405080402011/%D8%A7%DB%8C%D9%86-%D8%B9%D8%AA%DB%8C%D9%82%D9%87-%DB%B3%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%D8%AF",
+    "summary": "یک مجسمه مرمرین رومی ۳۴.۳ میلیون دلاری رکورد «عتیقه های رومی» را در حراجی «ساتبیز» شکست.",
+    "published": "Mon, 26 Oct 2026 05:51:48 GMT",
+    "collected_at": "2026-10-26T09:45:40.224994+03:30",
+    "filter_market_score": 11,
+    "market_score": 18,
     "market_matches": {
       "currency": [
         "دلار"
@@ -3230,11 +3429,12 @@
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "حمایت"
+      "رکورد",
+      "حراج"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
-    "priority": "medium",
+    "priority": "high",
     "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
@@ -3302,59 +3502,6 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "صادرات بیش از یک میلیارد دلار کالا از کرمانشاه",
-    "link": "https://www.isna.ir/news/1405080301233/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%8C%DA%A9-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-    "summary": "سرپرست معاونت توسعه مدیریت و منابع حوزه نظارت گمرکات استان کرمانشاه گفت: نیمه اول امسال بیش از یک میلیارد دلار کالا از مرزهای استان کرمانشاه صادر شده است.",
-    "published": "Sun, 25 Oct 2026 06:15:32 GMT",
-    "collected_at": "2026-10-25T09:47:15.483353+03:30",
-    "filter_market_score": 13,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -4362,6 +4509,54 @@
     "ranking_applied": true
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "از جدال اوباما و ترامپ بر سر ایران تا توقف واردات خودرو با فرمان ارزی",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4303813-%D8%A7%D8%B2-%D8%AC%D8%AF%D8%A7%D9%84-%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1-%D8%B3%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%AA%D9%88%D9%82%D9%81-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D9%81%D8%B1%D9%85%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2%DB%8C",
+    "summary": "دنیای اقتصاد: دنیای اقتصاد هرصبح در پادکست«دشت اول» به بررسی مهم ترین اخبار اقتصادی و سیاسی ایران و جهان به صورت خلاصه می پردازد تا بتوانید در کوتاه ترین زمان از مهم ترین تحولات داخلی و بین المللی باخبر شوید.",
+    "published": "Mon, 26 Oct 2026 03:30:25 +0000",
+    "collected_at": "2026-10-26T09:45:58.549853+03:30",
+    "filter_market_score": 9,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "عامل اقتصادی",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "روسیه و قزاقستان می فروشند، لهستان و چین می خرند",
     "link": "https://www.isna.ir/news/1405080301523/%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%88-%D9%82%D8%B2%D8%A7%D9%82%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%DA%86%DB%8C%D9%86-%D9%85%DB%8C-%D8%AE%D8%B1%D9%86%D8%AF",
@@ -4830,53 +5025,6 @@
   },
   {
     "source": "مهر",
-    "title": "خصوصی سازی شاد؛ ابهام در مالکیت، نگرانی درباره عدالت آموزشی",
-    "link": "https://www.mehrnews.com/news/6987763/%D8%AE%D8%B5%D9%88%D8%B5%DB%8C-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%A7%D8%AF-%D8%A7%D8%A8%D9%87%D8%A7%D9%85-%D8%AF%D8%B1-%D9%85%D8%A7%D9%84%DA%A9%DB%8C%D8%AA-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C",
-    "summary": "یک استادیار دانشگاه گفت: واگذاری شاد به شرکت سهامی خاص، نگرانی ها درباره آینده آموزش رایگان و انحصار آموزش مجازی را افزایش داده است.",
-    "published": "Sun, 25 Oct 2026 05:29:15 GMT",
-    "collected_at": "2026-10-25T09:17:28.508036+03:30",
-    "filter_market_score": 6,
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
     "title": "افزایش چشمگیر کمک های مالی به کارزار انتخاباتی ایلهان عمر",
     "link": "https://www.mehrnews.com/news/6989553/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DA%86%D8%B4%D9%85%DA%AF%DB%8C%D8%B1-%DA%A9%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1%D8%B2%D8%A7%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%A7%DB%8C%D9%84%D9%87%D8%A7%D9%86-%D8%B9%D9%85%D8%B1",
     "summary": "کارزار انتخاباتی ایلهان عمر پس از یورش ماموران فدرال به منزلش، طی دو روز بیش از ۱.۵ میلیون دلار کمک مالی دریافت کرد.",
@@ -5011,6 +5159,50 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "بازار سلامت عراق؛ فرصت حضور تولیدات ایرانی",
+    "link": "https://www.mehrnews.com/news/6989310/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D8%B1%D8%B5%D8%AA-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
+    "summary": "بازار سلامت کشور عراق دارای ظرفیت ۴ میلیارد دلاری است که می تواند فرصت طلایی برای تولیدکنندگان کالاهای سلامت محور در کشورمان باشد تا بتوانند وارد بازار کشور همسایه شوند.",
+    "published": "Mon, 26 Oct 2026 06:13:11 GMT",
+    "collected_at": "2026-10-26T09:45:49.226654+03:30",
+    "filter_market_score": 4,
+    "market_score": 8,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -5240,49 +5432,6 @@
     "summary": "مدال آور طلای فوتبال الکترونیک ایران گفت: اگر رشته ورزش های الکترونیک را حرفه ای می دانیم، باید آن را به عنوان شغل به رسمیت بشناسیم و شرایط درآمدزایی بازیکنان را فراهم کنیم.",
     "published": "Sun, 25 Oct 2026 14:00:16 GMT",
     "collected_at": "2026-10-25T17:47:09.160194+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "دختر ملایری بر سکوی قهرمانی بوکس کشور ایستاد",
-    "link": "https://www.isna.ir/news/1405080301230/%D8%AF%D8%AE%D8%AA%D8%B1-%D9%85%D9%84%D8%A7%DB%8C%D8%B1%DB%8C-%D8%A8%D8%B1-%D8%B3%DA%A9%D9%88%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D9%88%DA%A9%D8%B3-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF",
-    "summary": "سرپرست اداره ورزش و جوانان ملایر از کسب مدال طلای مسابقات بوکس قهرمانی دختران کشور توسط مهنا غلامی، بوکسور خردسال ملایری، خبرداد و گفت: این ورزشکار آینده دار بادرخشش در رقابت های کشوری، مجوز حضور در اردوی تیم ملی بوکس خردسالان دختر ایران را به دست آورد.",
-    "published": "Sun, 25 Oct 2026 06:13:24 GMT",
-    "collected_at": "2026-10-25T09:47:15.483432+03:30",
     "filter_market_score": 4,
     "market_score": 6,
     "market_matches": {

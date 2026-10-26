@@ -12712,5 +12712,68 @@
     "group_sent_at": "2026-10-26T09:18:17.128396+03:30",
     "group_message_id": 1126,
     "published_at": "2026-10-26T09:18:17.141287+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8708": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "60 درصد نمادها، امروز رو مثبت شروع کردن ‼️",
+      "summary": "60 درصد نمادها، امروز رو مثبت شروع کردن ‼️ \n\n 🔹 صف خرید: 12 همت\n 🔹 صف فروش: 5 همت\n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "60 درصد نمادها، امروز رو مثبت شروع کردن ‼️ \n\n 🔹 صف خرید: 12 همت\n 🔹 صف فروش: 5 همت\n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8708",
+      "analysis_score": 8,
+      "market_matches": [
+        "نماد"
+      ],
+      "analysis_matches": [
+        "خرید",
+        "فروش"
+      ],
+      "market_groups": [
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 105,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-26T09:46:27.396973+03:30"
+    },
+    "content_signature": "05f45516d98eb204e74aabaf7c4236fca09c1686ceb132cc39ad04e2f823e5d5",
+    "first_seen_at": "2026-10-26T09:46:53.720897+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1395
+    ],
+    "telegram_last_success_at": "2026-10-26T09:46:54.220404+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-26T09:46:54.286869+03:30",
+    "telegram_message_id": 1395,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178349962
+    ],
+    "eitaa_last_success_at": "2026-10-26T09:46:55.066490+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-26T09:46:55.079078+03:30",
+    "eitaa_message_id": 178349962,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1133
+    ],
+    "group_last_success_at": "2026-10-26T09:46:55.582239+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-26T09:46:55.597110+03:30",
+    "group_message_id": 1133,
+    "published_at": "2026-10-26T09:46:55.677331+03:30"
   }
 }
