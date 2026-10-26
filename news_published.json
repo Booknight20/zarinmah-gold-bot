@@ -12278,5 +12278,53 @@
     "group_message_id": 1173,
     "fully_published": true,
     "last_checked_at": "2026-10-26T10:18:40.265511+00:00"
+  },
+  "f779734a16f86da3008a499d2a359f91cbb7497a5f7abe587bfa78fa0dc1e1eb": {
+    "title": "قیمت گاز در اروپا به اوج ۴ ساله صعود کرد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080402363/%D9%82%DB%8C%D9%85%D8%AA-%DA%AF%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%A7%D9%88%D8%AC-%DB%B4-%D8%B3%D8%A7%D9%84%D9%87-%D8%B5%D8%B9%D9%88%D8%AF-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1438
+    ],
+    "eitaa_message_ids": [
+      178400635
+    ],
+    "group_message_ids": [
+      1176
+    ],
+    "content_hash": "3362ba5fcb79a86e904da9f6140980a83d428f3698d3c7abf71bd32f40766236",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T10:44:45.258689+00:00",
+    "telegram_message_id": 1438,
+    "eitaa_last_sent_at": "2026-10-26T10:44:46.575181+00:00",
+    "eitaa_message_id": 178400635,
+    "group_last_sent_at": "2026-10-26T10:44:48.271069+00:00",
+    "group_message_id": 1176,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T10:44:48.281937+00:00"
+  },
+  "3fd0acc85d59bdd38c697678f5bca55d7736a5c94d25d90fc07124765de8e327": {
+    "title": "زمان برگزاری حراج شمش طلا اعلام شد",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848267/%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C-%D8%AD%D8%B1%D8%A7%D8%AC-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1439
+    ],
+    "eitaa_message_ids": [
+      178400644
+    ],
+    "group_message_ids": [
+      1177
+    ],
+    "content_hash": "9c9ab0eb175060e98824170a756f6ff26ca1da7d0b7b4c1da6aebccef3578258",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T10:44:49.908729+00:00",
+    "telegram_message_id": 1439,
+    "eitaa_last_sent_at": "2026-10-26T10:44:51.227621+00:00",
+    "eitaa_message_id": 178400644,
+    "group_last_sent_at": "2026-10-26T10:44:52.838706+00:00",
+    "group_message_id": 1177,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T10:44:52.849536+00:00"
   }
 }

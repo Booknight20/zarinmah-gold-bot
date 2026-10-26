@@ -1588,70 +1588,6 @@
     "telegram_preview": "📰 پیش بینی بورس فردا دوشنبه ۴ آبان ۱۴۰۵/ ریسک آغاز جنگ جدید/ خروج پول حقیقی چه پیامی برای معاملات فردا دارد؟\n\nدر پیش بینی بورس فردا می توان سناریوی نوسان در محدوده ای متعادل را محتمل دانست؛ سناریویی که در آن ممکن است بازار در برخی مقاطع با افزایش تقاضا همراه شود، اما همچنان برای رشد پرقدرت با موانعی روبه رو باشد.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304210-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%81%D8%B1%D8%AF%D8%A7-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B1%DB%8C%D8%B3%DA%A9-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%AC%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C-%DA%86%D9%87-%D9%BE%DB%8C%D8%A7%D9%85%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%81%D8%B1%D8%AF%D8%A7-%D8%AF%D8%A7%D8%B1%D8%AF"
   },
   {
-    "source": "مهر",
-    "title": "فرش قرمز بورس برای بازگشایی پالایشی ها؛ شاخص کل باز هم عقب نشست",
-    "link": "https://www.mehrnews.com/news/6989212/%D9%81%D8%B1%D8%B4-%D9%82%D8%B1%D9%85%D8%B2-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DB%8C-%D9%87%D8%A7-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%D8%B3%D8%AA",
-    "summary": "شاخص کل بورس در دومین روز کاری آبان با افت ۲۹ هزار واحدی به ۸ میلیون و ۱۵ هزار واحد رسید؛ بازگشایی نمادهای پالایشی نیز موجب افت بیشتر شاخص کل شد و خروج پول حقیقی به ۲.۷ همت رسید.",
-    "published": "Sun, 25 Oct 2026 10:03:12 GMT",
-    "collected_at": "2026-10-25T13:46:43.241832+03:30",
-    "filter_market_score": 26,
-    "market_score": 27,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "خروج پول حقیقی"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "خروج پول حقیقی"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "بازگشایی",
-      "افت",
-      "خروج پول"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "خروج پول حقیقی"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "شاخص کل بورس در دومین روز کاری آبان با افت ۲۹ هزار واحدی به ۸ میلیون و ۱۵ هزار واحد رسید؛ بازگشایی نمادهای پالایشی نیز موجب افت بیشتر شاخص کل شد و خروج پول حقیقی به ۲.۷ همت رسید.",
-    "telegram_preview": "📰 فرش قرمز بورس برای بازگشایی پالایشی ها؛ شاخص کل باز هم عقب نشست\n\nشاخص کل بورس در دومین روز کاری آبان با افت ۲۹ هزار واحدی به ۸ میلیون و ۱۵ هزار واحد رسید؛ بازگشایی نمادهای پالایشی نیز موجب افت بیشتر شاخص کل شد و خروج پول حقیقی به ۲.۷ همت رسید.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989212/%D9%81%D8%B1%D8%B4-%D9%82%D8%B1%D9%85%D8%B2-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DB%8C-%D9%87%D8%A7-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%D8%B3%D8%AA"
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "احتیاط بورس در مرز ۸میلیونی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304102-%D8%A7%D8%AD%D8%AA%DB%8C%D8%A7%D8%B7-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C",
@@ -1841,6 +1777,74 @@
     "duplicate_count": 1,
     "full_text": "قیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته، از 185,305 (یکصد و هشتاد و پنج هزار و سیصد و پنج) تومان به 185,676 (یکصد و هشتاد و پنج هزار و ششصد و هفتاد و شش) تومان رسید.",
     "telegram_preview": "📰 قیمت دلار، یورو و درهم امروز دوشنبه ۴ آبان ۱۴۰۵/ افزایش قیمت دلار\n\nقیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته، از 185,305 (یکصد و هشتاد و پنج هزار و سیصد و پنج) تومان به 185,676 (یکصد و هشتاد و پنج هزار و ششصد و هفتاد و شش) تومان رسید.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304272-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1"
+  },
+  {
+    "source": "مشرق",
+    "title": "زمان برگزاری حراج شمش طلا اعلام شد",
+    "link": "https://www.mashreghnews.ir/news/1848267/%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C-%D8%AD%D8%B1%D8%A7%D8%AC-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+    "summary": "یکصد و پنجاه و نهمین حراج شمش طلا فردا سه شنبه 5 آبان ماه در مرکز مبادله ارز و طلای ایران برگزار می شود.",
+    "published": "Mon, 26 Oct 2026 10:19:35 GMT",
+    "collected_at": "2026-10-26T14:14:30.286358+03:30",
+    "filter_market_score": 21,
+    "market_score": 26,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز",
+        "مرکز مبادله"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز",
+        "مرکز مبادله"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "حراج",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "ارز",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "یکصد و پنجاه و نهمین حراج شمش طلا فردا سه شنبه 5 آبان ماه در مرکز مبادله ارز و طلای ایران برگزار می شود.",
+    "telegram_preview": "📰 زمان برگزاری حراج شمش طلا اعلام شد\n\nیکصد و پنجاه و نهمین حراج شمش طلا فردا سه شنبه 5 آبان ماه در مرکز مبادله ارز و طلای ایران برگزار می شود.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1848267/%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C-%D8%AD%D8%B1%D8%A7%D8%AC-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF"
   },
   {
     "source": "دنیای اقتصاد",
@@ -3153,66 +3157,6 @@
     "duplicate_count": 1,
     "full_text": "شاخص اصلی بورس عربستان در پی تشدید جنگ علیه یمن، بزرگ ترین زیان روزانه خود در ۱۸ ماه گذشته را ثبت کرد.",
     "telegram_preview": "📰 سقوط آزاد بورس عربستان\n\nشاخص اصلی بورس عربستان در پی تشدید جنگ علیه یمن، بزرگ ترین زیان روزانه خود در ۱۸ ماه گذشته را ثبت کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989824/%D8%B3%D9%82%D9%88%D8%B7-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86"
-  },
-  {
-    "source": "مشرق",
-    "title": "همتی: تأمین ارز دارو ۲۸ درصد افزایش یافت",
-    "link": "https://www.mashreghnews.ir/news/1847999/%D9%87%D9%85%D8%AA%DB%8C-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%A7%D8%B1%D9%88-%DB%B2%DB%B8-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
-    "summary": "رئیس کل بانک مرکزی، از افزایش ۲۸ درصدی تأمین ارز دارو در هفت ماه امسال خبر داد.",
-    "published": "Sun, 25 Oct 2026 09:35:51 GMT",
-    "collected_at": "2026-10-25T13:17:54.748573+03:30",
-    "filter_market_score": 12,
-    "market_score": 21,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "رئیس کل بانک مرکزی، از افزایش ۲۸ درصدی تأمین ارز دارو در هفت ماه امسال خبر داد.",
-    "telegram_preview": "📰 همتی: تأمین ارز دارو ۲۸ درصد افزایش یافت\n\nرئیس کل بانک مرکزی، از افزایش ۲۸ درصدی تأمین ارز دارو در هفت ماه امسال خبر داد.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1847999/%D9%87%D9%85%D8%AA%DB%8C-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%A7%D8%B1%D9%88-%DB%B2%DB%B8-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA"
   },
   {
     "source": "مهر",
@@ -4734,6 +4678,61 @@
     "telegram_preview": "📰 سهم کمتر از یک درصدی ابزارآلات از مصرف ارز کشور\n\nرئیس اتحادیه صنف ابزارفروشان تهران، با بیان اینکه سهم ابزارآلات از مصرف ارز کشور کمتر از یک درصد است، بر ضرورت تسهیل ثبت سفارش و حمایت از تأمین نیاز صنعت تأکید کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989193/%D8%B3%D9%87%D9%85-%DA%A9%D9%85%D8%AA%D8%B1-%D8%A7%D8%B2-%DB%8C%DA%A9-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%D8%A2%D9%84%D8%A7%D8%AA-%D8%A7%D8%B2-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D8%B1%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1"
   },
   {
+    "source": "ایسنا",
+    "title": "قیمت گاز در اروپا به اوج ۴ ساله صعود کرد",
+    "link": "https://www.isna.ir/news/1405080402363/%D9%82%DB%8C%D9%85%D8%AA-%DA%AF%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%A7%D9%88%D8%AC-%DB%B4-%D8%B3%D8%A7%D9%84%D9%87-%D8%B5%D8%B9%D9%88%D8%AF-%DA%A9%D8%B1%D8%AF",
+    "summary": "قیمت گاز طبیعی در اروپا تحت تاثیر نگرانی ها نسبت به تامین زمستانی، با ۳.۳ درصد افزایش، برای نخستین بار از سال ۲۰۲۲ از مرز ۹۷ یورو (۱۰۸.۸ دلار) به ازای هر مگاوات ساعت عبور کرد و به افزایش ۷ درصدی هفته گذشته افزود.",
+    "published": "Mon, 26 Oct 2026 10:30:00 GMT",
+    "collected_at": "2026-10-26T14:14:05.822240+03:30",
+    "filter_market_score": 10,
+    "market_score": 15,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "صعود",
+      "قیمت",
+      "افزایش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "قیمت گاز طبیعی در اروپا تحت تاثیر نگرانی ها نسبت به تامین زمستانی، با ۳.۳ درصد افزایش، برای نخستین بار از سال ۲۰۲۲ از مرز ۹۷ یورو (۱۰۸.۸ دلار) به ازای هر مگاوات ساعت عبور کرد و به افزایش ۷ درصدی هفته گذشته افزود.",
+    "telegram_preview": "📰 قیمت گاز در اروپا به اوج ۴ ساله صعود کرد\n\nقیمت گاز طبیعی در اروپا تحت تاثیر نگرانی ها نسبت به تامین زمستانی، با ۳.۳ درصد افزایش، برای نخستین بار از سال ۲۰۲۲ از مرز ۹۷ یورو (۱۰۸.۸ دلار) به ازای هر مگاوات ساعت عبور کرد و به افزایش ۷ درصدی هفته گذشته افزود.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080402363/%D9%82%DB%8C%D9%85%D8%AA-%DA%AF%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%A7%D9%88%D8%AC-%DB%B4-%D8%B3%D8%A7%D9%84%D9%87-%D8%B5%D8%B9%D9%88%D8%AF-%DA%A9%D8%B1%D8%AF"
+  },
+  {
     "source": "مشرق",
     "title": "سقوط بورس عربستان به پایین ترین سطح در پنج سال اخیر",
     "link": "https://www.mashreghnews.ir/news/1848051/%D8%B3%D9%82%D9%88%D8%B7-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D8%AF%D8%B1-%D9%BE%D9%86%D8%AC-%D8%B3%D8%A7%D9%84-%D8%A7%D8%AE%DB%8C%D8%B1",
@@ -5202,59 +5201,6 @@
     "duplicate_count": 1,
     "full_text": "دنیای اقتصاد: دنیای اقتصاد هرصبح در پادکست«دشت اول» به بررسی مهم ترین اخبار اقتصادی و سیاسی ایران و جهان به صورت خلاصه می پردازد تا بتوانید در کوتاه ترین زمان از مهم ترین تحولات داخلی و بین المللی باخبر شوید.",
     "telegram_preview": "📰 از جدال اوباما و ترامپ بر سر ایران تا توقف واردات خودرو با فرمان ارزی\n\nدنیای اقتصاد: دنیای اقتصاد هرصبح در پادکست«دشت اول» به بررسی مهم ترین اخبار اقتصادی و سیاسی ایران و جهان به صورت خلاصه می پردازد تا بتوانید در کوتاه ترین زمان از مهم ترین تحولات داخلی و بین المللی باخبر شوید.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4303813-%D8%A7%D8%B2-%D8%AC%D8%AF%D8%A7%D9%84-%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1-%D8%B3%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D8%AA%D9%88%D9%82%D9%81-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D9%81%D8%B1%D9%85%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2%DB%8C"
-  },
-  {
-    "source": "ایسنا",
-    "title": "روسیه و قزاقستان می فروشند، لهستان و چین می خرند",
-    "link": "https://www.isna.ir/news/1405080301523/%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%88-%D9%82%D8%B2%D8%A7%D9%82%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%DA%86%DB%8C%D9%86-%D9%85%DB%8C-%D8%AE%D8%B1%D9%86%D8%AF",
-    "summary": "در حالی که برخی کشورها برای جبران کسری بودجه یا سود بیشتر، به فروش ذخایر طلای خود اقدام کرده اند، بانک های مرکزی دیگر به خرید و ذخیره سازی این فلز ارزشمند ادامه می دهند.",
-    "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-    "collected_at": "2026-10-25T13:46:31.314916+03:30",
-    "filter_market_score": 9,
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "کسری بودجه",
-      "بودجه"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "کسری بودجه",
-      "بودجه"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "در حالی که برخی کشورها برای جبران کسری بودجه یا سود بیشتر، به فروش ذخایر طلای خود اقدام کرده اند، بانک های مرکزی دیگر به خرید و ذخیره سازی این فلز ارزشمند ادامه می دهند.",
-    "telegram_preview": "📰 روسیه و قزاقستان می فروشند، لهستان و چین می خرند\n\nدر حالی که برخی کشورها برای جبران کسری بودجه یا سود بیشتر، به فروش ذخایر طلای خود اقدام کرده اند، بانک های مرکزی دیگر به خرید و ذخیره سازی این فلز ارزشمند ادامه می دهند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080301523/%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%88-%D9%82%D8%B2%D8%A7%D9%82%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%DA%86%DB%8C%D9%86-%D9%85%DB%8C-%D8%AE%D8%B1%D9%86%D8%AF"
   },
   {
     "source": "مهر",
@@ -5843,6 +5789,53 @@
     "telegram_preview": "📰 نتایج جدیدترین ارزشیابی و رتبه بندی دانشگاه های خارج از کشور اعلام شد\n\nمعاون بورس و امور دانشجویان خارج سازمان امور دانشجویان گفت: نتایج جدیدترین ارزشیابی و رتبه بندی دانشگاه های خارج از کشور با رویکردی نوین و با همکاری تخصصی مؤسسه استنادی و پایش علم و فناوری جهان اسلام (ISC) اعلام شد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080301591/%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%AC%D8%AF%DB%8C%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C-%D9%88-%D8%B1%D8%AA%D8%A8%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1"
   },
   {
+    "source": "ایسنا",
+    "title": "پاداش۷۰۰ میلیونی برای طلایی های ورزش تهران در بازی های ناگویا",
+    "link": "https://www.isna.ir/news/1405080402360/%D9%BE%D8%A7%D8%AF%D8%A7%D8%B4%DB%B7%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7",
+    "summary": "مدیر کل ورزش و جوانان استان تهران از برگزاری مراسم تجلیل برای مدال آوران بازی های آسیایی و پاراآسیایی استان تهران خبر داد و گفت: برای برندگان مدال طلا ۷۰۰ میلیون پاداش در نظر گرفته شده است.",
+    "published": "Mon, 26 Oct 2026 10:37:00 GMT",
+    "collected_at": "2026-10-26T14:14:05.822181+03:30",
+    "filter_market_score": 4,
+    "market_score": 8,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "مدیر کل ورزش و جوانان استان تهران از برگزاری مراسم تجلیل برای مدال آوران بازی های آسیایی و پاراآسیایی استان تهران خبر داد و گفت: برای برندگان مدال طلا ۷۰۰ میلیون پاداش در نظر گرفته شده است.",
+    "telegram_preview": "📰 پاداش۷۰۰ میلیونی برای طلایی های ورزش تهران در بازی های ناگویا\n\nمدیر کل ورزش و جوانان استان تهران از برگزاری مراسم تجلیل برای مدال آوران بازی های آسیایی و پاراآسیایی استان تهران خبر داد و گفت: برای برندگان مدال طلا ۷۰۰ میلیون پاداش در نظر گرفته شده است.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080402360/%D9%BE%D8%A7%D8%AF%D8%A7%D8%B4%DB%B7%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7"
+  },
+  {
     "source": "مشرق",
     "title": "سعید اسماعیلی با شکست نماینده میزبان راهی نیمه نهایی شد +فیلم",
     "link": "https://www.mashreghnews.ir/news/1848255/%D8%B3%D8%B9%DB%8C%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C-%D8%A8%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86-%D8%B1%D8%A7%D9%87%DB%8C-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
@@ -6076,6 +6069,52 @@
     "duplicate_count": 1,
     "full_text": "موی تای کاران جوان استان فارس در مسابقات قهرمانی کشور و انتخابی تیم ملی که در مجموعه ورزشی آزادی تهران برگزار شد، موفق به کسب ۲ مدال طلا و ۵ مدال برنز شدند.",
     "telegram_preview": "📰 کسب ۷ مدال توسط موی تای کاران فارس در مسابقات کشوری\n\nموی تای کاران جوان استان فارس در مسابقات قهرمانی کشور و انتخابی تیم ملی که در مجموعه ورزشی آزادی تهران برگزار شد، موفق به کسب ۲ مدال طلا و ۵ مدال برنز شدند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080301700/%DA%A9%D8%B3%D8%A8-%DB%B7-%D9%85%D8%AF%D8%A7%D9%84-%D8%AA%D9%88%D8%B3%D8%B7-%D9%85%D9%88%DB%8C-%D8%AA%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1%DB%8C"
+  },
+  {
+    "source": "ایسنا",
+    "title": "رئیس مرکز ملی فرش ایران: قم یکی از پرظرفیت ترین قطب های فرش دستباف کشور است",
+    "link": "https://www.isna.ir/news/1405080402361/%D8%B1%D8%A6%DB%8C%D8%B3-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D9%84%DB%8C-%D9%81%D8%B1%D8%B4-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%82%D9%85-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D9%BE%D8%B1%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D8%AA%D8%B1%DB%8C%D9%86-%D9%82%D8%B7%D8%A8-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%B4-%D8%AF%D8%B3%D8%AA%D8%A8%D8%A7%D9%81",
+    "summary": "رئیس مرکز ملی فرش ایران از پیگیری جدی برای رفع موانع ارزی و توسعه تعاملات بین المللی خبر داد و گفت: استان قم یکی از مهم ترین و پرظرفیت ترین شهرهای کشور در زمینه تولید فرش دستباف است که نقش پیشران را در این صنعت ایفا می کند.",
+    "published": "Mon, 26 Oct 2026 10:27:44 GMT",
+    "collected_at": "2026-10-26T14:14:05.822266+03:30",
+    "filter_market_score": 5,
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 5,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "رئیس مرکز ملی فرش ایران از پیگیری جدی برای رفع موانع ارزی و توسعه تعاملات بین المللی خبر داد و گفت: استان قم یکی از مهم ترین و پرظرفیت ترین شهرهای کشور در زمینه تولید فرش دستباف است که نقش پیشران را در این صنعت ایفا می کند.",
+    "telegram_preview": "📰 رئیس مرکز ملی فرش ایران: قم یکی از پرظرفیت ترین قطب های فرش دستباف کشور است\n\nرئیس مرکز ملی فرش ایران از پیگیری جدی برای رفع موانع ارزی و توسعه تعاملات بین المللی خبر داد و گفت: استان قم یکی از مهم ترین و پرظرفیت ترین شهرهای کشور در زمینه تولید فرش دستباف است که نقش پیشران را در این صنعت ایفا می کند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080402361/%D8%B1%D8%A6%DB%8C%D8%B3-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D9%84%DB%8C-%D9%81%D8%B1%D8%B4-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%82%D9%85-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D9%BE%D8%B1%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D8%AA%D8%B1%DB%8C%D9%86-%D9%82%D8%B7%D8%A8-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%B4-%D8%AF%D8%B3%D8%AA%D8%A8%D8%A7%D9%81"
   },
   {
     "source": "دنیای اقتصاد",
