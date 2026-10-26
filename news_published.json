@@ -13022,5 +13022,29 @@
     "group_message_id": 1227,
     "fully_published": true,
     "last_checked_at": "2026-10-26T16:48:25.065806+00:00"
+  },
+  "44a9460e7bc68397816260d49a98664239c1257f291283c0a1077341cc46ab7b": {
+    "title": "منتقدان می گویند ارز کشور هدر می رود؛ پاسخ فرزانی: بدون مداخله بانک مرکزی، دلار گران تر می شد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293026/%D9%85%D9%86%D8%AA%D9%82%D8%AF%D8%A7%D9%86-%D9%85%DB%8C-%DA%AF%D9%88%DB%8C%D9%86%D8%AF-%D8%A7%D8%B1%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1-%D9%87%D8%AF%D8%B1-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%81%D8%B1%D8%B2%D8%A7%D9%86%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%AF%D8%A7%D8%AE%D9%84%D9%87",
+    "telegram_message_ids": [
+      1493
+    ],
+    "eitaa_message_ids": [
+      178468192
+    ],
+    "group_message_ids": [
+      1233
+    ],
+    "content_hash": "2bab326dd1c271b2357f429125e23458355c4600196c2a629681e943cad38b37",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T17:48:05.414995+00:00",
+    "telegram_message_id": 1493,
+    "eitaa_last_sent_at": "2026-10-26T17:48:06.595375+00:00",
+    "eitaa_message_id": 178468192,
+    "group_last_sent_at": "2026-10-26T17:48:08.215731+00:00",
+    "group_message_id": 1233,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T17:48:08.237451+00:00"
   }
 }
