@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "analyst": "علیرضا محرابی",
+    "title": "نفت برنت منفی باز شد و الان تو محدوده ۱۱۴ دلار معامله میشه ‼️",
+    "summary": "نفت برنت منفی باز شد و الان تو محدوده ۱۱۴ دلار معامله میشه ‼️ \n\nاونس جهانی هم برگشت تو محدوده ۴۰۰۰ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+    "full_text": "نفت برنت منفی باز شد و الان تو محدوده ۱۱۴ دلار معامله میشه ‼️ \n\nاونس جهانی هم برگشت تو محدوده ۴۰۰۰ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+    "source": "علیرضا محرابی",
+    "link": "https://t.me/AlirezaMehrabi_ir/8707",
+    "analysis_score": 17,
+    "market_matches": [
+      "اونس",
+      "اونس جهانی",
+      "دلار",
+      "نفت"
+    ],
+    "analysis_matches": [
+      "معامله",
+      "محدوده"
+    ],
+    "market_groups": [
+      "gold",
+      "currency",
+      "economy"
+    ],
+    "analysis_reasons": [
+      "ارتباط با بازار",
+      "دارای نشانه‌های تحلیل",
+      "دارای داده عددی",
+      "ارتباط میان چند حوزه بازار"
+    ],
+    "priority": "high",
+    "content_length": 127,
+    "content_complete_from_source": true,
+    "collected_at": "2026-10-26T08:18:46.456550+03:30"
+  }
+]

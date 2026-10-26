@@ -12501,5 +12501,74 @@
     "group_sent_at": "2026-10-25T20:18:02.546313+03:30",
     "group_message_id": 1093,
     "published_at": "2026-10-25T20:18:02.559498+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8707": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "نفت برنت منفی باز شد و الان تو محدوده ۱۱۴ دلار معامله میشه ‼️",
+      "summary": "نفت برنت منفی باز شد و الان تو محدوده ۱۱۴ دلار معامله میشه ‼️ \n\nاونس جهانی هم برگشت تو محدوده ۴۰۰۰ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "نفت برنت منفی باز شد و الان تو محدوده ۱۱۴ دلار معامله میشه ‼️ \n\nاونس جهانی هم برگشت تو محدوده ۴۰۰۰ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8707",
+      "analysis_score": 17,
+      "market_matches": [
+        "اونس",
+        "اونس جهانی",
+        "دلار",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "معامله",
+        "محدوده"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 127,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-26T08:18:46.456550+03:30"
+    },
+    "content_signature": "a2110b739104c1af0192852424174afc4f1ad6e5d8556fbd49936b054a9d12c1",
+    "first_seen_at": "2026-10-26T08:19:09.092151+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1378
+    ],
+    "telegram_last_success_at": "2026-10-26T08:19:09.427806+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-26T08:19:09.442012+03:30",
+    "telegram_message_id": 1378,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178336545
+    ],
+    "eitaa_last_success_at": "2026-10-26T08:19:10.653789+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-26T08:19:10.667782+03:30",
+    "eitaa_message_id": 178336545,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1116
+    ],
+    "group_last_success_at": "2026-10-26T08:19:11.042587+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-26T08:19:11.056420+03:30",
+    "group_message_id": 1116,
+    "published_at": "2026-10-26T08:19:11.069791+03:30"
   }
 }
