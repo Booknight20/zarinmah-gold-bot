@@ -13046,5 +13046,53 @@
     "group_message_id": 1233,
     "fully_published": true,
     "last_checked_at": "2026-10-26T17:48:08.237451+00:00"
+  },
+  "8da4b9f50317586d3d18b9c5a9d0f4949ac33c235d2bcb568ce4ebb27261e4a0": {
+    "title": "تخصیص ۵۰۰۰ میلیاردی اعتبار برای خرید زعفران/ شایعات توقف صادرات صحت ندارد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080402663/%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%DB%B5%DB%B0%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%B4%D8%A7%DB%8C%D8%B9%D8%A7%D8%AA-%D8%AA%D9%88%D9%82%D9%81-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA",
+    "telegram_message_ids": [
+      1495
+    ],
+    "eitaa_message_ids": [
+      178471771
+    ],
+    "group_message_ids": [
+      1235
+    ],
+    "content_hash": "e260e36cff024a758e77f214b5a42d8318f5d6ebac8bafed29b66a13dd24b034",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T18:18:12.210237+00:00",
+    "telegram_message_id": 1495,
+    "eitaa_last_sent_at": "2026-10-26T18:18:14.042171+00:00",
+    "eitaa_message_id": 178471771,
+    "group_last_sent_at": "2026-10-26T18:18:15.940171+00:00",
+    "group_message_id": 1235,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T18:18:15.962150+00:00"
+  },
+  "3efc0b354d81e4b96db9a8997273138d752b9a3c088e73e212207e0969327fd6": {
+    "title": "لغو مصوبه جنجالی نرخ ارز گمرکی خودرو با تصمیم دولت",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080402657/%D9%84%D8%BA%D9%88-%D9%85%D8%B5%D9%88%D8%A8%D9%87-%D8%AC%D9%86%D8%AC%D8%A7%D9%84%DB%8C-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%DA%AF%D9%85%D8%B1%DA%A9%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AF%D9%88%D9%84%D8%AA",
+    "telegram_message_ids": [
+      1496
+    ],
+    "eitaa_message_ids": [
+      178471784
+    ],
+    "group_message_ids": [
+      1236
+    ],
+    "content_hash": "93685109759a77470b79fe59918668cca2ee52e1afb4d8bf7b3aca88dd8acf45",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T18:18:17.800030+00:00",
+    "telegram_message_id": 1496,
+    "eitaa_last_sent_at": "2026-10-26T18:18:19.442491+00:00",
+    "eitaa_message_id": 178471784,
+    "group_last_sent_at": "2026-10-26T18:18:21.214196+00:00",
+    "group_message_id": 1236,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T18:18:21.235981+00:00"
   }
 }
