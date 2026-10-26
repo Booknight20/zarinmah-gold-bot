@@ -11174,5 +11174,29 @@
     "group_message_id": 1109,
     "fully_published": true,
     "last_checked_at": "2026-10-26T03:44:48.211407+00:00"
+  },
+  "b75701a33d6d997d7bcc02f96c755e3d5ac8de998081e171a46d44bbfd43ae1c": {
+    "title": "بانک مرکزی با واردات خودرو مخالف است/ درست است که از دولت ارز نمی گیرند اما تقاضا در بازار ارز را بالا می برند",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293174/%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%A7-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%85%D8%AE%D8%A7%D9%84%D9%81-%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B1%D8%B3%D8%AA-%D8%A7%D8%B3%D8%AA-%DA%A9%D9%87-%D8%A7%D8%B2-%D8%AF%D9%88%D9%84%D8%AA-%D8%A7%D8%B1%D8%B2",
+    "telegram_message_ids": [
+      1372
+    ],
+    "eitaa_message_ids": [
+      178331500
+    ],
+    "group_message_ids": [
+      1110
+    ],
+    "content_hash": "60a38a770d0b83c48260812b3ccff46dd34f2352ec4e9983bc90a6e5a404c9f4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-26T04:14:32.814999+00:00",
+    "telegram_message_id": 1372,
+    "eitaa_last_sent_at": "2026-10-26T04:14:34.191764+00:00",
+    "eitaa_message_id": 178331500,
+    "group_last_sent_at": "2026-10-26T04:14:35.837133+00:00",
+    "group_message_id": 1110,
+    "fully_published": true,
+    "last_checked_at": "2026-10-26T04:14:35.848406+00:00"
   }
 }
