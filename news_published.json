@@ -15542,5 +15542,29 @@
     "group_message_id": 1373,
     "fully_published": true,
     "last_checked_at": "2026-10-27T20:44:57.085575+00:00"
+  },
+  "a88f8a48bc598cd4d881bcca31531797f9672ed33f5a2885782634931319e924": {
+    "title": "بلومبرگ: سهام عربستان در میان بدترین عملکردها در سطح جهانی قرار دارد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080603524/%D8%A8%D9%84%D9%88%D9%85%D8%A8%D8%B1%DA%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%DB%8C%D8%A7%D9%86-%D8%A8%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF%D9%87%D8%A7-%D8%AF%D8%B1-%D8%B3%D8%B7%D8%AD-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1634
+    ],
+    "eitaa_message_ids": [
+      178673598
+    ],
+    "group_message_ids": [
+      1374
+    ],
+    "content_hash": "df7d9038fd299276f1de13fa4ce0ae0ef9e0a9a809c648a0e678e6e336a8a55c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T22:44:44.189631+00:00",
+    "telegram_message_id": 1634,
+    "eitaa_last_sent_at": "2026-10-27T22:44:45.599347+00:00",
+    "eitaa_message_id": 178673598,
+    "group_last_sent_at": "2026-10-27T22:44:47.299197+00:00",
+    "group_message_id": 1374,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T22:44:47.313743+00:00"
   }
 }
