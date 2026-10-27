@@ -13622,5 +13622,53 @@
     "group_message_id": 1258,
     "fully_published": true,
     "last_checked_at": "2026-10-27T04:47:55.036984+00:00"
+  },
+  "20df50770bac42225c5f06a9c0108d0902a5818dfe37de3692764bb3e09fc45e": {
+    "title": "قیمت یورو، دلار و انواع ارزها امروز ۵ آبان ۱۴۰۵ در زمان بازگشایی بازار/ دلار ۲۷۱ هزار و ۵۰۰ تومان قیمت پیدا کرد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293647/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
+    "telegram_message_ids": [
+      1519
+    ],
+    "eitaa_message_ids": [
+      178521852
+    ],
+    "group_message_ids": [
+      1259
+    ],
+    "content_hash": "491a9c40a8400b3b1517ca0332c5c65c35088090853e67dfd00bc4da05658e3d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T05:18:02.825206+00:00",
+    "telegram_message_id": 1519,
+    "eitaa_last_sent_at": "2026-10-27T05:18:04.145688+00:00",
+    "eitaa_message_id": 178521852,
+    "group_last_sent_at": "2026-10-27T05:18:05.804178+00:00",
+    "group_message_id": 1259,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T05:18:05.826338+00:00"
+  },
+  "30337e34493e89fdaf020d8fe7e9d6d4080264c668b15eaae6cf607daf23a87e": {
+    "title": "قیمت سکه امروز ۵ آبان ۱۴۰۵ در زمان بازگشایی بازار/ نیم سکه ۱۴۰ میلیون و ۲۰۰ هزار تومان به فروش رفت + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293646/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B4%DB%B0",
+    "telegram_message_ids": [
+      1520
+    ],
+    "eitaa_message_ids": [
+      178521865
+    ],
+    "group_message_ids": [
+      1260
+    ],
+    "content_hash": "43ec236c364f66e4ca234040b2a977e072b30ffee165472e73dbb5cb91a78813",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T05:18:07.492057+00:00",
+    "telegram_message_id": 1520,
+    "eitaa_last_sent_at": "2026-10-27T05:18:08.779586+00:00",
+    "eitaa_message_id": 178521865,
+    "group_last_sent_at": "2026-10-27T05:18:10.493985+00:00",
+    "group_message_id": 1260,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T05:18:10.515994+00:00"
   }
 }
