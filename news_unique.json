@@ -1308,67 +1308,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۴ آبان ۱۴۰۵ در زمان بسته شدن بازار/ هر گرم طلای ۱۸ عیار ۲۶ میلیون و ۱۱۸ هزار تومان قیمت خورد + جدول",
-    "link": "https://www.khabaronline.ir/news/2293592/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
-    "summary": "قیمت طلا در بازار تهران امروز ۴ آبان ۱۴۰۵ اعلام و هر گرم طلای ۱۸عیار ۲۶ میلیون و ۱۱۸ هزار تومان شد.",
-    "published": "Mon, 26 Oct 2026 18:28:37 GMT",
-    "collected_at": "2026-10-26T22:17:16.207437+03:30",
-    "filter_market_score": 31,
-    "market_score": 29,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "بورس ۸ میلیون واحد را از دست داد / افت ۸۳ هزار واحدی بازار سرمایه در آغاز معاملات امروز سه شنبه ۵ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/live/2293748/%D8%A8%D9%88%D8%B1%D8%B3-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF-%D8%A7%D9%81%D8%AA-%DB%B8%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87",
     "summary": "شاخص کل بورس تهران در آغاز معاملات روز سه شنبه ۵ آبان ۱۴۰۵ با افت ۸۳ هزار و ۹۰۸ واحدی به ۷ میلیون و ۹۸۵ هزار واحد رسید و به زیر مرز ۸ میلیون واحد سقوط کرد؛ شاخص هم وزن نیز بیش از ۱۹ هزار واحد کاهش یافت.",
@@ -6402,51 +6341,6 @@
     "summary": "برنده توپ طلای ۱۹۹۷ و ۲۰۰۲، پیش از مراسم توپ طلا گفت کیلیان امباپه بسیاری از ویژگی های او را دارد و از اینکه میراثش در فوتبال زنده مانده ابراز خوشحالی کرد.",
     "published": "Mon, 26 Oct 2026 20:01:12 GMT",
     "collected_at": "2026-10-26T23:47:01.265134+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "تابناک",
-    "title": "فردین هدایتی با قهرمان ۵ دقیقه ای جهان!",
-    "link": "https://example.com/fa/news/30007938/%D9%81%D8%B1%D8%AF%DB%8C%D9%86-%D9%87%D8%AF%D8%A7%DB%8C%D8%AA%DB%8C-%D8%A8%D8%A7-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-5-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86",
-    "summary": "فردین هدایتی در حالی که مجموع دقایق کشتی هایش در مسابقات قهرمانی جهان قزاقستان حتی به اندازه یک کشتی هم نشد، مدال طلای فوق سنگین فرنگی جهان را به دست آورد.",
-    "published": "Mon, 26 Oct 2026 22:14:00 +0330",
-    "collected_at": "2026-10-26T22:17:19.642021+03:30",
     "filter_market_score": 4,
     "market_score": 8,
     "market_matches": {
