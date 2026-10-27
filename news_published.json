@@ -13382,5 +13382,29 @@
     "group_message_id": 1248,
     "fully_published": true,
     "last_checked_at": "2026-10-26T20:46:43.753628+00:00"
+  },
+  "d49773564cc270b5943bb6bbb81810491a923508f9d5460cfd53c6717ed54095": {
+    "title": "ستاره بارسلونا سه سال پیاپی در جمع ۱۰ نفر برتر توپ طلا",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304481-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%D8%B1%D8%B3%D9%84%D9%88%D9%86%D8%A7-%D8%B3%D9%87-%D8%B3%D8%A7%D9%84-%D9%BE%DB%8C%D8%A7%D9%BE%DB%8C-%D8%AF%D8%B1-%D8%AC%D9%85%D8%B9-%D9%86%D9%81%D8%B1-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1509
+    ],
+    "eitaa_message_ids": [
+      178504824
+    ],
+    "group_message_ids": [
+      1249
+    ],
+    "content_hash": "e188fbf780f3dc322e1743227230e7804d9e7aee05475602ecf19ad0116dacf3",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T00:14:23.103301+00:00",
+    "telegram_message_id": 1509,
+    "eitaa_last_sent_at": "2026-10-27T00:14:24.342742+00:00",
+    "eitaa_message_id": 178504824,
+    "group_last_sent_at": "2026-10-27T00:14:26.088641+00:00",
+    "group_message_id": 1249,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T00:14:26.099724+00:00"
   }
 }
