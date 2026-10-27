@@ -15326,5 +15326,29 @@
     "group_message_id": 1361,
     "fully_published": true,
     "last_checked_at": "2026-10-27T16:18:07.093213+00:00"
+  },
+  "0bee11310dd96ef9ee89f8e0ffc9889a8d1da3bbe13165635155d91a18234bd1": {
+    "title": "صادقی: بیش از ۲ میلیارد دلار مبادلات تجاری در کرمانشاه ثبت شد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6991957/%D8%B5%D8%A7%D8%AF%D9%82%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1622
+    ],
+    "eitaa_message_ids": [
+      178636485
+    ],
+    "group_message_ids": [
+      1362
+    ],
+    "content_hash": "a60729266ecf3987378e711648a99e9f958f1e1bd299657d90b27362c7f2b424",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T16:48:11.069331+00:00",
+    "telegram_message_id": 1622,
+    "eitaa_last_sent_at": "2026-10-27T16:48:12.768893+00:00",
+    "eitaa_message_id": 178636485,
+    "group_last_sent_at": "2026-10-27T16:48:14.625093+00:00",
+    "group_message_id": 1362,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T16:48:14.650241+00:00"
   }
 }
