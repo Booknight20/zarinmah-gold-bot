@@ -15446,5 +15446,53 @@
     "group_message_id": 1368,
     "fully_published": true,
     "last_checked_at": "2026-10-27T18:45:44.149196+00:00"
+  },
+  "2a9319e50342548a7fab503affe79b2110227cb4eea49c297ee54a86cd738986": {
+    "title": "۳۰ هزار دلار سهمیه جدید وارداتی به پیله وران آذربایجان غربی توزیع شد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6992101/%DB%B3%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%D9%87%D9%85%DB%8C%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA%DB%8C-%D8%A8%D9%87-%D9%BE%DB%8C%D9%84%D9%87-%D9%88%D8%B1%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C",
+    "telegram_message_ids": [
+      1630
+    ],
+    "eitaa_message_ids": [
+      178660231
+    ],
+    "group_message_ids": [
+      1370
+    ],
+    "content_hash": "4035b0dbf41b86b943cda64e20938bcb987789265ee9095c00f1b90d3dd822b8",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T20:06:38.274890+00:00",
+    "telegram_message_id": 1630,
+    "eitaa_last_sent_at": "2026-10-27T20:06:41.970810+00:00",
+    "eitaa_message_id": 178660231,
+    "group_last_sent_at": "2026-10-27T20:06:43.899239+00:00",
+    "group_message_id": 1370,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T20:06:43.918278+00:00"
+  },
+  "a886785f92d5c9377b1613915d7611ca5a6791096758a5dd606812e31f7c8ae5": {
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۵ آبان ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۲۶۹ هزار و ۵۰۰ تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294106/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
+    "telegram_message_ids": [
+      1631
+    ],
+    "eitaa_message_ids": [
+      178660240
+    ],
+    "group_message_ids": [
+      1371
+    ],
+    "content_hash": "8a94cc40fe4d1d5fd33516c2a5e1be32028afca82c66cd56e1d1890516d26ce3",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T20:06:45.758064+00:00",
+    "telegram_message_id": 1631,
+    "eitaa_last_sent_at": "2026-10-27T20:06:48.460213+00:00",
+    "eitaa_message_id": 178660240,
+    "group_last_sent_at": "2026-10-27T20:06:50.162759+00:00",
+    "group_message_id": 1371,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T20:06:50.181710+00:00"
   }
 }
