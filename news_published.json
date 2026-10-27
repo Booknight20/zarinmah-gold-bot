@@ -15494,5 +15494,53 @@
     "group_message_id": 1371,
     "fully_published": true,
     "last_checked_at": "2026-10-27T20:06:50.181710+00:00"
+  },
+  "a20e36b3bea5368ac0fd4bdc734d4b2fff87c4738decde5846d036cd8cc20863": {
+    "title": "تراکتور نقره داغ شد، استقلال باخت!",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080503512/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%A7%D8%BA-%D8%B4%D8%AF-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A8%D8%A7%D8%AE%D8%AA",
+    "telegram_message_ids": [
+      1632
+    ],
+    "eitaa_message_ids": [
+      178664953
+    ],
+    "group_message_ids": [
+      1372
+    ],
+    "content_hash": "a3fe1df97379f5777fdaab3bdeb03431ea7914367354c3c103b71e68a84380f2",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T20:44:48.661483+00:00",
+    "telegram_message_id": 1632,
+    "eitaa_last_sent_at": "2026-10-27T20:44:50.319048+00:00",
+    "eitaa_message_id": 178664953,
+    "group_last_sent_at": "2026-10-27T20:44:52.047498+00:00",
+    "group_message_id": 1372,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T20:44:52.061724+00:00"
+  },
+  "d5147ef7444daa9632885ce04861f07fcfc0673bc9dad1de3ad4f85e918e6c00": {
+    "title": "عقب نشینی شاخص از 8 میلیون",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4304631-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A7%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "telegram_message_ids": [
+      1633
+    ],
+    "eitaa_message_ids": [
+      178664960
+    ],
+    "group_message_ids": [
+      1373
+    ],
+    "content_hash": "3bed76ddbf95b18b70cbefdf2cf116ed270a948130232dbd05e1fbd8eec74b21",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T20:44:53.790289+00:00",
+    "telegram_message_id": 1633,
+    "eitaa_last_sent_at": "2026-10-27T20:44:55.370683+00:00",
+    "eitaa_message_id": 178664960,
+    "group_last_sent_at": "2026-10-27T20:44:57.071384+00:00",
+    "group_message_id": 1373,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T20:44:57.085575+00:00"
   }
 }
