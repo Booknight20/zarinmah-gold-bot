@@ -14414,5 +14414,77 @@
     "group_message_id": 1300,
     "fully_published": true,
     "last_checked_at": "2026-10-27T08:48:11.672447+00:00"
+  },
+  "a1715653b6696d65ada184437d8fe9064a31524d3c839b16b02c21531675d5c3": {
+    "title": "عرضه ارز درمان بازار نیست/ سه الزام مدیریت پایدار بازار ارز",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080503064/%D8%B9%D8%B1%D8%B6%D9%87-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D8%B3%D8%AA-%D8%B3%D9%87-%D8%A7%D9%84%D8%B2%D8%A7%D9%85-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2",
+    "telegram_message_ids": [
+      1563
+    ],
+    "eitaa_message_ids": [
+      178564035
+    ],
+    "group_message_ids": [
+      1303
+    ],
+    "content_hash": "e82d5fe63dc6924052bfd81f757e172436f13f03ebb67c401f3233f0385f80ab",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T09:18:17.909124+00:00",
+    "telegram_message_id": 1563,
+    "eitaa_last_sent_at": "2026-10-27T09:18:19.531305+00:00",
+    "eitaa_message_id": 178564035,
+    "group_last_sent_at": "2026-10-27T09:18:21.237307+00:00",
+    "group_message_id": 1303,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T09:18:21.260980+00:00"
+  },
+  "439b90696e2b9c6a3dd00c202c05d1fcd191fc6aaa576ea9ca34e442749beea0": {
+    "title": "تمدید ۳ ماهه مهلت عدم اعمال محدودیت برای برخی صادرکنندگان",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6991438/%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%DB%B3-%D9%85%D8%A7%D9%87%D9%87-%D9%85%D9%87%D9%84%D8%AA-%D8%B9%D8%AF%D9%85-%D8%A7%D8%B9%D9%85%D8%A7%D9%84-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1564
+    ],
+    "eitaa_message_ids": [
+      178564046
+    ],
+    "group_message_ids": [
+      1304
+    ],
+    "content_hash": "8f384206d3fdef0da3aa8d14919efe306fc8f18f2978ec990691b082179c1a5f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T09:18:23.010322+00:00",
+    "telegram_message_id": 1564,
+    "eitaa_last_sent_at": "2026-10-27T09:18:24.583076+00:00",
+    "eitaa_message_id": 178564046,
+    "group_last_sent_at": "2026-10-27T09:18:26.271735+00:00",
+    "group_message_id": 1304,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T09:18:26.297210+00:00"
+  },
+  "bef35fe1c248e5f3dc2f80979516d0d266ea3591251f1c1150869908733ff8a2": {
+    "title": "قیمت طلا ظهر امروز ۵ آبان ۱۴۰۵/ هر گرم طلای ۱۸عیار ۲۶ میلیون و ۳۴۲ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293810/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "telegram_message_ids": [
+      1565
+    ],
+    "eitaa_message_ids": [
+      178564051
+    ],
+    "group_message_ids": [
+      1305
+    ],
+    "content_hash": "615a7e271db43eed3a4e6ef68d9ae52d927cbe6f677f5fb6b75e1361aed607fd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T09:18:28.008998+00:00",
+    "telegram_message_id": 1565,
+    "eitaa_last_sent_at": "2026-10-27T09:18:29.486765+00:00",
+    "eitaa_message_id": 178564051,
+    "group_last_sent_at": "2026-10-27T09:18:31.165622+00:00",
+    "group_message_id": 1305,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T09:18:31.189102+00:00"
   }
 }
