@@ -1,6 +1,101 @@
 [
   {
     "source": "دنیای اقتصاد",
+    "title": "نرخ ارز دلار، طلا و یورو امروز دوشنبه ۴ آبان ۱۴۰۵/ افزایش قیمت طلا و دلار",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304540-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد رشد قیمت طلای ۱۸ عیار و کاهش سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
+    "published": "Tue, 27 Oct 2026 07:51:56 +0000",
+    "collected_at": "2026-10-27T12:17:11.559208+03:30",
+    "filter_market_score": 51,
+    "market_score": 54,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "سکه امامی",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ],
+      "currency": [
+        "دلار",
+        "نرخ ارز",
+        "ارز",
+        "یورو",
+        "مرکز مبادله"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "نرخ ارز",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "سکه امامی",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ],
+      "currency": [
+        "نرخ ارز",
+        "ارز",
+        "مرکز مبادله"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "نرخ",
+      "کاهش",
+      "رشد",
+      "صعود",
+      "نوسان"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی",
+      "طلای ۱۸ عیار",
+      "طلای 18 عیار"
+    ],
+    "currency_matches": [
+      "دلار",
+      "نرخ ارز",
+      "ارز",
+      "یورو",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت طلا، دلار و سکه امروز سه شنبه ۵ آبان ۱۴۰۵/ سردرگمی بازار از سیگنال های متضاد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304512-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%D8%B1%D8%AF%D8%B1%DA%AF%D9%85%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D8%B6%D8%A7%D8%AF",
     "summary": "سه شنبه 5 آبان معاملات در بازار طلا، سکه و ارز در حالی آغاز می شود که این بازار با سیگنال های متضاد سیاسی و اقتصادی روبه رو شده است؛ دلار در معرض آزمون حمایت ۲۷۰ هزار تومانی قرار گرفت، طلای ۱۸ عیار به مرز حساس ۲۶ میلیون تومان نزدیک شد و سکه امامی زیر سایه فشار فروش، چشم انتظار تعیین مسیر تازه قیمت ها ماند.",
@@ -1335,66 +1430,6 @@
     "ranking_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا ظهر امروز ۴ آبان ۱۴۰۵/ هر گرم طلای ۱۸ عیار ۲۶ میلیون و ۴۳۲ هزار تومان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2293299/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8-%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
-    "summary": "قیمت طلا در بازار تهران امروز ۴ آبان ۱۴۰۵ اعلام و هر گرم طلای ۱۸عیار ۲۶ میلیون و ۴۳۲ هزار تومان شد.",
-    "published": "Mon, 26 Oct 2026 08:30:00 GMT",
-    "collected_at": "2026-10-26T12:17:46.243172+03:30",
-    "filter_market_score": 31,
-    "market_score": 29,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "رشد شاخص کل در بازاری پرابهام؛ آربیتراژ طلا چطور کار می کند؟ +فیلم",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304330-%D8%B1%D8%B4%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%DB%8C-%D9%BE%D8%B1%D8%A7%D8%A8%D9%87%D8%A7%D9%85-%D8%A2%D8%B1%D8%A8%DB%8C%D8%AA%D8%B1%D8%A7%DA%98-%D8%B7%D9%84%D8%A7-%DA%86%D8%B7%D9%88%D8%B1-%DA%A9%D8%A7%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
@@ -2581,67 +2616,6 @@
     "ranking_applied": true
   },
   {
-    "source": "مهر",
-    "title": "فردا؛ یکصد و پنجاه و نهمین حراج شمش طلا برگزار می شود",
-    "link": "https://www.mehrnews.com/news/6990297/%D9%81%D8%B1%D8%AF%D8%A7-%DB%8C%DA%A9%D8%B5%D8%AF-%D9%88-%D9%BE%D9%86%D8%AC%D8%A7%D9%87-%D9%88-%D9%86%D9%87%D9%85%DB%8C%D9%86-%D8%AD%D8%B1%D8%A7%D8%AC-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
-    "summary": "مرکز مبادله ایران فردا، سه شنبه ۵ آبان ماه، یکصد و پنجاه و نهمین حراج شمش طلا را برگزار می کند و متقاضیان تا ساعت ۲۴ امروز برای ثبت نام و واریز وجه الضمان فرصت دارند.",
-    "published": "Mon, 26 Oct 2026 08:38:39 GMT",
-    "collected_at": "2026-10-26T12:17:29.409746+03:30",
-    "filter_market_score": 17,
-    "market_score": 23,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "مرکز مبادله"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "مرکز مبادله"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "حراج"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "اصلاح بورس پایان صعود نیست/ ملاک ادامه حضور سهامداران در بازار چیست؟",
     "link": "https://www.isna.ir/news/1405080502992/%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D9%88%D8%B1%D8%B3-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B5%D8%B9%D9%88%D8%AF-%D9%86%DB%8C%D8%B3%D8%AA-%D9%85%D9%84%D8%A7%DA%A9-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AD%D8%B6%D9%88%D8%B1-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1",
@@ -2988,6 +2962,65 @@
     "ranking_applied": true
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "ترکیدن حباب هوش مصنوعی در بورس چین",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4304519-%D8%AA%D8%B1%DA%A9%DB%8C%D8%AF%D9%86-%D8%AD%D8%A8%D8%A7%D8%A8-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%DA%86%DB%8C%D9%86",
+    "summary": "دنیای اقتصاد: در حالی که بازارهای جهانی فناوری با نوسان دست وپنجه نرم می کنند، بورس چین زودتر از دیگران سقوط کرده است. نگرانی درباره تقاضا برای هوش مصنوعی در کنار محدودیت هایی بر صادرات چین، ارزش گذاری های نجومی را در هم شکسته و حباب این بازار را ترکانده است.",
+    "published": "Tue, 27 Oct 2026 08:30:17 +0000",
+    "collected_at": "2026-10-27T12:17:11.559136+03:30",
+    "filter_market_score": 17,
+    "market_score": 20,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "حباب",
+      "سقوط",
+      "نوسان",
+      "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "تخصیص ۵۰۰۰ میلیاردی اعتبار برای خرید زعفران/ شایعات توقف صادرات صحت ندارد",
     "link": "https://www.isna.ir/news/1405080402663/%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%DB%B5%DB%B0%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%B4%D8%A7%DB%8C%D8%B9%D8%A7%D8%AA-%D8%AA%D9%88%D9%82%D9%81-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA",
@@ -3045,6 +3078,63 @@
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "مس کاوان نماد در بورس تهران پذیرفته شد / زینلی: ورود به بورس، پشتوانه تداوم توسعه شرکت است",
+    "link": "https://www.khabaronline.ir/news/2293834/%D9%85%D8%B3-%DA%A9%D8%A7%D9%88%D8%A7%D9%86-%D9%86%D9%85%D8%A7%D8%AF-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%B0%DB%8C%D8%B1%D9%81%D8%AA%D9%87-%D8%B4%D8%AF-%D8%B2%DB%8C%D9%86%D9%84%DB%8C-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%87-%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "مس کاوان نماد در بورس تهران پذیرفته شده و عرضه اولیهٔ آن پیش رو است. سید حجت زینلی، مدیرعامل این شرکت، می گوید ورود به بازار سرمایه علاوه بر شفافیت، امکان تأمین مالی برای توسعهٔ مجتمع عباس آباد را فراهم می کند.",
+    "published": "Tue, 27 Oct 2026 08:24:25 GMT",
+    "collected_at": "2026-10-27T12:17:16.409257+03:30",
+    "filter_market_score": 18,
+    "market_score": 19,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "عرضه اولیه"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "عرضه اولیه"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "عرضه"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "بازار سرمایه",
+      "عرضه اولیه"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -3264,6 +3354,62 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "فوردهای گران قیمت در تهران/ ارز واردات خودروهای لوکس از کجا می آید؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304548-%D9%81%D9%88%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%DA%AF%D8%B1%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%84%D9%88%DA%A9%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%AC%D8%A7-%D9%85%DB%8C-%D8%A2%DB%8C%D8%AF",
+    "summary": "عضو کمیسیون کشاورزی مجلس گفت: این روزها خودروهای گران قیمتی از جمله فورد را در خیابان های تهران به وفور می بینیم؛ در این شرایط باید مشخص شود این خودروها چگونه و از طریق چه سازوکاری وارد کشور می شوند و ارز مورد نیاز برای واردات آن ها بر چه مبنایی تأمین شده است.",
+    "published": "Tue, 27 Oct 2026 08:44:07 +0000",
+    "collected_at": "2026-10-27T12:17:11.559070+03:30",
+    "filter_market_score": 14,
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -3837,6 +3983,55 @@
     "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "حاشیه های توپ طلای ۲۰۲۶ + ویدیو",
+    "link": "https://www.isna.ir/news/1405080502985/%D8%AD%D8%A7%D8%B4%DB%8C%D9%87-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B2%DB%B0%DB%B2%DB%B6",
+    "summary": "مراسم توپ طلا در شرایطی با تاج گذاری هری کین در لندن به پایان رسید که خالی از حاشیه نبود. سایت رسمی توپ طلا چند ساعت قبل از مراسم، به اشتباه برای هر سه نامزد اصلی (کین، ام باپه و یامال) مقاله ی «برنده» منتشر کرد و سپس آن ها را حذف کرد. همچنین مراسم به دلیل هجوم هواداران و ترافیک سنگین مقابل لندن پالادیوم با تاخیر آغاز شد.",
+    "published": "Tue, 27 Oct 2026 08:30:00 GMT",
+    "collected_at": "2026-10-27T12:16:47.108235+03:30",
+    "filter_market_score": 10,
+    "market_score": 16,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -5246,50 +5441,6 @@
       "طلا"
     ],
     "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "تحقق ۸۳ درصد درآمدهای امسال کرمانشاه/ صدور مجوز برای ۱۳ میلیون دلار سرمایه گذاری خارجی",
-    "link": "https://www.isna.ir/news/1405080402224/%D8%AA%D8%AD%D9%82%D9%82-%DB%B8%DB%B3-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D9%85%D8%B3%D8%A7%D9%84-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B5%D8%AF%D9%88%D8%B1-%D9%85%D8%AC%D9%88%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%DB%B1%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
-    "summary": "مدیرکل امور اقتصادی و دارایی استان کرمانشاه از تحقق ۸۳ درصدی درآمدهای مصوب استان از ابتدای سال جاری تاکنون خبر داد.",
-    "published": "Mon, 26 Oct 2026 08:44:16 GMT",
-    "collected_at": "2026-10-26T12:17:16.990976+03:30",
-    "filter_market_score": 6,
-    "market_score": 12,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
