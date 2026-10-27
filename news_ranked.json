@@ -5338,6 +5338,50 @@
     "ranking_applied": true
   },
   {
+    "source": "تابناک",
+    "title": "سود 80 میلیاردی از تعطیلی خودروسازهای داخلی؟!",
+    "link": "https://example.com/fa/news/30008079/%D8%B3%D9%88%D8%AF-80-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%A7%D8%B2-%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C",
+    "summary": "جلال رشیدی کوچی با انتقاد از وضعیت صنعت خودروسازی داخلی مدعی شد تعطیلی این صنعت می تواند سالانه ۸۰ میلیارد دلار به نفع کشور تمام شود. ادعاهای این نماینده سابق مجلس را می بینید و می شنوید.",
+    "published": "Tue, 27 Oct 2026 21:35:00 +0330",
+    "collected_at": "2026-10-28T03:17:37.878291+03:30",
+    "filter_market_score": 5,
+    "market_score": 9,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مهر",
     "title": "تمدید ۳ ماهه مهلت عدم اعمال محدودیت برای برخی صادرکنندگان",
     "link": "https://www.mehrnews.com/news/6991438/%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%DB%B3-%D9%85%D8%A7%D9%87%D9%87-%D9%85%D9%87%D9%84%D8%AA-%D8%B9%D8%AF%D9%85-%D8%A7%D8%B9%D9%85%D8%A7%D9%84-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86",

@@ -15566,5 +15566,29 @@
     "group_message_id": 1374,
     "fully_published": true,
     "last_checked_at": "2026-10-27T22:44:47.313743+00:00"
+  },
+  "2c2b84d0220f515104ee85ce185b5403d121f1469a6e4685a934a1dc63d007bb": {
+    "title": "سود 80 میلیاردی از تعطیلی خودروسازهای داخلی؟!",
+    "source": "تابناک",
+    "link": "https://example.com/fa/news/30008079/%D8%B3%D9%88%D8%AF-80-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%A7%D8%B2-%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C",
+    "telegram_message_ids": [
+      1635
+    ],
+    "eitaa_message_ids": [
+      178676285
+    ],
+    "group_message_ids": [
+      1375
+    ],
+    "content_hash": "42a6ae84296ab2f03795ce5f585caf12da9c85ce4fe7def74238518270ee0c70",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T23:48:05.283848+00:00",
+    "telegram_message_id": 1635,
+    "eitaa_last_sent_at": "2026-10-27T23:48:06.929292+00:00",
+    "eitaa_message_id": 178676285,
+    "group_last_sent_at": "2026-10-27T23:48:08.742615+00:00",
+    "group_message_id": 1375,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T23:48:08.768180+00:00"
   }
 }
