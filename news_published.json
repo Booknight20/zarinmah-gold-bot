@@ -15086,5 +15086,29 @@
     "group_message_id": 1341,
     "fully_published": true,
     "last_checked_at": "2026-10-27T12:48:09.341244+00:00"
+  },
+  "50113b1cb0d672e129c233a14c36cd923caa8b69e92ca325d78c7819d9233929": {
+    "title": "نرخ ارز دلار، طلا و یورو امروز سه شنبه ۵ آبان ۱۴۰۵/ کاهش قیمت طلا و سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304540-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      1605
+    ],
+    "eitaa_message_ids": [
+      178616589
+    ],
+    "group_message_ids": [
+      1345
+    ],
+    "content_hash": "e5dbb4071a1c9ea5a1ade9021cd1b990294785fa2037b148f9d2dc18f853b8ae",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T14:17:59.726198+00:00",
+    "telegram_message_id": 1605,
+    "eitaa_last_sent_at": "2026-10-27T14:18:00.820636+00:00",
+    "eitaa_message_id": 178616589,
+    "group_last_sent_at": "2026-10-27T14:18:02.479189+00:00",
+    "group_message_id": 1345,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T14:18:02.503424+00:00"
   }
 }
