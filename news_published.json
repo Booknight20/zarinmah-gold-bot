@@ -13430,5 +13430,29 @@
     "group_message_id": 1250,
     "fully_published": true,
     "last_checked_at": "2026-10-27T02:38:06.905036+00:00"
+  },
+  "d70c632a1624ea27110e05ddcc75835e96f03600b56de82deb7d00b53acf78a3": {
+    "title": "قیمت سکه امروز ۴ آبان ۱۴۰۵ در زمان بسته شدن بازار/ سکه امامی ۲۶۶ میلیون و ۴۰۰ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293593/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C",
+    "telegram_message_ids": [
+      1511
+    ],
+    "eitaa_message_ids": [
+      178511176
+    ],
+    "group_message_ids": [
+      1251
+    ],
+    "content_hash": "6e9bcb6d34a3a7925218fa2d2d92f844ade8ad90d37f3c56bf70e80aa3373935",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T03:16:07.304179+00:00",
+    "telegram_message_id": 1511,
+    "eitaa_last_sent_at": "2026-10-27T03:16:08.584375+00:00",
+    "eitaa_message_id": 178511176,
+    "group_last_sent_at": "2026-10-27T03:16:10.311968+00:00",
+    "group_message_id": 1251,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T03:16:10.328345+00:00"
   }
 }
