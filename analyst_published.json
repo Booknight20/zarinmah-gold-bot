@@ -14525,5 +14525,75 @@
     "group_sent_at": "2026-10-27T08:48:15.136460+03:30",
     "group_message_id": 1262,
     "published_at": "2026-10-27T08:48:15.151588+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25780": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "دقت کنید بار دیگر این تحلیل دقیق بوده با اینکه احتمال جنگ هست اما تا دلار حواله رفت برای ۱۸۳ هزار تومان و ماشین پشتی...",
+      "summary": "دقت کنید بار دیگر این تحلیل دقیق بوده با اینکه احتمال جنگ هست اما تا دلار حواله رفت برای ۱۸۳ هزار تومان و ماشین پشتی حرکت کرد بورس هم سبز شد پس اینکه تحلیل میشه بورس خطر جنگ رو ارزیابی میکنه غلطه! تنها خطر بورس فعلی توافق محدود هست چون باعث کاهش قیمت دلار…",
+      "full_text": "دقت کنید بار دیگر این تحلیل دقیق بوده با اینکه احتمال جنگ هست اما تا دلار حواله رفت برای ۱۸۳ هزار تومان و ماشین پشتی حرکت کرد بورس هم سبز شد پس اینکه تحلیل میشه بورس خطر جنگ رو ارزیابی میکنه غلطه! تنها خطر بورس فعلی توافق محدود هست چون باعث کاهش قیمت دلار…",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25780",
+      "analysis_score": 20,
+      "market_matches": [
+        "دلار",
+        "ارز",
+        "بورس"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "احتمال",
+        "کاهش",
+        "قیمت"
+      ],
+      "market_groups": [
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 256,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-27T09:18:12.766040+03:30"
+    },
+    "content_signature": "20052704e5ed36a01afb93cedd198466e0a7a7fd41c4f6bb7c73f1778df7a16e",
+    "first_seen_at": "2026-10-27T09:18:36.044408+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1527
+    ],
+    "telegram_last_success_at": "2026-10-27T09:18:36.638455+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-27T09:18:36.654850+03:30",
+    "telegram_message_id": 1527,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178526968
+    ],
+    "eitaa_last_success_at": "2026-10-27T09:18:38.270386+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-27T09:18:38.286506+03:30",
+    "eitaa_message_id": 178526968,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1267
+    ],
+    "group_last_success_at": "2026-10-27T09:18:38.908741+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-27T09:18:38.924228+03:30",
+    "group_message_id": 1267,
+    "published_at": "2026-10-27T09:18:38.939421+03:30"
   }
 }
