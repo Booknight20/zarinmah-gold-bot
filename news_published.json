@@ -15014,5 +15014,53 @@
     "group_message_id": 1336,
     "fully_published": true,
     "last_checked_at": "2026-10-27T11:47:47.890813+00:00"
+  },
+  "7285dc2665bb5b88453fcbddbf4cbb9fc97d0b5ce418c2228bfa867c2a95607e": {
+    "title": "از رفع موانع تولید تا تأمین انرژی و ارز؛ بررسی چالش های صنعت رنگ",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6991700/%D8%A7%D8%B2-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AA%D8%A7-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D9%88-%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%DA%86%D8%A7%D9%84%D8%B4-%D9%87%D8%A7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA",
+    "telegram_message_ids": [
+      1599
+    ],
+    "eitaa_message_ids": [
+      178598406
+    ],
+    "group_message_ids": [
+      1339
+    ],
+    "content_hash": "0469ea9919440cf0af29371888db9116643b6dcf58941ff6581ee00ae802db49",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T12:16:17.527879+00:00",
+    "telegram_message_id": 1599,
+    "eitaa_last_sent_at": "2026-10-27T12:16:19.184167+00:00",
+    "eitaa_message_id": 178598406,
+    "group_last_sent_at": "2026-10-27T12:16:21.064445+00:00",
+    "group_message_id": 1339,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T12:16:21.082344+00:00"
+  },
+  "aa82b2369c8a406f602a6f3c2703c733c1defb0b01cb73261061e66c38dabfd2": {
+    "title": "آیا اینترنت در ایران ارزان است؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4304570-%D8%A2%DB%8C%D8%A7-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1600
+    ],
+    "eitaa_message_ids": [
+      178598416
+    ],
+    "group_message_ids": [
+      1340
+    ],
+    "content_hash": "0b23c098bb6502d843ada115b5d43c625537ee1e381d10bfdc4e74c525b33ce5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T12:16:22.994214+00:00",
+    "telegram_message_id": 1600,
+    "eitaa_last_sent_at": "2026-10-27T12:16:25.296361+00:00",
+    "eitaa_message_id": 178598416,
+    "group_last_sent_at": "2026-10-27T12:16:27.034724+00:00",
+    "group_message_id": 1340,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T12:16:27.052530+00:00"
   }
 }
