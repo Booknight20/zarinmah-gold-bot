@@ -14486,5 +14486,53 @@
     "group_message_id": 1305,
     "fully_published": true,
     "last_checked_at": "2026-10-27T09:18:31.189102+00:00"
+  },
+  "55cb292f360b3257ff2b9c5e2a9fe5ec481707401257a7c4c075bd6452dc804a": {
+    "title": "عقب گرد بورس به زیر ۸ میلیون واحد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080503121/%D8%B9%D9%82%D8%A8-%DA%AF%D8%B1%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF",
+    "telegram_message_ids": [
+      1568
+    ],
+    "eitaa_message_ids": [
+      178568153
+    ],
+    "group_message_ids": [
+      1308
+    ],
+    "content_hash": "f255d654f81fafc83edcb1781f3240b25d50261f81eb1a57a488bcfde08fb074",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T09:44:46.562687+00:00",
+    "telegram_message_id": 1568,
+    "eitaa_last_sent_at": "2026-10-27T09:44:47.922329+00:00",
+    "eitaa_message_id": 178568153,
+    "group_last_sent_at": "2026-10-27T09:44:49.611977+00:00",
+    "group_message_id": 1308,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T09:44:49.625579+00:00"
+  },
+  "f59f6b1abaa6cf3df6a540c061dfa9584050392674cc0a041cf18183432f410f": {
+    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۵ آبان ۱۴۰۵/ دلار به قیمت ۲۷۲ هزار و ۴۶۵ تومان رسید + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293817/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87",
+    "telegram_message_ids": [
+      1569
+    ],
+    "eitaa_message_ids": [
+      178568166
+    ],
+    "group_message_ids": [
+      1309
+    ],
+    "content_hash": "d9cefc63ac2ac0dca633dea38e9626d3e0158117f7343a5adcd159fae7527dba",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T09:44:51.298504+00:00",
+    "telegram_message_id": 1569,
+    "eitaa_last_sent_at": "2026-10-27T09:44:52.639083+00:00",
+    "eitaa_message_id": 178568166,
+    "group_last_sent_at": "2026-10-27T09:44:54.369377+00:00",
+    "group_message_id": 1309,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T09:44:54.382987+00:00"
   }
 }
