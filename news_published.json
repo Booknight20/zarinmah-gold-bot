@@ -15254,5 +15254,53 @@
     "group_message_id": 1357,
     "fully_published": true,
     "last_checked_at": "2026-10-27T15:05:26.217374+00:00"
+  },
+  "71032e65e3248022c157a719a0dfa920e29e14b7b7d632a57e170ad5434fd523": {
+    "title": "سعید اسماعیلی پس از کسب طلای جهان: تکرار قهرمانی سخت است",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080503392/%D8%B3%D8%B9%DB%8C%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%B3%D8%AE%D8%AA-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1618
+    ],
+    "eitaa_message_ids": [
+      178627820
+    ],
+    "group_message_ids": [
+      1358
+    ],
+    "content_hash": "76e223868c1995ee323bc512425d1478f54e88d66e763749732df5ff3ed04d34",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T15:44:50.732546+00:00",
+    "telegram_message_id": 1618,
+    "eitaa_last_sent_at": "2026-10-27T15:44:52.257860+00:00",
+    "eitaa_message_id": 178627820,
+    "group_last_sent_at": "2026-10-27T15:44:53.995444+00:00",
+    "group_message_id": 1358,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T15:44:54.007946+00:00"
+  },
+  "cf84ddc9d38bb3b51fd03cccfba0697fbe5f73f499f27a40ae9cf09c8e8c0a5c": {
+    "title": "فیلم/ مراسم اهدای جام قهرمانی مسابقات کشتی فرنگی قهرمانی جهان ۲۰۲۶ به تیم ایران",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848647/%D9%81%DB%8C%D9%84%D9%85-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1619
+    ],
+    "eitaa_message_ids": [
+      178627826
+    ],
+    "group_message_ids": [
+      1359
+    ],
+    "content_hash": "15a21631680605654078957eaf6c03c8ee0e0c48d6bda11a7e8e0b2eb5114bc8",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T15:44:55.764330+00:00",
+    "telegram_message_id": 1619,
+    "eitaa_last_sent_at": "2026-10-27T15:44:57.191604+00:00",
+    "eitaa_message_id": 178627826,
+    "group_last_sent_at": "2026-10-27T15:44:58.892415+00:00",
+    "group_message_id": 1359,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T15:44:58.905207+00:00"
   }
 }
