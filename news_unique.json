@@ -417,147 +417,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "گزارش بازار سرمایه امروز دوشنبه ۴ آبان ۱۴۰۵ / شاخص کل بورس ۵۴ هزار واحد رشد کرد",
-    "link": "https://www.khabaronline.ir/live/2293259/%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B1%DB%B0%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF-%DB%B2%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
-    "summary": "شاخص کل بورس تهران در پایان معاملات امروز دوشنبه ۴ آبان ۱۴۰۵ با رشد ۵۴ هزار و ۲۴۱ واحدی به ۸ میلیون و ۶۹ هزار و ۷۸۹ واحد رسید؛ در مقابل، شاخص هم وزن ۳ هزار و ۹۴۸ واحد معادل ۰.۱۸ درصد افت کرد و شاخص کل فرابورس نیز با کاهش ۱۷۵ واحدی، ۰.۲۶ درصد پایین آمد.",
-    "published": "Mon, 26 Oct 2026 11:00:00 GMT",
-    "collected_at": "2026-10-26T14:46:01.620674+03:30",
-    "filter_market_score": 40,
-    "market_score": 34,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه",
-        "شاخص کل"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "گزارش",
-      "کاهش",
-      "افت",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه",
-      "شاخص کل",
-      "شاخص هم وزن",
-      "فرابورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مشرق",
-    "title": "رشد ۵۴ هزار واحدی شاخص کل بورس",
-    "link": "https://www.mashreghnews.ir/news/1848281/%D8%B1%D8%B4%D8%AF-%DB%B5%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3",
-    "summary": "شاخص کل بورس تهران در سومین روز کاری آبان با رشد ۰.۶۸ درصدی به بیش از ۸ میلیون و ۶۹ هزار واحد رسید؛ با وجود ورود پول حقیقی به سهام، شاخص هم وزن و فرابورس افت کردند.",
-    "published": "Mon, 26 Oct 2026 11:11:19 GMT",
-    "collected_at": "2026-10-26T14:46:09.440739+03:30",
-    "filter_market_score": 38,
-    "market_score": 33,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس",
-        "ورود پول حقیقی",
-        "سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس",
-        "ورود پول حقیقی",
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "افت",
-      "ورود پول"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن",
-      "فرابورس",
-      "ورود پول حقیقی",
-      "سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "شاخص کل بورس کانال 8 میلیون واحد را از دست داد/ 7.5 همت پول از بازار سهام خارج شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304557-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF-%D9%87%D9%85%D8%AA-%D9%BE%D9%88%D9%84-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B4%D8%AF",
@@ -1629,6 +1488,69 @@
     "duplicate_count": 1
   },
   {
+    "source": "تابناک",
+    "title": "بورس کانال ۸ میلیونی را از دست داد/ ۷ هزار و ۵۰۰ میلیارد تومان از بازار سهام خارج شد",
+    "link": "https://example.com/fa/news/30008015/%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF-7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-500-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B4%D8%AF",
+    "summary": "معاملات امروز بورس تهران در حالی به پایان رسید که شاخص کل ۱۴۲ هزار و ۸۶۹ واحد افت کرد و به ۷ میلیون و ۹۲۶ هزار واحد رسید.",
+    "published": "Tue, 27 Oct 2026 14:19:00 +0330",
+    "collected_at": "2026-10-27T14:47:05.487141+03:30",
+    "filter_market_score": 25,
+    "market_score": 28,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "سهام",
+        "بازار سهام",
+        "شاخص کل"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "سهام",
+      "بازار سهام",
+      "شاخص کل"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "ایسنا",
     "title": "افزایش قیمت طلا معکوس شد",
     "link": "https://www.isna.ir/news/1405080502833/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%85%D8%B9%DA%A9%D9%88%D8%B3-%D8%B4%D8%AF",
@@ -2333,6 +2255,68 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "ایسنا",
+    "title": "عرضه برنج مازندران در بورس کالا متوقف شد!",
+    "link": "https://www.isna.ir/news/1405080503241/%D8%B9%D8%B1%D8%B6%D9%87-%D8%A8%D8%B1%D9%86%D8%AC-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%84%D8%A7-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D8%B4%D8%AF",
+    "summary": "مدیرعامل مرکز بین المللی تجارت و پایانه صادرات برنج ایران با انتقاد از حمایت نشدن طرح عرضه برنج کیفی مازندران در بورس کالای کشاورزی گفت: با وجود سه سال فعالیت در این بازار، به دلیل هزینه های اجرایی و استقبال نکردن خریداران عمده، عرضه برنج در بورس از سال گذشته متوقف شده است.",
+    "published": "Tue, 27 Oct 2026 11:08:54 GMT",
+    "collected_at": "2026-10-27T14:46:35.244716+03:30",
+    "filter_market_score": 22,
+    "market_score": 24,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "بورس کالا"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "بورس کالا"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "بورس کالا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "عرضه",
+      "حمایت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "بورس کالا"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -3626,57 +3610,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "مهر",
-    "title": "هزینه حج ۱۴۰۶ به نرخ ارز بستگی دارد",
-    "link": "https://www.mehrnews.com/news/6990473/%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%AD%D8%AC-%DB%B1%DB%B4%DB%B0%DB%B6-%D8%A8%D9%87-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B3%D8%AA%DA%AF%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF",
-    "summary": "معاون حج و عمره سازمان حج گفت: مهلت انتخاب زمین در خیام عرفات و منا به پایان رسیده و برای تعیین تکلیف رقم طلب زائران حج آینده نیز تا ۸ بهمن فرصت باقی است.",
-    "published": "Mon, 26 Oct 2026 11:03:06 GMT",
-    "collected_at": "2026-10-26T14:45:48.174669+03:30",
-    "filter_market_score": 12,
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "نرخ ارز",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "تاسیس کشتارگاه مدرن ۵۰ میلیون دلاری الاغ در گوادر / پاکستان ۸۱ تن فرآورده الاغ به چین صادر کرد",
     "link": "https://www.khabaronline.ir/news/2293754/%D8%AA%D8%A7%D8%B3%DB%8C%D8%B3-%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-%D9%85%D8%AF%D8%B1%D9%86-%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%D9%84%D8%A7%D8%BA-%D8%AF%D8%B1-%DA%AF%D9%88%D8%A7%D8%AF%D8%B1-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86",
@@ -4104,6 +4037,58 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "مهر",
+    "title": "دریافت اعتبار خرید ۴۰۰ میلیون تومانی با توثیق دارایی های بورسی",
+    "link": "https://www.mehrnews.com/news/6991631/%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D8%AE%D8%B1%DB%8C%D8%AF-%DB%B4%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D8%AA%D9%88%D8%AB%DB%8C%D9%82-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C",
+    "summary": "سامانه اعتبار خرید فیروزه با اتصال به زیرساخت توثیق الکترونیکی سپرده گذاری مرکزی، امکان دریافت اعتبار تا سقف ۴۰۰ میلیون تومان را برای دارندگان دارایی های بازار سرمایه فراهم کرد.",
+    "published": "Tue, 27 Oct 2026 11:06:45 GMT",
+    "collected_at": "2026-10-27T14:46:48.486327+03:30",
+    "filter_market_score": 11,
+    "market_score": 16,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "بازار سرمایه"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -5471,6 +5456,59 @@
       "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "تابناک",
+    "title": "پشت پرده تصمیم ناگهانی دولت/ قیمت خودروهای داخلی گران تر می شود؟",
+    "link": "https://example.com/fa/news/30008013/%D9%BE%D8%B4%D8%AA-%D9%BE%D8%B1%D8%AF%D9%87-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%86%D8%A7%DA%AF%D9%87%D8%A7%D9%86%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%DA%AF%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "وقتی درهای قانونی بسته می شود، درهای قاچاق باز می شود بنابراین توقف واردات خودرو نه تنها فشار ارزی را کم نمی کند، بلکه بازار را به دست دلالان می دهد و جیب مردم را خالی تر می کند.",
+    "published": "Tue, 27 Oct 2026 14:00:00 +0330",
+    "collected_at": "2026-10-27T14:47:05.487169+03:30",
+    "filter_market_score": 9,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "تصمیم"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,

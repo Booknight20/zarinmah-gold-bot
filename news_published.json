@@ -14870,5 +14870,101 @@
     "group_message_id": 1326,
     "fully_published": true,
     "last_checked_at": "2026-10-27T10:49:03.140160+00:00"
+  },
+  "8b47b536b975965f4c41669d5ce61afbd7b641ded1fd7e98acb4fd9ecee715d1": {
+    "title": "عرضه برنج مازندران در بورس کالا متوقف شد!",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080503241/%D8%B9%D8%B1%D8%B6%D9%87-%D8%A8%D8%B1%D9%86%D8%AC-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%84%D8%A7-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1590
+    ],
+    "eitaa_message_ids": [
+      178582299
+    ],
+    "group_message_ids": [
+      1330
+    ],
+    "content_hash": "23aa692399cb72f1c18a1a8240997f78fbf038ecc0421a28f6653db4ad3f983e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T11:17:34.973855+00:00",
+    "telegram_message_id": 1590,
+    "eitaa_last_sent_at": "2026-10-27T11:17:36.351703+00:00",
+    "eitaa_message_id": 178582299,
+    "group_last_sent_at": "2026-10-27T11:17:38.005255+00:00",
+    "group_message_id": 1330,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T11:17:38.026680+00:00"
+  },
+  "45597c8af38401c7899914ba4422b8ff485862e43daf66d77ebd799ac12577a1": {
+    "title": "دریافت اعتبار خرید ۴۰۰ میلیون تومانی با توثیق دارایی های بورسی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6991631/%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D8%AE%D8%B1%DB%8C%D8%AF-%DB%B4%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D8%AA%D9%88%D8%AB%DB%8C%D9%82-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C",
+    "telegram_message_ids": [
+      1591
+    ],
+    "eitaa_message_ids": [
+      178582311
+    ],
+    "group_message_ids": [
+      1331
+    ],
+    "content_hash": "c13615541237c0abb2d728d0e483a872473386e2c6e506090256d3c940863d46",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T11:17:39.709391+00:00",
+    "telegram_message_id": 1591,
+    "eitaa_last_sent_at": "2026-10-27T11:17:40.994831+00:00",
+    "eitaa_message_id": 178582311,
+    "group_last_sent_at": "2026-10-27T11:17:42.649025+00:00",
+    "group_message_id": 1331,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T11:17:42.670154+00:00"
+  },
+  "d794aa9b8476c9cf6cd87d29ad11437cc51be6961b33e46f9ecbd9e3da8fc6ae": {
+    "title": "بورس کانال ۸ میلیونی را از دست داد/ ۷ هزار و ۵۰۰ میلیارد تومان از بازار سهام خارج شد",
+    "source": "تابناک",
+    "link": "https://example.com/fa/news/30008015/%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF-7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-500-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1592
+    ],
+    "eitaa_message_ids": [
+      178582320
+    ],
+    "group_message_ids": [
+      1332
+    ],
+    "content_hash": "6eb2b52a3c31bd63125ac8dd90afe84b6276eddd0b1a86510d5c09d3f8350e7e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T11:17:44.357354+00:00",
+    "telegram_message_id": 1592,
+    "eitaa_last_sent_at": "2026-10-27T11:17:45.698055+00:00",
+    "eitaa_message_id": 178582320,
+    "group_last_sent_at": "2026-10-27T11:17:47.350952+00:00",
+    "group_message_id": 1332,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T11:17:47.372261+00:00"
+  },
+  "0b8cf36c8c589f4d6f0ae8432ab9f1cbe8e6043248fc09de82df2e26455dce2c": {
+    "title": "پشت پرده تصمیم ناگهانی دولت/ قیمت خودروهای داخلی گران تر می شود؟",
+    "source": "تابناک",
+    "link": "https://example.com/fa/news/30008013/%D9%BE%D8%B4%D8%AA-%D9%BE%D8%B1%D8%AF%D9%87-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%86%D8%A7%DA%AF%D9%87%D8%A7%D9%86%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%DA%AF%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "telegram_message_ids": [
+      1593
+    ],
+    "eitaa_message_ids": [
+      178582324
+    ],
+    "group_message_ids": [
+      1333
+    ],
+    "content_hash": "f5327d1ec480c0980ee3a72e39d9783c48f046270c3b7dc6b3916030632d9858",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T11:17:49.056041+00:00",
+    "telegram_message_id": 1593,
+    "eitaa_last_sent_at": "2026-10-27T11:17:49.729972+00:00",
+    "eitaa_message_id": 178582324,
+    "group_last_sent_at": "2026-10-27T11:17:51.388310+00:00",
+    "group_message_id": 1333,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T11:17:51.409272+00:00"
   }
 }
