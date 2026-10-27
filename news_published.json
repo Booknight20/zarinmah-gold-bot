@@ -15350,5 +15350,53 @@
     "group_message_id": 1362,
     "fully_published": true,
     "last_checked_at": "2026-10-27T16:48:14.650241+00:00"
+  },
+  "e02a3623f68760d46ed7f621697f42d2b7bd1b85499fd5a8c672fbe4463ec069": {
+    "title": "رئیس شورای ملی زعفران: تعهدات ارزی از موانع پیش روی صادرکنندگان است",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080503435/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D9%85%D9%84%DB%8C-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%D8%B2-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D9%BE%DB%8C%D8%B4-%D8%B1%D9%88%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1624
+    ],
+    "eitaa_message_ids": [
+      178644028
+    ],
+    "group_message_ids": [
+      1364
+    ],
+    "content_hash": "f3828549487ecbd52d94bc81e929f55e2e4366012a887141fb2f5d0c144030b8",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T17:48:30.960442+00:00",
+    "telegram_message_id": 1624,
+    "eitaa_last_sent_at": "2026-10-27T17:48:32.718581+00:00",
+    "eitaa_message_id": 178644028,
+    "group_last_sent_at": "2026-10-27T17:48:34.606407+00:00",
+    "group_message_id": 1364,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T17:48:34.631851+00:00"
+  },
+  "2bc5227ba11b5703d7bb128a1bf7c7daf3d9b7ee19ff96cf5f05f2afbd08e004": {
+    "title": "هزینه ی ۲۵ هزار دلاری برای آزادسازی کانتینرها/ بحران ۱۸ هزار کانتینر ایرانی در پاکستان",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294024/%D9%87%D8%B2%DB%8C%D9%86%D9%87-%DB%8C-%DB%B2%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF%D8%B3%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D8%B1%D9%87%D8%A7-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%DB%B1%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1625
+    ],
+    "eitaa_message_ids": [
+      178644041
+    ],
+    "group_message_ids": [
+      1365
+    ],
+    "content_hash": "c394e8ab7f1dd9ba95b1358830fd89e00b5cf8c9f3a84f45b631af77244fb87f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T17:48:36.445789+00:00",
+    "telegram_message_id": 1625,
+    "eitaa_last_sent_at": "2026-10-27T17:48:38.118680+00:00",
+    "eitaa_message_id": 178644041,
+    "group_last_sent_at": "2026-10-27T17:48:39.853668+00:00",
+    "group_message_id": 1365,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T17:48:39.878584+00:00"
   }
 }
