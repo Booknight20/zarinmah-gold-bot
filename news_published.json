@@ -14030,5 +14030,101 @@
     "group_message_id": 1280,
     "fully_published": true,
     "last_checked_at": "2026-10-27T06:48:33.967197+00:00"
+  },
+  "1215c1b18e2b2e59dc5b43ab21ff39957d4df3a9627e7b6f0ace0740f6ae09ab": {
+    "title": "محدودیت واردات گوشی به میان رده ها هم می رسد؟",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6991261/%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%DB%8C%D8%A7%D9%86-%D8%B1%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-%D9%88-%D8%B4%DB%8C%D8%A7%D8%A6%D9%88%D9%85%DB%8C-%D9%87%D9%85-%D9%85%D8%B4%D9%85%D9%88%D9%84",
+    "telegram_message_ids": [
+      1542
+    ],
+    "eitaa_message_ids": [
+      178548546
+    ],
+    "group_message_ids": [
+      1282
+    ],
+    "content_hash": "588e7fb6c1c536751ec6753163e9828f73958027464e2480386889a456caf79a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T07:48:21.489908+00:00",
+    "telegram_message_id": 1542,
+    "eitaa_last_sent_at": "2026-10-27T07:48:23.151079+00:00",
+    "eitaa_message_id": 178548546,
+    "group_last_sent_at": "2026-10-27T07:48:24.910726+00:00",
+    "group_message_id": 1282,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T07:48:24.933534+00:00"
+  },
+  "2435c40026196a0909b64f4362dd4ed3110983bdd38c82d1dfaf105a51741280": {
+    "title": "قیمت سکه، نیم سکه و ربع سکه امروز سه شنبه ۵ آبان ۱۴۰۵ / سکه نزولی شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304538-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1543
+    ],
+    "eitaa_message_ids": [
+      178548574
+    ],
+    "group_message_ids": [
+      1283
+    ],
+    "content_hash": "ead091db51fcf000e2c4f35bff09191b82ada8ac3f0be64acb522cf8ea08525c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T07:48:26.724731+00:00",
+    "telegram_message_id": 1543,
+    "eitaa_last_sent_at": "2026-10-27T07:48:27.544243+00:00",
+    "eitaa_message_id": 178548574,
+    "group_last_sent_at": "2026-10-27T07:48:29.289927+00:00",
+    "group_message_id": 1283,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T07:48:29.312916+00:00"
+  },
+  "4f376d0d054926391aaced359ef31c0b5c10fce457cba7353c19efb44cbbe099": {
+    "title": "بورس قرمز شد/ هجوم ناگهانی فروشندگان در نیمه معاملات سه شنبه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304531-%D8%A8%D9%88%D8%B1%D8%B3-%D9%82%D8%B1%D9%85%D8%B2-%D8%B4%D8%AF-%D9%87%D8%AC%D9%88%D9%85-%D9%86%D8%A7%DA%AF%D9%87%D8%A7%D9%86%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87",
+    "telegram_message_ids": [
+      1544
+    ],
+    "eitaa_message_ids": [
+      178548586
+    ],
+    "group_message_ids": [
+      1284
+    ],
+    "content_hash": "37aaf9d3b2202fcf30a308a6dce4bbb61322f966c5c05d5b024fd6308985165a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T07:48:31.073839+00:00",
+    "telegram_message_id": 1544,
+    "eitaa_last_sent_at": "2026-10-27T07:48:32.710284+00:00",
+    "eitaa_message_id": 178548586,
+    "group_last_sent_at": "2026-10-27T07:48:34.492716+00:00",
+    "group_message_id": 1284,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T07:48:34.515766+00:00"
+  },
+  "63e8b4351ee249ac6334841626b6c134b3515a8b375161a25c60f3661f865261": {
+    "title": "گزارش دیوان محاسبات درباره حذف ارز واسط با شرکای تجاری",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848508/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AF%DB%8C%D9%88%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AD%D8%B0%D9%81-%D8%A7%D8%B1%D8%B2-%D9%88%D8%A7%D8%B3%D8%B7-%D8%A8%D8%A7-%D8%B4%D8%B1%DA%A9%D8%A7%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C",
+    "telegram_message_ids": [
+      1545
+    ],
+    "eitaa_message_ids": [
+      178548600
+    ],
+    "group_message_ids": [
+      1285
+    ],
+    "content_hash": "61249ebcbd19984eded1a775e3e367d41952d772ca82beaffdb39c431879033e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T07:48:36.297836+00:00",
+    "telegram_message_id": 1545,
+    "eitaa_last_sent_at": "2026-10-27T07:48:37.922547+00:00",
+    "eitaa_message_id": 178548600,
+    "group_last_sent_at": "2026-10-27T07:48:39.673916+00:00",
+    "group_message_id": 1285,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T07:48:39.698008+00:00"
   }
 }
