@@ -186,6 +186,169 @@
     "telegram_preview": "📰 پیش بینی قیمت طلا، دلار و سکه امروز سه شنبه ۵ آبان ۱۴۰۵/ سردرگمی بازار از سیگنال های متضاد\n\nسه شنبه 5 آبان معاملات در بازار طلا، سکه و ارز در حالی آغاز می شود که این بازار با سیگنال های متضاد سیاسی و اقتصادی روبه رو شده است؛ دلار در معرض آزمون حمایت ۲۷۰ هزار تومانی قرار گرفت، طلای ۱۸ عیار به مرز حساس ۲۶ میلیون تومان نزدیک شد و سکه امامی زیر سایه فشار فروش، چشم انتظار تعیین مسیر تازه قیمت ها ماند.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304512-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%D8%B1%D8%AF%D8%B1%DA%AF%D9%85%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D8%B6%D8%A7%D8%AF"
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "طلا به کانال ۴۰۰۰ دلار برگشت/ قیمت طلای جهانی امروز ۵ آبان ۱۴۰۵",
+    "link": "https://www.khabaronline.ir/news/2293712/%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B4%DB%B0%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "summary": "قیمت طلا روز دوشنبه افزایش یافت و پس از سقوط به پایین ترین سطح بیش از سه ماه گذشته در جلسه معاملاتی پیشین، دوباره بهبود پیدا کرد. کاهش قیمت نفت نگرانی ها درباره تورم را پیش از نشست این هفته فدرال رزرو آمریکا کاهش داد.",
+    "published": "Tue, 27 Oct 2026 06:00:00 GMT",
+    "collected_at": "2026-10-27T09:47:42.818765+03:30",
+    "filter_market_score": 36,
+    "market_score": 44,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تورم",
+      "فدرال رزرو",
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "افزایش",
+      "کاهش",
+      "سقوط",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "طلای جهانی"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "فدرال رزرو",
+      "تورم",
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "قیمت طلا روز دوشنبه افزایش یافت و پس از سقوط به پایین ترین سطح بیش از سه ماه گذشته در جلسه معاملاتی پیشین، دوباره بهبود پیدا کرد. کاهش قیمت نفت نگرانی ها درباره تورم را پیش از نشست این هفته فدرال رزرو آمریکا کاهش داد.",
+    "telegram_preview": "📰 طلا به کانال ۴۰۰۰ دلار برگشت/ قیمت طلای جهانی امروز ۵ آبان ۱۴۰۵\n\nقیمت طلا روز دوشنبه افزایش یافت و پس از سقوط به پایین ترین سطح بیش از سه ماه گذشته در جلسه معاملاتی پیشین، دوباره بهبود پیدا کرد. کاهش قیمت نفت نگرانی ها درباره تورم را پیش از نشست این هفته فدرال رزرو آمریکا کاهش داد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2293712/%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B4%DB%B0%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5"
+  },
+  {
+    "source": "مهر",
+    "title": "افت قیمت طلا در پی تقویت دلار و انتظار برای تصمیم فدرال رزرو",
+    "link": "https://www.mehrnews.com/news/6991163/%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%81%D8%AF%D8%B1%D8%A7%D9%84-%D8%B1%D8%B2%D8%B1%D9%88",
+    "summary": "قیمت طلا روز سه شنبه با تقویت دلار کاهش یافت؛ بازارها در انتظار تصمیم فدرال رزرو درباره نرخ بهره و انتشار داده های تورمی آمریکا هستند.",
+    "published": "Tue, 27 Oct 2026 06:12:32 GMT",
+    "collected_at": "2026-10-27T09:47:25.279611+03:30",
+    "filter_market_score": 33,
+    "market_score": 44,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نرخ بهره",
+      "تورم",
+      "فدرال رزرو",
+      "تصمیم فدرال رزرو"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افت",
+      "قیمت",
+      "تصمیم",
+      "کاهش",
+      "نرخ",
+      "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "فدرال رزرو",
+      "تصمیم فدرال رزرو",
+      "نرخ بهره",
+      "تورم"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "قیمت طلا روز سه شنبه با تقویت دلار کاهش یافت؛ بازارها در انتظار تصمیم فدرال رزرو درباره نرخ بهره و انتشار داده های تورمی آمریکا هستند.",
+    "telegram_preview": "📰 افت قیمت طلا در پی تقویت دلار و انتظار برای تصمیم فدرال رزرو\n\nقیمت طلا روز سه شنبه با تقویت دلار کاهش یافت؛ بازارها در انتظار تصمیم فدرال رزرو درباره نرخ بهره و انتشار داده های تورمی آمریکا هستند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6991163/%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%81%D8%AF%D8%B1%D8%A7%D9%84-%D8%B1%D8%B2%D8%B1%D9%88"
+  },
+  {
     "source": "مشرق",
     "title": "نرخ حواله دلار، یورو و سایر ارزها در مرکز مبادله",
     "link": "https://www.mashreghnews.ir/news/1848254/%D9%86%D8%B1%D8%AE-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%B3%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87",
@@ -412,6 +575,84 @@
     "telegram_preview": "📰 شاخص کل بورس ۸ میلیون و ۱۰۵ هزار واحد رسید/ ۲۰۰ میلیارد تومان نقدینگی وارد بازار سهام شد\n\nپس از خروج ۲۰ همت پول حقیقی در ۱۰ روز گذشته، بازار سهام تا ساعت ۱۰ صبح امروز با ورود ۲۰۰ میلیارد تومان نقدینگی مواجه شد. شاخص کل در معاملات امروز دوشنبه با صعود ۹۰ هزار واحدی به هشت میلیون و ۱۰۵ هزار واحد رسید.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2293259/%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B1%DB%B0%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF-%DB%B2%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86"
   },
   {
+    "source": "مهر",
+    "title": "نرخ حواله پنج ارز در مرکز مبادله ایران اعلام شد",
+    "link": "https://www.mehrnews.com/news/6991151/%D9%86%D8%B1%D8%AE-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D9%BE%D9%86%D8%AC-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+    "summary": "مرکز مبادله ارز و طلای ایران نرخ حواله دلار، یورو، درهم، یوآن و روبل را برای سه شنبه پنجم آبان ۱۴۰۵ اعلام کرد.",
+    "published": "Tue, 27 Oct 2026 06:03:11 GMT",
+    "collected_at": "2026-10-27T09:47:25.279745+03:30",
+    "filter_market_score": 35,
+    "market_score": 36,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز",
+        "مرکز مبادله",
+        "دلار",
+        "یورو",
+        "درهم"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز",
+        "مرکز مبادله"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو",
+        "درهم",
+        "مرکز مبادله"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "نرخ",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "ارز",
+      "مرکز مبادله",
+      "دلار",
+      "یورو",
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "مرکز مبادله ارز و طلای ایران نرخ حواله دلار، یورو، درهم، یوآن و روبل را برای سه شنبه پنجم آبان ۱۴۰۵ اعلام کرد.",
+    "telegram_preview": "📰 نرخ حواله پنج ارز در مرکز مبادله ایران اعلام شد\n\nمرکز مبادله ارز و طلای ایران نرخ حواله دلار، یورو، درهم، یوآن و روبل را برای سه شنبه پنجم آبان ۱۴۰۵ اعلام کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6991151/%D9%86%D8%B1%D8%AE-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D9%BE%D9%86%D8%AC-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF"
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "اونس طلا به ۴ هزار و ۱۴ دلار رسید/ قیمت طلا در بازار جهانی امروز ۴ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2293208/%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B1%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2",
@@ -483,79 +724,6 @@
     "duplicate_count": 1,
     "full_text": "با رشد ۱۵.۶۰ دلاری در معاملات اخیر، قیمت هر اونس طلا به ۴,۰۱۴.۱۹ دلار رسید تا این فلز گرانبها بار دیگر وارد کانال ۴ هزار دلاری شود.",
     "telegram_preview": "📰 اونس طلا به ۴ هزار و ۱۴ دلار رسید/ قیمت طلا در بازار جهانی امروز ۴ آبان ۱۴۰۵\n\nبا رشد ۱۵.۶۰ دلاری در معاملات اخیر، قیمت هر اونس طلا به ۴,۰۱۴.۱۹ دلار رسید تا این فلز گرانبها بار دیگر وارد کانال ۴ هزار دلاری شود.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2293208/%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B1%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2"
-  },
-  {
-    "source": "مهر",
-    "title": "عبور طلا از کانال ۴ هزار دلار؛ بهای هر اونس طلا به ۴۰۱۴ دلار رسید",
-    "link": "https://www.mehrnews.com/news/6989994/%D8%B9%D8%A8%D9%88%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87%D8%A7%DB%8C-%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4%DB%B0%DB%B1%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "با رشد ۱۵.۶۰ دلاری در معاملات اخیر، قیمت هر اونس طلا به ۴,۰۱۴.۱۹ دلار رسید تا این فلز گرانبها بار دیگر وارد کانال ۴ هزار دلاری شود.",
-    "published": "Mon, 26 Oct 2026 05:27:46 GMT",
-    "collected_at": "2026-10-26T09:17:07.259337+03:30",
-    "filter_market_score": 30,
-    "market_score": 35,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "قیمت",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "اونس طلا"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "با رشد ۱۵.۶۰ دلاری در معاملات اخیر، قیمت هر اونس طلا به ۴,۰۱۴.۱۹ دلار رسید تا این فلز گرانبها بار دیگر وارد کانال ۴ هزار دلاری شود.",
-    "telegram_preview": "📰 عبور طلا از کانال ۴ هزار دلار؛ بهای هر اونس طلا به ۴۰۱۴ دلار رسید\n\nبا رشد ۱۵.۶۰ دلاری در معاملات اخیر، قیمت هر اونس طلا به ۴,۰۱۴.۱۹ دلار رسید تا این فلز گرانبها بار دیگر وارد کانال ۴ هزار دلاری شود.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989994/%D8%B9%D8%A8%D9%88%D8%B1-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87%D8%A7%DB%8C-%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4%DB%B0%DB%B1%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1"
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -919,78 +1087,6 @@
     "duplicate_count": 1,
     "full_text": "عرضه ۱۰ هزار دلار به هر نفر از سوی بانک مرکزی، اگرچه توانست روند افزایشی نرخ ارز را متوقف کند، با انتقادهایی درباره احتمال خروج سرمایه، هدررفت منابع ارزی و تضعیف توان کشور برای تأمین نیازهای ضروری در آینده روبه رو شده است. حجت الله فرزانی، تحلیلگر حوزه پولی، با دفاع از این سیاست می گوید در شرایطی که انتظارات روانی به افزایش قیمت ارز دامن زده بود، مداخله بانک مرکزی ضروری بود؛ هرچند ارزیابی نهایی آثار اقتصادی آن به بررسی نتایج میان مدت نیاز دارد.",
     "telegram_preview": "📰 منتقدان می گویند ارز کشور هدر می رود؛ پاسخ فرزانی: بدون مداخله بانک مرکزی، دلار گران تر می شد\n\nعرضه ۱۰ هزار دلار به هر نفر از سوی بانک مرکزی، اگرچه توانست روند افزایشی نرخ ارز را متوقف کند، با انتقادهایی درباره احتمال خروج سرمایه، هدررفت منابع ارزی و تضعیف توان کشور برای تأمین نیازهای ضروری در آینده روبه رو شده است. حجت الله فرزانی، تحلیلگر حوزه پولی، با دفاع از این سیاست می گوید در شرایطی که انتظارات روانی به افزایش قیمت ارز دامن زده بود، مداخله بانک مرکزی ضروری بود؛ هرچند ارزیابی نهایی آثار اقتصادی آن به بررسی نتایج میان مدت نیاز دارد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2293026/%D9%85%D9%86%D8%AA%D9%82%D8%AF%D8%A7%D9%86-%D9%85%DB%8C-%DA%AF%D9%88%DB%8C%D9%86%D8%AF-%D8%A7%D8%B1%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1-%D9%87%D8%AF%D8%B1-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%81%D8%B1%D8%B2%D8%A7%D9%86%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%AF%D8%A7%D8%AE%D9%84%D9%87"
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا و سکه امروز دوشنبه ۴ آبان ۱۴۰۵ / کاهش قیمت طلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304217-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
-    "summary": "طلای 18 عیار نزولی شد و قیمت سکه امامی امروز با افزایش، در نرخ 265 میلیون و 200 هزار تومان در معامله بود.​",
-    "published": "Mon, 26 Oct 2026 04:39:03 +0000",
-    "collected_at": "2026-10-26T09:17:19.615362+03:30",
-    "filter_market_score": 24,
-    "market_score": 32,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "افزایش",
-      "نزول",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "طلای 18 عیار نزولی شد و قیمت سکه امامی امروز با افزایش، در نرخ 265 میلیون و 200 هزار تومان در معامله بود.​",
-    "telegram_preview": "📰 قیمت طلا و سکه امروز دوشنبه ۴ آبان ۱۴۰۵ / کاهش قیمت طلا\n\nطلای 18 عیار نزولی شد و قیمت سکه امامی امروز با افزایش، در نرخ 265 میلیون و 200 هزار تومان در معامله بود.​\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304217-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7"
   },
   {
     "source": "دنیای اقتصاد",
@@ -1956,6 +2052,80 @@
     "duplicate_count": 1,
     "full_text": "بورس تهران در سومین روز هفته، پس از چند روز نوسانی، با رشد بیش از 54 هزار واحدی شاخص کل همراه شد.",
     "telegram_preview": "📰 رشد ۵۴ هزار واحدی شاخص بورس/ ۱.۷ همت نفتی شد؛ ۲ همت به طلا رسید!\n\nبورس تهران در سومین روز هفته، پس از چند روز نوسانی، با رشد بیش از 54 هزار واحدی شاخص کل همراه شد.\n\n📌 منبع: تابناک\n\n🔗 https://example.com/fa/news/30007889/%D8%B1%D8%B4%D8%AF-54-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-1-7-%D9%87%D9%85%D8%AA-%D9%86%D9%81%D8%AA%DB%8C-%D8%B4%D8%AF-2-%D9%87%D9%85%D8%AA-%D8%A8%D9%87-%D8%B7%D9%84%D8%A7-%D8%B1%D8%B3%DB%8C%D8%AF"
+  },
+  {
+    "source": "ایسنا",
+    "title": "افزایش قیمت طلا معکوس شد",
+    "link": "https://www.isna.ir/news/1405080502833/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%85%D8%B9%DA%A9%D9%88%D8%B3-%D8%B4%D8%AF",
+    "summary": "قیمت طلا در معاملات روز سه شنبه بازار جهانی، تحت تاثیر تقویت ارزش دلار و چشم انداز نرخ بهره آمریکا کاهش یافت.",
+    "published": "Tue, 27 Oct 2026 06:08:58 GMT",
+    "collected_at": "2026-10-27T09:47:12.242429+03:30",
+    "filter_market_score": 23,
+    "market_score": 28,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نرخ بهره"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "کاهش",
+      "چشم‌انداز",
+      "چشم انداز",
+      "نرخ",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "نرخ بهره"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "قیمت طلا در معاملات روز سه شنبه بازار جهانی، تحت تاثیر تقویت ارزش دلار و چشم انداز نرخ بهره آمریکا کاهش یافت.",
+    "telegram_preview": "📰 افزایش قیمت طلا معکوس شد\n\nقیمت طلا در معاملات روز سه شنبه بازار جهانی، تحت تاثیر تقویت ارزش دلار و چشم انداز نرخ بهره آمریکا کاهش یافت.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080502833/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%85%D8%B9%DA%A9%D9%88%D8%B3-%D8%B4%D8%AF"
   },
   {
     "source": "دنیای اقتصاد",
@@ -3280,62 +3450,6 @@
     "telegram_preview": "📰 سال گذشته در واردات محصولات چاپی، صرفه جویی ارزی پنج همتی داشتیم\n\nمدیرکل دفتر چاپ و نشر وزارت فرهنگ و ارشاد اسلامی گفت: واردات محصولات چاپی به کشور محدود شده و سال گذشته میزان واردات این محصولات ۴۹ درصد کاهش یافت که به صرفه جویی ارزی پنج همتی منجر شد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080402567/%D8%B3%D8%A7%D9%84-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D8%AF%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%DA%86%D8%A7%D9%BE%DB%8C-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%BE%D9%86%D8%AC-%D9%87%D9%85%D8%AA%DB%8C-%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C%D9%85"
   },
   {
-    "source": "مهر",
-    "title": "پاسخ بانک مرکزی به نامه تشکل ها درباره مطالبات ارزی واردکنندگان",
-    "link": "https://www.mehrnews.com/news/6989990/%D9%BE%D8%A7%D8%B3%D8%AE-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D9%87-%D9%86%D8%A7%D9%85%D9%87-%D8%AA%D8%B4%DA%A9%D9%84-%D9%87%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86",
-    "summary": "بانک مرکزی در واکنش به مطالبات واردکنندگان کالاهای اساسی اعلام کرد که ایفای تعهدات ارزی مستلزم تأمین منابع از سوی دولت است.",
-    "published": "Mon, 26 Oct 2026 05:23:49 GMT",
-    "collected_at": "2026-10-26T09:17:07.259361+03:30",
-    "filter_market_score": 13,
-    "market_score": 18,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "بانک مرکزی در واکنش به مطالبات واردکنندگان کالاهای اساسی اعلام کرد که ایفای تعهدات ارزی مستلزم تأمین منابع از سوی دولت است.",
-    "telegram_preview": "📰 پاسخ بانک مرکزی به نامه تشکل ها درباره مطالبات ارزی واردکنندگان\n\nبانک مرکزی در واکنش به مطالبات واردکنندگان کالاهای اساسی اعلام کرد که ایفای تعهدات ارزی مستلزم تأمین منابع از سوی دولت است.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989990/%D9%BE%D8%A7%D8%B3%D8%AE-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D9%87-%D9%86%D8%A7%D9%85%D9%87-%D8%AA%D8%B4%DA%A9%D9%84-%D9%87%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86"
-  },
-  {
     "source": "تابناک",
     "title": "نفت به ۱۲۰ دلار می رسد!؛ بازار جهانی نفت در انتظار جنگ؟",
     "link": "https://example.com/fa/news/30007903/%D9%86%D9%81%D8%AA-%D8%A8%D9%87-120-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B1%D8%B3%D8%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%AC%D9%86%DA%AF",
@@ -3448,62 +3562,6 @@
     "duplicate_count": 1,
     "full_text": "مدیرکل بورس و اعزام دانشجویان سازمان امور دانشجویان، با تشریح روند رو به رشد طرح «بورس صنعت و مشاغل» از سال ۱۴۰۲ تاکنون، از گسترش همه جانبه این طرح در سال ۱۴۰۵ به تمامی مقاطع تحصیلی خبر داد.",
     "telegram_preview": "📰 گسترش بورس صنعت و مشاغل به همه مقاطع تحصیلی\n\nمدیرکل بورس و اعزام دانشجویان سازمان امور دانشجویان، با تشریح روند رو به رشد طرح «بورس صنعت و مشاغل» از سال ۱۴۰۲ تاکنون، از گسترش همه جانبه این طرح در سال ۱۴۰۵ به تمامی مقاطع تحصیلی خبر داد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080402237/%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B5%D9%86%D8%B9%D8%AA-%D9%88-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%D8%A8%D9%87-%D9%87%D9%85%D9%87-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D8%AA%D8%AD%D8%B5%DB%8C%D9%84%DB%8C"
-  },
-  {
-    "source": "ایسنا",
-    "title": "این عتیقه ۳۴ میلیون دلار می ارزد",
-    "link": "https://www.isna.ir/news/1405080402011/%D8%A7%DB%8C%D9%86-%D8%B9%D8%AA%DB%8C%D9%82%D9%87-%DB%B3%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%D8%AF",
-    "summary": "یک مجسمه مرمرین رومی ۳۴.۳ میلیون دلاری رکورد «عتیقه های رومی» را در حراجی «ساتبیز» شکست.",
-    "published": "Mon, 26 Oct 2026 05:51:48 GMT",
-    "collected_at": "2026-10-26T09:45:40.224994+03:30",
-    "filter_market_score": 11,
-    "market_score": 18,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رکورد",
-      "حراج"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "یک مجسمه مرمرین رومی ۳۴.۳ میلیون دلاری رکورد «عتیقه های رومی» را در حراجی «ساتبیز» شکست.",
-    "telegram_preview": "📰 این عتیقه ۳۴ میلیون دلار می ارزد\n\nیک مجسمه مرمرین رومی ۳۴.۳ میلیون دلاری رکورد «عتیقه های رومی» را در حراجی «ساتبیز» شکست.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080402011/%D8%A7%DB%8C%D9%86-%D8%B9%D8%AA%DB%8C%D9%82%D9%87-%DB%B3%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%D8%AF"
   },
   {
     "source": "مهر",
@@ -4373,64 +4431,6 @@
     "duplicate_count": 1,
     "full_text": "قیمت نفت با کاهش بیش از ۲ دلاری به ۱۱۴ دلار و۶۰ سنت رسید.",
     "telegram_preview": "📰 قیمت نفت کاهش یافت\n\nقیمت نفت با کاهش بیش از ۲ دلاری به ۱۱۴ دلار و۶۰ سنت رسید.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1848204/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA"
-  },
-  {
-    "source": "مهر",
-    "title": "گزارش دیوان محاسبات کشور از عملکرد واردات خودرو در سال ۱۴۰۴",
-    "link": "https://www.mehrnews.com/news/6990012/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AF%DB%8C%D9%88%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84-%DB%B1%DB%B4%DB%B0%DB%B4",
-    "summary": "دیوان محاسبات اعلام کرد: ۶۲ هزار و ۷۰۸ دستگاه خودرو با تأمین ارز به میزان ۹۴۰ میلیون یورو وارد کشور شده است.",
-    "published": "Mon, 26 Oct 2026 05:42:21 GMT",
-    "collected_at": "2026-10-26T09:17:07.259159+03:30",
-    "filter_market_score": 12,
-    "market_score": 15,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "واردات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "واردات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "دیوان محاسبات اعلام کرد: ۶۲ هزار و ۷۰۸ دستگاه خودرو با تأمین ارز به میزان ۹۴۰ میلیون یورو وارد کشور شده است.",
-    "telegram_preview": "📰 گزارش دیوان محاسبات کشور از عملکرد واردات خودرو در سال ۱۴۰۴\n\nدیوان محاسبات اعلام کرد: ۶۲ هزار و ۷۰۸ دستگاه خودرو با تأمین ارز به میزان ۹۴۰ میلیون یورو وارد کشور شده است.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6990012/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AF%DB%8C%D9%88%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84-%DB%B1%DB%B4%DB%B0%DB%B4"
   },
   {
     "source": "مهر",
@@ -6421,53 +6421,6 @@
     "duplicate_count": 1,
     "full_text": "سعید اسماعیلی دارنده مدال طلای جهان و المپیک در مرحله نیمه نهایی وزن ۶۷ کیلوگرم پیکارهای کشتی فرنگی قهرمانی جهان با شکست حریف قزاقستانی راهی نیمه نهایی شد.",
     "telegram_preview": "📰 سعید اسماعیلی با شکست نماینده میزبان راهی نیمه نهایی شد +فیلم\n\nسعید اسماعیلی دارنده مدال طلای جهان و المپیک در مرحله نیمه نهایی وزن ۶۷ کیلوگرم پیکارهای کشتی فرنگی قهرمانی جهان با شکست حریف قزاقستانی راهی نیمه نهایی شد.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1848255/%D8%B3%D8%B9%DB%8C%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C-%D8%A8%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86-%D8%B1%D8%A7%D9%87%DB%8C-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF-%D9%81%DB%8C%D9%84%D9%85"
-  },
-  {
-    "source": "مهر",
-    "title": "بازار سلامت عراق؛ فرصت حضور تولیدات ایرانی",
-    "link": "https://www.mehrnews.com/news/6989310/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D8%B1%D8%B5%D8%AA-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
-    "summary": "بازار سلامت کشور عراق دارای ظرفیت ۴ میلیارد دلاری است که می تواند فرصت طلایی برای تولیدکنندگان کالاهای سلامت محور در کشورمان باشد تا بتوانند وارد بازار کشور همسایه شوند.",
-    "published": "Mon, 26 Oct 2026 06:13:11 GMT",
-    "collected_at": "2026-10-26T09:45:49.226654+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "بازار سلامت کشور عراق دارای ظرفیت ۴ میلیارد دلاری است که می تواند فرصت طلایی برای تولیدکنندگان کالاهای سلامت محور در کشورمان باشد تا بتوانند وارد بازار کشور همسایه شوند.",
-    "telegram_preview": "📰 بازار سلامت عراق؛ فرصت حضور تولیدات ایرانی\n\nبازار سلامت کشور عراق دارای ظرفیت ۴ میلیارد دلاری است که می تواند فرصت طلایی برای تولیدکنندگان کالاهای سلامت محور در کشورمان باشد تا بتوانند وارد بازار کشور همسایه شوند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6989310/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D8%B1%D8%B5%D8%AA-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C"
   },
   {
     "source": "ایسنا",

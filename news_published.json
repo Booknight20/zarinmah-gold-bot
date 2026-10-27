@@ -13766,5 +13766,101 @@
     "group_message_id": 1266,
     "fully_published": true,
     "last_checked_at": "2026-10-27T05:48:35.843101+00:00"
+  },
+  "5a803e61e8238170f1dbf8c7a5bf9902a49b10275ed93b39d7a53dc86daa38f5": {
+    "title": "افزایش قیمت طلا معکوس شد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080502833/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%85%D8%B9%DA%A9%D9%88%D8%B3-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1529
+    ],
+    "eitaa_message_ids": [
+      178532474
+    ],
+    "group_message_ids": [
+      1269
+    ],
+    "content_hash": "4c876696266628c686fce2498c1830fd8740cc66fc5ed1ded0fa083acd7ff582",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T06:18:16.407376+00:00",
+    "telegram_message_id": 1529,
+    "eitaa_last_sent_at": "2026-10-27T06:18:18.090907+00:00",
+    "eitaa_message_id": 178532474,
+    "group_last_sent_at": "2026-10-27T06:18:19.833913+00:00",
+    "group_message_id": 1269,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T06:18:19.856402+00:00"
+  },
+  "f63b2da84f2d561f148021d418e4a1030c0a2b2789a4dd7b222d32f11ea6915f": {
+    "title": "افت قیمت طلا در پی تقویت دلار و انتظار برای تصمیم فدرال رزرو",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6991163/%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%81%D8%AF%D8%B1%D8%A7%D9%84-%D8%B1%D8%B2%D8%B1%D9%88",
+    "telegram_message_ids": [
+      1530
+    ],
+    "eitaa_message_ids": [
+      178532489
+    ],
+    "group_message_ids": [
+      1270
+    ],
+    "content_hash": "9bac42c761c798ad89eabf8dc6550e4bcb2a703373f8caa4bc089aca880a4b51",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T06:18:21.830747+00:00",
+    "telegram_message_id": 1530,
+    "eitaa_last_sent_at": "2026-10-27T06:18:23.416591+00:00",
+    "eitaa_message_id": 178532489,
+    "group_last_sent_at": "2026-10-27T06:18:25.178803+00:00",
+    "group_message_id": 1270,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T06:18:25.201500+00:00"
+  },
+  "bffe2a8196b1b951ee0aec500612222e3f34f577f2afad2eb28d7fbd2fb443a2": {
+    "title": "نرخ حواله پنج ارز در مرکز مبادله ایران اعلام شد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6991151/%D9%86%D8%B1%D8%AE-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D9%BE%D9%86%D8%AC-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1531
+    ],
+    "eitaa_message_ids": [
+      178532521
+    ],
+    "group_message_ids": [
+      1271
+    ],
+    "content_hash": "0109f7bfb5b49dd46a25710219d54b17ac7a57fbc7c2625d72f4d82699b8f3fb",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T06:18:27.042532+00:00",
+    "telegram_message_id": 1531,
+    "eitaa_last_sent_at": "2026-10-27T06:18:28.650780+00:00",
+    "eitaa_message_id": 178532521,
+    "group_last_sent_at": "2026-10-27T06:18:30.379624+00:00",
+    "group_message_id": 1271,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T06:18:30.402144+00:00"
+  },
+  "7c7b82e97b64d6235de51014304b3a258840f70cdbf9bb19e1226a8f04a48c52": {
+    "title": "طلا به کانال ۴۰۰۰ دلار برگشت/ قیمت طلای جهانی امروز ۵ آبان ۱۴۰۵",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2293712/%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B4%DB%B0%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "telegram_message_ids": [
+      1532
+    ],
+    "eitaa_message_ids": [
+      178532529
+    ],
+    "group_message_ids": [
+      1272
+    ],
+    "content_hash": "589e632d4c472b41fa54d90294128f9af311ada1e20752a8e73165bbb3d1b652",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T06:18:32.158081+00:00",
+    "telegram_message_id": 1532,
+    "eitaa_last_sent_at": "2026-10-27T06:18:33.016345+00:00",
+    "eitaa_message_id": 178532529,
+    "group_last_sent_at": "2026-10-27T06:18:34.802985+00:00",
+    "group_message_id": 1272,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T06:18:34.825629+00:00"
   }
 }

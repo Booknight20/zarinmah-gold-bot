@@ -14595,5 +14595,72 @@
     "group_sent_at": "2026-10-27T09:18:38.924228+03:30",
     "group_message_id": 1267,
     "published_at": "2026-10-27T09:18:38.939421+03:30"
+  },
+  "https://t.me/drarashamini/7279": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "عرضه های بازار در حال افزایش هست و این مدت بارها تاکید کردیم که ریسک های سیستماتیک میتونه بلای جان بورس بشه",
+      "summary": "عرضه های بازار در حال افزایش هست و این مدت بارها تاکید کردیم که ریسک های سیستماتیک میتونه بلای جان بورس بشه\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "عرضه های بازار در حال افزایش هست و این مدت بارها تاکید کردیم که ریسک های سیستماتیک میتونه بلای جان بورس بشه\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7279",
+      "analysis_score": 16,
+      "market_matches": [
+        "طلا",
+        "بورس"
+      ],
+      "analysis_matches": [
+        "افزایش",
+        "ریسک",
+        "عرضه"
+      ],
+      "market_groups": [
+        "gold",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 232,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-27T09:48:12.179514+03:30"
+    },
+    "content_signature": "9a4a6afc878528c95ea702cc8322f902f7e1eb661a94ceb54211ba9efe2ffec4",
+    "first_seen_at": "2026-10-27T09:48:35.023980+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1533
+    ],
+    "telegram_last_success_at": "2026-10-27T09:48:35.580499+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-27T09:48:35.597132+03:30",
+    "telegram_message_id": 1533,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178532544
+    ],
+    "eitaa_last_success_at": "2026-10-27T09:48:36.475119+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-27T09:48:36.491342+03:30",
+    "eitaa_message_id": 178532544,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1273
+    ],
+    "group_last_success_at": "2026-10-27T09:48:37.027481+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-27T09:48:37.043620+03:30",
+    "group_message_id": 1273,
+    "published_at": "2026-10-27T09:48:37.059341+03:30"
   }
 }
