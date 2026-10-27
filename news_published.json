@@ -15206,5 +15206,53 @@
     "group_message_id": 1349,
     "fully_published": true,
     "last_checked_at": "2026-10-27T14:48:13.085437+00:00"
+  },
+  "a3d9e2c935218289949906bd845bfe382402efe1b24c57acb67ef2e117a224b0": {
+    "title": "فیلم/ کشتی دیدنی سعید اسماعیلی در فینال و کسب مدال طلا",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848635/%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D8%B3%D8%B9%DB%8C%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C-%D8%AF%D8%B1-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%D9%88-%DA%A9%D8%B3%D8%A8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1616
+    ],
+    "eitaa_message_ids": [
+      178623053
+    ],
+    "group_message_ids": [
+      1356
+    ],
+    "content_hash": "757e1b30dcaaca7eaa8d6ac2c5e7f0643a804e1a9a4be23b8eddea6ea477f0d3",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T15:05:18.203553+00:00",
+    "telegram_message_id": 1616,
+    "eitaa_last_sent_at": "2026-10-27T15:05:19.526966+00:00",
+    "eitaa_message_id": 178623053,
+    "group_last_sent_at": "2026-10-27T15:05:21.213763+00:00",
+    "group_message_id": 1356,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T15:05:21.229725+00:00"
+  },
+  "9f400a90ba0acb61b9828b293f33072be434e4e954ef0154fe1b78bdb3ce89a3": {
+    "title": "طلای ناب سعید اسماعیلی با ضربه فنی قهرمان جهان/ پایان شاهکار شاگردان رنگرز با ۹ مدال رنگارنگ +فیلم",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848634/%D8%B7%D9%84%D8%A7%DB%8C-%D9%86%D8%A7%D8%A8-%D8%B3%D8%B9%DB%8C%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C-%D8%A8%D8%A7-%D8%B6%D8%B1%D8%A8%D9%87-%D9%81%D9%86%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B4%D8%A7%D9%87%DA%A9%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1617
+    ],
+    "eitaa_message_ids": [
+      178623067
+    ],
+    "group_message_ids": [
+      1357
+    ],
+    "content_hash": "d5171ebbbc368c7fe43461a75750836ad4a4e65262aab96396e26c425ee76b06",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T15:05:22.887533+00:00",
+    "telegram_message_id": 1617,
+    "eitaa_last_sent_at": "2026-10-27T15:05:24.277711+00:00",
+    "eitaa_message_id": 178623067,
+    "group_last_sent_at": "2026-10-27T15:05:26.203883+00:00",
+    "group_message_id": 1357,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T15:05:26.217374+00:00"
   }
 }
