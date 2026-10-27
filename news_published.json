@@ -15110,5 +15110,101 @@
     "group_message_id": 1345,
     "fully_published": true,
     "last_checked_at": "2026-10-27T14:18:02.503424+00:00"
+  },
+  "079b54a166a5be596738f7155359301a3e9bbc2df03aefe596da869d161a5e21": {
+    "title": "اهدای توپ طلای بهترین بازیکن والیبال نشسته به خانواده شهیده صفیه علی قورچی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080503374/%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D9%86%D8%B4%D8%B3%D8%AA%D9%87-%D8%A8%D9%87-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%D8%B4%D9%87%DB%8C%D8%AF%D9%87-%D8%B5%D9%81%DB%8C%D9%87",
+    "telegram_message_ids": [
+      1606
+    ],
+    "eitaa_message_ids": [
+      178620853
+    ],
+    "group_message_ids": [
+      1346
+    ],
+    "content_hash": "eb53eb219345e0ec76cc2fd5d72757a70cf9faf2caba2abd32c275d102ed8666",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T14:47:55.394454+00:00",
+    "telegram_message_id": 1606,
+    "eitaa_last_sent_at": "2026-10-27T14:47:56.901965+00:00",
+    "eitaa_message_id": 178620853,
+    "group_last_sent_at": "2026-10-27T14:47:58.632101+00:00",
+    "group_message_id": 1346,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T14:47:58.655265+00:00"
+  },
+  "768248cf56d407cfae121d8ddb0a2ee50b0b5a0fbbfc5a59096658b90094b670": {
+    "title": "صنعتگران طلا ۹۲ کیلو شمش در حراج مرکز مبادله ایران خریداری کردند",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6991856/%D8%B5%D9%86%D8%B9%D8%AA%DA%AF%D8%B1%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%DB%B9%DB%B2-%DA%A9%DB%8C%D9%84%D9%88-%D8%B4%D9%85%D8%B4-%D8%AF%D8%B1-%D8%AD%D8%B1%D8%A7%D8%AC-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF",
+    "telegram_message_ids": [
+      1607
+    ],
+    "eitaa_message_ids": [
+      178620865
+    ],
+    "group_message_ids": [
+      1347
+    ],
+    "content_hash": "04a2a495dcb35906f4d7d0f5baf1ac3f19fb44cc13ef40005b76370878a51631",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T14:48:00.382828+00:00",
+    "telegram_message_id": 1607,
+    "eitaa_last_sent_at": "2026-10-27T14:48:01.813802+00:00",
+    "eitaa_message_id": 178620865,
+    "group_last_sent_at": "2026-10-27T14:48:03.516661+00:00",
+    "group_message_id": 1347,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T14:48:03.539855+00:00"
+  },
+  "6e1375c95bb38c9c683f789441be39398b6b11749ee37c67e8237b5757805d7c": {
+    "title": "از ارزشگذاری تا ریسک",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4304587-%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B2%D8%B4%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%B1%DB%8C%D8%B3%DA%A9",
+    "telegram_message_ids": [
+      1608
+    ],
+    "eitaa_message_ids": [
+      178620876
+    ],
+    "group_message_ids": [
+      1348
+    ],
+    "content_hash": "32d57f649cc83d9610e0bb35b9d3b3731be60f878129d96b17e3e876fad9b396",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T14:48:05.306100+00:00",
+    "telegram_message_id": 1608,
+    "eitaa_last_sent_at": "2026-10-27T14:48:06.793993+00:00",
+    "eitaa_message_id": 178620876,
+    "group_last_sent_at": "2026-10-27T14:48:08.513405+00:00",
+    "group_message_id": 1348,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T14:48:08.536776+00:00"
+  },
+  "64be15653ee7daf774264b5efabf5460a32aa116108d321d95a4d2610e0d6d98": {
+    "title": "لحظه اهدای توپ طلا به هری کین",
+    "source": "تابناک",
+    "link": "https://example.com/fa/news/30008044/%D9%84%D8%AD%D8%B8%D9%87-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D9%87%D8%B1%DB%8C-%DA%A9%DB%8C%D9%86",
+    "telegram_message_ids": [
+      1609
+    ],
+    "eitaa_message_ids": [
+      178620894
+    ],
+    "group_message_ids": [
+      1349
+    ],
+    "content_hash": "99048afd438ec8c6325f76f0ec13c2daebc7cbf324c406d1671e9deaed89734c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T14:48:10.375357+00:00",
+    "telegram_message_id": 1609,
+    "eitaa_last_sent_at": "2026-10-27T14:48:11.379041+00:00",
+    "eitaa_message_id": 178620894,
+    "group_last_sent_at": "2026-10-27T14:48:13.062139+00:00",
+    "group_message_id": 1349,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T14:48:13.085437+00:00"
   }
 }
