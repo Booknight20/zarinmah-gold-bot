@@ -13406,5 +13406,29 @@
     "group_message_id": 1249,
     "fully_published": true,
     "last_checked_at": "2026-10-27T00:14:26.099724+00:00"
+  },
+  "c856c24b77139babc61572f32978b2c593d78af797523a296f1c5fe9094102f7": {
+    "title": "حضور پررنگ اسپانیایی ها در میان برندگان مراسم توپ طلا",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304486-%D8%AD%D8%B6%D9%88%D8%B1-%D9%BE%D8%B1%D8%B1%D9%86%DA%AF-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%DB%8C%D8%A7%D9%86-%D8%A8%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1510
+    ],
+    "eitaa_message_ids": [
+      178509246
+    ],
+    "group_message_ids": [
+      1250
+    ],
+    "content_hash": "6cacea7c9d146e4b88dfb52b8892554b2708fdaa335ac932ba6aeedc1a5387f7",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-27T02:38:03.869110+00:00",
+    "telegram_message_id": 1510,
+    "eitaa_last_sent_at": "2026-10-27T02:38:05.265232+00:00",
+    "eitaa_message_id": 178509246,
+    "group_last_sent_at": "2026-10-27T02:38:06.882678+00:00",
+    "group_message_id": 1250,
+    "fully_published": true,
+    "last_checked_at": "2026-10-27T02:38:06.905036+00:00"
   }
 }
