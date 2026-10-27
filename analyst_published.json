@@ -15594,5 +15594,69 @@
     "group_sent_at": "2026-10-27T15:17:52.598077+03:30",
     "group_message_id": 1338,
     "published_at": "2026-10-27T15:17:52.613214+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25791": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "۵ نکته برای تشخیص سکه پارسیان اصل",
+      "summary": "۵ نکته برای تشخیص سکه پارسیان اصل \n\n۱-بسته‌بندی: از سالم بودن پلمب مطمئن شو.\n۲-کد اصالت: مشخصات تولیدکننده رو استعلام بگیر.\n۳-وزن: وزن سکه رو با عدد روی بسته مقایسه کن.\n۴-عیار طلا: عیار درج‌شده رو بررسی کن و در صورت امکان، عیارسنجی کن.\n۵-قیمت: به قیمت‌های غیرعادی پایین مشکوک باش.\n\n @payamelyaskordi ✅",
+      "full_text": "۵ نکته برای تشخیص سکه پارسیان اصل \n\n۱-بسته‌بندی: از سالم بودن پلمب مطمئن شو.\n۲-کد اصالت: مشخصات تولیدکننده رو استعلام بگیر.\n۳-وزن: وزن سکه رو با عدد روی بسته مقایسه کن.\n۴-عیار طلا: عیار درج‌شده رو بررسی کن و در صورت امکان، عیارسنجی کن.\n۵-قیمت: به قیمت‌های غیرعادی پایین مشکوک باش.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25791",
+      "analysis_score": 9,
+      "market_matches": [
+        "طلا",
+        "سکه"
+      ],
+      "analysis_matches": [
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 301,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-27T16:47:55.696762+03:30"
+    },
+    "content_signature": "fe819d2ead845bda8d58d0e9cd41d49495debded850ce831f1fc7eb08340704e",
+    "first_seen_at": "2026-10-27T16:47:58.054965+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1603
+    ],
+    "telegram_last_success_at": "2026-10-27T16:47:58.475665+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-27T16:47:58.493424+03:30",
+    "telegram_message_id": 1603,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178608521
+    ],
+    "eitaa_last_success_at": "2026-10-27T16:47:59.698250+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-27T16:47:59.714949+03:30",
+    "eitaa_message_id": 178608521,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1343
+    ],
+    "group_last_success_at": "2026-10-27T16:48:00.190616+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-27T16:48:00.207934+03:30",
+    "group_message_id": 1343,
+    "published_at": "2026-10-27T16:48:00.224927+03:30"
   }
 }
