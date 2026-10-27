@@ -803,56 +803,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "منتقدان می گویند ارز کشور هدر می رود؛ پاسخ فرزانی: بدون مداخله بانک مرکزی، دلار گران تر می شد",
-    "link": "https://www.khabaronline.ir/news/2293026/%D9%85%D9%86%D8%AA%D9%82%D8%AF%D8%A7%D9%86-%D9%85%DB%8C-%DA%AF%D9%88%DB%8C%D9%86%D8%AF-%D8%A7%D8%B1%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1-%D9%87%D8%AF%D8%B1-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%81%D8%B1%D8%B2%D8%A7%D9%86%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%AF%D8%A7%D8%AE%D9%84%D9%87",
-    "summary": "عرضه ۱۰ هزار دلار به هر نفر از سوی بانک مرکزی، اگرچه توانست روند افزایشی نرخ ارز را متوقف کند، با انتقادهایی درباره احتمال خروج سرمایه، هدررفت منابع ارزی و تضعیف توان کشور برای تأمین نیازهای ضروری در آینده روبه رو شده است. حجت الله فرزانی، تحلیلگر حوزه پولی، با دفاع از این سیاست می گوید در شرایطی که انتظارات روانی به افزایش قیمت ارز دامن زده بود، مداخله بانک مرکزی ضروری بود؛ هرچند ارزیابی نهایی آثار اقتصادی آن به بررسی نتایج میان مدت نیاز دارد.",
-    "published": "Mon, 26 Oct 2026 17:37:17 GMT",
-    "collected_at": "2026-10-26T21:17:36.472638+03:30",
-    "filter_market_score": 27,
-    "market_score": 27,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "قیمت",
-      "نرخ",
-      "عرضه",
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۵ آبان ۱۴۰۵/ دلار به قیمت ۲۷۲ هزار و ۴۶۵ تومان رسید + جدول",
     "link": "https://www.khabaronline.ir/news/2293817/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87",
     "summary": "قیمت دلار، یورو و سایر ارزها امروز ۵ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو به قیمت ۳۰۴ هزار و ۴۹۰ تومان و دلار ۲۷۲ هزار و ۴۶۵ تومان رسید.",
@@ -1727,50 +1677,6 @@
     "filter_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "لغو مصوبه جنجالی نرخ ارز گمرکی خودرو با تصمیم دولت",
-    "link": "https://www.isna.ir/news/1405080402657/%D9%84%D8%BA%D9%88-%D9%85%D8%B5%D9%88%D8%A8%D9%87-%D8%AC%D9%86%D8%AC%D8%A7%D9%84%DB%8C-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%DA%AF%D9%85%D8%B1%DA%A9%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AF%D9%88%D9%84%D8%AA",
-    "summary": "سخنگوی وزارت صمت از لغو مصوبه اخیر هیئت وزیران درباره محاسبه نرخ روز ارز در ارزش گذاری گمرکی کالاهای وارداتی خبر داد.",
-    "published": "Mon, 26 Oct 2026 18:06:09 GMT",
-    "collected_at": "2026-10-26T21:47:25.196086+03:30",
-    "filter_market_score": 20,
-    "market_score": 20,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "driver_matches": [
-      "واردات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "نرخ",
-      "تصمیم",
-      "واردات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "بورس قرمز شد/ هجوم ناگهانی فروشندگان در نیمه معاملات سه شنبه",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304531-%D8%A8%D9%88%D8%B1%D8%B3-%D9%82%D8%B1%D9%85%D8%B2-%D8%B4%D8%AF-%D9%87%D8%AC%D9%88%D9%85-%D9%86%D8%A7%DA%AF%D9%87%D8%A7%D9%86%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87",
@@ -2331,52 +2237,6 @@
     "signal_matches": [
       "قیمت",
       "کاهش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "تخصیص ۵۰۰۰ میلیاردی اعتبار برای خرید زعفران/ شایعات توقف صادرات صحت ندارد",
-    "link": "https://www.isna.ir/news/1405080402663/%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%DB%B5%DB%B0%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%B4%D8%A7%DB%8C%D8%B9%D8%A7%D8%AA-%D8%AA%D9%88%D9%82%D9%81-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA",
-    "summary": "نماینده مردم تربت حیدریه، زاوه و مه ولات در مجلس شورای اسلامی با اشاره به اختصاص ۳ الی ۵ هزار میلیارد تومان اعتبار توسط صندوق ها برای خرید زعفران، گفت: قیمت زعفران وابستگی نزدیکی به نرخ طلا و دلار دارد و نباید این پیوستگی قطع شود.",
-    "published": "Mon, 26 Oct 2026 18:14:39 GMT",
-    "collected_at": "2026-10-26T21:47:25.196017+03:30",
-    "filter_market_score": 15,
-    "market_score": 15,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صادرات",
-      "قیمت",
-      "نرخ"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
