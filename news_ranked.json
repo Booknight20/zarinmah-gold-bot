@@ -189,6 +189,89 @@
     "ranking_applied": true
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "پیش بینی قیمت طلا، سکه و دلار امروز چهارشنبه ۶ آبان ۱۴۰۵/ ریزش نرخ دلار ادامه دارد؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304759-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%86%D8%B1%D8%AE-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
+    "summary": "تحلیلگران معتقدند استمرار عرضه ارز از سوی بازارساز، کاهش تقاضای سفته بازانه و عقب نشینی دلار فردایی هرات تا محدوده ۲۶۶ هزار و ۳۰۰ تومان، می تواند انتظارات کاهشی را در ابتدای معاملات چهارشنبه تقویت کند.",
+    "published": "Wed, 28 Oct 2026 07:09:11 +0000",
+    "collected_at": "2026-10-28T10:46:27.886135+03:30",
+    "filter_market_score": 33,
+    "market_score": 40,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ],
+      "currency": [
+        "دلار",
+        "نرخ دلار",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ],
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "عرضه ارز"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "ریزش",
+      "پیش‌بینی",
+      "پیش بینی",
+      "قیمت",
+      "نرخ",
+      "کاهش",
+      "معاملات",
+      "عرضه",
+      "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "سکه"
+    ],
+    "currency_matches": [
+      "دلار",
+      "نرخ دلار",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "عرضه ارز"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "اونس طلا ۴ هزار و ۳۹ دلار شد/ قیمت طلای جهانی امروز ۶ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2294180/%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B3%DB%B9-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B6-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
@@ -963,70 +1046,6 @@
     "ranking_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "بورس ۸ میلیون واحد را از دست داد / افت ۸۳ هزار واحدی بازار سرمایه در آغاز معاملات امروز سه شنبه ۵ آبان ۱۴۰۵",
-    "link": "https://www.khabaronline.ir/live/2293748/%D8%A8%D9%88%D8%B1%D8%B3-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF-%D8%A7%D9%81%D8%AA-%DB%B8%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87",
-    "summary": "شاخص کل بورس تهران در آغاز معاملات روز سه شنبه ۵ آبان ۱۴۰۵ با افت ۸۳ هزار و ۹۰۸ واحدی به ۷ میلیون و ۹۸۵ هزار واحد رسید و به زیر مرز ۸ میلیون واحد سقوط کرد؛ شاخص هم وزن نیز بیش از ۱۹ هزار واحد کاهش یافت.",
-    "published": "Tue, 27 Oct 2026 06:40:00 GMT",
-    "collected_at": "2026-10-27T10:17:33.360813+03:30",
-    "filter_market_score": 28,
-    "market_score": 28,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه",
-        "شاخص کل",
-        "شاخص هم وزن"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افت",
-      "معاملات",
-      "کاهش",
-      "سقوط"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه",
-      "شاخص کل",
-      "شاخص هم وزن"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "تابناک",
     "title": "بورس کانال ۸ میلیونی را از دست داد/ ۷ هزار و ۵۰۰ میلیارد تومان از بازار سهام خارج شد",
     "link": "https://example.com/fa/news/30008015/%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF-7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-500-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B4%D8%AF",
@@ -1467,6 +1486,68 @@
     "ranking_applied": true
   },
   {
+    "source": "ایسنا",
+    "title": "طلا فرصت افزایش بیشتر قیمت نیافت",
+    "link": "https://www.isna.ir/news/1405080603704/%D8%B7%D9%84%D8%A7-%D9%81%D8%B1%D8%B5%D8%AA-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%DB%8C%D8%A7%D9%81%D8%AA",
+    "summary": "قیمت طلا در بازار جهانی، پس از افزایش حدود یک درصدی در معاملات روز گذشته، تحت تاثیر تقویت نگرانی های تورمی ناشی از افزایش قیمت نفت، روز چهارشنبه اندکی کاهش یافت.",
+    "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+    "collected_at": "2026-10-28T10:46:05.482464+03:30",
+    "filter_market_score": 20,
+    "market_score": 26,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تورم",
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "کاهش",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تورم",
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "عقب نشینی شاخص از 8 میلیون",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4304631-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A7%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
@@ -1628,69 +1709,6 @@
       "افزایش",
       "قیمت",
       "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مشرق",
-    "title": "قیمت جهانی طلا کاهش یافت",
-    "link": "https://www.mashreghnews.ir/news/1848490/%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
-    "summary": "قیمت جهانی طلا با توجه به افزایش ارزش دلار با کاهش ۰.۳ درصدی به ۴ هزار و ۱۰ دلار رسید.",
-    "published": "Tue, 27 Oct 2026 06:44:37 GMT",
-    "collected_at": "2026-10-27T10:17:40.046168+03:30",
-    "filter_market_score": 18,
-    "market_score": 25,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "افزایش"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
@@ -1891,63 +1909,6 @@
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "طلب ارزی واردکنندگان کالاهای اساسی ۴.۰۷ میلیارد یورو تأیید شد",
-    "link": "https://www.mehrnews.com/news/6991190/%D8%B7%D9%84%D8%A8-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%DA%A9%D8%A7%D9%84%D8%A7%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C-%DB%B4-%DB%B0%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%AA%D8%A3%DB%8C%DB%8C%D8%AF-%D8%B4%D8%AF",
-    "summary": "وزارت اقتصاد پس از بررسی گزارش های دستگاه های مرتبط، طلب ارزی واردکنندگان کالاهای اساسی را ۴.۰۷ میلیارد یورو تأیید کرد و گزارش را برای تصمیم گیری به هیأت وزیران و سران قوا فرستاد.",
-    "published": "Tue, 27 Oct 2026 06:29:01 GMT",
-    "collected_at": "2026-10-27T10:17:17.374324+03:30",
-    "filter_market_score": 21,
-    "market_score": 24,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "تصمیم",
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -2184,65 +2145,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مشرق",
-    "title": "قیمت نفت به ۱۱۴ دلار و ۷۰ سنت رسید",
-    "link": "https://www.mashreghnews.ir/news/1848480/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%DB%B1%DB%B1%DB%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%DB%B7%DB%B0-%D8%B3%D9%86%D8%AA-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "قیمت نفت برنت با کاهش بیش از یک دلاری به ۱۱۴ دلار و ۷۰ سنت رسید.",
-    "published": "Tue, 27 Oct 2026 06:25:11 GMT",
-    "collected_at": "2026-10-27T10:17:40.046226+03:30",
-    "filter_market_score": 15,
-    "market_score": 22,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "کاهش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -3316,6 +3218,58 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "کرایه حمل کالا از ترکیه به ایران به ۷ هزار دلار رسید",
+    "link": "https://www.mehrnews.com/news/6991486/%DA%A9%D8%B1%D8%A7%DB%8C%D9%87-%D8%AD%D9%85%D9%84-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "یک مقام صنفی گفت: کرایه حمل کالا از ترکیه به ایران در برخی موارد به دلیل کمبود ناوگان و افزایش ترافیک به ۷ هزار دلار رسیده، کامیون ها در مرزهای تجاری کشور، تا ۱۵ روز متوقف و معطل هستند.",
+    "published": "Wed, 28 Oct 2026 07:02:01 GMT",
+    "collected_at": "2026-10-28T10:46:17.335557+03:30",
+    "filter_market_score": 11,
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "طلای جهانی بولدوزر ایرانی فقط در ۷ دقیقه و ۹ ثانیه/ تعجب کشتی گیر مجار از قدرت بالای فردین",
     "link": "https://www.isna.ir/news/1405080503243/%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D9%88%D9%84%D8%AF%D9%88%D8%B2%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%81%D9%82%D8%B7-%D8%AF%D8%B1-%DB%B7-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D9%88-%DB%B9-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-%D8%AA%D8%B9%D8%AC%D8%A8-%DA%A9%D8%B4%D8%AA%DB%8C-%DA%AF%DB%8C%D8%B1",
@@ -3887,153 +3841,6 @@
     "summary": "مراسم توپ طلا در شرایطی با تاج گذاری هری کین در لندن به پایان رسید که خالی از حاشیه نبود. سایت رسمی توپ طلا چند ساعت قبل از مراسم، به اشتباه برای هر سه نامزد اصلی (کین، ام باپه و یامال) مقاله ی «برنده» منتشر کرد و سپس آن ها را حذف کرد. همچنین مراسم به دلیل هجوم هواداران و ترافیک سنگین مقابل لندن پالادیوم با تاخیر آغاز شد.",
     "published": "Tue, 27 Oct 2026 08:30:00 GMT",
     "collected_at": "2026-10-27T12:16:47.108235+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "هری کین برنده توپ طلای ۲۰۲۶ شد",
-    "link": "https://example.com/fa/news/30007971/%D9%87%D8%B1%DB%8C-%DA%A9%DB%8C%D9%86-%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7%DB%8C-2026-%D8%B4%D8%AF",
-    "summary": "هری کین در مراسم توپ طلای ۲۰۲۶ بالاتر از رقبای خود ایستاد و برای نخستین بار عنوان بهترین بازیکن فوتبال جهان را به دست آورد.",
-    "published": "Tue, 27 Oct 2026 09:50:00 +0330",
-    "collected_at": "2026-10-27T10:17:36.394675+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "گسترش طرح «بورس صنعت و مشاغل» به تمام مقاطع تحصیلی در سال ۱۴۰۵",
-    "link": "https://www.mehrnews.com/news/6991188/%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%D8%B7%D8%B1%D8%AD-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B5%D9%86%D8%B9%D8%AA-%D9%88-%D9%85%D8%B4%D8%A7%D8%BA%D9%84-%D8%A8%D9%87-%D8%AA%D9%85%D8%A7%D9%85-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D8%AA%D8%AD%D8%B5%DB%8C%D9%84%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84-%DB%B1%DB%B4%DB%B0%DB%B5",
-    "summary": "مدیرکل بورس و اعزام دانشجویان سازمان امور دانشجویان از گسترش طرح «بورس صنعت و مشاغل» به تمامی مقاطع تحصیلی در سال ۱۴۰۵ خبر داد.",
-    "published": "Tue, 27 Oct 2026 06:26:58 GMT",
-    "collected_at": "2026-10-27T10:17:17.374347+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "اهدای مدال طلای قهرمان آسیایی دوومیدانی ناشنوایان به حرم مطهر رضوی",
-    "link": "https://www.mehrnews.com/news/6991215/%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D8%AF%D9%88%D9%88%D9%85%DB%8C%D8%AF%D8%A7%D9%86%DB%8C-%D9%86%D8%A7%D8%B4%D9%86%D9%88%D8%A7%DB%8C%D8%A7%D9%86-%D8%A8%D9%87-%D8%AD%D8%B1%D9%85-%D9%85%D8%B7%D9%87%D8%B1",
-    "summary": "مشهد- سبحان مردانی شلمزاری، قهرمان ارزنده و مدال آور آسیایی دوومیدانی ناشنوایان، در مراسمی، مدال طلای خود را که حاصل درخشش در مسابقات آسیایی ۲۰۲۳ است، به حرم مطهررضوی، تقدیم کرد.",
-    "published": "Tue, 27 Oct 2026 06:45:41 GMT",
-    "collected_at": "2026-10-27T10:17:17.374055+03:30",
     "filter_market_score": 10,
     "market_score": 16,
     "market_matches": {
@@ -4724,6 +4531,57 @@
     "high_impact_matches": [],
     "medium_impact_matches": [
       "صادرات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "آثار نوسانات ارزی و تحریم ها در ارائه خدمات آزمایشگاهی",
+    "link": "https://www.mehrnews.com/news/6992245/%D8%A2%D8%AB%D8%A7%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A7%D8%B1%D8%A7%D8%A6%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87%DB%8C",
+    "summary": "دبیر انجمن علمی آسیب شناسی ایران، نسبت به تبعات افزایش هزینه تجهیزات و ملزومات مصرفی آزمایشگاهی، تأخیر بیمه ها در پرداخت مطالبات و عدم همخوانی تعرفه ها با هزینه ها هشدار داد.",
+    "published": "Wed, 28 Oct 2026 06:54:42 GMT",
+    "collected_at": "2026-10-28T10:46:17.335673+03:30",
+    "filter_market_score": 9,
+    "market_score": 13,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تحریم"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "تحریم"
     ],
     "has_numeric_evidence": false,
     "market_count": 1,
@@ -6023,49 +5881,6 @@
       "طلا"
     ],
     "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "پوردهقان در سوال از وزیر اقتصاد: نباید مشکلات اقتصادی را پشت واژه دفاع از کشور پنهان کرد",
-    "link": "https://www.isna.ir/news/1405080502909/%D9%BE%D9%88%D8%B1%D8%AF%D9%87%D9%82%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B3%D9%88%D8%A7%D9%84-%D8%A7%D8%B2-%D9%88%D8%B2%DB%8C%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%B1%D8%A7-%D9%BE%D8%B4%D8%AA",
-    "summary": "یک عضو کمیسیون صنایع و معادن مجلس شورای اسلامی با انتقاد از عملکرد وزیر اقتصاد و سیاست های ارزی دولت، شوک های ارزی را عامل اصلی مشکلات اقتصادی کشور دانست و هشدار داد که در صورت اجرای مجدد سیاست های شوک آور ارزی، مجلس به جای طرح سوال، استیضاح وزیر اقتصاد را در دستور کار قرار خواهد داد.",
-    "published": "Tue, 27 Oct 2026 07:04:07 GMT",
-    "collected_at": "2026-10-27T10:44:10.690696+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
