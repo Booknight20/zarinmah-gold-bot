@@ -1,29 +1,58 @@
 [
   {
     "analyst": "علیرضا محرابی",
-    "title": "داخل وبینار تحلیل بیت کوین در حال انجامه",
-    "summary": "داخل وبینار تحلیل بیت کوین در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
-    "full_text": "داخل وبینار تحلیل بیت کوین در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
+    "title": "داخل وبینار تحلیل طلا در حال انجامه",
+    "summary": "داخل وبینار تحلیل طلا در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
+    "full_text": "داخل وبینار تحلیل طلا در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
     "source": "علیرضا محرابی",
-    "link": "https://t.me/AlirezaMehrabi_ir/8761",
-    "analysis_score": 10,
+    "link": "https://t.me/AlirezaMehrabi_ir/8762",
+    "analysis_score": 8,
     "market_matches": [
-      "بیت کوین",
-      "بیت‌کوین"
+      "طلا"
     ],
     "analysis_matches": [
       "تحلیل",
       "ورود"
     ],
-    "market_groups": [],
+    "market_groups": [
+      "gold"
+    ],
     "analysis_reasons": [
       "ارتباط با بازار",
       "دارای نشانه‌های تحلیل",
       "دارای داده عددی"
     ],
     "priority": "medium",
-    "content_length": 83,
+    "content_length": 78,
     "content_complete_from_source": true,
-    "collected_at": "2026-10-28T21:18:46.215530+03:30"
+    "collected_at": "2026-10-28T21:48:15.243047+03:30"
+  },
+  {
+    "analyst": "علیرضا محرابی",
+    "title": "داخل وبینار تحلیل دلار در حال انجامه",
+    "summary": "داخل وبینار تحلیل دلار در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
+    "full_text": "داخل وبینار تحلیل دلار در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
+    "source": "علیرضا محرابی",
+    "link": "https://t.me/AlirezaMehrabi_ir/8763",
+    "analysis_score": 8,
+    "market_matches": [
+      "دلار"
+    ],
+    "analysis_matches": [
+      "تحلیل",
+      "ورود"
+    ],
+    "market_groups": [
+      "currency"
+    ],
+    "analysis_reasons": [
+      "ارتباط با بازار",
+      "دارای نشانه‌های تحلیل",
+      "دارای داده عددی"
+    ],
+    "priority": "medium",
+    "content_length": 79,
+    "content_complete_from_source": true,
+    "collected_at": "2026-10-28T21:48:15.245137+03:30"
   }
 ]

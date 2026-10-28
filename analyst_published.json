@@ -17318,5 +17318,131 @@
     "group_sent_at": "2026-10-28T21:18:57.930778+03:30",
     "group_message_id": 1485,
     "published_at": "2026-10-28T21:18:57.948692+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8762": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "داخل وبینار تحلیل طلا در حال انجامه",
+      "summary": "داخل وبینار تحلیل طلا در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
+      "full_text": "داخل وبینار تحلیل طلا در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8762",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "ورود"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 78,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-28T21:48:15.243047+03:30"
+    },
+    "content_signature": "52b0b3dcccbb470e485d10df4c46501c7089cf35e72a49fda0c31ab1dc6f5f49",
+    "first_seen_at": "2026-10-28T21:48:21.855979+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1748
+    ],
+    "telegram_last_success_at": "2026-10-28T21:48:22.399244+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-28T21:48:22.418139+03:30",
+    "telegram_message_id": 1748,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178822761
+    ],
+    "eitaa_last_success_at": "2026-10-28T21:48:26.286819+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-28T21:48:26.305613+03:30",
+    "eitaa_message_id": 178822761,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1488
+    ],
+    "group_last_success_at": "2026-10-28T21:48:26.862785+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-28T21:48:26.881451+03:30",
+    "group_message_id": 1488,
+    "published_at": "2026-10-28T21:48:26.899385+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8763": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "داخل وبینار تحلیل دلار در حال انجامه",
+      "summary": "داخل وبینار تحلیل دلار در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
+      "full_text": "داخل وبینار تحلیل دلار در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8763",
+      "analysis_score": 8,
+      "market_matches": [
+        "دلار"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "ورود"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 79,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-28T21:48:15.245137+03:30"
+    },
+    "content_signature": "7f6d7c0669266667182e461e943fcd92e5df0166f589a0d49a7e20789f96a8f9",
+    "first_seen_at": "2026-10-28T21:48:26.918179+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1749
+    ],
+    "telegram_last_success_at": "2026-10-28T21:48:27.476518+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-28T21:48:27.495144+03:30",
+    "telegram_message_id": 1749,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178822765
+    ],
+    "eitaa_last_success_at": "2026-10-28T21:48:29.188254+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-28T21:48:29.207177+03:30",
+    "eitaa_message_id": 178822765,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1489
+    ],
+    "group_last_success_at": "2026-10-28T21:48:29.893241+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-28T21:48:29.912096+03:30",
+    "group_message_id": 1489,
+    "published_at": "2026-10-28T21:48:29.930526+03:30"
   }
 }
