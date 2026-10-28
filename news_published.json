@@ -15614,5 +15614,53 @@
     "group_message_id": 1376,
     "fully_published": true,
     "last_checked_at": "2026-10-28T00:46:19.920877+00:00"
+  },
+  "8956c0f282ab2d88d195eb040e368699b63a43ad04d4d2ea9e78393c4728c8de": {
+    "title": "ضربه حملات یمن به اقتصاد عربستان / بورس سعودی به کف چندساله نزدیک شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304723-%D8%B6%D8%B1%D8%A8%D9%87-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%DB%8C%D9%85%D9%86-%D8%A8%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D8%A8%D9%87-%DA%A9%D9%81-%DA%86%D9%86%D8%AF%D8%B3%D8%A7%D9%84%D9%87-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1637
+    ],
+    "eitaa_message_ids": [
+      178679148
+    ],
+    "group_message_ids": [
+      1377
+    ],
+    "content_hash": "379894cd178bf07f0dcd7aaaeb1e343961e00a5a8016aa2066a0b7fd7dab17cd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T01:14:52.283078+00:00",
+    "telegram_message_id": 1637,
+    "eitaa_last_sent_at": "2026-10-28T01:14:53.807164+00:00",
+    "eitaa_message_id": 178679148,
+    "group_last_sent_at": "2026-10-28T01:14:55.504709+00:00",
+    "group_message_id": 1377,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T01:14:55.519852+00:00"
+  },
+  "b7d8d56bdec29c717146027b791b21626b6221854415ea36d58b97675e870060": {
+    "title": "چینی ها در حال خرید طلا؛ تقاضا به بالاترین سطح رسید",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848526/%DA%86%DB%8C%D9%86%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7-%D8%A8%D9%87-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      1638
+    ],
+    "eitaa_message_ids": [
+      178679149
+    ],
+    "group_message_ids": [
+      1378
+    ],
+    "content_hash": "72b559fc703e2b639756e1486a2b7f01b9b62bd1a26d68241a795bd6e14f9e08",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T01:14:57.225924+00:00",
+    "telegram_message_id": 1638,
+    "eitaa_last_sent_at": "2026-10-28T01:14:58.880615+00:00",
+    "eitaa_message_id": 178679149,
+    "group_last_sent_at": "2026-10-28T01:15:00.582530+00:00",
+    "group_message_id": 1378,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T01:15:00.597912+00:00"
   }
 }
