@@ -17390,5 +17390,29 @@
     "group_message_id": 1487,
     "fully_published": true,
     "last_checked_at": "2026-10-28T18:18:21.656184+00:00"
+  },
+  "226b358bd5f5dcbb7f451f551a87bb09cc39c5f9b627620a3dcf732d5da3b5fc": {
+    "title": "محموله سنگین طلای بدل در قم توقیف شد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6992914/%D9%85%D8%AD%D9%85%D9%88%D9%84%D9%87-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A8%D8%AF%D9%84-%D8%AF%D8%B1-%D9%82%D9%85-%D8%AA%D9%88%D9%82%DB%8C%D9%81-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1750
+    ],
+    "eitaa_message_ids": [
+      178826195
+    ],
+    "group_message_ids": [
+      1490
+    ],
+    "content_hash": "1810be87d32023a34d78989ad40ac4014f69229e52769c7531a14c854c784683",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T18:45:25.407295+00:00",
+    "telegram_message_id": 1750,
+    "eitaa_last_sent_at": "2026-10-28T18:45:26.898612+00:00",
+    "eitaa_message_id": 178826195,
+    "group_last_sent_at": "2026-10-28T18:45:28.660382+00:00",
+    "group_message_id": 1490,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T18:45:28.675610+00:00"
   }
 }
