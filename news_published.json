@@ -17558,5 +17558,29 @@
     "group_message_id": 1496,
     "fully_published": true,
     "last_checked_at": "2026-10-28T19:48:41.255098+00:00"
+  },
+  "f2f568384767bfa42ee44c0be422535476c9842357615615170a7ad0f54605a0": {
+    "title": "فراز و فرود بورس",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4304826-%D9%81%D8%B1%D8%A7%D8%B2-%D9%81%D8%B1%D9%88%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      1757
+    ],
+    "eitaa_message_ids": [
+      178840101
+    ],
+    "group_message_ids": [
+      1497
+    ],
+    "content_hash": "05de60e4ba15191af90be348e4ee267561ab1210cd32e7f65525e3cb32cf4852",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T20:46:19.353070+00:00",
+    "telegram_message_id": 1757,
+    "eitaa_last_sent_at": "2026-10-28T20:46:20.690861+00:00",
+    "eitaa_message_id": 178840101,
+    "group_last_sent_at": "2026-10-28T20:46:22.381139+00:00",
+    "group_message_id": 1497,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T20:46:22.403125+00:00"
   }
 }
