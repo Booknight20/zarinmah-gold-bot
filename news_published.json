@@ -15590,5 +15590,29 @@
     "group_message_id": 1375,
     "fully_published": true,
     "last_checked_at": "2026-10-27T23:48:08.768180+00:00"
+  },
+  "91b4f659b5ab14bc7172dd1bfc11dcf827018b60a9b38372f166116b6898f559": {
+    "title": "اعلام هزینه جنگ متجاوزانه آمریکا علیه ایران",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080603535/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%AC%D9%86%DA%AF-%D9%85%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1636
+    ],
+    "eitaa_message_ids": [
+      178678410
+    ],
+    "group_message_ids": [
+      1376
+    ],
+    "content_hash": "8128ea37ccb676bc56dff47ff25353a7ebfde3b474cb9e000b03ff73562c0492",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T00:46:16.636973+00:00",
+    "telegram_message_id": 1636,
+    "eitaa_last_sent_at": "2026-10-28T00:46:18.166913+00:00",
+    "eitaa_message_id": 178678410,
+    "group_last_sent_at": "2026-10-28T00:46:19.902217+00:00",
+    "group_message_id": 1376,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T00:46:19.920877+00:00"
   }
 }
