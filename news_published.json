@@ -15686,5 +15686,29 @@
     "group_message_id": 1379,
     "fully_published": true,
     "last_checked_at": "2026-10-28T03:18:09.001821+00:00"
+  },
+  "284872fb4c78737ced123b2864ca48e15585ee423534168f910df1925142b28f": {
+    "title": "هزینه های جنگ آمریکا علیه ایران از ۴۷ میلیارد دلار گذشت",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6992191/%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%AC%D9%86%DA%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%DB%B4%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DA%AF%D8%B0%D8%B4%D8%AA",
+    "telegram_message_ids": [
+      1640
+    ],
+    "eitaa_message_ids": [
+      178688937
+    ],
+    "group_message_ids": [
+      1380
+    ],
+    "content_hash": "3a6545e0e2cbf0cfa93878fd1fd61aa56800568e6c5a5196710e19df4e695040",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T04:18:08.174702+00:00",
+    "telegram_message_id": 1640,
+    "eitaa_last_sent_at": "2026-10-28T04:18:09.667207+00:00",
+    "eitaa_message_id": 178688937,
+    "group_last_sent_at": "2026-10-28T04:18:11.359321+00:00",
+    "group_message_id": 1380,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T04:18:11.384586+00:00"
   }
 }
