@@ -3737,6 +3737,58 @@
   },
   {
     "source": "ایسنا",
+    "title": "استاندار همدان: فشار بر فعالان اقتصادی کاهش یابد/ گره تعهدات ارزی صادرکنندگان باید باز شود",
+    "link": "https://www.isna.ir/news/1405080604240/%D9%81%D8%B4%D8%A7%D8%B1-%D8%A8%D8%B1-%D9%81%D8%B9%D8%A7%D9%84%D8%A7%D9%86-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D8%A8%D8%AF-%DA%AF%D8%B1%D9%87-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86",
+    "summary": "استاندار همدان با تأکید بر ضرورت همکاری دستگاه های اجرایی، قضایی و نظارتی برای تسهیل فعالیت صادرکنندگان، خواستار کاهش دغدغه فعالان اقتصادی در زمینه رفع تعهدات ارزی شد و از پیگیری این موضوع در سطح ملی برای اصلاح قوانین و اتخاذ تصمیمات مؤثر خبر داد.",
+    "published": "Wed, 28 Oct 2026 17:27:23 GMT",
+    "collected_at": "2026-10-28T21:18:06.063643+03:30",
+    "filter_market_score": 11,
+    "market_score": 15,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "ایسنا",
     "title": "اعلام هزینه جنگ متجاوزانه آمریکا علیه ایران",
     "link": "https://www.isna.ir/news/1405080603535/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%AC%D9%86%DA%AF-%D9%85%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
     "summary": "یک رسانه آمریکایی گزارش داد: طبق برآوردهای سنتکام، هزینه جنگ علیه ایران تا ۱۶ اکتبر تقریباً به ۴۷ میلیارد دلار رسیده است.",
@@ -4036,58 +4088,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "ایسنا",
-    "title": "رئیس شورای ملی زعفران: تعهدات ارزی از موانع پیش روی صادرکنندگان است",
-    "link": "https://www.isna.ir/news/1405080503435/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D9%85%D9%84%DB%8C-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%D8%B2-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D9%BE%DB%8C%D8%B4-%D8%B1%D9%88%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86",
-    "summary": "رئیس شورای ملی زعفران با اشاره به ضرورت حمایت از تولیدکنندگان و صادرکنندگان زعفران، گفت: مدیریت منابع آب، تامین به موقع تسهیلات متناسب با نیاز کشاورزان، ساماندهی نیروی کار در فصل برداشت و رفع موانع صادراتی از الزامات تکمیل زنجیره ارزش زعفران و تبدیل مزیت نسبی تولید آن به مزیت رقابتی است.",
-    "published": "Tue, 27 Oct 2026 17:22:17 GMT",
-    "collected_at": "2026-10-27T21:17:38.177456+03:30",
-    "filter_market_score": 11,
-    "market_score": 13,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "حمایت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "مهر",
     "title": "آثار نوسانات ارزی و تحریم ها در ارائه خدمات آزمایشگاهی",
     "link": "https://www.mehrnews.com/news/6992245/%D8%A2%D8%AB%D8%A7%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A7%D8%B1%D8%A7%D8%A6%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87%DB%8C",
@@ -4230,6 +4230,55 @@
       "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "مهر",
+    "title": "گوهرسنگ های خراسان جنوبی ظرفیتی هم تراز طلا برای ارزآوری دارند",
+    "link": "https://www.mehrnews.com/news/6993097/%DA%AF%D9%88%D9%87%D8%B1%D8%B3%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%DB%8C-%D9%87%D9%85-%D8%AA%D8%B1%D8%A7%D8%B2-%D8%B7%D9%84%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%D8%A2%D9%88%D8%B1%DB%8C-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
+    "summary": "یرجند- رئیس خانه معدن خراسان جنوبی، گوهرسنگ های استان را ظرفیتی ارزشمند برای ارزآوری دانست و بر ضرورت ساماندهی تجارت و صادرات این محصولات تأکید کرد.",
+    "published": "Wed, 28 Oct 2026 17:41:20 GMT",
+    "collected_at": "2026-10-28T21:18:11.126554+03:30",
+    "filter_market_score": 9,
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "عامل اقتصادی",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,

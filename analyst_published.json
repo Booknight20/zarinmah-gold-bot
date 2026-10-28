@@ -17256,5 +17256,67 @@
     "group_sent_at": "2026-10-28T19:48:42.429024+03:30",
     "group_message_id": 1479,
     "published_at": "2026-10-28T19:48:42.447405+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8761": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "داخل وبینار تحلیل بیت کوین در حال انجامه",
+      "summary": "داخل وبینار تحلیل بیت کوین در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
+      "full_text": "داخل وبینار تحلیل بیت کوین در حال انجامه\n\nورود به وبینار 👇 \n\n https://B2n.ir/ye6611",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8761",
+      "analysis_score": 10,
+      "market_matches": [
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "ورود"
+      ],
+      "market_groups": [],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 83,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-28T21:18:46.215530+03:30"
+    },
+    "content_signature": "f94972bd6c8ea5a21ebdab81446313f5856de22349eb416c77b7a1dd0280dccc",
+    "first_seen_at": "2026-10-28T21:18:56.033737+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1745
+    ],
+    "telegram_last_success_at": "2026-10-28T21:18:56.386684+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-28T21:18:56.405787+03:30",
+    "telegram_message_id": 1745,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178819691
+    ],
+    "eitaa_last_success_at": "2026-10-28T21:18:57.489190+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-28T21:18:57.507786+03:30",
+    "eitaa_message_id": 178819691,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1485
+    ],
+    "group_last_success_at": "2026-10-28T21:18:57.912161+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-28T21:18:57.930778+03:30",
+    "group_message_id": 1485,
+    "published_at": "2026-10-28T21:18:57.948692+03:30"
   }
 }
