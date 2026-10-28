@@ -17270,5 +17270,53 @@
     "group_message_id": 1475,
     "fully_published": true,
     "last_checked_at": "2026-10-28T15:16:52.089437+00:00"
+  },
+  "1e3bf56ef41e37123c3adfc964b00ec3fb8f9d92ba03c4d3ee002737c40295da": {
+    "title": "درخشش جودوکاران ایران در کاپ آسیا با سه مدال طلا، نقره و برنز",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6993067/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D8%AC%D9%88%D8%AF%D9%88%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%A8%D8%A7-%D8%B3%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D9%88-%D8%A8%D8%B1%D9%86%D8%B2",
+    "telegram_message_ids": [
+      1740
+    ],
+    "eitaa_message_ids": [
+      178812094
+    ],
+    "group_message_ids": [
+      1480
+    ],
+    "content_hash": "db97df68697a7693f1a60cdb6229204137888f18f21efc336a7411ad9590a8b1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T16:47:51.654789+00:00",
+    "telegram_message_id": 1740,
+    "eitaa_last_sent_at": "2026-10-28T16:47:53.255295+00:00",
+    "eitaa_message_id": 178812094,
+    "group_last_sent_at": "2026-10-28T16:47:55.102802+00:00",
+    "group_message_id": 1480,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T16:47:55.128956+00:00"
+  },
+  "4e29134cc299e2035bbf19dfa546dbc7e11865242ae5971c6ae3107f92547e24": {
+    "title": "قیمت دلار همه ماجراست؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304837-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%87%D9%85%D9%87-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1741
+    ],
+    "eitaa_message_ids": [
+      178812113
+    ],
+    "group_message_ids": [
+      1481
+    ],
+    "content_hash": "2bbf2eca810d8f60b006a723bcbca4f01d8365f9bc2189b7452024e81ee15bf8",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T16:47:56.856593+00:00",
+    "telegram_message_id": 1741,
+    "eitaa_last_sent_at": "2026-10-28T16:47:58.430205+00:00",
+    "eitaa_message_id": 178812113,
+    "group_last_sent_at": "2026-10-28T16:48:00.208369+00:00",
+    "group_message_id": 1481,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T16:48:00.234351+00:00"
   }
 }
