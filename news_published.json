@@ -17510,5 +17510,53 @@
     "group_message_id": 1494,
     "fully_published": true,
     "last_checked_at": "2026-10-28T19:18:58.518452+00:00"
+  },
+  "a106865e4baa587f9526310aea1a132f8e4fca6c740ca8109744609ce0b03cf7": {
+    "title": "از جهش سودآوری تا سرمایه گذاری های توسعه ای در مس ایران",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B5%D9%86%D8%B9%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-205/4304622-%D8%A7%D8%B2-%D8%AC%D9%87%D8%B4-%D8%B3%D9%88%D8%AF%D8%A2%D9%88%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B3-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1755
+    ],
+    "eitaa_message_ids": [
+      178834235
+    ],
+    "group_message_ids": [
+      1495
+    ],
+    "content_hash": "5e75c66ce8007837962c58ed7e051d1e1aa529b60ba83606c6245f043bc1b486",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T19:48:33.959419+00:00",
+    "telegram_message_id": 1755,
+    "eitaa_last_sent_at": "2026-10-28T19:48:35.120964+00:00",
+    "eitaa_message_id": 178834235,
+    "group_last_sent_at": "2026-10-28T19:48:36.734232+00:00",
+    "group_message_id": 1495,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T19:48:36.763148+00:00"
+  },
+  "3624208adc96199dbcc99a5c1cdabff4d17318af2be8c5c4f3660e38a518ae41": {
+    "title": "ثبت ۳۰ همت معامله در بازار گواهی سپرده کالایی",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B5%D9%86%D8%B9%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-205/4304623-%D8%AB%D8%A8%D8%AA-%D9%87%D9%85%D8%AA-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%AF%D9%88%D8%A7%D9%87%DB%8C-%D8%B3%D9%BE%D8%B1%D8%AF%D9%87-%DA%A9%D8%A7%D9%84%D8%A7%DB%8C%DB%8C",
+    "telegram_message_ids": [
+      1756
+    ],
+    "eitaa_message_ids": [
+      178834244
+    ],
+    "group_message_ids": [
+      1496
+    ],
+    "content_hash": "ad7c894306475ccffb8e26df5c35db7043649d2d7d6da3ac29abb65e2b759c0a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T19:48:38.400561+00:00",
+    "telegram_message_id": 1756,
+    "eitaa_last_sent_at": "2026-10-28T19:48:39.621610+00:00",
+    "eitaa_message_id": 178834244,
+    "group_last_sent_at": "2026-10-28T19:48:41.226557+00:00",
+    "group_message_id": 1496,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T19:48:41.255098+00:00"
   }
 }
