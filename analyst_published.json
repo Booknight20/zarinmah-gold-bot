@@ -15852,5 +15852,133 @@
     "group_sent_at": "2026-10-28T09:15:13.159772+03:30",
     "group_message_id": 1391,
     "published_at": "2026-10-28T09:15:13.169826+03:30"
+  },
+  "https://t.me/drarashamini/7290": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "گزارش شرکت ها باعث شده که با وجود ابهام در شرایط کشور، شاهد معاملات متعادلی باشیم و اتفاقا همین شرایط برای بازار سرما...",
+      "summary": "گزارش شرکت ها باعث شده که با وجود ابهام در شرایط کشور، شاهد معاملات متعادلی باشیم و اتفاقا همین شرایط برای بازار سرمایه خیلی بهتر هست که نه هیجان فروش زیادی در بازار باشه و نه هیجان خرید بالا.\n\nخروج پول هم خیلی زیاد نبوده \n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "گزارش شرکت ها باعث شده که با وجود ابهام در شرایط کشور، شاهد معاملات متعادلی باشیم و اتفاقا همین شرایط برای بازار سرمایه خیلی بهتر هست که نه هیجان فروش زیادی در بازار باشه و نه هیجان خرید بالا.\n\nخروج پول هم خیلی زیاد نبوده \n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7290",
+      "analysis_score": 14,
+      "market_matches": [
+        "طلا",
+        "بازار سرمایه"
+      ],
+      "analysis_matches": [
+        "خرید",
+        "فروش",
+        "خروج"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای استدلال"
+      ],
+      "priority": "high",
+      "content_length": 347,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-28T09:48:17.195060+03:30"
+    },
+    "content_signature": "22ce7f5827626ef2ed17a2f2d26a1f733b7b9a4205252cebd5748d19a4f9eeec",
+    "first_seen_at": "2026-10-28T09:48:37.250610+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1657
+    ],
+    "telegram_last_success_at": "2026-10-28T09:48:37.649505+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-28T09:48:37.667469+03:30",
+    "telegram_message_id": 1657,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178706331
+    ],
+    "eitaa_last_success_at": "2026-10-28T09:48:38.941491+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-28T09:48:38.959370+03:30",
+    "eitaa_message_id": 178706331,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1397
+    ],
+    "group_last_success_at": "2026-10-28T09:48:39.381861+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-28T09:48:39.399250+03:30",
+    "group_message_id": 1397,
+    "published_at": "2026-10-28T09:48:39.416062+03:30"
+  },
+  "https://t.me/rahavard365/58594": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "✅ عرضه اولیه شتبریز",
+      "summary": "✅ عرضه اولیه شتبریز \n\n 🗓 تاریخ عرضه: ۱۴۰۵/۰۸/۰۶\n \n ⬅ شرکت: پتروشیمی تبریز \n\n ⬅ دامنه قیمت: ۵۷,۶۴۲ تا ۶۵,۰۰۰ ریال\n ⬅ حداکثر سهمیه هر کد: ۸۰۰ سهم\n\n ✉️ @rahavard365",
+      "full_text": "✅ عرضه اولیه شتبریز \n\n 🗓 تاریخ عرضه: ۱۴۰۵/۰۸/۰۶\n \n ⬅ شرکت: پتروشیمی تبریز \n\n ⬅ دامنه قیمت: ۵۷,۶۴۲ تا ۶۵,۰۰۰ ریال\n ⬅ حداکثر سهمیه هر کد: ۸۰۰ سهم\n\n ✉️ @rahavard365",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58594",
+      "analysis_score": 10,
+      "market_matches": [
+        "ریال",
+        "عرضه اولیه"
+      ],
+      "analysis_matches": [
+        "عرضه",
+        "قیمت"
+      ],
+      "market_groups": [],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 161,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-28T09:48:18.727078+03:30"
+    },
+    "content_signature": "73d45f3a67da78b2f534b69ee144bb0d9fc6c71be781a3b1ea19707282caa05f",
+    "first_seen_at": "2026-10-28T09:48:39.433505+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1658
+    ],
+    "telegram_last_success_at": "2026-10-28T09:48:39.830340+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-28T09:48:39.847958+03:30",
+    "telegram_message_id": 1658,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178706335
+    ],
+    "eitaa_last_success_at": "2026-10-28T09:48:41.147171+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-28T09:48:41.165663+03:30",
+    "eitaa_message_id": 178706335,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1398
+    ],
+    "group_last_success_at": "2026-10-28T09:48:41.578383+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-28T09:48:41.596486+03:30",
+    "group_message_id": 1398,
+    "published_at": "2026-10-28T09:48:41.617468+03:30"
   }
 }
