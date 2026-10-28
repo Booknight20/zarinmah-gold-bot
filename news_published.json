@@ -16790,5 +16790,101 @@
     "group_message_id": 1441,
     "fully_published": true,
     "last_checked_at": "2026-10-28T10:18:44.464676+00:00"
+  },
+  "d319c5657e4c3b731a4e68c4da8437eb361911119fe026967cb5569cc808c110": {
+    "title": "صرفه جویی ۵ هزار دلاری در حمل ۵۰ کانتینر قیر از قم به چین",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080603989/%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84-%DB%B5%DB%B0-%DA%A9%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D8%B1-%D9%82%DB%8C%D8%B1-%D8%A7%D8%B2-%D9%82%D9%85-%D8%A8%D9%87-%DA%86%DB%8C%D9%86",
+    "telegram_message_ids": [
+      1703
+    ],
+    "eitaa_message_ids": [
+      178753811
+    ],
+    "group_message_ids": [
+      1443
+    ],
+    "content_hash": "0b386283b82414e8de9d123fe2e19c443ca301ad7e44f168b716b40f572ad989",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T10:48:29.489862+00:00",
+    "telegram_message_id": 1703,
+    "eitaa_last_sent_at": "2026-10-28T10:48:30.619576+00:00",
+    "eitaa_message_id": 178753811,
+    "group_last_sent_at": "2026-10-28T10:48:32.229392+00:00",
+    "group_message_id": 1443,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T10:48:32.256842+00:00"
+  },
+  "598fa4ab0e1988bc14b4b998c1871f414451f788ade29198110b2aa8fd201ff4": {
+    "title": "سرمایه گذاری ۷۷ میلیارد دلاری شیخ نشینان در یک کشور آفریقایی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6992669/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%DB%B7%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B4%DB%8C%D8%AE-%D9%86%D8%B4%DB%8C%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%DB%8C%DA%A9-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7%DB%8C%DB%8C",
+    "telegram_message_ids": [
+      1704
+    ],
+    "eitaa_message_ids": [
+      178753822
+    ],
+    "group_message_ids": [
+      1444
+    ],
+    "content_hash": "0a015209bf4095bcd2a27b94ca302af838c68459d4378617ce34f982af579720",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T10:48:33.851271+00:00",
+    "telegram_message_id": 1704,
+    "eitaa_last_sent_at": "2026-10-28T10:48:35.014572+00:00",
+    "eitaa_message_id": 178753822,
+    "group_last_sent_at": "2026-10-28T10:48:36.608486+00:00",
+    "group_message_id": 1444,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T10:48:36.635717+00:00"
+  },
+  "2907241d104bed2e7f441ea947dcf34b3ca06af1b5c52f75922c50d5105e24bb": {
+    "title": "نرخ ارز دلار، طلا و یورو امروز چهارشنبه ۶ آبان ۱۴۰۵/ صعود قیمت طلا و سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304764-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B5%D8%B9%D9%88%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      1705
+    ],
+    "eitaa_message_ids": [
+      178753832
+    ],
+    "group_message_ids": [
+      1445
+    ],
+    "content_hash": "eb81feaeb74fb45b12644e99e1622843c78862df0df844371f8e04d146935add",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T10:48:38.264281+00:00",
+    "telegram_message_id": 1705,
+    "eitaa_last_sent_at": "2026-10-28T10:48:39.459999+00:00",
+    "eitaa_message_id": 178753832,
+    "group_last_sent_at": "2026-10-28T10:48:41.077129+00:00",
+    "group_message_id": 1445,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T10:48:41.106660+00:00"
+  },
+  "78c0fbbc8cef5c147a62d5c3a8a84218155cd23f7a59b36e8ee9eea22e4126ae": {
+    "title": "سرقت طلاهای دختر جوان توسط خواستگارش",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848759/%D8%B3%D8%B1%D9%82%D8%AA-%D8%B7%D9%84%D8%A7%D9%87%D8%A7%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AC%D9%88%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%DA%AF%D8%A7%D8%B1%D8%B4",
+    "telegram_message_ids": [
+      1706
+    ],
+    "eitaa_message_ids": [
+      178753860
+    ],
+    "group_message_ids": [
+      1446
+    ],
+    "content_hash": "8c14fd6254de5cc0a578b30faeee723e5fb9f11634ea603a92aa8e8cc6e60f32",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T10:48:42.712994+00:00",
+    "telegram_message_id": 1706,
+    "eitaa_last_sent_at": "2026-10-28T10:48:43.917179+00:00",
+    "eitaa_message_id": 178753860,
+    "group_last_sent_at": "2026-10-28T10:48:45.505338+00:00",
+    "group_message_id": 1446,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T10:48:45.532716+00:00"
   }
 }
