@@ -16973,5 +16973,69 @@
     "group_sent_at": "2026-10-28T16:16:09.931265+03:30",
     "group_message_id": 1464,
     "published_at": "2026-10-28T16:16:09.942495+03:30"
+  },
+  "https://t.me/nasiirry/17707": {
+    "item": {
+      "analyst": "حسین نصیری",
+      "title": "🚨 چند مورد مهم در رابطه با نرخ بهره و جلسه FOMC امشب",
+      "summary": "🚨 چند مورد مهم در رابطه با نرخ بهره و جلسه FOMC امشب \n\n ⚠️ این ویس رو با دقت گوش بدید و منتظر تحلیل های بعدی برای نقاط خرید و فروش باشید ...\n\n @nasiirry",
+      "full_text": "🚨 چند مورد مهم در رابطه با نرخ بهره و جلسه FOMC امشب \n\n ⚠️ این ویس رو با دقت گوش بدید و منتظر تحلیل های بعدی برای نقاط خرید و فروش باشید ...\n\n @nasiirry",
+      "source": "حسین نصیری",
+      "link": "https://t.me/nasiirry/17707",
+      "analysis_score": 10,
+      "market_matches": [
+        "نرخ بهره"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "خرید",
+        "فروش",
+        "نرخ"
+      ],
+      "market_groups": [
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل"
+      ],
+      "priority": "medium",
+      "content_length": 152,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-28T17:46:34.530960+03:30"
+    },
+    "content_signature": "7e6f4765b1daf15e629153a76b1adac1a0e34004fa1c15c717ac3eb28e38abb6",
+    "first_seen_at": "2026-10-28T17:46:35.840047+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1731
+    ],
+    "telegram_last_success_at": "2026-10-28T17:46:36.183610+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-28T17:46:36.198509+03:30",
+    "telegram_message_id": 1731,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178792274
+    ],
+    "eitaa_last_success_at": "2026-10-28T17:46:37.369697+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-28T17:46:37.384128+03:30",
+    "eitaa_message_id": 178792274,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1471
+    ],
+    "group_last_success_at": "2026-10-28T17:46:37.776729+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-28T17:46:37.790836+03:30",
+    "group_message_id": 1471,
+    "published_at": "2026-10-28T17:46:37.804238+03:30"
   }
 }
