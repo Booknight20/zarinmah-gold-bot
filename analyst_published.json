@@ -16201,5 +16201,74 @@
     "group_sent_at": "2026-10-28T11:19:29.435979+03:30",
     "group_message_id": 1413,
     "published_at": "2026-10-28T11:19:29.452783+03:30"
+  },
+  "https://t.me/drarashamini/7294": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "پذیره نویسی صندوق جدید طلا با نماد \"تاج\" از شنبه/ تحلیل اونس جهانی",
+      "summary": "پذیره نویسی صندوق جدید طلا با نماد \"تاج\" از شنبه/ تحلیل اونس جهانی\n\nپذیره نویسی صندوق تاج به عنوان سی و هفتمین صندوق طلا به مدت سه روز کاری از شنبه هفته آینده آغاز می شود. \n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "پذیره نویسی صندوق جدید طلا با نماد \"تاج\" از شنبه/ تحلیل اونس جهانی\n\nپذیره نویسی صندوق تاج به عنوان سی و هفتمین صندوق طلا به مدت سه روز کاری از شنبه هفته آینده آغاز می شود. \n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7294",
+      "analysis_score": 19,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "اونس جهانی",
+        "نماد",
+        "صندوق طلا"
+      ],
+      "analysis_matches": [
+        "تحلیل"
+      ],
+      "market_groups": [
+        "gold",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 297,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-28T12:27:52.933970+03:30"
+    },
+    "content_signature": "3d8d3011782775eacb9da0bc4357764eaf084ca5441a13a37dcd1f4546580fa6",
+    "first_seen_at": "2026-10-28T12:28:06.400114+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1685
+    ],
+    "telegram_last_success_at": "2026-10-28T12:28:06.969185+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-28T12:28:06.987397+03:30",
+    "telegram_message_id": 1685,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178736699
+    ],
+    "eitaa_last_success_at": "2026-10-28T12:28:07.843979+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-28T12:28:07.862533+03:30",
+    "eitaa_message_id": 178736699,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1425
+    ],
+    "group_last_success_at": "2026-10-28T12:28:08.647106+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-28T12:28:08.664826+03:30",
+    "group_message_id": 1425,
+    "published_at": "2026-10-28T12:28:08.681874+03:30"
   }
 }

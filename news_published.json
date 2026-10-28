@@ -16454,5 +16454,53 @@
     "group_message_id": 1422,
     "fully_published": true,
     "last_checked_at": "2026-10-28T08:48:56.541259+00:00"
+  },
+  "59a191a88bc884d68b10d3e99b68c7199654d19610943f1495872d5c25f9f0b6": {
+    "title": "طلافروشان هند در کمین افت بیشتر قیمت ها؛ خرید طلا به تعویق افتاد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080603858/%D8%B7%D9%84%D8%A7%D9%81%D8%B1%D9%88%D8%B4%D8%A7%D9%86-%D9%87%D9%86%D8%AF-%D8%AF%D8%B1-%DA%A9%D9%85%DB%8C%D9%86-%D8%A7%D9%81%D8%AA-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D8%AA%D8%B9%D9%88%DB%8C%D9%82-%D8%A7%D9%81%D8%AA%D8%A7%D8%AF",
+    "telegram_message_ids": [
+      1683
+    ],
+    "eitaa_message_ids": [
+      178736680
+    ],
+    "group_message_ids": [
+      1423
+    ],
+    "content_hash": "b7957b1c69c33116f5238a02895760487a8fa9e278a4e069b5050ccdaae5d150",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T08:57:57.232983+00:00",
+    "telegram_message_id": 1683,
+    "eitaa_last_sent_at": "2026-10-28T08:57:58.975961+00:00",
+    "eitaa_message_id": 178736680,
+    "group_last_sent_at": "2026-10-28T08:58:00.864685+00:00",
+    "group_message_id": 1423,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T08:58:00.891665+00:00"
+  },
+  "32e0d7675fd6dbf1550e9ee0859aaa0c6c5cc319073bd43109a986d2817a78b3": {
+    "title": "قیمت دلار، یورو و درهم امروز چهارشنبه ۶ آبان ۱۴۰۵/ افزایش قیمت دلار",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304765-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1684
+    ],
+    "eitaa_message_ids": [
+      178736688
+    ],
+    "group_message_ids": [
+      1424
+    ],
+    "content_hash": "772acfb14c40aa2561ed12eb801e122c41adfcaaa62872ea965d1e85b9806472",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T08:58:02.727072+00:00",
+    "telegram_message_id": 1684,
+    "eitaa_last_sent_at": "2026-10-28T08:58:04.401451+00:00",
+    "eitaa_message_id": 178736688,
+    "group_last_sent_at": "2026-10-28T08:58:06.161079+00:00",
+    "group_message_id": 1424,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T08:58:06.187686+00:00"
   }
 }
