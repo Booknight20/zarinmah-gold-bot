@@ -16886,5 +16886,77 @@
     "group_message_id": 1446,
     "fully_published": true,
     "last_checked_at": "2026-10-28T10:48:45.532716+00:00"
+  },
+  "dff324c37a0e7fb66a8104f4c4df0b3d0d2cbc48f50491436b416de62f5b8d61": {
+    "title": "مورد عجیب بازار مسکن ایران",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6992651/%D9%85%D9%88%D8%B1%D8%AF-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B3%DA%A9%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1711
+    ],
+    "eitaa_message_ids": [
+      178757832
+    ],
+    "group_message_ids": [
+      1451
+    ],
+    "content_hash": "78daddf7f64f9fa4d9eaa6aeb4f7e857d9270d8d9e76c7066ff87dc5c42bd748",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T11:18:40.942510+00:00",
+    "telegram_message_id": 1711,
+    "eitaa_last_sent_at": "2026-10-28T11:18:42.728848+00:00",
+    "eitaa_message_id": 178757832,
+    "group_last_sent_at": "2026-10-28T11:18:44.510019+00:00",
+    "group_message_id": 1451,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T11:18:44.537194+00:00"
+  },
+  "f92667b6972990ab19e4496d6247885e1173740f34d549f9d37d3ad286074ca0": {
+    "title": "رشد ۴۰ هزار واحدی شاخص کل بورس/ ۴.۸ همت وارد صندوق درآمد ثابت شد",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008144/%D8%B1%D8%B4%D8%AF-40-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-4-8-%D9%87%D9%85%D8%AA-%D9%88%D8%A7%D8%B1%D8%AF-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D8%AB%D8%A7%D8%A8%D8%AA-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1712
+    ],
+    "eitaa_message_ids": [
+      178757844
+    ],
+    "group_message_ids": [
+      1452
+    ],
+    "content_hash": "95207a9b3a380918d50c8ea15c418a25489bffe8fe392c7d5466568f39a774b5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T11:18:46.321684+00:00",
+    "telegram_message_id": 1712,
+    "eitaa_last_sent_at": "2026-10-28T11:18:48.833040+00:00",
+    "eitaa_message_id": 178757844,
+    "group_last_sent_at": "2026-10-28T11:18:50.652647+00:00",
+    "group_message_id": 1452,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T11:18:50.680106+00:00"
+  },
+  "f9dffa3913e8ae7363f807d8c307f336f97e127fd2450f3b76713809fe26d21a": {
+    "title": "بازگشت بورس به مدار صعود؛ شاخص کل در آستانه ۸ میلیون واحد",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848878/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D9%85%D8%AF%D8%A7%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF",
+    "telegram_message_ids": [
+      1713
+    ],
+    "eitaa_message_ids": [
+      178757861
+    ],
+    "group_message_ids": [
+      1453
+    ],
+    "content_hash": "010cc9d92ba990745e944936379084e95a7f84986582180bdc94bfb2b18b3534",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T11:18:52.485099+00:00",
+    "telegram_message_id": 1713,
+    "eitaa_last_sent_at": "2026-10-28T11:18:56.001538+00:00",
+    "eitaa_message_id": 178757861,
+    "group_last_sent_at": "2026-10-28T11:18:57.786730+00:00",
+    "group_message_id": 1453,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T11:18:57.814090+00:00"
   }
 }
