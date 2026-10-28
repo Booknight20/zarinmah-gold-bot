@@ -17582,5 +17582,53 @@
     "group_message_id": 1497,
     "fully_published": true,
     "last_checked_at": "2026-10-28T20:46:22.403125+00:00"
+  },
+  "4b456a2270c76f4f23f1599be4e4a78236225e124fcd3bf09482442fbc1b232f": {
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۶ آبان ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۲۶۹ هزار و ۵۰۰ تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294576/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B6-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
+    "telegram_message_ids": [
+      1758
+    ],
+    "eitaa_message_ids": [
+      178842702
+    ],
+    "group_message_ids": [
+      1498
+    ],
+    "content_hash": "96beb63a9b84dd93db57391847192861965af0c5cc7b18950b208e5ab4c27eb6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T21:18:02.038688+00:00",
+    "telegram_message_id": 1758,
+    "eitaa_last_sent_at": "2026-10-28T21:18:03.224778+00:00",
+    "eitaa_message_id": 178842702,
+    "group_last_sent_at": "2026-10-28T21:18:04.851094+00:00",
+    "group_message_id": 1498,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T21:18:04.879513+00:00"
+  },
+  "5b6cded704f14e2054f817d476df77a9b8791c58f9ff0cb3781da6ba8240d313": {
+    "title": "تا ۱۸۰ خانواده را داغدار نکنند، دست از این قلک برنمی دارند؟!",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008208/%D8%AA%D8%A7-180-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%D8%B1%D8%A7-%D8%AF%D8%A7%D8%BA%D8%AF%D8%A7%D8%B1-%D9%86%DA%A9%D9%86%D9%86%D8%AF-%D8%AF%D8%B3%D8%AA-%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86-%D9%82%D9%84%DA%A9-%D8%A8%D8%B1%D9%86%D9%85%DB%8C-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
+    "telegram_message_ids": [
+      1759
+    ],
+    "eitaa_message_ids": [
+      178842714
+    ],
+    "group_message_ids": [
+      1499
+    ],
+    "content_hash": "2c56d074234ba9f83cf2df3202b6ece5fbb4216e60febfbea92e515ffafdf9c9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T21:18:06.535344+00:00",
+    "telegram_message_id": 1759,
+    "eitaa_last_sent_at": "2026-10-28T21:18:07.421845+00:00",
+    "eitaa_message_id": 178842714,
+    "group_last_sent_at": "2026-10-28T21:18:09.051273+00:00",
+    "group_message_id": 1499,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T21:18:09.080509+00:00"
   }
 }
