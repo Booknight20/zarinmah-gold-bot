@@ -1180,73 +1180,6 @@
     "telegram_preview": "📰 عرضه اولیه پتروشیمی تبریز با نماد «شتبریز» در بورس تهران\n\nپتروشیمی تبریز با عرضه اولیه ۵ درصد از سهام خود به جمع شرکت های بورسی پیوست؛ در این عرضه که با قیمت هر سهم ۶ هزار و ۵۰۰ تومان انجام شد، بیش از ۲ میلیون کد معاملاتی سفارش خرید ثبت کردند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6992874/%D8%B9%D8%B1%D8%B6%D9%87-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%A8%D8%A7-%D9%86%D9%85%D8%A7%D8%AF-%D8%B4%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
   },
   {
-    "source": "مهر",
-    "title": "صنعتگران طلا ۹۲ کیلو شمش در حراج مرکز مبادله ایران خریداری کردند",
-    "link": "https://www.mehrnews.com/news/6991856/%D8%B5%D9%86%D8%B9%D8%AA%DA%AF%D8%B1%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%DB%B9%DB%B2-%DA%A9%DB%8C%D9%84%D9%88-%D8%B4%D9%85%D8%B4-%D8%AF%D8%B1-%D8%AD%D8%B1%D8%A7%D8%AC-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF",
-    "summary": "در نوزدهمین حراج شمش طلای استاندارد مرکز مبادله ایران، صنعتگران ۹۲ کیلوگرم شمش یک کیلوگرمی خریدند.",
-    "published": "Tue, 27 Oct 2026 14:26:01 GMT",
-    "collected_at": "2026-10-27T18:17:09.477199+03:30",
-    "filter_market_score": 20,
-    "market_score": 27,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "مرکز مبادله"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "مرکز مبادله"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "مرکز مبادله"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "حراج"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "در نوزدهمین حراج شمش طلای استاندارد مرکز مبادله ایران، صنعتگران ۹۲ کیلوگرم شمش یک کیلوگرمی خریدند.",
-    "telegram_preview": "📰 صنعتگران طلا ۹۲ کیلو شمش در حراج مرکز مبادله ایران خریداری کردند\n\nدر نوزدهمین حراج شمش طلای استاندارد مرکز مبادله ایران، صنعتگران ۹۲ کیلوگرم شمش یک کیلوگرمی خریدند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6991856/%D8%B5%D9%86%D8%B9%D8%AA%DA%AF%D8%B1%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%DB%B9%DB%B2-%DA%A9%DB%8C%D9%84%D9%88-%D8%B4%D9%85%D8%B4-%D8%AF%D8%B1-%D8%AD%D8%B1%D8%A7%D8%AC-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF"
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "شاخص کل بورس رشد کرد/قدرت خرید مثبت شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304779-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF-%D9%82%D8%AF%D8%B1%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%85%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF",
@@ -2251,6 +2184,64 @@
     "telegram_preview": "📰 هزینه های جنگ آمریکا علیه ایران از ۴۷ میلیارد دلار گذشت\n\nهزینه های جنگ افروزی آمریکا علیه ایران با رشد سریع طی مدت کوتاهی به بیش از ۴۷ میلیارد دلار رسید.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6992191/%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%AC%D9%86%DA%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%DB%B4%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DA%AF%D8%B0%D8%B4%D8%AA"
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "جام طلای فارابی؛ از پشتوانه شمش طلا تا بازدهی ۱۳۴ درصدی",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4304820-%D8%AC%D8%A7%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%A7%D8%A8%DB%8C-%D8%A7%D8%B2-%D9%BE%D8%B4%D8%AA%D9%88%D8%A7%D9%86%D9%87-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%AA%D8%A7-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C",
+    "summary": "صندوق «جام طلای فارابی» در نخستین سال فعالیت خود با ثبت بازدهی بیش از ۱۳۴ درصد و رشد حدود ۱۰ برابری دارایی تحت مدیریت، از مرز ۱۰ هزار میلیارد تومان عبور کرد. کسب بازدهی بالاتر از میانگین صندوق های طلا در بازه های یکساله و سه ماهه و حفظ حباب قیمتی در محدوده نزدیک به صفر، از دیگر ویژگی های عملکرد یک ساله این صندوق عنوان شده است.",
+    "published": "Wed, 28 Oct 2026 15:07:41 +0000",
+    "collected_at": "2026-10-28T18:46:09.910736+03:30",
+    "filter_market_score": 29,
+    "market_score": 20,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "بازدهی",
+      "رشد",
+      "قیمت",
+      "حباب"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "صندوق «جام طلای فارابی» در نخستین سال فعالیت خود با ثبت بازدهی بیش از ۱۳۴ درصد و رشد حدود ۱۰ برابری دارایی تحت مدیریت، از مرز ۱۰ هزار میلیارد تومان عبور کرد. کسب بازدهی بالاتر از میانگین صندوق های طلا در بازه های یکساله و سه ماهه و حفظ حباب قیمتی در محدوده نزدیک به صفر، از دیگر ویژگی های عملکرد یک ساله این صندوق عنوان شده است.",
+    "telegram_preview": "📰 جام طلای فارابی؛ از پشتوانه شمش طلا تا بازدهی ۱۳۴ درصدی\n\nصندوق «جام طلای فارابی» در نخستین سال فعالیت خود با ثبت بازدهی بیش از ۱۳۴ درصد و رشد حدود ۱۰ برابری دارایی تحت مدیریت، از مرز ۱۰ هزار میلیارد تومان عبور کرد. کسب بازدهی بالاتر از میانگین صندوق های طلا در بازه های یکساله و سه ماهه و حفظ حباب قیمتی در محدوده نزدیک به صفر، از دیگر ویژگی های عملکرد یک ساله این صندوق عنوان شده است.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4304820-%D8%AC%D8%A7%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%A7%D8%A8%DB%8C-%D8%A7%D8%B2-%D9%BE%D8%B4%D8%AA%D9%88%D8%A7%D9%86%D9%87-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%AA%D8%A7-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C"
+  },
+  {
     "source": "مهر",
     "title": "افت قیمت جهانی طلا و نقره؛ آخرین نرخ اونس فلزات گران بها",
     "link": "https://www.mehrnews.com/news/6992227/%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%86%D8%B1%D8%AE-%D8%A7%D9%88%D9%86%D8%B3-%D9%81%D9%84%D8%B2%D8%A7%D8%AA-%DA%AF%D8%B1%D8%A7%D9%86-%D8%A8%D9%87%D8%A7",
@@ -3062,66 +3053,6 @@
     "duplicate_count": 1,
     "full_text": "با ابلاغ محدودیت جدید و توقف ثبت سفارش تلفن های همراه با ارزش بیش از ۴۰۰ یورو در هر دو رویه تجاری و مسافری، به نظر می رسد که استمرار این وضعیت، با توجه به نقش موبایل به عنوان یک کالای مصرفی ضروری، می تواند مدیریت قیمت ها در بازار را با مشکلاتی مواجه کند.",
     "telegram_preview": "📰 توقف ثبت سفارش موبایل های بالای ۴۰۰ یورو همزمان در رویه تجاری و مسافری\n\nبا ابلاغ محدودیت جدید و توقف ثبت سفارش تلفن های همراه با ارزش بیش از ۴۰۰ یورو در هر دو رویه تجاری و مسافری، به نظر می رسد که استمرار این وضعیت، با توجه به نقش موبایل به عنوان یک کالای مصرفی ضروری، می تواند مدیریت قیمت ها در بازار را با مشکلاتی مواجه کند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080503417/%D8%AA%D9%88%D9%82%D9%81-%D8%AB%D8%A8%D8%AA-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D9%84%D8%A7%DB%8C-%DB%B4%DB%B0%DB%B0-%DB%8C%D9%88%D8%B1%D9%88-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D9%88%DB%8C%D9%87-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C"
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "از ارزشگذاری تا ریسک",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4304587-%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B2%D8%B4%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%B1%DB%8C%D8%B3%DA%A9",
-    "summary": "دنیای اقتصاد: بازار سرمایه ایران در نیمه دوم سال ۱۴۰۵ با یک پرسش بنیادی روبه رو است؛ آیا رشد شاخص در ماه های گذشته، بازتاب بهبود واقعی در سودآوری شرکت هاست یا نتیجه انتظارات تورمی و ورود نقدینگی؟ برای پاسخ باید از داده ها شروع کرد و به سناریوها رسید.",
-    "published": "Tue, 27 Oct 2026 14:22:23 +0000",
-    "collected_at": "2026-10-27T18:17:18.492930+03:30",
-    "filter_market_score": 11,
-    "market_score": 18,
-    "market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "تورم",
-      "نقدینگی"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [
-      "تورم"
-    ],
-    "medium_impact_matches": [
-      "نقدینگی"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "دنیای اقتصاد: بازار سرمایه ایران در نیمه دوم سال ۱۴۰۵ با یک پرسش بنیادی روبه رو است؛ آیا رشد شاخص در ماه های گذشته، بازتاب بهبود واقعی در سودآوری شرکت هاست یا نتیجه انتظارات تورمی و ورود نقدینگی؟ برای پاسخ باید از داده ها شروع کرد و به سناریوها رسید.",
-    "telegram_preview": "📰 از ارزشگذاری تا ریسک\n\nدنیای اقتصاد: بازار سرمایه ایران در نیمه دوم سال ۱۴۰۵ با یک پرسش بنیادی روبه رو است؛ آیا رشد شاخص در ماه های گذشته، بازتاب بهبود واقعی در سودآوری شرکت هاست یا نتیجه انتظارات تورمی و ورود نقدینگی؟ برای پاسخ باید از داده ها شروع کرد و به سناریوها رسید.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4304587-%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B2%D8%B4%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%B1%DB%8C%D8%B3%DA%A9"
   },
   {
     "source": "مهر",
@@ -3980,58 +3911,6 @@
     "duplicate_count": 1,
     "full_text": "فرنگی کار وزن ۶۷ کیلوگرم ایران با ضربه فنی حریف نامدار خود به مدال طلای رقابت های جهانی قزاقستان دست یافت.",
     "telegram_preview": "📰 فیلم/ کشتی دیدنی سعید اسماعیلی در فینال و کسب مدال طلا\n\nفرنگی کار وزن ۶۷ کیلوگرم ایران با ضربه فنی حریف نامدار خود به مدال طلای رقابت های جهانی قزاقستان دست یافت.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1848635/%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D8%B3%D8%B9%DB%8C%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C-%D8%AF%D8%B1-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%D9%88-%DA%A9%D8%B3%D8%A8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7"
-  },
-  {
-    "source": "تابناک",
-    "title": "لحظه اهدای توپ طلا به هری کین",
-    "link": "https://example.com/fa/news/30008044/%D9%84%D8%AD%D8%B8%D9%87-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D9%87%D8%B1%DB%8C-%DA%A9%DB%8C%D9%86",
-    "summary": "هری کین مهاجم بایرن مونیخ و انگلیس برنده توپ طلای 2026 شد. لحظات اعلام و اهدای این جایزه توسط رونالدو لوئیس نازاریو ده لیما ستاره پیشین تیم ملی برزیل و رئال مادرید را می بینید.",
-    "published": "Tue, 27 Oct 2026 18:08:00 +0330",
-    "collected_at": "2026-10-27T18:17:26.027313+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "هری کین مهاجم بایرن مونیخ و انگلیس برنده توپ طلای 2026 شد. لحظات اعلام و اهدای این جایزه توسط رونالدو لوئیس نازاریو ده لیما ستاره پیشین تیم ملی برزیل و رئال مادرید را می بینید.",
-    "telegram_preview": "📰 لحظه اهدای توپ طلا به هری کین\n\nهری کین مهاجم بایرن مونیخ و انگلیس برنده توپ طلای 2026 شد. لحظات اعلام و اهدای این جایزه توسط رونالدو لوئیس نازاریو ده لیما ستاره پیشین تیم ملی برزیل و رئال مادرید را می بینید.\n\n📌 منبع: تابناک\n\n🔗 https://example.com/fa/news/30008044/%D9%84%D8%AD%D8%B8%D9%87-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D9%87%D8%B1%DB%8C-%DA%A9%DB%8C%D9%86"
   },
   {
     "source": "ایسنا",
@@ -5066,6 +4945,55 @@
     "telegram_preview": "📰 توسعه طلای سرخ در بام شرق ایران/ سطح زیر کشت زعفران در سیستان و بلوچستان به ۵۱ هکتار رسید\n\nمدیر امور باغبانی سازمان جهاد کشاورزی سیستان و بلوچستان گفت: نیاز کم آبی، سازگاری اقلیمی، اشتغال زایی و ارزش بالای اقتصادی، زعفران را به گزینه ای مطلوب در الگوی کشت مناطق حاشیه ای تفتان و نقاط مستعد کوهستانی استان تبدیل کرده است.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080603785/%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%D8%AF%D8%B1-%D8%A8%D8%A7%D9%85-%D8%B4%D8%B1%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D8%B7%D8%AD-%D8%B2%DB%8C%D8%B1-%DA%A9%D8%B4%D8%AA-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86"
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "از قیمت های چندمیلیون دلاری تا بن بست فروش و چالش تبدیل دارایی به پول نقد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304816-%D8%A7%D8%B2-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7%DB%8C-%DA%86%D9%86%D8%AF%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%A8%D9%86-%D8%A8%D8%B3%D8%AA-%D9%81%D8%B1%D9%88%D8%B4-%DA%86%D8%A7%D9%84%D8%B4-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D9%BE%D9%88%D9%84-%D9%86%D9%82%D8%AF",
+    "summary": "دنیای اقتصاد؛ دولت سنگاپور برای فروش بخشی از املاک توقیفی یک پرونده بزرگ پول شویی، با مانعی روبه رو شده که فقط به قیمت این دارایی ها محدود نیست.",
+    "published": "Wed, 28 Oct 2026 14:55:00 +0000",
+    "collected_at": "2026-10-28T18:46:09.910786+03:30",
+    "filter_market_score": 7,
+    "market_score": 11,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "دنیای اقتصاد؛ دولت سنگاپور برای فروش بخشی از املاک توقیفی یک پرونده بزرگ پول شویی، با مانعی روبه رو شده که فقط به قیمت این دارایی ها محدود نیست.",
+    "telegram_preview": "📰 از قیمت های چندمیلیون دلاری تا بن بست فروش و چالش تبدیل دارایی به پول نقد\n\nدنیای اقتصاد؛ دولت سنگاپور برای فروش بخشی از املاک توقیفی یک پرونده بزرگ پول شویی، با مانعی روبه رو شده که فقط به قیمت این دارایی ها محدود نیست.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304816-%D8%A7%D8%B2-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7%DB%8C-%DA%86%D9%86%D8%AF%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%A8%D9%86-%D8%A8%D8%B3%D8%AA-%D9%81%D8%B1%D9%88%D8%B4-%DA%86%D8%A7%D9%84%D8%B4-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D9%BE%D9%88%D9%84-%D9%86%D9%82%D8%AF"
+  },
+  {
     "source": "ایسنا",
     "title": "مشکلات صنعت زعفران از چرخه تولید تا مرحله صادرات",
     "link": "https://www.isna.ir/news/1405080604080/%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%DA%86%D8%B1%D8%AE%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AA%D8%A7-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA",
@@ -5357,6 +5285,53 @@
     "duplicate_count": 1,
     "full_text": "جلال رشیدی کوچی با انتقاد از وضعیت صنعت خودروسازی داخلی مدعی شد تعطیلی این صنعت می تواند سالانه ۸۰ میلیارد دلار به نفع کشور تمام شود. ادعاهای این نماینده سابق مجلس را می بینید و می شنوید.",
     "telegram_preview": "📰 سود 80 میلیاردی از تعطیلی خودروسازهای داخلی؟!\n\nجلال رشیدی کوچی با انتقاد از وضعیت صنعت خودروسازی داخلی مدعی شد تعطیلی این صنعت می تواند سالانه ۸۰ میلیارد دلار به نفع کشور تمام شود. ادعاهای این نماینده سابق مجلس را می بینید و می شنوید.\n\n📌 منبع: تابناک\n\n🔗 https://example.com/fa/news/30008079/%D8%B3%D9%88%D8%AF-80-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%A7%D8%B2-%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C"
+  },
+  {
+    "source": "مهر",
+    "title": "جودو ایران طلایی شد؛ قهرمانی ابوالفضل محمودی در کاپ آسیا",
+    "link": "https://www.mehrnews.com/news/6993006/%D8%AC%D9%88%D8%AF%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84-%D9%85%D8%AD%D9%85%D9%88%D8%AF%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7",
+    "summary": "نماینده وزن منهای ۶۶ کیلوگرم جودوی ایران با پیروزی در دیدار فینال رقابت های کاپ آسیا ۲۰۲۶ اردن به مدال طلای این مسابقات دست یافت.",
+    "published": "Wed, 28 Oct 2026 14:57:09 GMT",
+    "collected_at": "2026-10-28T18:46:03.590938+03:30",
+    "filter_market_score": 4,
+    "market_score": 8,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "نماینده وزن منهای ۶۶ کیلوگرم جودوی ایران با پیروزی در دیدار فینال رقابت های کاپ آسیا ۲۰۲۶ اردن به مدال طلای این مسابقات دست یافت.",
+    "telegram_preview": "📰 جودو ایران طلایی شد؛ قهرمانی ابوالفضل محمودی در کاپ آسیا\n\nنماینده وزن منهای ۶۶ کیلوگرم جودوی ایران با پیروزی در دیدار فینال رقابت های کاپ آسیا ۲۰۲۶ اردن به مدال طلای این مسابقات دست یافت.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6993006/%D8%AC%D9%88%D8%AF%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84-%D9%85%D8%AD%D9%85%D9%88%D8%AF%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7"
   },
   {
     "source": "ایسنا",

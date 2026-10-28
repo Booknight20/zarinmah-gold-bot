@@ -17222,5 +17222,53 @@
     "group_message_id": 1472,
     "fully_published": true,
     "last_checked_at": "2026-10-28T14:46:45.121034+00:00"
+  },
+  "245223d0df3492a1b5aa83711e5450b5a3b646f61d1f3131ec7fa6809a4c27eb": {
+    "title": "جام طلای فارابی؛ از پشتوانه شمش طلا تا بازدهی ۱۳۴ درصدی",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4304820-%D8%AC%D8%A7%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%A7%D8%A8%DB%8C-%D8%A7%D8%B2-%D9%BE%D8%B4%D8%AA%D9%88%D8%A7%D9%86%D9%87-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%AA%D8%A7-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C",
+    "telegram_message_ids": [
+      1734
+    ],
+    "eitaa_message_ids": [
+      178800197
+    ],
+    "group_message_ids": [
+      1474
+    ],
+    "content_hash": "a86755563a6f2cfd8a9a142f7f0527152c67fb8a5bba202f7457de3f12a4ffd2",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T15:16:43.151034+00:00",
+    "telegram_message_id": 1734,
+    "eitaa_last_sent_at": "2026-10-28T15:16:45.389058+00:00",
+    "eitaa_message_id": 178800197,
+    "group_last_sent_at": "2026-10-28T15:16:47.116197+00:00",
+    "group_message_id": 1474,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T15:16:47.136762+00:00"
+  },
+  "25351effc1ae645468739f9c95606adc871d6976ee526aa949e944a9d28c6061": {
+    "title": "از قیمت های چندمیلیون دلاری تا بن بست فروش و چالش تبدیل دارایی به پول نقد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304816-%D8%A7%D8%B2-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7%DB%8C-%DA%86%D9%86%D8%AF%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%A8%D9%86-%D8%A8%D8%B3%D8%AA-%D9%81%D8%B1%D9%88%D8%B4-%DA%86%D8%A7%D9%84%D8%B4-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D9%BE%D9%88%D9%84-%D9%86%D9%82%D8%AF",
+    "telegram_message_ids": [
+      1735
+    ],
+    "eitaa_message_ids": [
+      178800208
+    ],
+    "group_message_ids": [
+      1475
+    ],
+    "content_hash": "3bb2c8c37b8ced6c8f8bb772393566e9ad0761f0aa3e7201d6e0c6c848cb1a36",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T15:16:48.859753+00:00",
+    "telegram_message_id": 1735,
+    "eitaa_last_sent_at": "2026-10-28T15:16:50.314456+00:00",
+    "eitaa_message_id": 178800208,
+    "group_last_sent_at": "2026-10-28T15:16:52.068826+00:00",
+    "group_message_id": 1475,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T15:16:52.089437+00:00"
   }
 }
