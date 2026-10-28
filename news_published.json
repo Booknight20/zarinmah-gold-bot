@@ -17030,5 +17030,77 @@
     "group_message_id": 1460,
     "fully_published": true,
     "last_checked_at": "2026-10-28T12:18:33.948300+00:00"
+  },
+  "e542f965d3f0ece6be8adaa4a5c4af0f43985626dfcc68b6a5a274b86254e3da": {
+    "title": "تاریخ سازی به سبک کشتی فرنگی ایران؛ از یک طلا در ۴۰ سال تا سلطه مطلق بر جهان",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080604097/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A8%D9%87-%D8%B3%D8%A8%DA%A9-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%DB%B4%DB%B0-%D8%B3%D8%A7%D9%84-%D8%AA%D8%A7-%D8%B3%D9%84%D8%B7%D9%87",
+    "telegram_message_ids": [
+      1721
+    ],
+    "eitaa_message_ids": [
+      178775310
+    ],
+    "group_message_ids": [
+      1461
+    ],
+    "content_hash": "86a0a2c9b322653c244ecb9b71409ffefa32502507839f95f09b1cfe1fe16cb1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T12:45:54.829502+00:00",
+    "telegram_message_id": 1721,
+    "eitaa_last_sent_at": "2026-10-28T12:45:56.245364+00:00",
+    "eitaa_message_id": 178775310,
+    "group_last_sent_at": "2026-10-28T12:45:58.197258+00:00",
+    "group_message_id": 1461,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T12:45:58.215596+00:00"
+  },
+  "fa7cbd34da4cd3a1a36e4f265f8d375e3de68c698ec67439e20de0403619b507": {
+    "title": "مشکلات صنعت زعفران از چرخه تولید تا مرحله صادرات",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080604080/%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%DA%86%D8%B1%D8%AE%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AA%D8%A7-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA",
+    "telegram_message_ids": [
+      1722
+    ],
+    "eitaa_message_ids": [
+      178775318
+    ],
+    "group_message_ids": [
+      1462
+    ],
+    "content_hash": "e8ffbf7994167463641c96e2e05a6a96dd16df22e9c06b818bb55efafeb5b23d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T12:45:59.955948+00:00",
+    "telegram_message_id": 1722,
+    "eitaa_last_sent_at": "2026-10-28T12:46:01.242711+00:00",
+    "eitaa_message_id": 178775318,
+    "group_last_sent_at": "2026-10-28T12:46:02.919427+00:00",
+    "group_message_id": 1462,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T12:46:02.936494+00:00"
+  },
+  "72f5bccd752e2234f55280e2c2722b337438ec8eea17931200332504daa4d3d3": {
+    "title": "قیمت نفت امروز ۶ آبان ۱۴۰۵ بیش از یک درصد افزایش یافت / برنت به ۱۱۵ دلار رسید",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294379/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B6-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%8C%DA%A9-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA",
+    "telegram_message_ids": [
+      1723
+    ],
+    "eitaa_message_ids": [
+      178775331
+    ],
+    "group_message_ids": [
+      1463
+    ],
+    "content_hash": "a92513795fe5e42dcbc9f1e30e9a3804507e2c20a8fa5b4700c4d224d45c8d75",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T12:46:04.607863+00:00",
+    "telegram_message_id": 1723,
+    "eitaa_last_sent_at": "2026-10-28T12:46:05.951810+00:00",
+    "eitaa_message_id": 178775331,
+    "group_last_sent_at": "2026-10-28T12:46:07.595995+00:00",
+    "group_message_id": 1463,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T12:46:07.615124+00:00"
   }
 }
