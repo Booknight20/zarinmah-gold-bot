@@ -16958,5 +16958,29 @@
     "group_message_id": 1453,
     "fully_published": true,
     "last_checked_at": "2026-10-28T11:18:57.814090+00:00"
+  },
+  "87ccbedd30c30662a403bc296f8ac54bb33fbcd0397325167b6b8f078da2ef3c": {
+    "title": "قیمت طلا و سکه امروز ۶ آبان؛ رشد ۱.۳ میلیون تومانی سکه",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848877/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B6-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B1%D8%B4%D8%AF-%DB%B1-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      1715
+    ],
+    "eitaa_message_ids": [
+      178761517
+    ],
+    "group_message_ids": [
+      1455
+    ],
+    "content_hash": "dcda93c91a274adb6f5b3ba543f0a2c3c8e00576b0b7494ddb8a55bb1de2a6ce",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T11:44:58.028894+00:00",
+    "telegram_message_id": 1715,
+    "eitaa_last_sent_at": "2026-10-28T11:44:59.366365+00:00",
+    "eitaa_message_id": 178761517,
+    "group_last_sent_at": "2026-10-28T11:45:01.003787+00:00",
+    "group_message_id": 1455,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T11:45:01.019541+00:00"
   }
 }
