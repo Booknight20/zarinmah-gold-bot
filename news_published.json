@@ -17630,5 +17630,29 @@
     "group_message_id": 1499,
     "fully_published": true,
     "last_checked_at": "2026-10-28T21:18:09.080509+00:00"
+  },
+  "10fdfb6b5715e90b8f232853a33f03e5f66fddd80c5c6623e9d5714eadd60a56": {
+    "title": "قرارداد ۶۹۴ میلیون دلاری آمریکا برای تولید موشک های مافوق صوت",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1848750/%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%DB%B6%DB%B9%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%85%D9%88%D8%B4%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%81%D9%88%D9%82-%D8%B5%D9%88%D8%AA",
+    "telegram_message_ids": [
+      1760
+    ],
+    "eitaa_message_ids": [
+      178846037
+    ],
+    "group_message_ids": [
+      1500
+    ],
+    "content_hash": "5b6a09966e2fa0a799c27a24f68d4a6d576f5be8853d87f321e08fc0db9b6763",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T22:18:00.993426+00:00",
+    "telegram_message_id": 1760,
+    "eitaa_last_sent_at": "2026-10-28T22:18:02.616222+00:00",
+    "eitaa_message_id": 178846037,
+    "group_last_sent_at": "2026-10-28T22:18:04.568187+00:00",
+    "group_message_id": 1500,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T22:18:04.595995+00:00"
   }
 }
