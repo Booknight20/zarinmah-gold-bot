@@ -15662,5 +15662,29 @@
     "group_message_id": 1378,
     "fully_published": true,
     "last_checked_at": "2026-10-28T01:15:00.597912+00:00"
+  },
+  "eaed410bba7cdbc28f29ded5a3d985e9ffe66359297a5e51a9647184225a7b89": {
+    "title": "سنتکام هزینه جنگ آمریکا علیه ایران را اعلام کرد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304729-%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%AC%D9%86%DA%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1639
+    ],
+    "eitaa_message_ids": [
+      178684030
+    ],
+    "group_message_ids": [
+      1379
+    ],
+    "content_hash": "2b7a986dffb4525827428d941888b8cfd0deb0f7ccb55ce91695734de03c016b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T03:18:05.620501+00:00",
+    "telegram_message_id": 1639,
+    "eitaa_last_sent_at": "2026-10-28T03:18:07.185088+00:00",
+    "eitaa_message_id": 178684030,
+    "group_last_sent_at": "2026-10-28T03:18:08.976629+00:00",
+    "group_message_id": 1379,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T03:18:09.001821+00:00"
   }
 }
