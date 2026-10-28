@@ -16694,5 +16694,101 @@
     "group_message_id": 1436,
     "fully_published": true,
     "last_checked_at": "2026-10-28T09:49:06.286146+00:00"
+  },
+  "3ba8a6df7410665ef5b23b033304e788829d518c55440d08b965ba74bfdd77a8": {
+    "title": "صادرات روزانه یک میلیارد دلار؛ رؤیای دست یافتنی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080603932/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%DB%8C%DA%A9-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%A4%DB%8C%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA-%DB%8C%D8%A7%D9%81%D8%AA%D9%86%DB%8C",
+    "telegram_message_ids": [
+      1698
+    ],
+    "eitaa_message_ids": [
+      178749085
+    ],
+    "group_message_ids": [
+      1438
+    ],
+    "content_hash": "65e7a85216fb1ba49593a25a58da9db854c945ae1bff6bccf154df50b98e5fbd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T10:18:28.482381+00:00",
+    "telegram_message_id": 1698,
+    "eitaa_last_sent_at": "2026-10-28T10:18:29.664768+00:00",
+    "eitaa_message_id": 178749085,
+    "group_last_sent_at": "2026-10-28T10:18:31.239314+00:00",
+    "group_message_id": 1438,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T10:18:31.268444+00:00"
+  },
+  "b27ab1e4817df86b318d306384b536a1620778e701c2cd6f8719292c14880907": {
+    "title": "شاخص کل بورس رشد کرد/قدرت خرید مثبت شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304779-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF-%D9%82%D8%AF%D8%B1%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%85%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1699
+    ],
+    "eitaa_message_ids": [
+      178749098
+    ],
+    "group_message_ids": [
+      1439
+    ],
+    "content_hash": "ef0dbf49183d51aa51aa7d33f31767030315401b0a52c5019505f550a503076f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T10:18:32.906243+00:00",
+    "telegram_message_id": 1699,
+    "eitaa_last_sent_at": "2026-10-28T10:18:34.083182+00:00",
+    "eitaa_message_id": 178749098,
+    "group_last_sent_at": "2026-10-28T10:18:35.706827+00:00",
+    "group_message_id": 1439,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T10:18:35.733545+00:00"
+  },
+  "c5e2f3fa17839841b90a7d85a6e1b58c5b122051fd42289e970d4addab40abaf": {
+    "title": "انتشار صورتحساب جنگ آمریکا علیه ایران",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%86%DB%8C%D8%A7-5/4304778-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AC%D9%86%DA%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1700
+    ],
+    "eitaa_message_ids": [
+      178749111
+    ],
+    "group_message_ids": [
+      1440
+    ],
+    "content_hash": "f238190df6e519db81e063b4e3af34be9d2c7a2ba8912d0b1513cd0043668030",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T10:18:37.326813+00:00",
+    "telegram_message_id": 1700,
+    "eitaa_last_sent_at": "2026-10-28T10:18:38.458767+00:00",
+    "eitaa_message_id": 178749111,
+    "group_last_sent_at": "2026-10-28T10:18:40.017305+00:00",
+    "group_message_id": 1440,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T10:18:40.043844+00:00"
+  },
+  "ed06cd7bd67f8eabde2a9637e38382bcab9f16e602bba1b8ba6d65814d1d62b9": {
+    "title": "دستگیری متهم ۶ هزار میلیارد تومانی در رشت",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008135/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%AA%D9%87%D9%85-6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%B4%D8%AA",
+    "telegram_message_ids": [
+      1701
+    ],
+    "eitaa_message_ids": [
+      178749118
+    ],
+    "group_message_ids": [
+      1441
+    ],
+    "content_hash": "1f62196b58942d2ee6c930a6c95765772ba2f5ef6745c98af9a9e58ff6646547",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T10:18:41.676578+00:00",
+    "telegram_message_id": 1701,
+    "eitaa_last_sent_at": "2026-10-28T10:18:42.856749+00:00",
+    "eitaa_message_id": 178749118,
+    "group_last_sent_at": "2026-10-28T10:18:44.438303+00:00",
+    "group_message_id": 1441,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T10:18:44.464676+00:00"
   }
 }

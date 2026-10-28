@@ -795,70 +795,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۵ آبان ۱۴۰۵/ دلار به قیمت ۲۷۲ هزار و ۴۶۵ تومان رسید + جدول",
-    "link": "https://www.khabaronline.ir/news/2293817/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87",
-    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۵ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو به قیمت ۳۰۴ هزار و ۴۹۰ تومان و دلار ۲۷۲ هزار و ۴۶۵ تومان رسید.",
-    "published": "Tue, 27 Oct 2026 08:30:00 GMT",
-    "collected_at": "2026-10-27T13:14:25.090786+03:30",
-    "filter_market_score": 26,
-    "market_score": 30,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "قیمت دلار، یورو و سایر ارزها امروز ۵ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو به قیمت ۳۰۴ هزار و ۴۹۰ تومان و دلار ۲۷۲ هزار و ۴۶۵ تومان رسید.",
-    "telegram_preview": "📰 قیمت دلار، یورو و انواع ارزها ظهر امروز ۵ آبان ۱۴۰۵/ دلار به قیمت ۲۷۲ هزار و ۴۶۵ تومان رسید + جدول\n\nقیمت دلار، یورو و سایر ارزها امروز ۵ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو به قیمت ۳۰۴ هزار و ۴۹۰ تومان و دلار ۲۷۲ هزار و ۴۶۵ تومان رسید.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2293817/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87"
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "افت ۴ هزار و ۱۴۲ واحدی شاخص کل بورس امروز ۶ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/live/2294221/%D8%A7%D9%81%D8%AA-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B1%DB%B4%DB%B2-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B6-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
     "summary": "شاخص کل بورس در آغاز معاملات چهارشنبه ۶ آبان ۱۴۰۵ با افت ۴ هزار و ۱۴۲ واحدی به ۷ میلیون و ۹۲۳ هزار واحد رسید و شاخص هم وزن نیز هزار و ۹۹۶ واحد کاهش یافت؛ در مقابل، شاخص کل فرابورس در محدوده مثبت قرار گرفت.",
@@ -1383,6 +1319,68 @@
     "duplicate_count": 1,
     "full_text": "در بازار قیمت طلای ۱۸عیار ۲۶میلیون و ۲۰۳ هزار تومان و قیمت سکه طرح جدید ۲۶۷میلیون و ۷۰۰ هزار تومان شد.",
     "telegram_preview": "📰 قیمت طلا و سکه امروز سه شنبه ۵ آبان ۱۴۰۵\n\nدر بازار قیمت طلای ۱۸عیار ۲۶میلیون و ۲۰۳ هزار تومان و قیمت سکه طرح جدید ۲۶۷میلیون و ۷۰۰ هزار تومان شد.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1848565/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5"
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "شاخص کل بورس رشد کرد/قدرت خرید مثبت شد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304779-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF-%D9%82%D8%AF%D8%B1%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%85%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF",
+    "summary": "شاخص کل بورس در پایان معاملات با افزایش ۴۰ هزار و ۲۰۷ واحدی به سطح ۷ میلیون و ۹۶۷ هزار واحد رسید و بازدهی مثبت ۰.۵۱ درصدی را ثبت کرد.",
+    "published": "Wed, 28 Oct 2026 10:10:30 +0000",
+    "collected_at": "2026-10-28T13:47:45.435659+03:30",
+    "filter_market_score": 28,
+    "market_score": 26,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد",
+      "افزایش",
+      "معاملات",
+      "بازدهی"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "شاخص کل بورس در پایان معاملات با افزایش ۴۰ هزار و ۲۰۷ واحدی به سطح ۷ میلیون و ۹۶۷ هزار واحد رسید و بازدهی مثبت ۰.۵۱ درصدی را ثبت کرد.",
+    "telegram_preview": "📰 شاخص کل بورس رشد کرد/قدرت خرید مثبت شد\n\nشاخص کل بورس در پایان معاملات با افزایش ۴۰ هزار و ۲۰۷ واحدی به سطح ۷ میلیون و ۹۶۷ هزار واحد رسید و بازدهی مثبت ۰.۵۱ درصدی را ثبت کرد.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304779-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF-%D9%82%D8%AF%D8%B1%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%85%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF"
   },
   {
     "source": "مهر",
@@ -2809,6 +2807,63 @@
     "duplicate_count": 1,
     "full_text": "به 25 میلیون و 977 هزار و 700 تومان رسید.",
     "telegram_preview": "📰 قیمت طلا ۱۸ عیار امروز چهارشنبه ۶ آبان ۱۴۰۵/ کاهش قیمت طلا\n\nبه 25 میلیون و 977 هزار و 700 تومان رسید.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304739-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7"
+  },
+  {
+    "source": "ایسنا",
+    "title": "صادرات روزانه یک میلیارد دلار؛ رؤیای دست یافتنی",
+    "link": "https://www.isna.ir/news/1405080603932/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%DB%8C%DA%A9-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%A4%DB%8C%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA-%DB%8C%D8%A7%D9%81%D8%AA%D9%86%DB%8C",
+    "summary": "صادرات غیرنفتی ایران در سال ۱۴۰۴ حدود ۵۲ میلیارد دلار بود؛ یعنی به طور متوسط هفته ای یک میلیارد دلار. اما رئیس سازمان توسعه تجارت می گوید ظرفیت کشور، صادرات روزانه یک میلیارد دلار است؛ یعنی تقریبا هفت برابر وضعیت فعلی.",
+    "published": "Wed, 28 Oct 2026 09:47:20 GMT",
+    "collected_at": "2026-10-28T13:47:21.098010+03:30",
+    "filter_market_score": 13,
+    "market_score": 18,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "صادرات غیرنفتی ایران در سال ۱۴۰۴ حدود ۵۲ میلیارد دلار بود؛ یعنی به طور متوسط هفته ای یک میلیارد دلار. اما رئیس سازمان توسعه تجارت می گوید ظرفیت کشور، صادرات روزانه یک میلیارد دلار است؛ یعنی تقریبا هفت برابر وضعیت فعلی.",
+    "telegram_preview": "📰 صادرات روزانه یک میلیارد دلار؛ رؤیای دست یافتنی\n\nصادرات غیرنفتی ایران در سال ۱۴۰۴ حدود ۵۲ میلیارد دلار بود؛ یعنی به طور متوسط هفته ای یک میلیارد دلار. اما رئیس سازمان توسعه تجارت می گوید ظرفیت کشور، صادرات روزانه یک میلیارد دلار است؛ یعنی تقریبا هفت برابر وضعیت فعلی.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080603932/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%DB%8C%DA%A9-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%A4%DB%8C%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA-%DB%8C%D8%A7%D9%81%D8%AA%D9%86%DB%8C"
   },
   {
     "source": "مهر",
@@ -4610,6 +4665,58 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "انتشار صورتحساب جنگ آمریکا علیه ایران",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%86%DB%8C%D8%A7-5/4304778-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AC%D9%86%DA%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "summary": "دنیای اقتصاد: وزارت دفاع آمریکا هفته گذشته به کنگره اطلاع داد که هزینه جنگ آمریکا علیه ایران تا ۱۶ اکتبر (۲۴ مهر) به ۴۷.۱ میلیارد دلار رسیده و بیش از ۶۰ درصد این رقم به مصرف بمب، موشک و مهمات اختصاص یافته است.",
+    "published": "Wed, 28 Oct 2026 09:58:16 +0000",
+    "collected_at": "2026-10-28T13:47:45.435688+03:30",
+    "filter_market_score": 6,
+    "market_score": 14,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "دنیای اقتصاد: وزارت دفاع آمریکا هفته گذشته به کنگره اطلاع داد که هزینه جنگ آمریکا علیه ایران تا ۱۶ اکتبر (۲۴ مهر) به ۴۷.۱ میلیارد دلار رسیده و بیش از ۶۰ درصد این رقم به مصرف بمب، موشک و مهمات اختصاص یافته است.",
+    "telegram_preview": "📰 انتشار صورتحساب جنگ آمریکا علیه ایران\n\nدنیای اقتصاد: وزارت دفاع آمریکا هفته گذشته به کنگره اطلاع داد که هزینه جنگ آمریکا علیه ایران تا ۱۶ اکتبر (۲۴ مهر) به ۴۷.۱ میلیارد دلار رسیده و بیش از ۶۰ درصد این رقم به مصرف بمب، موشک و مهمات اختصاص یافته است.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%86%DB%8C%D8%A7-5/4304778-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AC%D9%86%DA%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86"
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "سنتکام هزینه جنگ آمریکا علیه ایران را اعلام کرد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304729-%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%AC%D9%86%DA%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%DA%A9%D8%B1%D8%AF",
     "summary": "طبق برآوردهای سنتکام، هزینه جنگ علیه ایران تا ۱۶ اکتبر تقریباً به ۴۷ میلیارد دلار رسیده است.",
@@ -4819,58 +4926,6 @@
     "telegram_preview": "📰 هزینه ی ۲۵ هزار دلاری برای آزادسازی کانتینرها/ بحران ۱۸ هزار کانتینر ایرانی در پاکستان\n\nپیمان سنندجی، رئیس کمیسیون حمل ونقل اتاق بازرگانی تهران، در بیست ودومین نشست این کمیسیون با اشاره به ضرورت پیگیری ترخیص کانتینرهای ایرانی متوقف شده در بنادر پاکستان، گفت: اتاق تهران در تلاش است تا این مشکل را با همکاری وزارت امور خارجه و سفارت ایران در پاکستان برطرف کند.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2294024/%D9%87%D8%B2%DB%8C%D9%86%D9%87-%DB%8C-%DB%B2%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF%D8%B3%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D8%B1%D9%87%D8%A7-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%DB%B1%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1"
   },
   {
-    "source": "مهر",
-    "title": "فهرست ۲۴ مدل گوشی فاقد مجوز ترخیص و رجیستری اعلام شد",
-    "link": "https://www.mehrnews.com/news/6991558/%D9%81%D9%87%D8%B1%D8%B3%D8%AA-%DB%B2%DB%B4-%D9%85%D8%AF%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%D8%A7%D9%82%D8%AF-%D9%85%D8%AC%D9%88%D8%B2-%D8%AA%D8%B1%D8%AE%DB%8C%D8%B5-%D9%88-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
-    "summary": "پس از اعلام محدودیت ثبت سفارش تجاری گوشی های تلفن همراه با ارزش بیش از ۴۰۰ یورو، فهرستی شامل ۲۴ مدل از برندهای مختلف با موضوع ممنوعیت رجیستری ابلاغ شد.",
-    "published": "Tue, 27 Oct 2026 10:08:50 GMT",
-    "collected_at": "2026-10-27T13:45:41.418079+03:30",
-    "filter_market_score": 7,
-    "market_score": 13,
-    "market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "اعلام شد",
-      "ابلاغ",
-      "ممنوعیت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "پس از اعلام محدودیت ثبت سفارش تجاری گوشی های تلفن همراه با ارزش بیش از ۴۰۰ یورو، فهرستی شامل ۲۴ مدل از برندهای مختلف با موضوع ممنوعیت رجیستری ابلاغ شد.",
-    "telegram_preview": "📰 فهرست ۲۴ مدل گوشی فاقد مجوز ترخیص و رجیستری اعلام شد\n\nپس از اعلام محدودیت ثبت سفارش تجاری گوشی های تلفن همراه با ارزش بیش از ۴۰۰ یورو، فهرستی شامل ۲۴ مدل از برندهای مختلف با موضوع ممنوعیت رجیستری ابلاغ شد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6991558/%D9%81%D9%87%D8%B1%D8%B3%D8%AA-%DB%B2%DB%B4-%D9%85%D8%AF%D9%84-%DA%AF%D9%88%D8%B4%DB%8C-%D9%81%D8%A7%D9%82%D8%AF-%D9%85%D8%AC%D9%88%D8%B2-%D8%AA%D8%B1%D8%AE%DB%8C%D8%B5-%D9%88-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF"
-  },
-  {
     "source": "تابناک",
     "title": "پشت پرده تصمیم ناگهانی دولت/ قیمت خودروهای داخلی گران تر می شود؟",
     "link": "https://example.com/fa/news/30008013/%D9%BE%D8%B4%D8%AA-%D9%BE%D8%B1%D8%AF%D9%87-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%86%D8%A7%DA%AF%D9%87%D8%A7%D9%86%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%DA%AF%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
@@ -4975,6 +5030,58 @@
     "duplicate_count": 1,
     "full_text": "در شرایطی که تأمین هزینه های روزمره می تواند سرمایه گذاران را به فروش بخشی از دارایی های خود وادار کند، استفاده از دارایی های موجود به عنوان وثیقه برای دریافت اعتبار، راهکاری متفاوت برای دسترسی به نقدینگی به شمار می رود.",
     "telegram_preview": "📰 اعتباردهی با پشتوانه دارایی های بورسی\n\nدر شرایطی که تأمین هزینه های روزمره می تواند سرمایه گذاران را به فروش بخشی از دارایی های خود وادار کند، استفاده از دارایی های موجود به عنوان وثیقه برای دریافت اعتبار، راهکاری متفاوت برای دسترسی به نقدینگی به شمار می رود.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4304753-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%D8%AF%D9%87%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%B4%D8%AA%D9%88%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C"
+  },
+  {
+    "source": "تابناک",
+    "title": "دستگیری متهم ۶ هزار میلیارد تومانی در رشت",
+    "link": "https://tabnak.ir/fa/news/30008135/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%AA%D9%87%D9%85-6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%B4%D8%AA",
+    "summary": "متهم پرونده تعهدات ارزی با بیش از ۶ هزار میلیارد تومان بدهی ناشی از صادرات، در عملیات پلیس آگاهی گیلان در شهرستان رشت دستگیر شد.",
+    "published": "Wed, 28 Oct 2026 13:23:00 +0330",
+    "collected_at": "2026-10-28T13:47:52.890813+03:30",
+    "filter_market_score": 7,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "متهم پرونده تعهدات ارزی با بیش از ۶ هزار میلیارد تومان بدهی ناشی از صادرات، در عملیات پلیس آگاهی گیلان در شهرستان رشت دستگیر شد.",
+    "telegram_preview": "📰 دستگیری متهم ۶ هزار میلیارد تومانی در رشت\n\nمتهم پرونده تعهدات ارزی با بیش از ۶ هزار میلیارد تومان بدهی ناشی از صادرات، در عملیات پلیس آگاهی گیلان در شهرستان رشت دستگیر شد.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/30008135/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%AA%D9%87%D9%85-6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%B4%D8%AA"
   },
   {
     "source": "مهر",
@@ -5550,6 +5657,53 @@
     "duplicate_count": 1,
     "full_text": "جلال رشیدی کوچی با انتقاد از وضعیت صنعت خودروسازی داخلی مدعی شد تعطیلی این صنعت می تواند سالانه ۸۰ میلیارد دلار به نفع کشور تمام شود. ادعاهای این نماینده سابق مجلس را می بینید و می شنوید.",
     "telegram_preview": "📰 سود 80 میلیاردی از تعطیلی خودروسازهای داخلی؟!\n\nجلال رشیدی کوچی با انتقاد از وضعیت صنعت خودروسازی داخلی مدعی شد تعطیلی این صنعت می تواند سالانه ۸۰ میلیارد دلار به نفع کشور تمام شود. ادعاهای این نماینده سابق مجلس را می بینید و می شنوید.\n\n📌 منبع: تابناک\n\n🔗 https://example.com/fa/news/30008079/%D8%B3%D9%88%D8%AF-80-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%A7%D8%B2-%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C"
+  },
+  {
+    "source": "ایسنا",
+    "title": "بازداشت اخلالگر اقتصادی در رشت",
+    "link": "https://www.isna.ir/news/1405080603949/%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D8%A7%D8%AE%D9%84%D8%A7%D9%84%DA%AF%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%B4%D8%AA",
+    "summary": "فرمانده انتظامی گیلان از دستگیری متهم اخلال در نظام اقتصادی کشور با ۶۰۰۰ میلیارد تومان تعهد ارزی ایفا نشده طی یک عملیات ضربتی و غافلگیرانه در شهرستان رشت خبر داد.",
+    "published": "Wed, 28 Oct 2026 10:00:59 GMT",
+    "collected_at": "2026-10-28T13:47:21.097793+03:30",
+    "filter_market_score": 4,
+    "market_score": 8,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "فرمانده انتظامی گیلان از دستگیری متهم اخلال در نظام اقتصادی کشور با ۶۰۰۰ میلیارد تومان تعهد ارزی ایفا نشده طی یک عملیات ضربتی و غافلگیرانه در شهرستان رشت خبر داد.",
+    "telegram_preview": "📰 بازداشت اخلالگر اقتصادی در رشت\n\nفرمانده انتظامی گیلان از دستگیری متهم اخلال در نظام اقتصادی کشور با ۶۰۰۰ میلیارد تومان تعهد ارزی ایفا نشده طی یک عملیات ضربتی و غافلگیرانه در شهرستان رشت خبر داد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080603949/%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D8%A7%D8%AE%D9%84%D8%A7%D9%84%DA%AF%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%B4%D8%AA"
   },
   {
     "source": "ایسنا",
