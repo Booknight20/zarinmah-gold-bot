@@ -15806,5 +15806,29 @@
     "group_message_id": 1384,
     "fully_published": true,
     "last_checked_at": "2026-10-28T04:48:15.252056+00:00"
+  },
+  "64972dac70d5c9cc3b1b2a45662159d4b761e39c1d3ddf23c41e060df6d60159": {
+    "title": "افت قیمت جهانی طلا و نقره؛ آخرین نرخ اونس فلزات گران بها",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6992227/%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%86%D8%B1%D8%AE-%D8%A7%D9%88%D9%86%D8%B3-%D9%81%D9%84%D8%B2%D8%A7%D8%AA-%DA%AF%D8%B1%D8%A7%D9%86-%D8%A8%D9%87%D8%A7",
+    "telegram_message_ids": [
+      1645
+    ],
+    "eitaa_message_ids": [
+      178697428
+    ],
+    "group_message_ids": [
+      1385
+    ],
+    "content_hash": "4fdd957d4772e71ca87ca5e3b534c59add22a7b62f2576ab2a4cf68c51ea0f2d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T05:15:04.246097+00:00",
+    "telegram_message_id": 1645,
+    "eitaa_last_sent_at": "2026-10-28T05:15:05.793504+00:00",
+    "eitaa_message_id": 178697428,
+    "group_last_sent_at": "2026-10-28T05:15:07.554005+00:00",
+    "group_message_id": 1385,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T05:15:07.568636+00:00"
   }
 }
