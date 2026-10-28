@@ -16982,5 +16982,53 @@
     "group_message_id": 1455,
     "fully_published": true,
     "last_checked_at": "2026-10-28T11:45:01.019541+00:00"
+  },
+  "2924651bc95b98d233d8102964953bf52edfd4f792e6dc0dbb5ffa39c28b110b": {
+    "title": "۵ هزار دلار صرفه جویی با اعزام نخستین محموله ریلی قم به چین",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6992816/%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%D8%A8%D8%A7-%D8%A7%D8%B9%D8%B2%D8%A7%D9%85-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D9%85%D8%AD%D9%85%D9%88%D9%84%D9%87-%D8%B1%DB%8C%D9%84%DB%8C-%D9%82%D9%85-%D8%A8%D9%87-%DA%86%DB%8C%D9%86",
+    "telegram_message_ids": [
+      1719
+    ],
+    "eitaa_message_ids": [
+      178767209
+    ],
+    "group_message_ids": [
+      1459
+    ],
+    "content_hash": "0bf8d7a27d03e22cc927c6f83e5ac6b18347f7ef848f9004acc8fec6b4ef3a15",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T12:18:25.192960+00:00",
+    "telegram_message_id": 1719,
+    "eitaa_last_sent_at": "2026-10-28T12:18:26.858418+00:00",
+    "eitaa_message_id": 178767209,
+    "group_last_sent_at": "2026-10-28T12:18:28.664888+00:00",
+    "group_message_id": 1459,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T12:18:28.692874+00:00"
+  },
+  "fb34be9ecabd607daaae84c081a73fcb5b305ad4e752a0a8320f965aefcb493b": {
+    "title": "تعداد سهام داران فعال بورس به مرز ۲.۲ میلیون کد رسید",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6992798/%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D9%81%D8%B9%D8%A7%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D9%85%D8%B1%D8%B2-%DB%B2-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DA%A9%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      1720
+    ],
+    "eitaa_message_ids": [
+      178767230
+    ],
+    "group_message_ids": [
+      1460
+    ],
+    "content_hash": "4e6185c1faeb000e8aec78bed0e3b316d8ad295354ff0f4dd49f71b23b6e2d31",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-28T12:18:30.476426+00:00",
+    "telegram_message_id": 1720,
+    "eitaa_last_sent_at": "2026-10-28T12:18:32.108513+00:00",
+    "eitaa_message_id": 178767230,
+    "group_last_sent_at": "2026-10-28T12:18:33.920678+00:00",
+    "group_message_id": 1460,
+    "fully_published": true,
+    "last_checked_at": "2026-10-28T12:18:33.948300+00:00"
   }
 }
