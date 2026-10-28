@@ -2946,62 +2946,6 @@
     "telegram_preview": "📰 نفت برنت رکوردشکنی کرد/ چه بلایی سر بازار نفت آمده؟!\n\nافزایش قیمت نفت برنت به 116 دلار، نگرانی ها درباره عرضه جهانی را افزایش داده و بازار جهانی بار دیگر در برابر ریسک های ژئوپلیتیکی خاورمیانه قرار گرفته است.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/30008118/%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%DA%A9%D8%B1%D8%AF-%DA%86%D9%87-%D8%A8%D9%84%D8%A7%DB%8C%DB%8C-%D8%B3%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-%D8%A2%D9%85%D8%AF%D9%87"
   },
   {
-    "source": "تابناک",
-    "title": "ثبت سفارش موبایل های بالای ۴۰۰ یورو متوقف شد",
-    "link": "https://example.com/fa/news/30008055/%D8%AB%D8%A8%D8%AA-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D9%84%D8%A7%DB%8C-400-%DB%8C%D9%88%D8%B1%D9%88-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D8%B4%D8%AF",
-    "summary": "با ابلاغ محدودیت جدید و توقف ثبت سفارش تلفن های همراه با ارزش بیش از ۴۰۰ یورو در هر دو رویه تجاری و مسافری، به نظر می رسد که استمرار این وضعیت، با توجه به نقش موبایل به عنوان یک کالای مصرفی ضروری، می تواند مدیریت قیمت ها در بازار را با مشکلاتی مواجه کند.",
-    "published": "Tue, 27 Oct 2026 20:12:00 +0330",
-    "collected_at": "2026-10-27T20:17:41.362840+03:30",
-    "filter_market_score": 12,
-    "market_score": 18,
-    "market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "ابلاغ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "با ابلاغ محدودیت جدید و توقف ثبت سفارش تلفن های همراه با ارزش بیش از ۴۰۰ یورو در هر دو رویه تجاری و مسافری، به نظر می رسد که استمرار این وضعیت، با توجه به نقش موبایل به عنوان یک کالای مصرفی ضروری، می تواند مدیریت قیمت ها در بازار را با مشکلاتی مواجه کند.",
-    "telegram_preview": "📰 ثبت سفارش موبایل های بالای ۴۰۰ یورو متوقف شد\n\nبا ابلاغ محدودیت جدید و توقف ثبت سفارش تلفن های همراه با ارزش بیش از ۴۰۰ یورو در هر دو رویه تجاری و مسافری، به نظر می رسد که استمرار این وضعیت، با توجه به نقش موبایل به عنوان یک کالای مصرفی ضروری، می تواند مدیریت قیمت ها در بازار را با مشکلاتی مواجه کند.\n\n📌 منبع: تابناک\n\n🔗 https://example.com/fa/news/30008055/%D8%AB%D8%A8%D8%AA-%D8%B3%D9%81%D8%A7%D8%B1%D8%B4-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D9%84%D8%A7%DB%8C-400-%DB%8C%D9%88%D8%B1%D9%88-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D8%B4%D8%AF"
-  },
-  {
     "source": "مهر",
     "title": "مورد عجیب بازار مسکن ایران",
     "link": "https://www.mehrnews.com/news/6992651/%D9%85%D9%88%D8%B1%D8%AF-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B3%DA%A9%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
@@ -3702,58 +3646,6 @@
     "duplicate_count": 1,
     "full_text": "همدان-رئیس اداره ورزش و جوانان ملایر از کسب ۲ مدال طلا در رشته های بوکس و گراپلینک و یک مدال برنز در رشته ووشو از سوی بانوان ورزشکار ملایری خبر داد.",
     "telegram_preview": "📰 درخشش بانوان ملایری در مسابقات کشوری با کسب ۲ مدال طلا و ۱ برنز\n\nهمدان-رئیس اداره ورزش و جوانان ملایر از کسب ۲ مدال طلا در رشته های بوکس و گراپلینک و یک مدال برنز در رشته ووشو از سوی بانوان ورزشکار ملایری خبر داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6992304/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%85%D9%84%D8%A7%DB%8C%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1%DB%8C-%D8%A8%D8%A7-%DA%A9%D8%B3%D8%A8-%DB%B2-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%88-%DB%B1-%D8%A8%D8%B1%D9%86%D8%B2"
-  },
-  {
-    "source": "مهر",
-    "title": "صادقی: بیش از ۲ میلیارد دلار مبادلات تجاری در کرمانشاه ثبت شد",
-    "link": "https://www.mehrnews.com/news/6991957/%D8%B5%D8%A7%D8%AF%D9%82%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF",
-    "summary": "کرمانشاه - مدیرکل گمرکات استان کرمانشاه از ثبت بیش از ۲ میلیارد دلار مبادلات تجاری در نیمه نخست سال جاری خبر داد.",
-    "published": "Tue, 27 Oct 2026 16:28:04 GMT",
-    "collected_at": "2026-10-27T20:17:25.217165+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "کرمانشاه - مدیرکل گمرکات استان کرمانشاه از ثبت بیش از ۲ میلیارد دلار مبادلات تجاری در نیمه نخست سال جاری خبر داد.",
-    "telegram_preview": "📰 صادقی: بیش از ۲ میلیارد دلار مبادلات تجاری در کرمانشاه ثبت شد\n\nکرمانشاه - مدیرکل گمرکات استان کرمانشاه از ثبت بیش از ۲ میلیارد دلار مبادلات تجاری در نیمه نخست سال جاری خبر داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6991957/%D8%B5%D8%A7%D8%AF%D9%82%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D8%A7%D8%AA-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF"
   },
   {
     "source": "ایسنا",
@@ -5080,6 +4972,53 @@
   },
   {
     "source": "مهر",
+    "title": "تخصیص ۸۳ میلیون لیتر سوخت به بخش کشاورزی قزوین در فصل کشت",
+    "link": "https://www.mehrnews.com/news/6993076/%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%DB%B8%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D9%88%D8%AE%D8%AA-%D8%A8%D9%87-%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%AF%D8%B1-%D9%81%D8%B5%D9%84-%DA%A9%D8%B4%D8%AA",
+    "summary": "قزوین- دبیر کمیسیون مبارزه با قاچاق کالا و ارز استان قزوین از تخصیص حدود ۸۳ میلیون لیتر سوخت به بخش کشاورزی استان قزوین در فصل کشت زراعی سال های ۱۴۰۴ و ۱۴۰۵ خبر داد.",
+    "published": "Wed, 28 Oct 2026 16:50:46 GMT",
+    "collected_at": "2026-10-28T20:44:28.430324+03:30",
+    "filter_market_score": 4,
+    "market_score": 8,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "قزوین- دبیر کمیسیون مبارزه با قاچاق کالا و ارز استان قزوین از تخصیص حدود ۸۳ میلیون لیتر سوخت به بخش کشاورزی استان قزوین در فصل کشت زراعی سال های ۱۴۰۴ و ۱۴۰۵ خبر داد.",
+    "telegram_preview": "📰 تخصیص ۸۳ میلیون لیتر سوخت به بخش کشاورزی قزوین در فصل کشت\n\nقزوین- دبیر کمیسیون مبارزه با قاچاق کالا و ارز استان قزوین از تخصیص حدود ۸۳ میلیون لیتر سوخت به بخش کشاورزی استان قزوین در فصل کشت زراعی سال های ۱۴۰۴ و ۱۴۰۵ خبر داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6993076/%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%DB%B8%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D9%88%D8%AE%D8%AA-%D8%A8%D9%87-%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%AF%D8%B1-%D9%81%D8%B5%D9%84-%DA%A9%D8%B4%D8%AA"
+  },
+  {
+    "source": "مهر",
     "title": "جودو ایران طلایی شد؛ قهرمانی ابوالفضل محمودی در کاپ آسیا",
     "link": "https://www.mehrnews.com/news/6993006/%D8%AC%D9%88%D8%AF%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84-%D9%85%D8%AD%D9%85%D9%88%D8%AF%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7",
     "summary": "نماینده وزن منهای ۶۶ کیلوگرم جودوی ایران با پیروزی در دیدار فینال رقابت های کاپ آسیا ۲۰۲۶ اردن به مدال طلای این مسابقات دست یافت.",
@@ -5359,53 +5298,6 @@
     "duplicate_count": 1,
     "full_text": "در سال ۱۹۷۱، مردی به نام «دی بی کوپر» یک هواپیمای مسافربری را ربود، ۲۰۰ هزار دلار باج گرفت و با چتر نجات از هواپیما پرید؛ اما هرگز پیدا نشد. معمایی که حتی ۴۵ سال تحقیق اف بی آی هم نتوانست آن را حل کند.",
     "telegram_preview": "📰 ماجرای هواپیما ربایی که هیچوقت روشن نشد\n\nدر سال ۱۹۷۱، مردی به نام «دی بی کوپر» یک هواپیمای مسافربری را ربود، ۲۰۰ هزار دلار باج گرفت و با چتر نجات از هواپیما پرید؛ اما هرگز پیدا نشد. معمایی که حتی ۴۵ سال تحقیق اف بی آی هم نتوانست آن را حل کند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080503469/%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7-%D8%B1%D8%A8%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D9%87%DB%8C%DA%86%D9%88%D9%82%D8%AA-%D8%B1%D9%88%D8%B4%D9%86-%D9%86%D8%B4%D8%AF"
-  },
-  {
-    "source": "تابناک",
-    "title": "نمایش طوفانی اسماعیلی نابغه کشتی ایران را ببینید",
-    "link": "https://example.com/fa/news/30008053/%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D8%B7%D9%88%D9%81%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C-%D9%86%D8%A7%D8%A8%D8%BA%D9%87-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF",
-    "summary": "سعید اسماعیلی در فینال وزن ۶۷ کیلوگرم مسابقات کشتی قهرمانی جهان با نمایشی مقتدرانه و پیروزی ۸ بر صفر مقابل آیت جان خالماخانوف ازبکستان، مدال طلای جهان را به گردن آویخت تا بار دیگر قدرت خود را به رخ بکشد.",
-    "published": "Tue, 27 Oct 2026 20:02:00 +0330",
-    "collected_at": "2026-10-27T20:17:41.362884+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "سعید اسماعیلی در فینال وزن ۶۷ کیلوگرم مسابقات کشتی قهرمانی جهان با نمایشی مقتدرانه و پیروزی ۸ بر صفر مقابل آیت جان خالماخانوف ازبکستان، مدال طلای جهان را به گردن آویخت تا بار دیگر قدرت خود را به رخ بکشد.",
-    "telegram_preview": "📰 نمایش طوفانی اسماعیلی نابغه کشتی ایران را ببینید\n\nسعید اسماعیلی در فینال وزن ۶۷ کیلوگرم مسابقات کشتی قهرمانی جهان با نمایشی مقتدرانه و پیروزی ۸ بر صفر مقابل آیت جان خالماخانوف ازبکستان، مدال طلای جهان را به گردن آویخت تا بار دیگر قدرت خود را به رخ بکشد.\n\n📌 منبع: تابناک\n\n🔗 https://example.com/fa/news/30008053/%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D8%B7%D9%88%D9%81%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C-%D9%86%D8%A7%D8%A8%D8%BA%D9%87-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF"
   },
   {
     "source": "مهر",
