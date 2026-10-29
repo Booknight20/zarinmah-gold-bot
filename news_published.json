@@ -18014,5 +18014,101 @@
     "group_message_id": 1518,
     "fully_published": true,
     "last_checked_at": "2026-10-29T07:18:32.935774+00:00"
+  },
+  "582f3c3eb2417fcd05f28fcab9374e2e20f90d1ffc2dc33bb470b1e51a8a2e94": {
+    "title": "خراسان جنوبی روی گنج طلا و گوهرسنگ ها ایستاده است",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6993412/%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%B1%D9%88%DB%8C-%DA%AF%D9%86%D8%AC-%D8%B7%D9%84%D8%A7-%D9%88-%DA%AF%D9%88%D9%87%D8%B1%D8%B3%D9%86%DA%AF-%D9%87%D8%A7-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1779
+    ],
+    "eitaa_message_ids": [
+      178894686
+    ],
+    "group_message_ids": [
+      1519
+    ],
+    "content_hash": "c6d73f7457d578fb156c437dfdd3436468275f4f5f5874aac0eebfa668098152",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T07:48:23.748949+00:00",
+    "telegram_message_id": 1779,
+    "eitaa_last_sent_at": "2026-10-29T07:48:25.392962+00:00",
+    "eitaa_message_id": 178894686,
+    "group_last_sent_at": "2026-10-29T07:48:27.194263+00:00",
+    "group_message_id": 1519,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T07:48:27.223850+00:00"
+  },
+  "6145b4b3becca03010632a4fcfa4d728dd799b0ee3587c6dbb41f478f4ef5ccc": {
+    "title": "قیمت طلا امروز پنجشنبه ۷ آبان ۱۴۰۵",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304937-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1780
+    ],
+    "eitaa_message_ids": [
+      178894702
+    ],
+    "group_message_ids": [
+      1520
+    ],
+    "content_hash": "78ecb59bcd07a146513eda81bc6cf15a63336630ce7634e83fd80e5c3d162e77",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T07:48:29.041612+00:00",
+    "telegram_message_id": 1780,
+    "eitaa_last_sent_at": "2026-10-29T07:48:30.663427+00:00",
+    "eitaa_message_id": 178894702,
+    "group_last_sent_at": "2026-10-29T07:48:32.477715+00:00",
+    "group_message_id": 1520,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T07:48:32.507243+00:00"
+  },
+  "409846092d0cab591df69605339add48be453a6d43f31bb6b6c975c3e46737eb": {
+    "title": "قیمت طلا امروز ۷ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر مثقال طلا ۱۱۴ میلیون و ۱۴۰ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294615/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1781
+    ],
+    "eitaa_message_ids": [
+      178894713
+    ],
+    "group_message_ids": [
+      1521
+    ],
+    "content_hash": "1652c3e8a650ad7b5c6bf333de970c392f23097cc3c042da660cda75a9597c72",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T07:48:34.352586+00:00",
+    "telegram_message_id": 1781,
+    "eitaa_last_sent_at": "2026-10-29T07:48:35.183529+00:00",
+    "eitaa_message_id": 178894713,
+    "group_last_sent_at": "2026-10-29T07:48:36.992048+00:00",
+    "group_message_id": 1521,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T07:48:37.021406+00:00"
+  },
+  "27c9b859f0a31f8bac162d97eaf53af2528f17d2ca6938849189bd93af0066ef": {
+    "title": "چرا رونالدو برنده بهترین توپ طلای تاریخ شد؟",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849002/%DA%86%D8%B1%D8%A7-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1782
+    ],
+    "eitaa_message_ids": [
+      178894734
+    ],
+    "group_message_ids": [
+      1522
+    ],
+    "content_hash": "b1f36b6bb50f68eaea1d44231d80b0e4f6ef55c56be610e56fc3c9c37b165774",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T07:48:38.818417+00:00",
+    "telegram_message_id": 1782,
+    "eitaa_last_sent_at": "2026-10-29T07:48:40.507465+00:00",
+    "eitaa_message_id": 178894734,
+    "group_last_sent_at": "2026-10-29T07:48:42.336070+00:00",
+    "group_message_id": 1522,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T07:48:42.365632+00:00"
   }
 }
