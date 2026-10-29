@@ -1,100 +1,6 @@
 [
   {
     "source": "دنیای اقتصاد",
-    "title": "نرخ ارز دلار، طلا و یورو امروز چهارشنبه ۶ آبان ۱۴۰۵/ صعود قیمت طلا و سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304764-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B5%D8%B9%D9%88%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
-    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد رشد قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
-    "published": "Wed, 28 Oct 2026 10:45:59 +0000",
-    "collected_at": "2026-10-28T14:17:52.088074+03:30",
-    "filter_market_score": 51,
-    "market_score": 58,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ],
-      "currency": [
-        "دلار",
-        "نرخ ارز",
-        "ارز",
-        "یورو",
-        "مرکز مبادله"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ],
-      "currency": [
-        "دلار",
-        "نرخ ارز",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ],
-      "currency": [
-        "نرخ ارز",
-        "ارز",
-        "مرکز مبادله"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صعود",
-      "قیمت",
-      "نرخ",
-      "رشد",
-      "نوسان"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
-    ],
-    "currency_matches": [
-      "دلار",
-      "نرخ ارز",
-      "ارز",
-      "یورو",
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "نرخ ارز دلار، طلا و یورو امروز پنجشنبه ۷ آبان ۱۴۰۵/ افزایش قیمت دلار و سکه",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304273-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87",
     "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد کاهش قیمت طلای ۱۸ عیار و رشدسکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
@@ -3042,58 +2948,6 @@
     "ranking_applied": true
   },
   {
-    "source": "مهر",
-    "title": "سرمایه گذاری ۷۷ میلیارد دلاری شیخ نشینان در یک کشور آفریقایی",
-    "link": "https://www.mehrnews.com/news/6992669/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%DB%B7%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B4%DB%8C%D8%AE-%D9%86%D8%B4%DB%8C%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%DB%8C%DA%A9-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7%DB%8C%DB%8C",
-    "summary": "داده های جدید کنفرانس تجارت و توسعه سازمان ملل متحد (آنکتاد) بیانگر سرمایه گذاری ۷۷ میلیارد دلاری کشورهای شورای همکاری در مصر طی سال های ۲۰۲۱ تا ۲۰۲۵ است.",
-    "published": "Wed, 28 Oct 2026 10:20:55 GMT",
-    "collected_at": "2026-10-28T14:17:41.612224+03:30",
-    "filter_market_score": 11,
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "تابناک",
     "title": "ضربه غول بانکی سوئیس به شیشه عمر ترامپ!",
     "link": "https://tabnak.ir/fa/news/30008194/%D8%B6%D8%B1%D8%A8%D9%87-%D8%BA%D9%88%D9%84-%D8%A8%D8%A7%D9%86%DA%A9%DB%8C-%D8%B3%D9%88%D8%A6%DB%8C%D8%B3-%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%D8%B9%D9%85%D8%B1-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE",
@@ -5221,49 +5075,6 @@
     "summary": "سمنان- فرماندار سمنان با تأکید بر ظرفیت دانشگاه های این شهرستان برای جذب دانشجویان خارجی، از پیگیری راهکارهای تسهیل اسکان، خدمات ارزی و رفت وآمد دانشجویان بین المللی خبر داد.",
     "published": "Wed, 28 Oct 2026 15:19:18 GMT",
     "collected_at": "2026-10-28T19:09:06.807671+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "عملکرد ترسناک نسل تازه پهپادهای انتحاری",
-    "link": "https://tabnak.ir/fa/news/30008138/%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%AA%D8%B1%D8%B3%D9%86%D8%A7%DA%A9-%D9%86%D8%B3%D9%84-%D8%AA%D8%A7%D8%B2%D9%87-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1%DB%8C",
-    "summary": "تصاویر یک پروژه دانشگاهی منتشر شده که نشان می دهد یک پهپاد بدون داشتن جی پی اس، اینترنت و هدایت انسانی، یک انسان در حال دویدن را در میان جنگلی انبوه تعقیب می کند. این پهپاد با سرعت دویدن انسان و در فاصله حدود دو متری از سطح زمین پرواز می کند، هم زمان یک نقشه سه بعدی از درختان ترسیم می کند. هنگامی که درختان دید آن را مسدود می کنند، مسیر حرکت فرد را حدس می زند. تمام این پردازش ها مستقیماً روی خود پهپاد انجام می شود. احتمالاً این تکنولوژی به سرعت در پهپادهای انتحاری استفاده می شود که عملاً جمینگ یا هر نوع عامل اختلال گر را ناکارآمد می کند و حتی نیاز به اپراتور در محدوده عملکرد پهپاد را نیز ارز بین می برد.",
-    "published": "Wed, 28 Oct 2026 12:56:00 +0330",
-    "collected_at": "2026-10-28T14:18:00.005829+03:30",
     "filter_market_score": 4,
     "market_score": 6,
     "market_matches": {
