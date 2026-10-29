@@ -17774,5 +17774,53 @@
     "group_message_id": 1505,
     "fully_published": true,
     "last_checked_at": "2026-10-29T05:16:28.628576+00:00"
+  },
+  "cde63f6b9741339c2f4972f3b49b5ec0e4bd1f6c4a97d6855402453265919168": {
+    "title": "آزمون بزرگ بازار سرمایه در جذب اسکناس های خانگی با سود ارزی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6993301/%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AF%D8%B1-%D8%AC%D8%B0%D8%A8-%D8%A7%D8%B3%DA%A9%D9%86%D8%A7%D8%B3-%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%A8%D8%A7-%D8%B3%D9%88%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C",
+    "telegram_message_ids": [
+      1766
+    ],
+    "eitaa_message_ids": [
+      178873740
+    ],
+    "group_message_ids": [
+      1506
+    ],
+    "content_hash": "90b8b10bddf4f2c3dcef46f7c6bfae3ba9cbefe6d6f34c4e86e17077cf0c22a1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T05:48:07.198116+00:00",
+    "telegram_message_id": 1766,
+    "eitaa_last_sent_at": "2026-10-29T05:48:08.642724+00:00",
+    "eitaa_message_id": 178873740,
+    "group_last_sent_at": "2026-10-29T05:48:10.357742+00:00",
+    "group_message_id": 1506,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T05:48:10.384948+00:00"
+  },
+  "c6b9f678fd1a72223f319ed550bc0eed2f7e093be26387adbd6e8aa69e7924bb": {
+    "title": "کشف طلای تقلبی و شمش در قم",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008217/%DA%A9%D8%B4%D9%81-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D9%82%D9%84%D8%A8%DB%8C-%D9%88-%D8%B4%D9%85%D8%B4-%D8%AF%D8%B1-%D9%82%D9%85",
+    "telegram_message_ids": [
+      1767
+    ],
+    "eitaa_message_ids": [
+      178873753
+    ],
+    "group_message_ids": [
+      1507
+    ],
+    "content_hash": "5f01753cce2a4bdaa4b1f3103515a454338726e100af0bb5d567f046ff67d3b5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T05:48:12.075694+00:00",
+    "telegram_message_id": 1767,
+    "eitaa_last_sent_at": "2026-10-29T05:48:13.555048+00:00",
+    "eitaa_message_id": 178873753,
+    "group_last_sent_at": "2026-10-29T05:48:15.217242+00:00",
+    "group_message_id": 1507,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T05:48:15.243964+00:00"
   }
 }
