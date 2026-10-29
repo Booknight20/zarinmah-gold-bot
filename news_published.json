@@ -18638,5 +18638,77 @@
     "group_message_id": 1554,
     "fully_published": true,
     "last_checked_at": "2026-10-29T11:48:35.456878+00:00"
+  },
+  "93353cbb6f08d63e17a9ad51f17705a87c993d4757d6d55a6dd54789135f5d15": {
+    "title": "آنچه که در جلسه شورای گفت وگوی دولت و بخش خصوصی خراسان رضوی گذشت",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080704622/%D8%A2%D9%86%DA%86%D9%87-%DA%A9%D9%87-%D8%AF%D8%B1-%D8%AC%D9%84%D8%B3%D9%87-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%DA%AF%D9%81%D8%AA-%D9%88%DA%AF%D9%88%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D9%88-%D8%A8%D8%AE%D8%B4-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%DA%AF%D8%B0%D8%B4%D8%AA",
+    "telegram_message_ids": [
+      1814
+    ],
+    "eitaa_message_ids": [
+      178946594
+    ],
+    "group_message_ids": [
+      1556
+    ],
+    "content_hash": "4dbdaf195020d7d6b021871c083b5420ec09d5669cccbeb8a32dba18fe6ecee1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T12:44:49.759979+00:00",
+    "telegram_message_id": 1814,
+    "eitaa_last_sent_at": "2026-10-29T12:44:51.083819+00:00",
+    "eitaa_message_id": 178946594,
+    "group_last_sent_at": "2026-10-29T12:44:52.826596+00:00",
+    "group_message_id": 1556,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T12:44:52.842213+00:00"
+  },
+  "373b8ba9877921150f26cbc8b33bfb6dc0896de4ac4600639c5f537bb9657f63": {
+    "title": "طوفان طلایی «مبینا فلاح» در عراق/کماندار یزدی با دو طلای آسیایی درخشید",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080704618/%D8%B7%D9%88%D9%81%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%85%D8%A8%DB%8C%D9%86%D8%A7-%D9%81%D9%84%D8%A7%D8%AD-%D8%AF%D8%B1-%D8%B9%D8%B1%D8%A7%D9%82-%DA%A9%D9%85%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%DB%8C%D8%B2%D8%AF%DB%8C-%D8%A8%D8%A7-%D8%AF%D9%88-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C",
+    "telegram_message_ids": [
+      1815
+    ],
+    "eitaa_message_ids": [
+      178946599
+    ],
+    "group_message_ids": [
+      1557
+    ],
+    "content_hash": "adb64f8270902435e1f0911ff4977aca79cd1db406eef351dfce65ac98a61a32",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T12:44:54.487049+00:00",
+    "telegram_message_id": 1815,
+    "eitaa_last_sent_at": "2026-10-29T12:44:55.892624+00:00",
+    "eitaa_message_id": 178946599,
+    "group_last_sent_at": "2026-10-29T12:44:57.520238+00:00",
+    "group_message_id": 1557,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T12:44:57.536867+00:00"
+  },
+  "803769d4ca1e18092f6af5a4024247d9430c5d78656f3a20ef224e83a54211b3": {
+    "title": "با صعود آزادکار ارمنی به فینال، عموزاد به جدول برگشت",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849040/%D8%A8%D8%A7-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A2%D8%B2%D8%A7%D8%AF%DA%A9%D8%A7%D8%B1-%D8%A7%D8%B1%D9%85%D9%86%DB%8C-%D8%A8%D9%87-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%D8%B9%D9%85%D9%88%D8%B2%D8%A7%D8%AF-%D8%A8%D9%87-%D8%AC%D8%AF%D9%88%D9%84-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA",
+    "telegram_message_ids": [
+      1816
+    ],
+    "eitaa_message_ids": [
+      178946609
+    ],
+    "group_message_ids": [
+      1558
+    ],
+    "content_hash": "814cdc93fc042a68e21962178bd20dc1d76a57cf7f597501d58331e1ba76af67",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T12:44:59.176679+00:00",
+    "telegram_message_id": 1816,
+    "eitaa_last_sent_at": "2026-10-29T12:45:00.499609+00:00",
+    "eitaa_message_id": 178946609,
+    "group_last_sent_at": "2026-10-29T12:45:02.144854+00:00",
+    "group_message_id": 1558,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T12:45:02.162217+00:00"
   }
 }
