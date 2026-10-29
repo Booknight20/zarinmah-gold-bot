@@ -17966,5 +17966,53 @@
     "group_message_id": 1515,
     "fully_published": true,
     "last_checked_at": "2026-10-29T06:44:39.765585+00:00"
+  },
+  "4637a9849fe3d955e39bb7669c5c17b7a0fb66ea02cea2a428fef028a6cc94f3": {
+    "title": "حباب هوش مصنوعی در آستانه ترکیدن است؟",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080704396/%D8%AD%D8%A8%D8%A7%D8%A8-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1777
+    ],
+    "eitaa_message_ids": [
+      178888341
+    ],
+    "group_message_ids": [
+      1517
+    ],
+    "content_hash": "9a64bcdac1e8be904bc0e817f08799bf52032a3e0dc9e250e342be47cb1ddecf",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T07:18:25.685083+00:00",
+    "telegram_message_id": 1777,
+    "eitaa_last_sent_at": "2026-10-29T07:18:26.900666+00:00",
+    "eitaa_message_id": 178888341,
+    "group_last_sent_at": "2026-10-29T07:18:28.526016+00:00",
+    "group_message_id": 1517,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T07:18:28.555210+00:00"
+  },
+  "c82a14322165a4f7a693166c33b0d4f4c5cd5da7b4b288e970ff30f2fba0c2e6": {
+    "title": "تصویب بودجه دولت اوکراین در پارلمان با کسری ۳۷ میلیارد دلاری",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849000/%D8%AA%D8%B5%D9%88%DB%8C%D8%A8-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%AF%D9%88%D9%84%D8%AA-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D8%AF%D8%B1-%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%A7-%DA%A9%D8%B3%D8%B1%DB%8C-%DB%B3%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
+    "telegram_message_ids": [
+      1778
+    ],
+    "eitaa_message_ids": [
+      178888402
+    ],
+    "group_message_ids": [
+      1518
+    ],
+    "content_hash": "07578321f6ad22ae235a4f74a82d00c10cc1e8279f50b71804a79cab2435d628",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T07:18:30.172196+00:00",
+    "telegram_message_id": 1778,
+    "eitaa_last_sent_at": "2026-10-29T07:18:31.278506+00:00",
+    "eitaa_message_id": 178888402,
+    "group_last_sent_at": "2026-10-29T07:18:32.906339+00:00",
+    "group_message_id": 1518,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T07:18:32.935774+00:00"
   }
 }
