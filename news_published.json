@@ -18566,5 +18566,77 @@
     "group_message_id": 1551,
     "fully_published": true,
     "last_checked_at": "2026-10-29T11:18:04.415183+00:00"
+  },
+  "119e8818f6f953c78c65e398eb452c4fe9005fb6beacabe55edd67d718cc1876": {
+    "title": "یک طلا و دو فینالیست برای جودو ایران؛ مبارزه دو ملی پوش برای برنز",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6993690/%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AF%D9%88-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D9%88%D8%AF%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%A8%D8%A7%D8%B1%D8%B2%D9%87-%D8%AF%D9%88-%D9%85%D9%84%DB%8C-%D9%BE%D9%88%D8%B4-%D8%A8%D8%B1%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      1810
+    ],
+    "eitaa_message_ids": [
+      178933626
+    ],
+    "group_message_ids": [
+      1552
+    ],
+    "content_hash": "8cdfee5b93021ebbdf25a7c5292afdbc919bd59dd2eee47eedbe098bf9499f4e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T11:48:24.112075+00:00",
+    "telegram_message_id": 1810,
+    "eitaa_last_sent_at": "2026-10-29T11:48:25.070606+00:00",
+    "eitaa_message_id": 178933626,
+    "group_last_sent_at": "2026-10-29T11:48:26.675783+00:00",
+    "group_message_id": 1552,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T11:48:26.705900+00:00"
+  },
+  "331177fee9acb4880c266226c7e7648bd02fd108d86424db621eb622861943a8": {
+    "title": "عقب نشینی نفت از اوج روز قبل / برنت به ۱۱۴ دلار رسید",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304978-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%A7%D9%88%D8%AC-%D8%B1%D9%88%D8%B2-%D9%82%D8%A8%D9%84-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      1811
+    ],
+    "eitaa_message_ids": [
+      178933632
+    ],
+    "group_message_ids": [
+      1553
+    ],
+    "content_hash": "2b84bea5d89ee38dcb7c5af65af4455d43fdbdd89db1b2c770f03b57af01c12a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T11:48:28.329362+00:00",
+    "telegram_message_id": 1811,
+    "eitaa_last_sent_at": "2026-10-29T11:48:29.474381+00:00",
+    "eitaa_message_id": 178933632,
+    "group_last_sent_at": "2026-10-29T11:48:31.072523+00:00",
+    "group_message_id": 1553,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T11:48:31.102393+00:00"
+  },
+  "459590877d11cc1aa93545547a5ad11bae7678bf48f636a0793eba8dff373f56": {
+    "title": "قیمت دلار، یورو و درهم امروز پنجشنبه ۷ آبان ۱۴۰۵/ افزایش قیمت دلار",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304955-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1812
+    ],
+    "eitaa_message_ids": [
+      178933636
+    ],
+    "group_message_ids": [
+      1554
+    ],
+    "content_hash": "cc67cee9d34de7f4903f7cb15ce01dc66a4232f29c8e65d1e635d8fde3024d41",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T11:48:32.714214+00:00",
+    "telegram_message_id": 1812,
+    "eitaa_last_sent_at": "2026-10-29T11:48:33.819144+00:00",
+    "eitaa_message_id": 178933636,
+    "group_last_sent_at": "2026-10-29T11:48:35.426057+00:00",
+    "group_message_id": 1554,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T11:48:35.456878+00:00"
   }
 }

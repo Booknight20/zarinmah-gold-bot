@@ -1496,6 +1496,65 @@
     "ranking_applied": true
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت دلار، یورو و درهم امروز پنجشنبه ۷ آبان ۱۴۰۵/ افزایش قیمت دلار",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304955-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
+    "summary": "قیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته، از 186,420 (یکصد و هشتاد و شش هزار و چهارصد و بیست) تومان به 186,792 (یکصد و هشتاد و شش هزار و هفتصد و نود و دو) تومان رسید.",
+    "published": "Thu, 29 Oct 2026 10:45:40 +0000",
+    "collected_at": "2026-10-29T15:17:50.596398+03:30",
+    "filter_market_score": 22,
+    "market_score": 26,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "یورو",
+        "درهم"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "یورو",
+        "درهم"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "یورو",
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مهر",
     "title": "آزمون بزرگ بازار سرمایه در جذب اسکناس های خانگی با سود ارزی",
     "link": "https://www.mehrnews.com/news/6993301/%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AF%D8%B1-%D8%AC%D8%B0%D8%A8-%D8%A7%D8%B3%DA%A9%D9%86%D8%A7%D8%B3-%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%A8%D8%A7-%D8%B3%D9%88%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C",
@@ -1974,6 +2033,68 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "عقب نشینی نفت از اوج روز قبل / برنت به ۱۱۴ دلار رسید",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304978-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%A7%D9%88%D8%AC-%D8%B1%D9%88%D8%B2-%D9%82%D8%A8%D9%84-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "قیمت نفت در معاملات پنج شنبه ۷ آبان ۱۴۰۵ تحت تأثیر امید به ازسرگیری مذاکرات صلح کاهش یافت؛ نفت برنت با افت ۰.۷ درصدی به ۱۱۴ دلار و ۴۷ سنت و نفت آمریکا با کاهش ۱.۱ درصدی به ۱۰۱ دلار و ۶۵ سنت در هر بشکه رسید.",
+    "published": "Thu, 29 Oct 2026 11:30:26 +0000",
+    "collected_at": "2026-10-29T15:17:50.596300+03:30",
+    "filter_market_score": 19,
+    "market_score": 24,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "افت",
+      "قیمت",
+      "معاملات",
+      "مذاکرات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -4008,6 +4129,54 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "یک طلا و دو فینالیست برای جودو ایران؛ مبارزه دو ملی پوش برای برنز",
+    "link": "https://www.mehrnews.com/news/6993690/%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AF%D9%88-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D9%88%D8%AF%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%A8%D8%A7%D8%B1%D8%B2%D9%87-%D8%AF%D9%88-%D9%85%D9%84%DB%8C-%D9%BE%D9%88%D8%B4-%D8%A8%D8%B1%D8%A7%DB%8C",
+    "summary": "در ادامه رقابت های جودو کاپ آسیا صبح روز پنجشنبه ملی پوشان کشورمان موفق به کسب یک مدال طلا شدند و دو جودوکار به فینال راه یافتند.",
+    "published": "Thu, 29 Oct 2026 11:43:34 GMT",
+    "collected_at": "2026-10-29T15:17:37.715448+03:30",
+    "filter_market_score": 10,
+    "market_score": 14,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مشرق",
     "title": "تاثیر فاجعه بار نتایج انتخابات بر بورس رژیم صهیونیستی",
     "link": "https://www.mashreghnews.ir/news/1848950/%D8%AA%D8%A7%D8%AB%DB%8C%D8%B1-%D9%81%D8%A7%D8%AC%D8%B9%D9%87-%D8%A8%D8%A7%D8%B1-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C",
@@ -4710,53 +4879,6 @@
     "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "دومین دایناسور گران جهان فروخته شد",
-    "link": "https://www.isna.ir/news/1405080603910/%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D8%AF%D8%A7%DB%8C%D9%86%D8%A7%D8%B3%D9%88%D8%B1-%DA%AF%D8%B1%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D9%81%D8%B1%D9%88%D8%AE%D8%AA%D9%87-%D8%B4%D8%AF",
-    "summary": "دایناسوری به نام «جودی» از پیش بینی ها فراتر ظاهر شد و در یک مزایده، ده ها میلیون دلار به فروش رسید.",
-    "published": "Wed, 28 Oct 2026 09:36:42 GMT",
-    "collected_at": "2026-10-28T13:17:27.933293+03:30",
-    "filter_market_score": 6,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "پیش‌بینی",
-      "پیش بینی"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
