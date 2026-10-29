@@ -3293,59 +3293,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "ایسنا",
-    "title": "بلومبرگ: سهام عربستان در میان بدترین عملکردها در سطح جهانی قرار دارد",
-    "link": "https://www.isna.ir/news/1405080603524/%D8%A8%D9%84%D9%88%D9%85%D8%A8%D8%B1%DA%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%DB%8C%D8%A7%D9%86-%D8%A8%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF%D9%87%D8%A7-%D8%AF%D8%B1-%D8%B3%D8%B7%D8%AD-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1",
-    "summary": "بلومبرگ روز چهارشنبه گزارش داد که تشدید عملیات یمن علیه عربستان، نگرانی های اقتصادی را از بخش نفت به بخش های غیرنفتی که ستون اصلی چشم انداز ۲۰۳۰ را تشکیل می دهند، منتقل می کند و این نشان دهنده تغییر اساسی در ماهیت خطرات پیش روی اقتصاد عربستان است.",
-    "published": "Tue, 27 Oct 2026 22:26:36 GMT",
-    "collected_at": "2026-10-28T02:14:17.453634+03:30",
-    "filter_market_score": 12,
-    "market_score": 16,
-    "market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "چشم‌انداز",
-      "چشم انداز",
-      "تغییر",
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "مشرق",
     "title": "قرارداد ۶۹۴ میلیون دلاری آمریکا برای تولید موشک های مافوق صوت",
     "link": "https://www.mashreghnews.ir/news/1848750/%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%DB%B6%DB%B9%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%85%D9%88%D8%B4%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%81%D9%88%D9%82-%D8%B5%D9%88%D8%AA",
@@ -4829,6 +4776,53 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "ایسنا",
+    "title": "زارع، قدرت بلامنازع سنگین وزن/ آستانه هم حیاط خلوت \"یل آمل\" می شود؟",
+    "link": "https://www.isna.ir/news/1405080402204/%D8%B2%D8%A7%D8%B1%D8%B9-%D9%82%D8%AF%D8%B1%D8%AA-%D8%A8%D9%84%D8%A7%D9%85%D9%86%D8%A7%D8%B2%D8%B9-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D9%87%D9%85-%D8%AD%DB%8C%D8%A7%D8%B7-%D8%AE%D9%84%D9%88%D8%AA-%DB%8C%D9%84-%D8%A2%D9%85%D9%84-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "امیرحسین زارع، قهرمان جهان در دسته سنگین وزن به دنبال چهارمین طلای جهانی خود است.",
+    "published": "Thu, 29 Oct 2026 02:30:00 GMT",
+    "collected_at": "2026-10-29T06:17:24.220256+03:30",
+    "filter_market_score": 6,
+    "market_score": 10,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "طلای جهانی"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
