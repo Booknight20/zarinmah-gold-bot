@@ -17933,5 +17933,74 @@
     "group_sent_at": "2026-10-29T19:14:56.574105+03:30",
     "group_message_id": 1565,
     "published_at": "2026-10-29T19:14:56.584711+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8776": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "دیشب نت بچه ها ضعیف بود.",
+      "summary": "دیشب نت بچه ها ضعیف بود. لایو رو ذخیره کردیم از اینجا ببینید 👉 به ترتیب بررسی شرایط انتخابات اسرائیل تحلیل دلار و طلا تحلیل بیت کوین و اتریوم تحلیل اونس و نقره تحلیل بورس و گروه های برتر و نهایتا پیشنهاد ویژه ❤️ ✅ @AlirezaMehrabi_ir",
+      "full_text": "دیشب نت بچه ها ضعیف بود. لایو رو ذخیره کردیم از اینجا ببینید 👉 به ترتیب بررسی شرایط انتخابات اسرائیل تحلیل دلار و طلا تحلیل بیت کوین و اتریوم تحلیل اونس و نقره تحلیل بورس و گروه های برتر و نهایتا پیشنهاد ویژه ❤️ ✅ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8776",
+      "analysis_score": 17,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "دلار",
+        "بورس",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "تحلیل"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 232,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-29T19:48:21.937245+03:30"
+    },
+    "content_signature": "2edd25fbb63ab4c853e66ce349bc4d5e878de4a38630c62ea9052fcf61ab49d9",
+    "first_seen_at": "2026-10-29T19:48:33.598678+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1827
+    ],
+    "telegram_last_success_at": "2026-10-29T19:48:34.252737+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-29T19:48:34.272457+03:30",
+    "telegram_message_id": 1827,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178976480
+    ],
+    "eitaa_last_success_at": "2026-10-29T19:48:35.895416+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-29T19:48:35.914904+03:30",
+    "eitaa_message_id": 178976480,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1571
+    ],
+    "group_last_success_at": "2026-10-29T19:48:36.523890+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-29T19:48:36.543131+03:30",
+    "group_message_id": 1571,
+    "published_at": "2026-10-29T19:48:36.561925+03:30"
   }
 }

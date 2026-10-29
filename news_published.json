@@ -18758,5 +18758,53 @@
     "group_message_id": 1564,
     "fully_published": true,
     "last_checked_at": "2026-10-29T15:18:03.022887+00:00"
+  },
+  "8013f8f2bdd035a4cfcbb4b2cf33fbcf50bafaaa543b980795474facb8c653ca": {
+    "title": "کسب مدال طلا و برنز توسط جودوکاران خراسان رضوی در کاپ آسیا",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080704690/%DA%A9%D8%B3%D8%A8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%88-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AC%D9%88%D8%AF%D9%88%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7",
+    "telegram_message_ids": [
+      1825
+    ],
+    "eitaa_message_ids": [
+      178976452
+    ],
+    "group_message_ids": [
+      1569
+    ],
+    "content_hash": "8ead96def8bafbd3ad4ccaf474174ce8fd0b8888033f54deeeef7ff6c11818bd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T16:18:24.704284+00:00",
+    "telegram_message_id": 1825,
+    "eitaa_last_sent_at": "2026-10-29T16:18:26.390223+00:00",
+    "eitaa_message_id": 178976452,
+    "group_last_sent_at": "2026-10-29T16:18:28.240425+00:00",
+    "group_message_id": 1569,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T16:18:28.271208+00:00"
+  },
+  "25d03b0f66df2ebc194fc0d6038b6ce7253148f4479842dd85fdeec393debee7": {
+    "title": "با کسب ۸ مدال طلا، نقره و برنز؛ تیم ملی جودو ایران قهرمان کاپ آسیا شد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6993857/%D8%A8%D8%A7-%DA%A9%D8%B3%D8%A8-%DB%B8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D9%88-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%AC%D9%88%D8%AF%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D9%BE",
+    "telegram_message_ids": [
+      1826
+    ],
+    "eitaa_message_ids": [
+      178976459
+    ],
+    "group_message_ids": [
+      1570
+    ],
+    "content_hash": "7d038a22063b6732ca5e12707cf3ccc3e53163909ce2b2db222bf923aede15f9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T16:18:30.062908+00:00",
+    "telegram_message_id": 1826,
+    "eitaa_last_sent_at": "2026-10-29T16:18:31.587871+00:00",
+    "eitaa_message_id": 178976459,
+    "group_last_sent_at": "2026-10-29T16:18:33.355144+00:00",
+    "group_message_id": 1570,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T16:18:33.386276+00:00"
   }
 }
