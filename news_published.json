@@ -18854,5 +18854,29 @@
     "group_message_id": 1575,
     "fully_published": true,
     "last_checked_at": "2026-10-29T17:44:59.284391+00:00"
+  },
+  "0ff7a0e354c3a9d66b6fbbbfe9f759979583d8462cd1708f1ecf8c4e27a07868": {
+    "title": "افزایش هزینه های تولید هم مانع تداوم فعالیت واحدهای صنعتی یزد نشد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6993893/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%87%D9%85-%D9%85%D8%A7%D9%86%D8%B9-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D9%88%D8%A7%D8%AD%D8%AF%D9%87%D8%A7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%DB%8C%D8%B2%D8%AF",
+    "telegram_message_ids": [
+      1833
+    ],
+    "eitaa_message_ids": [
+      178991008
+    ],
+    "group_message_ids": [
+      1577
+    ],
+    "content_hash": "caf14cef556ae8f270d43cbdfb67ce72e95c640508b89a552aaba10c5383fa52",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T18:15:01.367585+00:00",
+    "telegram_message_id": 1833,
+    "eitaa_last_sent_at": "2026-10-29T18:15:02.721198+00:00",
+    "eitaa_message_id": 178991008,
+    "group_last_sent_at": "2026-10-29T18:15:04.407576+00:00",
+    "group_message_id": 1577,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T18:15:04.426499+00:00"
   }
 }
