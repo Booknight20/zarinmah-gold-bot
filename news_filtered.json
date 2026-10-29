@@ -3059,41 +3059,6 @@
     "filter_applied": true
   },
   {
-    "source": "مهر",
-    "title": "کشف ۲ کارگاه غیر مجاز طلا در مرند",
-    "link": "https://www.mehrnews.com/news/6992562/%DA%A9%D8%B4%D9%81-%DB%B2-%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-%D8%BA%DB%8C%D8%B1-%D9%85%D8%AC%D8%A7%D8%B2-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B1%D9%86%D8%AF",
-    "summary": "مرند- فرمانده انتظامی شهرستان مرند از شناسایی و کشف ۲ کارگاه غیر مجاز استحصال طلا با یک تن سنگ معدنی طلا و دستگیری دو نفر متهم در این رابطه خبر داد.",
-    "published": "Wed, 28 Oct 2026 09:24:52 GMT",
-    "collected_at": "2026-10-28T13:17:41.772626+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "مشرق",
     "title": "تاثیر فاجعه بار نتایج انتخابات بر بورس رژیم صهیونیستی",
     "link": "https://www.mashreghnews.ir/news/1848950/%D8%AA%D8%A7%D8%AB%DB%8C%D8%B1-%D9%81%D8%A7%D8%AC%D8%B9%D9%87-%D8%A8%D8%A7%D8%B1-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C",
@@ -3472,40 +3437,6 @@
     "signal_matches": [
       "صادرات"
     ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "دستگیری متهم ۶ هزار میلیارد تومانی با عملیات غافلگیرانه پلیس در رشت",
-    "link": "https://www.mehrnews.com/news/6992593/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%AA%D9%87%D9%85-%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%BA%D8%A7%D9%81%D9%84%DA%AF%DB%8C%D8%B1%D8%A7%D9%86%D9%87-%D9%BE%D9%84%DB%8C%D8%B3",
-    "summary": "رشت- فرمانده انتظامی گیلان از دستگیری متهم اخلال در نظام اقتصادی کشور با بیش از ۱۹ میلیون دلار تعهد ارزی ایفا نشده، معادل حدود ۶ هزار میلیارد تومان، در شهرستان رشت خبر داد.",
-    "published": "Wed, 28 Oct 2026 09:29:01 GMT",
-    "collected_at": "2026-10-28T13:17:41.772559+03:30",
-    "filter_market_score": 7,
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
