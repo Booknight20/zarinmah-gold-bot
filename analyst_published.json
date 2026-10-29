@@ -17867,5 +17867,71 @@
     "group_sent_at": "2026-10-29T17:47:54.565769+03:30",
     "group_message_id": 1562,
     "published_at": "2026-10-29T17:47:54.583942+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25846": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "بازگشت قدرتمند طلا به ذخایر بانک‌های مرکزی جهان؛ اتفاقی که نباید ساده از کنارش گذشت.",
+      "summary": "بازگشت قدرتمند طلا به ذخایر بانک‌های مرکزی جهان؛ اتفاقی که نباید ساده از کنارش گذشت. \n\nاین نمودار نشون می‌ده سهم طلا از ذخایر بانک‌های مرکزی جهان (به‌جز آمریکا) که در دهه ۲۰۱۰ به حدود ۱۰ درصد رسیده بود، الان به حدود ۲۴ درصد افزایش پیدا کرده.\nیعنی کشورها دوباره دارن به سمت طلا میرن تا وابستگی‌شون به دلار کمتر بشه\n\n @payamelyaskordi ✅",
+      "full_text": "بازگشت قدرتمند طلا به ذخایر بانک‌های مرکزی جهان؛ اتفاقی که نباید ساده از کنارش گذشت. \n\nاین نمودار نشون می‌ده سهم طلا از ذخایر بانک‌های مرکزی جهان (به‌جز آمریکا) که در دهه ۲۰۱۰ به حدود ۱۰ درصد رسیده بود، الان به حدود ۲۴ درصد افزایش پیدا کرده.\nیعنی کشورها دوباره دارن به سمت طلا میرن تا وابستگی‌شون به دلار کمتر بشه\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25846",
+      "analysis_score": 12,
+      "market_matches": [
+        "طلا",
+        "دلار"
+      ],
+      "analysis_matches": [
+        "افزایش"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 334,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-29T19:14:51.323536+03:30"
+    },
+    "content_signature": "8c048f41e2f08d8e58f27ac2de2d3ea0a48e22536af732da35ed7317779fb861",
+    "first_seen_at": "2026-10-29T19:14:53.939412+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1823
+    ],
+    "telegram_last_success_at": "2026-10-29T19:14:54.495319+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-29T19:14:54.507014+03:30",
+    "telegram_message_id": 1823,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178972546
+    ],
+    "eitaa_last_success_at": "2026-10-29T19:14:56.035177+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-29T19:14:56.046389+03:30",
+    "eitaa_message_id": 178972546,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1565
+    ],
+    "group_last_success_at": "2026-10-29T19:14:56.562798+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-29T19:14:56.574105+03:30",
+    "group_message_id": 1565,
+    "published_at": "2026-10-29T19:14:56.584711+03:30"
   }
 }
