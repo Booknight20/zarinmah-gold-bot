@@ -17750,5 +17750,29 @@
     "group_message_id": 1504,
     "fully_published": true,
     "last_checked_at": "2026-10-29T04:48:20.013592+00:00"
+  },
+  "81140ee8c0faa5734bd31a48fed2fd34d8f4a8a764520e05549fa79698b59c72": {
+    "title": "قیمت سکه امروز ۷ آبان ۱۴۰۵ در زمان بازگشایی بازار/ ربع سکه ۷۵ میلیون و ۵۰۰ هزار تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294616/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%DB%B7%DB%B5",
+    "telegram_message_ids": [
+      1765
+    ],
+    "eitaa_message_ids": [
+      178869501
+    ],
+    "group_message_ids": [
+      1505
+    ],
+    "content_hash": "78bcbb43e39990d02318a17b7e66c7d0311fbc624319f1f1e46d4e6fbe4dd187",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T05:16:25.306132+00:00",
+    "telegram_message_id": 1765,
+    "eitaa_last_sent_at": "2026-10-29T05:16:26.866804+00:00",
+    "eitaa_message_id": 178869501,
+    "group_last_sent_at": "2026-10-29T05:16:28.607659+00:00",
+    "group_message_id": 1505,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T05:16:28.628576+00:00"
   }
 }
