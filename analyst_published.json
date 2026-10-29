@@ -17444,5 +17444,71 @@
     "group_sent_at": "2026-10-28T21:48:29.912096+03:30",
     "group_message_id": 1489,
     "published_at": "2026-10-28T21:48:29.930526+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25836": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "دلار حواله به ۱۸۶.۷۹۲ هزار تومان رسید .",
+      "summary": "دلار حواله به ۱۸۶.۷۹۲ هزار تومان رسید .\n\nعکس بالا نمودار دلار حواله است که تو ۶ ماه اخیر حدود ۳۱٪ رشد کرده ، این نمودار نشون میده بانک مرکزی به دنبال نگهداشتن قیمت دلار حواله نیست.\n\n @payamelyaskordi ✅",
+      "full_text": "دلار حواله به ۱۸۶.۷۹۲ هزار تومان رسید .\n\nعکس بالا نمودار دلار حواله است که تو ۶ ماه اخیر حدود ۳۱٪ رشد کرده ، این نمودار نشون میده بانک مرکزی به دنبال نگهداشتن قیمت دلار حواله نیست.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25836",
+      "analysis_score": 13,
+      "market_matches": [
+        "دلار",
+        "بانک مرکزی"
+      ],
+      "analysis_matches": [
+        "رشد",
+        "قیمت"
+      ],
+      "market_groups": [
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 201,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-29T09:48:23.450172+03:30"
+    },
+    "content_signature": "df0f35ea82907fa6ac99c6a629e8c5c97e3f89243bf0d1c87cbc2a7307610f06",
+    "first_seen_at": "2026-10-29T09:48:37.237598+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1771
+    ],
+    "telegram_last_success_at": "2026-10-29T09:48:37.770241+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-29T09:48:37.789964+03:30",
+    "telegram_message_id": 1771,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178878201
+    ],
+    "eitaa_last_success_at": "2026-10-29T09:48:39.433623+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-29T09:48:39.452699+03:30",
+    "eitaa_message_id": 178878201,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1511
+    ],
+    "group_last_success_at": "2026-10-29T09:48:40.246084+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-29T09:48:40.265360+03:30",
+    "group_message_id": 1511,
+    "published_at": "2026-10-29T09:48:40.284168+03:30"
   }
 }

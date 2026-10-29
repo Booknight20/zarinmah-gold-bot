@@ -17822,5 +17822,53 @@
     "group_message_id": 1507,
     "fully_published": true,
     "last_checked_at": "2026-10-29T05:48:15.243964+00:00"
+  },
+  "dbbf27805f699034bf07e377270bcbab22ff97ef3d03c4fbb5c0af9a7396e880": {
+    "title": "صنعت پسته رفسنجان در تکاپوی ارزآوری؛ مسئولان حمایت کنند",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6993303/%D8%B5%D9%86%D8%B9%D8%AA-%D9%BE%D8%B3%D8%AA%D9%87-%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%DA%A9%D8%A7%D9%BE%D9%88%DB%8C-%D8%A7%D8%B1%D8%B2%D8%A2%D9%88%D8%B1%DB%8C-%D9%85%D8%B3%D8%A6%D9%88%D9%84%D8%A7%D9%86-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%DA%A9%D9%86%D9%86%D8%AF",
+    "telegram_message_ids": [
+      1769
+    ],
+    "eitaa_message_ids": [
+      178878175
+    ],
+    "group_message_ids": [
+      1509
+    ],
+    "content_hash": "cfea476159990a772fa830808b8009cd77e8930376346056274c06fac620f533",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T06:18:28.256820+00:00",
+    "telegram_message_id": 1769,
+    "eitaa_last_sent_at": "2026-10-29T06:18:29.910942+00:00",
+    "eitaa_message_id": 178878175,
+    "group_last_sent_at": "2026-10-29T06:18:31.695194+00:00",
+    "group_message_id": 1509,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T06:18:31.724415+00:00"
+  },
+  "f899b36ed0120f69edb217aa278840636d599bd080e47b250a115c9d247bb732": {
+    "title": "پیش بینی قیمت طلا، دلار و سکه امروز پنج شنبه ۷ آبان ۱۴۰۵",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304946-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1770
+    ],
+    "eitaa_message_ids": [
+      178878189
+    ],
+    "group_message_ids": [
+      1510
+    ],
+    "content_hash": "a20cdcb59149a0053f5afdec4bda43f325aea86b83ac2080b85515e505e98879",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T06:18:33.536543+00:00",
+    "telegram_message_id": 1770,
+    "eitaa_last_sent_at": "2026-10-29T06:18:35.238517+00:00",
+    "eitaa_message_id": 178878189,
+    "group_last_sent_at": "2026-10-29T06:18:37.000088+00:00",
+    "group_message_id": 1510,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T06:18:37.028925+00:00"
   }
 }
