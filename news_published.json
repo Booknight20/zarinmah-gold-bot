@@ -18278,5 +18278,53 @@
     "group_message_id": 1531,
     "fully_published": true,
     "last_checked_at": "2026-10-29T08:48:43.310642+00:00"
+  },
+  "1fc9c220b1310d29ceac6facd29055e3ac7aa95dd1ee565c825fd2a49eec4682": {
+    "title": "تانک روس از پس اسنایدر آمریکایی برنیامد/ صعود یوشیدا به نیمه نهایی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080704494/%D8%AA%D8%A7%D9%86%DA%A9-%D8%B1%D9%88%D8%B3-%D8%A7%D8%B2-%D9%BE%D8%B3-%D8%A7%D8%B3%D9%86%D8%A7%DB%8C%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D9%86%DB%8C%D8%A7%D9%85%D8%AF-%D8%B5%D8%B9%D9%88%D8%AF-%DB%8C%D9%88%D8%B4%DB%8C%D8%AF%D8%A7-%D8%A8%D9%87-%D9%86%DB%8C%D9%85%D9%87",
+    "telegram_message_ids": [
+      1794
+    ],
+    "eitaa_message_ids": [
+      178908918
+    ],
+    "group_message_ids": [
+      1534
+    ],
+    "content_hash": "f15a99eacd3beb64f9e46e3cfd4a34846bed15ebdca5dd89ac6cf83f6ddaf2b1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T09:18:05.927332+00:00",
+    "telegram_message_id": 1794,
+    "eitaa_last_sent_at": "2026-10-29T09:18:07.520795+00:00",
+    "eitaa_message_id": 178908918,
+    "group_last_sent_at": "2026-10-29T09:18:09.256185+00:00",
+    "group_message_id": 1534,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T09:18:09.284241+00:00"
+  },
+  "72b502ba7dd0b8d1e9b3970b70e5cefe1b08f378ca6c8ebff14dca909fb45fae": {
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۷ آبان ۱۴۰۵/ دلار ۲۷۱ هزار و ۲۶۰ تومان قیمت پیدا کرد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294738/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B7%DB%B1-%D9%87%D8%B2%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1795
+    ],
+    "eitaa_message_ids": [
+      178908937
+    ],
+    "group_message_ids": [
+      1535
+    ],
+    "content_hash": "ba6b40cce4d6956dd1462d13f24c59cf507e08a083ad7568c4d5dad0c35a9d80",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T09:18:11.022883+00:00",
+    "telegram_message_id": 1795,
+    "eitaa_last_sent_at": "2026-10-29T09:18:12.509349+00:00",
+    "eitaa_message_id": 178908937,
+    "group_last_sent_at": "2026-10-29T09:18:14.365372+00:00",
+    "group_message_id": 1535,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T09:18:14.393707+00:00"
   }
 }
