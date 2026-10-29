@@ -18734,5 +18734,29 @@
     "group_message_id": 1560,
     "fully_published": true,
     "last_checked_at": "2026-10-29T13:44:50.192155+00:00"
+  },
+  "c04f0fffe9aca7220bcc874278fba4d142f0885c141fcd5de94157d44f167c5b": {
+    "title": "نسخه اقتصادی شقاقی برای دوران مقاومت؛ باید واردات و تخصیص ارز را بازنگری کرد/ الگوی اقتصاد در شرایط فعلی باید عوض شود",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294535/%D9%86%D8%B3%D8%AE%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%B4%D9%82%D8%A7%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%88%D8%B1%D8%A7%D9%86-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%88-%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%D8%A7%D8%B1%D8%B2",
+    "telegram_message_ids": [
+      1822
+    ],
+    "eitaa_message_ids": [
+      178969729
+    ],
+    "group_message_ids": [
+      1564
+    ],
+    "content_hash": "206f841d39398dc4cc54a1edc2df1ee6e197c12681f9cab3ecf937ceb6e6e159",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T15:18:00.043482+00:00",
+    "telegram_message_id": 1822,
+    "eitaa_last_sent_at": "2026-10-29T15:18:01.331802+00:00",
+    "eitaa_message_id": 178969729,
+    "group_last_sent_at": "2026-10-29T15:18:02.994308+00:00",
+    "group_message_id": 1564,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T15:18:03.022887+00:00"
   }
 }
