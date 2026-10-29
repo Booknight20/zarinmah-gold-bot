@@ -1303,65 +1303,6 @@
     "ranking_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "شاخص کل بورس رشد کرد/قدرت خرید مثبت شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304779-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF-%D9%82%D8%AF%D8%B1%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%85%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF",
-    "summary": "شاخص کل بورس در پایان معاملات با افزایش ۴۰ هزار و ۲۰۷ واحدی به سطح ۷ میلیون و ۹۶۷ هزار واحد رسید و بازدهی مثبت ۰.۵۱ درصدی را ثبت کرد.",
-    "published": "Wed, 28 Oct 2026 10:10:30 +0000",
-    "collected_at": "2026-10-28T13:47:45.435659+03:30",
-    "filter_market_score": 28,
-    "market_score": 26,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "افزایش",
-      "معاملات",
-      "بازدهی"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "مهر",
     "title": "ضرورت همکاری فولادسازان برای کاهش فشار قیمت ها بر مصرف کنندگان نهایی",
     "link": "https://www.mehrnews.com/news/6993570/%D8%B6%D8%B1%D9%88%D8%B1%D8%AA-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D9%81%D9%88%D9%84%D8%A7%D8%AF%D8%B3%D8%A7%D8%B2%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%D9%81%D8%B4%D8%A7%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%A8%D8%B1-%D9%85%D8%B5%D8%B1%D9%81-%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86",
@@ -4153,55 +4094,6 @@
     "ranking_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "انتشار صورتحساب جنگ آمریکا علیه ایران",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%86%DB%8C%D8%A7-5/4304778-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AC%D9%86%DA%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-    "summary": "دنیای اقتصاد: وزارت دفاع آمریکا هفته گذشته به کنگره اطلاع داد که هزینه جنگ آمریکا علیه ایران تا ۱۶ اکتبر (۲۴ مهر) به ۴۷.۱ میلیارد دلار رسیده و بیش از ۶۰ درصد این رقم به مصرف بمب، موشک و مهمات اختصاص یافته است.",
-    "published": "Wed, 28 Oct 2026 09:58:16 +0000",
-    "collected_at": "2026-10-28T13:47:45.435688+03:30",
-    "filter_market_score": 6,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "افشای شبکه جهانی پسران ترامپ؛ ۱۸ دیدار با مقامات خارجی و ۶۳ میلیون دلار درآمد",
     "link": "https://www.isna.ir/news/1405080604148/%D8%A7%D9%81%D8%B4%D8%A7%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%BE%D8%B3%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%DB%B1%DB%B8-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D9%88-%DB%B6%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
@@ -4341,55 +4233,6 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "دستگیری متهم ۶ هزار میلیارد تومانی در رشت",
-    "link": "https://tabnak.ir/fa/news/30008135/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%AA%D9%87%D9%85-6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%B4%D8%AA",
-    "summary": "متهم پرونده تعهدات ارزی با بیش از ۶ هزار میلیارد تومان بدهی ناشی از صادرات، در عملیات پلیس آگاهی گیلان در شهرستان رشت دستگیر شد.",
-    "published": "Wed, 28 Oct 2026 13:23:00 +0330",
-    "collected_at": "2026-10-28T13:47:52.890813+03:30",
-    "filter_market_score": 7,
-    "market_score": 12,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
