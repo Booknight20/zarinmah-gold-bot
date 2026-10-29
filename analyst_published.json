@@ -18002,5 +18002,71 @@
     "group_sent_at": "2026-10-29T19:48:36.543131+03:30",
     "group_message_id": 1571,
     "published_at": "2026-10-29T19:48:36.561925+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25847": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "نفت به ۱۱۳ دلار رسیده و تو این پنج روز اخیر ۳٪ ریزش داشته و خیلیا نمیدونن چرا؟",
+      "summary": "نفت به ۱۱۳ دلار رسیده و تو این پنج روز اخیر ۳٪ ریزش داشته و خیلیا نمیدونن چرا؟ \nیکی از علت‌هاش تصمیم اروپایی‌هاست\n کشورهای عضو اتحادیه اروپا، بر اساس تعهد گروه جی۷ ، ۴۲.۶ میلیون بشکه نفت را عرضه کردن.\n @payamelyaskordi ✅",
+      "full_text": "نفت به ۱۱۳ دلار رسیده و تو این پنج روز اخیر ۳٪ ریزش داشته و خیلیا نمیدونن چرا؟ \nیکی از علت‌هاش تصمیم اروپایی‌هاست\n کشورهای عضو اتحادیه اروپا، بر اساس تعهد گروه جی۷ ، ۴۲.۶ میلیون بشکه نفت را عرضه کردن.\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25847",
+      "analysis_score": 13,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "ریزش",
+        "عرضه"
+      ],
+      "market_groups": [
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 220,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-29T20:48:22.362500+03:30"
+    },
+    "content_signature": "ae1925a86c4592b912f4f1c3b95f4013ffc686bb5b5270f479a6aa27428cb92e",
+    "first_seen_at": "2026-10-29T20:48:24.544526+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1829
+    ],
+    "telegram_last_success_at": "2026-10-29T20:48:24.934584+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-29T20:48:24.954312+03:30",
+    "telegram_message_id": 1829,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      178984644
+    ],
+    "eitaa_last_success_at": "2026-10-29T20:48:26.086263+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-29T20:48:26.106343+03:30",
+    "eitaa_message_id": 178984644,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1573
+    ],
+    "group_last_success_at": "2026-10-29T20:48:26.530137+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-29T20:48:26.549686+03:30",
+    "group_message_id": 1573,
+    "published_at": "2026-10-29T20:48:26.568722+03:30"
   }
 }
