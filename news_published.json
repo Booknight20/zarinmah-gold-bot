@@ -18902,5 +18902,29 @@
     "group_message_id": 1578,
     "fully_published": true,
     "last_checked_at": "2026-10-29T18:48:15.692469+00:00"
+  },
+  "09b22ae7e5c5003f757fc3baa961c6e78bdb02d27c92731a779bcccf14c736ce": {
+    "title": "تربتی: صادرات آذربایجان غربی به ۳.۵ میلیارد دلار رسید",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6993954/%D8%AA%D8%B1%D8%A8%D8%AA%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%A8%D9%87-%DB%B3-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      1835
+    ],
+    "eitaa_message_ids": [
+      178997912
+    ],
+    "group_message_ids": [
+      1579
+    ],
+    "content_hash": "51aac27d47dac070a6c0c966c7bcaa9c4373956d3e21a7d7b21d6618da43034b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T19:23:51.922245+00:00",
+    "telegram_message_id": 1835,
+    "eitaa_last_sent_at": "2026-10-29T19:23:53.236666+00:00",
+    "eitaa_message_id": 178997912,
+    "group_last_sent_at": "2026-10-29T19:23:54.921080+00:00",
+    "group_message_id": 1579,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T19:23:54.938624+00:00"
   }
 }

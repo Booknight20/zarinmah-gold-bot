@@ -1549,6 +1549,46 @@
     "filter_applied": true
   },
   {
+    "source": "مهر",
+    "title": "تربتی: صادرات آذربایجان غربی به ۳.۵ میلیارد دلار رسید",
+    "link": "https://www.mehrnews.com/news/6993954/%D8%AA%D8%B1%D8%A8%D8%AA%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%A8%D9%87-%DB%B3-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "ارومیه - مدیرکل اقتصاد و دارایی آذربایجان غربی گفت: بر اساس آمار ارائه شده ارزش صادرات استان حدود ۳ میلیارد و ۵۶۷ میلیون دلار بوده است.",
+    "published": "Thu, 29 Oct 2026 19:21:32 GMT",
+    "collected_at": "2026-10-29T22:53:28.700188+03:30",
+    "filter_market_score": 14,
+    "market_score": 14,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "صادرات",
+      "آمار"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "سررسید ۱۱ میلیارد دلار اختیار معامله بیت کوین بازار را متلاطم می کند؟",
     "link": "https://www.isna.ir/news/1405080704378/%D8%B3%D8%B1%D8%B1%D8%B3%DB%8C%D8%AF-%DB%B1%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A7-%D9%85%D8%AA%D9%84%D8%A7%D8%B7%D9%85",
