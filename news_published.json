@@ -18878,5 +18878,29 @@
     "group_message_id": 1577,
     "fully_published": true,
     "last_checked_at": "2026-10-29T18:15:04.426499+00:00"
+  },
+  "2e47fa23ba6c45e04cf05af39ce88ea4ae95fdc621f3873a46ef851ed51e50c0": {
+    "title": "قیمت خودرو در بازار امروز 7 آبان",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008297/%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-7-%D8%A2%D8%A8%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1834
+    ],
+    "eitaa_message_ids": [
+      178994592
+    ],
+    "group_message_ids": [
+      1578
+    ],
+    "content_hash": "6d37fefb5367c86245aede64b978b9723a8fc8bd8684de980d3a68efbc945bee",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T18:48:12.873456+00:00",
+    "telegram_message_id": 1834,
+    "eitaa_last_sent_at": "2026-10-29T18:48:14.019722+00:00",
+    "eitaa_message_id": 178994592,
+    "group_last_sent_at": "2026-10-29T18:48:15.661733+00:00",
+    "group_message_id": 1578,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T18:48:15.692469+00:00"
   }
 }

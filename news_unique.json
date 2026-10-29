@@ -3802,6 +3802,58 @@
     "duplicate_count": 1
   },
   {
+    "source": "تابناک",
+    "title": "قیمت خودرو در بازار امروز 7 آبان",
+    "link": "https://tabnak.ir/fa/news/30008297/%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-7-%D8%A2%D8%A8%D8%A7%D9%86",
+    "summary": "قیمت خودرو امروز از سوی بنگاه های معاملاتی اعلام شد. در حالی که ثبات ارز فقط از شدت انتظارات افزایشی می کاهد، ولی لزوماً به کاهش قیمت خودرو منجر نمی شود.",
+    "published": "Thu, 29 Oct 2026 21:49:00 +0330",
+    "collected_at": "2026-10-29T22:17:47.096084+03:30",
+    "filter_market_score": 9,
+    "market_score": 14,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "افزایش",
+      "کاهش",
+      "معاملات",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "مشرق",
     "title": "تاثیر فاجعه بار نتایج انتخابات بر بورس رژیم صهیونیستی",
     "link": "https://www.mashreghnews.ir/news/1848950/%D8%AA%D8%A7%D8%AB%DB%8C%D8%B1-%D9%81%D8%A7%D8%AC%D8%B9%D9%87-%D8%A8%D8%A7%D8%B1-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C",
@@ -4088,55 +4140,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "ایسنا",
-    "title": "مشکلات صنعت زعفران از چرخه تولید تا مرحله صادرات",
-    "link": "https://www.isna.ir/news/1405080604080/%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%B5%D9%86%D8%B9%D8%AA-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%DA%86%D8%B1%D8%AE%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AA%D8%A7-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA",
-    "summary": "زعفران برای ایران، فراتر از یک محصول کشاورزی یا کالای صادراتی است؛ این گیاه ارزشمند که با فرهنگ و اقلیم سرزمین خراسان گره خورده، نمادی از سخت کوشی کشاورزانی است که سال ها میراث دار طلای سرخ بوده اند.",
-    "published": "Wed, 28 Oct 2026 12:23:12 GMT",
-    "collected_at": "2026-10-28T16:15:11.741529+03:30",
-    "filter_market_score": 8,
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
