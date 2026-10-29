@@ -1924,50 +1924,48 @@
     "duplicate_count": 1
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "بورس دوباره سبز شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304799-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%B3%D8%A8%D8%B2-%D8%B4%D8%AF",
-    "summary": "دنیای اقتصاد: معاملات بورس تهران در روز چهارشنبه، (آخرین روز معاملاتی هفته)، با تقویت تقاضا در کلیت بازار همراه شد و شاخص کل که در دقایق ابتدایی تا محدوده ۷ میلیون و ۸۵۲ هزار واحد عقب نشینی کرده بود، در ادامه وارد مسیر صعودی شد و با رشد 0.51 درصدی به سطح ۷ میلیون و ۹۶۷ هزار واحد رسید.",
-    "published": "Wed, 28 Oct 2026 12:46:48 +0000",
-    "collected_at": "2026-10-28T16:45:59.798506+03:30",
-    "filter_market_score": 18,
-    "market_score": 22,
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۷ آبان ۱۴۰۵ در زمان بسته شدن بازار/ هر مثقال طلا ۱۱۲ میلیون و ۹۸۰ هزار تومان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2294928/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
+    "summary": "قیمت طلا در بازار تهران امروز ۷ آبان ۱۴۰۵ اعلام و هر مثقال طلا ۱۱۲ میلیون و ۹۸۰ هزار تومان شد.",
+    "published": "Thu, 29 Oct 2026 20:02:37 GMT",
+    "collected_at": "2026-10-29T23:47:28.337894+03:30",
+    "filter_market_score": 17,
+    "market_score": 23,
     "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
+      "gold": [
+        "طلا",
+        "مثقال طلا"
       ]
     },
     "title_market_matches": {
-      "stock": [
-        "بورس"
+      "gold": [
+        "طلا",
+        "مثقال طلا"
       ]
     },
     "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
+      "gold": [
+        "طلا",
+        "مثقال طلا"
       ]
     },
     "full_text_market_matches": {},
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "رشد",
-      "صعود",
-      "معاملات",
-      "تقاضا"
+      "قیمت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "high",
     "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
+    "gold_matches": [
+      "طلا",
+      "مثقال طلا"
     ],
+    "currency_matches": [],
+    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
@@ -2612,62 +2610,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "مهر",
-    "title": "توقف واردات خودرو از محل ارز بودجه ۱۴۰۴ ابلاغ شد",
-    "link": "https://www.mehrnews.com/news/6992882/%D8%AA%D9%88%D9%82%D9%81-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A7%D8%B2-%D9%85%D8%AD%D9%84-%D8%A7%D8%B1%D8%B2-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%DB%B1%DB%B4%DB%B0%DB%B4-%D8%A7%D8%A8%D9%84%D8%A7%D8%BA-%D8%B4%D8%AF",
-    "summary": "سازمان توسعه تجارت ایران، بخشنامه مربوط به توقف روند ثبت سفارش و ویرایش ثبت سفارش های واردات خودرو از محل «بند (ر) تبصره ۱ قانون بودجه سال ۱۴۰۴» را ابلاغ کرد.",
-    "published": "Wed, 28 Oct 2026 12:54:56 GMT",
-    "collected_at": "2026-10-28T16:45:50.348549+03:30",
-    "filter_market_score": 13,
-    "market_score": 18,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بودجه",
-      "واردات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "ابلاغ",
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "بودجه",
-      "واردات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "ایسنا",
     "title": "آنچه که در جلسه شورای گفت وگوی دولت و بخش خصوصی خراسان رضوی گذشت",
     "link": "https://www.isna.ir/news/1405080704622/%D8%A2%D9%86%DA%86%D9%87-%DA%A9%D9%87-%D8%AF%D8%B1-%D8%AC%D9%84%D8%B3%D9%87-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%DA%AF%D9%81%D8%AA-%D9%88%DA%AF%D9%88%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D9%88-%D8%A8%D8%AE%D8%B4-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%DA%AF%D8%B0%D8%B4%D8%AA",
@@ -2826,59 +2768,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "ایسنا",
-    "title": "منظرۀ میلیون دلاری",
-    "link": "https://www.isna.ir/news/1405080604125/%D9%85%D9%86%D8%B8%D8%B1%DB%80-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
-    "summary": "یک نقاشی منظره از «کلیمت» که زمانی در حراجی تاریخ ساز شد، در حالی دوباره در بازار هنر ظاهر می شود که انتظار می رود ۸۰ میلیون دلار به فروش برسد!",
-    "published": "Wed, 28 Oct 2026 13:33:51 GMT",
-    "collected_at": "2026-10-28T17:14:21.962310+03:30",
-    "filter_market_score": 11,
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "حراج"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"

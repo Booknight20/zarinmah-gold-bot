@@ -18950,5 +18950,29 @@
     "group_message_id": 1580,
     "fully_published": true,
     "last_checked_at": "2026-10-29T19:48:19.144575+00:00"
+  },
+  "64de6f4331f861bdd6c8ea200b2e50eef0279cb9bcde758e2ef1807839401e4b": {
+    "title": "قیمت طلا امروز ۷ آبان ۱۴۰۵ در زمان بسته شدن بازار/ هر مثقال طلا ۱۱۲ میلیون و ۹۸۰ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294928/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1837
+    ],
+    "eitaa_message_ids": [
+      179003638
+    ],
+    "group_message_ids": [
+      1581
+    ],
+    "content_hash": "820cb53a4800a20c5ba337f0c1184cbb389104a533f3eea9a44924a2995774ff",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T20:17:57.266384+00:00",
+    "telegram_message_id": 1837,
+    "eitaa_last_sent_at": "2026-10-29T20:17:58.472985+00:00",
+    "eitaa_message_id": 179003638,
+    "group_last_sent_at": "2026-10-29T20:18:00.134157+00:00",
+    "group_message_id": 1581,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T20:18:00.162712+00:00"
   }
 }
