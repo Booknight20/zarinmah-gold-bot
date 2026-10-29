@@ -18926,5 +18926,29 @@
     "group_message_id": 1579,
     "fully_published": true,
     "last_checked_at": "2026-10-29T19:23:54.938624+00:00"
+  },
+  "e8b22f3cad588ad5688dad0948af962cf3b178eae36fab772dcbb7e73bf0b8ba": {
+    "title": "ممکان: رفع تعهدات ارزی مانع بزرگ تولید، صادرات و واردات در کشور است",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6993962/%D8%B1%D8%AD%D9%85%D8%A7%D9%86%DB%8C-%D8%B1%D9%81%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%85%D8%A7%D9%86%D8%B9-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AF%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1",
+    "telegram_message_ids": [
+      1836
+    ],
+    "eitaa_message_ids": [
+      179000714
+    ],
+    "group_message_ids": [
+      1580
+    ],
+    "content_hash": "52f15ae0c4c2d0de410c588cb329354f58f6167fb06755f8078365b5c92d93e4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T19:48:15.724748+00:00",
+    "telegram_message_id": 1836,
+    "eitaa_last_sent_at": "2026-10-29T19:48:17.357118+00:00",
+    "eitaa_message_id": 179000714,
+    "group_last_sent_at": "2026-10-29T19:48:19.114051+00:00",
+    "group_message_id": 1580,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T19:48:19.144575+00:00"
   }
 }
