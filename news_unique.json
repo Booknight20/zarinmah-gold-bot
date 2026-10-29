@@ -251,6 +251,76 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "ندری: مداخله ارزی بانک مرکزی جلوی جهش دلار را گرفت، اما تداوم آن قطعی نیست/نمی توان از تثبیت نرخ ارز مطمئن بود",
+    "link": "https://www.khabaronline.ir/news/2292589/%D9%86%D8%AF%D8%B1%DB%8C-%D9%85%D8%AF%D8%A7%D8%AE%D9%84%D9%87-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AC%D9%84%D9%88%DB%8C-%D8%AC%D9%87%D8%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA-%D8%A7%D9%85%D8%A7-%D8%AA%D8%AF%D8%A7%D9%88%D9%85",
+    "summary": "کارشناس حوزه پولی و بانکی، با اشاره به توقف روند صعودی دلار پس از مداخله بانک مرکزی می گوید تزریق ارز دست کم در کوتاه مدت بر کنترل قیمت ها اثر گذاشته است؛ با این حال، به دلیل نامشخص بودن میزان ذخایر ارزی و تداوم نااطمینانی های سیاسی و اقتصادی، نمی توان از پایداری این وضعیت اطمینان داشت.",
+    "published": "Thu, 29 Oct 2026 17:31:00 GMT",
+    "collected_at": "2026-10-29T21:14:30.012189+03:30",
+    "filter_market_score": 31,
+    "market_score": 36,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی",
+      "ذخایر ارزی"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "جهش",
+      "نرخ",
+      "صعود",
+      "قیمت",
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی",
+      "ذخایر ارزی"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "کاهش قیمت طلا ماندگار شد؛ اونس طلا در معاملات آتی ۴ هزار و ۴۹ دلار قیمت خورد/ قیمت طلا در بازار جهانی امروز ۷ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2294682/%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%B4%D8%AF-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B4%DB%B9",
     "summary": "کاهش قیمت طلا ماندگار شد و قیمت هر اونس طلا در بازار معاملات آتی آمریکا در سطح ۴۰۴۹ دلار معامله شد.",
@@ -1976,62 +2046,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "مهر",
-    "title": "تعداد سهام داران فعال بورس به مرز ۲.۲ میلیون کد رسید",
-    "link": "https://www.mehrnews.com/news/6992798/%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D9%81%D8%B9%D8%A7%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D9%85%D8%B1%D8%B2-%DB%B2-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DA%A9%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "تعداد سهام داران فعال بازار سهام، اعم از حقیقی و حقوقی در مهر ماه امسال ۲،۱۷۶،۴۴۴ نفر بود.",
-    "published": "Wed, 28 Oct 2026 11:47:59 GMT",
-    "collected_at": "2026-10-28T15:47:36.844764+03:30",
-    "filter_market_score": 17,
-    "market_score": 22,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "سهام",
-        "بازار سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "سهام"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "سهام",
-        "بازار سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "سهام",
-      "بازار سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت سکه امروز ۶ آبان ۱۴۰۵ در زمان بسته شدن بازار/ سکه امامی ۲۶۸ میلیون و ۲۰۰ هزار تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2294575/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B6-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C",
@@ -2988,6 +3002,56 @@
   },
   {
     "source": "مهر",
+    "title": "تاج: به اینفانتینو گفتم عدالت می خواهیم؛ ۲۰ میلیون دلار طلب داریم",
+    "link": "https://www.mehrnews.com/news/6993897/%D8%AA%D8%A7%D8%AC-%D8%A8%D9%87-%D8%A7%DB%8C%D9%86%D9%81%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D9%88-%DA%AF%D9%81%D8%AA%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D9%85%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%DB%B2%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A8-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85",
+    "summary": "رئیس فدراسیون فوتبال گفت: از فیفا که ۲۰ مسلمون دلار پول بلوکه شده داریم انتظار داریم عدالت را رعایت کند.",
+    "published": "Thu, 29 Oct 2026 17:35:42 GMT",
+    "collected_at": "2026-10-29T21:14:24.582731+03:30",
+    "filter_market_score": 10,
+    "market_score": 16,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "مهر",
     "title": "با کسب ۸ مدال طلا، نقره و برنز؛ تیم ملی جودو ایران قهرمان کاپ آسیا شد",
     "link": "https://www.mehrnews.com/news/6993857/%D8%A8%D8%A7-%DA%A9%D8%B3%D8%A8-%DB%B8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D9%88-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%AC%D9%88%D8%AF%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D9%BE",
     "summary": "تیم ملی جودو ایران در مجموع زنان و مردان با کسب ۸ مدال طلا، نقره و برنز عنوان قهرمانی کاپ آسیا را به خود اختصاص داد و روی سکوی نخست ایستاد.",
@@ -3372,56 +3436,6 @@
       "طلا"
     ],
     "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "۵ هزار دلار صرفه جویی با اعزام نخستین محموله ریلی قم به چین",
-    "link": "https://www.mehrnews.com/news/6992816/%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%D8%A8%D8%A7-%D8%A7%D8%B9%D8%B2%D8%A7%D9%85-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D9%85%D8%AD%D9%85%D9%88%D9%84%D9%87-%D8%B1%DB%8C%D9%84%DB%8C-%D9%82%D9%85-%D8%A8%D9%87-%DA%86%DB%8C%D9%86",
-    "summary": "قم- نماینده مردم قم در مجلس شورای اسلامی از صرفه جویی ۵ هزار دلاری در حمل ۵۰ کانتینر قیر با اعزام نخستین محموله ریلی مستقیم قم به چین خبر داد.",
-    "published": "Wed, 28 Oct 2026 12:00:35 GMT",
-    "collected_at": "2026-10-28T15:47:36.844601+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],

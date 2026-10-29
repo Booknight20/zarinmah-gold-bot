@@ -18806,5 +18806,53 @@
     "group_message_id": 1570,
     "fully_published": true,
     "last_checked_at": "2026-10-29T16:18:33.386276+00:00"
+  },
+  "934935b2a76d82101e02d08055ab8e7210e0690d823c76c10bbc707232efe005": {
+    "title": "تاج: به اینفانتینو گفتم عدالت می خواهیم؛ ۲۰ میلیون دلار طلب داریم",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6993897/%D8%AA%D8%A7%D8%AC-%D8%A8%D9%87-%D8%A7%DB%8C%D9%86%D9%81%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D9%88-%DA%AF%D9%81%D8%AA%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D9%85%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%DB%B2%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A8-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85",
+    "telegram_message_ids": [
+      1830
+    ],
+    "eitaa_message_ids": [
+      178987780
+    ],
+    "group_message_ids": [
+      1574
+    ],
+    "content_hash": "adde2556fcd408150cad9a73050f9a8e1ab558f12fb620e336b30c173af258b3",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T17:44:51.557746+00:00",
+    "telegram_message_id": 1830,
+    "eitaa_last_sent_at": "2026-10-29T17:44:52.940995+00:00",
+    "eitaa_message_id": 178987780,
+    "group_last_sent_at": "2026-10-29T17:44:54.618343+00:00",
+    "group_message_id": 1574,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T17:44:54.635197+00:00"
+  },
+  "b934835a57994ca18eab7da47d851be744f518c19940547dc50353ac1c09b13f": {
+    "title": "ندری: مداخله ارزی بانک مرکزی جلوی جهش دلار را گرفت، اما تداوم آن قطعی نیست/نمی توان از تثبیت نرخ ارز مطمئن بود",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2292589/%D9%86%D8%AF%D8%B1%DB%8C-%D9%85%D8%AF%D8%A7%D8%AE%D9%84%D9%87-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AC%D9%84%D9%88%DB%8C-%D8%AC%D9%87%D8%B4-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA-%D8%A7%D9%85%D8%A7-%D8%AA%D8%AF%D8%A7%D9%88%D9%85",
+    "telegram_message_ids": [
+      1831
+    ],
+    "eitaa_message_ids": [
+      178987789
+    ],
+    "group_message_ids": [
+      1575
+    ],
+    "content_hash": "25334f4518d6a654bdc81f4491408eb96336c22610591a23d2378749dd6f3cdd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T17:44:56.296819+00:00",
+    "telegram_message_id": 1831,
+    "eitaa_last_sent_at": "2026-10-29T17:44:57.622487+00:00",
+    "eitaa_message_id": 178987789,
+    "group_last_sent_at": "2026-10-29T17:44:59.267533+00:00",
+    "group_message_id": 1575,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T17:44:59.284391+00:00"
   }
 }
