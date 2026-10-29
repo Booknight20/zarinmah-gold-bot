@@ -148,65 +148,105 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "پیش بینی قیمت طلا، سکه و دلار امروز چهارشنبه ۶ آبان ۱۴۰۵/ ریزش نرخ دلار ادامه دارد؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304759-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%86%D8%B1%D8%AE-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
-    "summary": "تحلیلگران معتقدند استمرار عرضه ارز از سوی بازارساز، کاهش تقاضای سفته بازانه و عقب نشینی دلار فردایی هرات تا محدوده ۲۶۶ هزار و ۳۰۰ تومان، می تواند انتظارات کاهشی را در ابتدای معاملات چهارشنبه تقویت کند.",
-    "published": "Wed, 28 Oct 2026 07:09:11 +0000",
-    "collected_at": "2026-10-28T10:46:27.886135+03:30",
+    "source": "خبرآنلاین اقتصادی",
+    "title": "گزارش بازار سرمایه امروز ۶ آبان ۱۴۰۵ / شاخص کل بورس با رشد ۴۰ هزار واحدی به کانال ۷.۹ میلیون واحد رسید",
+    "link": "https://www.khabaronline.ir/live/2294221/%D8%A7%D9%81%D8%AA-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B1%DB%B4%DB%B2-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B6-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "summary": "شاخص کل بورس در پایان معاملات ۶ آبان ۱۴۰۵ با رشد ۴۰ هزار و ۲۰۷ واحدی به ۷ میلیون و ۹۶۷ هزار واحد رسید؛ شاخص هم وزن نیز ۶ هزار و ۹۹۸ واحد افزایش یافت و تعداد صف های خرید با ثبت ۲۹۹ مورد از صف های فروش پیشی گرفت.",
+    "published": "Wed, 28 Oct 2026 11:15:00 GMT",
+    "collected_at": "2026-10-29T12:17:55.660952+03:30",
+    "filter_market_score": 36,
+    "market_score": 36,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "شاخص کل بورس",
+        "شاخص هم وزن"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "شاخص کل بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "شاخص کل بورس"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "شاخص کل بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد",
+      "گزارش",
+      "افزایش",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا ظهر امروز ۷ آبان ۱۴۰۵/ هر گرم طلای ۱۸عیار ۲۶ میلیون و ۲۱۰ هزار تومان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2294722/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "summary": "قیمت طلا در بازار تهران امروز ۷ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۶ میلیون و ۲۱۰ هزار تومان شد.",
+    "published": "Thu, 29 Oct 2026 08:40:00 GMT",
+    "collected_at": "2026-10-29T12:17:55.660552+03:30",
     "filter_market_score": 33,
     "market_score": 33,
     "market_matches": {
       "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار",
-        "نرخ دلار",
-        "ارز"
+        "طلا",
+        "گرم طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
       ]
     },
     "title_market_matches": {
       "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار",
-        "نرخ دلار"
+        "طلا",
+        "گرم طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
       ]
     },
     "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
+      "gold": [
+        "طلا",
+        "گرم طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
       ]
     },
     "full_text_market_matches": {
       "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار",
-        "نرخ دلار",
-        "ارز"
+        "طلا",
+        "گرم طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
       ]
     },
-    "driver_matches": [
-      "عرضه ارز"
-    ],
+    "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "ریزش",
-      "پیش‌بینی",
-      "پیش بینی",
       "قیمت",
-      "نرخ",
-      "کاهش",
-      "معاملات",
-      "عرضه",
-      "تقاضا",
-      "عقب‌نشینی",
-      "عقب نشینی"
+      "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2196,6 +2236,44 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "فروش دسترسی سریع تر به پست های ترامپ؛ معامله گران تا ۱۰۰ هزار دلار در ماه می پردازند",
+    "link": "https://www.khabaronline.ir/news/2294728/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AA%D8%B1-%D8%A8%D9%87-%D9%BE%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%DA%AF%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%DB%B1%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1",
+    "summary": "گزارش منتشر شده در خبرگزاری رویترز نشان می دهد که شرکت رسانه ای ترامپ (Trump Media)، مالک شبکه اجتماعی تروث سوشال (Truth Social)، سرویس پولی ویژه ای برای دسترسی سریع تر به پست های دونالد ترامپ ارائه کرده است؛ سرویسی که بنا بر این گزارش، توجه شرکت های بزرگ فعال در بازارهای مالی را به خود جلب کرده است.هزینه دسترسی به این خدمات، بسته به قرارداد، ماهانه بین ۶۰ هزار تا ۱۰۰ هزار دلار اعلام شده است.",
+    "published": "Thu, 29 Oct 2026 08:45:00 GMT",
+    "collected_at": "2026-10-29T12:17:55.660525+03:30",
+    "filter_market_score": 12,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "معامله",
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت سکه امروز ۷ آبان ۱۴۰۵ در زمان بازگشایی بازار/ ربع سکه ۷۵ میلیون و ۵۰۰ هزار تومان قیمت خورد + جدول",
     "link": "https://www.khabaronline.ir/news/2294616/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%DB%B7%DB%B5",
     "summary": "قیمت سکه در بازار تهران امروز ۷ آبان ۱۴۰۵ اعلام شد و ربع سکه ۷۵ میلیون و ۵۰۰ هزار تومان قیمت خورد.",
@@ -2453,80 +2531,6 @@
     "major_event_matches": [],
     "signal_matches": [
       "تولید"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "کروس: توپ طلا باید به کواراتسخلیا می رسید",
-    "link": "https://www.isna.ir/news/1405080603754/%DA%A9%D8%B1%D9%88%D8%B3-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D9%87-%DA%A9%D9%88%D8%A7%D8%B1%D8%A7%D8%AA%D8%B3%D8%AE%D9%84%DB%8C%D8%A7-%D9%85%DB%8C-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "ستاره سابق رئال مادرید و تیم ملی آلمان، در پادکست خود گفت اگر تصمیم با او بود، توپ طلای ۲۰۲۶ را به خویچا کواراتسخلیا می داد.",
-    "published": "Wed, 28 Oct 2026 07:39:27 GMT",
-    "collected_at": "2026-10-28T11:17:29.311057+03:30",
-    "filter_market_score": 11,
-    "market_score": 11,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "تصمیم"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "کرایه حمل کالا از ترکیه به ایران به ۷ هزار دلار رسید",
-    "link": "https://www.mehrnews.com/news/6991486/%DA%A9%D8%B1%D8%A7%DB%8C%D9%87-%D8%AD%D9%85%D9%84-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "یک مقام صنفی گفت: کرایه حمل کالا از ترکیه به ایران در برخی موارد به دلیل کمبود ناوگان و افزایش ترافیک به ۷ هزار دلار رسیده، کامیون ها در مرزهای تجاری کشور، تا ۱۵ روز متوقف و معطل هستند.",
-    "published": "Wed, 28 Oct 2026 07:02:01 GMT",
-    "collected_at": "2026-10-28T10:46:17.335557+03:30",
-    "filter_market_score": 11,
-    "market_score": 11,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3170,41 +3174,6 @@
     "filter_applied": true
   },
   {
-    "source": "مهر",
-    "title": "آثار نوسانات ارزی و تحریم ها در ارائه خدمات آزمایشگاهی",
-    "link": "https://www.mehrnews.com/news/6992245/%D8%A2%D8%AB%D8%A7%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A7%D8%B1%D8%A7%D8%A6%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87%DB%8C",
-    "summary": "دبیر انجمن علمی آسیب شناسی ایران، نسبت به تبعات افزایش هزینه تجهیزات و ملزومات مصرفی آزمایشگاهی، تأخیر بیمه ها در پرداخت مطالبات و عدم همخوانی تعرفه ها با هزینه ها هشدار داد.",
-    "published": "Wed, 28 Oct 2026 06:54:42 GMT",
-    "collected_at": "2026-10-28T10:46:17.335673+03:30",
-    "filter_market_score": 9,
-    "market_score": 9,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "تحریم"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "حباب هوش مصنوعی در آستانه ترکیدن است؟",
     "link": "https://www.isna.ir/news/1405080704396/%D8%AD%D8%A8%D8%A7%D8%A8-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA",
@@ -3472,6 +3441,37 @@
       "currency": [
         "دلار",
         "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "«دیپلم دلاری» در بن بست ارزشیابی",
+    "link": "https://www.isna.ir/news/1405080704347/%D8%AF%DB%8C%D9%BE%D9%84%D9%85-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%86-%D8%A8%D8%B3%D8%AA-%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C",
+    "summary": "«زبان انگلیسی پسرم خیلی خوب است و ما فکر می کردیم سیستم آموزشی مدارس خودمان برای ایده پردازی و مهارت آموزی او کافی نیست. لذا با هزینه سنگین، او را وارد این دوره های آنلاین کردیم تا با استانداردهای جهانی درس بخواند. مدیران این پلتفرم ها طوری تبلیغ می کنند که آدم فکر می کند فرزندی بی نقص برای بازار کار جهانی تربیت می کند. اما هیچ کس به ما نگفت که این مسیر از نظر قوانین داخلی یک بن بست کامل است.",
+    "published": "Thu, 29 Oct 2026 08:30:00 GMT",
+    "collected_at": "2026-10-29T12:17:28.888209+03:30",
+    "filter_market_score": 6,
+    "market_score": 6,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
       ]
     },
     "driver_matches": [],

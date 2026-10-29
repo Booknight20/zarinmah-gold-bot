@@ -18182,5 +18182,101 @@
     "group_message_id": 1527,
     "fully_published": true,
     "last_checked_at": "2026-10-29T08:18:43.978110+00:00"
+  },
+  "a2de92e69e2693920d83614e5ea170adb43fe9d3f90d4932a9e2c17710286d9d": {
+    "title": "«دیپلم دلاری» در بن بست ارزشیابی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080704347/%D8%AF%DB%8C%D9%BE%D9%84%D9%85-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%86-%D8%A8%D8%B3%D8%AA-%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C",
+    "telegram_message_ids": [
+      1788
+    ],
+    "eitaa_message_ids": [
+      178904129
+    ],
+    "group_message_ids": [
+      1528
+    ],
+    "content_hash": "7cb11eca07eaa25042bbae7d779cee43fd310a9662a954ebfb9ae5ec170a9dfe",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T08:48:26.616359+00:00",
+    "telegram_message_id": 1788,
+    "eitaa_last_sent_at": "2026-10-29T08:48:27.784587+00:00",
+    "eitaa_message_id": 178904129,
+    "group_last_sent_at": "2026-10-29T08:48:30.514245+00:00",
+    "group_message_id": 1528,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T08:48:30.543463+00:00"
+  },
+  "7c53a5f24f94510f5a6815109d3c8c09da9402edcd7da9eaab1d3468e470f143": {
+    "title": "فروش دسترسی سریع تر به پست های ترامپ؛ معامله گران تا ۱۰۰ هزار دلار در ماه می پردازند",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294728/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AA%D8%B1-%D8%A8%D9%87-%D9%BE%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%DA%AF%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%DB%B1%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1789
+    ],
+    "eitaa_message_ids": [
+      178904156
+    ],
+    "group_message_ids": [
+      1529
+    ],
+    "content_hash": "454f6752002dde9d5fccae64fee1e58fb57190359d979e21b4c29001851ed13e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T08:48:32.171014+00:00",
+    "telegram_message_id": 1789,
+    "eitaa_last_sent_at": "2026-10-29T08:48:32.975493+00:00",
+    "eitaa_message_id": 178904156,
+    "group_last_sent_at": "2026-10-29T08:48:34.578578+00:00",
+    "group_message_id": 1529,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T08:48:34.607828+00:00"
+  },
+  "d7c4ffce7f2944e6766ff62e6b6982914bdf478ea00c7820de02321e3bec7e31": {
+    "title": "قیمت طلا ظهر امروز ۷ آبان ۱۴۰۵/ هر گرم طلای ۱۸عیار ۲۶ میلیون و ۲۱۰ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294722/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "telegram_message_ids": [
+      1790
+    ],
+    "eitaa_message_ids": [
+      178904167
+    ],
+    "group_message_ids": [
+      1530
+    ],
+    "content_hash": "4e393c3f698ce67cad122272ef2fc6a9479efb14d236fa21af73471933e557e5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T08:48:36.221544+00:00",
+    "telegram_message_id": 1790,
+    "eitaa_last_sent_at": "2026-10-29T08:48:37.428005+00:00",
+    "eitaa_message_id": 178904167,
+    "group_last_sent_at": "2026-10-29T08:48:39.026763+00:00",
+    "group_message_id": 1530,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T08:48:39.055965+00:00"
+  },
+  "69a5ee07392fd66bb79c8dbfa20a0efaa6876f86b4b4b41f684bfae62c5b0915:rev:eb6b98bca57d7675": {
+    "title": "گزارش بازار سرمایه امروز ۶ آبان ۱۴۰۵ / شاخص کل بورس با رشد ۴۰ هزار واحدی به کانال ۷.۹ میلیون واحد رسید",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/live/2294221/%D8%A7%D9%81%D8%AA-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B1%DB%B4%DB%B2-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B6-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "telegram_message_ids": [
+      1791
+    ],
+    "eitaa_message_ids": [
+      178904197
+    ],
+    "group_message_ids": [
+      1531
+    ],
+    "content_hash": "eb6b98bca57d7675ed36acc027e33f970e76374a8773ced31eea715520177b6a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-29T08:48:40.695160+00:00",
+    "telegram_message_id": 1791,
+    "eitaa_last_sent_at": "2026-10-29T08:48:41.650675+00:00",
+    "eitaa_message_id": 178904197,
+    "group_last_sent_at": "2026-10-29T08:48:43.281251+00:00",
+    "group_message_id": 1531,
+    "fully_published": true,
+    "last_checked_at": "2026-10-29T08:48:43.310642+00:00"
   }
 }
