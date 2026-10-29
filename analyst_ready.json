@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "analyst": "علیرضا محرابی",
+    "title": "این ریزش ارز های دیجیتال و بیت کوین با خبر هک صرافی بایننس ایجاد شد.",
+    "summary": "این ریزش ارز های دیجیتال و بیت کوین با خبر هک صرافی بایننس ایجاد شد. \nالبته هنوز صرافی اعلام رسمی نکرده و خبری تایید نشده\n\n @AlirezaMehrabi_ir",
+    "full_text": "این ریزش ارز های دیجیتال و بیت کوین با خبر هک صرافی بایننس ایجاد شد. \nالبته هنوز صرافی اعلام رسمی نکرده و خبری تایید نشده\n\n @AlirezaMehrabi_ir",
+    "source": "علیرضا محرابی",
+    "link": "https://t.me/AlirezaMehrabi_ir/8779",
+    "analysis_score": 8,
+    "market_matches": [
+      "ارز",
+      "بیت کوین",
+      "بیت‌کوین"
+    ],
+    "analysis_matches": [
+      "ریزش"
+    ],
+    "market_groups": [
+      "currency"
+    ],
+    "analysis_reasons": [
+      "ارتباط با بازار",
+      "دارای نشانه‌های تحلیل"
+    ],
+    "priority": "medium",
+    "content_length": 142,
+    "content_complete_from_source": true,
+    "collected_at": "2026-10-30T00:47:23.306363+03:30"
+  }
+]
