@@ -19406,5 +19406,29 @@
     "group_message_id": 1600,
     "fully_published": true,
     "last_checked_at": "2026-10-30T07:48:45.075157+00:00"
+  },
+  "062c7c77981d0c5d5c004fe63651373e7246690d920751297e1974f862a16914": {
+    "title": "ممنوعیت معاملات دلاری در بازار داخلی",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6991596/%D9%85%D9%85%D9%86%D9%88%D8%B9%DB%8C%D8%AA-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C",
+    "telegram_message_ids": [
+      1858
+    ],
+    "eitaa_message_ids": [
+      179055074
+    ],
+    "group_message_ids": [
+      1602
+    ],
+    "content_hash": "5aa99406467174c73e850e8a8e662e8443b18dbfc5926382e6489dfaf7768705",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T08:18:14.426799+00:00",
+    "telegram_message_id": 1858,
+    "eitaa_last_sent_at": "2026-10-30T08:18:16.079140+00:00",
+    "eitaa_message_id": 179055074,
+    "group_last_sent_at": "2026-10-30T08:18:17.865268+00:00",
+    "group_message_id": 1602,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T08:18:17.896319+00:00"
   }
 }
