@@ -18744,5 +18744,68 @@
     "group_sent_at": "2026-10-30T21:17:05.510653+03:30",
     "group_message_id": 1649,
     "published_at": "2026-10-30T21:17:05.528071+03:30"
+  },
+  "https://t.me/drarashamini/7297": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "ترامپ درباره ایران: مذاکراتی در حال انجام است",
+      "summary": "ترامپ درباره ایران: مذاکراتی در حال انجام است\n\nپ.ن: چقدر سناریو شبیه دفعه پیش هست که نیرو می اوردن ومیگفتن داریم مذاکره میکنیم.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "ترامپ درباره ایران: مذاکراتی در حال انجام است\n\nپ.ن: چقدر سناریو شبیه دفعه پیش هست که نیرو می اوردن ومیگفتن داریم مذاکره میکنیم.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7297",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "سناریو"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای استدلال"
+      ],
+      "priority": "medium",
+      "content_length": 252,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-30T23:48:01.248181+03:30"
+    },
+    "content_signature": "4a027f2a66aed74a32f3ee819068619e7da9a869ed56d09ed993671a944d6ee6",
+    "first_seen_at": "2026-10-30T23:48:11.843051+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1910
+    ],
+    "telegram_last_success_at": "2026-10-30T23:48:12.216973+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-30T23:48:12.237675+03:30",
+    "telegram_message_id": 1910,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179143939
+    ],
+    "eitaa_last_success_at": "2026-10-30T23:48:13.381690+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-30T23:48:13.402881+03:30",
+    "eitaa_message_id": 179143939,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1654
+    ],
+    "group_last_success_at": "2026-10-30T23:48:13.979877+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-30T23:48:13.999890+03:30",
+    "group_message_id": 1654,
+    "published_at": "2026-10-30T23:48:14.019703+03:30"
   }
 }

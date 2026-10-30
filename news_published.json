@@ -20318,5 +20318,53 @@
     "group_message_id": 1651,
     "fully_published": true,
     "last_checked_at": "2026-10-30T19:48:00.705840+00:00"
+  },
+  "d708a884b3f1951d6bd7049e85ff2ed060d24a0d4b565fcba4c6d6cc0051fe67": {
+    "title": "سارق ۵۰ گرم طلا در آزادشهر پیش از فروش اموال مسروقه دستگیر شد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6994660/%D8%B3%D8%A7%D8%B1%D9%82-%DB%B5%DB%B0-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D9%85%D9%88%D8%A7%D9%84-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D9%87-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1908
+    ],
+    "eitaa_message_ids": [
+      179143919
+    ],
+    "group_message_ids": [
+      1652
+    ],
+    "content_hash": "a844bdaee380591bf392a7434a9593927c58e19f5f6670245f6e4db4b2865eb4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T20:18:04.439976+00:00",
+    "telegram_message_id": 1908,
+    "eitaa_last_sent_at": "2026-10-30T20:18:05.591996+00:00",
+    "eitaa_message_id": 179143919,
+    "group_last_sent_at": "2026-10-30T20:18:07.234613+00:00",
+    "group_message_id": 1652,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T20:18:07.267960+00:00"
+  },
+  "3701a161a10c1f58f2700f00889e850e749a2c84926ef7c3152f9dd3a82dd531": {
+    "title": "سقوط ۳.۴ درصدی شاخص نزدک آمریکا در پی افت سهام آمازون و اینتل / نگرانی از هزینه های سنگین هوش مصنوعی بازار سهام را قرمز کرد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295260/%D8%B3%D9%82%D9%88%D8%B7-%DB%B3-%DB%B4-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%86%D8%B2%D8%AF%DA%A9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%A7%D9%81%D8%AA-%D8%B3%D9%87%D8%A7%D9%85-%D8%A2%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D9%88-%D8%A7%DB%8C%D9%86%D8%AA%D9%84",
+    "telegram_message_ids": [
+      1909
+    ],
+    "eitaa_message_ids": [
+      179143935
+    ],
+    "group_message_ids": [
+      1653
+    ],
+    "content_hash": "74a46afd02f632f4a2b594c08bab066f2f247ba8b2d23a2d6df25029e6caa7c0",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T20:18:08.880789+00:00",
+    "telegram_message_id": 1909,
+    "eitaa_last_sent_at": "2026-10-30T20:18:10.003386+00:00",
+    "eitaa_message_id": 179143935,
+    "group_last_sent_at": "2026-10-30T20:18:11.598459+00:00",
+    "group_message_id": 1653,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T20:18:11.631212+00:00"
   }
 }
