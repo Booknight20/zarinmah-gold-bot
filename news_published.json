@@ -19478,5 +19478,29 @@
     "group_message_id": 1604,
     "fully_published": true,
     "last_checked_at": "2026-10-30T09:18:23.440048+00:00"
+  },
+  "f589b33762c9700a79b07da10665329e44f08098659189753654c2eb5bd32df3": {
+    "title": "قیمت اونس طلا در معاملات آتی ۴۰۱۰ دلار شد/ قیمت جدید طلای جهانی امروز ۸ آبان ۱۴۰۵",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295050/%D9%82%DB%8C%D9%85%D8%AA-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B4%DB%B0%DB%B1%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+    "telegram_message_ids": [
+      1866
+    ],
+    "eitaa_message_ids": [
+      179065350
+    ],
+    "group_message_ids": [
+      1610
+    ],
+    "content_hash": "5526c89fcad9e0979fc4ec4d4f470aa84b679e08195baa5d1bc5f33732e3385a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T09:38:17.451544+00:00",
+    "telegram_message_id": 1866,
+    "eitaa_last_sent_at": "2026-10-30T09:38:18.851456+00:00",
+    "eitaa_message_id": 179065350,
+    "group_last_sent_at": "2026-10-30T09:38:20.498945+00:00",
+    "group_message_id": 1610,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T09:38:20.530409+00:00"
   }
 }
