@@ -20270,5 +20270,29 @@
     "group_message_id": 1648,
     "fully_published": true,
     "last_checked_at": "2026-10-30T17:16:23.464096+00:00"
+  },
+  "f84a596cb81e9fc52b3a699143cd6a7f7c1f673518a4bc9e4469fe7a26b8609c": {
+    "title": "پیش بینی بورس شنبه ۹ آبان ۱۴۰۴ / عبور شاخص کل از مرز ۸ میلیون واحد به ورود پول حقیقی وابسته است",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295255/%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B4%D9%86%D8%A8%D9%87-%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B4-%D8%B9%D8%A8%D9%88%D8%B1-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A7%D8%B2-%D9%85%D8%B1%D8%B2-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "telegram_message_ids": [
+      1906
+    ],
+    "eitaa_message_ids": [
+      179133032
+    ],
+    "group_message_ids": [
+      1650
+    ],
+    "content_hash": "eb8a84f3e02773fadf2f6f657ba22e07e377b22fbeb62f7fdcc8c5c7921d1e9d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T18:47:35.095353+00:00",
+    "telegram_message_id": 1906,
+    "eitaa_last_sent_at": "2026-10-30T18:47:36.609240+00:00",
+    "eitaa_message_id": 179133032,
+    "group_last_sent_at": "2026-10-30T18:47:38.357833+00:00",
+    "group_message_id": 1650,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T18:47:38.388098+00:00"
   }
 }
