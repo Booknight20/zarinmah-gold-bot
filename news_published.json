@@ -19310,5 +19310,101 @@
     "group_message_id": 1596,
     "fully_published": true,
     "last_checked_at": "2026-10-30T07:14:33.820388+00:00"
+  },
+  "d74d0663db1791dea002afda1f322ee68584723c285259a4cd0084332c0aa9cf": {
+    "title": "زیان ۶.۵ میلیارد دلاری فولکس واگن در سایه بحران بازار چین",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080804842/%D8%B2%DB%8C%D8%A7%D9%86-%DB%B6-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%81%D9%88%D9%84%DA%A9%D8%B3-%D9%88%D8%A7%DA%AF%D9%86-%D8%AF%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%86%DB%8C%D9%86",
+    "telegram_message_ids": [
+      1853
+    ],
+    "eitaa_message_ids": [
+      179050261
+    ],
+    "group_message_ids": [
+      1597
+    ],
+    "content_hash": "1b75f8ccd06ce11963d86315b92a1b05b5632504e18a79343582eb0d5503ab83",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T07:48:27.368718+00:00",
+    "telegram_message_id": 1853,
+    "eitaa_last_sent_at": "2026-10-30T07:48:28.962986+00:00",
+    "eitaa_message_id": 179050261,
+    "group_last_sent_at": "2026-10-30T07:48:30.748727+00:00",
+    "group_message_id": 1597,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T07:48:30.780266+00:00"
+  },
+  "ff4e6ec2bd635409a0b9925047c44cf48e7fe12572139fb5d224ba180801032e": {
+    "title": "افزایش دوباره بهای جهانی نفت در پی نگرانی از تشدید تنش ها",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6994127/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D9%BE%DB%8C-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%AA%D8%B4%D8%AF%DB%8C%D8%AF-%D8%AA%D9%86%D8%B4-%D9%87%D8%A7",
+    "telegram_message_ids": [
+      1854
+    ],
+    "eitaa_message_ids": [
+      179050275
+    ],
+    "group_message_ids": [
+      1598
+    ],
+    "content_hash": "a74595b152d41f865c4a996aa606907d32444681651c8d655d758f0c378b1beb",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T07:48:32.574017+00:00",
+    "telegram_message_id": 1854,
+    "eitaa_last_sent_at": "2026-10-30T07:48:34.032808+00:00",
+    "eitaa_message_id": 179050275,
+    "group_last_sent_at": "2026-10-30T07:48:35.760407+00:00",
+    "group_message_id": 1598,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T07:48:35.791577+00:00"
+  },
+  "fdc7263694388dea023f078388725ba2ca0fc1845f6e4609d73fbb4a723150d5": {
+    "title": "ریزش طلا به کانال ۳ هزار دلاری؛ سقوط نقره به کف یک ساله",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6994131/%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B3%D9%82%D9%88%D8%B7-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D9%87-%DA%A9%D9%81-%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84%D9%87",
+    "telegram_message_ids": [
+      1855
+    ],
+    "eitaa_message_ids": [
+      179050278
+    ],
+    "group_message_ids": [
+      1599
+    ],
+    "content_hash": "08b759a054ae6e94c5db922255955d1495c8340f4c6f06c167bf47deadcfb8db",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T07:48:37.513715+00:00",
+    "telegram_message_id": 1855,
+    "eitaa_last_sent_at": "2026-10-30T07:48:38.318172+00:00",
+    "eitaa_message_id": 179050278,
+    "group_last_sent_at": "2026-10-30T07:48:40.037286+00:00",
+    "group_message_id": 1599,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T07:48:40.068746+00:00"
+  },
+  "bdf13c29a52976e643cc09a0261f6433a937dff55c84c8988fd64f22a82ece4b": {
+    "title": "نفت در آستانه چهارمین افزایش قیمت ماهانه/ نفت برنت بشکه ای ۱۱۶ دلار شد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294987/%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%DA%86%D9%87%D8%A7%D8%B1%D9%85%DB%8C%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D8%B4%DA%A9%D9%87-%D8%A7%DB%8C-%DB%B1%DB%B1%DB%B6",
+    "telegram_message_ids": [
+      1856
+    ],
+    "eitaa_message_ids": [
+      179050291
+    ],
+    "group_message_ids": [
+      1600
+    ],
+    "content_hash": "c330580b2cee3363facbb1dfd1d68a5948219e62e1f2f60bdc15f73b1dc1ee16",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T07:48:41.875427+00:00",
+    "telegram_message_id": 1856,
+    "eitaa_last_sent_at": "2026-10-30T07:48:43.347326+00:00",
+    "eitaa_message_id": 179050291,
+    "group_last_sent_at": "2026-10-30T07:48:45.043791+00:00",
+    "group_message_id": 1600,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T07:48:45.075157+00:00"
   }
 }

@@ -476,6 +476,64 @@
     "filter_applied": true
   },
   {
+    "source": "مهر",
+    "title": "ریزش طلا به کانال ۳ هزار دلاری؛ سقوط نقره به کف یک ساله",
+    "link": "https://www.mehrnews.com/news/6994131/%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B3%D9%82%D9%88%D8%B7-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D9%87-%DA%A9%D9%81-%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84%D9%87",
+    "summary": "قیمت جهانی طلا و نقره در معاملات روز جمعه دوباره کاهش یافت؛ تشدید فشارهای تورمی در آمریکا و افزایش احتمال بالا رفتن نرخ بهره فدرال رزرو، تقاضا برای فلزات گران بها را تحت تأثیر قرار داده است.",
+    "published": "Fri, 30 Oct 2026 07:41:59 GMT",
+    "collected_at": "2026-10-30T11:17:38.453003+03:30",
+    "filter_market_score": 29,
+    "market_score": 29,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "نرخ بهره",
+      "تورم",
+      "فدرال رزرو"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "سقوط",
+      "ریزش",
+      "افزایش",
+      "کاهش",
+      "قیمت",
+      "نرخ",
+      "معاملات",
+      "تقاضا",
+      "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۶ آبان ۱۴۰۵ در زمان بسته شدن بازار/ طلای ۱۸عیار به قیمت ۲۶ میلیون و ۳۴۹ هزار تومان رسید + جدول",
     "link": "https://www.khabaronline.ir/news/2294573/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B6-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1",
@@ -1251,6 +1309,53 @@
     "filter_applied": true
   },
   {
+    "source": "ایسنا",
+    "title": "زیان ۶.۵ میلیارد دلاری فولکس واگن در سایه بحران بازار چین",
+    "link": "https://www.isna.ir/news/1405080804842/%D8%B2%DB%8C%D8%A7%D9%86-%DB%B6-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%81%D9%88%D9%84%DA%A9%D8%B3-%D9%88%D8%A7%DA%AF%D9%86-%D8%AF%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DA%86%DB%8C%D9%86",
+    "summary": "فولکس واگن در سه ماهه سوم با ثبت زیان خالص ۵.۸ میلیارد یورو معادل ۶.۵ میلیارد دلار- تحت تاثیر کاهش تقاضا در چین، تعرفه های وارداتی آمریکا، افت سودآوری خودروهای برقی و هزینه های سنگین یک باره، با بحران مالی قابل توجهی روبه رو شد.",
+    "published": "Fri, 30 Oct 2026 07:25:12 GMT",
+    "collected_at": "2026-10-30T11:17:28.862820+03:30",
+    "filter_market_score": 20,
+    "market_score": 20,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار",
+        "یورو"
+      ]
+    },
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "زیان",
+      "کاهش",
+      "افت",
+      "تقاضا",
+      "زیان خالص",
+      "واردات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "عقب نشینی نفت از اوج روز قبل / برنت به ۱۱۴ دلار رسید",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304978-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%A7%D9%88%D8%AC-%D8%B1%D9%88%D8%B2-%D9%82%D8%A8%D9%84-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -1952,6 +2057,44 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "نفت در آستانه چهارمین افزایش قیمت ماهانه/ نفت برنت بشکه ای ۱۱۶ دلار شد",
+    "link": "https://www.khabaronline.ir/news/2294987/%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%DA%86%D9%87%D8%A7%D8%B1%D9%85%DB%8C%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D8%B4%DA%A9%D9%87-%D8%A7%DB%8C-%DB%B1%DB%B1%DB%B6",
+    "summary": "قیمت نفت در معاملات روز جمعه بازار جهانی افزایش یافت و در مسیر ثبت چهارمین افزایش ماهانه متوالی قرار دارد.",
+    "published": "Fri, 30 Oct 2026 07:15:00 GMT",
+    "collected_at": "2026-10-30T11:17:53.869314+03:30",
+    "filter_market_score": 13,
+    "market_score": 13,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مهر",
     "title": "خراسان جنوبی روی گنج طلا و گوهرسنگ ها ایستاده است",
     "link": "https://www.mehrnews.com/news/6993412/%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%B1%D9%88%DB%8C-%DA%AF%D9%86%D8%AC-%D8%B7%D9%84%D8%A7-%D9%88-%DA%AF%D9%88%D9%87%D8%B1%D8%B3%D9%86%DA%AF-%D9%87%D8%A7-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
@@ -2064,47 +2207,6 @@
     "major_event_matches": [],
     "signal_matches": [
       "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت دلار همه ماجراست؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4304837-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%87%D9%85%D9%87-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%D8%B3%D8%AA",
-    "summary": "دنیای اقتصاد: نرخ حقیقی ارز در مهر 1405 به رکورد مهر 1399 نزدیک شده؛ این اتفاق به چه معناست؟",
-    "published": "Wed, 28 Oct 2026 16:30:00 +0000",
-    "collected_at": "2026-10-28T20:17:18.277035+03:30",
-    "filter_market_score": 13,
-    "market_score": 13,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "رکورد",
-      "نرخ"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3169,36 +3271,37 @@
   },
   {
     "source": "مهر",
-    "title": "درخشش جودوکاران ایران در کاپ آسیا با سه مدال طلا، نقره و برنز",
-    "link": "https://www.mehrnews.com/news/6993067/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D8%AC%D9%88%D8%AF%D9%88%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%A8%D8%A7-%D8%B3%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D9%88-%D8%A8%D8%B1%D9%86%D8%B2",
-    "summary": "سه عضو تیم ملی جودو ایران در روز نخست مسابقات کاپ آسیا موفق به کسب سه مدال طلا، نقره و برنز شدند.",
-    "published": "Wed, 28 Oct 2026 16:36:23 GMT",
-    "collected_at": "2026-10-28T20:17:09.238229+03:30",
-    "filter_market_score": 9,
-    "market_score": 9,
+    "title": "افزایش دوباره بهای جهانی نفت در پی نگرانی از تشدید تنش ها",
+    "link": "https://www.mehrnews.com/news/6994127/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D9%BE%DB%8C-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%AA%D8%B4%D8%AF%DB%8C%D8%AF-%D8%AA%D9%86%D8%B4-%D9%87%D8%A7",
+    "summary": "در معاملات روز جمعه ۸ آبان ۱۴۰۵ با تشدید نگرانی ها از احتمال ازسرگیری تنش های نظامی، نفت برنت به بیش از ۱۱۲ دلار و نفت خام آمریکا به بالای ۱۰۳ دلار در هر بشکه رسید.",
+    "published": "Fri, 30 Oct 2026 07:43:13 GMT",
+    "collected_at": "2026-10-30T11:17:38.452930+03:30",
+    "filter_market_score": 8,
+    "market_score": 8,
     "market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "دلار"
       ]
     },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
+    "title_market_matches": {},
     "summary_market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "دلار"
       ]
     },
     "full_text_market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "دلار"
       ]
     },
-    "driver_matches": [],
+    "driver_matches": [
+      "نفت"
+    ],
     "major_event_matches": [],
-    "signal_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "معاملات"
+    ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
@@ -3906,37 +4009,6 @@
     "full_text_market_matches": {
       "currency": [
         "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "تخصیص ۸۳ میلیون لیتر سوخت به بخش کشاورزی قزوین در فصل کشت",
-    "link": "https://www.mehrnews.com/news/6993076/%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%DB%B8%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%84%DB%8C%D8%AA%D8%B1-%D8%B3%D9%88%D8%AE%D8%AA-%D8%A8%D9%87-%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%AF%D8%B1-%D9%81%D8%B5%D9%84-%DA%A9%D8%B4%D8%AA",
-    "summary": "قزوین- دبیر کمیسیون مبارزه با قاچاق کالا و ارز استان قزوین از تخصیص حدود ۸۳ میلیون لیتر سوخت به بخش کشاورزی استان قزوین در فصل کشت زراعی سال های ۱۴۰۴ و ۱۴۰۵ خبر داد.",
-    "published": "Wed, 28 Oct 2026 16:50:46 GMT",
-    "collected_at": "2026-10-28T20:44:28.430324+03:30",
-    "filter_market_score": 4,
-    "market_score": 4,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز"
       ]
     },
     "driver_matches": [],
