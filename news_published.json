@@ -20294,5 +20294,29 @@
     "group_message_id": 1650,
     "fully_published": true,
     "last_checked_at": "2026-10-30T18:47:38.388098+00:00"
+  },
+  "5ac9ca2d9a05300e25121efbb1180da92553c057fee1b77ecea76503bd33332c": {
+    "title": "علیرضا دبیر: حضرت عباسی جفتش طلا بود!",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008429/%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%AF%D8%A8%DB%8C%D8%B1-%D8%AD%D8%B6%D8%B1%D8%AA-%D8%B9%D8%A8%D8%A7%D8%B3%DB%8C-%D8%AC%D9%81%D8%AA%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A8%D9%88%D8%AF",
+    "telegram_message_ids": [
+      1907
+    ],
+    "eitaa_message_ids": [
+      179140406
+    ],
+    "group_message_ids": [
+      1651
+    ],
+    "content_hash": "9b348ce179eb8d5e746cc686eda166e1d8328073ae5984347fe95d2fcf2005e1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T19:47:57.862265+00:00",
+    "telegram_message_id": 1907,
+    "eitaa_last_sent_at": "2026-10-30T19:47:59.047048+00:00",
+    "eitaa_message_id": 179140406,
+    "group_last_sent_at": "2026-10-30T19:48:00.672245+00:00",
+    "group_message_id": 1651,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T19:48:00.705840+00:00"
   }
 }
