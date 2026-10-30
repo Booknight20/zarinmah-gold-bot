@@ -19502,5 +19502,53 @@
     "group_message_id": 1610,
     "fully_published": true,
     "last_checked_at": "2026-10-30T09:38:20.530409+00:00"
+  },
+  "195a18942268cd1b19e5140b38d889853e485d8881d0252b6b762de99dd33d32": {
+    "title": "بزرگ ترین سرقت تاریخ رمزارزها؛ ۶.۳ میلیارد دلار از بایننس خارج شد/ کره شمالی در مظان اتهام",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295106/%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B1%D9%82%D8%AA-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%DB%B6-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%AE%D8%A7%D8%B1%D8%AC",
+    "telegram_message_ids": [
+      1867
+    ],
+    "eitaa_message_ids": [
+      179069849
+    ],
+    "group_message_ids": [
+      1611
+    ],
+    "content_hash": "82f9c80a7268067233952a8cfa50714bcb1a024597151350b3253245bc9ab245",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T10:18:28.842161+00:00",
+    "telegram_message_id": 1867,
+    "eitaa_last_sent_at": "2026-10-30T10:18:30.127981+00:00",
+    "eitaa_message_id": 179069849,
+    "group_last_sent_at": "2026-10-30T10:18:31.922624+00:00",
+    "group_message_id": 1611,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T10:18:31.953924+00:00"
+  },
+  "fa1b11ba679c3afc76c491443483e742563a941762b7b3a802e37d37f961d62f": {
+    "title": "افزایش قیمت نفت در بازار جهانی",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849172/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+    "telegram_message_ids": [
+      1868
+    ],
+    "eitaa_message_ids": [
+      179069854
+    ],
+    "group_message_ids": [
+      1612
+    ],
+    "content_hash": "eacddf75169bdb28c2bb957c444442b500586f666c53ec247f253cf1e9414754",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T10:18:33.855314+00:00",
+    "telegram_message_id": 1868,
+    "eitaa_last_sent_at": "2026-10-30T10:18:35.423129+00:00",
+    "eitaa_message_id": 179069854,
+    "group_last_sent_at": "2026-10-30T10:18:37.176687+00:00",
+    "group_message_id": 1612,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T10:18:37.207936+00:00"
   }
 }

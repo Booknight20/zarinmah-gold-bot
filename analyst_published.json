@@ -18268,5 +18268,75 @@
     "group_sent_at": "2026-10-30T12:48:26.007220+03:30",
     "group_message_id": 1605,
     "published_at": "2026-10-30T12:48:26.026047+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8783": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "روز جمعه یه سری به قیمت‌ها بزنیم:",
+      "summary": "روز جمعه یه سری به قیمت‌ها بزنیم: \n\nطلا ۱۸ عیار: ۲۵,۹۰۰,۰۰۰ تومان\nتتر: ۲۷۱,۵۰۰ تومان\nاونس جهانی طلا: ۳,۹۸۸ دلار\nاونس جهانی نقره: ۵۰,۶۰ دلار\nبیت‌کوین: ۷۷,۴۰۰ دلار\n\n ⚡️ @AlirezaMehrabi_ir",
+      "full_text": "روز جمعه یه سری به قیمت‌ها بزنیم: \n\nطلا ۱۸ عیار: ۲۵,۹۰۰,۰۰۰ تومان\nتتر: ۲۷۱,۵۰۰ تومان\nاونس جهانی طلا: ۳,۹۸۸ دلار\nاونس جهانی نقره: ۵۰,۶۰ دلار\nبیت‌کوین: ۷۷,۴۰۰ دلار\n\n ⚡️ @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8783",
+      "analysis_score": 21,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "اونس جهانی",
+        "دلار",
+        "تتر",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 185,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-30T13:48:26.082541+03:30"
+    },
+    "content_signature": "11f6c2aa1affd3d760bb4a7a194388554b00dda1c5dacea5d71ef5f7cd76048c",
+    "first_seen_at": "2026-10-30T13:48:37.402522+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1869
+    ],
+    "telegram_last_success_at": "2026-10-30T13:48:37.925875+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-30T13:48:37.945198+03:30",
+    "telegram_message_id": 1869,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179069859
+    ],
+    "eitaa_last_success_at": "2026-10-30T13:48:39.495024+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-30T13:48:39.514239+03:30",
+    "eitaa_message_id": 179069859,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1613
+    ],
+    "group_last_success_at": "2026-10-30T13:48:40.049619+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-30T13:48:40.068579+03:30",
+    "group_message_id": 1613,
+    "published_at": "2026-10-30T13:48:40.087143+03:30"
   }
 }
