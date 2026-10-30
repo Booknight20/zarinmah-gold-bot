@@ -18998,5 +18998,53 @@
     "group_message_id": 1582,
     "fully_published": true,
     "last_checked_at": "2026-10-29T20:46:24.806091+00:00"
+  },
+  "91522393c2f1bbf40bb740e5d73ab4c1e0d1f57b9a78f758f56cc97404544501": {
+    "title": "پولیتیکو: پنتاگون برای کاهش ۴۰۰ میلیارد دلاری بودجه دفاعی درخواستی ترامپ آماده می شود",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080804776/%D9%BE%D9%88%D9%84%DB%8C%D8%AA%DB%8C%DA%A9%D9%88-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%DB%B4%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%AF%D9%81%D8%A7%D8%B9%DB%8C-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%DB%8C",
+    "telegram_message_ids": [
+      1840
+    ],
+    "eitaa_message_ids": [
+      179021626
+    ],
+    "group_message_ids": [
+      1584
+    ],
+    "content_hash": "dc7a56a04576494c5467e98fa03c8fc80a4235f0badb06e181e69e184672184f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T00:48:00.971244+00:00",
+    "telegram_message_id": 1840,
+    "eitaa_last_sent_at": "2026-10-30T00:48:02.596090+00:00",
+    "eitaa_message_id": 179021626,
+    "group_last_sent_at": "2026-10-30T00:48:04.365497+00:00",
+    "group_message_id": 1584,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T00:48:04.395705+00:00"
+  },
+  "4aac2947bb3c9eb8b48d7ef1e2a4c87e069c850638c6911eafd025462f8b4867": {
+    "title": "آمادگی پنتاگون برای کاهش ۴۰۰ میلیارد دلاری بودجه نظامی آمریکا",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6994031/%D8%A2%D9%85%D8%A7%D8%AF%DA%AF%DB%8C-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%DB%B4%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+    "telegram_message_ids": [
+      1841
+    ],
+    "eitaa_message_ids": [
+      179021634
+    ],
+    "group_message_ids": [
+      1585
+    ],
+    "content_hash": "9a605414cad591f64b79fdbe18d5a93c81919188fd5b6b37b5866011a2bd43b1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T00:48:06.163297+00:00",
+    "telegram_message_id": 1841,
+    "eitaa_last_sent_at": "2026-10-30T00:48:07.787971+00:00",
+    "eitaa_message_id": 179021634,
+    "group_last_sent_at": "2026-10-30T00:48:09.531311+00:00",
+    "group_message_id": 1585,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T00:48:09.561588+00:00"
   }
 }
