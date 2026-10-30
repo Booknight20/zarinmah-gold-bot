@@ -19286,5 +19286,29 @@
     "group_message_id": 1595,
     "fully_published": true,
     "last_checked_at": "2026-10-30T06:48:18.798719+00:00"
+  },
+  "9cceb1bc24fb461c5a4a1d28b6e3ce0d36cedcda5a5d231ed27faa21d57e8938": {
+    "title": "صعود بدهی اروپا به بیش از ۹۵ تریلیون دلار در ۶ ماه گذشته",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080804827/%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D8%AF%D9%87%DB%8C-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B9%DB%B5-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%DB%B6-%D9%85%D8%A7%D9%87-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87",
+    "telegram_message_ids": [
+      1852
+    ],
+    "eitaa_message_ids": [
+      179045848
+    ],
+    "group_message_ids": [
+      1596
+    ],
+    "content_hash": "6f96c884a6bed3230014fad36f66767941a94cfb42cb30eec3425b9ad2801788",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T07:14:30.879696+00:00",
+    "telegram_message_id": 1852,
+    "eitaa_last_sent_at": "2026-10-30T07:14:32.170733+00:00",
+    "eitaa_message_id": 179045848,
+    "group_last_sent_at": "2026-10-30T07:14:33.803848+00:00",
+    "group_message_id": 1596,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T07:14:33.820388+00:00"
   }
 }
