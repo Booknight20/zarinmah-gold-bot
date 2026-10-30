@@ -19886,5 +19886,29 @@
     "group_message_id": 1628,
     "fully_published": true,
     "last_checked_at": "2026-10-30T12:49:00.737041+00:00"
+  },
+  "60a48c51b1f3286d973a6bbf48b4d7bc32f1aa662cc08db9c11752a2a4645e9a": {
+    "title": "تعرفه ها باید پاسخ گوی هزینه نوسازی شبکه باشند",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008395/%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D9%87%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%BE%D8%A7%D8%B3%D8%AE-%DA%AF%D9%88%DB%8C-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A8%D8%A7%D8%B4%D9%86%D8%AF",
+    "telegram_message_ids": [
+      1886
+    ],
+    "eitaa_message_ids": [
+      179095937
+    ],
+    "group_message_ids": [
+      1630
+    ],
+    "content_hash": "1211a698a83c77b0b1cbf1257fbe6a7a48fedfa751b2ddef2474aae98550cafa",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T13:46:19.915339+00:00",
+    "telegram_message_id": 1886,
+    "eitaa_last_sent_at": "2026-10-30T13:46:21.486784+00:00",
+    "eitaa_message_id": 179095937,
+    "group_last_sent_at": "2026-10-30T13:46:23.405718+00:00",
+    "group_message_id": 1630,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T13:46:23.429246+00:00"
   }
 }

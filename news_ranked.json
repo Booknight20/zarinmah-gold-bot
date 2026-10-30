@@ -2864,6 +2864,65 @@
     "ranking_applied": true
   },
   {
+    "source": "تابناک",
+    "title": "تعرفه ها باید پاسخ گوی هزینه نوسازی شبکه باشند",
+    "link": "https://tabnak.ir/fa/news/30008395/%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D9%87%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%BE%D8%A7%D8%B3%D8%AE-%DA%AF%D9%88%DB%8C-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A8%D8%A7%D8%B4%D9%86%D8%AF",
+    "summary": "افزایش نرخ ارز و تورم، در کنار محدودیت های ناشی از تحریم، هزینه تأمین تجهیزات و توسعه فناوری را افزایش می دهد.",
+    "published": "Fri, 30 Oct 2026 17:03:00 +0330",
+    "collected_at": "2026-10-30T17:15:58.161714+03:30",
+    "filter_market_score": 13,
+    "market_score": 18,
+    "market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تورم",
+      "تحریم"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تورم"
+    ],
+    "medium_impact_matches": [
+      "تحریم"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "آنچه که در جلسه شورای گفت وگوی دولت و بخش خصوصی خراسان رضوی گذشت",
     "link": "https://www.isna.ir/news/1405080704622/%D8%A2%D9%86%DA%86%D9%87-%DA%A9%D9%87-%D8%AF%D8%B1-%D8%AC%D9%84%D8%B3%D9%87-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%DA%AF%D9%81%D8%AA-%D9%88%DA%AF%D9%88%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D9%88-%D8%A8%D8%AE%D8%B4-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%DA%AF%D8%B0%D8%B4%D8%AA",
