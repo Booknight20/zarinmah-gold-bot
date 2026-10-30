@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "analyst": "علیرضا محرابی",
+    "title": "اونس طلا ۳ درصد و اونس نقره ۵,۵ درصد ریزش داشته ‼️",
+    "summary": "اونس طلا ۳ درصد و اونس نقره ۵,۵ درصد ریزش داشته ‼️ \n\nاز اون سمت خوشبحال نفت شده و رسیده محدوده ۱۱۹ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+    "full_text": "اونس طلا ۳ درصد و اونس نقره ۵,۵ درصد ریزش داشته ‼️ \n\nاز اون سمت خوشبحال نفت شده و رسیده محدوده ۱۱۹ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+    "source": "علیرضا محرابی",
+    "link": "https://t.me/AlirezaMehrabi_ir/8787",
+    "analysis_score": 17,
+    "market_matches": [
+      "طلا",
+      "اونس",
+      "دلار",
+      "نفت"
+    ],
+    "analysis_matches": [
+      "ریزش",
+      "محدوده"
+    ],
+    "market_groups": [
+      "gold",
+      "currency",
+      "economy"
+    ],
+    "analysis_reasons": [
+      "ارتباط با بازار",
+      "دارای نشانه‌های تحلیل",
+      "دارای داده عددی",
+      "ارتباط میان چند حوزه بازار"
+    ],
+    "priority": "high",
+    "content_length": 127,
+    "content_complete_from_source": true,
+    "collected_at": "2026-10-30T21:17:02.190743+03:30"
+  }
+]

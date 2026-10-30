@@ -18675,5 +18675,74 @@
     "group_sent_at": "2026-10-30T18:18:13.199046+03:30",
     "group_message_id": 1638,
     "published_at": "2026-10-30T18:18:13.217551+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8787": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "اونس طلا ۳ درصد و اونس نقره ۵,۵ درصد ریزش داشته ‼️",
+      "summary": "اونس طلا ۳ درصد و اونس نقره ۵,۵ درصد ریزش داشته ‼️ \n\nاز اون سمت خوشبحال نفت شده و رسیده محدوده ۱۱۹ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "اونس طلا ۳ درصد و اونس نقره ۵,۵ درصد ریزش داشته ‼️ \n\nاز اون سمت خوشبحال نفت شده و رسیده محدوده ۱۱۹ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8787",
+      "analysis_score": 17,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "دلار",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "ریزش",
+        "محدوده"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 127,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-30T21:17:02.190743+03:30"
+    },
+    "content_signature": "0e7e04b06632042a36b5fd09ce9c90d8baf6b967857018673c1f6d1cb7260c4e",
+    "first_seen_at": "2026-10-30T21:17:03.076580+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1905
+    ],
+    "telegram_last_success_at": "2026-10-30T21:17:03.603014+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-30T21:17:03.626582+03:30",
+    "telegram_message_id": 1905,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179125369
+    ],
+    "eitaa_last_success_at": "2026-10-30T21:17:04.915250+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-30T21:17:04.934878+03:30",
+    "eitaa_message_id": 179125369,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1649
+    ],
+    "group_last_success_at": "2026-10-30T21:17:05.492514+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-30T21:17:05.510653+03:30",
+    "group_message_id": 1649,
+    "published_at": "2026-10-30T21:17:05.528071+03:30"
   }
 }
