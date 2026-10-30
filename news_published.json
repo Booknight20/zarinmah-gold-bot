@@ -19046,5 +19046,29 @@
     "group_message_id": 1585,
     "fully_published": true,
     "last_checked_at": "2026-10-30T00:48:09.561588+00:00"
+  },
+  "cdeb21cbe8c350563d11f09f20ab0dcf06bd705e88bd69b802f378bb515ed163": {
+    "title": "قیمت طلا امروز جمعه 8 آبان ۱۴۰۵/ ریزش قیمت طلا",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305045-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AC%D9%85%D8%B9%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1842
+    ],
+    "eitaa_message_ids": [
+      179028056
+    ],
+    "group_message_ids": [
+      1586
+    ],
+    "content_hash": "c19c5447bf56be2e21e8a58938c049ed4f27d6b10dd2b06f717ba21e0b3483bc",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T04:18:05.913582+00:00",
+    "telegram_message_id": 1842,
+    "eitaa_last_sent_at": "2026-10-30T04:18:07.326105+00:00",
+    "eitaa_message_id": 179028056,
+    "group_last_sent_at": "2026-10-30T04:18:09.052325+00:00",
+    "group_message_id": 1586,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T04:18:09.083208+00:00"
   }
 }
