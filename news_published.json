@@ -19670,5 +19670,29 @@
     "group_message_id": 1618,
     "fully_published": true,
     "last_checked_at": "2026-10-30T11:18:49.848284+00:00"
+  },
+  "ba375eb082d0879eef7614ac1bbcdfa90316ea3be4e81cd2d527b0d985253d0e": {
+    "title": "جوان اولین فینالیست کشتی آزاد؛ نماینده ایران در یک قدمی طلا",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6994387/%D8%AC%D9%88%D8%A7%D9%86-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%82%D8%AF%D9%85%DB%8C-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1876
+    ],
+    "eitaa_message_ids": [
+      179080557
+    ],
+    "group_message_ids": [
+      1620
+    ],
+    "content_hash": "c882ca1e6f60742633cee4516f53a1b735e5209d7b7c2ff0dff7168f345a26ea",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T11:46:31.204874+00:00",
+    "telegram_message_id": 1876,
+    "eitaa_last_sent_at": "2026-10-30T11:46:32.764111+00:00",
+    "eitaa_message_id": 179080557,
+    "group_last_sent_at": "2026-10-30T11:46:34.482751+00:00",
+    "group_message_id": 1620,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T11:46:34.506062+00:00"
   }
 }
