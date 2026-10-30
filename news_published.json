@@ -20030,5 +20030,53 @@
     "group_message_id": 1636,
     "fully_published": true,
     "last_checked_at": "2026-10-30T14:48:08.677528+00:00"
+  },
+  "d02071a5246a169b190cf8672af6e9afbfb6214d8cee24b5e32ca27e907f2290": {
+    "title": "هشدار اتاق اصناف درباره معاملات دلاری مسکن و طلا/معاملات داخلی باید با پول ملی انجام شود",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295147/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%A7%D8%AA%D8%A7%D9%82-%D8%A7%D8%B5%D9%86%D8%A7%D9%81-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D8%B3%DA%A9%D9%86-%D9%88-%D8%B7%D9%84%D8%A7-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C",
+    "telegram_message_ids": [
+      1895
+    ],
+    "eitaa_message_ids": [
+      179106899
+    ],
+    "group_message_ids": [
+      1639
+    ],
+    "content_hash": "03b8cf26a29dc4c3cf8991d232657a0cf1fcfcb2ec64f5f5edd97efa952a91e6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T15:16:33.195417+00:00",
+    "telegram_message_id": 1895,
+    "eitaa_last_sent_at": "2026-10-30T15:16:34.556969+00:00",
+    "eitaa_message_id": 179106899,
+    "group_last_sent_at": "2026-10-30T15:16:36.359859+00:00",
+    "group_message_id": 1639,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T15:16:36.382724+00:00"
+  },
+  "7618c9e0d543362791b7985ff2ed619d93c627c601b9e8c3f2fbd37bf60c7ce3": {
+    "title": "بدهی اروپا از رقم بی سابقه ۹۵ تریلیون دلار گذشت",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849233/%D8%A8%D8%AF%D9%87%DB%8C-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A7%D8%B2-%D8%B1%D9%82%D9%85-%D8%A8%DB%8C-%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%DB%B9%DB%B5-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%DA%AF%D8%B0%D8%B4%D8%AA",
+    "telegram_message_ids": [
+      1896
+    ],
+    "eitaa_message_ids": [
+      179106910
+    ],
+    "group_message_ids": [
+      1640
+    ],
+    "content_hash": "e6a6eb8287e878ce66b8b36fc835d9478afdd90a2970a7780226af2c36a124cc",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T15:16:38.146458+00:00",
+    "telegram_message_id": 1896,
+    "eitaa_last_sent_at": "2026-10-30T15:16:39.414486+00:00",
+    "eitaa_message_id": 179106910,
+    "group_last_sent_at": "2026-10-30T15:16:41.155069+00:00",
+    "group_message_id": 1640,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T15:16:41.177964+00:00"
   }
 }
