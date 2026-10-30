@@ -20246,5 +20246,29 @@
     "group_message_id": 1647,
     "fully_published": true,
     "last_checked_at": "2026-10-30T16:13:03.578197+00:00"
+  },
+  "ece39558f51d7f5a9d1d1895cbeae67707da68364e9d1c90677a0514abc06fa2": {
+    "title": "فرشاد مومنی: سهم مصرف نهایی خانوارها از اقتصاد کشور کاهش یافته است",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295240/%D9%81%D8%B1%D8%B4%D8%A7%D8%AF-%D9%85%D9%88%D9%85%D9%86%DB%8C-%D8%B3%D9%87%D9%85-%D9%85%D8%B5%D8%B1%D9%81-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%B1%D9%87%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%DA%A9%D8%B4%D9%88%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA%D9%87",
+    "telegram_message_ids": [
+      1904
+    ],
+    "eitaa_message_ids": [
+      179120913
+    ],
+    "group_message_ids": [
+      1648
+    ],
+    "content_hash": "e2aa535b1cbc5f5c05731e5d9e2ce18c3d831918c700624f9b15203046e90c69",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T17:16:19.977061+00:00",
+    "telegram_message_id": 1904,
+    "eitaa_last_sent_at": "2026-10-30T17:16:21.604486+00:00",
+    "eitaa_message_id": 179120913,
+    "group_last_sent_at": "2026-10-30T17:16:23.440238+00:00",
+    "group_message_id": 1648,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T17:16:23.464096+00:00"
   }
 }
