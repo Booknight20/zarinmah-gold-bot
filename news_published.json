@@ -19070,5 +19070,53 @@
     "group_message_id": 1586,
     "fully_published": true,
     "last_checked_at": "2026-10-30T04:18:09.083208+00:00"
+  },
+  "6dbf3e1652c6e2bed23423230af8d2898e26a72cfd2dc64d1a9780d4d252f53b": {
+    "title": "پیش بینی قیمت طلا، دلار، خودرو، بورس و مسکن در آبان ۱۴۰۵ در صورت وقوع جنگ جدید یا توافق",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305046-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D9%88%D8%B1%D8%B3-%D9%85%D8%B3%DA%A9%D9%86-%D8%AF%D8%B1-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B5%D9%88%D8%B1%D8%AA-%D9%88%D9%82%D9%88%D8%B9-%D8%AC%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%DB%8C%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82",
+    "telegram_message_ids": [
+      1843
+    ],
+    "eitaa_message_ids": [
+      179030394
+    ],
+    "group_message_ids": [
+      1587
+    ],
+    "content_hash": "e5a21e809c208eeec0651b887e6f62efc9a2b888c638c1c3ed93bc4de1a16c8b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T04:47:41.243781+00:00",
+    "telegram_message_id": 1843,
+    "eitaa_last_sent_at": "2026-10-30T04:47:42.430798+00:00",
+    "eitaa_message_id": 179030394,
+    "group_last_sent_at": "2026-10-30T04:47:44.037011+00:00",
+    "group_message_id": 1587,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T04:47:44.065903+00:00"
+  },
+  "164fdb4c293f19395bc5da407d0611dfdea44b00294f5c9ae54bbe49103b9e25": {
+    "title": "قیمت سکه امروز ۸ آبان ۱۴۰۵/ نیم سکه ۱۴۰ میلیون تومان به فروش رفت + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294973/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B8-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B4%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%A8%D9%87-%D9%81%D8%B1%D9%88%D8%B4",
+    "telegram_message_ids": [
+      1844
+    ],
+    "eitaa_message_ids": [
+      179030400
+    ],
+    "group_message_ids": [
+      1588
+    ],
+    "content_hash": "b0d1f05a65b215215c3af6df2434497d74d55c52c696d1f1effe26f3bd9d974f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T04:47:45.684790+00:00",
+    "telegram_message_id": 1844,
+    "eitaa_last_sent_at": "2026-10-30T04:47:46.925441+00:00",
+    "eitaa_message_id": 179030400,
+    "group_last_sent_at": "2026-10-30T04:47:48.524830+00:00",
+    "group_message_id": 1588,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T04:47:48.553739+00:00"
   }
 }
