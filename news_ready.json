@@ -1459,70 +1459,6 @@
     "telegram_preview": "📰 قیمت دلار، یورو و درهم امروز پنجشنبه ۷ آبان ۱۴۰۵/ افزایش قیمت دلار\n\nقیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته، از 186,420 (یکصد و هشتاد و شش هزار و چهارصد و بیست) تومان به 186,792 (یکصد و هشتاد و شش هزار و هفتصد و نود و دو) تومان رسید.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304955-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1"
   },
   {
-    "source": "مهر",
-    "title": "آزمون بزرگ بازار سرمایه در جذب اسکناس های خانگی با سود ارزی",
-    "link": "https://www.mehrnews.com/news/6993301/%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AF%D8%B1-%D8%AC%D8%B0%D8%A8-%D8%A7%D8%B3%DA%A9%D9%86%D8%A7%D8%B3-%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%A8%D8%A7-%D8%B3%D9%88%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C",
-    "summary": "طرح صندوق های ارزی با سود ۵ درصدی، آزمونی سرنوشت ساز برای سیاست گذار است تا کارایی ابزارهای مالی را در مصاف با رخوت سنتی دلارهای خانگی بسنجد.",
-    "published": "Thu, 29 Oct 2026 05:21:29 GMT",
-    "collected_at": "2026-10-29T09:17:21.731306+03:30",
-    "filter_market_score": 22,
-    "market_score": 26,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "دلار"
-      ],
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ],
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز",
-      "دلار"
-    ],
-    "stock_matches": [
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "طرح صندوق های ارزی با سود ۵ درصدی، آزمونی سرنوشت ساز برای سیاست گذار است تا کارایی ابزارهای مالی را در مصاف با رخوت سنتی دلارهای خانگی بسنجد.",
-    "telegram_preview": "📰 آزمون بزرگ بازار سرمایه در جذب اسکناس های خانگی با سود ارزی\n\nطرح صندوق های ارزی با سود ۵ درصدی، آزمونی سرنوشت ساز برای سیاست گذار است تا کارایی ابزارهای مالی را در مصاف با رخوت سنتی دلارهای خانگی بسنجد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6993301/%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AF%D8%B1-%D8%AC%D8%B0%D8%A8-%D8%A7%D8%B3%DA%A9%D9%86%D8%A7%D8%B3-%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%A8%D8%A7-%D8%B3%D9%88%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C"
-  },
-  {
     "source": "ایسنا",
     "title": "طلا تسلیم کاهش قیمت ماهانه شد",
     "link": "https://www.isna.ir/news/1405080804801/%D8%B7%D9%84%D8%A7-%D8%AA%D8%B3%D9%84%DB%8C%D9%85-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%D8%B4%D8%AF",
@@ -1852,50 +1788,54 @@
     "telegram_preview": "📰 قیمت طلا امروز پنجشنبه ۷ آبان ۱۴۰۵\n\nقیمت طلا امروز با کاهش جزئی نسبت به روز گذشته، ۴۰۴۸ (چهار هزار و چهل و هشت) دلار نرخ گذاری شد\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304937-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86"
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۷ آبان ۱۴۰۵ در زمان بازگشایی بازار/ ربع سکه ۷۵ میلیون و ۵۰۰ هزار تومان قیمت خورد + جدول",
-    "link": "https://www.khabaronline.ir/news/2294616/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%DB%B7%DB%B5",
-    "summary": "قیمت سکه در بازار تهران امروز ۷ آبان ۱۴۰۵ اعلام شد و ربع سکه ۷۵ میلیون و ۵۰۰ هزار تومان قیمت خورد.",
-    "published": "Thu, 29 Oct 2026 05:06:37 GMT",
-    "collected_at": "2026-10-29T08:45:58.650504+03:30",
-    "filter_market_score": 12,
-    "market_score": 25,
+    "source": "دنیای اقتصاد",
+    "title": "دومین هفته سرخ بورس",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305098-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D9%87%D9%81%D8%AA%D9%87-%D8%B3%D8%B1%D8%AE-%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "دنیای اقتصاد: بازار سهام برای دومین هفته متوالی جامه سرخ بر تن کرد. شاخص کل بورس در حالی هفته گذشته را با افت ۲.۵درصدی به پایان رساند که برای دومین هفته متوالی بازدهی منفی به ثبت رساند. این نماگر طی هفته گذشته تحت تاثیر هیجانات فروش، مرز روانی ۸میلیون واحد را از دست داد. از سویی، بیش از ۱۵همت پول حقیقی از بازار سهام خارج شد و بخش قابل توجهی از این رقم در صندوق های درآمد ثابت پارک شد.",
+    "published": "Fri, 30 Oct 2026 12:09:58 +0000",
+    "collected_at": "2026-10-30T15:47:50.508486+03:30",
+    "filter_market_score": 24,
+    "market_score": 24,
     "market_matches": {
-      "gold": [
-        "سکه",
-        "ربع سکه"
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام",
+        "بازار سهام"
       ]
     },
     "title_market_matches": {
-      "gold": [
-        "سکه",
-        "ربع سکه"
+      "stock": [
+        "بورس"
       ]
     },
     "summary_market_matches": {
-      "gold": [
-        "سکه",
-        "ربع سکه"
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام",
+        "بازار سهام"
       ]
     },
     "full_text_market_matches": {},
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "قیمت",
-      "بازگشایی",
-      "اعلام شد"
+      "افت",
+      "بازدهی"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "high",
     "filter_score_bonus": 6,
-    "gold_matches": [
-      "سکه",
-      "ربع سکه"
-    ],
+    "gold_matches": [],
     "currency_matches": [],
-    "stock_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "سهام",
+      "بازار سهام"
+    ],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
@@ -1909,8 +1849,8 @@
     ],
     "ranking_applied": true,
     "duplicate_count": 1,
-    "full_text": "قیمت سکه در بازار تهران امروز ۷ آبان ۱۴۰۵ اعلام شد و ربع سکه ۷۵ میلیون و ۵۰۰ هزار تومان قیمت خورد.",
-    "telegram_preview": "📰 قیمت سکه امروز ۷ آبان ۱۴۰۵ در زمان بازگشایی بازار/ ربع سکه ۷۵ میلیون و ۵۰۰ هزار تومان قیمت خورد + جدول\n\nقیمت سکه در بازار تهران امروز ۷ آبان ۱۴۰۵ اعلام شد و ربع سکه ۷۵ میلیون و ۵۰۰ هزار تومان قیمت خورد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2294616/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%DB%B7%DB%B5"
+    "full_text": "دنیای اقتصاد: بازار سهام برای دومین هفته متوالی جامه سرخ بر تن کرد. شاخص کل بورس در حالی هفته گذشته را با افت ۲.۵درصدی به پایان رساند که برای دومین هفته متوالی بازدهی منفی به ثبت رساند. این نماگر طی هفته گذشته تحت تاثیر هیجانات فروش، مرز روانی ۸میلیون واحد را از دست داد. از سویی، بیش از ۱۵همت پول حقیقی از بازار سهام خارج شد و بخش قابل توجهی از این رقم در صندوق های درآمد ثابت پارک شد.",
+    "telegram_preview": "📰 دومین هفته سرخ بورس\n\nدنیای اقتصاد: بازار سهام برای دومین هفته متوالی جامه سرخ بر تن کرد. شاخص کل بورس در حالی هفته گذشته را با افت ۲.۵درصدی به پایان رساند که برای دومین هفته متوالی بازدهی منفی به ثبت رساند. این نماگر طی هفته گذشته تحت تاثیر هیجانات فروش، مرز روانی ۸میلیون واحد را از دست داد. از سویی، بیش از ۱۵همت پول حقیقی از بازار سهام خارج شد و بخش قابل توجهی از این رقم در صندوق های درآمد ثابت پارک شد.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305098-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D9%87%D9%81%D8%AA%D9%87-%D8%B3%D8%B1%D8%AE-%D8%A8%D9%88%D8%B1%D8%B3"
   },
   {
     "source": "ایسنا",
@@ -3841,58 +3781,6 @@
     "telegram_preview": "📰 چرا رونالدو برنده بهترین توپ طلای تاریخ شد؟\n\nملکرد درخشان رونالدو در سال ۲۰۰۸ بالاتر از عملکردهای شاخص لیونل مسی و دیگر برندگان توپ طلا قرار گرفت.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1849002/%DA%86%D8%B1%D8%A7-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B4%D8%AF"
   },
   {
-    "source": "تابناک",
-    "title": "کشف طلای تقلبی و شمش در قم",
-    "link": "https://tabnak.ir/fa/news/30008217/%DA%A9%D8%B4%D9%81-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D9%82%D9%84%D8%A8%DB%8C-%D9%88-%D8%B4%D9%85%D8%B4-%D8%AF%D8%B1-%D9%82%D9%85",
-    "summary": "مدیرکل صمت قم از کشف طلای تقلبی، شمش مس و یک دستگاه شماره کوب به ارزش اعلام شده ۵۴۰ میلیارد ریال در جریان بازرسی از یک واحد صنفی خبر داد.",
-    "published": "Thu, 29 Oct 2026 08:54:00 +0330",
-    "collected_at": "2026-10-29T09:17:39.953000+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "مدیرکل صمت قم از کشف طلای تقلبی، شمش مس و یک دستگاه شماره کوب به ارزش اعلام شده ۵۴۰ میلیارد ریال در جریان بازرسی از یک واحد صنفی خبر داد.",
-    "telegram_preview": "📰 کشف طلای تقلبی و شمش در قم\n\nمدیرکل صمت قم از کشف طلای تقلبی، شمش مس و یک دستگاه شماره کوب به ارزش اعلام شده ۵۴۰ میلیارد ریال در جریان بازرسی از یک واحد صنفی خبر داد.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/30008217/%DA%A9%D8%B4%D9%81-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D9%82%D9%84%D8%A8%DB%8C-%D9%88-%D8%B4%D9%85%D8%B4-%D8%AF%D8%B1-%D9%82%D9%85"
-  },
-  {
     "source": "مهر",
     "title": "ضربه پلیس آگاهی هرمزگان به شبکه های توزیع ارز جعلی",
     "link": "https://www.mehrnews.com/news/6994197/%D8%B6%D8%B1%D8%A8%D9%87-%D9%BE%D9%84%DB%8C%D8%B3-%D8%A2%DA%AF%D8%A7%D9%87%DB%8C-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%A8%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%D8%A7%D8%B1%D8%B2-%D8%AC%D8%B9%D9%84%DB%8C",
@@ -4052,6 +3940,61 @@
     "duplicate_count": 1,
     "full_text": "کشورهای اروپایی در پی آغاز تجاوز نظامی آمریکا و رژیم صهیونیستی به ایران در فوریه ۲۰۲۶، امسال هزینه بسیار بیشتری بابت واردات نفت خام و فرآورده های نفتی نسبت به سال ۲۰۲۵ می پردازند.",
     "telegram_preview": "📰 اتحادیه اروپا ماهانه ۱۰ میلیارد یورو بیشتر برای نفت می پردازد\n\nکشورهای اروپایی در پی آغاز تجاوز نظامی آمریکا و رژیم صهیونیستی به ایران در فوریه ۲۰۲۶، امسال هزینه بسیار بیشتری بابت واردات نفت خام و فرآورده های نفتی نسبت به سال ۲۰۲۵ می پردازند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080704578/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%DB%B1%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%86%D9%81%D8%AA-%D9%85%DB%8C-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%AF"
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "نفت برنت از ۱۱۷ برگشت",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305095-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA",
+    "summary": "قیمت معاملات آتی نفت خام «وست تگزاس اینترمدیت» (WTI) آمریکا نیز با ۱.۰۸ درصد افزایش، به ۱۰۳.۸۸ دلار در هر بشکه صعود کرد.",
+    "published": "Fri, 30 Oct 2026 11:55:38 +0000",
+    "collected_at": "2026-10-30T15:47:50.508546+03:30",
+    "filter_market_score": 10,
+    "market_score": 14,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "صعود",
+      "قیمت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "قیمت معاملات آتی نفت خام «وست تگزاس اینترمدیت» (WTI) آمریکا نیز با ۱.۰۸ درصد افزایش، به ۱۰۳.۸۸ دلار در هر بشکه صعود کرد.",
+    "telegram_preview": "📰 نفت برنت از ۱۱۷ برگشت\n\nقیمت معاملات آتی نفت خام «وست تگزاس اینترمدیت» (WTI) آمریکا نیز با ۱.۰۸ درصد افزایش، به ۱۰۳.۸۸ دلار در هر بشکه صعود کرد.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305095-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA"
   },
   {
     "source": "ایسنا",
@@ -4472,6 +4415,100 @@
     "telegram_preview": "📰 حباب هوش مصنوعی در آستانه ترکیدن است؟\n\nرشد سرمایه گذاری در هوش مصنوعی و ارزش گذاری های چند تریلیون دلاری شرکت های فعال در این حوزه، نگرانی ها درباره شکل گیری حباب در بازار را افزایش داده است که ترکیدن آن می تواند به شرکت ها، بانک ها و اقتصاد جهانی آسیب بزند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080704396/%D8%AD%D8%A8%D8%A7%D8%A8-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA"
   },
   {
+    "source": "مشرق",
+    "title": "احمد محمدنژاد اولین فینالیست کشتی آزاد؛ نماینده ایران در یک قدمی طلا +فیلم",
+    "link": "https://www.mashreghnews.ir/news/1849197/%D8%A7%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF%D9%86%DA%98%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%82%D8%AF%D9%85%DB%8C",
+    "summary": "احمد محمدنژاد جوان کشتی گیر وزن ۶۱ کیلوگرم با شکست حریف قزاقستانی خود به مرحله فینال مسابقات جهانی راه پیدا کرد.",
+    "published": "Fri, 30 Oct 2026 11:50:38 GMT",
+    "collected_at": "2026-10-30T15:48:07.704342+03:30",
+    "filter_market_score": 6,
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "احمد محمدنژاد جوان کشتی گیر وزن ۶۱ کیلوگرم با شکست حریف قزاقستانی خود به مرحله فینال مسابقات جهانی راه پیدا کرد.",
+    "telegram_preview": "📰 احمد محمدنژاد اولین فینالیست کشتی آزاد؛ نماینده ایران در یک قدمی طلا +فیلم\n\nاحمد محمدنژاد جوان کشتی گیر وزن ۶۱ کیلوگرم با شکست حریف قزاقستانی خود به مرحله فینال مسابقات جهانی راه پیدا کرد.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1849197/%D8%A7%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF%D9%86%DA%98%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%82%D8%AF%D9%85%DB%8C"
+  },
+  {
+    "source": "ایسنا",
+    "title": "زارع با شکست آمریکا فینالیست شد/ ۲ شانس طلای ایران در ۶ وزن نخست قهرمانی جهان",
+    "link": "https://www.isna.ir/news/1405080805003/%D8%B2%D8%A7%D8%B1%D8%B9-%D8%A8%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%B4%D8%AF-%DB%B2-%D8%B4%D8%A7%D9%86%D8%B3-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%B6-%D9%88%D8%B2%D9%86-%D9%86%D8%AE%D8%B3%D8%AA",
+    "summary": "امیرحسین زارع به فینال سنگین وزن کشتی آزاد قهرمانی جهان رسید تا ایران در شش وزن نخست دو فینالیست داشته باشد.",
+    "published": "Fri, 30 Oct 2026 11:54:19 GMT",
+    "collected_at": "2026-10-30T15:47:29.689646+03:30",
+    "filter_market_score": 6,
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "امیرحسین زارع به فینال سنگین وزن کشتی آزاد قهرمانی جهان رسید تا ایران در شش وزن نخست دو فینالیست داشته باشد.",
+    "telegram_preview": "📰 زارع با شکست آمریکا فینالیست شد/ ۲ شانس طلای ایران در ۶ وزن نخست قهرمانی جهان\n\nامیرحسین زارع به فینال سنگین وزن کشتی آزاد قهرمانی جهان رسید تا ایران در شش وزن نخست دو فینالیست داشته باشد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080805003/%D8%B2%D8%A7%D8%B1%D8%B9-%D8%A8%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%B4%D8%AF-%DB%B2-%D8%B4%D8%A7%D9%86%D8%B3-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%B6-%D9%88%D8%B2%D9%86-%D9%86%D8%AE%D8%B3%D8%AA"
+  },
+  {
     "source": "مهر",
     "title": "جوان اولین فینالیست کشتی آزاد؛ نماینده ایران در یک قدمی طلا",
     "link": "https://www.mehrnews.com/news/6994387/%D8%AC%D9%88%D8%A7%D9%86-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%82%D8%AF%D9%85%DB%8C-%D8%B7%D9%84%D8%A7",
@@ -4616,6 +4653,53 @@
     "duplicate_count": 1,
     "full_text": "هکرهای ظاهرا مرتبط با کره شمالی، روز پنج شنبه بیش از ۶ میلیارد دلار رمزارز از صرافی بایننس را به سرقت بردند و رکورد بزرگترین سرقت از این نوع را شکستند.",
     "telegram_preview": "📰 بزرگترین صرافی رمزارز جهان هدف بزرگترین سرقت تاریخ قرار گرفت\n\nهکرهای ظاهرا مرتبط با کره شمالی، روز پنج شنبه بیش از ۶ میلیارد دلار رمزارز از صرافی بایننس را به سرقت بردند و رکورد بزرگترین سرقت از این نوع را شکستند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080804800/%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2-%D8%AC%D9%87%D8%A7%D9%86-%D9%87%D8%AF%D9%81-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B1%D9%82%D8%AA-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA"
+  },
+  {
+    "source": "مشرق",
+    "title": "زارع با برد ۱۰ بر صفر رقیب آمریکایی فینالیست شد؛ طلا در انتظار سنگین وزن ایران +فیلم",
+    "link": "https://www.mashreghnews.ir/news/1849199/%D8%B2%D8%A7%D8%B1%D8%B9-%D8%A8%D8%A7-%D8%A8%D8%B1%D8%AF-%DB%B1%DB%B0-%D8%A8%D8%B1-%D8%B5%D9%81%D8%B1-%D8%B1%D9%82%DB%8C%D8%A8-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%B4%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1",
+    "summary": "امیرحسین زارع با شکست حریف امریکایی خود در مرحله نیمه نهایی به فینال مسابقات جهانی راه پیدا کرد.",
+    "published": "Fri, 30 Oct 2026 12:04:05 GMT",
+    "collected_at": "2026-10-30T15:48:07.704328+03:30",
+    "filter_market_score": 5,
+    "market_score": 11,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "امیرحسین زارع با شکست حریف امریکایی خود در مرحله نیمه نهایی به فینال مسابقات جهانی راه پیدا کرد.",
+    "telegram_preview": "📰 زارع با برد ۱۰ بر صفر رقیب آمریکایی فینالیست شد؛ طلا در انتظار سنگین وزن ایران +فیلم\n\nامیرحسین زارع با شکست حریف امریکایی خود در مرحله نیمه نهایی به فینال مسابقات جهانی راه پیدا کرد.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1849199/%D8%B2%D8%A7%D8%B1%D8%B9-%D8%A8%D8%A7-%D8%A8%D8%B1%D8%AF-%DB%B1%DB%B0-%D8%A8%D8%B1-%D8%B5%D9%81%D8%B1-%D8%B1%D9%82%DB%8C%D8%A8-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%B4%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1"
   },
   {
     "source": "مهر",
@@ -4908,6 +4992,52 @@
     "duplicate_count": 1,
     "full_text": "عبدالرشید سعدالله یف دارنده ۸ مدال طلای جهان و المپیک و ملقب به تانک روس در مرحله یک چهارم نهایی قهرمانی جهان مقابل کایل اسنایدر آمریکایی تن به شکست داد.",
     "telegram_preview": "📰 تانک روس از پس اسنایدر آمریکایی برنیامد/ صعود یوشیدا به نیمه نهایی\n\nعبدالرشید سعدالله یف دارنده ۸ مدال طلای جهان و المپیک و ملقب به تانک روس در مرحله یک چهارم نهایی قهرمانی جهان مقابل کایل اسنایدر آمریکایی تن به شکست داد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080704494/%D8%AA%D8%A7%D9%86%DA%A9-%D8%B1%D9%88%D8%B3-%D8%A7%D8%B2-%D9%BE%D8%B3-%D8%A7%D8%B3%D9%86%D8%A7%DB%8C%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D9%86%DB%8C%D8%A7%D9%85%D8%AF-%D8%B5%D8%B9%D9%88%D8%AF-%DB%8C%D9%88%D8%B4%DB%8C%D8%AF%D8%A7-%D8%A8%D9%87-%D9%86%DB%8C%D9%85%D9%87"
+  },
+  {
+    "source": "مهر",
+    "title": "زارع دومین فینالیست لقب گرفت؛ طلا در انتظار سنگین وزن ایران",
+    "link": "https://www.mehrnews.com/news/6994403/%D8%B2%D8%A7%D8%B1%D8%B9-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D9%84%D9%82%D8%A8-%DA%AF%D8%B1%D9%81%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "summary": "امیرحسین زارع با شکست حریف امریکایی خود در مرحله نیمه نهایی به فینال مسابقات جهانی راه پیدا کرد.",
+    "published": "Fri, 30 Oct 2026 11:54:13 GMT",
+    "collected_at": "2026-10-30T15:47:36.963434+03:30",
+    "filter_market_score": 5,
+    "market_score": 9,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "امیرحسین زارع با شکست حریف امریکایی خود در مرحله نیمه نهایی به فینال مسابقات جهانی راه پیدا کرد.",
+    "telegram_preview": "📰 زارع دومین فینالیست لقب گرفت؛ طلا در انتظار سنگین وزن ایران\n\nامیرحسین زارع با شکست حریف امریکایی خود در مرحله نیمه نهایی به فینال مسابقات جهانی راه پیدا کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6994403/%D8%B2%D8%A7%D8%B1%D8%B9-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D9%84%D9%82%D8%A8-%DA%AF%D8%B1%D9%81%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86"
   },
   {
     "source": "مشرق",

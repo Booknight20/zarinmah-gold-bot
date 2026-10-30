@@ -19694,5 +19694,149 @@
     "group_message_id": 1620,
     "fully_published": true,
     "last_checked_at": "2026-10-30T11:46:34.506062+00:00"
+  },
+  "fc5b8b3545cf1441e3c656e170905504177796002c52e4d15166c2b137db19e3": {
+    "title": "زارع با شکست آمریکا فینالیست شد/ ۲ شانس طلای ایران در ۶ وزن نخست قهرمانی جهان",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080805003/%D8%B2%D8%A7%D8%B1%D8%B9-%D8%A8%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%B4%D8%AF-%DB%B2-%D8%B4%D8%A7%D9%86%D8%B3-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%B6-%D9%88%D8%B2%D9%86-%D9%86%D8%AE%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1877
+    ],
+    "eitaa_message_ids": [
+      179084433
+    ],
+    "group_message_ids": [
+      1621
+    ],
+    "content_hash": "e098ff3c6bae1d3cfa7cdf36d06b9a14bdd809213eb2b06dc3c54cba92d62239",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T12:18:31.311921+00:00",
+    "telegram_message_id": 1877,
+    "eitaa_last_sent_at": "2026-10-30T12:18:32.573070+00:00",
+    "eitaa_message_id": 179084433,
+    "group_last_sent_at": "2026-10-30T12:18:34.151321+00:00",
+    "group_message_id": 1621,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T12:18:34.182993+00:00"
+  },
+  "d0e41cf34f365c9eed012bd638b5b389b86ee1020f888d74124db331d2454d4d": {
+    "title": "زارع دومین فینالیست لقب گرفت؛ طلا در انتظار سنگین وزن ایران",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6994403/%D8%B2%D8%A7%D8%B1%D8%B9-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D9%84%D9%82%D8%A8-%DA%AF%D8%B1%D9%81%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1878
+    ],
+    "eitaa_message_ids": [
+      179084436
+    ],
+    "group_message_ids": [
+      1622
+    ],
+    "content_hash": "62a40b6ec1a48d197eade40d754b70f07f064838ddda04b75fae5585b8217149",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T12:18:35.777192+00:00",
+    "telegram_message_id": 1878,
+    "eitaa_last_sent_at": "2026-10-30T12:18:36.931740+00:00",
+    "eitaa_message_id": 179084436,
+    "group_last_sent_at": "2026-10-30T12:18:38.487902+00:00",
+    "group_message_id": 1622,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T12:18:38.519875+00:00"
+  },
+  "bdae37f146fce93f48dc3540d0f2306d4489cd3a5dc9f0ca2d2a896659ae4491": {
+    "title": "دومین هفته سرخ بورس",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305098-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D9%87%D9%81%D8%AA%D9%87-%D8%B3%D8%B1%D8%AE-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      1879
+    ],
+    "eitaa_message_ids": [
+      179084439
+    ],
+    "group_message_ids": [
+      1623
+    ],
+    "content_hash": "6e98aec5206be35a94155764d44ee7c2b1d42a9c6235fab24a9689a536ff9792",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T12:18:40.111315+00:00",
+    "telegram_message_id": 1879,
+    "eitaa_last_sent_at": "2026-10-30T12:18:41.278353+00:00",
+    "eitaa_message_id": 179084439,
+    "group_last_sent_at": "2026-10-30T12:18:42.848890+00:00",
+    "group_message_id": 1623,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T12:18:42.880862+00:00"
+  },
+  "2dfc6fc82ad474f81e9f78292da5d30beb54ffa7bf622b1a63bd21d44de453ff": {
+    "title": "نفت برنت از ۱۱۷ برگشت",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305095-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA",
+    "telegram_message_ids": [
+      1880
+    ],
+    "eitaa_message_ids": [
+      179084446
+    ],
+    "group_message_ids": [
+      1624
+    ],
+    "content_hash": "8abeac03fc20f18da3f667e0afc1afdb54d359a909961741124b1a25d19f8a99",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T12:18:44.495798+00:00",
+    "telegram_message_id": 1880,
+    "eitaa_last_sent_at": "2026-10-30T12:18:45.099666+00:00",
+    "eitaa_message_id": 179084446,
+    "group_last_sent_at": "2026-10-30T12:18:46.736126+00:00",
+    "group_message_id": 1624,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T12:18:46.767825+00:00"
+  },
+  "6bea0ca790cd183dc679364d8e15bfef0545de382d8e0e39dcaf3e3f24b7b5c6": {
+    "title": "زارع با برد ۱۰ بر صفر رقیب آمریکایی فینالیست شد؛ طلا در انتظار سنگین وزن ایران +فیلم",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849199/%D8%B2%D8%A7%D8%B1%D8%B9-%D8%A8%D8%A7-%D8%A8%D8%B1%D8%AF-%DB%B1%DB%B0-%D8%A8%D8%B1-%D8%B5%D9%81%D8%B1-%D8%B1%D9%82%DB%8C%D8%A8-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%B4%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1881
+    ],
+    "eitaa_message_ids": [
+      179084452
+    ],
+    "group_message_ids": [
+      1625
+    ],
+    "content_hash": "db7ea4457ede577b3b149bc59fa3cdad80e0e077fd6c78b6fbfc2fc0743b9afa",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T12:18:48.397191+00:00",
+    "telegram_message_id": 1881,
+    "eitaa_last_sent_at": "2026-10-30T12:18:49.574782+00:00",
+    "eitaa_message_id": 179084452,
+    "group_last_sent_at": "2026-10-30T12:18:51.143811+00:00",
+    "group_message_id": 1625,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T12:18:51.175817+00:00"
+  },
+  "8fe276d9d20e1d685a3d78afc3466a495b9c43c38dce2d5dad90463947f4f0b7": {
+    "title": "احمد محمدنژاد اولین فینالیست کشتی آزاد؛ نماینده ایران در یک قدمی طلا +فیلم",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849197/%D8%A7%D8%AD%D9%85%D8%AF-%D9%85%D8%AD%D9%85%D8%AF%D9%86%DA%98%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%82%D8%AF%D9%85%DB%8C",
+    "telegram_message_ids": [
+      1882
+    ],
+    "eitaa_message_ids": [
+      179084456
+    ],
+    "group_message_ids": [
+      1626
+    ],
+    "content_hash": "d4679a21ec9b2ca676694aa8bb7aef8570f1af97174b7b39f3eb36db3d959714",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T12:18:52.788811+00:00",
+    "telegram_message_id": 1882,
+    "eitaa_last_sent_at": "2026-10-30T12:18:53.985122+00:00",
+    "eitaa_message_id": 179084456,
+    "group_last_sent_at": "2026-10-30T12:18:55.623210+00:00",
+    "group_message_id": 1626,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T12:18:55.655489+00:00"
   }
 }
