@@ -19166,5 +19166,29 @@
     "group_message_id": 1590,
     "fully_published": true,
     "last_checked_at": "2026-10-30T05:16:21.391231+00:00"
+  },
+  "64f448ddd7fa599c6fbc9c735e4f575518ac0a00c586159e16588fd76d6bbb63": {
+    "title": "قیمت طلا امروز ۸ آبان ۱۴۰۵/ طلای ۱۸عیار ۲۶ میلیون و ۸۳ هزار تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2294972/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B8-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B8%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1847
+    ],
+    "eitaa_message_ids": [
+      179036156
+    ],
+    "group_message_ids": [
+      1591
+    ],
+    "content_hash": "3e9f6c34d39ca13a75ba1ea5da2269dfa404079954ffe19b6ec47cb85794640b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T05:46:22.781929+00:00",
+    "telegram_message_id": 1847,
+    "eitaa_last_sent_at": "2026-10-30T05:46:24.463257+00:00",
+    "eitaa_message_id": 179036156,
+    "group_last_sent_at": "2026-10-30T05:46:26.201056+00:00",
+    "group_message_id": 1591,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T05:46:26.223977+00:00"
   }
 }
