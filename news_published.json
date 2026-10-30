@@ -20198,5 +20198,53 @@
     "group_message_id": 1645,
     "fully_published": true,
     "last_checked_at": "2026-10-30T15:45:10.698315+00:00"
+  },
+  "078161399d93d819082dd2c0949200996c25d207fa5839da7d4c8c5af3c3b837": {
+    "title": "پدیده ۲۰ ساله آمریکایی برنده مدال طلای جهان شد",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008414/%D9%BE%D8%AF%DB%8C%D8%AF%D9%87-20-%D8%B3%D8%A7%D9%84%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1902
+    ],
+    "eitaa_message_ids": [
+      179113350
+    ],
+    "group_message_ids": [
+      1646
+    ],
+    "content_hash": "fb89823422d3466d95ffc236f4fea0e2d469c4616902fcfeac996ae38c9941b4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T16:12:54.333658+00:00",
+    "telegram_message_id": 1902,
+    "eitaa_last_sent_at": "2026-10-30T16:12:56.087829+00:00",
+    "eitaa_message_id": 179113350,
+    "group_last_sent_at": "2026-10-30T16:12:58.218305+00:00",
+    "group_message_id": 1646,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T16:12:58.251615+00:00"
+  },
+  "6196cd39358dad4b82b729dc017687168bd0dd1b6bcb62c4a786ef47a9251161": {
+    "title": "سقوط آزاد بورس اسرائیل همچنان ادامه دارد",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849246/%D8%B3%D9%82%D9%88%D8%B7-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1903
+    ],
+    "eitaa_message_ids": [
+      179113355
+    ],
+    "group_message_ids": [
+      1647
+    ],
+    "content_hash": "140688ab7a7e514c45729763c791a2ca57f5b320c9687844e1c72c0d38ca0ebf",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T16:13:00.099356+00:00",
+    "telegram_message_id": 1903,
+    "eitaa_last_sent_at": "2026-10-30T16:13:01.748694+00:00",
+    "eitaa_message_id": 179113355,
+    "group_last_sent_at": "2026-10-30T16:13:03.544684+00:00",
+    "group_message_id": 1647,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T16:13:03.578197+00:00"
   }
 }
