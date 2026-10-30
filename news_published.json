@@ -19550,5 +19550,29 @@
     "group_message_id": 1612,
     "fully_published": true,
     "last_checked_at": "2026-10-30T10:18:37.207936+00:00"
+  },
+  "1e88e5835af86a418dff72efe168905fdf0bd98e19c5b20eaf0de8baac79c901": {
+    "title": "تولیدکنندگان لوازم خانگی در انتظار حمایت بانکی/ منابع به توزیع می رسد!",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080804960/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A8%D8%A7%D9%86%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%A8%D9%87-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9",
+    "telegram_message_ids": [
+      1870
+    ],
+    "eitaa_message_ids": [
+      179073718
+    ],
+    "group_message_ids": [
+      1614
+    ],
+    "content_hash": "4c1c232d33fabc0744294c42926dbf0218edaafdf448e857b088c60fc117cfc6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T10:48:24.044625+00:00",
+    "telegram_message_id": 1870,
+    "eitaa_last_sent_at": "2026-10-30T10:48:25.266349+00:00",
+    "eitaa_message_id": 179073718,
+    "group_last_sent_at": "2026-10-30T10:48:26.908314+00:00",
+    "group_message_id": 1614,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T10:48:26.939758+00:00"
   }
 }

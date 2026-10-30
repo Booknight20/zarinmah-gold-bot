@@ -731,52 +731,6 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها امروز ۶ آبان ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۲۶۹ هزار و ۵۰۰ تومان قیمت خورد + جدول",
-    "link": "https://www.khabaronline.ir/news/2294576/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B6-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
-    "summary": "قیمت یورو، دلار و سایر ارزها امروز ۶ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو ۳۰۰ هزار و ۴۳۰ تومان و دلار ۲۶۹ هزار و ۵۰۰ تومان قیمت پیدا کرد.",
-    "published": "Wed, 28 Oct 2026 19:20:00 GMT",
-    "collected_at": "2026-10-29T00:47:34.521506+03:30",
-    "filter_market_score": 26,
-    "market_score": 26,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "تابناک",
     "title": "قیمت دلار امروز پنجشنبه 7 آبان ۱۴۰۵؛ جدیدترین نرخ حواله های ارزی",
     "link": "https://tabnak.ir/fa/news/30008249/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-7-%D8%A2%D8%A8%D8%A7%D9%86-1405-%D8%AC%D8%AF%DB%8C%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D9%86%D8%B1%D8%AE-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C",
@@ -3006,37 +2960,37 @@
     "filter_applied": true
   },
   {
-    "source": "مشرق",
-    "title": "قرارداد ۶۹۴ میلیون دلاری آمریکا برای تولید موشک های مافوق صوت",
-    "link": "https://www.mashreghnews.ir/news/1848750/%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%DB%B6%DB%B9%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%85%D9%88%D8%B4%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%81%D9%88%D9%82-%D8%B5%D9%88%D8%AA",
-    "summary": "نیروی هوایی آمریکا قراردادی ۶۹۴ میلیون دلاری برای تولید موشک های مافوق صوت امضا کرده است.",
-    "published": "Wed, 28 Oct 2026 22:00:00 GMT",
-    "collected_at": "2026-10-29T01:47:38.137629+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
+    "source": "ایسنا",
+    "title": "تولیدکنندگان لوازم خانگی در انتظار حمایت بانکی/ منابع به توزیع می رسد!",
+    "link": "https://www.isna.ir/news/1405080804960/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A8%D8%A7%D9%86%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%A8%D9%87-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9",
+    "summary": "در شرایطی که تولیدکنندگان لوازم خانگی با مشکلاتی همچون تامین مواد اولیه، کمبود نقدینگی، محدودیت های ارزی و افزایش هزینه های تولید مواجه اند، رئیس اتحادیه لوازم خانگی با انتقاد از نحوه تخصیص منابع بانکی گفت که منابع مالی بانک ها به جای حمایت از بخش تولید به سمت توزیع کالا هدایت شده است.",
+    "published": "Fri, 30 Oct 2026 10:26:29 GMT",
+    "collected_at": "2026-10-30T14:17:29.212328+03:30",
+    "filter_market_score": 9,
+    "market_score": 9,
     "market_matches": {
       "currency": [
-        "دلار"
+        "ارز"
       ]
     },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
+    "title_market_matches": {},
     "summary_market_matches": {
       "currency": [
-        "دلار"
+        "ارز"
       ]
     },
     "full_text_market_matches": {
       "currency": [
-        "دلار"
+        "ارز"
       ]
     },
-    "driver_matches": [],
+    "driver_matches": [
+      "نقدینگی"
+    ],
     "major_event_matches": [],
     "signal_matches": [
+      "حمایت",
+      "افزایش",
       "تولید"
     ],
     "filter_reason": "relevant_market_news",
@@ -3454,39 +3408,6 @@
     "filter_applied": true
   },
   {
-    "source": "تابناک",
-    "title": "تا ۱۸۰ خانواده را داغدار نکنند، دست از این قلک برنمی دارند؟!",
-    "link": "https://tabnak.ir/fa/news/30008208/%D8%AA%D8%A7-180-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%D8%B1%D8%A7-%D8%AF%D8%A7%D8%BA%D8%AF%D8%A7%D8%B1-%D9%86%DA%A9%D9%86%D9%86%D8%AF-%D8%AF%D8%B3%D8%AA-%D8%A7%D8%B2-%D8%A7%DB%8C%D9%86-%D9%82%D9%84%DA%A9-%D8%A8%D8%B1%D9%86%D9%85%DB%8C-%D8%AF%D8%A7%D8%B1%D9%86%D8%AF",
-    "summary": "صوتی از ابوذر شیرودی، رئیس سازمان هواپیمایی کشوری در فضای مجازی منتشر شده که درباره کشمکشش با خطوط هوایی داخلی می گوید: «...تا ۱۸۰ خانواده را داغدار نکنند، دست از این قلک برنمی دارند؟!... ۳۶ مورد نقص و حادثه مرتبط با موتور هواپیماهای مک دانل داگلاس ام دی MD در چهار سال گذشته؛ مگر چند بار باید زنگ خطر به صدا دربیاید تا جان مسافران جدی گرفته شود؟... شیرودی می گوید هواپیمایی با ۲ میلیون دلار ارزش، سالانه ۸ تا ۹ میلیون دلار درآمد ایجاد کرده و طی سال ها نزدیک به ۱۰۰ میلیون دلار نصیب صاحبانش کرده است؛ اما برخی به جای نوسازی ناوگان، ترجیح داده اند در کشورهای دیگر هتل بخرند.... به گفته او، برخی شرکت های هواپیمایی حاضر نیستند از این «قلک درآمدزا» دست بکشند؛ حتی وقتی پای جان مسافران در میان است... تمام هواپیماهای MD متوقف نشده اند؛ فقط هواپیماهایی اجازه پرواز ندارند که الزامات صلاحیت پروازی را اجرا نکرده اند...",
-    "published": "Wed, 28 Oct 2026 23:47:00 +0330",
-    "collected_at": "2026-10-29T00:47:37.798395+03:30",
-    "filter_market_score": 5,
-    "market_score": 5,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "مشرق",
     "title": "پیروزی بزرگ کامران قاسمپور مقابل قهرمان المپیک +فیلم",
     "link": "https://www.mashreghnews.ir/news/1849148/%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%DA%A9%D8%A7%D9%85%D8%B1%D8%A7%D9%86-%D9%82%D8%A7%D8%B3%D9%85%D9%BE%D9%88%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9-%D9%81%DB%8C%D9%84%D9%85",
@@ -3850,37 +3771,6 @@
     "full_text_market_matches": {
       "gold": [
         "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "نخست وزیر عراق در حرم حضرت زینب",
-    "link": "https://tabnak.ir/fa/news/30008210/%D9%86%D8%AE%D8%B3%D8%AA-%D9%88%D8%B2%DB%8C%D8%B1-%D8%B9%D8%B1%D8%A7%D9%82-%D8%AF%D8%B1-%D8%AD%D8%B1%D9%85-%D8%AD%D8%B6%D8%B1%D8%AA-%D8%B2%DB%8C%D9%86%D8%A8",
-    "summary": "در حالی که شیعیان جهان امکان سفر به سوریه و زیارت حضرت زینب را ندارند، علی الزیدی در سفر به دمشق با همراهی وزیر خارجه سوریه، به زیارت حرم حضرت زینب رفت و از حساب شخصی اش ۵ میلیون دلار برای هزینه های حرم پرداخت کرد.",
-    "published": "Wed, 28 Oct 2026 21:34:00 +0330",
-    "collected_at": "2026-10-29T01:17:02.681008+03:30",
-    "filter_market_score": 4,
-    "market_score": 4,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
       ]
     },
     "driver_matches": [],
