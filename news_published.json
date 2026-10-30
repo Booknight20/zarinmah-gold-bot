@@ -19190,5 +19190,53 @@
     "group_message_id": 1591,
     "fully_published": true,
     "last_checked_at": "2026-10-30T05:46:26.223977+00:00"
+  },
+  "2062d22f2b30eed9c130c076c47c2650c3858f518d4ab52f7eeec3e4ab7fe809": {
+    "title": "طلا تسلیم کاهش قیمت ماهانه شد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080804801/%D8%B7%D9%84%D8%A7-%D8%AA%D8%B3%D9%84%DB%8C%D9%85-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1848
+    ],
+    "eitaa_message_ids": [
+      179039972
+    ],
+    "group_message_ids": [
+      1592
+    ],
+    "content_hash": "c7450fca5888e47b1474f0ff58d393817e14458620ff81ed3c406f25d42206fd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T06:18:26.283365+00:00",
+    "telegram_message_id": 1848,
+    "eitaa_last_sent_at": "2026-10-30T06:18:27.797352+00:00",
+    "eitaa_message_id": 179039972,
+    "group_last_sent_at": "2026-10-30T06:18:29.485649+00:00",
+    "group_message_id": 1592,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T06:18:29.516258+00:00"
+  },
+  "8fbc78ea133755d0e438cf81c81893e57567436ef2afd7aebe615d480cb757fe": {
+    "title": "بزرگترین صرافی رمزارز جهان هدف بزرگترین سرقت تاریخ قرار گرفت",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080804800/%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2-%D8%AC%D9%87%D8%A7%D9%86-%D9%87%D8%AF%D9%81-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B1%D9%82%D8%AA-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA",
+    "telegram_message_ids": [
+      1849
+    ],
+    "eitaa_message_ids": [
+      179039978
+    ],
+    "group_message_ids": [
+      1593
+    ],
+    "content_hash": "7b79876af96bff46cdf17395888f41480913662cd923ef40182f0d5bbf769147",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T06:18:31.206492+00:00",
+    "telegram_message_id": 1849,
+    "eitaa_last_sent_at": "2026-10-30T06:18:32.726096+00:00",
+    "eitaa_message_id": 179039978,
+    "group_last_sent_at": "2026-10-30T06:18:34.424666+00:00",
+    "group_message_id": 1593,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T06:18:34.455005+00:00"
   }
 }
