@@ -19238,5 +19238,53 @@
     "group_message_id": 1593,
     "fully_published": true,
     "last_checked_at": "2026-10-30T06:18:34.455005+00:00"
+  },
+  "e115f10b588959c9518e9c1570ec8a3034daebfb05f929071a3656079aa697ce": {
+    "title": "قتل زوج سالمند در بوشهر با انگیزه سرقت طلا و جواهرات",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080804815/%D9%82%D8%AA%D9%84-%D8%B2%D9%88%D8%AC-%D8%B3%D8%A7%D9%84%D9%85%D9%86%D8%AF-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%A8%D8%A7-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AC%D9%88%D8%A7%D9%87%D8%B1%D8%A7%D8%AA",
+    "telegram_message_ids": [
+      1850
+    ],
+    "eitaa_message_ids": [
+      179042654
+    ],
+    "group_message_ids": [
+      1594
+    ],
+    "content_hash": "cdcc4427de0d75a00a1263a42c450a2989ce1020372cf3875a467dcf69d53af0",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T06:48:12.097725+00:00",
+    "telegram_message_id": 1850,
+    "eitaa_last_sent_at": "2026-10-30T06:48:13.228588+00:00",
+    "eitaa_message_id": 179042654,
+    "group_last_sent_at": "2026-10-30T06:48:14.800596+00:00",
+    "group_message_id": 1594,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T06:48:14.832756+00:00"
+  },
+  "2da429d29d94aedaf259eea8f63fe388a73ed798bd64923afd01d103418826a3": {
+    "title": "جزئیات هک بزرگ ترین صرافی ارز دیجیتال/ بایننس: حادثه ممکن است در نتیجه هک شدن رایانه شخصی یکی از مهندسان بخش عملیات توسعه رخ داده باشد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305064-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D9%87%DA%A9-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%AD%D8%A7%D8%AF%D8%AB%D9%87-%D9%85%D9%85%DA%A9%D9%86-%D8%A7%D8%B3%D8%AA-%D8%AF%D8%B1-%D9%86%D8%AA%DB%8C%D8%AC%D9%87-%D9%87%DA%A9-%D8%B4%D8%AF%D9%86-%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87-%D8%B4%D8%AE%D8%B5%DB%8C-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D9%85%D9%87%D9%86%D8%AF%D8%B3%D8%A7%D9%86-%D8%A8%D8%AE%D8%B4-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B1%D8%AE-%D8%AF%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1851
+    ],
+    "eitaa_message_ids": [
+      179042660
+    ],
+    "group_message_ids": [
+      1595
+    ],
+    "content_hash": "3f540a367bbb4895963a5464ae5517d90a0eef5c8f7a1093df7d7fd758616835",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T06:48:16.431592+00:00",
+    "telegram_message_id": 1851,
+    "eitaa_last_sent_at": "2026-10-30T06:48:17.215609+00:00",
+    "eitaa_message_id": 179042660,
+    "group_last_sent_at": "2026-10-30T06:48:18.767721+00:00",
+    "group_message_id": 1595,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T06:48:18.798719+00:00"
   }
 }
