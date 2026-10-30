@@ -19118,5 +19118,53 @@
     "group_message_id": 1588,
     "fully_published": true,
     "last_checked_at": "2026-10-30T04:47:48.553739+00:00"
+  },
+  "ac351456ba4d52b8f1ca6a4eb0f9afd6ce08c6e4cadab39f0cdad3de80916afc": {
+    "title": "اروپا برای پوشش سود وام های کی یف باید ۳۵ میلیارد یورو اختصاص دهد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6994057/%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B4%D8%B4-%D8%B3%D9%88%D8%AF-%D9%88%D8%A7%D9%85-%D9%87%D8%A7%DB%8C-%DA%A9%DB%8C-%DB%8C%D9%81-%D8%A8%D8%A7%DB%8C%D8%AF-%DB%B3%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5",
+    "telegram_message_ids": [
+      1845
+    ],
+    "eitaa_message_ids": [
+      179033104
+    ],
+    "group_message_ids": [
+      1589
+    ],
+    "content_hash": "d13bb23f8d1ada5bc16fd228a05362dac0eda9ce51bfea02544d9a154f5a43f4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T05:16:14.166499+00:00",
+    "telegram_message_id": 1845,
+    "eitaa_last_sent_at": "2026-10-30T05:16:15.364648+00:00",
+    "eitaa_message_id": 179033104,
+    "group_last_sent_at": "2026-10-30T05:16:16.918603+00:00",
+    "group_message_id": 1589,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T05:16:16.941202+00:00"
+  },
+  "77086f6bfa196649db1eaca05d906a66344297826f70cbf64d70ba32a438def8": {
+    "title": "بزرگترین صرافی ارز دیجیتال جهان هک شد/ماجرای هک 3 صرافی بزرگ/ برخی دارایی های ارز دیجیتال به سرقت رفت",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305053-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%AC%D9%87%D8%A7%D9%86-%D9%87%DA%A9-%D8%B4%D8%AF-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D9%87%DA%A9-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A8%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%D8%B1%D9%81%D8%AA",
+    "telegram_message_ids": [
+      1846
+    ],
+    "eitaa_message_ids": [
+      179033109
+    ],
+    "group_message_ids": [
+      1590
+    ],
+    "content_hash": "496af8aefaae035bb7e7c9080c260adba35cf37faf17ee0f6ee35e176bbd78e3",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T05:16:18.557710+00:00",
+    "telegram_message_id": 1846,
+    "eitaa_last_sent_at": "2026-10-30T05:16:19.746304+00:00",
+    "eitaa_message_id": 179033109,
+    "group_last_sent_at": "2026-10-30T05:16:21.368513+00:00",
+    "group_message_id": 1590,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T05:16:21.391231+00:00"
   }
 }
