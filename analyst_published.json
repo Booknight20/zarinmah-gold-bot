@@ -18400,5 +18400,71 @@
     "group_sent_at": "2026-10-30T14:48:52.252865+03:30",
     "group_message_id": 1619,
     "published_at": "2026-10-30T14:48:52.271992+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8785": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "طلا ۱۸ عیار تقریبا ۱۵۰ تومنی زیر ارزش ذاتیش اومده ‼️",
+      "summary": "طلا ۱۸ عیار تقریبا ۱۵۰ تومنی زیر ارزش ذاتیش اومده ‼️ \n\n 🔹 ارزش ذاتی طلا عیار: ۲۶,۰۰۰,۰۰۰ تومان\n 🔹 ارزش ذاتی ۲۴ عیار: ۳۴,۶۰۰,۰۰۰ تومان \n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "طلا ۱۸ عیار تقریبا ۱۵۰ تومنی زیر ارزش ذاتیش اومده ‼️ \n\n 🔹 ارزش ذاتی طلا عیار: ۲۶,۰۰۰,۰۰۰ تومان\n 🔹 ارزش ذاتی ۲۴ عیار: ۳۴,۶۰۰,۰۰۰ تومان \n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8785",
+      "analysis_score": 13,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "analysis_matches": [
+        "ارزش ذاتی"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 158,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-30T16:48:12.573503+03:30"
+    },
+    "content_signature": "7ee40ade32bc9286fbf895e86d79548cbe8b83ac6f52180c577914a57ff5e0fc",
+    "first_seen_at": "2026-10-30T16:48:13.476812+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1885
+    ],
+    "telegram_last_success_at": "2026-10-30T16:48:13.884973+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-30T16:48:13.908272+03:30",
+    "telegram_message_id": 1885,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179092181
+    ],
+    "eitaa_last_success_at": "2026-10-30T16:48:15.088112+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-30T16:48:15.107688+03:30",
+    "eitaa_message_id": 179092181,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1629
+    ],
+    "group_last_success_at": "2026-10-30T16:48:15.493844+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-30T16:48:15.513509+03:30",
+    "group_message_id": 1629,
+    "published_at": "2026-10-30T16:48:15.532329+03:30"
   }
 }
