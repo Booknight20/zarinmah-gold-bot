@@ -19910,5 +19910,29 @@
     "group_message_id": 1630,
     "fully_published": true,
     "last_checked_at": "2026-10-30T13:46:23.429246+00:00"
+  },
+  "be273656579a535c50f7d5c51e3912ddc147fa599e7c13d8c74c019fb89560c2": {
+    "title": "بازدهی منفی بورس در شروع آبان؛ 3.5 همت از بانک ها خارج شد",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008390/%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D9%85%D9%86%D9%81%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%B4%D8%B1%D9%88%D8%B9-%D8%A2%D8%A8%D8%A7%D9%86-3-5-%D9%87%D9%85%D8%AA-%D8%A7%D8%B2-%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1888
+    ],
+    "eitaa_message_ids": [
+      179099774
+    ],
+    "group_message_ids": [
+      1632
+    ],
+    "content_hash": "86faf25b680f469087f03f235d7924e2dca4c58cb70164983cf3cadab87fa126",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-30T14:18:11.635122+00:00",
+    "telegram_message_id": 1888,
+    "eitaa_last_sent_at": "2026-10-30T14:18:12.872421+00:00",
+    "eitaa_message_id": 179099774,
+    "group_last_sent_at": "2026-10-30T14:18:14.454996+00:00",
+    "group_message_id": 1632,
+    "fully_published": true,
+    "last_checked_at": "2026-10-30T14:18:14.487145+00:00"
   }
 }
