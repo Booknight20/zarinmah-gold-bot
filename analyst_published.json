@@ -18205,5 +18205,68 @@
     "group_sent_at": "2026-10-30T11:18:47.165223+03:30",
     "group_message_id": 1601,
     "published_at": "2026-10-30T11:18:47.184123+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8782": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "این ریزش ارز های دیجیتال و بیت کوین با خبر هک صرافی بایننس ایجاد شد.",
+      "summary": "این ریزش ارز های دیجیتال و بیت کوین با خبر هک صرافی بایننس ایجاد شد. البته هنوز صرافی اعلام رسمی نکرده و خبری تایید نشده @AlirezaMehrabi_ir",
+      "full_text": "این ریزش ارز های دیجیتال و بیت کوین با خبر هک صرافی بایننس ایجاد شد. البته هنوز صرافی اعلام رسمی نکرده و خبری تایید نشده @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8782",
+      "analysis_score": 8,
+      "market_matches": [
+        "ارز",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "ریزش"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل"
+      ],
+      "priority": "medium",
+      "content_length": 139,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-30T12:48:13.987520+03:30"
+    },
+    "content_signature": "4845f4cd50c981bce9a575387bc2dd52373d35f27c4a8cf8f5082f360cdd3b27",
+    "first_seen_at": "2026-10-30T12:48:23.646487+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1861
+    ],
+    "telegram_last_success_at": "2026-10-30T12:48:24.369344+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-30T12:48:24.388955+03:30",
+    "telegram_message_id": 1861,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179062945
+    ],
+    "eitaa_last_success_at": "2026-10-30T12:48:25.591221+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-30T12:48:25.610424+03:30",
+    "eitaa_message_id": 179062945,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1605
+    ],
+    "group_last_success_at": "2026-10-30T12:48:25.987909+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-30T12:48:26.007220+03:30",
+    "group_message_id": 1605,
+    "published_at": "2026-10-30T12:48:26.026047+03:30"
   }
 }
