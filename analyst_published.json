@@ -18540,5 +18540,140 @@
     "group_sent_at": "2026-10-30T17:16:26.443893+03:30",
     "group_message_id": 1631,
     "published_at": "2026-10-30T17:16:26.459836+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25868": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "۲۴۲ هزار معامله‌گر فقط در ۲۴ ساعت از بازار کریپتو بیرون انداخته شدن!",
+      "summary": "۲۴۲ هزار معامله‌گر فقط در ۲۴ ساعت از بازار کریپتو بیرون انداخته شدن! \n حدود ۱.۶ میلیارد دلار لیکوئید شد که ۵۰۰ میلیون دلارش مربوط به بیت‌کوین بود\n\nلیکوئید یعنی معامله‌گرایی که با ضریب خرید کردن و حد ضررشون خورده و کل پولشون سوخت شده.\n\n @payamelyaskordi ✅",
+      "full_text": "۲۴۲ هزار معامله‌گر فقط در ۲۴ ساعت از بازار کریپتو بیرون انداخته شدن! \n حدود ۱.۶ میلیارد دلار لیکوئید شد که ۵۰۰ میلیون دلارش مربوط به بیت‌کوین بود\n\nلیکوئید یعنی معامله‌گرایی که با ضریب خرید کردن و حد ضررشون خورده و کل پولشون سوخت شده.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25868",
+      "analysis_score": 17,
+      "market_matches": [
+        "دلار",
+        "بیت کوین",
+        "بیت‌کوین",
+        "کریپتو"
+      ],
+      "analysis_matches": [
+        "معامله",
+        "خرید",
+        "حد ضرر"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی"
+      ],
+      "priority": "high",
+      "content_length": 254,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-30T18:17:38.984409+03:30"
+    },
+    "content_signature": "3e1576a83de667d6e5dc5ce79aa62a7b9954da6776a0798f497236ffe38f37fb",
+    "first_seen_at": "2026-10-30T18:18:08.859130+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1893
+    ],
+    "telegram_last_success_at": "2026-10-30T18:18:09.338518+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-30T18:18:09.358162+03:30",
+    "telegram_message_id": 1893,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179103419
+    ],
+    "eitaa_last_success_at": "2026-10-30T18:18:10.111647+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-30T18:18:10.130227+03:30",
+    "eitaa_message_id": 179103419,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1637
+    ],
+    "group_last_success_at": "2026-10-30T18:18:10.669203+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-30T18:18:10.688493+03:30",
+    "group_message_id": 1637,
+    "published_at": "2026-10-30T18:18:10.706636+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25869": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "۲۴۲ هزار معامله‌گر فقط در ۲۴ ساعت از بازار کریپتو بیرون انداخته شدن!",
+      "summary": "۲۴۲ هزار معامله‌گر فقط در ۲۴ ساعت از بازار کریپتو بیرون انداخته شدن! حدود ۱.۶ میلیارد دلار لیکوئید شد که ۵۰۰ میلیون دلارش مربوط به بیت‌کوین بود لیکوئید یعنی معامله‌گرایی که با ضریب خرید کردن و حد ضررشون خورده و کل پولشون سوخت شده. @payamelyaskordi ✅",
+      "full_text": "۲۴۲ هزار معامله‌گر فقط در ۲۴ ساعت از بازار کریپتو بیرون انداخته شدن! حدود ۱.۶ میلیارد دلار لیکوئید شد که ۵۰۰ میلیون دلارش مربوط به بیت‌کوین بود لیکوئید یعنی معامله‌گرایی که با ضریب خرید کردن و حد ضررشون خورده و کل پولشون سوخت شده. @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25869",
+      "analysis_score": 16,
+      "market_matches": [
+        "دلار",
+        "بیت کوین",
+        "بیت‌کوین",
+        "کریپتو"
+      ],
+      "analysis_matches": [
+        "معامله",
+        "خرید",
+        "حد ضرر"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "high",
+      "content_length": 249,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-30T18:17:38.986631+03:30"
+    },
+    "content_signature": "c15de265342e31d759ddca12c3796f2d3d60ec9148c13fa4ffc039229b0e2b9b",
+    "first_seen_at": "2026-10-30T18:18:10.725198+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1894
+    ],
+    "telegram_last_success_at": "2026-10-30T18:18:11.200883+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-30T18:18:11.219925+03:30",
+    "telegram_message_id": 1894,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179103431
+    ],
+    "eitaa_last_success_at": "2026-10-30T18:18:12.649048+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-30T18:18:12.668036+03:30",
+    "eitaa_message_id": 179103431,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1638
+    ],
+    "group_last_success_at": "2026-10-30T18:18:13.179981+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-30T18:18:13.199046+03:30",
+    "group_message_id": 1638,
+    "published_at": "2026-10-30T18:18:13.217551+03:30"
   }
 }
