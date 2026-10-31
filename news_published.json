@@ -22958,5 +22958,77 @@
     "group_message_id": 1799,
     "fully_published": true,
     "last_checked_at": "2026-10-31T15:16:34.017586+00:00"
+  },
+  "ffe811f1e54e8d94ac61cc1142f5e5d20d11c99ff10fae8157451ee294352ba5": {
+    "title": "شنل طلا از ۳۹۰۰ سال پیش و رازی کشف نشده",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080905821/%D8%B4%D9%86%D9%84-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%DB%B3%DB%B9%DB%B0%DB%B0-%D8%B3%D8%A7%D9%84-%D9%BE%DB%8C%D8%B4-%D9%88-%D8%B1%D8%A7%D8%B2%DB%8C-%DA%A9%D8%B4%D9%81-%D9%86%D8%B4%D8%AF%D9%87",
+    "telegram_message_ids": [
+      2053
+    ],
+    "eitaa_message_ids": [
+      179299970
+    ],
+    "group_message_ids": [
+      1800
+    ],
+    "content_hash": "45c1556ef9a8c1f4755898ed1429cd1fabd04a107dc9a4f88fc87d7f797ced67",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T15:48:05.968789+00:00",
+    "telegram_message_id": 2053,
+    "eitaa_last_sent_at": "2026-10-31T15:48:07.166521+00:00",
+    "eitaa_message_id": 179299970,
+    "group_last_sent_at": "2026-10-31T15:48:08.789520+00:00",
+    "group_message_id": 1800,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T15:48:08.825596+00:00"
+  },
+  "800e870011abcfc91529207f41ade1aa42bf4129df83d6abca3a6465bc34c865": {
+    "title": "نظر مورینیو درباره توپ طلای هری کین",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080905817/%D9%86%D8%B8%D8%B1-%D9%85%D9%88%D8%B1%DB%8C%D9%86%DB%8C%D9%88-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7%DB%8C-%D9%87%D8%B1%DB%8C-%DA%A9%DB%8C%D9%86",
+    "telegram_message_ids": [
+      2054
+    ],
+    "eitaa_message_ids": [
+      179299986
+    ],
+    "group_message_ids": [
+      1801
+    ],
+    "content_hash": "f8d2aeeae8e9a5592e02d814c73b043d75ff69c255e3b9a96c4ba0acecf634c2",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T15:48:10.466362+00:00",
+    "telegram_message_id": 2054,
+    "eitaa_last_sent_at": "2026-10-31T15:48:11.663513+00:00",
+    "eitaa_message_id": 179299986,
+    "group_last_sent_at": "2026-10-31T15:48:13.241145+00:00",
+    "group_message_id": 1801,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T15:48:13.277067+00:00"
+  },
+  "f926b15b3185f9b8515dedac9a02441c0106419b58e1dbf35ab40b351d70f0f6": {
+    "title": "کایل دیک پادشاه جدید ۸۶ کیلوگرم جهان +نتایج کامل ۴ وزن دوم",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849487/%DA%A9%D8%A7%DB%8C%D9%84-%D8%AF%DB%8C%DA%A9-%D9%BE%D8%A7%D8%AF%D8%B4%D8%A7%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%DB%B8%DB%B6-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AC%D9%87%D8%A7%D9%86-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%DA%A9%D8%A7%D9%85%D9%84-%DB%B4-%D9%88%D8%B2%D9%86-%D8%AF%D9%88%D9%85",
+    "telegram_message_ids": [
+      2055
+    ],
+    "eitaa_message_ids": [
+      179299999
+    ],
+    "group_message_ids": [
+      1802
+    ],
+    "content_hash": "aa7365778316563da1e6d586e9333bf595459900bfaf21d3334067ca8052d874",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T15:48:14.920040+00:00",
+    "telegram_message_id": 2055,
+    "eitaa_last_sent_at": "2026-10-31T15:48:16.051114+00:00",
+    "eitaa_message_id": 179299999,
+    "group_last_sent_at": "2026-10-31T15:48:17.708436+00:00",
+    "group_message_id": 1802,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T15:48:17.744603+00:00"
   }
 }
