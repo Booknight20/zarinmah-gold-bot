@@ -19221,5 +19221,76 @@
     "group_sent_at": "2026-10-31T11:19:00.846561+03:30",
     "group_message_id": 1713,
     "published_at": "2026-10-31T11:19:00.866003+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8793": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "سر ریزش اونس طلا و نقره، صندوق‌های طلا و نقره با منفی 3 معاملات امروز رو آغاز کردن ‼️",
+      "summary": "سر ریزش اونس طلا و نقره، صندوق‌های طلا و نقره با منفی 3 معاملات امروز رو آغاز کردن ‼️ \n\nطلا 18 عیار: 25/380/000 تومان\nنقره 925: 399/000 تومان\nتتر: 272/800 تومان\nبیت کوین: 77/350 دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "سر ریزش اونس طلا و نقره، صندوق‌های طلا و نقره با منفی 3 معاملات امروز رو آغاز کردن ‼️ \n\nطلا 18 عیار: 25/380/000 تومان\nنقره 925: 399/000 تومان\nتتر: 272/800 تومان\nبیت کوین: 77/350 دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8793",
+      "analysis_score": 21,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "دلار",
+        "صندوق‌های طلا",
+        "تتر",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "ریزش"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 206,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-31T12:18:16.920815+03:30"
+    },
+    "content_signature": "e1fcc488f7fc297904dd9dc07e0765d5a8abd452657a5ef4169092880b918983",
+    "first_seen_at": "2026-10-31T12:18:39.617287+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1977
+    ],
+    "telegram_last_success_at": "2026-10-31T12:18:39.985409+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-31T12:18:40.006132+03:30",
+    "telegram_message_id": 1977,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179221707
+    ],
+    "eitaa_last_success_at": "2026-10-31T12:18:41.164763+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-31T12:18:41.185957+03:30",
+    "eitaa_message_id": 179221707,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1723
+    ],
+    "group_last_success_at": "2026-10-31T12:18:41.578135+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-31T12:18:41.598224+03:30",
+    "group_message_id": 1723,
+    "published_at": "2026-10-31T12:18:41.618429+03:30"
   }
 }
