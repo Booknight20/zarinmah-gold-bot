@@ -23294,5 +23294,29 @@
     "group_message_id": 1818,
     "fully_published": true,
     "last_checked_at": "2026-10-31T18:18:32.364529+00:00"
+  },
+  "6342b6ddf2eb9615d976c989adb522429fed0d9bfd6e9cd2086014421753424d": {
+    "title": "تصمیم جدید بانک مرکزی برای ارز واردات + جزئیات",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305453-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA",
+    "telegram_message_ids": [
+      2072
+    ],
+    "eitaa_message_ids": [
+      179323368
+    ],
+    "group_message_ids": [
+      1819
+    ],
+    "content_hash": "ea155439d72caffc65ee829ec64dbd69625a871b4cc66262d8c40e0181234247",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T18:48:00.810023+00:00",
+    "telegram_message_id": 2072,
+    "eitaa_last_sent_at": "2026-10-31T18:48:02.181259+00:00",
+    "eitaa_message_id": 179323368,
+    "group_last_sent_at": "2026-10-31T18:48:03.930647+00:00",
+    "group_message_id": 1819,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T18:48:03.967714+00:00"
   }
 }
