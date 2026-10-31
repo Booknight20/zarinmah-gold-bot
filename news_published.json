@@ -20606,5 +20606,29 @@
     "group_message_id": 1666,
     "fully_published": true,
     "last_checked_at": "2026-10-31T02:46:13.261203+00:00"
+  },
+  "23b0f0dc156a0e6705e24a9d4b64b7f2120bbf2c50a1ec7aaabc35a22ca33fae": {
+    "title": "صدراعظم آلمان: جنگ علیه ایران بیش از ۱۰۰ میلیارد یورو به اروپا خسارت زده/ این بحران راه حل نظامی ندارد، باید از طریق مذاکره حل شود",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305260-%D8%B5%D8%AF%D8%B1%D8%A7%D8%B9%D8%B8%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%A8%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%B2%D8%AF%D9%87-%D8%A7%DB%8C%D9%86-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%D9%87-%D8%AD%D9%84-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%AD%D9%84-%D8%B4%D9%88%D8%AF",
+    "telegram_message_ids": [
+      1921
+    ],
+    "eitaa_message_ids": [
+      179165240
+    ],
+    "group_message_ids": [
+      1667
+    ],
+    "content_hash": "ac6585f7d9d590bc922fdd5cdf498033e73101239cec21914e464eef856642f2",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T03:18:00.415443+00:00",
+    "telegram_message_id": 1921,
+    "eitaa_last_sent_at": "2026-10-31T03:18:01.900803+00:00",
+    "eitaa_message_id": 179165240,
+    "group_last_sent_at": "2026-10-31T03:18:03.685120+00:00",
+    "group_message_id": 1667,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T03:18:03.718644+00:00"
   }
 }
