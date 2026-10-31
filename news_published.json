@@ -21014,5 +21014,101 @@
     "group_message_id": 1684,
     "fully_published": true,
     "last_checked_at": "2026-10-31T05:47:57.847186+00:00"
+  },
+  "e55e58fc7a455b4179f0fd4bd9f5e33a41dbd158646eb4b46f203e470ba0962f": {
+    "title": "خروج طلای ساخته شده بیش از ۱۵۰ گرم و ارز بیش از ۵ هزار یورو از کشور ممنوع است",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080905264/%D8%AE%D8%B1%D9%88%D8%AC-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B5%DB%B0-%DA%AF%D8%B1%D9%85-%D9%88-%D8%A7%D8%B1%D8%B2-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D8%B2",
+    "telegram_message_ids": [
+      1942
+    ],
+    "eitaa_message_ids": [
+      179186277
+    ],
+    "group_message_ids": [
+      1688
+    ],
+    "content_hash": "1fd45b4b91b0bf31f7f343c933eed12c312fa9b61c31630b7f1c9508637f4e25",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T06:08:08.067235+00:00",
+    "telegram_message_id": 1942,
+    "eitaa_last_sent_at": "2026-10-31T06:08:09.693098+00:00",
+    "eitaa_message_id": 179186277,
+    "group_last_sent_at": "2026-10-31T06:08:11.449844+00:00",
+    "group_message_id": 1688,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T06:08:11.483775+00:00"
+  },
+  "a93d759f9d9edce4d4b780ee75535b14cca804e2922c050266592287a8c33ff8": {
+    "title": "فرهادی: خروج سکه و شمش طلا ممنوع است",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6994835/%D9%81%D8%B1%D9%87%D8%A7%D8%AF%DB%8C-%D8%AE%D8%B1%D9%88%D8%AC-%D8%B3%DA%A9%D9%87-%D9%88-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D9%85%D9%85%D9%86%D9%88%D8%B9-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1943
+    ],
+    "eitaa_message_ids": [
+      179186564
+    ],
+    "group_message_ids": [
+      1689
+    ],
+    "content_hash": "dd7052ba66fcd4f39c254f4e91c34bbbec5d79b329ef7b5fbaac0290cf333894",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T06:08:13.319968+00:00",
+    "telegram_message_id": 1943,
+    "eitaa_last_sent_at": "2026-10-31T06:08:14.972269+00:00",
+    "eitaa_message_id": 179186564,
+    "group_last_sent_at": "2026-10-31T06:08:16.752542+00:00",
+    "group_message_id": 1689,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T06:08:16.786619+00:00"
+  },
+  "c9a1d7f39e43559878865aed661fd59d91f169d88ad9d36b99d81b5292157211": {
+    "title": "دو طلا در انتظار نمایندگان کاراته ایران در روسیه",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6994798/%D8%AF%D9%88-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B3%DB%8C%D9%87",
+    "telegram_message_ids": [
+      1944
+    ],
+    "eitaa_message_ids": [
+      179186600
+    ],
+    "group_message_ids": [
+      1690
+    ],
+    "content_hash": "90871590670f9d6739c086236f8de5c7faaa72c8b1c0706f06f83a0bbf8a02bd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T06:08:18.633394+00:00",
+    "telegram_message_id": 1944,
+    "eitaa_last_sent_at": "2026-10-31T06:08:20.244047+00:00",
+    "eitaa_message_id": 179186600,
+    "group_last_sent_at": "2026-10-31T06:08:21.996186+00:00",
+    "group_message_id": 1690,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T06:08:22.030175+00:00"
+  },
+  "fdbbad7785b563f5d77b286b2d242021a0e1369b361d6f35842599dcdef6c303": {
+    "title": "پیش بینی قیمت طلا، دلار و سکه امروز شنبه ۹ آبان ۱۴۰۵/ صعود دلار ادامه دارد؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305289-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B5%D8%B9%D9%88%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1945
+    ],
+    "eitaa_message_ids": [
+      179186866
+    ],
+    "group_message_ids": [
+      1691
+    ],
+    "content_hash": "4489a571c311abc68d5344fddbdd9c2e707ab69eb90d064e087d8a52ff6eedcc",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T06:08:23.872787+00:00",
+    "telegram_message_id": 1945,
+    "eitaa_last_sent_at": "2026-10-31T06:08:24.952371+00:00",
+    "eitaa_message_id": 179186866,
+    "group_last_sent_at": "2026-10-31T06:08:26.728782+00:00",
+    "group_message_id": 1691,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T06:08:26.762808+00:00"
   }
 }
