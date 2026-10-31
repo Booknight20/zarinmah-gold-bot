@@ -2367,6 +2367,47 @@
     "filter_applied": true
   },
   {
+    "source": "مهر",
+    "title": "معدن می تواند جایگزین نفت در تأمین ارز کشور شود",
+    "link": "https://www.mehrnews.com/news/6995116/%D9%85%D8%B9%D8%AF%D9%86-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1-%D8%B4%D9%88%D8%AF",
+    "summary": "رئیس اتاق تهران گفت: اگر توجه جدی تری به بخش معدن صورت گیرد، این حوزه می تواند منابع ارزی مورد نیاز کشور را تأمین کند و حتی ضرورتی برای اتکای گسترده به صادرات نفت خام و گاز باقی نماند.",
+    "published": "Sat, 31 Oct 2026 08:59:51 GMT",
+    "collected_at": "2026-10-31T12:46:53.424502+03:30",
+    "filter_market_score": 17,
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [
+      "نفت",
+      "صادرات نفت",
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "صادرات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "عقب­ نشینی بورس از مرز 7.9میلیونی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305302-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D8%B2-%D9%85%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C",
@@ -2575,48 +2616,6 @@
     "filter_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "پولیتیکو: پنتاگون برای کاهش ۴۰۰ میلیارد دلاری بودجه دفاعی درخواستی ترامپ آماده می شود",
-    "link": "https://www.isna.ir/news/1405080804776/%D9%BE%D9%88%D9%84%DB%8C%D8%AA%DB%8C%DA%A9%D9%88-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%DB%B4%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%AF%D9%81%D8%A7%D8%B9%DB%8C-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%DB%8C",
-    "summary": "وب سایت پولیتیکو به نقل از منابع و مقام های آمریکایی گزارش داد که وزارت جنگ آمریکا (پنتاگون) در حال آماده شدن برای احتمال کاهش ۴۰۰ میلیارد دلاری بودجه دفاعی درخواستی دونالد ترامپ است.",
-    "published": "Fri, 30 Oct 2026 00:17:02 GMT",
-    "collected_at": "2026-10-30T04:17:25.155722+03:30",
-    "filter_market_score": 16,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "بودجه"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "کاهش",
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "مهر",
     "title": "«کاوان»؛ سومین نماد مس و تنها تولیدکننده قلع در بورس",
     "link": "https://www.mehrnews.com/news/6994918/%DA%A9%D8%A7%D9%88%D8%A7%D9%86-%D8%B3%D9%88%D9%85%DB%8C%D9%86-%D9%86%D9%85%D8%A7%D8%AF-%D9%85%D8%B3-%D9%88-%D8%AA%D9%86%D9%87%D8%A7-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%82%D9%84%D8%B9-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3",
@@ -2781,47 +2780,6 @@
     "filter_applied": true
   },
   {
-    "source": "مهر",
-    "title": "آمادگی پنتاگون برای کاهش ۴۰۰ میلیارد دلاری بودجه نظامی آمریکا",
-    "link": "https://www.mehrnews.com/news/6994031/%D8%A2%D9%85%D8%A7%D8%AF%DA%AF%DB%8C-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%DB%B4%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
-    "summary": "در آستانه انتخابات میان دوره ای و به دلیل فشار هزینه های سرسام آور جنگ ها، نهادهای نظامی و کنگره آمریکا در حال تدوین پیش نویس بودجه ای کمتر از ۱.۱ تریلیون دلار هستند.",
-    "published": "Fri, 30 Oct 2026 00:42:54 GMT",
-    "collected_at": "2026-10-30T04:17:27.232345+03:30",
-    "filter_market_score": 15,
-    "market_score": 15,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "بودجه"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "کاهش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "فرشاد مومنی: سهم مصرف نهایی خانوارها از اقتصاد کشور کاهش یافته است",
     "link": "https://www.khabaronline.ir/news/2295240/%D9%81%D8%B1%D8%B4%D8%A7%D8%AF-%D9%85%D9%88%D9%85%D9%86%DB%8C-%D8%B3%D9%87%D9%85-%D9%85%D8%B5%D8%B1%D9%81-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%B1%D9%87%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%DA%A9%D8%B4%D9%88%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA%D9%87",
@@ -2901,6 +2859,44 @@
       "واردات",
       "افزایش"
     ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "۱۴ مالباخته در پرونده باند سایبری مشهد / هشدار پلیس فتا به فروشندگان طلا در فضای مجازی",
+    "link": "https://www.isna.ir/news/1405080905510/%DB%B1%DB%B4-%D9%85%D8%A7%D9%84%D8%A8%D8%A7%D8%AE%D8%AA%D9%87-%D8%AF%D8%B1-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%A8%D8%A7%D9%86%D8%AF-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%DB%8C-%D9%85%D8%B4%D9%87%D8%AF-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%BE%D9%84%DB%8C%D8%B3-%D9%81%D8%AA%D8%A7-%D8%A8%D9%87-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%DA%AF%D8%A7%D9%86",
+    "summary": "رئیس پلیس فتا خراسان رضوی با بیان اینکه باند کلاهبرداران سایبری که با برداشت غیرمجاز از حساب شهروندان، طلا خریداری می کردند، طی ۳ عملیات همزمان در مشهد دستگیر شدند، گفت: ۶۰۰ گرم طلا از متهمان کشف و ضبط شد؛ تاکنون ۱۴ مالباخته به پلیس فتا مراجعه و شکایت کرده اند.",
+    "published": "Sat, 31 Oct 2026 09:04:36 GMT",
+    "collected_at": "2026-10-31T12:46:41.574389+03:30",
+    "filter_market_score": 13,
+    "market_score": 13,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "گرم طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "گرم طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا",
+        "گرم طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
@@ -3247,44 +3243,6 @@
     "signal_matches": [
       "سود",
       "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۷ آبان ۱۴۰۵ در زمان بسته شدن بازار/ سکه امامی روی قیمت ۲۶۶ میلیون و ۷۰۰ هزار تومان ایستاد + جدول",
-    "link": "https://www.khabaronline.ir/news/2294932/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C",
-    "summary": "قیمت سکه در بازار تهران امروز ۷ آبان ۱۴۰۵ اعلام شد و سکه امامی ۲۶۶ میلیون و ۷۰۰ هزار تومان قیمت خورد.",
-    "published": "Thu, 29 Oct 2026 20:28:00 GMT",
-    "collected_at": "2026-10-30T00:15:53.005678+03:30",
-    "filter_market_score": 12,
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "سکه امامی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه امامی"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "سکه امامی"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "سکه امامی"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -4335,6 +4293,39 @@
     "filter_applied": true
   },
   {
+    "source": "ایسنا",
+    "title": "افشای خسارات سنگین حملات ایران به پایگاه های آمریکایی در دوره جنگ",
+    "link": "https://www.isna.ir/news/1405080905508/%D8%A7%D9%81%D8%B4%D8%A7%DB%8C-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%AF%D9%88%D8%B1%D9%87",
+    "summary": "تحقیقات جدید روزنامه وال استریت ژورنال نشان می دهد که حملات ایران در پاسخ به تجاوزگری آمریکا علیه پایگاه های این کشور در سراسر منطقه به ۲۷۴ سازه در ۲۴ تاسیسات نظامی واشنگتن آسیب رسانده است که به گفته یک منبع آگاه این رسانه، هزینه کلی آن ممکن است به ۱۵ میلیارد دلار برسد.",
+    "published": "Sat, 31 Oct 2026 09:02:08 GMT",
+    "collected_at": "2026-10-31T12:46:41.574416+03:30",
+    "filter_market_score": 6,
+    "market_score": 6,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مهر",
     "title": "پیشگیری، نه محدودسازی؛ رویکرد ستاد قاچاق در قبال سکوهای اینترنتی",
     "link": "https://www.mehrnews.com/news/6995082/%D9%BE%DB%8C%D8%B4%DA%AF%DB%8C%D8%B1%DB%8C-%D9%86%D9%87-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B1%D9%88%DB%8C%DA%A9%D8%B1%D8%AF-%D8%B3%D8%AA%D8%A7%D8%AF-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%AF%D8%B1-%D9%82%D8%A8%D8%A7%D9%84-%D8%B3%DA%A9%D9%88%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C",
@@ -4937,6 +4928,37 @@
     "full_text_market_matches": {
       "gold": [
         "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "صرافی های رمزارز برای تقویت امنیت به تکاپو افتادند",
+    "link": "https://www.isna.ir/news/1405080905502/%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D9%87%D8%A7%DB%8C-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A8%D9%87-%D8%AA%DA%A9%D8%A7%D9%BE%D9%88-%D8%A7%D9%81%D8%AA%D8%A7%D8%AF%D9%86%D8%AF",
+    "summary": "صرافی های رمزارز پس از سرقت بی سابقه ۶.۳ میلیارد دلار از بایننس که آسیب پذیری آنها را آشکار کرد، اقدامات سریعی را برای تقویت دفاع خود انجام می دهند و خواستار اشتراک گذاری بیشتر اطلاعات در سطح صنعت هستند.",
+    "published": "Sat, 31 Oct 2026 08:58:23 GMT",
+    "collected_at": "2026-10-31T12:46:41.574494+03:30",
+    "filter_market_score": 4,
+    "market_score": 4,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
       ]
     },
     "driver_matches": [],
