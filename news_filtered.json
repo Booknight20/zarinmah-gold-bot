@@ -1344,6 +1344,56 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "احتیاط دوباره بورس",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4305341-%D8%A7%D8%AD%D8%AA%DB%8C%D8%A7%D8%B7-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "دنیای اقتصاد: بورس تهران معاملات نخستین روز هفته را با افت شاخص های سهامی به پایان رساند. شاخص کل با کاهش 1.62 درصدی به سطح ۷ میلیون و ۸۳۸ هزار واحد عقب نشینی کرد و به کمترین مقدار خود از ۱۳ مهرماه رسید. شاخص هم وزن نیز 0.58 درصد افت کرد و در سطح ۲ میلیون و ۱۹۶ هزار واحد ایستاد.",
+    "published": "Sat, 31 Oct 2026 12:30:41 +0000",
+    "collected_at": "2026-10-31T16:17:39.799219+03:30",
+    "filter_market_score": 24,
+    "market_score": 24,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "سهام"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "افت",
+      "معاملات",
+      "عقب‌نشینی",
+      "عقب نشینی"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "عرضه اولیه ۱۵ درصدی «کاوان» در راه است / نخستین مس خصوصی به بورس تهران می رود",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305336-%D8%B9%D8%B1%D8%B6%D9%87-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%DA%A9%D8%A7%D9%88%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D9%85%D8%B3-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C-%D8%A8%D9%87-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF",
     "summary": "مدیران مس کاوان نماد و گروه نماد صنعت پارس از برنامه عرضه اولیه ۱۵ درصد از سهام «کاوان» در بورس تهران، افزایش سرمایه از محل سود انباشته و اجرای طرح های توسعه ای با محوریت خط دوم فرآوری معدن عباس آباد خبر دادند.",
@@ -2161,6 +2211,50 @@
       "سود",
       "گزارش",
       "سیگنال"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "سوگواران نفت ۲۰۰ دلاری",
+    "link": "https://www.khabaronline.ir/news/2293539/%D8%B3%D9%88%DA%AF%D9%88%D8%A7%D8%B1%D8%A7%D9%86-%D9%86%D9%81%D8%AA-%DB%B2%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
+    "summary": "ایران پس از تفاهم اسلام آباد حدود ۸۰ میلیون بشکه نفت صادر کرد؛ عددی که برای ارزیابی اقتصادی آن، نقطه شروع روشن تری از وعده نفت ۲۰۰ دلاری است. تفاهم برای اقتصاد گرفتار محدودیت ایران، حکم یک دوپینگ بزرگ را داشت: فرصتی برای افزایش فروش، تأمین منابع ارزی و کاستن از فشار توقف صادرات. ما طعم شیرین این گشایش را چشیدیم و ادامه آن می توانست دستاورد بیشتری داشته باشد. منتقدانی که هنوز از نفت ۲۰۰ دلاری و فروپاشی غرب می گویند، باید توضیح دهند چرا منفعتی که ایران تجربه کرد، در محاسباتشان چنین کم ارزش است.",
+    "published": "Sat, 31 Oct 2026 12:39:00 GMT",
+    "collected_at": "2026-10-31T16:17:42.858377+03:30",
+    "filter_market_score": 19,
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "driver_matches": [
+      "نفت",
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "صادرات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3408,38 +3502,39 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "بزرگ ترین سرقت تاریخ رمزارزها؛ ۶.۳ میلیارد دلار از بایننس خارج شد/ کره شمالی در مظان اتهام",
-    "link": "https://www.khabaronline.ir/news/2295106/%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B1%D9%82%D8%AA-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%DB%B6-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%AE%D8%A7%D8%B1%D8%AC",
-    "summary": "صرافی بایننس، بزرگ ترین پلتفرم معاملات رمزارز جهان، هدف حمله سایبری کم سابقه ای قرار گرفته است که برآورد اولیه خسارت آن به حدود ۶.۳ میلیارد دلار می رسد.",
-    "published": "Fri, 30 Oct 2026 10:16:30 GMT",
-    "collected_at": "2026-10-30T13:47:56.085876+03:30",
-    "filter_market_score": 12,
-    "market_score": 12,
+    "source": "ایسنا",
+    "title": "قاچاق در سایه ممنوعیت واردات/ پلتفرم ها زیر ذره بین نظارت",
+    "link": "https://www.isna.ir/news/1405080905716/%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%AF%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D9%85%D9%85%D9%86%D9%88%D8%B9%DB%8C%D8%AA-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D9%87%D8%A7-%D8%B2%DB%8C%D8%B1-%D8%B0%D8%B1%D9%87-%D8%A8%DB%8C%D9%86-%D9%86%D8%B8%D8%A7%D8%B1%D8%AA",
+    "summary": "در حالی که ممنوعیت واردات برخی کالاها با هدف حمایت از تولید داخل و مدیریت منابع ارزی ادامه دارد، فعالان اقتصاد دیجیتال از گسترش بازارهای غیررسمی، ازدست رفتن درآمدهای مالیاتی و گمرکی دولت و دشوارتر شدن نظارت بر اصالت کالاها سخن می گویند؛ موضوعی که هم زمان پرسش هایی درباره حدود مسئولیت پلتفرم های اینترنتی در مقابله با قاچاق مطرح کرده است.",
+    "published": "Sat, 31 Oct 2026 12:36:54 GMT",
+    "collected_at": "2026-10-31T16:17:19.232490+03:30",
+    "filter_market_score": 11,
+    "market_score": 11,
     "market_matches": {
       "currency": [
-        "دلار"
+        "ارز"
       ]
     },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
+    "title_market_matches": {},
     "summary_market_matches": {
       "currency": [
-        "دلار"
+        "ارز"
       ]
     },
     "full_text_market_matches": {
       "currency": [
-        "دلار"
+        "ارز"
       ]
     },
-    "driver_matches": [],
+    "driver_matches": [
+      "واردات"
+    ],
     "major_event_matches": [],
     "signal_matches": [
-      "معاملات",
+      "ممنوعیت",
+      "واردات",
+      "حمایت",
+      "تولید",
       "هدف"
     ],
     "filter_reason": "relevant_market_news",
@@ -3665,6 +3760,41 @@
     "signal_matches": [
       "سقوط"
     ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "رزمی کار گیلانی در فستیوال جهانی کیک بوکسینگ ارمنستان طلا گرفت",
+    "link": "https://www.mehrnews.com/news/6995427/%D8%B1%D8%B2%D9%85%DB%8C-%DA%A9%D8%A7%D8%B1-%DA%AF%DB%8C%D9%84%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B3%D8%AA%DB%8C%D9%88%D8%A7%D9%84-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%DA%A9%DB%8C%DA%A9-%D8%A8%D9%88%DA%A9%D8%B3%DB%8C%D9%86%DA%AF-%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA",
+    "summary": "رشت- «عقیل قربانپور کیسمی» ملی پوش گیلانی تیم کیک بوکسینگ ایران، در فستیوال جهانی ارمنستان با غلبه بر حریفان خود به مدال طلای این رقابت ها دست یافت.",
+    "published": "Sat, 31 Oct 2026 12:28:38 GMT",
+    "collected_at": "2026-10-31T16:17:28.722154+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
@@ -4093,44 +4223,6 @@
     "signal_matches": [
       "افزایش",
       "صعود",
-      "قیمت",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مشرق",
-    "title": "افزایش قیمت نفت در بازار جهانی",
-    "link": "https://www.mashreghnews.ir/news/1849172/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-    "summary": "قیمت نفت در معاملات امروز افزایش یافت و به بیش از ۱۱۶ دلار در هر بشکه رسید.",
-    "published": "Fri, 30 Oct 2026 09:37:00 GMT",
-    "collected_at": "2026-10-30T13:48:05.105314+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
       "قیمت",
       "معاملات"
     ],
@@ -5568,37 +5660,6 @@
     "signal_matches": [
       "تغییر"
     ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مشرق",
-    "title": "با برد آزادکار آمریکایی؛ کامران قاسمپور حذف شد +فیلم",
-    "link": "https://www.mashreghnews.ir/news/1849179/%D8%A8%D8%A7-%D8%A8%D8%B1%D8%AF-%D8%A2%D8%B2%D8%A7%D8%AF%DA%A9%D8%A7%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%DA%A9%D8%A7%D9%85%D8%B1%D8%A7%D9%86-%D9%82%D8%A7%D8%B3%D9%85%D9%BE%D9%88%D8%B1-%D8%AD%D8%B0%D9%81-%D8%B4%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
-    "summary": "آزادکار وزن ۸۶ کیلوگرم ایران و دارنده ۲ مدال طلای جهان از مسابقات جهانی قزاقستان حذف شد.",
-    "published": "Fri, 30 Oct 2026 10:14:55 GMT",
-    "collected_at": "2026-10-30T13:48:05.105198+03:30",
-    "filter_market_score": 3,
-    "market_score": 3,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   }
