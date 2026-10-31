@@ -20247,5 +20247,136 @@
     "group_sent_at": "2026-10-31T16:45:43.222546+03:30",
     "group_message_id": 1778,
     "published_at": "2026-10-31T16:45:43.240379+03:30"
+  },
+  "https://t.me/nasiirry/17724": {
+    "item": {
+      "analyst": "حسین نصیری",
+      "title": "خب طبیعتا همونطور که همتون هم میدونید، برای کم‌کردن ریسک، یکی از راه‌ها اینه که همه سرمایه رو روی یک بازار نذاریم.",
+      "summary": "خب طبیعتا همونطور که همتون هم میدونید، برای کم‌کردن ریسک، یکی از راه‌ها اینه که همه سرمایه رو روی یک بازار نذاریم.\n\nموافقید فردا با هم یک سبد سرمایه گذاری رو بررسی کنیم که ببینیم چه سهمی برای درآمد ثابت، دلار، طلا و بورس کالا در نظر گرفته شده و منطق این تقسیم‌بندی چیه؟\n\nاین پایین بهم بگید :\nآره موافقم 👍 \nنه سرمایه گذاریم رو قبلا انجام دادم 👎 \n\n @nasiirry",
+      "full_text": "خب طبیعتا همونطور که همتون هم میدونید، برای کم‌کردن ریسک، یکی از راه‌ها اینه که همه سرمایه رو روی یک بازار نذاریم.\n\nموافقید فردا با هم یک سبد سرمایه گذاری رو بررسی کنیم که ببینیم چه سهمی برای درآمد ثابت، دلار، طلا و بورس کالا در نظر گرفته شده و منطق این تقسیم‌بندی چیه؟\n\nاین پایین بهم بگید :\nآره موافقم 👍 \nنه سرمایه گذاریم رو قبلا انجام دادم 👎 \n\n @nasiirry",
+      "source": "حسین نصیری",
+      "link": "https://t.me/nasiirry/17724",
+      "analysis_score": 12,
+      "market_matches": [
+        "طلا",
+        "دلار",
+        "بورس"
+      ],
+      "analysis_matches": [
+        "ریسک"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 356,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-31T17:14:33.687015+03:30"
+    },
+    "content_signature": "b1a296b786ba672a5daee87cdeaadd63f9ed31339c4542199e9f2983057d6697",
+    "first_seen_at": "2026-10-31T17:14:50.181215+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2035
+    ],
+    "telegram_last_success_at": "2026-10-31T17:14:50.670949+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-31T17:14:50.683601+03:30",
+    "telegram_message_id": 2035,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179285283
+    ],
+    "eitaa_last_success_at": "2026-10-31T17:14:52.132495+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-31T17:14:52.144777+03:30",
+    "eitaa_message_id": 179285283,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1782
+    ],
+    "group_last_success_at": "2026-10-31T17:14:52.672855+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-31T17:14:52.684975+03:30",
+    "group_message_id": 1782,
+    "published_at": "2026-10-31T17:14:52.696720+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8803": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "پیش شرط‌های ایران برای توافق:",
+      "summary": "پیش شرط‌های ایران برای توافق:\n\n۱-لغو تحریم‌ها\n۲-کاهش حضور نظامی آمریکا\n۳-بازگرداندن معافیت های نفتی\n۴-آزادسازی دارایی‌ها\n۵-به رسمیت شناختن مسیر جدید هرمز\n۶-توقف جنگ در همه جبهه‌ها از جمله لبنان\n\n @AlirezaMehrabi_ir",
+      "full_text": "پیش شرط‌های ایران برای توافق:\n\n۱-لغو تحریم‌ها\n۲-کاهش حضور نظامی آمریکا\n۳-بازگرداندن معافیت های نفتی\n۴-آزادسازی دارایی‌ها\n۵-به رسمیت شناختن مسیر جدید هرمز\n۶-توقف جنگ در همه جبهه‌ها از جمله لبنان\n\n @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8803",
+      "analysis_score": 10,
+      "market_matches": [
+        "نفت",
+        "تحریم"
+      ],
+      "analysis_matches": [
+        "مسیر",
+        "کاهش"
+      ],
+      "market_groups": [
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 214,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-31T17:14:34.223132+03:30"
+    },
+    "content_signature": "bda6e7c7ea99586b846d341f191745eb3e96fef527bcc5ff401e37b6fa55b7af",
+    "first_seen_at": "2026-10-31T17:14:52.709355+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2036
+    ],
+    "telegram_last_success_at": "2026-10-31T17:14:53.211229+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-31T17:14:53.223320+03:30",
+    "telegram_message_id": 2036,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179285287
+    ],
+    "eitaa_last_success_at": "2026-10-31T17:14:54.696710+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-31T17:14:54.709330+03:30",
+    "eitaa_message_id": 179285287,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1783
+    ],
+    "group_last_success_at": "2026-10-31T17:14:55.238691+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-31T17:14:55.251066+03:30",
+    "group_message_id": 1783,
+    "published_at": "2026-10-31T17:14:55.263237+03:30"
   }
 }
