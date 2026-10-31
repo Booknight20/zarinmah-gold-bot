@@ -20654,5 +20654,77 @@
     "group_message_id": 1668,
     "fully_published": true,
     "last_checked_at": "2026-10-31T03:48:00.431170+00:00"
+  },
+  "7a2b285677834204f1169d8b5be4875def83a364718814e81ed11cdc9aa8c86c": {
+    "title": "وال استریت: خسارت وارده به پایگاه های آمریکا به ۱۵ میلیارد دلار می رسد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6994731/%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%DB%8C%D8%AA-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D9%88%D8%A7%D8%B1%D8%AF%D9%87-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%DB%B1%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      1923
+    ],
+    "eitaa_message_ids": [
+      179169423
+    ],
+    "group_message_ids": [
+      1669
+    ],
+    "content_hash": "1f73446d155a053032be421eb54eb649caaff1c338c9bf0f6dcee37954452d28",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T04:18:11.842768+00:00",
+    "telegram_message_id": 1923,
+    "eitaa_last_sent_at": "2026-10-31T04:18:13.300668+00:00",
+    "eitaa_message_id": 179169423,
+    "group_last_sent_at": "2026-10-31T04:18:15.054948+00:00",
+    "group_message_id": 1669,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T04:18:15.087756+00:00"
+  },
+  "34a282d541b2ed5d9a9ab70ed5d1ed0b58b18e74183f29df12ea95ba00ee3ff0": {
+    "title": "برنامه سومین روز کشتی آزاد قهرمانی جهان؛ جدال ۲ آزادکار برای مدال طلا",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6994725/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B3%D9%88%D9%85%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%AC%D8%AF%D8%A7%D9%84-%DB%B2-%D8%A2%D8%B2%D8%A7%D8%AF%DA%A9%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      1924
+    ],
+    "eitaa_message_ids": [
+      179169435
+    ],
+    "group_message_ids": [
+      1670
+    ],
+    "content_hash": "6aaf29d1ac9d81c56c6365189162855e5a2bca4a678233c0d7a8560f99efafec",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T04:18:16.866495+00:00",
+    "telegram_message_id": 1924,
+    "eitaa_last_sent_at": "2026-10-31T04:18:18.427027+00:00",
+    "eitaa_message_id": 179169435,
+    "group_last_sent_at": "2026-10-31T04:18:20.152489+00:00",
+    "group_message_id": 1670,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T04:18:20.185484+00:00"
+  },
+  "bd4c48d23c599bee75199adde11bdb394c555a1955f6473bf9c576518aaffbdf": {
+    "title": "واکنش تند عراقچی به آلمان؛ دیگر خط قرمزی در کار نیست",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008452/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%AA%D9%86%D8%AF-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AE%D8%B7-%D9%82%D8%B1%D9%85%D8%B2%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%B1-%D9%86%DB%8C%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      1925
+    ],
+    "eitaa_message_ids": [
+      179169439
+    ],
+    "group_message_ids": [
+      1671
+    ],
+    "content_hash": "a2e161df837bc7631e1c9b9a3a418051b53d25435871c3ea79fd29564e8668f8",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T04:18:21.947526+00:00",
+    "telegram_message_id": 1925,
+    "eitaa_last_sent_at": "2026-10-31T04:18:23.498199+00:00",
+    "eitaa_message_id": 179169439,
+    "group_last_sent_at": "2026-10-31T04:18:25.232683+00:00",
+    "group_message_id": 1671,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T04:18:25.265583+00:00"
   }
 }

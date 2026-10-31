@@ -2980,6 +2980,58 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "برنامه سومین روز کشتی آزاد قهرمانی جهان؛ جدال ۲ آزادکار برای مدال طلا",
+    "link": "https://www.mehrnews.com/news/6994725/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B3%D9%88%D9%85%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%AC%D8%AF%D8%A7%D9%84-%DB%B2-%D8%A2%D8%B2%D8%A7%D8%AF%DA%A9%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C",
+    "summary": "آزادکاران ایران در ۴ وزن پایانی رقابت های قهرمانی جهان به مصاف رقبای خود می روند و دو ملی پوش ایران هم برای مدال طلا مبارزه خواهند کرد.",
+    "published": "Sat, 31 Oct 2026 03:48:26 GMT",
+    "collected_at": "2026-10-31T07:47:31.432533+03:30",
+    "filter_market_score": 11,
+    "market_score": 17,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مشرق",
     "title": "سقوط آزاد بورس اسرائیل همچنان ادامه دارد",
     "link": "https://www.mashreghnews.ir/news/1849246/%D8%B3%D9%82%D9%88%D8%B7-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
@@ -3834,56 +3886,6 @@
     "ranking_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "اتحادیه اروپا ماهانه ۱۰ میلیارد یورو بیشتر برای نفت می پردازد",
-    "link": "https://www.isna.ir/news/1405080704578/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%DB%B1%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%86%D9%81%D8%AA-%D9%85%DB%8C-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%AF",
-    "summary": "کشورهای اروپایی در پی آغاز تجاوز نظامی آمریکا و رژیم صهیونیستی به ایران در فوریه ۲۰۲۶، امسال هزینه بسیار بیشتری بابت واردات نفت خام و فرآورده های نفتی نسبت به سال ۲۰۲۵ می پردازند.",
-    "published": "Thu, 29 Oct 2026 10:51:10 GMT",
-    "collected_at": "2026-10-29T14:46:54.637595+03:30",
-    "filter_market_score": 11,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نفت",
-      "واردات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "واردات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "عامل اقتصادی",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "تابناک",
     "title": "علیرضا دبیر: حضرت عباسی جفتش طلا بود!",
     "link": "https://tabnak.ir/fa/news/30008429/%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%AF%D8%A8%DB%8C%D8%B1-%D8%AD%D8%B6%D8%B1%D8%AA-%D8%B9%D8%A8%D8%A7%D8%B3%DB%8C-%D8%AC%D9%81%D8%AA%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A8%D9%88%D8%AF",
@@ -4373,6 +4375,98 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "تابناک",
+    "title": "واکنش تند عراقچی به آلمان؛ دیگر خط قرمزی در کار نیست",
+    "link": "https://tabnak.ir/fa/news/30008452/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%AA%D9%86%D8%AF-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AE%D8%B7-%D9%82%D8%B1%D9%85%D8%B2%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%A7%D8%B1-%D9%86%DB%8C%D8%B3%D8%AA",
+    "summary": "صدراعظم آلمان اعلام کرد که افزایش قیمت حامل های انرژی در هشت ماه گذشته، بیش از ۱۰۰ میلیارد یورو هزینه به شرکت ها و مصرف کنندگان اروپایی تحمیل کرده است.",
+    "published": "Sat, 31 Oct 2026 07:46:00 +0330",
+    "collected_at": "2026-10-31T07:47:44.807419+03:30",
+    "filter_market_score": 7,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "وال استریت: خسارت وارده به پایگاه های آمریکا به ۱۵ میلیارد دلار می رسد",
+    "link": "https://www.mehrnews.com/news/6994731/%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%DB%8C%D8%AA-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D9%88%D8%A7%D8%B1%D8%AF%D9%87-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%DB%B1%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1",
+    "summary": "روزنامه وال استریت ژورنال به هزینه های برجای مانده ناشی از حملات موشکی و پهپادی موفقیت آمیز ایران علیه پایگاه های آمریکا در منطقه اشاره کرد.",
+    "published": "Sat, 31 Oct 2026 04:08:01 GMT",
+    "collected_at": "2026-10-31T07:47:31.432475+03:30",
+    "filter_market_score": 6,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -5192,50 +5286,6 @@
   },
   {
     "source": "مهر",
-    "title": "خوزستان با کسب ۵ مدال جهانی پرچمدار کشتی فرنگی کشور است",
-    "link": "https://www.mehrnews.com/news/6993660/%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7-%DA%A9%D8%B3%D8%A8-%DB%B5-%D9%85%D8%AF%D8%A7%D9%84-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%BE%D8%B1%DA%86%D9%85%D8%AF%D8%A7%D8%B1-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B3%D8%AA",
-    "summary": "اهواز - نماینده مردم اهواز در مجلس شورای اسلامی گفت: ورزشکاران خوزستانی با کسب پنج مدال رنگارنگ شامل دو طلا و سه نقره در رقابت های جهانی، بار دیگر شایستگی های خود را اثبات کردند.",
-    "published": "Thu, 29 Oct 2026 11:08:31 GMT",
-    "collected_at": "2026-10-29T14:47:04.277238+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
     "title": "یزدانی: سال آینده رنگ مدالم را تغییر می دهم؛ شرمنده مردم نشدم",
     "link": "https://www.mehrnews.com/news/6994528/%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%B3%D8%A7%D9%84-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%B1%D9%86%DA%AF-%D9%85%D8%AF%D8%A7%D9%84%D9%85-%D8%B1%D8%A7-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%DB%8C-%D8%AF%D9%87%D9%85-%D8%B4%D8%B1%D9%85%D9%86%D8%AF%D9%87-%D9%85%D8%B1%D8%AF%D9%85-%D9%86%D8%B4%D8%AF%D9%85",
     "summary": "کاپیتان تیم ملی کشتی آزاد گفت: هدفم کسب مدال طلا بود اما خدا را شکر شرمنده نشدم.",
@@ -5504,49 +5554,6 @@
     "summary": "کاپیتان تیم ملی جودو بانوان ایران عنوان قهرمانی و مدال طلای رقابت های کاپ آسیا را به خود اختصاص داد.",
     "published": "Thu, 29 Oct 2026 11:02:12 GMT",
     "collected_at": "2026-10-29T14:47:04.277357+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "فرنگی کاران خوزستانی پس از کسب مدال در مسابقات جهانی چه گفتند؟/ حسرت احمدی وفا در فینال",
-    "link": "https://www.isna.ir/news/1405080704585/%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D9%85%D8%AF%D8%A7%D9%84-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%DA%86%D9%87-%DA%AF%D9%81%D8%AA%D9%86%D8%AF",
-    "summary": "علی احمدی وفا که در مسابقات قهرمانی کشتی فرنگی مدال طلا را در فینال از دست داد با حسرت از این ناکامی یاد کرد و گفت: در حین مبارزه خودم را قهرمان جهان می دانستم و فکر نمی کردم طلا را از دست بدهم.",
-    "published": "Thu, 29 Oct 2026 11:02:32 GMT",
-    "collected_at": "2026-10-29T14:46:54.637512+03:30",
     "filter_market_score": 4,
     "market_score": 6,
     "market_matches": {
