@@ -22190,5 +22190,29 @@
     "group_message_id": 1749,
     "fully_published": true,
     "last_checked_at": "2026-10-31T10:48:49.144497+00:00"
+  },
+  "08ed9dd93ea5fe1d1ab9bc059a394ed19ad74a6b92ab4904d1acc91bcaf18686": {
+    "title": "عراقی ها پرسفرترین به ایران/ بازگشایی موزه ها به محض دریافت مجوزهای امنیتی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080905644/%D8%B9%D8%B1%D8%A7%D9%82%DB%8C-%D9%87%D8%A7-%D9%BE%D8%B1%D8%B3%D9%81%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D9%85%D9%88%D8%B2%D9%87-%D9%87%D8%A7-%D8%A8%D9%87-%D9%85%D8%AD%D8%B6-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D9%85%D8%AC%D9%88%D8%B2%D9%87%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      2008
+    ],
+    "eitaa_message_ids": [
+      179255019
+    ],
+    "group_message_ids": [
+      1754
+    ],
+    "content_hash": "22aa330282363c6ab9a3884d78c61a2484a056f81eaed5097a89f987efeea00f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T11:18:18.776086+00:00",
+    "telegram_message_id": 2008,
+    "eitaa_last_sent_at": "2026-10-31T11:18:19.919494+00:00",
+    "eitaa_message_id": 179255019,
+    "group_last_sent_at": "2026-10-31T11:18:21.558337+00:00",
+    "group_message_id": 1754,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T11:18:21.594308+00:00"
   }
 }
