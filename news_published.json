@@ -23102,5 +23102,101 @@
     "group_message_id": 1807,
     "fully_published": true,
     "last_checked_at": "2026-10-31T16:14:51.705350+00:00"
+  },
+  "30fdc46fe077afd0c0b5d7f4db3e6a3d5c5329d33839e75248ca2aa60cf2c8cb": {
+    "title": "کشف ۱۴ میلیارد تومان دلار جعلی در اردبیل",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6995634/%DA%A9%D8%B4%D9%81-%DB%B1%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AC%D8%B9%D9%84%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
+    "telegram_message_ids": [
+      2061
+    ],
+    "eitaa_message_ids": [
+      179307799
+    ],
+    "group_message_ids": [
+      1808
+    ],
+    "content_hash": "4ed615e1bce3bc2877ff8e86772327926a8be2332d3724f91be26ad321cb3950",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T16:48:09.599645+00:00",
+    "telegram_message_id": 2061,
+    "eitaa_last_sent_at": "2026-10-31T16:48:11.025604+00:00",
+    "eitaa_message_id": 179307799,
+    "group_last_sent_at": "2026-10-31T16:48:12.707690+00:00",
+    "group_message_id": 1808,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T16:48:12.744695+00:00"
+  },
+  "d5987f8a998f3f617bbe429abcb6f4ec8dce24451e36a04c4ec7b7c542aef0d4": {
+    "title": "زارع پس از چهارمین طلای جهان: امیدوارم حال مردم خوب شده باشد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6995536/%D8%B2%D8%A7%D8%B1%D8%B9-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D9%85%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%A7%D9%85%DB%8C%D8%AF%D9%88%D8%A7%D8%B1%D9%85-%D8%AD%D8%A7%D9%84-%D9%85%D8%B1%D8%AF%D9%85-%D8%AE%D9%88%D8%A8-%D8%B4%D8%AF%D9%87-%D8%A8%D8%A7%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2062
+    ],
+    "eitaa_message_ids": [
+      179307814
+    ],
+    "group_message_ids": [
+      1809
+    ],
+    "content_hash": "b8e95853dc493da17ac759501b539ef2b5d9c87e0a8f9ff571e0b700aff67b44",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T16:48:14.487392+00:00",
+    "telegram_message_id": 2062,
+    "eitaa_last_sent_at": "2026-10-31T16:48:15.908307+00:00",
+    "eitaa_message_id": 179307814,
+    "group_last_sent_at": "2026-10-31T16:48:17.623500+00:00",
+    "group_message_id": 1809,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T16:48:17.660452+00:00"
+  },
+  "44c103e20d6dcba845a95cb0e1f5ebfe120cf33656c7d54a76f712260a877c9e": {
+    "title": "چرا قیمت طلا و سکه امروز ریخت؟",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6995607/%DA%86%D8%B1%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B1%DB%8C%D8%AE%D8%AA",
+    "telegram_message_ids": [
+      2063
+    ],
+    "eitaa_message_ids": [
+      179307829
+    ],
+    "group_message_ids": [
+      1810
+    ],
+    "content_hash": "8d2443dfbfcafce609868b9c8a945b4182cae30cd84f561e324c3566c3165201",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T16:48:19.438731+00:00",
+    "telegram_message_id": 2063,
+    "eitaa_last_sent_at": "2026-10-31T16:48:20.905218+00:00",
+    "eitaa_message_id": 179307829,
+    "group_last_sent_at": "2026-10-31T16:48:22.602685+00:00",
+    "group_message_id": 1810,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T16:48:22.639776+00:00"
+  },
+  "d38a964a93af5c30cae7b24f05ec2570ccace47b9b2e1cfeb5a173681fa610ba": {
+    "title": "قیمت بیت کوین به ۷۷ هزار دلار سقوط کرد؛ احتمال افت تا ۶۵ هزار دلار",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295635/%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%A8%D9%87-%DB%B7%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%D9%82%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A7%D9%81%D8%AA-%D8%AA%D8%A7-%DB%B6%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      2064
+    ],
+    "eitaa_message_ids": [
+      179307836
+    ],
+    "group_message_ids": [
+      1811
+    ],
+    "content_hash": "7f3018cd925d57c671ed011735425feebd196983fe786e6356903ce419ef7192",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T16:48:24.358235+00:00",
+    "telegram_message_id": 2064,
+    "eitaa_last_sent_at": "2026-10-31T16:48:25.871577+00:00",
+    "eitaa_message_id": 179307836,
+    "group_last_sent_at": "2026-10-31T16:48:27.569545+00:00",
+    "group_message_id": 1811,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T16:48:27.607583+00:00"
   }
 }

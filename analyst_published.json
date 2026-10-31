@@ -20521,5 +20521,66 @@
     "group_sent_at": "2026-10-31T19:18:19.934168+03:30",
     "group_message_id": 1803,
     "published_at": "2026-10-31T19:18:19.954572+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8805": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "این تحلیل ریزش بیت کوین 🔹",
+      "summary": "این تحلیل ریزش بیت کوین 🔹",
+      "full_text": "این تحلیل ریزش بیت کوین 🔹",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8805",
+      "analysis_score": 8,
+      "market_matches": [
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "ریزش"
+      ],
+      "market_groups": [],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل"
+      ],
+      "priority": "medium",
+      "content_length": 25,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-31T20:18:06.999057+03:30"
+    },
+    "content_signature": "5171ffd52ebe22c25aa4dd6bf4df8e4a463d20b203822a9aab8dce1611feeb64",
+    "first_seen_at": "2026-10-31T20:18:27.810096+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2065
+    ],
+    "telegram_last_success_at": "2026-10-31T20:18:28.275299+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-31T20:18:28.296499+03:30",
+    "telegram_message_id": 2065,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179307843
+    ],
+    "eitaa_last_success_at": "2026-10-31T20:18:29.118626+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-31T20:18:29.140662+03:30",
+    "eitaa_message_id": 179307843,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1812
+    ],
+    "group_last_success_at": "2026-10-31T20:18:29.615369+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-31T20:18:29.636339+03:30",
+    "group_message_id": 1812,
+    "published_at": "2026-10-31T20:18:29.656928+03:30"
   }
 }
