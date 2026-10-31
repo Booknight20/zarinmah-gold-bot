@@ -22550,5 +22550,29 @@
     "group_message_id": 1774,
     "fully_published": true,
     "last_checked_at": "2026-10-31T12:48:30.731663+00:00"
+  },
+  "b6637d99c257ea9cd82d0e0a05ccc71e9d15926f7725223abf54c83ff8657ba1": {
+    "title": "تصمیم جدید بانک مرکزی برای واردات خودرو و موبایل؛ سهمیه ها به بورس کالا می روند",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295620/%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%88-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D9%87%D9%85%DB%8C%D9%87-%D9%87%D8%A7-%D8%A8%D9%87",
+    "telegram_message_ids": [
+      2029
+    ],
+    "eitaa_message_ids": [
+      179274870
+    ],
+    "group_message_ids": [
+      1776
+    ],
+    "content_hash": "43947f26f0275bf49031c749fea85b99546394254dbf6cf1e5b9aed419d06200",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T12:58:58.687219+00:00",
+    "telegram_message_id": 2029,
+    "eitaa_last_sent_at": "2026-10-31T12:59:00.170528+00:00",
+    "eitaa_message_id": 179274870,
+    "group_last_sent_at": "2026-10-31T12:59:01.926563+00:00",
+    "group_message_id": 1776,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T12:59:01.958300+00:00"
   }
 }

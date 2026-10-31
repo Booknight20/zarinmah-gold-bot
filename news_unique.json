@@ -268,6 +268,87 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "تصمیم جدید بانک مرکزی برای واردات خودرو و موبایل؛ سهمیه ها به بورس کالا می روند",
+    "link": "https://www.khabaronline.ir/news/2295620/%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%88-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D8%B3%D9%87%D9%85%DB%8C%D9%87-%D9%87%D8%A7-%D8%A8%D9%87",
+    "summary": "بانک مرکزی در تصمیمی تازه برای کنترل نوسانات نرخ ارز، به دنبال خروج واردکنندگان خودرو و تلفن همراه از بازار رسمی ارز است. بر اساس این طرح، سهمیه واردات این کالاها از طریق بورس کالا به فروش می رسد و درآمد حاصل از آن برای تأمین اعتبار کالابرگ اختصاص می یابد؛ تصمیمی که اگرچه قرار است فشار تقاضا بر بازار رسمی ارز را کاهش دهد، اما می تواند تقاضای واردکنندگان را به بازار غیررسمی منتقل کند.",
+    "published": "Sat, 31 Oct 2026 12:57:40 GMT",
+    "collected_at": "2026-10-31T16:28:28.033323+03:30",
+    "filter_market_score": 35,
+    "market_score": 38,
+    "market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ],
+      "stock": [
+        "بورس",
+        "بورس کالا"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "بورس کالا"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ],
+      "stock": [
+        "بورس",
+        "بورس کالا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی",
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "تصمیم",
+      "روند",
+      "کاهش",
+      "نرخ",
+      "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [
+      "بورس",
+      "بورس کالا"
+    ],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "طلا به پایین ترین سطح قیمتی رسید؛ اونس طلا ۳۸۸۰ دلار شد / قیمت طلای جهانی امروز ۹ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2295371/%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D9%82%DB%8C%D9%85%D8%AA%DB%8C-%D8%B1%D8%B3%DB%8C%D8%AF-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%DB%B3%DB%B8%DB%B8%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA",
     "summary": "قیمت طلا روز جمعه به پایین ترین سطح خود در یک سال گذشته رسید. هم زمان، نقره، پلاتین و پالادیوم نیز به شدت کاهش یافتند. افت سهام شرکت های فناوری و نگرانی ها درباره بازدهی ناکافی سرمایه گذاری های سنگین در حوزه هوش مصنوعی، فشار فروش در بازار فلزات گران بها را تشدید کرد.",
@@ -6078,59 +6159,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "ایسنا",
-    "title": "تولیدکنندگان لوازم خانگی در انتظار حمایت بانکی/ منابع به توزیع می رسد!",
-    "link": "https://www.isna.ir/news/1405080804960/%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A8%D8%A7%D9%86%DA%A9%DB%8C-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%A8%D9%87-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9",
-    "summary": "در شرایطی که تولیدکنندگان لوازم خانگی با مشکلاتی همچون تامین مواد اولیه، کمبود نقدینگی، محدودیت های ارزی و افزایش هزینه های تولید مواجه اند، رئیس اتحادیه لوازم خانگی با انتقاد از نحوه تخصیص منابع بانکی گفت که منابع مالی بانک ها به جای حمایت از بخش تولید به سمت توزیع کالا هدایت شده است.",
-    "published": "Fri, 30 Oct 2026 10:26:29 GMT",
-    "collected_at": "2026-10-30T14:17:29.212328+03:30",
-    "filter_market_score": 9,
-    "market_score": 12,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نقدینگی"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "حمایت",
-      "افزایش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "نقدینگی"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
