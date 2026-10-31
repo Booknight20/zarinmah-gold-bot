@@ -19151,5 +19151,75 @@
     "group_sent_at": "2026-10-31T10:18:38.838244+03:30",
     "group_message_id": 1697,
     "published_at": "2026-10-31T10:18:38.857789+03:30"
+  },
+  "https://t.me/drarashamini/7299": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "هنوز ارزش سفارشات فروش در بازار به نقطه نگران کننده ای نرسیده ولی باید قبول کنیم که به نسبت روزهای قبل شاهد افزایش عر...",
+      "summary": "هنوز ارزش سفارشات فروش در بازار به نقطه نگران کننده ای نرسیده ولی باید قبول کنیم که به نسبت روزهای قبل شاهد افزایش عرضه‌ها هستیم.\nتا الان هم نزدیک به 4.4 همت پول از بازار خارج شده که عدد کمی نیست.\n\nدر خریدهای خودتون دقت کنید.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "هنوز ارزش سفارشات فروش در بازار به نقطه نگران کننده ای نرسیده ولی باید قبول کنیم که به نسبت روزهای قبل شاهد افزایش عرضه‌ها هستیم.\nتا الان هم نزدیک به 4.4 همت پول از بازار خارج شده که عدد کمی نیست.\n\nدر خریدهای خودتون دقت کنید.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7299",
+      "analysis_score": 21,
+      "market_matches": [
+        "طلا",
+        "ارز"
+      ],
+      "analysis_matches": [
+        "افزایش",
+        "خرید",
+        "فروش",
+        "عرضه"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 350,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-31T11:18:24.740791+03:30"
+    },
+    "content_signature": "613d630f7a5b39ed281a456be01ad37c62f898ad4151a3f7d4954f668fed14ca",
+    "first_seen_at": "2026-10-31T11:18:58.002056+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1967
+    ],
+    "telegram_last_success_at": "2026-10-31T11:18:58.570770+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-31T11:18:58.590630+03:30",
+    "telegram_message_id": 1967,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179209377
+    ],
+    "eitaa_last_success_at": "2026-10-31T11:19:00.178872+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-31T11:19:00.198953+03:30",
+    "eitaa_message_id": 179209377,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1713
+    ],
+    "group_last_success_at": "2026-10-31T11:19:00.826858+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-31T11:19:00.846561+03:30",
+    "group_message_id": 1713,
+    "published_at": "2026-10-31T11:19:00.866003+03:30"
   }
 }
