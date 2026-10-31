@@ -20726,5 +20726,77 @@
     "group_message_id": 1671,
     "fully_published": true,
     "last_checked_at": "2026-10-31T04:18:25.265583+00:00"
+  },
+  "87df0898c506c91f9139f5c4a91fcf3f0c5c7ff8a2c1dc54782ccbb8789bff34": {
+    "title": "قیمت طلا امروز شنبه ۹ آبان ۱۴۰۵ / ریزش قیمت طلا",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305274-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1926
+    ],
+    "eitaa_message_ids": [
+      179172920
+    ],
+    "group_message_ids": [
+      1672
+    ],
+    "content_hash": "422e5d7dbf40f30a13c85ebf0fd746c5ea786804f212f0db5b78f4b35efc62ec",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T04:48:19.198864+00:00",
+    "telegram_message_id": 1926,
+    "eitaa_last_sent_at": "2026-10-31T04:48:20.411926+00:00",
+    "eitaa_message_id": 179172920,
+    "group_last_sent_at": "2026-10-31T04:48:22.174302+00:00",
+    "group_message_id": 1672,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T04:48:22.207658+00:00"
+  },
+  "ac8550e185340db6e0603cd6acbe889c06b2db6aac9496440972fb5bdcf415ea": {
+    "title": "قیمت طلا ۱۸ عیار امروز شنبه ۹ آبان ۱۴۰۵/ کاهش قیمت طلا",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305273-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      1927
+    ],
+    "eitaa_message_ids": [
+      179172925
+    ],
+    "group_message_ids": [
+      1673
+    ],
+    "content_hash": "2058b09d4b883cbf0ad427c606f9d9033a7a286c8c76288f14549bf13ad69048",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T04:48:23.809273+00:00",
+    "telegram_message_id": 1927,
+    "eitaa_last_sent_at": "2026-10-31T04:48:24.885642+00:00",
+    "eitaa_message_id": 179172925,
+    "group_last_sent_at": "2026-10-31T04:48:26.456448+00:00",
+    "group_message_id": 1673,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T04:48:26.489573+00:00"
+  },
+  "ba314d82aa88118f8d5de7f656e273a9739ae3d606d37c2c9664d40c362c5b49": {
+    "title": "قیمت طلا و سکه امروز شنبه ۹ آبان ۱۴۰۵ / کاهش قیمت طلا و سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305272-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      1928
+    ],
+    "eitaa_message_ids": [
+      179172929
+    ],
+    "group_message_ids": [
+      1674
+    ],
+    "content_hash": "c86225c4bc72a68578c545c25637341b0221f02bae3823e205041bee2639ff01",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T04:48:28.082898+00:00",
+    "telegram_message_id": 1928,
+    "eitaa_last_sent_at": "2026-10-31T04:48:29.228411+00:00",
+    "eitaa_message_id": 179172929,
+    "group_last_sent_at": "2026-10-31T04:48:30.785820+00:00",
+    "group_message_id": 1674,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T04:48:30.819427+00:00"
   }
 }

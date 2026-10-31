@@ -18807,5 +18807,70 @@
     "group_sent_at": "2026-10-30T23:48:13.999890+03:30",
     "group_message_id": 1654,
     "published_at": "2026-10-30T23:48:14.019703+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25875": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "مجله اکونومیست تحلیلی که تو ۸ فروردین منتشر کرده تا الان محقق شده .",
+      "summary": "مجله اکونومیست تحلیلی که تو ۸ فروردین منتشر کرده تا الان محقق شده .\n\nتو ۴۸ ساعت گذشته هم ۸ تا کشتی روی مین رفتن نفت هم دیشب ۱۱۷ دلار بسته شد.\n\n @payamelyaskordi ✅",
+      "full_text": "مجله اکونومیست تحلیلی که تو ۸ فروردین منتشر کرده تا الان محقق شده .\n\nتو ۴۸ ساعت گذشته هم ۸ تا کشتی روی مین رفتن نفت هم دیشب ۱۱۷ دلار بسته شد.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25875",
+      "analysis_score": 11,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "تحلیل"
+      ],
+      "market_groups": [
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "medium",
+      "content_length": 162,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-31T08:18:15.548888+03:30"
+    },
+    "content_signature": "7c7a916c7553fd6017bfc9dd4953ac7d8727aa1ea49133dc6f8e6818f830944b",
+    "first_seen_at": "2026-10-31T08:18:31.015107+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      1929
+    ],
+    "telegram_last_success_at": "2026-10-31T08:18:31.381477+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-31T08:18:31.401260+03:30",
+    "telegram_message_id": 1929,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179172934
+    ],
+    "eitaa_last_success_at": "2026-10-31T08:18:32.593655+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-31T08:18:32.613137+03:30",
+    "eitaa_message_id": 179172934,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1675
+    ],
+    "group_last_success_at": "2026-10-31T08:18:32.980420+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-31T08:18:32.999556+03:30",
+    "group_message_id": 1675,
+    "published_at": "2026-10-31T08:18:33.018684+03:30"
   }
 }

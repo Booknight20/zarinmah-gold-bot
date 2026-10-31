@@ -619,6 +619,75 @@
     "duplicate_count": 1
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا و سکه امروز شنبه ۹ آبان ۱۴۰۵ / کاهش قیمت طلا و سکه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305272-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "summary": "طلای 18 عیار نزولی شد و قیمت سکه امامی امروز با کاهش، در نرخ 262 میلیون و 600 هزار تومان در معامله بود.​",
+    "published": "Sat, 31 Oct 2026 04:30:15 +0000",
+    "collected_at": "2026-10-31T08:17:46.823789+03:30",
+    "filter_market_score": 24,
+    "market_score": 32,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "سکه امامی",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "سکه امامی",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت",
+      "نزول",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی",
+      "طلای ۱۸ عیار",
+      "طلای 18 عیار"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها امروز ۷ آبان ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۲۷۱ هزار و ۶۰ تومان قیمت پیدا کرد + جدول",
     "link": "https://www.khabaronline.ir/news/2294935/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
@@ -735,74 +804,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "چرا بانک مرکزی تا دلار ۲۷۰ هزارتومانی صبر کرد؟ / پیش بینی عبور دلار از ۳۰۰ هزار تومان تا پایان سال",
-    "link": "https://www.khabaronline.ir/news/2294057/%DA%86%D8%B1%D8%A7-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AA%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B7%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%B5%D8%A8%D8%B1-%DA%A9%D8%B1%D8%AF-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1",
-    "summary": "نرخ ارز ۲۷۰ هزار تومان، نرخ هدف گذاری شده بانک مرکزی بود. چرا که بانک مرکزی می توانست زودتر از این مداخله اخیر را انجام دهد و به نوعی جلوی تداوم روند فزاینده را بگیرد، اما آن قدر صبر کرد تا دلار به قیمت مدنظر خودش رسید و سپس وارد بازار شد.",
-    "published": "Thu, 29 Oct 2026 11:04:49 GMT",
-    "collected_at": "2026-10-29T14:47:19.366573+03:30",
-    "filter_market_score": 23,
-    "market_score": 28,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "پیش‌بینی",
-      "پیش بینی",
-      "قیمت",
-      "نرخ",
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "نرخ ارز",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -993,6 +994,71 @@
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا امروز شنبه ۹ آبان ۱۴۰۵ / ریزش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305274-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "قیمت طلا امروز با کاهش 70 دلاری نسبت به روز گذشته، 3875 (سه هزار و هشتصد و هفتاد و پنج) دلار نرخ گذاری شد.",
+    "published": "Sat, 31 Oct 2026 04:36:00 +0000",
+    "collected_at": "2026-10-31T08:17:46.823757+03:30",
+    "filter_market_score": 20,
+    "market_score": 26,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "ریزش",
+      "قیمت",
+      "کاهش",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -2639,6 +2705,60 @@
     "duplicate_count": 1
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا ۱۸ عیار امروز شنبه ۹ آبان ۱۴۰۵/ کاهش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305273-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت گرم طلا ۱۸ عیار با کاهش، به 25 میلیون و 633 هزار و 700 تومان رسید.",
+    "published": "Sat, 31 Oct 2026 04:33:56 +0000",
+    "collected_at": "2026-10-31T08:17:46.823774+03:30",
+    "filter_market_score": 15,
+    "market_score": 18,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "تابناک",
     "title": "تعرفه ها باید پاسخ گوی هزینه نوسازی شبکه باشند",
     "link": "https://tabnak.ir/fa/news/30008395/%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D9%87%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%BE%D8%A7%D8%B3%D8%AE-%DA%AF%D9%88%DB%8C-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A8%D8%A7%D8%B4%D9%86%D8%AF",
@@ -3746,56 +3866,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "تابناک",
-    "title": "طلای کاپ آسیا بر گردن مریم بربط",
-    "link": "https://tabnak.ir/fa/news/30008257/%D8%B7%D9%84%D8%A7%DB%8C-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%A8%D8%B1-%DA%AF%D8%B1%D8%AF%D9%86-%D9%85%D8%B1%DB%8C%D9%85-%D8%A8%D8%B1%D8%A8%D8%B7",
-    "summary": "مریم بربط، نماینده وزن ۷۸- کیلوگرم جودوی بانوان ایران، با پیروزی برابر حریف لیتوانیایی خود در فینال رقابت های کاپ آسیا در اردن، مدال طلای این مسابقات را کسب کرد.",
-    "published": "Thu, 29 Oct 2026 14:38:00 +0330",
-    "collected_at": "2026-10-29T14:47:22.424810+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "مهر",
     "title": "سرمایه های مردم باید به چرخه تولید طلا و جواهر وارد شود",
     "link": "https://www.mehrnews.com/news/6994521/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D9%87-%DA%86%D8%B1%D8%AE%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AC%D9%88%D8%A7%D9%87%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF-%D8%B4%D9%88%D8%AF",
@@ -3884,58 +3954,6 @@
     "gold_matches": [],
     "currency_matches": [
       "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "سناتور آمریکایی: پنتاگون خسارات حملات ایران را پنهان می کند / میلیاردها دلار خسارت به پایگاه های آمریکا در منطقه وارد شده است",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4304968-%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%BE%D9%86%D9%87%D8%A7%D9%86-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%D9%87%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AE%D8%B3%D8%A7%D8%B1%D8%AA-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D9%88%D8%A7%D8%B1%D8%AF-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
-    "summary": "کریس مورفی، سناتور دموکرات آمریکا، پنتاگون و دولت ترامپ را به پنهان کردن ابعاد خسارات حملات ایران به پایگاه های نظامی آمریکا در خاورمیانه متهم کرد؛ پیش تر شبکه ان بی سی از واردشدن میلیاردها دلار خسارت به دارایی های نظامی آمریکا در منطقه خبر داده بود.",
-    "published": "Thu, 29 Oct 2026 11:00:54 +0000",
-    "collected_at": "2026-10-29T14:47:15.793763+03:30",
-    "filter_market_score": 11,
-    "market_score": 15,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -4158,55 +4176,6 @@
     "summary": "مبینا فلاح، ملی پوش یزدی تیراندازی با کمان ایران، در رقابت های کاپ آسیایی عراق با کسب دو مدال طلا در ماده ریکرو انفرادی و میکس، عملکرد درخشانی از خود به نمایش گذاشت.",
     "published": "Thu, 29 Oct 2026 12:21:56 GMT",
     "collected_at": "2026-10-29T16:14:16.452188+03:30",
-    "filter_market_score": 10,
-    "market_score": 14,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "یک طلا و دو فینالیست برای جودو ایران؛ مبارزه دو ملی پوش برای برنز",
-    "link": "https://www.mehrnews.com/news/6993690/%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AF%D9%88-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D9%88%D8%AF%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%A8%D8%A7%D8%B1%D8%B2%D9%87-%D8%AF%D9%88-%D9%85%D9%84%DB%8C-%D9%BE%D9%88%D8%B4-%D8%A8%D8%B1%D8%A7%DB%8C",
-    "summary": "در ادامه رقابت های جودو کاپ آسیا صبح روز پنجشنبه ملی پوشان کشورمان موفق به کسب یک مدال طلا شدند و دو جودوکار به فینال راه یافتند.",
-    "published": "Thu, 29 Oct 2026 11:43:34 GMT",
-    "collected_at": "2026-10-29T15:17:37.715448+03:30",
     "filter_market_score": 10,
     "market_score": 14,
     "market_matches": {
@@ -5637,50 +5606,6 @@
     "currency_matches": [
       "درهم"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "ادامه درخشش جودوکاران ایران در کاپ آسیا؛ مریم بربط طلایی شد",
-    "link": "https://www.mehrnews.com/news/6993603/%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D8%AC%D9%88%D8%AF%D9%88%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7-%D9%85%D8%B1%DB%8C%D9%85-%D8%A8%D8%B1%D8%A8%D8%B7-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B4%D8%AF",
-    "summary": "کاپیتان تیم ملی جودو بانوان ایران عنوان قهرمانی و مدال طلای رقابت های کاپ آسیا را به خود اختصاص داد.",
-    "published": "Thu, 29 Oct 2026 11:02:12 GMT",
-    "collected_at": "2026-10-29T14:47:04.277357+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
