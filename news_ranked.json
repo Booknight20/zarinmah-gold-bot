@@ -3942,6 +3942,63 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "اینفوگرافیک؛ ارزش واردات یزد در نیمه نخست ۱۴۰۵ به ۱۴۵ میلیون دلار رسید",
+    "link": "https://www.mehrnews.com/photo/6992144/%D8%A7%DB%8C%D9%86%D9%81%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9-%D8%A7%D8%B1%D8%B2%D8%B4-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%DB%8C%D8%B2%D8%AF-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%A8%D9%87-%DB%B1%DB%B4%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "summary": "یزد - واردات استان یزد در نیمه نخست سال از ورود بیش از ۸۷ هزار تن کالا به ارزش ۱۶۴ هزار دلار حکایت دارد که نسبت به مدت مشابه سال گذشته، ارزش واردات ۱۳ درصد و وزن آن ۳۶ درصد افزایش یافته است.",
+    "published": "Sat, 31 Oct 2026 14:01:00 GMT",
+    "collected_at": "2026-10-31T17:47:23.438012+03:30",
+    "filter_market_score": 14,
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا ۱۸ عیار امروز شنبه ۹ آبان ۱۴۰۵/ کاهش قیمت طلا",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305273-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
@@ -5401,6 +5458,102 @@
   },
   {
     "source": "مهر",
+    "title": "شکار هفتمین مدال با نتایج قدرتمندانه؛ امیرحسین زارع به مدال طلا رسید",
+    "link": "https://www.mehrnews.com/news/6994880/%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D8%A8%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "امیرحسین زارع سنگین وزن کشتی آزاد با شکست حریف روس خود در فینال مسابقات جهانی به مدال طلا رسید. این هفتمین مدال طلای زارع است که با رقم زدن نتایجی عجیب به دست آمد.",
+    "published": "Sat, 31 Oct 2026 13:49:11 GMT",
+    "collected_at": "2026-10-31T17:47:23.438102+03:30",
+    "filter_market_score": 10,
+    "market_score": 14,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "واکنش احمد جوان پس از طلای جهان؛ باورم نمی شد",
+    "link": "https://www.mehrnews.com/news/6995516/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A7%D8%AD%D9%85%D8%AF-%D8%AC%D9%88%D8%A7%D9%86-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%A8%D8%A7%D9%88%D8%B1%D9%85-%D9%86%D9%85%DB%8C-%D8%B4%D8%AF",
+    "summary": "دارنده مدال طلای کشتی جهان گفت: رقیبم را می دیدم که مقابلش پیروز شدم و به مدال طلای جهان رسیدم اما باور نمی کردم.",
+    "published": "Sat, 31 Oct 2026 14:04:46 GMT",
+    "collected_at": "2026-10-31T17:47:23.437931+03:30",
+    "filter_market_score": 10,
+    "market_score": 14,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
     "title": "رزمی کار گیلانی در فستیوال جهانی کیک بوکسینگ ارمنستان طلا گرفت",
     "link": "https://www.mehrnews.com/news/6995427/%D8%B1%D8%B2%D9%85%DB%8C-%DA%A9%D8%A7%D8%B1-%DA%AF%DB%8C%D9%84%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B3%D8%AA%DB%8C%D9%88%D8%A7%D9%84-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%DA%A9%DB%8C%DA%A9-%D8%A8%D9%88%DA%A9%D8%B3%DB%8C%D9%86%DA%AF-%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA",
     "summary": "رشت- «عقیل قربانپور کیسمی» ملی پوش گیلانی تیم کیک بوکسینگ ایران، در فستیوال جهانی ارمنستان با غلبه بر حریفان خود به مدال طلای این رقابت ها دست یافت.",
@@ -6393,50 +6546,6 @@
     "ranking_applied": true
   },
   {
-    "source": "مهر",
-    "title": "جوان اولین فینالیست کشتی آزاد؛ نماینده ایران در یک قدمی طلا",
-    "link": "https://www.mehrnews.com/news/6994387/%D8%AC%D9%88%D8%A7%D9%86-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%81%DB%8C%D9%86%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%82%D8%AF%D9%85%DB%8C-%D8%B7%D9%84%D8%A7",
-    "summary": "احمد محمدنژاد جوان کشتی گیر وزن ۶۱ کیلوگرم با شکست حریف قزاقستانی خود به مرحله فینال مسابقات جهانی راه پیدا کرد.",
-    "published": "Fri, 30 Oct 2026 11:44:51 GMT",
-    "collected_at": "2026-10-30T15:15:51.912032+03:30",
-    "filter_market_score": 6,
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "پیام تبریک مدیرعامل شستا به مناسبت انتخاب سیمان شاهرود به عنوان «صادرکننده نمونه ملی»",
     "link": "https://www.khabaronline.ir/news/2295565/%D9%BE%DB%8C%D8%A7%D9%85-%D8%AA%D8%A8%D8%B1%DB%8C%DA%A9-%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84-%D8%B4%D8%B3%D8%AA%D8%A7-%D8%A8%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%AA-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%B3%DB%8C%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF-%D8%A8%D9%87-%D8%B9%D9%86%D9%88%D8%A7%D9%86",
@@ -7035,6 +7144,92 @@
     "ranking_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "امیرحسین زارع مقتدرانه قهرمان سنگین وزن جهان شد/ چهارمین طلای پادشاه +فیلم",
+    "link": "https://www.mashreghnews.ir/news/1849473/%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D9%85%D9%82%D8%AA%D8%AF%D8%B1%D8%A7%D9%86%D9%87-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF-%DA%86%D9%87%D8%A7%D8%B1%D9%85%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C",
+    "summary": "آزادکار سنگین وزن ایران با شکست حریف روس برای چهارمین مرتبه بر سکوی نخست جهان ایستاد.",
+    "published": "Sat, 31 Oct 2026 13:58:13 GMT",
+    "collected_at": "2026-10-31T17:47:39.947145+03:30",
+    "filter_market_score": 5,
+    "market_score": 9,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "امیرحسین زارع قهرمان سنگین وزن جهان شد/ دو طلای کشتی آزاد ایران در روز دوم",
+    "link": "https://www.isna.ir/news/1405080905768/%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF",
+    "summary": "آزادکار سنگین وزن ایران با شکست حریف روس برای چهارمین مرتبه بر سکوی نخست جهان ایستاد.",
+    "published": "Sat, 31 Oct 2026 13:49:35 GMT",
+    "collected_at": "2026-10-31T17:47:17.365141+03:30",
+    "filter_market_score": 5,
+    "market_score": 9,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "تابناک",
     "title": "طلای کشتی آزاد بر گردن پدیده ایران",
     "link": "https://tabnak.ir/fa/news/30008542/%D8%B7%D9%84%D8%A7%DB%8C-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%A8%D8%B1-%DA%AF%D8%B1%D8%AF%D9%86-%D9%BE%D8%AF%DB%8C%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
@@ -7162,6 +7357,94 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مشرق",
+    "title": "فیلم/ فینال یک طرفه امیرحسین زارع مقابل روسیه",
+    "link": "https://www.mashreghnews.ir/news/1849474/%D9%81%DB%8C%D9%84%D9%85-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%DB%8C%DA%A9-%D8%B7%D8%B1%D9%81%D9%87-%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B1%D9%88%D8%B3%DB%8C%D9%87",
+    "summary": "امیرحسین زارع با شکست ۱۱ بر صفر کوربانوف روس در فینال ۱۲۵ کیلوگرم قهرمانی جهان، دومین مدال طلای تیم کشورمان و چهارمین طلای خودش در قهرمانی جهان را به دست آورد.",
+    "published": "Sat, 31 Oct 2026 14:01:52 GMT",
+    "collected_at": "2026-10-31T17:47:39.947132+03:30",
+    "filter_market_score": 4,
+    "market_score": 8,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "تابناک",
+    "title": "امیرحسین زارع قهرمان جهان شد",
+    "link": "https://tabnak.ir/fa/news/30008545/%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF",
+    "summary": "امیرحسین زارع، ملی پوش وزن ۱۲۵ کیلوگرم ایران با شکست نماینده روسیه به نشان طلای مسابقات کشتی آزاد قهرمانی جهان رسید.",
+    "published": "Sat, 31 Oct 2026 17:25:00 +0330",
+    "collected_at": "2026-10-31T17:47:36.521122+03:30",
+    "filter_market_score": 4,
+    "market_score": 8,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
