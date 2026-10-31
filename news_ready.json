@@ -878,6 +878,143 @@
     "telegram_preview": "📰 قیمت پوند، دلار، یورو و انواع ارزها امروز ۸ آبان ۱۴۰۵/ دلار ۲۷۱ هزار تومان قیمت پیدا کرد + جدول\n\nقیمت دلار، یورو و سایر ارزها امروز ۸ آبان ۱۴۰۵ اعلام شد. بر این اساس دلار در بازار ۲۷۱ هزار تومان فروخته شد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2294974/%D9%82%DB%8C%D9%85%D8%AA-%D9%BE%D9%88%D9%86%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B8-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B7%DB%B1"
   },
   {
+    "source": "مشرق",
+    "title": "خروج طلا بیش از ۱۵۰ گرم و ارز بالای ۵ هزار یورو از کشور ممنوع است",
+    "link": "https://www.mashreghnews.ir/news/1849355/%D8%AE%D8%B1%D9%88%D8%AC-%D8%B7%D9%84%D8%A7-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B5%DB%B0-%DA%AF%D8%B1%D9%85-%D9%88-%D8%A7%D8%B1%D8%B2-%D8%A8%D8%A7%D9%84%D8%A7%DB%8C-%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1-%D9%85%D9%85%D9%86%D9%88%D8%B9",
+    "summary": "رئیس سازمان تعزیرات از ممنوعیت خروج بیش از ۱۵۰ گرم طلای ساخته شده و بیش از ۵ هزار یورو ارز از کشور خبر داد.",
+    "published": "Sat, 31 Oct 2026 06:58:40 GMT",
+    "collected_at": "2026-10-31T10:48:05.657332+03:30",
+    "filter_market_score": 31,
+    "market_score": 33,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز",
+        "یورو"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "ممنوعیت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "رئیس سازمان تعزیرات از ممنوعیت خروج بیش از ۱۵۰ گرم طلای ساخته شده و بیش از ۵ هزار یورو ارز از کشور خبر داد.",
+    "telegram_preview": "📰 خروج طلا بیش از ۱۵۰ گرم و ارز بالای ۵ هزار یورو از کشور ممنوع است\n\nرئیس سازمان تعزیرات از ممنوعیت خروج بیش از ۱۵۰ گرم طلای ساخته شده و بیش از ۵ هزار یورو ارز از کشور خبر داد.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1849355/%D8%AE%D8%B1%D9%88%D8%AC-%D8%B7%D9%84%D8%A7-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B5%DB%B0-%DA%AF%D8%B1%D9%85-%D9%88-%D8%A7%D8%B1%D8%B2-%D8%A8%D8%A7%D9%84%D8%A7%DB%8C-%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1-%D9%85%D9%85%D9%86%D9%88%D8%B9"
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "سقوط ۹۵ هزار واحدی شاخص کل بورس امروز شنبه ۹ آبان ۱۴۰۵ / شاخص هم وزن ۶۷۰۰ واحد افت کرد",
+    "link": "https://www.khabaronline.ir/live/2295358/%D8%B3%D9%82%D9%88%D8%B7-%DB%B9%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5",
+    "summary": "شاخص کل بورس در معاملات صبح شنبه ۹ آبان، با کاهش بیش از ۹۵ هزار واحدی به ۷ میلیون و ۸۷۱ هزار واحد رسید و شاخص هم وزن نیز بیش از ۶ هزار واحد عقب نشست.",
+    "published": "Sat, 31 Oct 2026 07:04:00 GMT",
+    "collected_at": "2026-10-31T10:48:01.017447+03:30",
+    "filter_market_score": 35,
+    "market_score": 32,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افت",
+      "سقوط",
+      "کاهش",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "شاخص هم وزن"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "شاخص کل بورس در معاملات صبح شنبه ۹ آبان، با کاهش بیش از ۹۵ هزار واحدی به ۷ میلیون و ۸۷۱ هزار واحد رسید و شاخص هم وزن نیز بیش از ۶ هزار واحد عقب نشست.",
+    "telegram_preview": "📰 سقوط ۹۵ هزار واحدی شاخص کل بورس امروز شنبه ۹ آبان ۱۴۰۵ / شاخص هم وزن ۶۷۰۰ واحد افت کرد\n\nشاخص کل بورس در معاملات صبح شنبه ۹ آبان، با کاهش بیش از ۹۵ هزار واحدی به ۷ میلیون و ۸۷۱ هزار واحد رسید و شاخص هم وزن نیز بیش از ۶ هزار واحد عقب نشست.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/live/2295358/%D8%B3%D9%82%D9%88%D8%B7-%DB%B9%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5"
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "سرخ پوشی بورس برای دومین هفته متوالی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305166-%D8%B3%D8%B1%D8%AE-%D9%BE%D9%88%D8%B4%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D9%87%D9%81%D8%AA%D9%87-%D9%85%D8%AA%D9%88%D8%A7%D9%84%DB%8C",
@@ -1227,6 +1364,76 @@
     "telegram_preview": "📰 قیمت طلا امروز ۹ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۱۸عیار ۲۵ میلیون و ۶۳۳ هزار تومان شد + جدول\n\nقیمت طلا در بازار تهران امروز ۹ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۵ میلیون و ۶۳۳ هزار تومان قیمت خورد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2295282/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C"
   },
   {
+    "source": "مهر",
+    "title": "سقوط ۱ تریلیون دلاری ارزش سهام غول های فناوری در بازار بورس",
+    "link": "https://www.mehrnews.com/news/6994906/%D8%B3%D9%82%D9%88%D8%B7-%DB%B1-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%B3%D9%87%D8%A7%D9%85-%D8%BA%D9%88%D9%84-%D9%87%D8%A7%DB%8C-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "یک هزار میلیارد دلار از ارزش سهام شرکت های فناور ی روز جمعه از بین رفت زیرا نگرانی ها درباره شکوفایی هوش مصنوعی عمیق تر شده است.",
+    "published": "Sat, 31 Oct 2026 06:59:52 GMT",
+    "collected_at": "2026-10-31T10:47:46.246270+03:30",
+    "filter_market_score": 26,
+    "market_score": 31,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "بورس",
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "بورس",
+        "سهام"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "سقوط"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [
+      "بورس",
+      "سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "یک هزار میلیارد دلار از ارزش سهام شرکت های فناور ی روز جمعه از بین رفت زیرا نگرانی ها درباره شکوفایی هوش مصنوعی عمیق تر شده است.",
+    "telegram_preview": "📰 سقوط ۱ تریلیون دلاری ارزش سهام غول های فناوری در بازار بورس\n\nیک هزار میلیارد دلار از ارزش سهام شرکت های فناور ی روز جمعه از بین رفت زیرا نگرانی ها درباره شکوفایی هوش مصنوعی عمیق تر شده است.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6994906/%D8%B3%D9%82%D9%88%D8%B7-%DB%B1-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%B3%D9%87%D8%A7%D9%85-%D8%BA%D9%88%D9%84-%D9%87%D8%A7%DB%8C-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3"
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها امروز ۷ آبان ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۲۷۱ هزار و ۶۰ تومان قیمت پیدا کرد + جدول",
     "link": "https://www.khabaronline.ir/news/2294935/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
@@ -1353,6 +1560,76 @@
     "duplicate_count": 1,
     "full_text": "قیمت طلا در بازار تهران امروز ۸ آبان ۱۴۰۵ اعلام شد و هر طلای ۱۸عیار ۲۶ میلیون و ۸۳ هزار تومان قیمت خورد.",
     "telegram_preview": "📰 قیمت طلا امروز ۸ آبان ۱۴۰۵/ طلای ۱۸عیار ۲۶ میلیون و ۸۳ هزار تومان قیمت خورد + جدول\n\nقیمت طلا در بازار تهران امروز ۸ آبان ۱۴۰۵ اعلام شد و هر طلای ۱۸عیار ۲۶ میلیون و ۸۳ هزار تومان قیمت خورد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2294972/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B8-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B8%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86"
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "میزان مجاز طلا و یورو برای خروج از کشور اعلام شد+ جزئیات",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305296-%D9%85%DB%8C%D8%B2%D8%A7%D9%86-%D9%85%D8%AC%D8%A7%D8%B2-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA",
+    "summary": "به گفته رئیس سازمان تعزیرات خروج طلای ساخته شده بیش از ۱۵۰ گرم و ارز بیش از ۵ هزار یورو ممنوع است.",
+    "published": "Sat, 31 Oct 2026 06:50:30 +0000",
+    "collected_at": "2026-10-31T10:47:57.564788+03:30",
+    "filter_market_score": 23,
+    "market_score": 29,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "یورو",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "یورو"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "یورو",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "به گفته رئیس سازمان تعزیرات خروج طلای ساخته شده بیش از ۱۵۰ گرم و ارز بیش از ۵ هزار یورو ممنوع است.",
+    "telegram_preview": "📰 میزان مجاز طلا و یورو برای خروج از کشور اعلام شد+ جزئیات\n\nبه گفته رئیس سازمان تعزیرات خروج طلای ساخته شده بیش از ۱۵۰ گرم و ارز بیش از ۵ هزار یورو ممنوع است.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305296-%D9%85%DB%8C%D8%B2%D8%A7%D9%86-%D9%85%D8%AC%D8%A7%D8%B2-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA"
   },
   {
     "source": "مهر",
@@ -1684,74 +1961,6 @@
     "duplicate_count": 1,
     "full_text": "قیمت نفت برنت به خاطر نگرانی درباره تشدید تنش ها در تنگه هرمز، در معاملات روز جمعه از ۱۱۷ دلار در هر بشکه عبور کرد.",
     "telegram_preview": "📰 قیمت نفت برنت از ۱۱۷ دلار عبور کرد\n\nقیمت نفت برنت به خاطر نگرانی درباره تشدید تنش ها در تنگه هرمز، در معاملات روز جمعه از ۱۱۷ دلار در هر بشکه عبور کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6994520/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%DB%B1%DB%B1%DB%B7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF"
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "نسخه اقتصادی شقاقی برای دوران مقاومت؛ باید واردات و تخصیص ارز را بازنگری کرد/ الگوی اقتصاد در شرایط فعلی باید عوض شود",
-    "link": "https://www.khabaronline.ir/news/2294535/%D9%86%D8%B3%D8%AE%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%B4%D9%82%D8%A7%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%88%D8%B1%D8%A7%D9%86-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%88-%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%D8%A7%D8%B1%D8%B2",
-    "summary": "کارشناس اقتصاد کلان، معتقد است در صورت انتخاب راهبرد مقاومت برای دوره پیش رو، ادامه الگوی پیشین اقتصاد متکی بر صادرات نفت، واردات گسترده و مناسبات رانت محور امکان پذیر نخواهد بود. او برای افزایش تاب آوری اقتصاد، مجموعه ای از سیاست ها از جمله انضباط پولی، اصلاح نظام مالیاتی، حمایت از تولید داخلی، تأمین کالاهای ضروری و مدیریت هدفمند منابع ارزی را پیشنهاد می کند.",
-    "published": "Thu, 29 Oct 2026 15:02:00 GMT",
-    "collected_at": "2026-10-29T18:47:30.854428+03:30",
-    "filter_market_score": 23,
-    "market_score": 25,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نفت",
-      "صادرات نفت",
-      "واردات",
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "مقاومت",
-      "افزایش",
-      "حمایت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "صادرات نفت"
-    ],
-    "medium_impact_matches": [
-      "واردات",
-      "صادرات"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "کارشناس اقتصاد کلان، معتقد است در صورت انتخاب راهبرد مقاومت برای دوره پیش رو، ادامه الگوی پیشین اقتصاد متکی بر صادرات نفت، واردات گسترده و مناسبات رانت محور امکان پذیر نخواهد بود. او برای افزایش تاب آوری اقتصاد، مجموعه ای از سیاست ها از جمله انضباط پولی، اصلاح نظام مالیاتی، حمایت از تولید داخلی، تأمین کالاهای ضروری و مدیریت هدفمند منابع ارزی را پیشنهاد می کند.",
-    "telegram_preview": "📰 نسخه اقتصادی شقاقی برای دوران مقاومت؛ باید واردات و تخصیص ارز را بازنگری کرد/ الگوی اقتصاد در شرایط فعلی باید عوض شود\n\nکارشناس اقتصاد کلان، معتقد است در صورت انتخاب راهبرد مقاومت برای دوره پیش رو، ادامه الگوی پیشین اقتصاد متکی بر صادرات نفت، واردات گسترده و مناسبات رانت محور امکان پذیر نخواهد بود. او برای افزایش تاب آوری اقتصاد، مجموعه ای از سیاست ها از جمله انضباط پولی، اصلاح نظام مالیاتی، حمایت از تولید داخلی، تأمین کالاهای ضروری و مدیریت هدفمند منابع ارزی را پیشنهاد می کند.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2294535/%D9%86%D8%B3%D8%AE%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%B4%D9%82%D8%A7%D9%82%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%88%D8%B1%D8%A7%D9%86-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%88-%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%D8%A7%D8%B1%D8%B2"
   },
   {
     "source": "دنیای اقتصاد",
@@ -3730,6 +3939,63 @@
     "telegram_preview": "📰 تورم ۳ رقمی به کفش و لباس رسید /حمل ونقل بیشترین سهم را در افزایش قیمت ها در مهرماه داشت\n\nاقتصادآنلاین: بررسی سری زمانی شاخص قیمت مصرف کننده مرکز آمار نشان می دهد که در مهرماه، شاخص کل و شماری از گروه های اصلی رکوردهای تاریخی و قابل توجهی ثبت کرده اند.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2295176/%D8%AA%D9%88%D8%B1%D9%85-%DB%B3-%D8%B1%D9%82%D9%85%DB%8C-%D8%A8%D9%87-%DA%A9%D9%81%D8%B4-%D9%88-%D9%84%D8%A8%D8%A7%D8%B3-%D8%B1%D8%B3%DB%8C%D8%AF-%D8%AD%D9%85%D9%84-%D9%88%D9%86%D9%82%D9%84-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D9%87%D9%85-%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4"
   },
   {
+    "source": "مهر",
+    "title": "«کاوان»؛ سومین نماد مس و تنها تولیدکننده قلع در بورس",
+    "link": "https://www.mehrnews.com/news/6994918/%DA%A9%D8%A7%D9%88%D8%A7%D9%86-%D8%B3%D9%88%D9%85%DB%8C%D9%86-%D9%86%D9%85%D8%A7%D8%AF-%D9%85%D8%B3-%D9%88-%D8%AA%D9%86%D9%87%D8%A7-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%82%D9%84%D8%B9-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "شرکت مس کاوان نماد با نماد «کاوان» به عنوان سومین نماد مس و تنها تولیدکننده قلع کشور در مسیر عرضه اولیه در بورس تهران قرار گرفت.",
+    "published": "Sat, 31 Oct 2026 06:55:24 GMT",
+    "collected_at": "2026-10-31T10:47:46.246324+03:30",
+    "filter_market_score": 15,
+    "market_score": 17,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "عرضه اولیه"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "عرضه اولیه"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "عرضه"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "عرضه اولیه"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "شرکت مس کاوان نماد با نماد «کاوان» به عنوان سومین نماد مس و تنها تولیدکننده قلع کشور در مسیر عرضه اولیه در بورس تهران قرار گرفت.",
+    "telegram_preview": "📰 «کاوان»؛ سومین نماد مس و تنها تولیدکننده قلع در بورس\n\nشرکت مس کاوان نماد با نماد «کاوان» به عنوان سومین نماد مس و تنها تولیدکننده قلع کشور در مسیر عرضه اولیه در بورس تهران قرار گرفت.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6994918/%DA%A9%D8%A7%D9%88%D8%A7%D9%86-%D8%B3%D9%88%D9%85%DB%8C%D9%86-%D9%86%D9%85%D8%A7%D8%AF-%D9%85%D8%B3-%D9%88-%D8%AA%D9%86%D9%87%D8%A7-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%82%D9%84%D8%B9-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3"
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "بزرگ ترین سرقت تاریخ رمزارزها؛ ۶.۳ میلیارد دلار از بایننس خارج شد/ کره شمالی در مظان اتهام",
     "link": "https://www.khabaronline.ir/news/2295106/%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B1%D9%82%D8%AA-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%DB%B6-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%AE%D8%A7%D8%B1%D8%AC",
@@ -3893,6 +4159,61 @@
     "duplicate_count": 1,
     "full_text": "تارنمای آمریکایی «پولیتیکو» گزارش داد: اروپا باید برای پوشش سود وام های اوکراین ۳۵ میلیارد یورو اختصاص دهد.",
     "telegram_preview": "📰 اروپا برای پوشش سود وام های کی یف باید ۳۵ میلیارد یورو اختصاص دهد\n\nتارنمای آمریکایی «پولیتیکو» گزارش داد: اروپا باید برای پوشش سود وام های اوکراین ۳۵ میلیارد یورو اختصاص دهد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6994057/%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B4%D8%B4-%D8%B3%D9%88%D8%AF-%D9%88%D8%A7%D9%85-%D9%87%D8%A7%DB%8C-%DA%A9%DB%8C-%DB%8C%D9%81-%D8%A8%D8%A7%DB%8C%D8%AF-%DB%B3%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5"
+  },
+  {
+    "source": "مهر",
+    "title": "نوری: تجارت ۹۴۰ میلیون دلاری ایران و آفریقا باید توسعه پیدا کند",
+    "link": "https://www.mehrnews.com/news/6994929/%D9%86%D9%88%D8%B1%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%DB%B9%DB%B4%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D9%86%D8%AF",
+    "summary": "وی با اشاره به رشد ۶۶ درصدی تجارت ایران و آفریقا در نیمه نخست سال ۱۴۰۴، گفت: تجارت ۹۴۰ میلیون دلاری در برابر بازار عظیم قاره آفریقا بسیار کوچک است که باید توسعه پیدا کند.",
+    "published": "Sat, 31 Oct 2026 07:11:42 GMT",
+    "collected_at": "2026-10-31T10:47:46.246107+03:30",
+    "filter_market_score": 11,
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "وی با اشاره به رشد ۶۶ درصدی تجارت ایران و آفریقا در نیمه نخست سال ۱۴۰۴، گفت: تجارت ۹۴۰ میلیون دلاری در برابر بازار عظیم قاره آفریقا بسیار کوچک است که باید توسعه پیدا کند.",
+    "telegram_preview": "📰 نوری: تجارت ۹۴۰ میلیون دلاری ایران و آفریقا باید توسعه پیدا کند\n\nوی با اشاره به رشد ۶۶ درصدی تجارت ایران و آفریقا در نیمه نخست سال ۱۴۰۴، گفت: تجارت ۹۴۰ میلیون دلاری در برابر بازار عظیم قاره آفریقا بسیار کوچک است که باید توسعه پیدا کند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6994929/%D9%86%D9%88%D8%B1%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%DB%B9%DB%B4%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D9%86%D8%AF"
   },
   {
     "source": "مهر",
@@ -4223,6 +4544,62 @@
     "duplicate_count": 1,
     "full_text": "آزادشهر-رئیس پلیس آگاهی گلستان از دستگیری سارق طلا و جواهرات یک منزل روستایی در شهرستان آزادشهر و کشف ۵۰ گرم طلای مسروقه خبر داد.",
     "telegram_preview": "📰 سارق ۵۰ گرم طلا در آزادشهر پیش از فروش اموال مسروقه دستگیر شد\n\nآزادشهر-رئیس پلیس آگاهی گلستان از دستگیری سارق طلا و جواهرات یک منزل روستایی در شهرستان آزادشهر و کشف ۵۰ گرم طلای مسروقه خبر داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6994660/%D8%B3%D8%A7%D8%B1%D9%82-%DB%B5%DB%B0-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D9%85%D9%88%D8%A7%D9%84-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D9%87-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF"
+  },
+  {
+    "source": "ایسنا",
+    "title": "مدیرکل صمت آذربایجان غربی: پیمان سپاری ارزی از مشکلات فعالان تجارت مرزی پیله وری است",
+    "link": "https://www.isna.ir/news/1405080905355/%D9%85%D8%AF%DB%8C%D8%B1%DA%A9%D9%84-%D8%B5%D9%85%D8%AA-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%BE%DB%8C%D9%85%D8%A7%D9%86-%D8%B3%D9%BE%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%D8%B2-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%81%D8%B9%D8%A7%D9%84%D8%A7%D9%86",
+    "summary": "مدیرکل صنعت، معدن و تجارت آذربایجان غربی یکی از مشکلات فعالان تجارت مرزی پیله وری را موضوع پیمان سپاری ارزی عنوان کرد و گفت: در این مبادلات سقف مشخصی برای صادرات تعیین نشده است.",
+    "published": "Sat, 31 Oct 2026 06:57:32 GMT",
+    "collected_at": "2026-10-31T10:47:32.380097+03:30",
+    "filter_market_score": 13,
+    "market_score": 16,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "مدیرکل صنعت، معدن و تجارت آذربایجان غربی یکی از مشکلات فعالان تجارت مرزی پیله وری را موضوع پیمان سپاری ارزی عنوان کرد و گفت: در این مبادلات سقف مشخصی برای صادرات تعیین نشده است.",
+    "telegram_preview": "📰 مدیرکل صمت آذربایجان غربی: پیمان سپاری ارزی از مشکلات فعالان تجارت مرزی پیله وری است\n\nمدیرکل صنعت، معدن و تجارت آذربایجان غربی یکی از مشکلات فعالان تجارت مرزی پیله وری را موضوع پیمان سپاری ارزی عنوان کرد و گفت: در این مبادلات سقف مشخصی برای صادرات تعیین نشده است.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080905355/%D9%85%D8%AF%DB%8C%D8%B1%DA%A9%D9%84-%D8%B5%D9%85%D8%AA-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%BE%DB%8C%D9%85%D8%A7%D9%86-%D8%B3%D9%BE%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%D8%B2-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%81%D8%B9%D8%A7%D9%84%D8%A7%D9%86"
   },
   {
     "source": "تابناک",
@@ -4590,58 +4967,6 @@
   },
   {
     "source": "مهر",
-    "title": "با کسب ۸ مدال طلا، نقره و برنز؛ تیم ملی جودو ایران قهرمان کاپ آسیا شد",
-    "link": "https://www.mehrnews.com/news/6993857/%D8%A8%D8%A7-%DA%A9%D8%B3%D8%A8-%DB%B8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D9%88-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%AC%D9%88%D8%AF%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D9%BE",
-    "summary": "تیم ملی جودو ایران در مجموع زنان و مردان با کسب ۸ مدال طلا، نقره و برنز عنوان قهرمانی کاپ آسیا را به خود اختصاص داد و روی سکوی نخست ایستاد.",
-    "published": "Thu, 29 Oct 2026 15:50:59 GMT",
-    "collected_at": "2026-10-29T19:47:42.288911+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "تیم ملی جودو ایران در مجموع زنان و مردان با کسب ۸ مدال طلا، نقره و برنز عنوان قهرمانی کاپ آسیا را به خود اختصاص داد و روی سکوی نخست ایستاد.",
-    "telegram_preview": "📰 با کسب ۸ مدال طلا، نقره و برنز؛ تیم ملی جودو ایران قهرمان کاپ آسیا شد\n\nتیم ملی جودو ایران در مجموع زنان و مردان با کسب ۸ مدال طلا، نقره و برنز عنوان قهرمانی کاپ آسیا را به خود اختصاص داد و روی سکوی نخست ایستاد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6993857/%D8%A8%D8%A7-%DA%A9%D8%B3%D8%A8-%DB%B8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D9%88-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%AC%D9%88%D8%AF%D9%88-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D9%BE"
-  },
-  {
-    "source": "مهر",
     "title": "سرمایه های مردم باید به چرخه تولید طلا و جواهر وارد شود",
     "link": "https://www.mehrnews.com/news/6994521/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D9%87-%DA%86%D8%B1%D8%AE%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AC%D9%88%D8%A7%D9%87%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF-%D8%B4%D9%88%D8%AF",
     "summary": "مجری سامانه هوشمند معاملات و انبارداری فلزات گرانبها بر ضرورت توسعه زیرساخت های دیجیتال در صنعت طلا و جواهر تاکید کرد.",
@@ -4904,57 +5229,6 @@
     "duplicate_count": 1,
     "full_text": "قیمت معاملات آتی نفت خام «وست تگزاس اینترمدیت» (WTI) آمریکا نیز با ۱.۰۸ درصد افزایش، به ۱۰۳.۸۸ دلار در هر بشکه صعود کرد.",
     "telegram_preview": "📰 نفت برنت از ۱۱۷ برگشت\n\nقیمت معاملات آتی نفت خام «وست تگزاس اینترمدیت» (WTI) آمریکا نیز با ۱.۰۸ درصد افزایش، به ۱۰۳.۸۸ دلار در هر بشکه صعود کرد.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305095-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A7%D8%B2-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA"
-  },
-  {
-    "source": "ایسنا",
-    "title": "کسب مدال طلا و برنز توسط جودوکاران خراسان رضوی در کاپ آسیا",
-    "link": "https://www.isna.ir/news/1405080704690/%DA%A9%D8%B3%D8%A8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%88-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AC%D9%88%D8%AF%D9%88%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7",
-    "summary": "دبیر هیأت جودو خراسان رضوی گفت: الیاس پرهیزکار و امیرحسین شهیدی از جودوکاران خراسان رضوی در دومین روز رقابت های جودوی کاپ آسیا به میزبانی اردن، موفق به کسب یک مدال طلا و یک مدال برنز شدند.",
-    "published": "Thu, 29 Oct 2026 15:56:40 GMT",
-    "collected_at": "2026-10-29T19:47:37.410260+03:30",
-    "filter_market_score": 10,
-    "market_score": 14,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "دبیر هیأت جودو خراسان رضوی گفت: الیاس پرهیزکار و امیرحسین شهیدی از جودوکاران خراسان رضوی در دومین روز رقابت های جودوی کاپ آسیا به میزبانی اردن، موفق به کسب یک مدال طلا و یک مدال برنز شدند.",
-    "telegram_preview": "📰 کسب مدال طلا و برنز توسط جودوکاران خراسان رضوی در کاپ آسیا\n\nدبیر هیأت جودو خراسان رضوی گفت: الیاس پرهیزکار و امیرحسین شهیدی از جودوکاران خراسان رضوی در دومین روز رقابت های جودوی کاپ آسیا به میزبانی اردن، موفق به کسب یک مدال طلا و یک مدال برنز شدند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080704690/%DA%A9%D8%B3%D8%A8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%88-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AC%D9%88%D8%AF%D9%88%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7"
   },
   {
     "source": "تابناک",
@@ -5844,6 +6118,56 @@
     "duplicate_count": 1,
     "full_text": "رئیس جمهور روسیه در دیدار با رئیس شورای حاکمیتی سودان در مسکو ضمن بررسی تحولات این کشور و تأکید بر لزوم توقف درگیری ها، نقشه راه همکاری های دوجانبه را به وی تسلیم کرد.",
     "telegram_preview": "📰 سودان: آماده ایم مکان هایی را برای سرمایه گذاری در معادن طلا و مس به روسیه دهیم\n\nرئیس جمهور روسیه در دیدار با رئیس شورای حاکمیتی سودان در مسکو ضمن بررسی تحولات این کشور و تأکید بر لزوم توقف درگیری ها، نقشه راه همکاری های دوجانبه را به وی تسلیم کرد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080804982/%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%A7%DB%8C%D9%85-%D9%85%DA%A9%D8%A7%D9%86-%D9%87%D8%A7%DB%8C%DB%8C-%D8%B1%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D8%AF%D9%86-%D8%B7%D9%84%D8%A7"
+  },
+  {
+    "source": "ایسنا",
+    "title": "زنگ خطر سقوط بیت کوین به صدا درآورد",
+    "link": "https://www.isna.ir/news/1405080905349/%D8%B2%D9%86%DA%AF-%D8%AE%D8%B7%D8%B1-%D8%B3%D9%82%D9%88%D8%B7-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%A8%D9%87-%D8%B5%D8%AF%D8%A7-%D8%AF%D8%B1%D8%A2%D9%88%D8%B1%D8%AF",
+    "summary": "بیت کوین در پی حمله سایبری بی سابقه به بایننس که به سرقت ۶.۳ میلیارد دلار رمزارز از بزرگ ترین صرافی رمزارز جهان منجر شد، با موج شدیدی از فروش مواجه شده است.",
+    "published": "Sat, 31 Oct 2026 06:55:36 GMT",
+    "collected_at": "2026-10-31T10:47:32.380172+03:30",
+    "filter_market_score": 5,
+    "market_score": 10,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "سقوط"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "بیت کوین در پی حمله سایبری بی سابقه به بایننس که به سرقت ۶.۳ میلیارد دلار رمزارز از بزرگ ترین صرافی رمزارز جهان منجر شد، با موج شدیدی از فروش مواجه شده است.",
+    "telegram_preview": "📰 زنگ خطر سقوط بیت کوین به صدا درآورد\n\nبیت کوین در پی حمله سایبری بی سابقه به بایننس که به سرقت ۶.۳ میلیارد دلار رمزارز از بزرگ ترین صرافی رمزارز جهان منجر شد، با موج شدیدی از فروش مواجه شده است.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080905349/%D8%B2%D9%86%DA%AF-%D8%AE%D8%B7%D8%B1-%D8%B3%D9%82%D9%88%D8%B7-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%A8%D9%87-%D8%B5%D8%AF%D8%A7-%D8%AF%D8%B1%D8%A2%D9%88%D8%B1%D8%AF"
   },
   {
     "source": "مشرق",
