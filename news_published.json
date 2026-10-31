@@ -23438,5 +23438,29 @@
     "group_message_id": 1824,
     "fully_published": true,
     "last_checked_at": "2026-10-31T19:48:04.737664+00:00"
+  },
+  "4dd68d33be54ce8e847ceb5cb52fdd47c916e7a4b9f8c3b6951cead3d8853198": {
+    "title": "قیمت سکه امروز ۹ آبان ۱۴۰۵ در زمان بسته شدن بازار/ نیم سکه ۱۳۷ میلیون و ۹۰۰ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295728/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B3%DB%B7",
+    "telegram_message_ids": [
+      2078
+    ],
+    "eitaa_message_ids": [
+      179335157
+    ],
+    "group_message_ids": [
+      1825
+    ],
+    "content_hash": "4be3c5de7899728cdbc7fbfb5ab971a7fd0084741e9e444b94bfc437f132e6bc",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T20:18:06.814971+00:00",
+    "telegram_message_id": 2078,
+    "eitaa_last_sent_at": "2026-10-31T20:18:07.981947+00:00",
+    "eitaa_message_id": 179335157,
+    "group_last_sent_at": "2026-10-31T20:18:09.587613+00:00",
+    "group_message_id": 1825,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T20:18:09.624866+00:00"
   }
 }
