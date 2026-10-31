@@ -76,6 +76,75 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "بازارها زیر سایه ابهام سیاسی/ سقوط هم زمان سهام و صندوق های طلا +فیلم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305392-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%B2%DB%8C%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D8%A7%D8%A8%D9%87%D8%A7%D9%85-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D8%B3%D9%82%D9%88%D8%B7-%D9%87%D9%85-%D8%B2%D9%85%D8%A7%D9%86-%D8%B3%D9%87%D8%A7%D9%85-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%B7%D9%84%D8%A7-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "بورس امروز ۹ آبان ماه در اولین روز معاملاتی هفته با افت شاخص ها و غلبه فشار فروش همراه شد؛ شاخص کل ۱.۶۲ درصد و شاخص هم وزن ۱.۵۸ درصد کاهش پیدا کردند و حدود ۵ همت پول حقیقی از بازار خارج شد.",
+    "published": "Sat, 31 Oct 2026 15:48:10 +0000",
+    "collected_at": "2026-10-31T19:44:14.633490+03:30",
+    "filter_market_score": 46,
+    "market_score": 46,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "صندوق های طلا",
+        "صندوق‌های طلا"
+      ],
+      "stock": [
+        "صندوق های طلا",
+        "صندوق‌های طلا",
+        "سهام",
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "صندوق های طلا",
+        "صندوق‌های طلا"
+      ],
+      "stock": [
+        "صندوق های طلا",
+        "صندوق‌های طلا",
+        "سهام"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا",
+        "صندوق های طلا",
+        "صندوق‌های طلا"
+      ],
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "صندوق های طلا",
+        "صندوق‌های طلا",
+        "سهام"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "سقوط",
+      "کاهش",
+      "افت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "طلای جهانی در کف یک ساله",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4305181-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%DA%A9%D9%81-%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84%D9%87",
     "summary": "در آخرین روز معاملاتی اکتبر، قیمت جهانی طلا تحت تاثیر تشدید نگرانی ها درباره تداوم رشدتورم در آمریکا و افزایش احتمال بالا ماندن نرخ بهره فدرال رزرو در ماه های آینده، به زیر ۳۹00 دلار در هر اونس عقب نشینی کرد؛ سطحی که از اکتبر ۲۰۲۵ تاکنون تجربه نشده بود. انتشار داده های تورمی فراتر از انتظار و رشد قدرتمند اقتصاد آمریکا، انتظارات انقباضی معامله گران را تقویت کرد و جذابیت سرمایه گذاری در فلز زرد را کاهش داد. به این ترتیب، طلا دومین ماه متوالی افت قیمت را پشت سر گذاشت. در بازار داخلی نیز هرچند دلار در هفته نخست آبان نوسانات محدودی داشت، قیمت طلای ۱۸ عیار 3.7درصد کاهش یافت.",
@@ -3422,46 +3491,6 @@
     "filter_applied": true
   },
   {
-    "source": "تابناک",
-    "title": "تعرفه ها باید پاسخ گوی هزینه نوسازی شبکه باشند",
-    "link": "https://tabnak.ir/fa/news/30008395/%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D9%87%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%BE%D8%A7%D8%B3%D8%AE-%DA%AF%D9%88%DB%8C-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A8%D8%A7%D8%B4%D9%86%D8%AF",
-    "summary": "افزایش نرخ ارز و تورم، در کنار محدودیت های ناشی از تحریم، هزینه تأمین تجهیزات و توسعه فناوری را افزایش می دهد.",
-    "published": "Fri, 30 Oct 2026 17:03:00 +0330",
-    "collected_at": "2026-10-30T17:15:58.161714+03:30",
-    "filter_market_score": 13,
-    "market_score": 13,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "driver_matches": [
-      "تورم",
-      "تحریم"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "مهر",
     "title": "سرمایه های مردم باید به چرخه تولید طلا و جواهر وارد شود",
     "link": "https://www.mehrnews.com/news/6994521/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D9%87-%DA%86%D8%B1%D8%AE%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AC%D9%88%D8%A7%D9%87%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF-%D8%B4%D9%88%D8%AF",
@@ -3795,6 +3824,41 @@
     "signal_matches": [
       "سقوط"
     ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "ایران با ۲ طلا در تعقیب آمریکا و روسیه؛ جایگاه سوم برای آزادکاران",
+    "link": "https://www.mehrnews.com/news/6995577/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%DB%B2-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%AA%D8%B9%D9%82%DB%8C%D8%A8-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%B3%D9%88%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF%DA%A9%D8%A7%D8%B1%D8%A7%D9%86",
+    "summary": "تیم ملی کشتی آزاد ایران در پایان رقابت های چهار وزن دوم قهرمانی جهان با کسب دو مدال طلا توسط احمد محمدنژاد جوان و امیرحسین زارع، در جایگاه سوم جدول رده بندی قرار گرفت.",
+    "published": "Sat, 31 Oct 2026 15:52:48 GMT",
+    "collected_at": "2026-10-31T19:44:10.347701+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
@@ -4816,6 +4880,40 @@
       "افزایش",
       "قیمت",
       "اعلام کرد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "انیمه ژاپنی رکورد می زند",
+    "link": "https://www.isna.ir/news/1405080905826/%D8%A7%D9%86%DB%8C%D9%85%D9%87-%DA%98%D8%A7%D9%BE%D9%86%DB%8C-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D9%85%DB%8C-%D8%B2%D9%86%D8%AF",
+    "summary": "صنعت انیمیشن ژاپن در سال ۲۰۲۵ با رشد ۱۵.۸ درصدی درآمد، رکورد تازه ای ثبت کرد و ارزش کل فروش آن به ۲۸.۵ میلیارد دلار رسید.",
+    "published": "Sat, 31 Oct 2026 15:53:38 GMT",
+    "collected_at": "2026-10-31T19:44:07.961879+03:30",
+    "filter_market_score": 6,
+    "market_score": 6,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رکورد",
+      "رشد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
