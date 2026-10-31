@@ -20558,5 +20558,29 @@
     "group_message_id": 1664,
     "fully_published": true,
     "last_checked_at": "2026-10-30T21:47:59.782572+00:00"
+  },
+  "1d9d6468a5046b03b8e87715549d5cca942590a9a966ff579867e809f68fbe4f": {
+    "title": "اعتراف صدراعظم آلمان: جنگ تحمیلی علیه ایران بیش از ۱۰۰ میلیارد یورو به اروپا خسارت زده است",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080905163/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81-%D8%B5%D8%AF%D8%B1%D8%A7%D8%B9%D8%B8%D9%85-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D8%AA%D8%AD%D9%85%DB%8C%D9%84%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      1919
+    ],
+    "eitaa_message_ids": [
+      179160353
+    ],
+    "group_message_ids": [
+      1665
+    ],
+    "content_hash": "0b50f73fcefcd30b80b5f727cb103dec0ad9edb0a9065fc87ef0a0526dfca526",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T01:17:59.147562+00:00",
+    "telegram_message_id": 1919,
+    "eitaa_last_sent_at": "2026-10-31T01:18:00.338166+00:00",
+    "eitaa_message_id": 179160353,
+    "group_last_sent_at": "2026-10-31T01:18:01.946200+00:00",
+    "group_message_id": 1665,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T01:18:01.979746+00:00"
   }
 }
