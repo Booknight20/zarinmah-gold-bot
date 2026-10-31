@@ -21974,5 +21974,77 @@
     "group_message_id": 1737,
     "fully_published": true,
     "last_checked_at": "2026-10-31T09:48:44.634126+00:00"
+  },
+  "4dc5c8f5d53dffe52887eebc6e8d98e1eebce1229478451c39538e761caecf09": {
+    "title": "دستگیری باند ۴ نفره متهمان سرقت طلا در قوچان",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6995231/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A8%D8%A7%D9%86%D8%AF-%DB%B4-%D9%86%D9%81%D8%B1%D9%87-%D9%85%D8%AA%D9%87%D9%85%D8%A7%D9%86-%D8%B3%D8%B1%D9%82%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%82%D9%88%DA%86%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1995
+    ],
+    "eitaa_message_ids": [
+      179242356
+    ],
+    "group_message_ids": [
+      1741
+    ],
+    "content_hash": "1cf96db5bed440705e496b9ed31608b1af242637538e5029b9b47b96177236b9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T10:18:24.436577+00:00",
+    "telegram_message_id": 1995,
+    "eitaa_last_sent_at": "2026-10-31T10:18:28.357641+00:00",
+    "eitaa_message_id": 179242356,
+    "group_last_sent_at": "2026-10-31T10:18:30.123976+00:00",
+    "group_message_id": 1741,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T10:18:30.158892+00:00"
+  },
+  "e7a0b8461faf170eff68e95655a6bae1d22275eb9853dd5b5e52b7f31ce850b9": {
+    "title": "جهش سه برابری قیمت گاز در اروپا در آستانه زمستان",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6995211/%D8%AC%D9%87%D8%B4-%D8%B3%D9%87-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%DA%AF%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%B2%D9%85%D8%B3%D8%AA%D8%A7%D9%86",
+    "telegram_message_ids": [
+      1996
+    ],
+    "eitaa_message_ids": [
+      179242377
+    ],
+    "group_message_ids": [
+      1742
+    ],
+    "content_hash": "e99551b2e6b591858472865f5ddeabade7bfbb63f820abe0bd87ed853af49537",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T10:18:31.929033+00:00",
+    "telegram_message_id": 1996,
+    "eitaa_last_sent_at": "2026-10-31T10:18:33.531113+00:00",
+    "eitaa_message_id": 179242377,
+    "group_last_sent_at": "2026-10-31T10:18:35.317967+00:00",
+    "group_message_id": 1742,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T10:18:35.353014+00:00"
+  },
+  "75ceec85df3de46528a345b5fcdbd252b2df0d90dae6129e039121e47b62fc55": {
+    "title": "عقب نشینی ۱۰ میلیارد دلاری OpenAI از برنامه جذب سرمایه",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6995194/%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%DB%B1%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-OpenAI-%D8%A7%D8%B2-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%AC%D8%B0%D8%A8-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87",
+    "telegram_message_ids": [
+      1997
+    ],
+    "eitaa_message_ids": [
+      179242386
+    ],
+    "group_message_ids": [
+      1743
+    ],
+    "content_hash": "70a5c805b5644227c6d57e627bc98c02426b97a75f373c7592494c6b43c1225c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T10:18:37.174912+00:00",
+    "telegram_message_id": 1997,
+    "eitaa_last_sent_at": "2026-10-31T10:18:37.971213+00:00",
+    "eitaa_message_id": 179242386,
+    "group_last_sent_at": "2026-10-31T10:18:39.707071+00:00",
+    "group_message_id": 1743,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T10:18:39.742439+00:00"
   }
 }
