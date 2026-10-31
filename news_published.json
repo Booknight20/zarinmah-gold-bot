@@ -22046,5 +22046,149 @@
     "group_message_id": 1743,
     "fully_published": true,
     "last_checked_at": "2026-10-31T10:18:39.742439+00:00"
+  },
+  "7b3780012568af1664aef8ab778ce114bf59347a8b7c73163b7be583cbb2605d": {
+    "title": "بانک مرکزی برای واردات چقدر خرج کرد؟/ سهم کدام بخش ها کم شد؟",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080905597/%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%DA%86%D9%82%D8%AF%D8%B1-%D8%AE%D8%B1%D8%AC-%DA%A9%D8%B1%D8%AF-%D8%B3%D9%87%D9%85-%DA%A9%D8%AF%D8%A7%D9%85-%D8%A8%D8%AE%D8%B4-%D9%87%D8%A7-%DA%A9%D9%85-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      1998
+    ],
+    "eitaa_message_ids": [
+      179250110
+    ],
+    "group_message_ids": [
+      1744
+    ],
+    "content_hash": "0512401b5cb257b412ab6169cd7385a09b653ea0d5c1d953b0b5b2cad9283d27",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T10:48:25.025939+00:00",
+    "telegram_message_id": 1998,
+    "eitaa_last_sent_at": "2026-10-31T10:48:26.214996+00:00",
+    "eitaa_message_id": 179250110,
+    "group_last_sent_at": "2026-10-31T10:48:27.810643+00:00",
+    "group_message_id": 1744,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T10:48:27.845558+00:00"
+  },
+  "c09ab83bcb194342df8f5bd9a9b46f299747f838df6733b06e725128fa106454": {
+    "title": "سود ۱۳۰ میلیارد دلاری غول های نفتی آمریکا از جنگ",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%86%DB%8C%D8%A7-5/4305280-%D8%B3%D9%88%D8%AF-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%BA%D9%88%D9%84-%D9%87%D8%A7%DB%8C-%D9%86%D9%81%D8%AA%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%AC%D9%86%DA%AF",
+    "telegram_message_ids": [
+      1999
+    ],
+    "eitaa_message_ids": [
+      179250119
+    ],
+    "group_message_ids": [
+      1745
+    ],
+    "content_hash": "c41f0cbd868d68f386426711f0efc99eb8407d4be048cdd735d029e01760b7e4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T10:48:29.481202+00:00",
+    "telegram_message_id": 1999,
+    "eitaa_last_sent_at": "2026-10-31T10:48:30.106203+00:00",
+    "eitaa_message_id": 179250119,
+    "group_last_sent_at": "2026-10-31T10:48:31.696658+00:00",
+    "group_message_id": 1745,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T10:48:31.732114+00:00"
+  },
+  "51b3619416924306847c5a1e5dc0eee45af89016a0def6535752f447fd284f76": {
+    "title": "شاخص کل بورس 128 هزار واحد افت کرد/ خروج 5 همت پول و تشدید عرضه ها",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305325-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D9%87%D9%85%D8%AA-%D9%BE%D9%88%D9%84-%D8%AA%D8%B4%D8%AF%DB%8C%D8%AF-%D8%B9%D8%B1%D8%B6%D9%87-%D9%87%D8%A7",
+    "telegram_message_ids": [
+      2000
+    ],
+    "eitaa_message_ids": [
+      179250130
+    ],
+    "group_message_ids": [
+      1746
+    ],
+    "content_hash": "27f94a99e2c2367bfa78b3697be4deeb627c18f00f79b144d92d0cb65cf61372",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T10:48:33.386562+00:00",
+    "telegram_message_id": 2000,
+    "eitaa_last_sent_at": "2026-10-31T10:48:34.670350+00:00",
+    "eitaa_message_id": 179250130,
+    "group_last_sent_at": "2026-10-31T10:48:36.269197+00:00",
+    "group_message_id": 1746,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T10:48:36.304420+00:00"
+  },
+  "6334fc7a5a19de2da37f03cf15a8fac4d5a7f5be627cbbd605ebd51965ebc33f": {
+    "title": "خروج ۵ همت پول از معاملات بورس/ ۷۰ درصد نمادها منفی شدند",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008518/%D8%AE%D8%B1%D9%88%D8%AC-5-%D9%87%D9%85%D8%AA-%D9%BE%D9%88%D9%84-%D8%A7%D8%B2-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-70-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%86%D9%85%D8%A7%D8%AF%D9%87%D8%A7-%D9%85%D9%86%D9%81%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF",
+    "telegram_message_ids": [
+      2001
+    ],
+    "eitaa_message_ids": [
+      179250141
+    ],
+    "group_message_ids": [
+      1747
+    ],
+    "content_hash": "98a10025af19670f900c8c336d72c95fafcc987abcbb84f1476aa2f640777910",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T10:48:37.927532+00:00",
+    "telegram_message_id": 2001,
+    "eitaa_last_sent_at": "2026-10-31T10:48:39.071465+00:00",
+    "eitaa_message_id": 179250141,
+    "group_last_sent_at": "2026-10-31T10:48:40.652574+00:00",
+    "group_message_id": 1747,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T10:48:40.688108+00:00"
+  },
+  "4ef1941d0ad02f998959b42f4eab14458b165d80f79622afeb6bbaab25ab3c1b": {
+    "title": "قیمت طلا و سکه امروز 9 آبان/ ۷.۵ میلیون تومان ریزش در یک روز !",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/30008516/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-9-%D8%A2%D8%A8%D8%A7%D9%86-7-5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%AF%D8%B1-%DB%8C%DA%A9-%D8%B1%D9%88%D8%B2",
+    "telegram_message_ids": [
+      2002
+    ],
+    "eitaa_message_ids": [
+      179250157
+    ],
+    "group_message_ids": [
+      1748
+    ],
+    "content_hash": "4f9924348c3397d51a18b5da96664b9ba771a8038820045e2ed2274b245173ef",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T10:48:42.366574+00:00",
+    "telegram_message_id": 2002,
+    "eitaa_last_sent_at": "2026-10-31T10:48:43.237528+00:00",
+    "eitaa_message_id": 179250157,
+    "group_last_sent_at": "2026-10-31T10:48:44.822193+00:00",
+    "group_message_id": 1748,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T10:48:44.857606+00:00"
+  },
+  "26204c0610719e13a0deaa00b18d3cb75921f5567c0923ef6544db2eee6c27bf": {
+    "title": "قیمت طلا و سکه امروز شنبه ۹ آبان ۱۴۰۵",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849425/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "telegram_message_ids": [
+      2003
+    ],
+    "eitaa_message_ids": [
+      179250199
+    ],
+    "group_message_ids": [
+      1749
+    ],
+    "content_hash": "092b4ec31f8305f14f87928ad4ec326c05a66e8bfe2ad7bcd7dca236aa2ba242",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T10:48:46.638541+00:00",
+    "telegram_message_id": 2003,
+    "eitaa_last_sent_at": "2026-10-31T10:48:47.524976+00:00",
+    "eitaa_message_id": 179250199,
+    "group_last_sent_at": "2026-10-31T10:48:49.108742+00:00",
+    "group_message_id": 1749,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T10:48:49.144497+00:00"
   }
 }
