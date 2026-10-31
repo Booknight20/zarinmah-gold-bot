@@ -20942,5 +20942,77 @@
     "group_message_id": 1681,
     "fully_published": true,
     "last_checked_at": "2026-10-31T05:18:35.133633+00:00"
+  },
+  "0bb30c17a1ae439a9c11f5aaf76be1fba65ca63c8a6b0f9a7570470f712425fc": {
+    "title": "طلای سفید خراسان جنوبی؛ ظرفیت ۵ تن تولید در هکتار و فرصت رونق صنایع تبدیلی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080905228/%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%DB%B5-%D8%AA%D9%86-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%87%DA%A9%D8%AA%D8%A7%D8%B1-%D9%88-%D9%81%D8%B1%D8%B5%D8%AA-%D8%B1%D9%88%D9%86%D9%82",
+    "telegram_message_ids": [
+      1936
+    ],
+    "eitaa_message_ids": [
+      179182426
+    ],
+    "group_message_ids": [
+      1682
+    ],
+    "content_hash": "57c74cce47e7c23a17a1f4ae470d495fc401f0bac4293c185759612132fcdd24",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T05:47:44.700865+00:00",
+    "telegram_message_id": 1936,
+    "eitaa_last_sent_at": "2026-10-31T05:47:46.361257+00:00",
+    "eitaa_message_id": 179182426,
+    "group_last_sent_at": "2026-10-31T05:47:48.076665+00:00",
+    "group_message_id": 1682,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T05:47:48.108070+00:00"
+  },
+  "de1eb10983bb4f071e32d0578c867ef8e2f0ba9d728058b1c40ef951f0432504": {
+    "title": "قیمت طلا امروز ۹ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۱۸عیار ۲۵ میلیون و ۶۳۳ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295282/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      1937
+    ],
+    "eitaa_message_ids": [
+      179182430
+    ],
+    "group_message_ids": [
+      1683
+    ],
+    "content_hash": "4163a432b97d4366bd56202e45314190bb07187406eca80f6c0441fc397ca465",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T05:47:49.838553+00:00",
+    "telegram_message_id": 1937,
+    "eitaa_last_sent_at": "2026-10-31T05:47:51.260974+00:00",
+    "eitaa_message_id": 179182430,
+    "group_last_sent_at": "2026-10-31T05:47:52.966826+00:00",
+    "group_message_id": 1683,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T05:47:52.998428+00:00"
+  },
+  "f486f7d388ef76e7cb84a706d8d3d113691ff4f54fabc11943223e1645a554a1": {
+    "title": "قیمت سکه امروز ۹ آبان ۱۴۰۵ در زمان بازگشایی بازار/ سکه امامی ۲۶۲ میلیون و ۶۰۰ هزار تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295283/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C",
+    "telegram_message_ids": [
+      1938
+    ],
+    "eitaa_message_ids": [
+      179182435
+    ],
+    "group_message_ids": [
+      1684
+    ],
+    "content_hash": "869fa23518a51853de296f174f0f055c0356e0c97cf1a792bd641cca8998060e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T05:47:54.718133+00:00",
+    "telegram_message_id": 1938,
+    "eitaa_last_sent_at": "2026-10-31T05:47:56.108632+00:00",
+    "eitaa_message_id": 179182435,
+    "group_last_sent_at": "2026-10-31T05:47:57.816048+00:00",
+    "group_message_id": 1684,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T05:47:57.847186+00:00"
   }
 }
