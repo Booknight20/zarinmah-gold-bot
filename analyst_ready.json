@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "analyst": "علیرضا محرابی",
+    "title": "وضعیت حباب‌ سکه‌های طلا 👆",
+    "summary": "وضعیت حباب‌ سکه‌های طلا 👆 \n\n ⚡️ @Alirezamehrabi_ir",
+    "full_text": "وضعیت حباب‌ سکه‌های طلا 👆 \n\n ⚡️ @Alirezamehrabi_ir",
+    "source": "علیرضا محرابی",
+    "link": "https://t.me/AlirezaMehrabi_ir/8801",
+    "analysis_score": 8,
+    "market_matches": [
+      "طلا",
+      "سکه",
+      "حباب سکه"
+    ],
+    "analysis_matches": [
+      "حباب"
+    ],
+    "market_groups": [
+      "gold"
+    ],
+    "analysis_reasons": [
+      "ارتباط با بازار",
+      "دارای نشانه‌های تحلیل"
+    ],
+    "priority": "medium",
+    "content_length": 50,
+    "content_complete_from_source": true,
+    "collected_at": "2026-10-31T16:45:40.624818+03:30"
+  }
+]

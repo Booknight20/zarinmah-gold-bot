@@ -20184,5 +20184,68 @@
     "group_sent_at": "2026-10-31T15:48:53.172002+03:30",
     "group_message_id": 1770,
     "published_at": "2026-10-31T15:48:53.192626+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8801": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "وضعیت حباب‌ سکه‌های طلا 👆",
+      "summary": "وضعیت حباب‌ سکه‌های طلا 👆 \n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "وضعیت حباب‌ سکه‌های طلا 👆 \n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8801",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا",
+        "سکه",
+        "حباب سکه"
+      ],
+      "analysis_matches": [
+        "حباب"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل"
+      ],
+      "priority": "medium",
+      "content_length": 50,
+      "content_complete_from_source": true,
+      "collected_at": "2026-10-31T16:45:40.624818+03:30"
+    },
+    "content_signature": "a432897a627c8ba986b0c11e23bfb54a9f6631b908b006ae8b1d1ed97f3160e5",
+    "first_seen_at": "2026-10-31T16:45:41.356522+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2031
+    ],
+    "telegram_last_success_at": "2026-10-31T16:45:41.695950+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-10-31T16:45:41.722400+03:30",
+    "telegram_message_id": 2031,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179280601
+    ],
+    "eitaa_last_success_at": "2026-10-31T16:45:42.788991+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-10-31T16:45:42.807019+03:30",
+    "eitaa_message_id": 179280601,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1778
+    ],
+    "group_last_success_at": "2026-10-31T16:45:43.204600+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-10-31T16:45:43.222546+03:30",
+    "group_message_id": 1778,
+    "published_at": "2026-10-31T16:45:43.240379+03:30"
   }
 }
