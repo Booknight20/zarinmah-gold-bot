@@ -23558,5 +23558,29 @@
     "group_message_id": 1829,
     "fully_published": true,
     "last_checked_at": "2026-10-31T20:38:43.575350+00:00"
+  },
+  "2b217cb98dd8dceeae1bc4372095dae42975b2e0cb29c35300505e0b3138b8ce": {
+    "title": "ریزش سهام غول های هوش مصنوعی؛ آیا جنگ ایران حباب فناوری را ترکاند؟",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849416/%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B3%D9%87%D8%A7%D9%85-%D8%BA%D9%88%D9%84-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A2%DB%8C%D8%A7-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AD%D8%A8%D8%A7%D8%A8-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%B1%D8%A7-%D8%AA%D8%B1%DA%A9%D8%A7%D9%86%D8%AF",
+    "telegram_message_ids": [
+      2083
+    ],
+    "eitaa_message_ids": [
+      179345716
+    ],
+    "group_message_ids": [
+      1830
+    ],
+    "content_hash": "cdf31e7f8c877454a1ebf844dada92f52fba32053b0fa773d3eaff6c3c1d997b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T22:14:30.701194+00:00",
+    "telegram_message_id": 2083,
+    "eitaa_last_sent_at": "2026-10-31T22:14:32.201997+00:00",
+    "eitaa_message_id": 179345716,
+    "group_last_sent_at": "2026-10-31T22:14:33.957241+00:00",
+    "group_message_id": 1830,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T22:14:33.978802+00:00"
   }
 }
