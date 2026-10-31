@@ -20630,5 +20630,29 @@
     "group_message_id": 1667,
     "fully_published": true,
     "last_checked_at": "2026-10-31T03:18:03.718644+00:00"
+  },
+  "1b687905a9cc034b7f150b139a01064d5a3150fe707912b43e59305d40397c3c": {
+    "title": "از طرح سه فوریتی اقتصاد مقاومتی برای کاهش نرخ ارز تا حمله ۶.۳ میلیارد دلاری به بایننس",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4305244-%D8%A7%D8%B2-%D8%B7%D8%B1%D8%AD-%D8%B3%D9%87-%D9%81%D9%88%D8%B1%DB%8C%D8%AA%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%A7-%D8%AD%D9%85%D9%84%D9%87-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D9%87-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3",
+    "telegram_message_ids": [
+      1922
+    ],
+    "eitaa_message_ids": [
+      179166926
+    ],
+    "group_message_ids": [
+      1668
+    ],
+    "content_hash": "ac7f04348a6c15999cb3273137cb97b3ba3527f866efedbe9e87ebdd5df27308",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T03:47:57.503618+00:00",
+    "telegram_message_id": 1922,
+    "eitaa_last_sent_at": "2026-10-31T03:47:58.781500+00:00",
+    "eitaa_message_id": 179166926,
+    "group_last_sent_at": "2026-10-31T03:48:00.398062+00:00",
+    "group_message_id": 1668,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T03:48:00.431170+00:00"
   }
 }
