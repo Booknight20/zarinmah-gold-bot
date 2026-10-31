@@ -23198,5 +23198,29 @@
     "group_message_id": 1811,
     "fully_published": true,
     "last_checked_at": "2026-10-31T16:48:27.607583+00:00"
+  },
+  "68d6a7492ff17d04609f67268cd37ea447a96f82d5cbd024a15ca05597f037a8": {
+    "title": "افشاگری درباره تعداد سربازان آمریکایی مستقر در خاورمیانه برای عبور نفت از تنگه هرمز/ هزینه ماهانه این درگیری، ۲ تا ۳ میلیارد دلار برآورد می شود",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305421-%D8%A7%D9%81%D8%B4%D8%A7%DA%AF%D8%B1%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%85%D8%B3%D8%AA%D9%82%D8%B1-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%D8%A7%DB%8C%D9%86-%D8%AF%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AA%D8%A7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A2%D9%88%D8%B1%D8%AF-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "telegram_message_ids": [
+      2067
+    ],
+    "eitaa_message_ids": [
+      179313295
+    ],
+    "group_message_ids": [
+      1814
+    ],
+    "content_hash": "16fd8fc167d715f0b9714d6782353554d065d7524b35a67e580a733f6f176fe5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-10-31T17:29:16.524719+00:00",
+    "telegram_message_id": 2067,
+    "eitaa_last_sent_at": "2026-10-31T17:29:17.979861+00:00",
+    "eitaa_message_id": 179313295,
+    "group_last_sent_at": "2026-10-31T17:29:19.678259+00:00",
+    "group_message_id": 1814,
+    "fully_published": true,
+    "last_checked_at": "2026-10-31T17:29:19.698034+00:00"
   }
 }
