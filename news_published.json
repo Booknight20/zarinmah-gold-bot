@@ -24782,5 +24782,101 @@
     "group_message_id": 1888,
     "fully_published": true,
     "last_checked_at": "2026-11-01T10:10:55.540174+00:00"
+  },
+  "ba5c9c630aa87cdbd3341fc5a3447c30ea10900162b73f89d10178f78e509f7e": {
+    "title": "گرما جان می گیرد؛ درخواست ۱۴۶ متخصص برای اعلام وضعیت اضطراری سلامت جهانی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081006368/%DA%AF%D8%B1%D9%85%D8%A7-%D8%AC%D8%A7%D9%86-%D9%85%DB%8C-%DA%AF%DB%8C%D8%B1%D8%AF-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%DB%B1%DB%B4%DB%B6-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C",
+    "telegram_message_ids": [
+      2143
+    ],
+    "eitaa_message_ids": [
+      179429807
+    ],
+    "group_message_ids": [
+      1891
+    ],
+    "content_hash": "979f5e041eb7ce0d1f708b6014ff20e91aaffe95680280d9fd4c0d0132d461df",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T10:46:31.069905+00:00",
+    "telegram_message_id": 2143,
+    "eitaa_last_sent_at": "2026-11-01T10:46:32.425418+00:00",
+    "eitaa_message_id": 179429807,
+    "group_last_sent_at": "2026-11-01T10:46:34.091864+00:00",
+    "group_message_id": 1891,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T10:46:34.120779+00:00"
+  },
+  "4218bae589641413b5a050d6adc4f9a7dff96af15dad30d53b9539d031771b5e": {
+    "title": "ریزش ۱۸۴ هزار واحدی بورس؛ موج عرضه در سهام شاخص ساز شدت گرفت",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849683/%D8%B1%DB%8C%D8%B2%D8%B4-%DB%B1%DB%B8%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%85%D9%88%D8%AC-%D8%B9%D8%B1%D8%B6%D9%87-%D8%AF%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%B3%D8%A7%D8%B2-%D8%B4%D8%AF%D8%AA-%DA%AF%D8%B1%D9%81%D8%AA",
+    "telegram_message_ids": [
+      2144
+    ],
+    "eitaa_message_ids": [
+      179429820
+    ],
+    "group_message_ids": [
+      1892
+    ],
+    "content_hash": "770c2d24cc30a6f1971a2c001bd1a479d75183d308ecb63c73b5a395247f1207",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T10:46:35.791781+00:00",
+    "telegram_message_id": 2144,
+    "eitaa_last_sent_at": "2026-11-01T10:46:37.187144+00:00",
+    "eitaa_message_id": 179429820,
+    "group_last_sent_at": "2026-11-01T10:46:38.815178+00:00",
+    "group_message_id": 1892,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T10:46:38.844431+00:00"
+  },
+  "f47489d6f8a83ca1bfe59f559dbbe070e49fadb0a55793383e6b52afeaa415d6": {
+    "title": "قیمت طلا و سکه امروز ۱۰ آبان؛ سکه ۲.۵ میلیون تومان گران شد",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849682/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B0-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%DB%B2-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2145
+    ],
+    "eitaa_message_ids": [
+      179429824
+    ],
+    "group_message_ids": [
+      1893
+    ],
+    "content_hash": "68bb5f1d7ca50dbc5e90ff7165ae3087a32235f4ae50cc659f466ff3e6161c5c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T10:46:40.500582+00:00",
+    "telegram_message_id": 2145,
+    "eitaa_last_sent_at": "2026-11-01T10:46:41.836638+00:00",
+    "eitaa_message_id": 179429824,
+    "group_last_sent_at": "2026-11-01T10:46:43.492204+00:00",
+    "group_message_id": 1893,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T10:46:43.521178+00:00"
+  },
+  "eadf78ba8687daadbbc4942cb6bedb6c97b0d3010d413b1806441cbfecaa4d9d": {
+    "title": "روایتی دیگر از نقره جهانی آرش یوشیدا؛ رکوردی که شکستنش به آینده موکول شد",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849662/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%A7%D8%B2-%D9%86%D9%82%D8%B1%D9%87-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A2%D8%B1%D8%B4-%DB%8C%D9%88%D8%B4%DB%8C%D8%AF%D8%A7-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%DB%8C-%DA%A9%D9%87-%D8%B4%DA%A9%D8%B3%D8%AA%D9%86%D8%B4-%D8%A8%D9%87-%D8%A2%DB%8C%D9%86%D8%AF%D9%87",
+    "telegram_message_ids": [
+      2146
+    ],
+    "eitaa_message_ids": [
+      179429834
+    ],
+    "group_message_ids": [
+      1894
+    ],
+    "content_hash": "44a1bd313e8f3e9a894e0f4db77404e72732f82cc29f5ee958bd7d5d326824ff",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T10:46:45.223687+00:00",
+    "telegram_message_id": 2146,
+    "eitaa_last_sent_at": "2026-11-01T10:46:46.554051+00:00",
+    "eitaa_message_id": 179429834,
+    "group_last_sent_at": "2026-11-01T10:46:48.225983+00:00",
+    "group_message_id": 1894,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T10:46:48.254915+00:00"
   }
 }
