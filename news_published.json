@@ -23630,5 +23630,29 @@
     "group_message_id": 1832,
     "fully_published": true,
     "last_checked_at": "2026-11-01T02:48:09.638768+00:00"
+  },
+  "9642c992539877f5c9e63dd961897367fcd19a45afed56bb45ee614cf0c7f29c": {
+    "title": "مقصران گرانی خودرو ؛ تحریم و کمبود ارز در صدر دلایل",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295781/%D9%85%D9%82%D8%B5%D8%B1%D8%A7%D9%86-%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%88-%DA%A9%D9%85%D8%A8%D9%88%D8%AF-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%B5%D8%AF%D8%B1-%D8%AF%D9%84%D8%A7%DB%8C%D9%84",
+    "telegram_message_ids": [
+      2086
+    ],
+    "eitaa_message_ids": [
+      179356425
+    ],
+    "group_message_ids": [
+      1833
+    ],
+    "content_hash": "aa816e29e74fc7c77ad2a53be7a02aadf197d1fbebeca8c516115e79d44d6f22",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T03:03:56.633537+00:00",
+    "telegram_message_id": 2086,
+    "eitaa_last_sent_at": "2026-11-01T03:03:58.210744+00:00",
+    "eitaa_message_id": 179356425,
+    "group_last_sent_at": "2026-11-01T03:03:59.938341+00:00",
+    "group_message_id": 1833,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T03:03:59.966428+00:00"
   }
 }
