@@ -24998,5 +24998,77 @@
     "group_message_id": 1903,
     "fully_published": true,
     "last_checked_at": "2026-11-01T11:44:56.994388+00:00"
+  },
+  "5c1e69a82cccac81108bbca8cddbfc790ec904ec2515288cd587581aee32fed5": {
+    "title": "بازگشت ۱۰.۵ میلیارد یورو ارز در پرونده های عدم رفع تعهدات ارزی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081006472/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%DB%B1%DB%B0-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D8%AF%D9%85-%D8%B1%D9%81%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C",
+    "telegram_message_ids": [
+      2159
+    ],
+    "eitaa_message_ids": [
+      179443362
+    ],
+    "group_message_ids": [
+      1907
+    ],
+    "content_hash": "414844561e9353598ab8d93e667bcb33f113f30d8e93fc853c6434f55c783ef4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T12:16:40.383591+00:00",
+    "telegram_message_id": 2159,
+    "eitaa_last_sent_at": "2026-11-01T12:16:41.603715+00:00",
+    "eitaa_message_id": 179443362,
+    "group_last_sent_at": "2026-11-01T12:16:43.330085+00:00",
+    "group_message_id": 1907,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T12:16:43.359812+00:00"
+  },
+  "803b0a72ac4257aa1173e57c1e60a1df63238845d68fc57dcce46909fc90fed4": {
+    "title": "پس از صدرنشینی ارکیده؛ نوبت درخشش «ولیوبانک» رسید",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081006469/%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B5%D8%AF%D8%B1%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%A7%D8%B1%DA%A9%DB%8C%D8%AF%D9%87-%D9%86%D9%88%D8%A8%D8%AA-%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D9%88%D9%84%DB%8C%D9%88%D8%A8%D8%A7%D9%86%DA%A9-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      2160
+    ],
+    "eitaa_message_ids": [
+      179443364
+    ],
+    "group_message_ids": [
+      1908
+    ],
+    "content_hash": "a620967f4da83bf62b44123ecac543e9a7c818af584252fa0e5cbf3a03bdcc7a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T12:16:45.000974+00:00",
+    "telegram_message_id": 2160,
+    "eitaa_last_sent_at": "2026-11-01T12:16:45.840723+00:00",
+    "eitaa_message_id": 179443364,
+    "group_last_sent_at": "2026-11-01T12:16:47.442213+00:00",
+    "group_message_id": 1908,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T12:16:47.471996+00:00"
+  },
+  "146d5ef1a8bc921a62a420ae2964abecc9c684372f49fc40fac0f117fbcec10f": {
+    "title": "معمای تثبیت نرخ ارز؛ چرا تزریق بی رویه پاسخگوی مهار بازار نیست؟",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6996531/%D9%85%D8%B9%D9%85%D8%A7%DB%8C-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%DA%86%D8%B1%D8%A7-%D8%AA%D8%B2%D8%B1%DB%8C%D9%82-%D8%A8%DB%8C-%D8%B1%D9%88%DB%8C%D9%87-%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88%DB%8C-%D9%85%D9%87%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      2161
+    ],
+    "eitaa_message_ids": [
+      179443370
+    ],
+    "group_message_ids": [
+      1909
+    ],
+    "content_hash": "5ac656e396712254fc6857f0781ffa18f2a226089ce122b286a942c5687d2b4e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T12:16:49.183236+00:00",
+    "telegram_message_id": 2161,
+    "eitaa_last_sent_at": "2026-11-01T12:16:50.384408+00:00",
+    "eitaa_message_id": 179443370,
+    "group_last_sent_at": "2026-11-01T12:16:52.012950+00:00",
+    "group_message_id": 1909,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T12:16:52.042580+00:00"
   }
 }
