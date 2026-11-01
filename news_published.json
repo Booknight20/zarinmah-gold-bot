@@ -25550,5 +25550,53 @@
     "group_message_id": 1943,
     "fully_published": true,
     "last_checked_at": "2026-11-01T19:45:46.190256+00:00"
+  },
+  "129af5a0fd308a92a5f6511f220c3a293dabecc0c7ccf1172e999375c879ac3c": {
+    "title": "«فردین هدایتی» در سودای فتح سکوی المپیک/ اهدای طلای سنگین وزن جهان به موزه آستان قدس رضوی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081006658/%D9%81%D8%B1%D8%AF%DB%8C%D9%86-%D9%87%D8%AF%D8%A7%DB%8C%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%B3%D9%88%D8%AF%D8%A7%DB%8C-%D9%81%D8%AA%D8%AD-%D8%B3%DA%A9%D9%88%DB%8C-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86",
+    "telegram_message_ids": [
+      2196
+    ],
+    "eitaa_message_ids": [
+      179513727
+    ],
+    "group_message_ids": [
+      1944
+    ],
+    "content_hash": "fe1e3980d851fc2ca0a4d309b7ef5450722d8c7ac06c263c823436d2d267dc56",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T20:18:26.109423+00:00",
+    "telegram_message_id": 2196,
+    "eitaa_last_sent_at": "2026-11-01T20:18:28.539030+00:00",
+    "eitaa_message_id": 179513727,
+    "group_last_sent_at": "2026-11-01T20:18:30.373045+00:00",
+    "group_message_id": 1944,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T20:18:30.413274+00:00"
+  },
+  "dbdcfbd604646e4da7cc18509b30309392dac357277a1f2c53a8d50ff7209bc9": {
+    "title": "کارخانه ای که قیمت هایش از کیفیت محصولاتش سبقت می گیرد!",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000084/%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87%D8%A7%DB%8C-%DA%A9%D9%87-%D9%82%DB%8C%D9%85%D8%AA%D9%87%D8%A7%DB%8C%D8%B4-%D8%A7%D8%B2-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA%D8%B4-%D8%B3%D8%A8%D9%82%D8%AA-%D9%85%DB%8C%DA%AF%DB%8C%D8%B1%D8%AF-d50a5399f1774f7cb3b65942",
+    "telegram_message_ids": [
+      2197
+    ],
+    "eitaa_message_ids": [
+      179513735
+    ],
+    "group_message_ids": [
+      1945
+    ],
+    "content_hash": "6c79b3a23f805a8f97924de3b8e171021af9a24f075ff15372596a6a5d3aed81",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T20:18:32.213177+00:00",
+    "telegram_message_id": 2197,
+    "eitaa_last_sent_at": "2026-11-01T20:18:34.175702+00:00",
+    "eitaa_message_id": 179513735,
+    "group_last_sent_at": "2026-11-01T20:18:35.980919+00:00",
+    "group_message_id": 1945,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T20:18:36.021305+00:00"
   }
 }
