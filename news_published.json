@@ -24398,5 +24398,29 @@
     "group_message_id": 1869,
     "fully_published": true,
     "last_checked_at": "2026-11-01T08:18:45.293073+00:00"
+  },
+  "132a3bf578777d78a6168658c344cd6058ee7a3c80c046fd8ad8d0175595bd80": {
+    "title": "روایت رحیم صفوی از تلاش شهید لاریجانی برای خرید پدافند/ گفت چند میلیون دلار نیاز داریم، اما پول نداریم+ فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305538-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%B1%D8%AD%DB%8C%D9%85-%D8%B5%D9%81%D9%88%DB%8C-%D8%A7%D8%B2-%D8%AA%D9%84%D8%A7%D8%B4-%D8%B4%D9%87%DB%8C%D8%AF-%D9%84%D8%A7%D8%B1%DB%8C%D8%AC%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%DA%AF%D9%81%D8%AA-%DA%86%D9%86%D8%AF-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%86%DB%8C%D8%A7%D8%B2-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85-%D8%A7%D9%85%D8%A7-%D9%BE%D9%88%D9%84-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D9%85-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      2124
+    ],
+    "eitaa_message_ids": [
+      179405725
+    ],
+    "group_message_ids": [
+      1871
+    ],
+    "content_hash": "d489e08e0f12e9e89d2ab1f412e88830b9c5e4c708ec18ce6ad3fdef2f5248ad",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T08:27:26.068931+00:00",
+    "telegram_message_id": 2124,
+    "eitaa_last_sent_at": "2026-11-01T08:27:27.625647+00:00",
+    "eitaa_message_id": 179405725,
+    "group_last_sent_at": "2026-11-01T08:27:29.362212+00:00",
+    "group_message_id": 1871,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T08:27:29.399306+00:00"
   }
 }
