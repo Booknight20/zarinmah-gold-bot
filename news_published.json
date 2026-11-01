@@ -25166,5 +25166,53 @@
     "group_message_id": 1917,
     "fully_published": true,
     "last_checked_at": "2026-11-01T13:18:29.284878+00:00"
+  },
+  "d5fcf3574da919120778b08915ff7e8761880c078221aa032ecb2305c1afccb6": {
+    "title": "تابلوی سرخ بورس",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4305584-%D8%AA%D8%A7%D8%A8%D9%84%D9%88%DB%8C-%D8%B3%D8%B1%D8%AE-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      2175
+    ],
+    "eitaa_message_ids": [
+      179466374
+    ],
+    "group_message_ids": [
+      1923
+    ],
+    "content_hash": "7cf20194268fa9c9beeba6e716e553230655e1a4c88f6b41976921715a9ef770",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T14:18:17.047860+00:00",
+    "telegram_message_id": 2175,
+    "eitaa_last_sent_at": "2026-11-01T14:18:18.472642+00:00",
+    "eitaa_message_id": 179466374,
+    "group_last_sent_at": "2026-11-01T14:18:20.156339+00:00",
+    "group_message_id": 1923,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T14:18:20.197188+00:00"
+  },
+  "bd93bea27f464f72053242e2327f7c09f0a8d5b543e3774829ec70cc42df77fa": {
+    "title": "نبرد فینال محمد نخودی؛ طلسم طلا پابرجا ماند!",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000051/%D9%86%D8%A8%D8%B1%D8%AF-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%AE%D9%88%D8%AF%DB%8C-%D8%B7%D9%84%D8%B3%D9%85-%D8%B7%D9%84%D8%A7-%D9%BE%D8%A7%D8%A8%D8%B1%D8%AC%D8%A7%D8%B3%D8%AA-7f281657d0384e1298be8253",
+    "telegram_message_ids": [
+      2176
+    ],
+    "eitaa_message_ids": [
+      179466380
+    ],
+    "group_message_ids": [
+      1924
+    ],
+    "content_hash": "177ffb49b1818bb81a09927a080643b99e9d34919de0e126c9425c1f047999a6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T14:18:21.894408+00:00",
+    "telegram_message_id": 2176,
+    "eitaa_last_sent_at": "2026-11-01T14:18:23.058350+00:00",
+    "eitaa_message_id": 179466380,
+    "group_last_sent_at": "2026-11-01T14:18:24.707478+00:00",
+    "group_message_id": 1924,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T14:18:24.748749+00:00"
   }
 }
