@@ -20657,5 +20657,68 @@
     "group_sent_at": "2026-11-01T08:47:05.998049+03:30",
     "group_message_id": 1844,
     "published_at": "2026-11-01T08:47:06.010742+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8809": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "۶۰ درصد بازار بورس منفی باز شد ‼️",
+      "summary": "۶۰ درصد بازار بورس منفی باز شد ‼️ \n\nصف خرید: ۹ همت\nصف فروش: ۷ همت\n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "۶۰ درصد بازار بورس منفی باز شد ‼️ \n\nصف خرید: ۹ همت\nصف فروش: ۷ همت\n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8809",
+      "analysis_score": 8,
+      "market_matches": [
+        "بورس"
+      ],
+      "analysis_matches": [
+        "خرید",
+        "فروش"
+      ],
+      "market_groups": [
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 89,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-01T09:14:44.989238+03:30"
+    },
+    "content_signature": "11668a682ad260c750f0011d81c7a0b246d9422b6b0781445e649425b2f8da3a",
+    "first_seen_at": "2026-11-01T09:15:13.009244+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2103
+    ],
+    "telegram_last_success_at": "2026-11-01T09:15:13.407784+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-01T09:15:13.421183+03:30",
+    "telegram_message_id": 2103,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179373525
+    ],
+    "eitaa_last_success_at": "2026-11-01T09:15:14.292620+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-01T09:15:14.306042+03:30",
+    "eitaa_message_id": 179373525,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1850
+    ],
+    "group_last_success_at": "2026-11-01T09:15:14.759643+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-01T09:15:14.772435+03:30",
+    "group_message_id": 1850,
+    "published_at": "2026-11-01T09:15:14.784501+03:30"
   }
 }
