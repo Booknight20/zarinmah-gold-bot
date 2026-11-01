@@ -23654,5 +23654,29 @@
     "group_message_id": 1833,
     "fully_published": true,
     "last_checked_at": "2026-11-01T03:03:59.966428+00:00"
+  },
+  "b38b80a89325e9ac6ccb23a24d390cb26942e7071f2fcca574f405a0024f5b09": {
+    "title": "اتهام آمریکا علیه کره شمالی در پرونده سرقت سایبری ۶.۳ میلیارد دلاری",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305490-%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
+    "telegram_message_ids": [
+      2087
+    ],
+    "eitaa_message_ids": [
+      179359149
+    ],
+    "group_message_ids": [
+      1834
+    ],
+    "content_hash": "532685a243a48be1e0259c17ad60d563b0c38295c738b1a0fd635754d426b8ab",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T03:46:08.602132+00:00",
+    "telegram_message_id": 2087,
+    "eitaa_last_sent_at": "2026-11-01T03:46:09.843458+00:00",
+    "eitaa_message_id": 179359149,
+    "group_last_sent_at": "2026-11-01T03:46:11.441890+00:00",
+    "group_message_id": 1834,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T03:46:11.469928+00:00"
   }
 }
