@@ -24278,5 +24278,77 @@
     "group_message_id": 1863,
     "fully_published": true,
     "last_checked_at": "2026-11-01T07:19:03.894805+00:00"
+  },
+  "bdd91217b75f7297e711b45eec35ab578042fde8082c0e5f07089a1c2de62dfd": {
+    "title": "بایننس ۹۰ درصد از زیان های حمله سایبری را جبران می کند",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081006137/%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%DB%B9%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%AD%D9%85%D9%84%D9%87-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%DB%8C-%D8%B1%D8%A7-%D8%AC%D8%A8%D8%B1%D8%A7%D9%86-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+    "telegram_message_ids": [
+      2117
+    ],
+    "eitaa_message_ids": [
+      179398474
+    ],
+    "group_message_ids": [
+      1864
+    ],
+    "content_hash": "73d59b0125d3eefec873fa43367d8cf35c2a71f08835045ff7f889bd7c6cc763",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T07:48:31.714921+00:00",
+    "telegram_message_id": 2117,
+    "eitaa_last_sent_at": "2026-11-01T07:48:33.396527+00:00",
+    "eitaa_message_id": 179398474,
+    "group_last_sent_at": "2026-11-01T07:48:35.250640+00:00",
+    "group_message_id": 1864,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T07:48:35.289877+00:00"
+  },
+  "258030f0ec637854115e198fc9288affddb91e96e5f6adc4ec0c48edc5564fb5": {
+    "title": "ریزش ۱۷۵ هزار واحدی شاخص کل بورس امروز ۱۰ آبان ۱۴۰۵ / شاخص به محدوده ۷ میلیون و ۶۶۳ هزار واحد رسید",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295911/%D8%B1%DB%8C%D8%B2%D8%B4-%DB%B1%DB%B7%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B0-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%87",
+    "telegram_message_ids": [
+      2118
+    ],
+    "eitaa_message_ids": [
+      179398482
+    ],
+    "group_message_ids": [
+      1865
+    ],
+    "content_hash": "0af3f1918dfc7ac26f36ead8957fb40d099566b539c168ec5ba09a770b1189c0",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T07:48:37.122882+00:00",
+    "telegram_message_id": 2118,
+    "eitaa_last_sent_at": "2026-11-01T07:48:38.750196+00:00",
+    "eitaa_message_id": 179398482,
+    "group_last_sent_at": "2026-11-01T07:48:40.558436+00:00",
+    "group_message_id": 1865,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T07:48:40.597675+00:00"
+  },
+  "e972d4a23c494191713b83d1c5d460245f7075575788921817ee7bca86afb8ed": {
+    "title": "کف قیمتی طلا شکست؛ اونس طلا روی عدد ۳ هزار و ۸۷۵ دلار ایستاد/ قیمت طلای جهانی امروز ۱۰ آبان ۱۴۰۵",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295840/%DA%A9%D9%81-%D9%82%DB%8C%D9%85%D8%AA%DB%8C-%D8%B7%D9%84%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%B1%D9%88%DB%8C-%D8%B9%D8%AF%D8%AF-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B8%DB%B7%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF",
+    "telegram_message_ids": [
+      2119
+    ],
+    "eitaa_message_ids": [
+      179398490
+    ],
+    "group_message_ids": [
+      1866
+    ],
+    "content_hash": "4f06c35c8b3fc9a0acd995f3143aa18103cbab3b0fef4e441109123de7459464",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T07:48:42.398970+00:00",
+    "telegram_message_id": 2119,
+    "eitaa_last_sent_at": "2026-11-01T07:48:44.072552+00:00",
+    "eitaa_message_id": 179398490,
+    "group_last_sent_at": "2026-11-01T07:48:45.943034+00:00",
+    "group_message_id": 1866,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T07:48:45.982414+00:00"
   }
 }
