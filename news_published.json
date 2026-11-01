@@ -25094,5 +25094,77 @@
     "group_message_id": 1911,
     "fully_published": true,
     "last_checked_at": "2026-11-01T12:50:40.206878+00:00"
+  },
+  "e8b97d425e115dd1fec40ab73e87db849479116c9ffb37f125ca52ffa2128e0c": {
+    "title": "زمان حراج جدید شمش طلا اعلام شد/ سقف خرید چقدر است؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305568-%D8%B2%D9%85%D8%A7%D9%86-%D8%AD%D8%B1%D8%A7%D8%AC-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D8%B3%D9%82%D9%81-%D8%AE%D8%B1%DB%8C%D8%AF-%DA%86%D9%82%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      2167
+    ],
+    "eitaa_message_ids": [
+      179452575
+    ],
+    "group_message_ids": [
+      1915
+    ],
+    "content_hash": "95e4c1d8d5d71b4ef77b130311d55ddfb2578a33b79d0e95f2cd7c4079c7e213",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T13:18:18.024747+00:00",
+    "telegram_message_id": 2167,
+    "eitaa_last_sent_at": "2026-11-01T13:18:19.145896+00:00",
+    "eitaa_message_id": 179452575,
+    "group_last_sent_at": "2026-11-01T13:18:20.746410+00:00",
+    "group_message_id": 1915,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T13:18:20.785591+00:00"
+  },
+  "fc85e4b1a8af743d4ea104a2a7b1578e011d45f00e9dd2c0c75ac4a7bf390c93": {
+    "title": "روز تلخ سهامداران؛ ثبت ریزش ۱۸۴ هزار واحدی شاخص و تداوم خروج پول",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000041/%D8%B1%D9%88%D8%B2-%D8%AA%D9%84%D8%AE-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%AB%D8%A8%D8%AA-%D8%B1%DB%8C%D8%B2%D8%B4-%DB%B1%DB%B8%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%88-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D8%AE%D8%B1%D9%88%D8%AC-%D9%BE%D9%88%D9%84-47cae81a6644405290deb6ab",
+    "telegram_message_ids": [
+      2168
+    ],
+    "eitaa_message_ids": [
+      179452580
+    ],
+    "group_message_ids": [
+      1916
+    ],
+    "content_hash": "fdda9b7c888985d27e9ecfe588240b6c08bf9bf1160178c9034b1ae5891399f3",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T13:18:22.401159+00:00",
+    "telegram_message_id": 2168,
+    "eitaa_last_sent_at": "2026-11-01T13:18:23.534995+00:00",
+    "eitaa_message_id": 179452580,
+    "group_last_sent_at": "2026-11-01T13:18:25.164950+00:00",
+    "group_message_id": 1916,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T13:18:25.204029+00:00"
+  },
+  "b8942130609db9c10f8781184a91d12780b6fe2e3da3d625754bea9dd6ef8a55": {
+    "title": "نیسان آبی گران شد",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849734/%D9%86%DB%8C%D8%B3%D8%A7%D9%86-%D8%A2%D8%A8%DB%8C-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2169
+    ],
+    "eitaa_message_ids": [
+      179452585
+    ],
+    "group_message_ids": [
+      1917
+    ],
+    "content_hash": "1d417806f537173e1edac69e8960b4974d018a74b5b3eea1340167c16285f2f6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T13:18:26.989715+00:00",
+    "telegram_message_id": 2169,
+    "eitaa_last_sent_at": "2026-11-01T13:18:27.623707+00:00",
+    "eitaa_message_id": 179452585,
+    "group_last_sent_at": "2026-11-01T13:18:29.246058+00:00",
+    "group_message_id": 1917,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T13:18:29.284878+00:00"
   }
 }
