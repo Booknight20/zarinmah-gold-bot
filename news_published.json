@@ -25430,5 +25430,45 @@
     "group_message_id": 1936,
     "fully_published": true,
     "last_checked_at": "2026-11-01T16:18:24.910061+00:00"
+  },
+  "5eb7794a1b6086140b023c24322ec663cb70aeee10bac5e45cd866788dea7a56": {
+    "title": "راه آهن: علت اصلی افزایش قیمت بلیت قطار،نوسانات نرخ ارز است/بخش زیادی از قطعات از خارج از کشور تأمین می شوند",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296148/%D8%B1%D8%A7%D9%87-%D8%A2%D9%87%D9%86-%D8%B9%D9%84%D8%AA-%D8%A7%D8%B5%D9%84%DB%8C-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D9%84%DB%8C%D8%AA-%D9%82%D8%B7%D8%A7%D8%B1-%D9%86%D9%88%D8%B3%D8%A7%D9%86%D8%A7%D8%AA-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%A7%D8%B3%D8%AA-%D8%A8%D8%AE%D8%B4",
+    "telegram_message_ids": [
+      2191
+    ],
+    "eitaa_message_ids": [
+      179499526
+    ],
+    "group_message_ids": [
+      1939
+    ],
+    "content_hash": "3d824ede442d1a7d55b1ee59948e24834f754ca5bde3dec18b6ee4623b5e054f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T18:20:46.251748+00:00",
+    "telegram_message_id": 2191,
+    "eitaa_last_sent_at": "2026-11-01T18:20:47.888087+00:00",
+    "eitaa_message_id": 179499526,
+    "group_last_sent_at": "2026-11-01T18:20:49.695920+00:00",
+    "group_message_id": 1939,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T18:20:49.736073+00:00"
+  },
+  "51bac431e4a2e0855ff0313f6a772d75d1c115ebac3bfbade7669c8d3606175d": {
+    "title": "حراج شمش طلا ۱۲ آبان برگزار می شود/ متقاضیان باید پنج میلیارد تومان به عنوان وجه الضمان واریز کنند",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296146/%D8%AD%D8%B1%D8%A7%D8%AC-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%BE%D9%86%D8%AC-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      2192
+    ],
+    "eitaa_message_ids": [
+      null
+    ],
+    "group_message_ids": [],
+    "content_hash": "553998ab7ba08e184a2eb379ab4cc4ab4bc450b885167f3d432fdc295381474a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T18:20:51.526856+00:00",
+    "telegram_message_id": 2192
   }
 }
