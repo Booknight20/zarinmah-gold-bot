@@ -178,91 +178,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "پیش بینی قیمت طلا، دلار و سکه امروز شنبه ۹ آبان ۱۴۰۵/ صعود دلار ادامه دارد؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305289-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B5%D8%B9%D9%88%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
-    "summary": "شنبه 9 آبان معاملات در بازار طلا، سکه و ارز در حالی آغاز می شود که دلار با رکوردشکنی در معاملات پشت خطی تا ۲۷۴ هزار و ۸۰۰ تومان صعود کرده، اما سقوط اونس جهانی به ۳۸۷۵ دلار، قیمت طلا و سکه را تحت فشار قرار داده است. حالا جدال دلار صعودی و طلای جهانی نزولی، بازار را در آستانه هفته ای پرنوسان قرار داده است.",
-    "published": "Sat, 31 Oct 2026 05:45:11 +0000",
-    "collected_at": "2026-10-31T09:37:31.346683+03:30",
-    "filter_market_score": 34,
-    "market_score": 42,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "اونس جهانی",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس جهانی",
-        "طلای جهانی",
-        "سکه"
-      ],
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صعود",
-      "پیش‌بینی",
-      "پیش بینی",
-      "قیمت",
-      "نزول",
-      "سقوط",
-      "معاملات",
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "اونس جهانی",
-      "طلای جهانی"
-    ],
-    "currency_matches": [
-      "دلار",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت درهم، دلار، یورو و انواع ارزها امروز ۱۰ آبان ۱۴۰۵ در زمان بازگشایی بازار/ درهم امارات ۷۴ هزار و ۱۱۸ تومان قیمت خورد + جدول",
     "link": "https://www.khabaronline.ir/news/2295752/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D8%B1%D9%87%D9%85-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B0-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86",
@@ -1065,72 +980,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "ایسنا",
-    "title": "خروج طلای ساخته شده بیش از ۱۵۰ گرم و ارز بیش از ۵ هزار یورو از کشور ممنوع است",
-    "link": "https://www.isna.ir/news/1405080905264/%D8%AE%D8%B1%D9%88%D8%AC-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B5%DB%B0-%DA%AF%D8%B1%D9%85-%D9%88-%D8%A7%D8%B1%D8%B2-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D8%B2",
-    "summary": "رئیس سازمان تعزیرات گفت: خروج طلای ساخته شده بیش از ۱۵۰ گرم و ارز بیش از ۵ هزار یورو ممنوع است.",
-    "published": "Sat, 31 Oct 2026 05:55:52 GMT",
-    "collected_at": "2026-10-31T09:37:09.242913+03:30",
-    "filter_market_score": 26,
-    "market_score": 32,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "قیمت سکه، نیم سکه و ربع سکه امروز شنبه ۹ آبان ۱۴۰۵ / سکه نزولی شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305307-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF",
@@ -1248,6 +1097,69 @@
       "طلا",
       "سکه",
       "سکه امامی",
+      "طلای ۱۸ عیار",
+      "طلای 18 عیار"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۱۰ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۱۸عیار ۲۵ میلیون و ۱۷۹ هزار تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2295739/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B0-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
+    "summary": "قیمت طلا در بازار تهران امروز ۱۰ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۵ میلیون و ۱۷۹ هزار تومان قیمت خورد.",
+    "published": "Sun, 01 Nov 2026 04:50:00 GMT",
+    "collected_at": "2026-11-01T10:17:42.924766+03:30",
+    "filter_market_score": 34,
+    "market_score": 31,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "بازگشایی",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
       "طلای ۱۸ عیار",
       "طلای 18 عیار"
     ],
@@ -2001,71 +1913,6 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "فرهادی: خروج سکه و شمش طلا ممنوع است",
-    "link": "https://www.mehrnews.com/news/6994835/%D9%81%D8%B1%D9%87%D8%A7%D8%AF%DB%8C-%D8%AE%D8%B1%D9%88%D8%AC-%D8%B3%DA%A9%D9%87-%D9%88-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D9%85%D9%85%D9%86%D9%88%D8%B9-%D8%A7%D8%B3%D8%AA",
-    "summary": "رئیس سازمان تعزیرات حکومتی با هشدار به مسافران خروجی کشور اعلام کرد: همراه داشتن بیش از ۵ هزار یورو ارز و بیش از ۱۵۰ گرم طلای ساخته شده هنگام خروج از کشور ممنوع است.",
-    "published": "Sat, 31 Oct 2026 06:04:43 GMT",
-    "collected_at": "2026-10-31T09:37:21.795620+03:30",
-    "filter_market_score": 23,
-    "market_score": 28,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ],
-      "currency": [
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "سکه"
-    ],
-    "currency_matches": [
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
@@ -3413,6 +3260,66 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "ایسنا",
+    "title": "\"دلار\" بلیت قطار را هم گران کرد!",
+    "link": "https://www.isna.ir/news/1405081006058/%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%84%DB%8C%D8%AA-%D9%82%D8%B7%D8%A7%D8%B1-%D8%B1%D8%A7-%D9%87%D9%85-%DA%AF%D8%B1%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF",
+    "summary": "افزایش ۲۰ درصدی قیمت بلیت قطار از ابتدای آبان ماه در حالی اعمال شد که این نرخ در خرداد ماه هم ۲۱ درصد افزایش یافته بود. مسئولان صنعت، علت اصلی این افزایش قیمت را نوسانات نرخ ارز عنوان کرده و می گویند ارزبری حوزه حمل و نقل ریلی بالاست؛ لذا هزینه های تامین قطعات، تعمیر و نگهداری نیز افزایش یافته است. به گفته آنها، سال هاست که تعرفه های حمل و نقل ریلی با هزینه های آن تناسب ندارد.",
+    "published": "Sun, 01 Nov 2026 06:41:39 GMT",
+    "collected_at": "2026-11-01T10:17:14.227719+03:30",
+    "filter_market_score": 17,
+    "market_score": 21,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -5545,6 +5452,55 @@
     "duplicate_count": 1
   },
   {
+    "source": "مهر",
+    "title": "دانش آموز بیجاری طلای المپیاد علوم زمین را کسب کرد",
+    "link": "https://www.mehrnews.com/news/6995975/%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%D8%A8%DB%8C%D8%AC%D8%A7%D8%B1%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%D8%B9%D9%84%D9%88%D9%85-%D8%B2%D9%85%DB%8C%D9%86-%D8%B1%D8%A7-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%B1%D8%AF",
+    "summary": "بیجار- رئیس آموزش وپرورش بیجار از کسب مدال طلای المپیاد کشوری علوم زمین توسط نیوشا اسمعیلی، دانش آموز پایه دوازدهم این شهرستان، و راهیابی او به مرحله انتخابی تیم ملی خبر داد.",
+    "published": "Sun, 01 Nov 2026 06:45:22 GMT",
+    "collected_at": "2026-11-01T10:17:26.783444+03:30",
+    "filter_market_score": 10,
+    "market_score": 14,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "مشرق",
     "title": "فیلم/ صحبت های علیرضا دبیر پس از کسب مدال طلای جوان",
     "link": "https://www.mashreghnews.ir/news/1849574/%D9%81%DB%8C%D9%84%D9%85-%D8%B5%D8%AD%D8%A8%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%AF%D8%A8%DB%8C%D8%B1-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%88%D8%A7%D9%86",
@@ -7008,53 +6964,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "مهر",
-    "title": "دو طلا در انتظار نمایندگان کاراته ایران در روسیه",
-    "link": "https://www.mehrnews.com/news/6994798/%D8%AF%D9%88-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B3%DB%8C%D9%87",
-    "summary": "روز نخست رقابت های بین المللی کاراته روسیه با صعود دو نماینده ایران به دیدار نهایی و حضور پنج کاراته کای کشورمان در دیدار رده بندی به پایان رسید.",
-    "published": "Sat, 31 Oct 2026 05:48:48 GMT",
-    "collected_at": "2026-10-31T09:37:21.795838+03:30",
-    "filter_market_score": 7,
-    "market_score": 11,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صعود"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "مشرق",
     "title": "اسنایدر بعد از طلای ثانیه آخری: صادقانه بگویم، باورم نمی شود؛ داشتم کم می آوردم/ یوشیدا: همه چیز خراب شد",
     "link": "https://www.mashreghnews.ir/news/1849357/%D8%A7%D8%B3%D9%86%D8%A7%DB%8C%D8%AF%D8%B1-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-%D8%A2%D8%AE%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D9%82%D8%A7%D9%86%D9%87-%D8%A8%DA%AF%D9%88%DB%8C%D9%85-%D8%A8%D8%A7%D9%88%D8%B1%D9%85-%D9%86%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
@@ -7137,6 +7046,54 @@
     "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "مهر",
+    "title": "ضرورت احداث پل دوم در مرز نوردوز؛ راهکار رفع بحران تردد کامیون ها",
+    "link": "https://www.mehrnews.com/news/6996011/%D8%B6%D8%B1%D9%88%D8%B1%D8%AA-%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D9%BE%D9%84-%D8%AF%D9%88%D9%85-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%86%D9%88%D8%B1%D8%AF%D9%88%D8%B2-%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1-%D8%B1%D9%81%D8%B9-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1%D8%AF%D8%AF-%DA%A9%D8%A7%D9%85%DB%8C%D9%88%D9%86-%D9%87%D8%A7",
+    "summary": "با افزایش حجم تجارت ایران و ارمنستان به بیش از ۷۰۰ میلیون دلار و شکل گیری صف های طولانی کامیون ها در نوردوز، احداث پل دوم مرزی به یک ضرورت تبدیل شده است.",
+    "published": "Sun, 01 Nov 2026 06:27:32 GMT",
+    "collected_at": "2026-11-01T10:17:26.783710+03:30",
+    "filter_market_score": 5,
+    "market_score": 10,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -7555,6 +7512,51 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "مهر",
+    "title": "مشکل اصلی عدم پرداخت مطالبات ۴ میلیارد یورویی نبود اراده است نه منابع",
+    "link": "https://www.mehrnews.com/news/6996003/%D9%85%D8%B4%DA%A9%D9%84-%D8%A7%D8%B5%D9%84%DB%8C-%D8%B9%D8%AF%D9%85-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C-%D9%86%D8%A8%D9%88%D8%AF-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+    "summary": "یک مسئول صنفی با انتقاد از عملکرد دولت در پرداخت مطالبات واردکنندگان کالاهای اساسی، معتقد است، گره کار در پرداخت بیش از ۴ میلیارد یورو، ناشی از کمبود منابع نیست بلکه ناشی از عدم اراده است.",
+    "published": "Sun, 01 Nov 2026 06:34:58 GMT",
+    "collected_at": "2026-11-01T10:17:26.783603+03:30",
+    "filter_market_score": 4,
+    "market_score": 8,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [],
+    "currency_matches": [
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -8150,50 +8152,6 @@
     "summary": "ستایش یاراحمدی، دانشجوی رشته فیزیک گرایش لیزر دانشگاه خوارزمی، با ارائه طرح «سامانه قابل حمل تشخیص میکرو پلاستیک در محصولات آرایشی و بهداشتی» موفق به کسب مقام اول و مدال طلای دومین جشنواره ملی ایده و اختراعات بوعلی سینا شد.",
     "published": "Sat, 31 Oct 2026 06:28:52 GMT",
     "collected_at": "2026-10-31T10:17:18.802507+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مشرق",
-    "title": "سعدالله یف: برای شکست دنبال بهانه نیستم",
-    "link": "https://www.mashreghnews.ir/news/1849333/%D8%B3%D8%B9%D8%AF%D8%A7%D9%84%D9%84%D9%87-%DB%8C%D9%81-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%A8%D9%87%D8%A7%D9%86%D9%87-%D9%86%DB%8C%D8%B3%D8%AA%D9%85",
-    "summary": "ستاره داغستانی و مسلمان تیم ملی کشتی آزاد روسیه با اشاره به ناکامی در کسب مدال طلا در پیکارهای جهانی قزاقستان گفت: باخت هم بخشی از ورزش است و دنبال بهانه نیستم.",
-    "published": "Sat, 31 Oct 2026 05:51:34 GMT",
-    "collected_at": "2026-10-31T09:37:43.390116+03:30",
     "filter_market_score": 4,
     "market_score": 6,
     "market_matches": {

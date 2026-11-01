@@ -24134,5 +24134,101 @@
     "group_message_id": 1856,
     "fully_published": true,
     "last_checked_at": "2026-11-01T06:18:24.528623+00:00"
+  },
+  "116765a36d74e59cb3bafb1ce15025ad71881238686dbeb0d707f815e06a80e5": {
+    "title": "\"دلار\" بلیت قطار را هم گران کرد!",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081006058/%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%84%DB%8C%D8%AA-%D9%82%D8%B7%D8%A7%D8%B1-%D8%B1%D8%A7-%D9%87%D9%85-%DA%AF%D8%B1%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      2110
+    ],
+    "eitaa_message_ids": [
+      179386689
+    ],
+    "group_message_ids": [
+      1857
+    ],
+    "content_hash": "e29cc6c84cd5b2276811a3620afc728f74cd086eef60608fbc9af6c9bb43e977",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T06:48:19.729432+00:00",
+    "telegram_message_id": 2110,
+    "eitaa_last_sent_at": "2026-11-01T06:48:20.959314+00:00",
+    "eitaa_message_id": 179386689,
+    "group_last_sent_at": "2026-11-01T06:48:22.630013+00:00",
+    "group_message_id": 1857,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T06:48:22.668867+00:00"
+  },
+  "638f643b6bfb7ddbf07fb67a9664feeca91c99bc7a2b79a5cdbdc62babaa7606": {
+    "title": "دانش آموز بیجاری طلای المپیاد علوم زمین را کسب کرد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6995975/%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%D8%A8%DB%8C%D8%AC%D8%A7%D8%B1%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%D8%B9%D9%84%D9%88%D9%85-%D8%B2%D9%85%DB%8C%D9%86-%D8%B1%D8%A7-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      2111
+    ],
+    "eitaa_message_ids": [
+      179386695
+    ],
+    "group_message_ids": [
+      1858
+    ],
+    "content_hash": "a4c32ec09aa912d3880762579153b906bb6e09d6c70b9dee349da6b3a2d8aa60",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T06:48:24.293017+00:00",
+    "telegram_message_id": 2111,
+    "eitaa_last_sent_at": "2026-11-01T06:48:25.554488+00:00",
+    "eitaa_message_id": 179386695,
+    "group_last_sent_at": "2026-11-01T06:48:27.117754+00:00",
+    "group_message_id": 1858,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T06:48:27.156372+00:00"
+  },
+  "137df7f165da767099a2084b2c5c3f8b74dd2e6621e741d09a74ffffb60cff25": {
+    "title": "ضرورت احداث پل دوم در مرز نوردوز؛ راهکار رفع بحران تردد کامیون ها",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6996011/%D8%B6%D8%B1%D9%88%D8%B1%D8%AA-%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D9%BE%D9%84-%D8%AF%D9%88%D9%85-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%86%D9%88%D8%B1%D8%AF%D9%88%D8%B2-%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1-%D8%B1%D9%81%D8%B9-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1%D8%AF%D8%AF-%DA%A9%D8%A7%D9%85%DB%8C%D9%88%D9%86-%D9%87%D8%A7",
+    "telegram_message_ids": [
+      2112
+    ],
+    "eitaa_message_ids": [
+      179386700
+    ],
+    "group_message_ids": [
+      1859
+    ],
+    "content_hash": "e328a6582e833b73e072f813b8a353f956551ec5c2cd0de7dc1b24e9b1d2b64c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T06:48:28.774078+00:00",
+    "telegram_message_id": 2112,
+    "eitaa_last_sent_at": "2026-11-01T06:48:29.980875+00:00",
+    "eitaa_message_id": 179386700,
+    "group_last_sent_at": "2026-11-01T06:48:31.544656+00:00",
+    "group_message_id": 1859,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T06:48:31.583235+00:00"
+  },
+  "7a334fb2ba9eaf72e180ba4d65d61514a70d9cc1a7a5b47b2d9dbd9b46f78ceb": {
+    "title": "قیمت طلا امروز ۱۰ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۱۸عیار ۲۵ میلیون و ۱۷۹ هزار تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295739/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B0-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      2113
+    ],
+    "eitaa_message_ids": [
+      179386709
+    ],
+    "group_message_ids": [
+      1860
+    ],
+    "content_hash": "70e4b392d41dc073ff2ca8426eef9dc3d608b0c54bfafdabb795eb6578b8c0c5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T06:48:33.190357+00:00",
+    "telegram_message_id": 2113,
+    "eitaa_last_sent_at": "2026-11-01T06:48:34.367184+00:00",
+    "eitaa_message_id": 179386709,
+    "group_last_sent_at": "2026-11-01T06:48:35.939695+00:00",
+    "group_message_id": 1860,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T06:48:35.979810+00:00"
   }
 }
