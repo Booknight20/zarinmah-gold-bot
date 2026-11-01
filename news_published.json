@@ -23582,5 +23582,53 @@
     "group_message_id": 1830,
     "fully_published": true,
     "last_checked_at": "2026-10-31T22:14:33.978802+00:00"
+  },
+  "f9ba0736f12b167f1124eb9a4630015c1b03681b69c11858e952bfac12690082": {
+    "title": "برنامه روز چهارم کشتی آزاد قهرمانی جهان/ شانس یک طلا و ۳ برنز برای ایران",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405080905781/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%A7%D9%86%D8%B3-%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%DB%B3-%D8%A8%D8%B1%D9%86%D8%B2",
+    "telegram_message_ids": [
+      2084
+    ],
+    "eitaa_message_ids": [
+      179354739
+    ],
+    "group_message_ids": [
+      1831
+    ],
+    "content_hash": "c87f805cf1be2418e34b5bcfc8e8d88dba68cafb62133f76eb1fc4cc82381e7c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T02:48:02.283334+00:00",
+    "telegram_message_id": 2084,
+    "eitaa_last_sent_at": "2026-11-01T02:48:03.528884+00:00",
+    "eitaa_message_id": 179354739,
+    "group_last_sent_at": "2026-11-01T02:48:05.151774+00:00",
+    "group_message_id": 1831,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T02:48:05.189876+00:00"
+  },
+  "1006e4d7bb40610891f82d09eb01d76566daa7716abfbc26d97bb721366e150e": {
+    "title": "اف بی آی کره شمالی را به سرقت بیش از ۶ میلیارد دلار رمزارز متهم کرد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6995829/%D8%A7%D9%81-%D8%A8%DB%8C-%D8%A2%DB%8C-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2-%D9%85%D8%AA%D9%87%D9%85",
+    "telegram_message_ids": [
+      2085
+    ],
+    "eitaa_message_ids": [
+      179354746
+    ],
+    "group_message_ids": [
+      1832
+    ],
+    "content_hash": "72e23c1a41602745dcb180412b77363c81ac7041a9bc9518a97f5247fec79a48",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T02:48:06.848332+00:00",
+    "telegram_message_id": 2085,
+    "eitaa_last_sent_at": "2026-11-01T02:48:08.004117+00:00",
+    "eitaa_message_id": 179354746,
+    "group_last_sent_at": "2026-11-01T02:48:09.601153+00:00",
+    "group_message_id": 1832,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T02:48:09.638768+00:00"
   }
 }

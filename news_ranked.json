@@ -4773,6 +4773,55 @@
   },
   {
     "source": "مهر",
+    "title": "اف بی آی کره شمالی را به سرقت بیش از ۶ میلیارد دلار رمزارز متهم کرد",
+    "link": "https://www.mehrnews.com/news/6995829/%D8%A7%D9%81-%D8%A8%DB%8C-%D8%A2%DB%8C-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2-%D9%85%D8%AA%D9%87%D9%85",
+    "summary": "اداره تحقیقات فدرال آمریکا (اف بی آی) مدعی شد هکرهای کره شمالی بیش از ۶ میلیارد دلار رمزارز از صرافی بایننس سرقت کردند.",
+    "published": "Sun, 01 Nov 2026 02:38:27 GMT",
+    "collected_at": "2026-11-01T06:17:27.542728+03:30",
+    "filter_market_score": 10,
+    "market_score": 16,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
     "title": "کشف ۱۴ میلیارد تومان دلار جعلی در اردبیل",
     "link": "https://www.mehrnews.com/news/6995634/%DA%A9%D8%B4%D9%81-%DB%B1%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AC%D8%B9%D9%84%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84",
     "summary": "اردبیل- رئیس حوزه قضایی بخش ارشق گفت: با هوشیاری نیروهای انتظامی، دلارهای تقلبی به ارزش تقریبی ۱۴ میلیارد تومان و تجهیزات حفاری غیرمجاز در حوزه قضایی ارشق کشف شد.",
@@ -5845,6 +5894,53 @@
     "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "برنامه روز چهارم کشتی آزاد قهرمانی جهان/ شانس یک طلا و ۳ برنز برای ایران",
+    "link": "https://www.isna.ir/news/1405080905781/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%A7%D9%86%D8%B3-%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%DB%B3-%D8%A8%D8%B1%D9%86%D8%B2",
+    "summary": "آزادکاران ایران در روز پایانی رقابت های قهرمانی جهان به مصاف رقبای خود می روند.",
+    "published": "Sun, 01 Nov 2026 02:30:00 GMT",
+    "collected_at": "2026-11-01T06:17:24.690784+03:30",
+    "filter_market_score": 6,
+    "market_score": 13,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -7000,100 +7096,6 @@
       "طلا"
     ],
     "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "فروش ۵۰۰ موشک پاتریوت آمریکا به اوکراین کلید خورد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305246-%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D9%88%D8%B4%DA%A9-%D9%BE%D8%A7%D8%AA%D8%B1%DB%8C%D9%88%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%DA%A9%D9%84%DB%8C%D8%AF-%D8%AE%D9%88%D8%B1%D8%AF",
-    "summary": "​آمریکا فروش ۵۰۰ موشک برای سامانه های پدافند هوایی پاتریوت به اوکراین به ارزش ۲.۱ میلیارد دلار را تصویب کرد.",
-    "published": "Fri, 30 Oct 2026 21:30:48 +0000",
-    "collected_at": "2026-10-31T01:17:23.978290+03:30",
-    "filter_market_score": 5,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "تصویب"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 5,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "آمریکا فروش ۵۰۰ موشک پاتریوت به اوکراین را تصویب کرد",
-    "link": "https://www.isna.ir/news/1405080905156/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%81%D8%B1%D9%88%D8%B4-%DB%B5%DB%B0%DB%B0-%D9%85%D9%88%D8%B4%DA%A9-%D9%BE%D8%A7%D8%AA%D8%B1%DB%8C%D9%88%D8%AA-%D8%A8%D9%87-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D8%B1%D8%A7-%D8%AA%D8%B5%D9%88%DB%8C%D8%A8-%DA%A9%D8%B1%D8%AF",
-    "summary": "وزارت امور خارجه آمریکا روز جمعه فروش ۵۰۰ موشک برای سامانه های پدافند هوایی پاتریوت به اوکراین به ارزش ۲.۱ میلیارد دلار را تصویب کرد.",
-    "published": "Fri, 30 Oct 2026 21:17:20 GMT",
-    "collected_at": "2026-10-31T01:17:20.086882+03:30",
-    "filter_market_score": 5,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "تصویب"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 5,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
