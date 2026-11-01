@@ -24230,5 +24230,53 @@
     "group_message_id": 1860,
     "fully_published": true,
     "last_checked_at": "2026-11-01T06:48:35.979810+00:00"
+  },
+  "97c2add929830f46c7a38b46c25503495c65661926b3c9389cdb02280dc9ca92": {
+    "title": "زعفران؛ طلای سرخ در مسیر نجات کشاورزی همدان از تنش آبی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081006089/%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D9%86%D8%AC%D8%A7%D8%AA-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%A7%D8%B2-%D8%AA%D9%86%D8%B4-%D8%A2%D8%A8%DB%8C",
+    "telegram_message_ids": [
+      2115
+    ],
+    "eitaa_message_ids": [
+      179392502
+    ],
+    "group_message_ids": [
+      1862
+    ],
+    "content_hash": "8ccd9898b25b084d066cdfcdcdd1ce1710aec41990229a6f9f699dc69f4571be",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T07:18:54.997978+00:00",
+    "telegram_message_id": 2115,
+    "eitaa_last_sent_at": "2026-11-01T07:18:56.741946+00:00",
+    "eitaa_message_id": 179392502,
+    "group_last_sent_at": "2026-11-01T07:18:58.638183+00:00",
+    "group_message_id": 1862,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T07:18:58.677016+00:00"
+  },
+  "007b5cffce92265a60beda2860139705a8f982444f437874c864a03395d0fe2c": {
+    "title": "از طلای حسن رحیمی تا شاهکار احمد جوان؛ شکستن طلسم ۱۳ ساله طلای سبک وزن کشتی آزاد ایران",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849597/%D8%A7%D8%B2-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AD%D8%B3%D9%86-%D8%B1%D8%AD%DB%8C%D9%85%DB%8C-%D8%AA%D8%A7-%D8%B4%D8%A7%D9%87%DA%A9%D8%A7%D8%B1-%D8%A7%D8%AD%D9%85%D8%AF-%D8%AC%D9%88%D8%A7%D9%86-%D8%B4%DA%A9%D8%B3%D8%AA%D9%86-%D8%B7%D9%84%D8%B3%D9%85-%DB%B1%DB%B3-%D8%B3%D8%A7%D9%84%D9%87-%D8%B7%D9%84%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      2116
+    ],
+    "eitaa_message_ids": [
+      179392515
+    ],
+    "group_message_ids": [
+      1863
+    ],
+    "content_hash": "3ec9bb32454105ba242134b992f03cfdfb046360e37e41603be63771da0abc7b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T07:19:00.454794+00:00",
+    "telegram_message_id": 2116,
+    "eitaa_last_sent_at": "2026-11-01T07:19:02.063956+00:00",
+    "eitaa_message_id": 179392515,
+    "group_last_sent_at": "2026-11-01T07:19:03.855998+00:00",
+    "group_message_id": 1863,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T07:19:03.894805+00:00"
   }
 }
