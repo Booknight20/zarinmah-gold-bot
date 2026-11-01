@@ -24974,5 +24974,29 @@
     "group_message_id": 1899,
     "fully_published": true,
     "last_checked_at": "2026-11-01T11:19:02.909855+00:00"
+  },
+  "d9a8b99e7321fd3275ad9e1155db0d9452d8853524dba9c88e8957d3487dc2cc": {
+    "title": "قیمت طلا و سکه امروز 10 آبان/ سکه بهار آزادی پرواز کرد",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000026/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-10-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87%D8%A7%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%DA%A9%D8%B1%D8%AF-33e8a224e39c4ac487d2845d",
+    "telegram_message_ids": [
+      2155
+    ],
+    "eitaa_message_ids": [
+      179439586
+    ],
+    "group_message_ids": [
+      1903
+    ],
+    "content_hash": "c2b47b475f1d3961272563cf4dc3faa10aa6d1f861fd3987e549ea23127c9779",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T11:44:53.814763+00:00",
+    "telegram_message_id": 2155,
+    "eitaa_last_sent_at": "2026-11-01T11:44:55.253808+00:00",
+    "eitaa_message_id": 179439586,
+    "group_last_sent_at": "2026-11-01T11:44:56.972413+00:00",
+    "group_message_id": 1903,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T11:44:56.994388+00:00"
   }
 }
