@@ -24350,5 +24350,53 @@
     "group_message_id": 1866,
     "fully_published": true,
     "last_checked_at": "2026-11-01T07:48:45.982414+00:00"
+  },
+  "17c747c1d2021d64ad05fdaf3c97c9ceb2a693ee9d455763ace97112aad76818": {
+    "title": "هشدار نماینده تهران درباره حذف ۴۵۳۳ قلم کالا از شمول نرخ ارز بازار مبادله ای",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081006184/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AD%D8%B0%D9%81-%DB%B4%DB%B5%DB%B3%DB%B3-%D9%82%D9%84%D9%85-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%B4%D9%85%D9%88%D9%84-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2",
+    "telegram_message_ids": [
+      2121
+    ],
+    "eitaa_message_ids": [
+      179404064
+    ],
+    "group_message_ids": [
+      1868
+    ],
+    "content_hash": "db1161de545ac0093357527d17e17a5888ea6466326d2badb91118d0cfa625fc",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T08:18:37.010494+00:00",
+    "telegram_message_id": 2121,
+    "eitaa_last_sent_at": "2026-11-01T08:18:38.653985+00:00",
+    "eitaa_message_id": 179404064,
+    "group_last_sent_at": "2026-11-01T08:18:40.373127+00:00",
+    "group_message_id": 1868,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T08:18:40.412393+00:00"
+  },
+  "b83d7b0387db03eb2d6ba41383ca44b03e1dea52c5021e33ab191fa8ef774bf9": {
+    "title": "قیمت دلار امروز یکشنبه ۱۰ آبان ۱۴۰۵/ افزایش قیمت دلار",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305533-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      2122
+    ],
+    "eitaa_message_ids": [
+      179404078
+    ],
+    "group_message_ids": [
+      1869
+    ],
+    "content_hash": "6b9143e1b06a7215e009e53a6729124fc96966f8443f53ee61818c96153a9a04",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T08:18:42.124352+00:00",
+    "telegram_message_id": 2122,
+    "eitaa_last_sent_at": "2026-11-01T08:18:43.570846+00:00",
+    "eitaa_message_id": 179404078,
+    "group_last_sent_at": "2026-11-01T08:18:45.253892+00:00",
+    "group_message_id": 1869,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T08:18:45.293073+00:00"
   }
 }
