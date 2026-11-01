@@ -25463,12 +25463,20 @@
       2192
     ],
     "eitaa_message_ids": [
-      null
+      179504850
     ],
-    "group_message_ids": [],
+    "group_message_ids": [
+      1940
+    ],
     "content_hash": "553998ab7ba08e184a2eb379ab4cc4ab4bc450b885167f3d432fdc295381474a",
     "expected_parts": 1,
     "telegram_last_sent_at": "2026-11-01T18:20:51.526856+00:00",
-    "telegram_message_id": 2192
+    "telegram_message_id": 2192,
+    "eitaa_last_sent_at": "2026-11-01T18:59:23.994684+00:00",
+    "eitaa_message_id": 179504850,
+    "group_last_sent_at": "2026-11-01T18:59:25.762790+00:00",
+    "group_message_id": 1940,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T18:59:25.785730+00:00"
   }
 }
