@@ -25382,5 +25382,53 @@
     "group_message_id": 1933,
     "fully_published": true,
     "last_checked_at": "2026-11-01T15:46:38.760835+00:00"
+  },
+  "8373326318596f946a7b828dbb1925f3fe92ef4a7d9ef07f581e9d4e98f9a096": {
+    "title": "دولت در برابر ۸ هزار سهامدار/ مصوبه پالایشی ها روی میز دیوان عدالت اداری +فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305618-%D8%AF%D9%88%D9%84%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1-%D9%85%D8%B5%D9%88%D8%A8%D9%87-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DB%8C-%D9%87%D8%A7-%D8%B1%D9%88%DB%8C-%D9%85%DB%8C%D8%B2-%D8%AF%DB%8C%D9%88%D8%A7%D9%86-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      2187
+    ],
+    "eitaa_message_ids": [
+      179481785
+    ],
+    "group_message_ids": [
+      1935
+    ],
+    "content_hash": "a1daf3768fa0bec9c1b284e22415ef3bb1c0bcaea91c6699177e74bad186394a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T16:18:17.458100+00:00",
+    "telegram_message_id": 2187,
+    "eitaa_last_sent_at": "2026-11-01T16:18:18.813907+00:00",
+    "eitaa_message_id": 179481785,
+    "group_last_sent_at": "2026-11-01T16:18:20.493728+00:00",
+    "group_message_id": 1935,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T16:18:20.534599+00:00"
+  },
+  "f9a8782a5468043364dcfa910af464f494e67570e752311e27b7bf85ebe05ef6": {
+    "title": "آمریکا با ۵ طلا قهرمان جهان شد/ ایران با ۶ مدال در جایگاه سوم ایستاد +نتایج کامل انفرادی",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849767/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%DB%B5-%D8%B7%D9%84%D8%A7-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%DB%B6-%D9%85%D8%AF%D8%A7%D9%84-%D8%AF%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%B3%D9%88%D9%85",
+    "telegram_message_ids": [
+      2188
+    ],
+    "eitaa_message_ids": [
+      179481791
+    ],
+    "group_message_ids": [
+      1936
+    ],
+    "content_hash": "003a173f99091b55a261491217648b3b275359d0e2d0e27569f403a6ff4818c6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T16:18:22.170398+00:00",
+    "telegram_message_id": 2188,
+    "eitaa_last_sent_at": "2026-11-01T16:18:23.299787+00:00",
+    "eitaa_message_id": 179481791,
+    "group_last_sent_at": "2026-11-01T16:18:24.869321+00:00",
+    "group_message_id": 1936,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T16:18:24.910061+00:00"
   }
 }

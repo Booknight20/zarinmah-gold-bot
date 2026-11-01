@@ -3092,64 +3092,6 @@
     "telegram_preview": "📰 افشاگری درباره تعداد سربازان آمریکایی مستقر در خاورمیانه برای عبور نفت از تنگه هرمز/ هزینه ماهانه این درگیری، ۲ تا ۳ میلیارد دلار برآورد می شود\n\nوال استریت ژورنال نوشت: آمریکا برای عبور نفت از تنگه هرمز، ۵۰ هزار نیروی نظامی و ۲۰ فروند کشتی نظامی در خاورمیانه مستقر کرده که هزینه ماهانه این درگیری، ۲ تا ۳ میلیارد دلار برآورد می شود.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305421-%D8%A7%D9%81%D8%B4%D8%A7%DA%AF%D8%B1%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%85%D8%B3%D8%AA%D9%82%D8%B1-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A8%D9%88%D8%B1-%D9%86%D9%81%D8%AA-%D8%A7%D8%B2-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87-%D8%A7%DB%8C%D9%86-%D8%AF%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AA%D8%A7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A2%D9%88%D8%B1%D8%AF-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF"
   },
   {
-    "source": "ایسنا",
-    "title": "سقوط ۴۸۰ میلیارد دلاری؛ زنگ خطر حباب هوش مصنوعی در چین",
-    "link": "https://www.isna.ir/news/1405080905783/%D8%B3%D9%82%D9%88%D8%B7-%DB%B4%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B2%D9%86%DA%AF-%D8%AE%D8%B7%D8%B1-%D8%AD%D8%A8%D8%A7%D8%A8-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%DA%86%DB%8C%D9%86",
-    "summary": "سقوط ۴۸۰ میلیارد دلاری ارزش بازار شرکت های هوش مصنوعی و نیمه رسانای چین، زنگ خطری برای سرمایه گذاران جهان به صدا درآورده است. آیا این ریزش نشانه آغاز پایان تب هوش مصنوعی است یا صرفاً اصلاحی در بازاری که با انتظارات بزرگ رشد کرده؟",
-    "published": "Sat, 31 Oct 2026 14:21:34 GMT",
-    "collected_at": "2026-10-31T18:17:02.623560+03:30",
-    "filter_market_score": 14,
-    "market_score": 20,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "سقوط",
-      "حباب",
-      "رشد",
-      "ریزش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "سقوط ۴۸۰ میلیارد دلاری ارزش بازار شرکت های هوش مصنوعی و نیمه رسانای چین، زنگ خطری برای سرمایه گذاران جهان به صدا درآورده است. آیا این ریزش نشانه آغاز پایان تب هوش مصنوعی است یا صرفاً اصلاحی در بازاری که با انتظارات بزرگ رشد کرده؟",
-    "telegram_preview": "📰 سقوط ۴۸۰ میلیارد دلاری؛ زنگ خطر حباب هوش مصنوعی در چین\n\nسقوط ۴۸۰ میلیارد دلاری ارزش بازار شرکت های هوش مصنوعی و نیمه رسانای چین، زنگ خطری برای سرمایه گذاران جهان به صدا درآورده است. آیا این ریزش نشانه آغاز پایان تب هوش مصنوعی است یا صرفاً اصلاحی در بازاری که با انتظارات بزرگ رشد کرده؟\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080905783/%D8%B3%D9%82%D9%88%D8%B7-%DB%B4%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B2%D9%86%DA%AF-%D8%AE%D8%B7%D8%B1-%D8%AD%D8%A8%D8%A7%D8%A8-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1-%DA%86%DB%8C%D9%86"
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "بایننس پس از بازیابی بخش عمده ای از ۶ میلیارد دلار وجوه سرقت شده، برداشت ها را از سر می گیرد",
     "link": "https://www.khabaronline.ir/news/2295834/%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A8%D8%AE%D8%B4-%D8%B9%D9%85%D8%AF%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B2-%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88%D8%AC%D9%88%D9%87-%D8%B3%D8%B1%D9%82%D8%AA",
@@ -4040,58 +3982,6 @@
     "duplicate_count": 1,
     "full_text": "رئیس کل دادگستری استان بوشهر از اجرای بخشی از حکم قطعی پرونده اختلاف پتروشیمی جم و پتروشیمی مهر به ارزش حدود ۴۴۰ میلیون دلار خبر داد و گفت: تأسیسات و ابنیه پتروشیمی مهر در راستای اجرای حکم به پتروشیمی جم تحویل شده و فعالیت تولیدی و اشتغال کارگران این مجموعه همچنان ادامه دارد.",
     "telegram_preview": "📰 دادگستری بوشهر: ۴۴۰ میلیون دلار مطالبات پتروشیمی جم وصول شد\n\nرئیس کل دادگستری استان بوشهر از اجرای بخشی از حکم قطعی پرونده اختلاف پتروشیمی جم و پتروشیمی مهر به ارزش حدود ۴۴۰ میلیون دلار خبر داد و گفت: تأسیسات و ابنیه پتروشیمی مهر در راستای اجرای حکم به پتروشیمی جم تحویل شده و فعالیت تولیدی و اشتغال کارگران این مجموعه همچنان ادامه دارد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081006543/%D8%AF%D8%A7%D8%AF%DA%AF%D8%B3%D8%AA%D8%B1%DB%8C-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%DB%B4%DB%B4%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C-%D8%AC%D9%85-%D9%88%D8%B5%D9%88%D9%84-%D8%B4%D8%AF"
-  },
-  {
-    "source": "مهر",
-    "title": "عموزاد: به ناحق به من اخطار دادند؛ سال آینده با طلا جبران می کنم",
-    "link": "https://www.mehrnews.com/news/6995528/%D8%B9%D9%85%D9%88%D8%B2%D8%A7%D8%AF-%D8%A8%D9%87-%D9%86%D8%A7%D8%AD%D9%82-%D8%A8%D9%87-%D9%85%D9%86-%D8%A7%D8%AE%D8%B7%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AF%D9%86%D8%AF-%D8%B3%D8%A7%D9%84-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%A8%D8%A7-%D8%B7%D9%84%D8%A7-%D8%AC%D8%A8%D8%B1%D8%A7%D9%86-%D9%85%DB%8C-%DA%A9%D9%86%D9%85",
-    "summary": "دارنده مدال برنز وزن ۶۵ کیلوگرم کشتی آزاد جهان گفت: هدف اصلی ام مدال طلا بود و ان شالله سال آینده این نتیجه را جبران می کنم.",
-    "published": "Sat, 31 Oct 2026 14:26:00 GMT",
-    "collected_at": "2026-10-31T18:17:10.419563+03:30",
-    "filter_market_score": 11,
-    "market_score": 16,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "دارنده مدال برنز وزن ۶۵ کیلوگرم کشتی آزاد جهان گفت: هدف اصلی ام مدال طلا بود و ان شالله سال آینده این نتیجه را جبران می کنم.",
-    "telegram_preview": "📰 عموزاد: به ناحق به من اخطار دادند؛ سال آینده با طلا جبران می کنم\n\nدارنده مدال برنز وزن ۶۵ کیلوگرم کشتی آزاد جهان گفت: هدف اصلی ام مدال طلا بود و ان شالله سال آینده این نتیجه را جبران می کنم.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6995528/%D8%B9%D9%85%D9%88%D8%B2%D8%A7%D8%AF-%D8%A8%D9%87-%D9%86%D8%A7%D8%AD%D9%82-%D8%A8%D9%87-%D9%85%D9%86-%D8%A7%D8%AE%D8%B7%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AF%D9%86%D8%AF-%D8%B3%D8%A7%D9%84-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%A8%D8%A7-%D8%B7%D9%84%D8%A7-%D8%AC%D8%A8%D8%B1%D8%A7%D9%86-%D9%85%DB%8C-%DA%A9%D9%86%D9%85"
   },
   {
     "source": "مهر",
@@ -5032,108 +4922,6 @@
     "telegram_preview": "📰 نظر مورینیو درباره توپ طلای هری کین\n\nسرمربی رئال مادرید هر چند بردن توپ طلا را به هری کین تبریک گفت اما براین باور است که ام باپه شایستگی بیشتری برای کسب این جایزه داشت.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080905817/%D9%86%D8%B8%D8%B1-%D9%85%D9%88%D8%B1%DB%8C%D9%86%DB%8C%D9%88-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7%DB%8C-%D9%87%D8%B1%DB%8C-%DA%A9%DB%8C%D9%86"
   },
   {
-    "source": "مهر",
-    "title": "شادی مشهدی ها در محله «احمد جوان» پس از کسب مدال طلا",
-    "link": "https://www.mehrnews.com/news/6995523/%D8%B4%D8%A7%D8%AF%DB%8C-%D9%85%D8%B4%D9%87%D8%AF%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D8%AD%D9%84%D9%87-%D8%A7%D8%AD%D9%85%D8%AF-%D8%AC%D9%88%D8%A7%D9%86-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
-    "summary": "مشهد- در این فیلم تصاویری از شادی مشهدی ها در محله «احمد جوان» پس از کسب مدال طلای رقابت های قهرمانی جهان کشتی را مشاهده می کنید.",
-    "published": "Sat, 31 Oct 2026 14:26:41 GMT",
-    "collected_at": "2026-10-31T18:17:10.419550+03:30",
-    "filter_market_score": 10,
-    "market_score": 14,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "مشهد- در این فیلم تصاویری از شادی مشهدی ها در محله «احمد جوان» پس از کسب مدال طلای رقابت های قهرمانی جهان کشتی را مشاهده می کنید.",
-    "telegram_preview": "📰 شادی مشهدی ها در محله «احمد جوان» پس از کسب مدال طلا\n\nمشهد- در این فیلم تصاویری از شادی مشهدی ها در محله «احمد جوان» پس از کسب مدال طلای رقابت های قهرمانی جهان کشتی را مشاهده می کنید.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6995523/%D8%B4%D8%A7%D8%AF%DB%8C-%D9%85%D8%B4%D9%87%D8%AF%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D8%AD%D9%84%D9%87-%D8%A7%D8%AD%D9%85%D8%AF-%D8%AC%D9%88%D8%A7%D9%86-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7"
-  },
-  {
-    "source": "مهر",
-    "title": "شکار هفتمین مدال با نتایج قدرتمندانه؛ امیرحسین زارع به مدال طلا رسید",
-    "link": "https://www.mehrnews.com/news/6994880/%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D8%A8%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "امیرحسین زارع سنگین وزن کشتی آزاد با شکست حریف روس خود در فینال مسابقات جهانی به مدال طلا رسید. این هفتمین مدال طلای زارع است که با رقم زدن نتایجی عجیب به دست آمد.",
-    "published": "Sat, 31 Oct 2026 13:49:11 GMT",
-    "collected_at": "2026-10-31T17:47:23.438102+03:30",
-    "filter_market_score": 10,
-    "market_score": 14,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "امیرحسین زارع سنگین وزن کشتی آزاد با شکست حریف روس خود در فینال مسابقات جهانی به مدال طلا رسید. این هفتمین مدال طلای زارع است که با رقم زدن نتایجی عجیب به دست آمد.",
-    "telegram_preview": "📰 شکار هفتمین مدال با نتایج قدرتمندانه؛ امیرحسین زارع به مدال طلا رسید\n\nامیرحسین زارع سنگین وزن کشتی آزاد با شکست حریف روس خود در فینال مسابقات جهانی به مدال طلا رسید. این هفتمین مدال طلای زارع است که با رقم زدن نتایجی عجیب به دست آمد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6994880/%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D8%A8%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF"
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "روایت رحیم صفوی از تلاش شهید لاریجانی برای خرید پدافند/ گفت چند میلیون دلار نیاز داریم، اما پول نداریم+ فیلم",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305538-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%B1%D8%AD%DB%8C%D9%85-%D8%B5%D9%81%D9%88%DB%8C-%D8%A7%D8%B2-%D8%AA%D9%84%D8%A7%D8%B4-%D8%B4%D9%87%DB%8C%D8%AF-%D9%84%D8%A7%D8%B1%DB%8C%D8%AC%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%DA%AF%D9%81%D8%AA-%DA%86%D9%86%D8%AF-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%86%DB%8C%D8%A7%D8%B2-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85-%D8%A7%D9%85%D8%A7-%D9%BE%D9%88%D9%84-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D9%85-%D9%81%DB%8C%D9%84%D9%85",
@@ -5596,6 +5384,104 @@
     "duplicate_count": 1,
     "full_text": "کایل دیک که پیش از این ۴ نشان طلای جهانی در میان وزن را از آن خود کرده بود، در اولین حضور جهانی اش در دو وزن بالاتر به طلای پنجمش رسید.",
     "telegram_preview": "📰 کایل دیک پادشاه جدید ۸۶ کیلوگرم جهان +نتایج کامل ۴ وزن دوم\n\nکایل دیک که پیش از این ۴ نشان طلای جهانی در میان وزن را از آن خود کرده بود، در اولین حضور جهانی اش در دو وزن بالاتر به طلای پنجمش رسید.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1849487/%DA%A9%D8%A7%DB%8C%D9%84-%D8%AF%DB%8C%DA%A9-%D9%BE%D8%A7%D8%AF%D8%B4%D8%A7%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%DB%B8%DB%B6-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%AC%D9%87%D8%A7%D9%86-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%DA%A9%D8%A7%D9%85%D9%84-%DB%B4-%D9%88%D8%B2%D9%86-%D8%AF%D9%88%D9%85"
+  },
+  {
+    "source": "مشرق",
+    "title": "آمریکا با ۵ طلا قهرمان جهان شد/ ایران با ۶ مدال در جایگاه سوم ایستاد +نتایج کامل انفرادی",
+    "link": "https://www.mashreghnews.ir/news/1849767/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%DB%B5-%D8%B7%D9%84%D8%A7-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%DB%B6-%D9%85%D8%AF%D8%A7%D9%84-%D8%AF%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%B3%D9%88%D9%85",
+    "summary": "تیم ملی آزاد ایران که سال گذشته در زاگرب قهرمان جهان شده بود با اختلاف ۶۱ امتیازی نسبت به آمریکای قهرمان و ۵۲ امتیازی با روسیه ی نایب قهرمان در جایگاه سومی جهانی ۲۰۲۶ قرار گرفت.",
+    "published": "Sun, 01 Nov 2026 15:50:34 GMT",
+    "collected_at": "2026-11-01T19:47:52.035431+03:30",
+    "filter_market_score": 6,
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "تیم ملی آزاد ایران که سال گذشته در زاگرب قهرمان جهان شده بود با اختلاف ۶۱ امتیازی نسبت به آمریکای قهرمان و ۵۲ امتیازی با روسیه ی نایب قهرمان در جایگاه سومی جهانی ۲۰۲۶ قرار گرفت.",
+    "telegram_preview": "📰 آمریکا با ۵ طلا قهرمان جهان شد/ ایران با ۶ مدال در جایگاه سوم ایستاد +نتایج کامل انفرادی\n\nتیم ملی آزاد ایران که سال گذشته در زاگرب قهرمان جهان شده بود با اختلاف ۶۱ امتیازی نسبت به آمریکای قهرمان و ۵۲ امتیازی با روسیه ی نایب قهرمان در جایگاه سومی جهانی ۲۰۲۶ قرار گرفت.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1849767/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%DB%B5-%D8%B7%D9%84%D8%A7-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%DB%B6-%D9%85%D8%AF%D8%A7%D9%84-%D8%AF%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%B3%D9%88%D9%85"
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "دولت در برابر ۸ هزار سهامدار/ مصوبه پالایشی ها روی میز دیوان عدالت اداری +فیلم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305618-%D8%AF%D9%88%D9%84%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1-%D9%85%D8%B5%D9%88%D8%A8%D9%87-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DB%8C-%D9%87%D8%A7-%D8%B1%D9%88%DB%8C-%D9%85%DB%8C%D8%B2-%D8%AF%DB%8C%D9%88%D8%A7%D9%86-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "یک روز خونین در بورس با سقوط شاخص ها، خروج ۷.۸ همت پول حقیقی و سرخ پوشی ۷۳ درصدی نمادها رقم خورد؛ در حالی که اعتراضات ۸ هزار سهامدار و شکایت به دیوان عدالت اداری علیه مصوبه جنجالی دولت درباره نرخ خوراک و محصولات پالایشی ها ابعاد تازه ای به خود گرفته است.",
+    "published": "Sun, 01 Nov 2026 15:46:07 +0000",
+    "collected_at": "2026-11-01T19:47:40.903697+03:30",
+    "filter_market_score": 6,
+    "market_score": 12,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "سقوط",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "یک روز خونین در بورس با سقوط شاخص ها، خروج ۷.۸ همت پول حقیقی و سرخ پوشی ۷۳ درصدی نمادها رقم خورد؛ در حالی که اعتراضات ۸ هزار سهامدار و شکایت به دیوان عدالت اداری علیه مصوبه جنجالی دولت درباره نرخ خوراک و محصولات پالایشی ها ابعاد تازه ای به خود گرفته است.",
+    "telegram_preview": "📰 دولت در برابر ۸ هزار سهامدار/ مصوبه پالایشی ها روی میز دیوان عدالت اداری +فیلم\n\nیک روز خونین در بورس با سقوط شاخص ها، خروج ۷.۸ همت پول حقیقی و سرخ پوشی ۷۳ درصدی نمادها رقم خورد؛ در حالی که اعتراضات ۸ هزار سهامدار و شکایت به دیوان عدالت اداری علیه مصوبه جنجالی دولت درباره نرخ خوراک و محصولات پالایشی ها ابعاد تازه ای به خود گرفته است.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305618-%D8%AF%D9%88%D9%84%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1-%D9%85%D8%B5%D9%88%D8%A8%D9%87-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DB%8C-%D9%87%D8%A7-%D8%B1%D9%88%DB%8C-%D9%85%DB%8C%D8%B2-%D8%AF%DB%8C%D9%88%D8%A7%D9%86-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%A7%D8%AF%D8%A7%D8%B1%DB%8C-%D9%81%DB%8C%D9%84%D9%85"
   },
   {
     "source": "تابناک",
@@ -6336,52 +6222,6 @@
   },
   {
     "source": "مشرق",
-    "title": "امیرحسین زارع مقتدرانه قهرمان سنگین وزن جهان شد/ چهارمین طلای پادشاه +فیلم",
-    "link": "https://www.mashreghnews.ir/news/1849473/%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D9%85%D9%82%D8%AA%D8%AF%D8%B1%D8%A7%D9%86%D9%87-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF-%DA%86%D9%87%D8%A7%D8%B1%D9%85%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C",
-    "summary": "آزادکار سنگین وزن ایران با شکست حریف روس برای چهارمین مرتبه بر سکوی نخست جهان ایستاد.",
-    "published": "Sat, 31 Oct 2026 13:58:13 GMT",
-    "collected_at": "2026-10-31T17:47:39.947145+03:30",
-    "filter_market_score": 5,
-    "market_score": 9,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 5,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "آزادکار سنگین وزن ایران با شکست حریف روس برای چهارمین مرتبه بر سکوی نخست جهان ایستاد.",
-    "telegram_preview": "📰 امیرحسین زارع مقتدرانه قهرمان سنگین وزن جهان شد/ چهارمین طلای پادشاه +فیلم\n\nآزادکار سنگین وزن ایران با شکست حریف روس برای چهارمین مرتبه بر سکوی نخست جهان ایستاد.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1849473/%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D9%85%D9%82%D8%AA%D8%AF%D8%B1%D8%A7%D9%86%D9%87-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%88%D8%B2%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF-%DA%86%D9%87%D8%A7%D8%B1%D9%85%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%DB%8C"
-  },
-  {
-    "source": "مشرق",
     "title": "طلسمی که شکست و رکوردی که نشکست/ تکرار عکس تاریخی روی باارزش ترین سکوی جهانی!",
     "link": "https://www.mashreghnews.ir/news/1849592/%D8%B7%D9%84%D8%B3%D9%85%DB%8C-%DA%A9%D9%87-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%88-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%DB%8C-%DA%A9%D9%87-%D9%86%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1-%D8%B9%DA%A9%D8%B3-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C-%D8%B1%D9%88%DB%8C-%D8%A8%D8%A7%D8%A7%D8%B1%D8%B2%D8%B4-%D8%AA%D8%B1%DB%8C%D9%86",
     "summary": "امیرحسین زارع با اقتدار به طلای ۲۰۲۶ سنگین وزن کشتی آزاد رسید و با این مدال، چند رکورد را شکست.",
@@ -7042,100 +6882,6 @@
     "duplicate_count": 1,
     "full_text": "احمد محمدنژاد جوان در دیدار فینال وزن 61 کیلوگرم مسابقات قهرمانی جهان برابر زائور اوگویف، قهرمان المپیک و دارنده 3 طلای جهان از روسیه قرار گرفت و با نتیجه 9-2 به پیروزی رسید.",
     "telegram_preview": "📰 نبرد قهرمانی جهان احمد جوان در تحقیر قهرمان المپیک\n\nاحمد محمدنژاد جوان در دیدار فینال وزن 61 کیلوگرم مسابقات قهرمانی جهان برابر زائور اوگویف، قهرمان المپیک و دارنده 3 طلای جهان از روسیه قرار گرفت و با نتیجه 9-2 به پیروزی رسید.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/30008548/%D9%86%D8%A8%D8%B1%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%A7%D8%AD%D9%85%D8%AF-%D8%AC%D9%88%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AA%D8%AD%D9%82%DB%8C%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9"
-  },
-  {
-    "source": "مشرق",
-    "title": "فیلم/ فینال یک طرفه امیرحسین زارع مقابل روسیه",
-    "link": "https://www.mashreghnews.ir/news/1849474/%D9%81%DB%8C%D9%84%D9%85-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%DB%8C%DA%A9-%D8%B7%D8%B1%D9%81%D9%87-%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B1%D9%88%D8%B3%DB%8C%D9%87",
-    "summary": "امیرحسین زارع با شکست ۱۱ بر صفر کوربانوف روس در فینال ۱۲۵ کیلوگرم قهرمانی جهان، دومین مدال طلای تیم کشورمان و چهارمین طلای خودش در قهرمانی جهان را به دست آورد.",
-    "published": "Sat, 31 Oct 2026 14:01:52 GMT",
-    "collected_at": "2026-10-31T17:47:39.947132+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "امیرحسین زارع با شکست ۱۱ بر صفر کوربانوف روس در فینال ۱۲۵ کیلوگرم قهرمانی جهان، دومین مدال طلای تیم کشورمان و چهارمین طلای خودش در قهرمانی جهان را به دست آورد.",
-    "telegram_preview": "📰 فیلم/ فینال یک طرفه امیرحسین زارع مقابل روسیه\n\nامیرحسین زارع با شکست ۱۱ بر صفر کوربانوف روس در فینال ۱۲۵ کیلوگرم قهرمانی جهان، دومین مدال طلای تیم کشورمان و چهارمین طلای خودش در قهرمانی جهان را به دست آورد.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1849474/%D9%81%DB%8C%D9%84%D9%85-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%DB%8C%DA%A9-%D8%B7%D8%B1%D9%81%D9%87-%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B1%D9%88%D8%B3%DB%8C%D9%87"
-  },
-  {
-    "source": "تابناک",
-    "title": "امیرحسین زارع قهرمان جهان شد",
-    "link": "https://tabnak.ir/fa/news/30008545/%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF",
-    "summary": "امیرحسین زارع، ملی پوش وزن ۱۲۵ کیلوگرم ایران با شکست نماینده روسیه به نشان طلای مسابقات کشتی آزاد قهرمانی جهان رسید.",
-    "published": "Sat, 31 Oct 2026 17:25:00 +0330",
-    "collected_at": "2026-10-31T17:47:36.521122+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "امیرحسین زارع، ملی پوش وزن ۱۲۵ کیلوگرم ایران با شکست نماینده روسیه به نشان طلای مسابقات کشتی آزاد قهرمانی جهان رسید.",
-    "telegram_preview": "📰 امیرحسین زارع قهرمان جهان شد\n\nامیرحسین زارع، ملی پوش وزن ۱۲۵ کیلوگرم ایران با شکست نماینده روسیه به نشان طلای مسابقات کشتی آزاد قهرمانی جهان رسید.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/30008545/%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF"
   },
   {
     "source": "مهر",
