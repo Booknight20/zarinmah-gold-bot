@@ -23678,5 +23678,77 @@
     "group_message_id": 1834,
     "fully_published": true,
     "last_checked_at": "2026-11-01T03:46:11.469928+00:00"
+  },
+  "0286c4b8466ee822229b89f56212718654b880e8efaf8d5bea25df6575da47c1": {
+    "title": "۶۱ میلیون دلار کالا از لرستان صادر شد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6995771/%DB%B6%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2088
+    ],
+    "eitaa_message_ids": [
+      179364879
+    ],
+    "group_message_ids": [
+      1835
+    ],
+    "content_hash": "7313abb3abcd131c1f25fb68e54774e7824203b59d738ab54cd71376a610ca8a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T04:45:32.289152+00:00",
+    "telegram_message_id": 2088,
+    "eitaa_last_sent_at": "2026-11-01T04:45:33.814123+00:00",
+    "eitaa_message_id": 179364879,
+    "group_last_sent_at": "2026-11-01T04:45:35.497142+00:00",
+    "group_message_id": 1835,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T04:45:35.518568+00:00"
+  },
+  "0347b96866c015f7df4965d335614bf9ea1608a931e048d2a81d14da275fdf8b": {
+    "title": "برنامه آخرین روز مسابقات کشتی؛ شانس یک طلا و ۳ برنز برای آزادکاران",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6995834/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%B4%D8%A7%D9%86%D8%B3-%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%DB%B3-%D8%A8%D8%B1%D9%86%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF%DA%A9%D8%A7%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      2089
+    ],
+    "eitaa_message_ids": [
+      179364887
+    ],
+    "group_message_ids": [
+      1836
+    ],
+    "content_hash": "ab3ce789924931e98561691cca3e0696c5e376cd22586976d865aaed69fa70f1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T04:45:37.193330+00:00",
+    "telegram_message_id": 2089,
+    "eitaa_last_sent_at": "2026-11-01T04:45:38.687799+00:00",
+    "eitaa_message_id": 179364887,
+    "group_last_sent_at": "2026-11-01T04:45:40.368593+00:00",
+    "group_message_id": 1836,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T04:45:40.389769+00:00"
+  },
+  "ea4b9d8afba8284f1fdd39b394bd1c0b519e2f5f68b2ebdad248e7a57fb5bc6c": {
+    "title": "اول تورم را مهار کنید ، بعدا در باره افزایش یارانه تصمیم بگیرید",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2295788/%D8%A7%D9%88%D9%84-%D8%AA%D9%88%D8%B1%D9%85-%D8%B1%D8%A7-%D9%85%D9%87%D8%A7%D8%B1-%DA%A9%D9%86%DB%8C%D8%AF-%D8%A8%D8%B9%D8%AF%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D8%B1%D8%A7%D9%86%D9%87-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%A8%DA%AF%DB%8C%D8%B1%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      2090
+    ],
+    "eitaa_message_ids": [
+      179364894
+    ],
+    "group_message_ids": [
+      1837
+    ],
+    "content_hash": "aa58be1959a22e6ff4bf1127f2ff98d61c4e1ab1d87fd92af6bf1b389b0b6a35",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-01T04:45:42.073653+00:00",
+    "telegram_message_id": 2090,
+    "eitaa_last_sent_at": "2026-11-01T04:45:43.458752+00:00",
+    "eitaa_message_id": 179364894,
+    "group_last_sent_at": "2026-11-01T04:45:45.121322+00:00",
+    "group_message_id": 1837,
+    "fully_published": true,
+    "last_checked_at": "2026-11-01T04:45:45.143255+00:00"
   }
 }
