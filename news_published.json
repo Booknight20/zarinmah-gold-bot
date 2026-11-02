@@ -26222,5 +26222,53 @@
     "group_message_id": 1975,
     "fully_published": true,
     "last_checked_at": "2026-11-02T06:46:33.847293+00:00"
+  },
+  "33817a75fb0ec1272a644c4a2df989cb17c2015dc99d218d4c765efb32f68629": {
+    "title": "پیشنهاد کنسرسیوم آمریکایی برای پروژه ۴.۴ میلیارد دلاری گاز مایع در پاکستان",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081106878/%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF-%DA%A9%D9%86%D8%B3%D8%B1%D8%B3%DB%8C%D9%88%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%DB%B4-%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%DA%AF%D8%A7%D8%B2-%D9%85%D8%A7%DB%8C%D8%B9",
+    "telegram_message_ids": [
+      2229
+    ],
+    "eitaa_message_ids": [
+      179569449
+    ],
+    "group_message_ids": [
+      1977
+    ],
+    "content_hash": "c7a5faee20bb3d4324327d1ecc7f6de89655c4f1bf84c226eb0d7015dafc5eee",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T07:16:27.886177+00:00",
+    "telegram_message_id": 2229,
+    "eitaa_last_sent_at": "2026-11-02T07:16:29.250235+00:00",
+    "eitaa_message_id": 179569449,
+    "group_last_sent_at": "2026-11-02T07:16:31.005326+00:00",
+    "group_message_id": 1977,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T07:16:31.036107+00:00"
+  },
+  "03781cb0ab936318d93adc1627e9340077929937e293d820a4898f18bf2f45d3": {
+    "title": "گزارش بازار بورس امروز ۱۱ آبان ۱۴۰۵ / شاخص بورس ۴۰ هزار واحد ریخت",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/live/2296445/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%DB%B4%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF",
+    "telegram_message_ids": [
+      2230
+    ],
+    "eitaa_message_ids": [
+      179569464
+    ],
+    "group_message_ids": [
+      1978
+    ],
+    "content_hash": "54eebebca221593970e92ac2f810da7d63d838f48da7c7d3f3fa00ec44a4cb40",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T07:16:32.696852+00:00",
+    "telegram_message_id": 2230,
+    "eitaa_last_sent_at": "2026-11-02T07:16:34.088745+00:00",
+    "eitaa_message_id": 179569464,
+    "group_last_sent_at": "2026-11-02T07:16:35.762223+00:00",
+    "group_message_id": 1978,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T07:16:35.793158+00:00"
   }
 }
