@@ -27542,5 +27542,53 @@
     "group_message_id": 2055,
     "fully_published": true,
     "last_checked_at": "2026-11-02T16:18:22.406168+00:00"
+  },
+  "320e233ddec53bfd96d684f1a18fa96d14f661a699bd0c16bbee8591b89d1f52": {
+    "title": "سانچز:جنگ غیرقانونی علیه ایران، ۱۰۰ میلیارد یورو هزینه برای اروپا داشت",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6997923/%D8%B3%D8%A7%D9%86%DA%86%D8%B2-%D8%AC%D9%86%DA%AF-%D8%BA%DB%8C%D8%B1%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7",
+    "telegram_message_ids": [
+      2310
+    ],
+    "eitaa_message_ids": [
+      179680302
+    ],
+    "group_message_ids": [
+      2058
+    ],
+    "content_hash": "f73fec1c769d8f814b98236238634dadbdee385f0996328ba2fa11cdca639a90",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T17:44:44.040832+00:00",
+    "telegram_message_id": 2310,
+    "eitaa_last_sent_at": "2026-11-02T17:44:45.387232+00:00",
+    "eitaa_message_id": 179680302,
+    "group_last_sent_at": "2026-11-02T17:44:47.068057+00:00",
+    "group_message_id": 2058,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T17:44:47.091152+00:00"
+  },
+  "195a8ae67d2fb092c300ae1e6ee66764b495031f54629af37601583f8ad16313": {
+    "title": "اینفوگرافیک؛ توسعه کشت «طلای سرخ» در سیستان و بلوچستان",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/photo/6992584/%D8%A7%DB%8C%D9%86%D9%81%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%DA%A9%D8%B4%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%D8%AF%D8%B1-%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86",
+    "telegram_message_ids": [
+      2311
+    ],
+    "eitaa_message_ids": [
+      179680313
+    ],
+    "group_message_ids": [
+      2059
+    ],
+    "content_hash": "b561fbc0748565a09b11157c9663d6c9d27c6f4c25bf687b221af38d850e1351",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T17:44:48.746828+00:00",
+    "telegram_message_id": 2311,
+    "eitaa_last_sent_at": "2026-11-02T17:44:50.091193+00:00",
+    "eitaa_message_id": 179680313,
+    "group_last_sent_at": "2026-11-02T17:44:51.722405+00:00",
+    "group_message_id": 2059,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T17:44:51.748168+00:00"
   }
 }
