@@ -27326,5 +27326,77 @@
     "group_message_id": 2041,
     "fully_published": true,
     "last_checked_at": "2026-11-02T13:48:32.985952+00:00"
+  },
+  "d238225939e33a93481733440fa345e5ae317f42a27e1bf4a4b5281cb276277a": {
+    "title": "خاندوزی: استکبارستیزی اقتصادی باید از سطح شعار فراتر رود",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081107302/%D8%AE%D8%A7%D9%86%D8%AF%D9%88%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA%DA%A9%D8%A8%D8%A7%D8%B1%D8%B3%D8%AA%DB%8C%D8%B2%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%B3%D8%B7%D8%AD-%D8%B4%D8%B9%D8%A7%D8%B1-%D9%81%D8%B1%D8%A7%D8%AA%D8%B1-%D8%B1%D9%88%D8%AF",
+    "telegram_message_ids": [
+      2296
+    ],
+    "eitaa_message_ids": [
+      179651663
+    ],
+    "group_message_ids": [
+      2044
+    ],
+    "content_hash": "92b0832d9aa990fe9f02d866720f88bcdb92e04777684fee9b7a18af0fca9155",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T14:17:40.571172+00:00",
+    "telegram_message_id": 2296,
+    "eitaa_last_sent_at": "2026-11-02T14:17:42.200924+00:00",
+    "eitaa_message_id": 179651663,
+    "group_last_sent_at": "2026-11-02T14:17:43.924138+00:00",
+    "group_message_id": 2044,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T14:17:43.976033+00:00"
+  },
+  "6add2c90f5162435704cae778920ad1a6a61da269a2d4a949a27423ed225d168": {
+    "title": "اسپانیا: جنگ علیه ایران غیرقانونی است",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000203/%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%BA%DB%8C%D8%B1%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA-b96d61010255484fa58e2109",
+    "telegram_message_ids": [
+      2297
+    ],
+    "eitaa_message_ids": [
+      179651679
+    ],
+    "group_message_ids": [
+      2045
+    ],
+    "content_hash": "2c13ee048ffe651b3794920185c970d73f1ae52ca394b0da622e5a778b006ed4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T14:17:45.738078+00:00",
+    "telegram_message_id": 2297,
+    "eitaa_last_sent_at": "2026-11-02T14:17:47.386201+00:00",
+    "eitaa_message_id": 179651679,
+    "group_last_sent_at": "2026-11-02T14:17:49.111029+00:00",
+    "group_message_id": 2045,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T14:17:49.151936+00:00"
+  },
+  "c30f55d6977aecc760443597fe5ea98ab4a7a5a2959478c42d64c9a13bfd9377": {
+    "title": "بحران گاز در بنگلادش؛ هزینه ۲ میلیارد دلاری اختلال در صادرات ال ان جی",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1850007/%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%DA%AF%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%A8%D9%86%DA%AF%D9%84%D8%A7%D8%AF%D8%B4-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%84-%D8%AF%D8%B1-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA",
+    "telegram_message_ids": [
+      2298
+    ],
+    "eitaa_message_ids": [
+      179651687
+    ],
+    "group_message_ids": [
+      2046
+    ],
+    "content_hash": "71e30f5cc95e8b7635b4395b8c644ea9ca987cd934ff995ac5bbc030b09ab6c6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T14:17:50.930180+00:00",
+    "telegram_message_id": 2298,
+    "eitaa_last_sent_at": "2026-11-02T14:17:52.520576+00:00",
+    "eitaa_message_id": 179651687,
+    "group_last_sent_at": "2026-11-02T14:17:54.268314+00:00",
+    "group_message_id": 2046,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T14:17:54.307355+00:00"
   }
 }
