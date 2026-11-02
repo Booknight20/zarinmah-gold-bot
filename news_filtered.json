@@ -427,6 +427,62 @@
     "filter_applied": true
   },
   {
+    "source": "مهر",
+    "title": "صعود قیمت طلا و نقره در بازارهای جهانی؛ بازگشت اونس طلا به 3900 دلار",
+    "link": "https://www.mehrnews.com/news/6997011/%D8%B5%D8%B9%D9%88%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-3900",
+    "summary": "تازه ترین داده های بازارهای جهانی نشان می دهد بهای هر اونس طلا و نقره با افزایش مواجه شده و به ترتیب به ۳۹۰۰ و نزدیک ۵۰ دلار رسیده اند.",
+    "published": "Mon, 02 Nov 2026 04:45:24 GMT",
+    "collected_at": "2026-11-02T08:17:30.619658+03:30",
+    "filter_market_score": 31,
+    "market_score": 31,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "صعود",
+      "قیمت",
+      "افزایش",
+      "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "تابناک",
     "title": "قیمت طلا و سکه امروز 10 آبان/ سکه بهار آزادی پرواز کرد",
     "link": "https://tabnak.ir/fa/news/100000026/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-10-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87%D8%A7%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%DA%A9%D8%B1%D8%AF-33e8a224e39c4ac487d2845d",
@@ -838,6 +894,56 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "قیمت طلا و سکه امروز دوشنبه ۱۱ آبان ۱۴۰۵ / افزایش قیمت طلا و سکه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305740-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "summary": "طلای 18 عیار صعودی شد و قیمت سکه امامی امروز با افزایش، در نرخ ۲۶۲ میلیون و ۷۰۰ هزار تومان در معامله بود.",
+    "published": "Mon, 02 Nov 2026 04:43:53 +0000",
+    "collected_at": "2026-11-02T08:17:39.799751+03:30",
+    "filter_market_score": 24,
+    "market_score": 24,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار",
+        "سکه امامی"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار",
+        "سکه امامی"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار",
+        "سکه امامی"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "صعود",
+      "نرخ",
+      "معامله"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "تابلوی سرخ بورس",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4305584-%D8%AA%D8%A7%D8%A8%D9%84%D9%88%DB%8C-%D8%B3%D8%B1%D8%AE-%D8%A8%D9%88%D8%B1%D8%B3",
     "summary": "دنیای اقتصاد: بورس تهران در معاملات روز یکشنبه برای دومین روز متوالی با افت شاخص های سهامی همراه شد. شاخص کل با کاهش 2.36 درصدی و از دست دادن کانال 7.7 میلیونی به سطح ۷ میلیون و ۶۵۴ هزار واحد عقب نشینی کرد و شاخص هم وزن نیز افت 1.41 درصدی را تجربه کرد و در سطح ۲ میلیون و ۱۶۵ هزار واحد ایستاد.",
@@ -882,61 +988,6 @@
       "معاملات",
       "عقب‌نشینی",
       "عقب نشینی"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "تکرار عملکرد بورس در نیمه دوم؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305384-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D8%AF%D9%88%D9%85",
-    "summary": "گزارش های 6ماهه شرکت های بورسی از جهش 135درصدی سودآوری صنایع حکایت دارد. حدود ۷۰۰نماد بورسی در نیمه نخست سال ۲هزار همت سود خالص ساختند؛ رقمی که با تداوم رشد نرخ ارز و قیمت های جهانی، می تواند تا پایان سال به ۵ هزار همت برسد.",
-    "published": "Sat, 31 Oct 2026 20:30:00 +0000",
-    "collected_at": "2026-11-01T00:07:51.338818+03:30",
-    "filter_market_score": 24,
-    "market_score": 24,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ],
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ],
-      "stock": [
-        "بورس"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ],
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "جهش",
-      "قیمت",
-      "نرخ",
-      "سود",
-      "سود خالص",
-      "گزارش"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -1422,6 +1473,49 @@
   },
   {
     "source": "مهر",
+    "title": "ترس از درگیری دوباره مانع واکنش بورس به ارزندگی سهام است",
+    "link": "https://www.mehrnews.com/news/6996335/%D8%AA%D8%B1%D8%B3-%D8%A7%D8%B2-%D8%AF%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%A7%D9%86%D8%B9-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D8%A7%D8%B1%D8%B2%D9%86%D8%AF%DA%AF%DB%8C-%D8%B3%D9%87%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA",
+    "summary": "یک تحلیلگر بازار سرمایه گفت: با وجود ارزندگی بنیادی سهام، ابهام درباره تحولات سیاسی و احتمال درگیری مجدد، مانع بازگشت تقاضا به بازار شده است.",
+    "published": "Mon, 02 Nov 2026 04:39:53 GMT",
+    "collected_at": "2026-11-02T08:17:30.619746+03:30",
+    "filter_market_score": 19,
+    "market_score": 19,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "سهام",
+        "بازار سرمایه"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "سهام"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بازار سرمایه",
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "سهام"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مهر",
     "title": "معمای تثبیت نرخ ارز؛ چرا تزریق بی رویه پاسخگوی مهار بازار نیست؟",
     "link": "https://www.mehrnews.com/news/6996531/%D9%85%D8%B9%D9%85%D8%A7%DB%8C-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%DA%86%D8%B1%D8%A7-%D8%AA%D8%B2%D8%B1%DB%8C%D9%82-%D8%A8%DB%8C-%D8%B1%D9%88%DB%8C%D9%87-%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88%DB%8C-%D9%85%D9%87%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D8%B3%D8%AA",
     "summary": "بررسی سیاست های پولی نشان می دهد که مهار پایدار نوسانات بازار ارز صرفاً با تکیه بر انضباط مالی محقق می شود.",
@@ -1680,50 +1774,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "شمارش معکوس برای اقتصاد جهانی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-100/4305460-%D8%B4%D9%85%D8%A7%D8%B1%D8%B4-%D9%85%D8%B9%DA%A9%D9%88%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-    "summary": "هفتمین شماره «دورنمای بازارها» منتشر شد. این هفته نامه که محصول همکاری «اکوایران» و «مرکز داده و تحلیل» گروه رسانه ای «دنیای اقتصاد» است، در شماره جدید خود به بررسی پیامدهای اقتصادی و مالی تداوم محاصره نفتی و محدودیت دسترسی ایران به بازارها پرداخته است. در پرونده ویژه این شماره نیز، ابعاد انتقال شوک نفتی به اقتصاد داخلی، آینده درآمدهای دولت، تامین کسری بودجه، عرضه ارز، تجارت خارجی و چشم انداز فعالیت بنگاه ها بررسی شده است. همچنین، در نظرسنجی اختصاصی دورنما، ۳۶نفر از خبرگان و تحلیلگران بازارهای مالی دیدگاه های خود را درباره سناریوهای پیش رو و راهبردهای مدیریت دارایی در شرایط تداوم محدودیت ها مطرح کرده اند. در کنار این بررسی ها، گزارش تحلیلی «شمارش معکوس برای اقتصاد جهانی» به ظرفیت ذخایر نفتی برای مقابله با اختلال عرضه و محدودیت زمانی این ابزار در مواجهه با بحران انرژی می پردازد. نسخه فیزیکی این هفته نامه یکشنبه هر هفته به صورت ضمیمه روزنامه «دنیای اقتصاد» در دسترس خواهد بود.",
-    "published": "Sat, 31 Oct 2026 20:30:00 +0000",
-    "collected_at": "2026-11-01T00:07:51.338930+03:30",
-    "filter_market_score": 17,
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "نفت",
-      "کسری بودجه",
-      "بودجه",
-      "عرضه ارز"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "تحلیل",
-      "چشم‌انداز",
-      "چشم انداز",
-      "عرضه",
-      "منتشر شد",
-      "گزارش",
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "بازگشت بورس به کف 19روزه",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305510-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%DA%A9%D9%81-%D8%B1%D9%88%D8%B2%D9%87",
     "summary": "دنیای اقتصاد: بورس تهران در میانه معاملات امروز با فشار عرضه مواجه شد و شاخص کل با افت ۲.۲۸ درصدی، معادل ۱۷۸ هزار واحد، به سطح ۷ میلیون و ۶۶۰ هزار واحد رسید. به این ترتیب، نماگر اصلی بازار پس از ۱۹ روز معاملاتی، مرز ۷ میلیون و ۷۰۰ هزار واحد را از دست داد.",
@@ -1766,44 +1816,41 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "بازارها در نقطه جوش",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4305387-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%AF%D8%B1-%D9%86%D9%82%D8%B7%D9%87-%D8%AC%D9%88%D8%B4",
-    "summary": "بازارهای جهانی این روزها در یکی از پرتلاطم ترین و پیچیده ترین نقاط خود ایستاده اند. شرایطی که در آن ریسک های محیطی ناشی از تنش های ژئوپلیتیک با پیامدهای ناشی از آثار سیاست های پولی بانک های مرکزی در سطح کلان برخورد کرده است. بررسی های «دنیای اقتصاد» نشان می دهد که بازارهای جهانی در ماه اکتبر شاهد یک چرخش معنادار سرمایه بوده اند. درحالی که تا پیش از این، خوش بینی به توسعه هوش مصنوعی محرک اصلی بازار سهام و دارایی های پرریسک بود، اکنون نشانه هایی از فروکش این روند صعودی به چشم می خورد. برای یک معامله گر بین المللی، درک این شرایط پیچیده که در آن انتظارات تورمی، سیاست های مالی و چشم انداز رشد اقتصادی به طور مداوم بازتعریف می شوند، نقشی حیاتی دارد. سرمایه گذاران اکنون به جای تکیه بر روندهای خطی گذشته، در حال ارزیابی مجدد پرتفوی خود هستند تا در برابر شوک های احتمالی مصون بمانند. در ادامه به بررسی عملکرد بازارهای مالی جهانی در هفته پایانی اکتبر پرداختیم.",
-    "published": "Sat, 31 Oct 2026 20:30:00 +0000",
-    "collected_at": "2026-11-01T00:07:51.338973+03:30",
-    "filter_market_score": 16,
-    "market_score": 16,
+    "title": "قیمت طلا ۱۸ عیار امروز دوشنبه ۱۱ آبان ۱۴۰۵/ افزایش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305739-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت گرم طلا ۱۸ عیار با افزایش، به 25 میلیون و 645 هزار و 300 تومان رسید.",
+    "published": "Mon, 02 Nov 2026 04:34:07 +0000",
+    "collected_at": "2026-11-02T08:17:39.799794+03:30",
+    "filter_market_score": 15,
+    "market_score": 15,
     "market_matches": {
-      "stock": [
-        "سهام",
-        "بازار سهام"
+      "gold": [
+        "طلا",
+        "گرم طلا"
       ]
     },
-    "title_market_matches": {},
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
     "summary_market_matches": {
-      "stock": [
-        "سهام",
-        "بازار سهام"
+      "gold": [
+        "طلا",
+        "گرم طلا"
       ]
     },
     "full_text_market_matches": {
-      "stock": [
-        "سهام",
-        "بازار سهام"
+      "gold": [
+        "طلا",
+        "گرم طلا"
       ]
     },
-    "driver_matches": [
-      "تورم",
-      "رشد اقتصادی"
-    ],
+    "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "رشد",
-      "صعود",
-      "چشم‌انداز",
-      "چشم انداز",
-      "معامله",
-      "روند"
+      "افزایش",
+      "قیمت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2215,6 +2262,45 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت سکه امروز ۱۱ آبان ۱۴۰۵ در زمان بازگشایی بازار/ نیم سکه ۱۳۸ میلیون و ۹۰۰ هزار تومان به فروش رفت + جدول",
+    "link": "https://www.khabaronline.ir/news/2296338/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B3%DB%B8",
+    "summary": "قیمت سکه در بازار تهران امروز ۱۱ آبان ۱۴۰۵ اعلام شد و نیم سکه ۱۳۸ میلیون و ۹۰۰ هزار تومان به فروش رفت.",
+    "published": "Mon, 02 Nov 2026 04:35:00 GMT",
+    "collected_at": "2026-11-02T08:17:44.320295+03:30",
+    "filter_market_score": 13,
+    "market_score": 13,
+    "market_matches": {
+      "gold": [
+        "نیم سکه"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "نیم سکه"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "نیم سکه"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "نیم سکه"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "بازگشایی",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "تابناک",
     "title": "کارخانه ای که قیمت هایش از کیفیت محصولاتش سبقت می گیرد!",
     "link": "https://tabnak.ir/fa/news/100000084/%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87%D8%A7%DB%8C-%DA%A9%D9%87-%D9%82%DB%8C%D9%85%D8%AA%D9%87%D8%A7%DB%8C%D8%B4-%D8%A7%D8%B2-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA%D8%B4-%D8%B3%D8%A8%D9%82%D8%AA-%D9%85%DB%8C%DA%AF%DB%8C%D8%B1%D8%AF-d50a5399f1774f7cb3b65942",
@@ -2525,6 +2611,44 @@
       "قیمت",
       "بازگشایی",
       "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "ذخایر ۸۰۰ تنی طلای ایران در انتظار سرمایه؛ چرا تولید عقب است؟",
+    "link": "https://www.mehrnews.com/news/6995461/%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%DB%B8%DB%B0%DB%B0-%D8%AA%D9%86%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%86%D8%B1%D8%A7-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B9%D9%82%D8%A8-%D8%A7%D8%B3%D8%AA",
+    "summary": "ایران با برخورداری از حدود ۸۰۰ تن ذخایر قطعی و احتمالی طلا و ظرفیت افزایش تولید سالانه به ۲۵ تن، از فرصت قابل توجهی برای توسعه معدنکاری طلا برخوردار است.",
+    "published": "Mon, 02 Nov 2026 04:38:27 GMT",
+    "collected_at": "2026-11-02T08:17:30.619787+03:30",
+    "filter_market_score": 12,
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "تولید",
+      "افزایش"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2864,44 +2988,6 @@
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۹ آبان ۱۴۰۵ در زمان بسته شدن بازار/ نیم سکه ۱۳۷ میلیون و ۹۰۰ هزار تومان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2295728/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B3%DB%B7",
-    "summary": "قیمت سکه در بازار تهران امروز ۹ آبان ۱۴۰۵ اعلام شد و نیم سکه ۱۳۷ میلیون و ۹۰۰ هزار تومان شد.",
-    "published": "Sat, 31 Oct 2026 20:13:00 GMT",
-    "collected_at": "2026-10-31T23:47:34.694262+03:30",
-    "filter_market_score": 11,
-    "market_score": 11,
-    "market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
@@ -3371,43 +3457,6 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "«گام» ناتمام تامین مالی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-3/4305427-%DA%AF%D8%A7%D9%85-%D9%86%D8%A7%D8%AA%D9%85%D8%A7%D9%85-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%85%D8%A7%D9%84%DB%8C",
-    "summary": "تنگنای تامین مالی تولید، در شرایطی که شبکه بانکی با محدودیت منابع و ناترازی روبه رو شده، ضرورت استفاده از ابزارهای مکمل را افزایش داده است. اوراق گواهی اعتبار مولد (گام) با هدف تسهیل مبادلات در زنجیره تولید و تامین مالی بنگاه ها از مسیر بازار سرمایه طراحی شد؛ اما محدودیت های معاملاتی، هزینه بالای تنزیل و ضعف انگیزه برای گردش اوراق، مانع تحقق کامل اهداف آن شده است. اکنون پرسش اصلی آن است که چگونه می توان ظرفیت بازارمحور گام را احیا کرد و اعتبار آن را به فعالیت واقعی تولید پیوند زد؟",
-    "published": "Sat, 31 Oct 2026 20:30:00 +0000",
-    "collected_at": "2026-11-01T00:07:51.339049+03:30",
-    "filter_market_score": 9,
-    "market_score": 9,
-    "market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "معاملات",
-      "تولید",
-      "داده",
-      "هدف"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "بایننس ۹۰ درصد از زیان های حمله سایبری را جبران می کند",
     "link": "https://www.isna.ir/news/1405081006137/%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%DB%B9%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D8%B2-%D8%B2%DB%8C%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%AD%D9%85%D9%84%D9%87-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%DB%8C-%D8%B1%D8%A7-%D8%AC%D8%A8%D8%B1%D8%A7%D9%86-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
@@ -3439,6 +3488,41 @@
       "معاملات",
       "اعلام کرد",
       "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "پرونده مطالبات ۴.۰۷میلیاردیورویی واردکنندگان درانتظار مصوبه نهایی دولت",
+    "link": "https://www.mehrnews.com/news/6996987/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%DB%B4-%DB%B0%DB%B7%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D9%85%D8%B5%D9%88%D8%A8%D9%87-%D9%86%D9%87%D8%A7%DB%8C%DB%8C",
+    "summary": "یک مسئول صنفی با تشریح آخرین پیگیری ها پیرامون مطالبات ارزی واردکنندگان کالاهای اساسی، ابراز امیدواری کرد که با دستور معاون اول رئیس جمهور، پرداخت برای تداوم واردات و تنظیم بازار اجرایی شود.",
+    "published": "Mon, 02 Nov 2026 04:37:53 GMT",
+    "collected_at": "2026-11-02T08:17:30.619821+03:30",
+    "filter_market_score": 7,
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "واردات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
