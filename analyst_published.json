@@ -22863,5 +22863,70 @@
     "group_sent_at": "2026-11-02T16:42:40.783558+03:30",
     "group_message_id": 2040,
     "published_at": "2026-11-02T16:42:40.806799+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8829": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "نفت تو واکنش به این خبر تا 105 دلار اصلاح کرد",
+      "summary": "نفت تو واکنش به این خبر تا 105 دلار اصلاح کرد\n\n @AlirezaMehrabi_ir",
+      "full_text": "نفت تو واکنش به این خبر تا 105 دلار اصلاح کرد\n\n @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8829",
+      "analysis_score": 11,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "اصلاح"
+      ],
+      "market_groups": [
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "medium",
+      "content_length": 66,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-02T17:18:27.288206+03:30"
+    },
+    "content_signature": "16019bda3d81107e3c3ecddf161e2d8a9ca5c5d8c91c694d62d165447392f1a2",
+    "first_seen_at": "2026-11-02T17:18:33.218761+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2294
+    ],
+    "telegram_last_success_at": "2026-11-02T17:18:33.641001+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-02T17:18:33.664882+03:30",
+    "telegram_message_id": 2294,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179643258
+    ],
+    "eitaa_last_success_at": "2026-11-02T17:18:35.049520+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-02T17:18:35.073498+03:30",
+    "eitaa_message_id": 179643258,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2042
+    ],
+    "group_last_success_at": "2026-11-02T17:18:35.661646+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-02T17:18:35.685566+03:30",
+    "group_message_id": 2042,
+    "published_at": "2026-11-02T17:18:35.709018+03:30"
   }
 }

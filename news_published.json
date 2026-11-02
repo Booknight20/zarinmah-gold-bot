@@ -27302,5 +27302,29 @@
     "group_message_id": 2039,
     "fully_published": true,
     "last_checked_at": "2026-11-02T13:12:39.061607+00:00"
+  },
+  "be86e26dad82f3c7bb14c953245c05802130e170d015fdefaa50a1b3ac7939c9": {
+    "title": "توقیف برخط تلفن همراه و سهام بدهکاران",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849995/%D8%AA%D9%88%D9%82%DB%8C%D9%81-%D8%A8%D8%B1%D8%AE%D8%B7-%D8%AA%D9%84%D9%81%D9%86-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%88-%D8%B3%D9%87%D8%A7%D9%85-%D8%A8%D8%AF%D9%87%DA%A9%D8%A7%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      2293
+    ],
+    "eitaa_message_ids": [
+      179643251
+    ],
+    "group_message_ids": [
+      2041
+    ],
+    "content_hash": "62dbb03fffccad217fa9b6b9c4a55f6bbdaca2afb495ecc25442eae984890867",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T13:48:29.789406+00:00",
+    "telegram_message_id": 2293,
+    "eitaa_last_sent_at": "2026-11-02T13:48:31.220548+00:00",
+    "eitaa_message_id": 179643251,
+    "group_last_sent_at": "2026-11-02T13:48:32.942472+00:00",
+    "group_message_id": 2041,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T13:48:32.985952+00:00"
   }
 }
