@@ -27398,5 +27398,53 @@
     "group_message_id": 2046,
     "fully_published": true,
     "last_checked_at": "2026-11-02T14:17:54.307355+00:00"
+  },
+  "8d1b86e1abad9368815c841abd909689aa7dd26c2563635d2cdf83cef320bf72": {
+    "title": "میدری: ارز چندنرخی و قیمت گذاری دستوری، بستر فساد است",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6997824/%D9%85%DB%8C%D8%AF%D8%B1%DB%8C-%D8%A7%D8%B1%D8%B2-%DA%86%D9%86%D8%AF%D9%86%D8%B1%D8%AE%DB%8C-%D9%88-%D9%82%DB%8C%D9%85%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%DB%8C-%D8%A8%D8%B3%D8%AA%D8%B1-%D9%81%D8%B3%D8%A7%D8%AF-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      2299
+    ],
+    "eitaa_message_ids": [
+      179655521
+    ],
+    "group_message_ids": [
+      2047
+    ],
+    "content_hash": "76b45fe006d8ad49b630f8f1694ff1f9b2da4b2182cedd7e18400723c6010d7e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T14:48:27.186555+00:00",
+    "telegram_message_id": 2299,
+    "eitaa_last_sent_at": "2026-11-02T14:48:28.388472+00:00",
+    "eitaa_message_id": 179655521,
+    "group_last_sent_at": "2026-11-02T14:48:30.016385+00:00",
+    "group_message_id": 2047,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T14:48:30.060538+00:00"
+  },
+  "f3bcf49605f8e96d1c7c21f2436b3e383bfb0d2423b0d0212f6ddc68c2d794fc": {
+    "title": "دومینوی تخلف در صنایع شیر ایران؛ شبیخون سرپرست پگاه به حقوق سهامداران بورسی با گروگان گیری صادرات",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000196/%D8%AF%D9%88%D9%85%DB%8C%D9%86%D9%88%DB%8C-%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%B4%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%A8%DB%8C%D8%AE%D9%88%D9%86-%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA-%D9%BE%DA%AF%D8%A7%D9%87-%D8%A8%D9%87-%D8%AD%D9%82%D9%88%D9%82-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7-%DA%AF%D8%B1%D9%88%DA%AF%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-4d95080919ff4517b7191e9c",
+    "telegram_message_ids": [
+      2300
+    ],
+    "eitaa_message_ids": [
+      179655568
+    ],
+    "group_message_ids": [
+      2048
+    ],
+    "content_hash": "fda7a48186f205bb5dca8511e12d6b3459a86024cc7affc0ec1d8b9b88806f1f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T14:48:31.707515+00:00",
+    "telegram_message_id": 2300,
+    "eitaa_last_sent_at": "2026-11-02T14:48:32.949001+00:00",
+    "eitaa_message_id": 179655568,
+    "group_last_sent_at": "2026-11-02T14:48:34.592090+00:00",
+    "group_message_id": 2048,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T14:48:34.636119+00:00"
   }
 }
