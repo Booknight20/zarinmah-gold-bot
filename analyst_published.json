@@ -23059,5 +23059,70 @@
     "group_sent_at": "2026-11-02T20:18:13.444927+03:30",
     "group_message_id": 2056,
     "published_at": "2026-11-02T20:18:13.468786+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25953": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "یک فروند ایرباس A۳۲۰ ویژه ناوگان سلطنتی قطر با شناسه QAF7، پس از برخاستن از دوحه، در حال پرواز به سمت شمال بر فراز حر...",
+      "summary": "یک فروند ایرباس A۳۲۰ ویژه ناوگان سلطنتی قطر با شناسه QAF7، پس از برخاستن از دوحه، در حال پرواز به سمت شمال بر فراز حریم هوایی ایران رصد شده \n\nنفت هم به ۱۰۳ دلار رسید و سقوط امروزش به ۸٪ رسید.\n\n @payamelyaskordi ✅",
+      "full_text": "یک فروند ایرباس A۳۲۰ ویژه ناوگان سلطنتی قطر با شناسه QAF7، پس از برخاستن از دوحه، در حال پرواز به سمت شمال بر فراز حریم هوایی ایران رصد شده \n\nنفت هم به ۱۰۳ دلار رسید و سقوط امروزش به ۸٪ رسید.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25953",
+      "analysis_score": 11,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "روند"
+      ],
+      "market_groups": [
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "medium",
+      "content_length": 212,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-02T22:18:02.418987+03:30"
+    },
+    "content_signature": "890be4df31f9ed382c05b0e564bb638d529d12f050540a6ef68ed4e365ed877c",
+    "first_seen_at": "2026-11-02T22:18:09.156858+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2315
+    ],
+    "telegram_last_success_at": "2026-11-02T22:18:09.527021+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-02T22:18:09.551159+03:30",
+    "telegram_message_id": 2315,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179688087
+    ],
+    "eitaa_last_success_at": "2026-11-02T22:18:10.749283+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-02T22:18:10.772826+03:30",
+    "eitaa_message_id": 179688087,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2063
+    ],
+    "group_last_success_at": "2026-11-02T22:18:11.205984+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-02T22:18:11.229274+03:30",
+    "group_message_id": 2063,
+    "published_at": "2026-11-02T22:18:11.252009+03:30"
   }
 }

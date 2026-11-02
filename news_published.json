@@ -27614,5 +27614,29 @@
     "group_message_id": 2061,
     "fully_published": true,
     "last_checked_at": "2026-11-02T18:14:48.870421+00:00"
+  },
+  "78298e00e1f08faee3ae97f88d3efcc7a5e781607671efe8d5e7d423301b6116": {
+    "title": "پیش بینی بورس فردا سه شنبه ۱۲ آبان ۱۴۰۵/ شانس کدام نمادها بیشتر است؟/ احتمال بازگشت تقاضا افزایش یافت",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305902-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%81%D8%B1%D8%AF%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B4%D8%A7%D9%86%D8%B3-%DA%A9%D8%AF%D8%A7%D9%85-%D9%86%D9%85%D8%A7%D8%AF%D9%87%D8%A7-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
+    "telegram_message_ids": [
+      2314
+    ],
+    "eitaa_message_ids": [
+      179688077
+    ],
+    "group_message_ids": [
+      2062
+    ],
+    "content_hash": "e531e0736e9712dae8ebd74c0e33df4c3e510870295999a67b52bb34238d4b99",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T18:48:06.104206+00:00",
+    "telegram_message_id": 2314,
+    "eitaa_last_sent_at": "2026-11-02T18:48:07.231926+00:00",
+    "eitaa_message_id": 179688077,
+    "group_last_sent_at": "2026-11-02T18:48:08.895376+00:00",
+    "group_message_id": 2062,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T18:48:08.938877+00:00"
   }
 }
