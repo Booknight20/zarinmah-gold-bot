@@ -27590,5 +27590,29 @@
     "group_message_id": 2059,
     "fully_published": true,
     "last_checked_at": "2026-11-02T17:44:51.748168+00:00"
+  },
+  "cdf79099d4520636844a6a29db1cd3e819b87952bdb006cfa22e9332acc4721f": {
+    "title": "آلت کوین ها میدان دار شدند/ صعود تتر به کانال ۲۷۲ هزار تومان/ بیت کوین از سقف ۷۸ هزار دلاری عقب نشست",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305896-%D8%A2%D9%84%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D9%87%D8%A7-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D8%AF%D8%A7%D8%B1-%D8%B4%D8%AF%D9%86%D8%AF-%D8%B5%D8%B9%D9%88%D8%AF-%D8%AA%D8%AA%D8%B1-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%A7%D8%B2-%D8%B3%D9%82%D9%81-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      2313
+    ],
+    "eitaa_message_ids": [
+      179684477
+    ],
+    "group_message_ids": [
+      2061
+    ],
+    "content_hash": "f1867777e37ba8f51919dc2e6c9ba851d7dc15b5827ba22502a8da144aae990c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T18:14:45.265960+00:00",
+    "telegram_message_id": 2313,
+    "eitaa_last_sent_at": "2026-11-02T18:14:46.968959+00:00",
+    "eitaa_message_id": 179684477,
+    "group_last_sent_at": "2026-11-02T18:14:48.841833+00:00",
+    "group_message_id": 2061,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T18:14:48.870421+00:00"
   }
 }
