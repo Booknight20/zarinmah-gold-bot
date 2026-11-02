@@ -75,6 +75,69 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "طلا با افزایش ۰.۷ درصدی قیمت به ۳۹۰۰ دلار رسید/ قیمت جدید طلای جهانی امروز ۱۱ آبان ۱۴۰۵",
+    "link": "https://www.khabaronline.ir/news/2296397/%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B0-%DB%B7-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D9%87-%DB%B3%DB%B9%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C",
+    "summary": "قیمت طلا پس از سقوط به پایین ترین سطح یک سال اخیر، در معاملات روز دوشنبه افزایش یافت؛ کاهش قیمت نفت نگرانی ها درباره تورم را تعدیل کرد، بر این اساس قیمت هر اونس طلای نقدی تا ساعت ۴:۴۰ به وقت گرینویچ با افزایش ۰.۷ درصدی به ۳۹۰۰ دلار و ۹۰ سنت رسید. قراردادهای آتی طلای آمریکا برای تحویل در ماه دسامبر نیز با افزایش ۰.۳ درصدی به ۳۹۰۹ دلار و ۷۰ سنت رسید.",
+    "published": "Mon, 02 Nov 2026 06:12:00 GMT",
+    "collected_at": "2026-11-02T09:45:56.120336+03:30",
+    "filter_market_score": 39,
+    "market_score": 39,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "تورم",
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "کاهش",
+      "سقوط",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مهر",
     "title": "نرخ ارزهای مرجع در مرکز مبادله؛ دوشنبه ۱۱ آبان ۱۴۰۵",
     "link": "https://www.mehrnews.com/news/6997021/%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%AC%D8%B9-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
@@ -954,6 +1017,55 @@
       "ریزش",
       "کاهش",
       "افت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "بازگشت طلای جهانی به مسیر صعودی",
+    "link": "https://www.isna.ir/news/1405081106803/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%85%D8%B3%DB%8C%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C",
+    "summary": "قیمت طلا در معاملات روز دوشنبه بازار جهانی، تحت تاثیر کاهش قیمت نفت و تعدیل نگرانی ها درباره تورم، افزایش یافت و بخشی از افت شدید معاملات جمعه را جبران کرد.",
+    "published": "Mon, 02 Nov 2026 06:10:44 GMT",
+    "collected_at": "2026-11-02T09:45:34.879749+03:30",
+    "filter_market_score": 26,
+    "market_score": 26,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی"
+      ]
+    },
+    "driver_matches": [
+      "تورم",
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "صعود",
+      "افزایش",
+      "کاهش",
+      "افت",
+      "قیمت",
+      "معاملات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2046,6 +2158,48 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "نفت ریزش کرد/ هر بشکه نفت برنت ۱۰۹ دلار شد",
+    "link": "https://www.khabaronline.ir/news/2296367/%D9%86%D9%81%D8%AA-%D8%B1%DB%8C%D8%B2%D8%B4-%DA%A9%D8%B1%D8%AF-%D9%87%D8%B1-%D8%A8%D8%B4%DA%A9%D9%87-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%DB%B1%DB%B0%DB%B9-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF",
+    "summary": "قیمت نفت برنت پس از بازگشایی بازارهای جهانی ریزش کرد و به محدوده ۱۰۹ دلار و ۹۵ سنت بازگشت.",
+    "published": "Mon, 02 Nov 2026 05:54:00 GMT",
+    "collected_at": "2026-11-02T09:45:56.120360+03:30",
+    "filter_market_score": 16,
+    "market_score": 16,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "ریزش",
+      "قیمت",
+      "بازگشایی"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "بازگشت بورس به کف 19روزه",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305510-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%DA%A9%D9%81-%D8%B1%D9%88%D8%B2%D9%87",
@@ -2528,48 +2682,6 @@
       "نرخ",
       "افزایش",
       "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "اول تورم را مهار کنید ، بعدا در باره افزایش یارانه تصمیم بگیرید",
-    "link": "https://www.khabaronline.ir/news/2295788/%D8%A7%D9%88%D9%84-%D8%AA%D9%88%D8%B1%D9%85-%D8%B1%D8%A7-%D9%85%D9%87%D8%A7%D8%B1-%DA%A9%D9%86%DB%8C%D8%AF-%D8%A8%D8%B9%D8%AF%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D8%B1%D8%A7%D9%86%D9%87-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%A8%DA%AF%DB%8C%D8%B1%DB%8C%D8%AF",
-    "summary": "افزایش مبلغ کالابرگ نزدیک به ۴۰ میلیون نفر از خانوارهای مشمول در هفته های اخیر، اقدامی «لازم»، مثبت و قابل تقدیر از سوی دولت محترم و در جهت حمایت از معیشت مردم است؛ اما در شرایطی که تورم مستمر، افزایش نرخ ارز و گرانی کالاهای اساسی، قدرت خرید خانوارها را به شدت تحت تأثیر قرار داده، همچنان این افزایش «ناکافی» بوده و ضرورت تقویت حمایت های معیشتی و بازنگری در مبلغ کالابرگ پابرجاست.",
-    "published": "Sun, 01 Nov 2026 04:20:00 GMT",
-    "collected_at": "2026-11-01T08:14:27.706561+03:30",
-    "filter_market_score": 14,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "driver_matches": [
-      "تورم"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "تصمیم",
-      "نرخ",
-      "حمایت",
-      "داده"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3522,76 +3634,6 @@
     "filter_applied": true
   },
   {
-    "source": "مهر",
-    "title": "برنامه آخرین روز مسابقات کشتی؛ شانس یک طلا و ۳ برنز برای آزادکاران",
-    "link": "https://www.mehrnews.com/news/6995834/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%B4%D8%A7%D9%86%D8%B3-%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%DB%B3-%D8%A8%D8%B1%D9%86%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF%DA%A9%D8%A7%D8%B1%D8%A7%D9%86",
-    "summary": "در آخرین روز مسابقات کشتی آزاد قهرمانی جهان ۲۰۲۶ آزادکاران ایران در چهار وزن پایانی برای کسب یک مدال طلا و ۳ برنز باید به مصاف رقبای خود بروند.",
-    "published": "Sun, 01 Nov 2026 04:25:35 GMT",
-    "collected_at": "2026-11-01T08:14:17.270617+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "۶۱ میلیون دلار کالا از لرستان صادر شد",
-    "link": "https://www.mehrnews.com/news/6995771/%DB%B6%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B4%D8%AF",
-    "summary": "خرم آباد - مدیرکل گمرک لرستان، گفت: طی شش ماهه ابتدایی امسال، ۶۱ میلیون دلار کالا از این استان صادر شده است.",
-    "published": "Sun, 01 Nov 2026 04:38:00 GMT",
-    "collected_at": "2026-11-01T08:14:17.270508+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "از بوئینگ مسافربری تا سوخت رسان جنگی؛ معامله بزرگ هند با تل آویو",
     "link": "https://www.isna.ir/news/1405081006258/%D8%A7%D8%B2-%D8%A8%D9%88%D8%A6%DB%8C%D9%86%DA%AF-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D8%A8%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%B3%D9%88%D8%AE%D8%AA-%D8%B1%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%DA%AF%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%87%D9%86%D8%AF-%D8%A8%D8%A7-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88",
@@ -4067,6 +4109,39 @@
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "افشاگری آسوشیتدپرس از تاکتیک عملیاتی ایران در حمله به پایگاه های آمریکا در خلیج فارس",
+    "link": "https://www.isna.ir/news/1405081106792/%D8%A7%D9%81%D8%B4%D8%A7%DA%AF%D8%B1%DB%8C-%D8%A2%D8%B3%D9%88%D8%B4%DB%8C%D8%AA%D8%AF%D9%BE%D8%B1%D8%B3-%D8%A7%D8%B2-%D8%AA%D8%A7%DA%A9%D8%AA%DB%8C%DA%A9-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C",
+    "summary": "حملات ایران به بیش از ۲۴ پایگاه آمریکا در خاورمیانه، پیش از آنکه هواپیماها و ساختمان ها را هدف قرار دهد، بر سامانه های هشدار زودهنگام متمرکز بود؛ اقدامی که منجر به خساراتی به ارزش میلیاردها دلار به تجهیزات شد.",
+    "published": "Mon, 02 Nov 2026 06:03:10 GMT",
+    "collected_at": "2026-11-02T09:45:34.879883+03:30",
+    "filter_market_score": 5,
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "هدف"
+    ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },

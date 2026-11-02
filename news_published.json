@@ -26078,5 +26078,101 @@
     "group_message_id": 1965,
     "fully_published": true,
     "last_checked_at": "2026-11-02T05:48:44.852904+00:00"
+  },
+  "c3c6b2abaf9b1b8603a9d31ffb425351c1f6038b852d992e59d6584a4de693f1": {
+    "title": "بازگشت طلای جهانی به مسیر صعودی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081106803/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%85%D8%B3%DB%8C%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C",
+    "telegram_message_ids": [
+      2222
+    ],
+    "eitaa_message_ids": [
+      179558502
+    ],
+    "group_message_ids": [
+      1970
+    ],
+    "content_hash": "ff4e2af4778b52d5e65e5214079b359ec0087a355471414ea3ddcbc959781c87",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T06:16:22.903348+00:00",
+    "telegram_message_id": 2222,
+    "eitaa_last_sent_at": "2026-11-02T06:16:24.134465+00:00",
+    "eitaa_message_id": 179558502,
+    "group_last_sent_at": "2026-11-02T06:16:25.723701+00:00",
+    "group_message_id": 1970,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T06:16:25.754118+00:00"
+  },
+  "d2fda262c4e92b1590ed0f4b7c1f13a42ab5e44f501351054c7b76a722e1de90": {
+    "title": "افشاگری آسوشیتدپرس از تاکتیک عملیاتی ایران در حمله به پایگاه های آمریکا در خلیج فارس",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081106792/%D8%A7%D9%81%D8%B4%D8%A7%DA%AF%D8%B1%DB%8C-%D8%A2%D8%B3%D9%88%D8%B4%DB%8C%D8%AA%D8%AF%D9%BE%D8%B1%D8%B3-%D8%A7%D8%B2-%D8%AA%D8%A7%DA%A9%D8%AA%DB%8C%DA%A9-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      2223
+    ],
+    "eitaa_message_ids": [
+      179558514
+    ],
+    "group_message_ids": [
+      1971
+    ],
+    "content_hash": "fbdef47fb02c2f490c60548ebc9215709482e58b9e5e75916966a0615b9c615b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T06:16:27.345170+00:00",
+    "telegram_message_id": 2223,
+    "eitaa_last_sent_at": "2026-11-02T06:16:28.302095+00:00",
+    "eitaa_message_id": 179558514,
+    "group_last_sent_at": "2026-11-02T06:16:29.874713+00:00",
+    "group_message_id": 1971,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T06:16:29.904963+00:00"
+  },
+  "612484fd325237667b48f2c8fce42bd317b19c0062558bfba51703c1470706e8": {
+    "title": "طلا با افزایش ۰.۷ درصدی قیمت به ۳۹۰۰ دلار رسید/ قیمت جدید طلای جهانی امروز ۱۱ آبان ۱۴۰۵",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296397/%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B0-%DB%B7-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D9%87-%DB%B3%DB%B9%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      2224
+    ],
+    "eitaa_message_ids": [
+      179558523
+    ],
+    "group_message_ids": [
+      1972
+    ],
+    "content_hash": "367eaefdeb5cd05f2596ff51c990bba850b76f2ac91f3650d901d2c3ef242e77",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T06:16:31.540005+00:00",
+    "telegram_message_id": 2224,
+    "eitaa_last_sent_at": "2026-11-02T06:16:32.757302+00:00",
+    "eitaa_message_id": 179558523,
+    "group_last_sent_at": "2026-11-02T06:16:34.342478+00:00",
+    "group_message_id": 1972,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T06:16:34.372895+00:00"
+  },
+  "70e0ef2966552fadfca515172c5586aa5d6f746b7e60f4ffc1e8a6a077a2ad83": {
+    "title": "نفت ریزش کرد/ هر بشکه نفت برنت ۱۰۹ دلار شد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296367/%D9%86%D9%81%D8%AA-%D8%B1%DB%8C%D8%B2%D8%B4-%DA%A9%D8%B1%D8%AF-%D9%87%D8%B1-%D8%A8%D8%B4%DA%A9%D9%87-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%DB%B1%DB%B0%DB%B9-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2225
+    ],
+    "eitaa_message_ids": [
+      179558532
+    ],
+    "group_message_ids": [
+      1973
+    ],
+    "content_hash": "3e70ec48634888bab7fff00079ebb8230bae4b86721b4c80dfb215d4a4f8bbd0",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T06:16:35.977562+00:00",
+    "telegram_message_id": 2225,
+    "eitaa_last_sent_at": "2026-11-02T06:16:37.168548+00:00",
+    "eitaa_message_id": 179558532,
+    "group_last_sent_at": "2026-11-02T06:16:38.744285+00:00",
+    "group_message_id": 1973,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T06:16:38.774789+00:00"
   }
 }
