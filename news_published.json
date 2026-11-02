@@ -27638,5 +27638,29 @@
     "group_message_id": 2062,
     "fully_published": true,
     "last_checked_at": "2026-11-02T18:48:08.938877+00:00"
+  },
+  "3ac6c5215fd5700d47c8dd6e773d28543e4113ee0f49987fff0453813036aff0": {
+    "title": "قیمت سکه امروز ۱۱ آبان ۱۴۰۵ در زمان بسته شدن بازار/ ربع سکه ۷۵ میلیون و ۴۰۰ هزار تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296723/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%DB%B7%DB%B5",
+    "telegram_message_ids": [
+      2316
+    ],
+    "eitaa_message_ids": [
+      179691263
+    ],
+    "group_message_ids": [
+      2064
+    ],
+    "content_hash": "66a7a7ea49b807a03b823aca1e7f0d451c87a0e20de03187205dc160003d4b78",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T19:18:09.661572+00:00",
+    "telegram_message_id": 2316,
+    "eitaa_last_sent_at": "2026-11-02T19:18:10.997081+00:00",
+    "eitaa_message_id": 179691263,
+    "group_last_sent_at": "2026-11-02T19:18:12.677914+00:00",
+    "group_message_id": 2064,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T19:18:12.722897+00:00"
   }
 }
