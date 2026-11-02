@@ -25694,5 +25694,53 @@
     "group_message_id": 1949,
     "fully_published": true,
     "last_checked_at": "2026-11-02T03:44:48.685058+00:00"
+  },
+  "07d2273d4d8e3e20cb75d5d4fe22d59c36005455e432bc044531d1b95a6fe967": {
+    "title": "زارع بالاتر از از سایتی اف و جان اسمیت!",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081006468/%D8%B2%D8%A7%D8%B1%D8%B9-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%A7%D8%B2-%D8%B3%D8%A7%DB%8C%D8%AA%DB%8C-%D8%A7%D9%81-%D9%88-%D8%AC%D8%A7%D9%86-%D8%A7%D8%B3%D9%85%DB%8C%D8%AA",
+    "telegram_message_ids": [
+      2202
+    ],
+    "eitaa_message_ids": [
+      179539652
+    ],
+    "group_message_ids": [
+      1950
+    ],
+    "content_hash": "a6d1ac2d58b770fb8f578416cbac6814c58e341918c016db061f26c81be8180d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T04:17:30.225419+00:00",
+    "telegram_message_id": 2202,
+    "eitaa_last_sent_at": "2026-11-02T04:17:31.819171+00:00",
+    "eitaa_message_id": 179539652,
+    "group_last_sent_at": "2026-11-02T04:17:33.725752+00:00",
+    "group_message_id": 1950,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T04:17:33.764393+00:00"
+  },
+  "8daa84bb54af2a49336f340ae35881b9a4eec0e26d58dead700502d876f8da3e": {
+    "title": "دو میلیارد دلار واردات کالای قاچاق در بازار موبایل/ کاهش ۶۰ درصدی سهم واردات موبایل مسافری",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305730-%D8%AF%D9%88-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%DA%A9%D8%A7%D9%84%D8%A7%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%B3%D9%87%D9%85-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%DB%8C",
+    "telegram_message_ids": [
+      2203
+    ],
+    "eitaa_message_ids": [
+      179539663
+    ],
+    "group_message_ids": [
+      1951
+    ],
+    "content_hash": "8e5189feeff861e2da9c255493fe5c7bfe017c056319e29b371783e8cc1a5c1f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T04:17:35.526395+00:00",
+    "telegram_message_id": 2203,
+    "eitaa_last_sent_at": "2026-11-02T04:17:37.188700+00:00",
+    "eitaa_message_id": 179539663,
+    "group_last_sent_at": "2026-11-02T04:17:38.886408+00:00",
+    "group_message_id": 1951,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T04:17:38.924828+00:00"
   }
 }
