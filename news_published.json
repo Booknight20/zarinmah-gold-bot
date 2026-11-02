@@ -25670,5 +25670,29 @@
     "group_message_id": 1948,
     "fully_published": true,
     "last_checked_at": "2026-11-02T00:07:48.950845+00:00"
+  },
+  "e931b1d14a7f240709129f440074cf18dc35bcd3d466f9c442d04c1ee0b06e5f": {
+    "title": "عرضه سیمان در بورس کالا اجرای طرح اختلاط بتن را با مشکل مواجه می کند",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081106694/%D8%B9%D8%B1%D8%B6%D9%87-%D8%B3%DB%8C%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D8%B7-%D8%A8%D8%AA%D9%86-%D8%B1%D8%A7-%D8%A8%D8%A7-%D9%85%D8%B4%DA%A9%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87",
+    "telegram_message_ids": [
+      2201
+    ],
+    "eitaa_message_ids": [
+      179537560
+    ],
+    "group_message_ids": [
+      1949
+    ],
+    "content_hash": "4baee49e5273344ef0d1972de204896faea6dcf0b4efd9a23ad0b41ec4c43864",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T03:44:45.307980+00:00",
+    "telegram_message_id": 2201,
+    "eitaa_last_sent_at": "2026-11-02T03:44:46.925073+00:00",
+    "eitaa_message_id": 179537560,
+    "group_last_sent_at": "2026-11-02T03:44:48.661353+00:00",
+    "group_message_id": 1949,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T03:44:48.685058+00:00"
   }
 }
