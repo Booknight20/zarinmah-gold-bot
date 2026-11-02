@@ -647,6 +647,82 @@
     "telegram_preview": "📰 صعود قیمت طلا و نقره در بازارهای جهانی؛ بازگشت اونس طلا به 3900 دلار\n\nتازه ترین داده های بازارهای جهانی نشان می دهد بهای هر اونس طلا و نقره با افزایش مواجه شده و به ترتیب به ۳۹۰۰ و نزدیک ۵۰ دلار رسیده اند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6997011/%D8%B5%D8%B9%D9%88%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-3900"
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "پیش بینی قیمت طلا، سکه و دلار امروز دوشنبه ۱۱ آبان ۱۴۰۵/ طلا به سمت کانال ۲۶ میلیون تومان خیز برمی دارد؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305752-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D8%B3%D9%85%D8%AA-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%AE%DB%8C%D8%B2-%D8%A8%D8%B1%D9%85%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF",
+    "summary": "نخستین مقاومت طلای ۱۸ عیار در محدوده ۲۵ میلیون و ۷۰۰ هزار تا ۲۵ میلیون و ۸۰۰ هزار تومان قرار دارد و عبور از این منطقه می تواند مسیر حرکت قیمت به سمت مرز روانی ۲۶ میلیون تومان را هموار کند.",
+    "published": "Mon, 02 Nov 2026 05:26:31 +0000",
+    "collected_at": "2026-11-02T09:17:50.977387+03:30",
+    "filter_market_score": 28,
+    "market_score": 36,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "پیش‌بینی",
+      "پیش بینی",
+      "قیمت",
+      "مقاومت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "طلای ۱۸ عیار",
+      "طلای 18 عیار"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "نخستین مقاومت طلای ۱۸ عیار در محدوده ۲۵ میلیون و ۷۰۰ هزار تا ۲۵ میلیون و ۸۰۰ هزار تومان قرار دارد و عبور از این منطقه می تواند مسیر حرکت قیمت به سمت مرز روانی ۲۶ میلیون تومان را هموار کند.",
+    "telegram_preview": "📰 پیش بینی قیمت طلا، سکه و دلار امروز دوشنبه ۱۱ آبان ۱۴۰۵/ طلا به سمت کانال ۲۶ میلیون تومان خیز برمی دارد؟\n\nنخستین مقاومت طلای ۱۸ عیار در محدوده ۲۵ میلیون و ۷۰۰ هزار تا ۲۵ میلیون و ۸۰۰ هزار تومان قرار دارد و عبور از این منطقه می تواند مسیر حرکت قیمت به سمت مرز روانی ۲۶ میلیون تومان را هموار کند.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305752-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D8%B3%D9%85%D8%AA-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%AE%DB%8C%D8%B2-%D8%A8%D8%B1%D9%85%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF"
+  },
+  {
     "source": "مشرق",
     "title": "قیمت طلا و سکه امروز ۱۰ آبان؛ سکه ۲.۵ میلیون تومان گران شد",
     "link": "https://www.mashreghnews.ir/news/1849682/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B0-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%DB%B2-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
@@ -800,6 +876,83 @@
     "duplicate_count": 1,
     "full_text": "بررسی عملکرد بازارهای مالی نشان می دهد که اونس طلا و نقره، دلار و طلای ۱۸ عیار در هفته منتهی به آبان ماه روندی نزولی را تجربه کردند.",
     "telegram_preview": "📰 افت هم زمان طلا، نقره و دلار در بازارهای جهانی و داخلی\n\nبررسی عملکرد بازارهای مالی نشان می دهد که اونس طلا و نقره، دلار و طلای ۱۸ عیار در هفته منتهی به آبان ماه روندی نزولی را تجربه کردند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6995909/%D8%A7%D9%81%D8%AA-%D9%87%D9%85-%D8%B2%D9%85%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%88-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C"
+  },
+  {
+    "source": "مشرق",
+    "title": "قیمت دلار مبادله ای امروز دوشنبه ۱۱ آبان ۱۴۰۵",
+    "link": "https://www.mashreghnews.ir/news/1849856/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "summary": "مرکز مبادله ارز و طلای ایران نرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوآن و روبل را برای روز دوشنبه یازدهم آبان ماه اعلام کرد.",
+    "published": "Mon, 02 Nov 2026 05:44:49 GMT",
+    "collected_at": "2026-11-02T09:18:05.213807+03:30",
+    "filter_market_score": 31,
+    "market_score": 32,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو",
+        "درهم",
+        "مرکز مبادله"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو",
+        "درهم",
+        "مرکز مبادله"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو",
+      "درهم",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "مرکز مبادله ارز و طلای ایران نرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوآن و روبل را برای روز دوشنبه یازدهم آبان ماه اعلام کرد.",
+    "telegram_preview": "📰 قیمت دلار مبادله ای امروز دوشنبه ۱۱ آبان ۱۴۰۵\n\nمرکز مبادله ارز و طلای ایران نرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوآن و روبل را برای روز دوشنبه یازدهم آبان ماه اعلام کرد.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1849856/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5"
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -4114,6 +4267,64 @@
     "telegram_preview": "📰 اسحاقی: باید مشخص شود ارز به چه شرکت های دارویی اختصاص یافته است\n\nسخنگوی کمیسیون بهداشت و درمان مجلس گفت: باید مشخص شود ارز تامین شده به چه شرکت هایی اختصاص یافته و آیا آنها به وظایف و تعهدات خود، در قبال واردات دارو عمل کرده اند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6996718/%D8%A7%D8%B3%D8%AD%D8%A7%D9%82%DB%8C-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%85%D8%B4%D8%AE%D8%B5-%D8%B4%D9%88%D8%AF-%D8%A7%D8%B1%D8%B2-%D8%A8%D9%87-%DA%86%D9%87-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B1%D9%88%DB%8C%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%DB%8C%D8%A7%D9%81%D8%AA%D9%87"
   },
   {
+    "source": "مهر",
+    "title": "جهش صادرات کره جنوبی به رکورد ۵۰ ساله رسید؛ هوش مصنوعی موتور رشد تجارت",
+    "link": "https://www.mehrnews.com/news/6996647/%D8%AC%D9%87%D8%B4-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%A8%D9%87-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%DB%B5%DB%B0-%D8%B3%D8%A7%D9%84%D9%87-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%85%D9%88%D8%AA%D9%88%D8%B1",
+    "summary": "صادرات کره جنوبی در اکتبر با رشد ۹۳.۷ درصدی و تحت تأثیر تقاضای جهانی برای تراشه های هوش مصنوعی، به ۱۱۵.۲۸ میلیارد دلار رسید و بالاترین رشد ۵۰ سال اخیر را ثبت کرد.",
+    "published": "Mon, 02 Nov 2026 05:41:39 GMT",
+    "collected_at": "2026-11-02T09:17:37.545563+03:30",
+    "filter_market_score": 11,
+    "market_score": 16,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد",
+      "جهش",
+      "رکورد",
+      "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "صادرات کره جنوبی در اکتبر با رشد ۹۳.۷ درصدی و تحت تأثیر تقاضای جهانی برای تراشه های هوش مصنوعی، به ۱۱۵.۲۸ میلیارد دلار رسید و بالاترین رشد ۵۰ سال اخیر را ثبت کرد.",
+    "telegram_preview": "📰 جهش صادرات کره جنوبی به رکورد ۵۰ ساله رسید؛ هوش مصنوعی موتور رشد تجارت\n\nصادرات کره جنوبی در اکتبر با رشد ۹۳.۷ درصدی و تحت تأثیر تقاضای جهانی برای تراشه های هوش مصنوعی، به ۱۱۵.۲۸ میلیارد دلار رسید و بالاترین رشد ۵۰ سال اخیر را ثبت کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6996647/%D8%AC%D9%87%D8%B4-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%A8%D9%87-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%DB%B5%DB%B0-%D8%B3%D8%A7%D9%84%D9%87-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%85%D9%88%D8%AA%D9%88%D8%B1"
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "معمای گشایش و توقف واردات خودرو",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-17/4305664-%D9%85%D8%B9%D9%85%D8%A7%DB%8C-%DA%AF%D8%B4%D8%A7%DB%8C%D8%B4-%D8%AA%D9%88%D9%82%D9%81-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
@@ -4430,110 +4641,6 @@
     "duplicate_count": 1,
     "full_text": "خرم آباد - مدیرکل گمرک لرستان، گفت: طی شش ماهه ابتدایی امسال، ۶۱ میلیون دلار کالا از این استان صادر شده است.",
     "telegram_preview": "📰 ۶۱ میلیون دلار کالا از لرستان صادر شد\n\nخرم آباد - مدیرکل گمرک لرستان، گفت: طی شش ماهه ابتدایی امسال، ۶۱ میلیون دلار کالا از این استان صادر شده است.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6995771/%DB%B6%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B4%D8%AF"
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "اتهام آمریکا علیه کره شمالی در پرونده سرقت سایبری ۶.۳ میلیارد دلاری",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305490-%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
-    "summary": "اداره تحقیقات فدرال آمریکا (اف بی آی) کره شمالی را مسئول حمله سایبری بی سابقه به صرافی رمزارز بایننس دانست که در جریان آن دارایی هایی به ارزش ۶.۳ میلیارد دلار به سرقت رفت.",
-    "published": "Sun, 01 Nov 2026 03:09:09 +0000",
-    "collected_at": "2026-11-01T07:15:38.975086+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "اداره تحقیقات فدرال آمریکا (اف بی آی) کره شمالی را مسئول حمله سایبری بی سابقه به صرافی رمزارز بایننس دانست که در جریان آن دارایی هایی به ارزش ۶.۳ میلیارد دلار به سرقت رفت.",
-    "telegram_preview": "📰 اتهام آمریکا علیه کره شمالی در پرونده سرقت سایبری ۶.۳ میلیارد دلاری\n\nاداره تحقیقات فدرال آمریکا (اف بی آی) کره شمالی را مسئول حمله سایبری بی سابقه به صرافی رمزارز بایننس دانست که در جریان آن دارایی هایی به ارزش ۶.۳ میلیارد دلار به سرقت رفت.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305490-%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C"
-  },
-  {
-    "source": "مهر",
-    "title": "اف بی آی کره شمالی را به سرقت بیش از ۶ میلیارد دلار رمزارز متهم کرد",
-    "link": "https://www.mehrnews.com/news/6995829/%D8%A7%D9%81-%D8%A8%DB%8C-%D8%A2%DB%8C-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2-%D9%85%D8%AA%D9%87%D9%85",
-    "summary": "اداره تحقیقات فدرال آمریکا (اف بی آی) مدعی شد هکرهای کره شمالی بیش از ۶ میلیارد دلار رمزارز از صرافی بایننس سرقت کردند.",
-    "published": "Sun, 01 Nov 2026 02:38:27 GMT",
-    "collected_at": "2026-11-01T06:17:27.542728+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "اداره تحقیقات فدرال آمریکا (اف بی آی) مدعی شد هکرهای کره شمالی بیش از ۶ میلیارد دلار رمزارز از صرافی بایننس سرقت کردند.",
-    "telegram_preview": "📰 اف بی آی کره شمالی را به سرقت بیش از ۶ میلیارد دلار رمزارز متهم کرد\n\nاداره تحقیقات فدرال آمریکا (اف بی آی) مدعی شد هکرهای کره شمالی بیش از ۶ میلیارد دلار رمزارز از صرافی بایننس سرقت کردند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6995829/%D8%A7%D9%81-%D8%A8%DB%8C-%D8%A2%DB%8C-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2-%D9%85%D8%AA%D9%87%D9%85"
   },
   {
     "source": "ایسنا",
@@ -5009,110 +5116,6 @@
     "duplicate_count": 1,
     "full_text": "دنیای اقتصاد: انتخابات میان دوره ای آمریکا، انتشار مجموعه ای از گزارش های مالی شرکت ها و اعلام آمار ماهانه اشتغال، هفته آینده بازار سهام این کشور را در معرض آزمونی تازه قرار می دهد؛ بازاری که پس از چندین عقب نشینی در معاملات مرتبط با هوش مصنوعی، با تردیدهای فزاینده سرمایه گذاران روبه رو شده است.",
     "telegram_preview": "📰 گزارش هالووینی از وال استریت\n\nدنیای اقتصاد: انتخابات میان دوره ای آمریکا، انتشار مجموعه ای از گزارش های مالی شرکت ها و اعلام آمار ماهانه اشتغال، هفته آینده بازار سهام این کشور را در معرض آزمونی تازه قرار می دهد؛ بازاری که پس از چندین عقب نشینی در معاملات مرتبط با هوش مصنوعی، با تردیدهای فزاینده سرمایه گذاران روبه رو شده است.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%86%DB%8C%D8%A7-5/4305504-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D9%87%D8%A7%D9%84%D9%88%D9%88%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2-%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%DB%8C%D8%AA"
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "مقصران گرانی خودرو ؛ تحریم و کمبود ارز در صدر دلایل",
-    "link": "https://www.khabaronline.ir/news/2295781/%D9%85%D9%82%D8%B5%D8%B1%D8%A7%D9%86-%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%88-%DA%A9%D9%85%D8%A8%D9%88%D8%AF-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%B5%D8%AF%D8%B1-%D8%AF%D9%84%D8%A7%DB%8C%D9%84",
-    "summary": "گرانی خودرو به یکی از مسائل همیشگی اقتصاد ایران تبدیل شده است؛ روندی که با وجود اعتراض مردم متوقف نمی شود.",
-    "published": "Sun, 01 Nov 2026 03:02:00 GMT",
-    "collected_at": "2026-11-01T06:33:29.943516+03:30",
-    "filter_market_score": 9,
-    "market_score": 13,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "تحریم"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "تحریم"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "گرانی خودرو به یکی از مسائل همیشگی اقتصاد ایران تبدیل شده است؛ روندی که با وجود اعتراض مردم متوقف نمی شود.",
-    "telegram_preview": "📰 مقصران گرانی خودرو ؛ تحریم و کمبود ارز در صدر دلایل\n\nگرانی خودرو به یکی از مسائل همیشگی اقتصاد ایران تبدیل شده است؛ روندی که با وجود اعتراض مردم متوقف نمی شود.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2295781/%D9%85%D9%82%D8%B5%D8%B1%D8%A7%D9%86-%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%88-%DA%A9%D9%85%D8%A8%D9%88%D8%AF-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%B5%D8%AF%D8%B1-%D8%AF%D9%84%D8%A7%DB%8C%D9%84"
-  },
-  {
-    "source": "ایسنا",
-    "title": "برنامه روز چهارم کشتی آزاد قهرمانی جهان/ شانس یک طلا و ۳ برنز برای ایران",
-    "link": "https://www.isna.ir/news/1405080905781/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%A7%D9%86%D8%B3-%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%DB%B3-%D8%A8%D8%B1%D9%86%D8%B2",
-    "summary": "آزادکاران ایران در روز پایانی رقابت های قهرمانی جهان به مصاف رقبای خود می روند.",
-    "published": "Sun, 01 Nov 2026 02:30:00 GMT",
-    "collected_at": "2026-11-01T06:17:24.690784+03:30",
-    "filter_market_score": 6,
-    "market_score": 13,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "آزادکاران ایران در روز پایانی رقابت های قهرمانی جهان به مصاف رقبای خود می روند.",
-    "telegram_preview": "📰 برنامه روز چهارم کشتی آزاد قهرمانی جهان/ شانس یک طلا و ۳ برنز برای ایران\n\nآزادکاران ایران در روز پایانی رقابت های قهرمانی جهان به مصاف رقبای خود می روند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405080905781/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%A7%D9%86%D8%B3-%DB%8C%DA%A9-%D8%B7%D9%84%D8%A7-%D9%88-%DB%B3-%D8%A8%D8%B1%D9%86%D8%B2"
   },
   {
     "source": "ایسنا",
@@ -6531,53 +6534,6 @@
     "duplicate_count": 1,
     "full_text": "دانشجویان دانشگاه صنعتی امیرکبیر در سی ویکمین المپیاد علمی دانشجویی کشور در سال ۱۴۰۵، موفق به کسب سه مدال شامل یک مدال طلا و دو مدال برنز و مجموعا ۲۲ نفر حائز رتبه تا مرتبه ۱۵ شدند.",
     "telegram_preview": "📰 درخشش دانشجویان امیرکبیر در المپیاد علمی کشور؛ کسب ۳ مدال و ۲۲ رتبه\n\nدانشجویان دانشگاه صنعتی امیرکبیر در سی ویکمین المپیاد علمی دانشجویی کشور در سال ۱۴۰۵، موفق به کسب سه مدال شامل یک مدال طلا و دو مدال برنز و مجموعا ۲۲ نفر حائز رتبه تا مرتبه ۱۵ شدند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6995948/%D8%AF%D8%B1%D8%AE%D8%B4%D8%B4-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%A7%D9%85%DB%8C%D8%B1%DA%A9%D8%A8%DB%8C%D8%B1-%D8%AF%D8%B1-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%D8%B9%D9%84%D9%85%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%DA%A9%D8%B3%D8%A8-%DB%B3-%D9%85%D8%AF%D8%A7%D9%84-%D9%88-%DB%B2%DB%B2"
-  },
-  {
-    "source": "ایسنا",
-    "title": "اف بی آی رسما هک بایننس را به کره شمالی نسبت داد",
-    "link": "https://www.isna.ir/news/1405081005926/%D8%A7%D9%81-%D8%A8%DB%8C-%D8%A2%DB%8C-%D8%B1%D8%B3%D9%85%D8%A7-%D9%87%DA%A9-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%B1%D8%A7-%D8%A8%D9%87-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D9%86%D8%B3%D8%A8%D8%AA-%D8%AF%D8%A7%D8%AF",
-    "summary": "مقامات اف بی آی روز یکشنبه اعلام کردند که میان کره شمالی و سرقت ۶ میلیارد دلار از صرافی رمزارزی بایننس ارتباطی وجود دارد.",
-    "published": "Sun, 01 Nov 2026 00:05:19 GMT",
-    "collected_at": "2026-11-01T03:44:13.395664+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "مقامات اف بی آی روز یکشنبه اعلام کردند که میان کره شمالی و سرقت ۶ میلیارد دلار از صرافی رمزارزی بایننس ارتباطی وجود دارد.",
-    "telegram_preview": "📰 اف بی آی رسما هک بایننس را به کره شمالی نسبت داد\n\nمقامات اف بی آی روز یکشنبه اعلام کردند که میان کره شمالی و سرقت ۶ میلیارد دلار از صرافی رمزارزی بایننس ارتباطی وجود دارد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081005926/%D8%A7%D9%81-%D8%A8%DB%8C-%D8%A2%DB%8C-%D8%B1%D8%B3%D9%85%D8%A7-%D9%87%DA%A9-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%B1%D8%A7-%D8%A8%D9%87-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D9%86%D8%B3%D8%A8%D8%AA-%D8%AF%D8%A7%D8%AF"
   },
   {
     "source": "مهر",
