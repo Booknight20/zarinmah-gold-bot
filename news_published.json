@@ -26174,5 +26174,53 @@
     "group_message_id": 1973,
     "fully_published": true,
     "last_checked_at": "2026-11-02T06:16:38.774789+00:00"
+  },
+  "97fc2cd423a2fb0bd7f7480016ffb46dc2ee0a6f08dcd76a7193c5863d1f03c3": {
+    "title": "بایننس با خروج ۳.۶۴ میلیارد دلار سرمایه روبرو شد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081106819/%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%A8%D8%A7-%D8%AE%D8%B1%D9%88%D8%AC-%DB%B3-%DB%B6%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%B1%D9%88%D8%A8%D8%B1%D9%88-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2226
+    ],
+    "eitaa_message_ids": [
+      179564089
+    ],
+    "group_message_ids": [
+      1974
+    ],
+    "content_hash": "7c8f82f58093b7894ca7a87e94789ed85229ce4784ca816c34d8a3cb175dd53a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T06:46:26.609203+00:00",
+    "telegram_message_id": 2226,
+    "eitaa_last_sent_at": "2026-11-02T06:46:27.880943+00:00",
+    "eitaa_message_id": 179564089,
+    "group_last_sent_at": "2026-11-02T06:46:29.504966+00:00",
+    "group_message_id": 1974,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T06:46:29.535447+00:00"
+  },
+  "a55b1a6b96ab0670de3fe292e4b8098b439a9dc3e791030b0b16ec6122ded7e0": {
+    "title": "بانک گلدمن ساکس: قیمت نفت در سال ۲۰۲۷ به ۱۴۰ دلار می رسد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6997138/%D8%A8%D8%A7%D9%86%DA%A9-%DA%AF%D9%84%D8%AF%D9%85%D9%86-%D8%B3%D8%A7%DA%A9%D8%B3-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84-%DB%B2%DB%B0%DB%B2%DB%B7-%D8%A8%D9%87-%DB%B1%DB%B4%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B1%D8%B3%D8%AF",
+    "telegram_message_ids": [
+      2227
+    ],
+    "eitaa_message_ids": [
+      179564097
+    ],
+    "group_message_ids": [
+      1975
+    ],
+    "content_hash": "c78a52b272cf49801843bb37f18f7dd54aa1323d7ab2f74482b1ffe8fc787789",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T06:46:31.150418+00:00",
+    "telegram_message_id": 2227,
+    "eitaa_last_sent_at": "2026-11-02T06:46:32.226834+00:00",
+    "eitaa_message_id": 179564097,
+    "group_last_sent_at": "2026-11-02T06:46:33.816652+00:00",
+    "group_message_id": 1975,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T06:46:33.847293+00:00"
   }
 }
