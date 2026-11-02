@@ -27446,5 +27446,53 @@
     "group_message_id": 2048,
     "fully_published": true,
     "last_checked_at": "2026-11-02T14:48:34.636119+00:00"
+  },
+  "4de1289b6373776e029de7890f27f6c7bf279aeb2284d1d36ed37618c26b803c": {
+    "title": "فروش طلای دست دوم در چهارمحال و بختیاری ممنوع است",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6997846/%D9%81%D8%B1%D9%88%D8%B4-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA-%D8%AF%D9%88%D9%85-%D8%AF%D8%B1-%DA%86%D9%87%D8%A7%D8%B1%D9%85%D8%AD%D8%A7%D9%84-%D9%88-%D8%A8%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C-%D9%85%D9%85%D9%86%D9%88%D8%B9-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      2302
+    ],
+    "eitaa_message_ids": [
+      179658957
+    ],
+    "group_message_ids": [
+      2050
+    ],
+    "content_hash": "bb4a4247f9d219137b3c9007d90ecc56e73704db39a9d365ba673b9213f3016c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T15:14:51.719332+00:00",
+    "telegram_message_id": 2302,
+    "eitaa_last_sent_at": "2026-11-02T15:14:53.256137+00:00",
+    "eitaa_message_id": 179658957,
+    "group_last_sent_at": "2026-11-02T15:14:54.978811+00:00",
+    "group_message_id": 2050,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T15:14:55.003068+00:00"
+  },
+  "3b40cc36527531489b65e88b3fd939ddb2f8ed88307dfcf9d88d8a5d10e39eb5": {
+    "title": "واگذاری بلوکی ایران خودرو با قیمت پارسال!",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000216/%D9%88%D8%A7%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A8%D9%84%D9%88%DA%A9%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-70b90b3c269b4b2aad13810d",
+    "telegram_message_ids": [
+      2303
+    ],
+    "eitaa_message_ids": [
+      179658966
+    ],
+    "group_message_ids": [
+      2051
+    ],
+    "content_hash": "8f2f97daee660d51119ebaa90ca2e512f46e9b8ba950d9d4fc78ccf9601cbb27",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T15:14:56.796422+00:00",
+    "telegram_message_id": 2303,
+    "eitaa_last_sent_at": "2026-11-02T15:14:58.365158+00:00",
+    "eitaa_message_id": 179658966,
+    "group_last_sent_at": "2026-11-02T15:15:00.103265+00:00",
+    "group_message_id": 2051,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T15:15:00.127691+00:00"
   }
 }
