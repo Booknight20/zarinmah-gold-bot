@@ -27110,5 +27110,125 @@
     "group_message_id": 2026,
     "fully_published": true,
     "last_checked_at": "2026-11-02T12:16:19.729268+00:00"
+  },
+  "a3d5a09ea9982ef75f6f3a549f51f4eac0d2a4c47fb5652c8d0f825d176e50c0": {
+    "title": "گرانی انرژی و مواد اولیه، نفس صنایع اروپا را گرفت",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6997708/%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D9%88-%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D9%86%D9%81%D8%B3-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B1%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA",
+    "telegram_message_ids": [
+      2282
+    ],
+    "eitaa_message_ids": [
+      179632406
+    ],
+    "group_message_ids": [
+      2030
+    ],
+    "content_hash": "e3927311fa7f5317dea6c708228f1afadf5b0e04c5bff302234ef20827d77f41",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T12:48:36.359576+00:00",
+    "telegram_message_id": 2282,
+    "eitaa_last_sent_at": "2026-11-02T12:48:38.037233+00:00",
+    "eitaa_message_id": 179632406,
+    "group_last_sent_at": "2026-11-02T12:48:39.866253+00:00",
+    "group_message_id": 2030,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T12:48:39.909563+00:00"
+  },
+  "400f416ccb86fe3489c9e2cf7c8839e2f0cc43505aab83e2610841df9bbb77f7": {
+    "title": "مسیر متفاوت بورس",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4305800-%D9%85%D8%B3%DB%8C%D8%B1-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      2283
+    ],
+    "eitaa_message_ids": [
+      179632424
+    ],
+    "group_message_ids": [
+      2031
+    ],
+    "content_hash": "06f0e416ec8bb8b8d76c3900f444f4bd10729d626b77cf641f1d6ac8b6f74a5a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T12:48:41.742262+00:00",
+    "telegram_message_id": 2283,
+    "eitaa_last_sent_at": "2026-11-02T12:48:45.119138+00:00",
+    "eitaa_message_id": 179632424,
+    "group_last_sent_at": "2026-11-02T12:48:46.877372+00:00",
+    "group_message_id": 2031,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T12:48:46.920824+00:00"
+  },
+  "71e8725d7528912c559638bc280ee04a67084ed78b7bc3da2a99686171def22d": {
+    "title": "آینده قیمت دلار و طلا در اقتصاد ایران/ پورکار: دلار در سناریوی توافق تا ۲۲۰ هزار تومان کاهش می یابد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296481/%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D9%88%D8%B1%DA%A9%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%B3%D9%86%D8%A7%D8%B1%DB%8C%D9%88%DB%8C",
+    "telegram_message_ids": [
+      2284
+    ],
+    "eitaa_message_ids": [
+      179632430
+    ],
+    "group_message_ids": [
+      2032
+    ],
+    "content_hash": "4a2707bc323fdcdbb35a24e3dd9505c07936b8e83730edc4b0ff2b788676d9a5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T12:48:48.772617+00:00",
+    "telegram_message_id": 2284,
+    "eitaa_last_sent_at": "2026-11-02T12:48:50.043072+00:00",
+    "eitaa_message_id": 179632430,
+    "group_last_sent_at": "2026-11-02T12:48:51.854456+00:00",
+    "group_message_id": 2032,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T12:48:51.897574+00:00"
+  },
+  "ca70a2756aec00001eac9fa7c4cdc08773dc466c53bf0ad1a1125b809df807b9": {
+    "title": "قیمت دلار ، یورو و انواع ارزها ظهر امروز ۱۱ آبان ۱۴۰۵/ دلار به قیمت ۲۷۳ هزار و ۵۰۰ تومان فروخته شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296468/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      2285
+    ],
+    "eitaa_message_ids": [
+      179632446
+    ],
+    "group_message_ids": [
+      2033
+    ],
+    "content_hash": "8a243a123471d603f9854be6d6b57c4b84e480d607dd2e4add012d1237facad5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T12:48:53.712347+00:00",
+    "telegram_message_id": 2285,
+    "eitaa_last_sent_at": "2026-11-02T12:48:56.145834+00:00",
+    "eitaa_message_id": 179632446,
+    "group_last_sent_at": "2026-11-02T12:48:57.970105+00:00",
+    "group_message_id": 2033,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T12:48:58.013421+00:00"
+  },
+  "0699d452c1bdeb4ef5270346db21f4dcfaead1739b05efd4ccc6449e82682d3e": {
+    "title": "خط و نشان قهرمان سنگین وزن کشتی فرنگی جهان برای المپیک",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000181/%D8%AE%D8%B7-%D9%88-%D9%86%D8%B4%D8%A7%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%B3%D9%86%DA%AF%DB%8C%D9%86%D9%88%D8%B2%D9%86-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9-b5d8ad32f5294f79baa2364a",
+    "telegram_message_ids": [
+      2286
+    ],
+    "eitaa_message_ids": [
+      179632449
+    ],
+    "group_message_ids": [
+      2034
+    ],
+    "content_hash": "869e49dfa76635602dbfce96d7bea15e8709e01f25a2d7c4157f7ac03665b9bf",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T12:48:59.824670+00:00",
+    "telegram_message_id": 2286,
+    "eitaa_last_sent_at": "2026-11-02T12:49:00.629217+00:00",
+    "eitaa_message_id": 179632449,
+    "group_last_sent_at": "2026-11-02T12:49:02.426236+00:00",
+    "group_message_id": 2034,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T12:49:02.469832+00:00"
   }
 }
