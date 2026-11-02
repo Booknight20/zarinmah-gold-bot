@@ -27518,5 +27518,29 @@
     "group_message_id": 2052,
     "fully_published": true,
     "last_checked_at": "2026-11-02T15:45:02.465964+00:00"
+  },
+  "cfc8ca44b634bf29a3dd773669f06147129a79adca761734c146b101db2b4417": {
+    "title": "رولزرویس برای بازگشت به بازار موتور هواپیما ۲.۵ میلیارد پوند سرمایه گذاری می کند",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000200/%D8%B1%D9%88%D9%84%D8%B2%D8%B1%D9%88%DB%8C%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7-%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D9%BE%D9%88%D9%86%D8%AF-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D9%85%DB%8C%DA%A9%D9%86%D8%AF-282935bff2924da69a4999a0",
+    "telegram_message_ids": [
+      2307
+    ],
+    "eitaa_message_ids": [
+      179667757
+    ],
+    "group_message_ids": [
+      2055
+    ],
+    "content_hash": "5c1e6f7746e3e0483721a67a94e3a5f06139f696c6d4f70d739c364138081d5e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T16:18:19.527070+00:00",
+    "telegram_message_id": 2307,
+    "eitaa_last_sent_at": "2026-11-02T16:18:20.755395+00:00",
+    "eitaa_message_id": 179667757,
+    "group_last_sent_at": "2026-11-02T16:18:22.360966+00:00",
+    "group_message_id": 2055,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T16:18:22.406168+00:00"
   }
 }
