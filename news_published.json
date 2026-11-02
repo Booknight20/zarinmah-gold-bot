@@ -26870,5 +26870,53 @@
     "group_message_id": 2011,
     "fully_published": true,
     "last_checked_at": "2026-11-02T10:45:10.761387+00:00"
+  },
+  "8f907a5e36a52ecd83b69ad2f9131a733c6d3bb1f91bdb0ac0f9a82f37564b7a": {
+    "title": "عقب نشینی شاخص کل بورس؛ کاهش شتاب خروج پول از بازار سهام",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000161/%D8%B9%D9%82%D8%A8%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%87%D8%B4-%D8%B4%D8%AA%D8%A7%D8%A8-%D8%AE%D8%B1%D9%88%D8%AC-%D9%BE%D9%88%D9%84-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-ac6ce6366da64e538e8ee401",
+    "telegram_message_ids": [
+      2265
+    ],
+    "eitaa_message_ids": [
+      179616621
+    ],
+    "group_message_ids": [
+      2013
+    ],
+    "content_hash": "8e83c2d6c0908fb5e908c6f51a204606603f8d121e7015b6f85df497e087188d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T11:18:29.502572+00:00",
+    "telegram_message_id": 2265,
+    "eitaa_last_sent_at": "2026-11-02T11:18:30.918564+00:00",
+    "eitaa_message_id": 179616621,
+    "group_last_sent_at": "2026-11-02T11:18:32.647505+00:00",
+    "group_message_id": 2013,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T11:18:32.690564+00:00"
+  },
+  "cc5c256bc63c13e24912f6a164f897e7014c593f78d80a7041ff555960fcf24d": {
+    "title": "قیمت طلا و سکه امروز دوشنبه ۱۱ آبان ۱۴۰۵",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849949/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "telegram_message_ids": [
+      2266
+    ],
+    "eitaa_message_ids": [
+      179616636
+    ],
+    "group_message_ids": [
+      2014
+    ],
+    "content_hash": "1c1e9cca16d9544cf5050e314716ddc89b19d080cb31fcca74cdd59cc975f5b4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T11:18:34.459874+00:00",
+    "telegram_message_id": 2266,
+    "eitaa_last_sent_at": "2026-11-02T11:18:35.826369+00:00",
+    "eitaa_message_id": 179616636,
+    "group_last_sent_at": "2026-11-02T11:18:37.531088+00:00",
+    "group_message_id": 2014,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T11:18:37.574100+00:00"
   }
 }
