@@ -26270,5 +26270,53 @@
     "group_message_id": 1978,
     "fully_published": true,
     "last_checked_at": "2026-11-02T07:16:35.793158+00:00"
+  },
+  "19f624048f6039de2dfc53987aa0b21bc3a2d053ed32d8ea5e711215365a5a14": {
+    "title": "پیشرفت ۵۰ درصدی تصفیه خانه خط انتقال آب خلیج فارس به فارس/ تلاش برای تأمین تسهیلات",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081106901/%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%DB%B5%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D8%AE%D8%B7-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%A2%D8%A8-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D9%87-%D9%81%D8%A7%D8%B1%D8%B3-%D8%AA%D9%84%D8%A7%D8%B4",
+    "telegram_message_ids": [
+      2232
+    ],
+    "eitaa_message_ids": [
+      179577016
+    ],
+    "group_message_ids": [
+      1980
+    ],
+    "content_hash": "40400ab7092a002a9376ae7cdb9b48c47f4a5a2b1cb124898babb9a16647c085",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T07:48:23.498632+00:00",
+    "telegram_message_id": 2232,
+    "eitaa_last_sent_at": "2026-11-02T07:48:24.709522+00:00",
+    "eitaa_message_id": 179577016,
+    "group_last_sent_at": "2026-11-02T07:48:26.308076+00:00",
+    "group_message_id": 1980,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T07:48:26.350485+00:00"
+  },
+  "72986ef486dfbf2b3738f976ce66f89ce5819b6dc476df2b029051683699a32b": {
+    "title": "نوسان بورس در مرز 7.6میلیونی",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305760-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C",
+    "telegram_message_ids": [
+      2233
+    ],
+    "eitaa_message_ids": [
+      179577035
+    ],
+    "group_message_ids": [
+      1981
+    ],
+    "content_hash": "cd8f8363b783c6d925402630ba405acef212eb48f7aad2897ddd10923bd6aeaa",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T07:48:27.970460+00:00",
+    "telegram_message_id": 2233,
+    "eitaa_last_sent_at": "2026-11-02T07:48:29.101299+00:00",
+    "eitaa_message_id": 179577035,
+    "group_last_sent_at": "2026-11-02T07:48:30.680263+00:00",
+    "group_message_id": 1981,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T07:48:30.722619+00:00"
   }
 }

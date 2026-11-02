@@ -378,69 +378,6 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "پیش بینی قیمت طلا، دلار و سکه امروز یکشنبه ۱۰ آبان ۱۴۰۵/ طلا و سکه در انتظار تعیین مسیر جدید قیمت ها",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305517-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%AA%D8%B9%DB%8C%DB%8C%D9%86-%D9%85%D8%B3%DB%8C%D8%B1-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7",
-    "summary": "یکشنبه 10 آبان معاملات در بازار طلا، سکه و ارز در شرایطی آغاز می شود که روز گذشته رکوردشکنی نرخ ارز در معاملات پشت خطی و سقوط اونس جهانی به زیر مرز ۳۹۰۰ دلار، بازارها را در مسیرهای متفاوتی قرار داد.",
-    "published": "Sun, 01 Nov 2026 05:45:14 +0000",
-    "collected_at": "2026-11-01T09:47:24.780341+03:30",
-    "filter_market_score": 34,
-    "market_score": 34,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "اونس جهانی"
-      ],
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس جهانی"
-      ],
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس جهانی"
-      ],
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "پیش‌بینی",
-      "پیش بینی",
-      "قیمت",
-      "سقوط",
-      "نرخ",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "مشرق",
     "title": "قیمت دلار مبادله ای امروز دوشنبه ۱۱ آبان ۱۴۰۵",
     "link": "https://www.mashreghnews.ir/news/1849856/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
@@ -1318,56 +1255,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "قیمت طلا و سکه امروز یکشنبه ۱۰ آبان ۱۴۰۵ / کاهش قیمت طلا و سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305497-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
-    "summary": "طلای 18 عیار نزولی شد و قیمت سکه امامی امروز با کاهش، در نرخ 259 میلیون تومان در معامله بود.​",
-    "published": "Sun, 01 Nov 2026 04:36:19 +0000",
-    "collected_at": "2026-11-01T09:47:24.780549+03:30",
-    "filter_market_score": 23,
-    "market_score": 23,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار",
-        "سکه امامی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار",
-        "سکه امامی"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار",
-        "سکه امامی"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "نزول",
-      "نرخ",
-      "معامله"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "زمان حراج جدید شمش طلا اعلام شد/ سقف خرید چقدر است؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305568-%D8%B2%D9%85%D8%A7%D9%86-%D8%AD%D8%B1%D8%A7%D8%AC-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D8%B3%D9%82%D9%81-%D8%AE%D8%B1%DB%8C%D8%AF-%DA%86%D9%82%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA",
     "summary": "مرکز مبادله ارز و طلای ایران اعلام کرد: سقف خرید برای هر متقاضی، حداکثر 25 قطعه شمش طلا در طول یک هفته تقویمی در نظر گرفته شده است.",
@@ -1418,53 +1305,6 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "افت شدید شاخص بورس در آغاز معاملات/ کانال ۷.۷ میلیون واحد را از دست رفت",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305519-%D8%A7%D9%81%D8%AA-%D8%B4%D8%AF%DB%8C%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA",
-    "summary": "در ساعات اولیه معاملات امروز شاخص کل بورس تهران ۱۴۸ هزار واحد افت کرد.",
-    "published": "Sun, 01 Nov 2026 06:04:26 +0000",
-    "collected_at": "2026-11-01T09:47:24.780301+03:30",
-    "filter_market_score": 22,
-    "market_score": 22,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص بورس",
-        "شاخص کل",
-        "شاخص کل بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص کل بورس"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص بورس",
-        "شاخص کل بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افت",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "سقوط ۳۰۰ میلیارد دلاری رمزارزها / ریزش در بازار ارزهای دیجیتال موجی از نگرانی میان سرمایه گذاران ایجاد کرد",
     "link": "https://www.khabaronline.ir/news/2296044/%D8%B3%D9%82%D9%88%D8%B7-%DB%B3%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84",
@@ -1504,6 +1344,52 @@
       "قیمت",
       "تقاضا",
       "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "نوسان بورس در مرز 7.6میلیونی",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305760-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C",
+    "summary": "دنیای اقتصاد: معاملات بورس تهران امروز فضای متعادل تری را نسبت به روزهای گذشته تجربه می کند. اگرچه نماگرهای سهامی در ابتدای معاملات در محدوده منفی قرار داشتند و شاخص کل حتی برای مدتی کانال ۷ میلیون و ۶۰۰ هزار واحد را از دست داد، اما در ادامه با افزایش تقاضا این سطح را به سرعت پس گرفت.",
+    "published": "Mon, 02 Nov 2026 07:14:27 +0000",
+    "collected_at": "2026-11-02T11:17:48.145747+03:30",
+    "filter_market_score": 20,
+    "market_score": 20,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "نوسان",
+      "افزایش",
+      "معاملات",
+      "تقاضا"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -1900,50 +1786,6 @@
     "filter_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "\"دلار\" بلیت قطار را هم گران کرد!",
-    "link": "https://www.isna.ir/news/1405081006058/%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%84%DB%8C%D8%AA-%D9%82%D8%B7%D8%A7%D8%B1-%D8%B1%D8%A7-%D9%87%D9%85-%DA%AF%D8%B1%D8%A7%D9%86-%DA%A9%D8%B1%D8%AF",
-    "summary": "افزایش ۲۰ درصدی قیمت بلیت قطار از ابتدای آبان ماه در حالی اعمال شد که این نرخ در خرداد ماه هم ۲۱ درصد افزایش یافته بود. مسئولان صنعت، علت اصلی این افزایش قیمت را نوسانات نرخ ارز عنوان کرده و می گویند ارزبری حوزه حمل و نقل ریلی بالاست؛ لذا هزینه های تامین قطعات، تعمیر و نگهداری نیز افزایش یافته است. به گفته آنها، سال هاست که تعرفه های حمل و نقل ریلی با هزینه های آن تناسب ندارد.",
-    "published": "Sun, 01 Nov 2026 06:41:39 GMT",
-    "collected_at": "2026-11-01T10:17:14.227719+03:30",
-    "filter_market_score": 17,
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "قیمت",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "نفت ریزش کرد/ هر بشکه نفت برنت ۱۰۹ دلار شد",
     "link": "https://www.khabaronline.ir/news/2296367/%D9%86%D9%81%D8%AA-%D8%B1%DB%8C%D8%B2%D8%B4-%DA%A9%D8%B1%D8%AF-%D9%87%D8%B1-%D8%A8%D8%B4%DA%A9%D9%87-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%DB%B1%DB%B0%DB%B9-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF",
@@ -2228,88 +2070,6 @@
     "major_event_matches": [],
     "signal_matches": [
       "تولید"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "بایننس پس از بازیابی بخش عمده ای از ۶ میلیارد دلار وجوه سرقت شده، برداشت ها را از سر می گیرد",
-    "link": "https://www.khabaronline.ir/news/2295834/%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A8%D8%AE%D8%B4-%D8%B9%D9%85%D8%AF%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B2-%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88%D8%AC%D9%88%D9%87-%D8%B3%D8%B1%D9%82%D8%AA",
-    "summary": "بایننس، بزرگترین صرافی ارزهای دیجیتال جهان، اعلام کرد که پس از پوشش نود و پنج درصد از ۶.۳ میلیارد دلار توکن سرقت شده از پلتفرم خود در بزرگترین سرقت دیجیتال جهان که اف بی آی آن را به کره شمالی نسبت داده است، برداشت ها را به صورت مرحله ای از سر خواهد گرفت.",
-    "published": "Sun, 01 Nov 2026 05:55:37 GMT",
-    "collected_at": "2026-11-01T09:47:29.574396+03:30",
-    "filter_market_score": 15,
-    "market_score": 15,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "اعلام کرد",
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا ۱۸ عیار امروز یکشنبه ۱۰ آبان ۱۴۰۵/کاهش قیمت طلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4292632-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
-    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت گرم طلا ۱۸ عیار با کاهش، به 25 میلیون و 181 هزار و 300 تومان رسید.",
-    "published": "Sun, 01 Nov 2026 04:39:18 +0000",
-    "collected_at": "2026-11-01T09:47:24.780535+03:30",
-    "filter_market_score": 15,
-    "market_score": 15,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3355,41 +3115,6 @@
     "filter_applied": true
   },
   {
-    "source": "مهر",
-    "title": "دانش آموز بیجاری طلای المپیاد علوم زمین را کسب کرد",
-    "link": "https://www.mehrnews.com/news/6995975/%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%D8%A8%DB%8C%D8%AC%D8%A7%D8%B1%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%D8%B9%D9%84%D9%88%D9%85-%D8%B2%D9%85%DB%8C%D9%86-%D8%B1%D8%A7-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%B1%D8%AF",
-    "summary": "بیجار- رئیس آموزش وپرورش بیجار از کسب مدال طلای المپیاد کشوری علوم زمین توسط نیوشا اسمعیلی، دانش آموز پایه دوازدهم این شهرستان، و راهیابی او به مرحله انتخابی تیم ملی خبر داد.",
-    "published": "Sun, 01 Nov 2026 06:45:22 GMT",
-    "collected_at": "2026-11-01T10:17:26.783444+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "از بوئینگ مسافربری تا سوخت رسان جنگی؛ معامله بزرگ هند با تل آویو",
     "link": "https://www.isna.ir/news/1405081006258/%D8%A7%D8%B2-%D8%A8%D9%88%D8%A6%DB%8C%D9%86%DA%AF-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D8%A8%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%B3%D9%88%D8%AE%D8%AA-%D8%B1%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%DA%AF%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%87%D9%86%D8%AF-%D8%A8%D8%A7-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88",
@@ -3833,6 +3558,72 @@
     "signal_matches": [
       "تولید",
       "حمایت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "استخدام کشتی گیر طلایی جهان در شهرداری شیراز",
+    "link": "https://www.isna.ir/news/1405081106891/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%DA%A9%D8%B4%D8%AA%DB%8C-%DA%AF%DB%8C%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+    "summary": "شهردار شیراز از صدور مجوز استخدام غلامرضا فرخی، کشتی گیر جوان شیرازی و دارنده مدال طلای جهان، در شهرداری این کلان شهر خبر داد و بر استمرار حمایت مدیریت شهری از قهرمانان و توسعه زیرساخت های ورزشی تأکید کرد.",
+    "published": "Mon, 02 Nov 2026 07:22:43 GMT",
+    "collected_at": "2026-11-02T11:17:22.348939+03:30",
+    "filter_market_score": 5,
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "حمایت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "پیشرفت ۵۰ درصدی تصفیه خانه خط انتقال آب خلیج فارس به فارس/ تلاش برای تأمین تسهیلات",
+    "link": "https://www.isna.ir/news/1405081106901/%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%DB%B5%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D8%AE%D8%B7-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%A2%D8%A8-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D9%87-%D9%81%D8%A7%D8%B1%D8%B3-%D8%AA%D9%84%D8%A7%D8%B4",
+    "summary": "نماینده مردم شیراز و زرقان در مجلس شورای اسلامی از پیشرفت حدود ۵۰ درصدی عملیات احداث تصفیه خانه خط انتقال آب خلیج فارس خبر داد و گفت: پیگیری ها برای تأمین تسهیلات ریالی و ارزی این طرح با هدف تسریع در تکمیل و بهره برداری از آن ادامه دارد.",
+    "published": "Mon, 02 Nov 2026 07:30:30 GMT",
+    "collected_at": "2026-11-02T11:17:22.348773+03:30",
+    "filter_market_score": 5,
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "هدف"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
