@@ -26534,5 +26534,29 @@
     "group_message_id": 1992,
     "fully_published": true,
     "last_checked_at": "2026-11-02T08:49:15.823873+00:00"
+  },
+  "275301d621aec642ccf920e87caf329a5048ab51e642ddbe3234c235bb4be556": {
+    "title": "مدل جدید دانشگاه تهران برای مدیریت هوشمند سبد سهام در بورس",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081107020/%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%B3%D8%A8%D8%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      2246
+    ],
+    "eitaa_message_ids": [
+      179596591
+    ],
+    "group_message_ids": [
+      1994
+    ],
+    "content_hash": "89cacabd28a863aefad9c6bbd67c103ef7872d795a4f47f5d742021b03e20858",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T09:16:41.225448+00:00",
+    "telegram_message_id": 2246,
+    "eitaa_last_sent_at": "2026-11-02T09:16:42.428639+00:00",
+    "eitaa_message_id": 179596591,
+    "group_last_sent_at": "2026-11-02T09:16:44.093991+00:00",
+    "group_message_id": 1994,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T09:16:44.125297+00:00"
   }
 }
