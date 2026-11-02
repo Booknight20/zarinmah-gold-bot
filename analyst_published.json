@@ -22163,5 +22163,78 @@
     "group_sent_at": "2026-11-02T12:46:46.457668+03:30",
     "group_message_id": 1995,
     "published_at": "2026-11-02T12:46:46.479803+03:30"
+  },
+  "https://t.me/rahavard365/58618": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "گزارش روزانه",
+      "summary": "گزارش روزانه \n \n ⚠️ وضعیت: بازگشت تعادل به بازار\n\n ⬅ وضعیت ورود و خروج پول حقیقی:\n \n 🟪 معاملات خرد: ۱۷۰۸- میلیارد تومان 🔽 \n 🟪 درآمد ثابت : ۵۸۱- میلیارد تومان 🔽 \n 🟪 صندوق اهرمی: ۱۸- میلیارد تومان 🔽 \n\n 🌟 ارزش معاملات خرد: ۳۲.۵ همت\n\n 🔽 شاخص کل : (۵۲۲۸-) ۷,۶۴۹,۲۷۰\n 🔼 شاخص هم‌وزن : (۹۶۳۴+) ۲,۱۷۵,۵۴۰\n\n 🗓 دوشنبه ۱۱ آبان ۱۴۰۵ \n\n ✉️ @rahavard365",
+      "full_text": "گزارش روزانه \n \n ⚠️ وضعیت: بازگشت تعادل به بازار\n\n ⬅ وضعیت ورود و خروج پول حقیقی:\n \n 🟪 معاملات خرد: ۱۷۰۸- میلیارد تومان 🔽 \n 🟪 درآمد ثابت : ۵۸۱- میلیارد تومان 🔽 \n 🟪 صندوق اهرمی: ۱۸- میلیارد تومان 🔽 \n\n 🌟 ارزش معاملات خرد: ۳۲.۵ همت\n\n 🔽 شاخص کل : (۵۲۲۸-) ۷,۶۴۹,۲۷۰\n 🔼 شاخص هم‌وزن : (۹۶۳۴+) ۲,۱۷۵,۵۴۰\n\n 🗓 دوشنبه ۱۱ آبان ۱۴۰۵ \n\n ✉️ @rahavard365",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58618",
+      "analysis_score": 26,
+      "market_matches": [
+        "ارز",
+        "شاخص",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "شاخص هم‌وزن",
+        "ارزش معاملات",
+        "خروج پول حقیقی",
+        "پول حقیقی"
+      ],
+      "analysis_matches": [
+        "ورود",
+        "خروج"
+      ],
+      "market_groups": [
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 338,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-02T13:15:12.445086+03:30"
+    },
+    "content_signature": "a6c85ce23bf5d7389edb815b3bd88bb17ae0466f6b5035d524cc4abfaeecb4f7",
+    "first_seen_at": "2026-11-02T13:15:36.560189+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2253
+    ],
+    "telegram_last_success_at": "2026-11-02T13:15:37.042164+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-02T13:15:37.058562+03:30",
+    "telegram_message_id": 2253,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179602239
+    ],
+    "eitaa_last_success_at": "2026-11-02T13:15:38.310527+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-02T13:15:38.323933+03:30",
+    "eitaa_message_id": 179602239,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2001
+    ],
+    "group_last_success_at": "2026-11-02T13:15:38.801539+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-02T13:15:38.835639+03:30",
+    "group_message_id": 2001,
+    "published_at": "2026-11-02T13:15:38.848998+03:30"
   }
 }

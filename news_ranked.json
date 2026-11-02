@@ -1148,6 +1148,75 @@
     "ranking_applied": true
   },
   {
+    "source": "ایسنا",
+    "title": "شتاب ریزش بورس کم شد/ فرابورس سبز شد",
+    "link": "https://www.isna.ir/news/1405081107074/%D8%B4%D8%AF%D8%AA-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D9%85-%D8%B4%D8%AF-%D9%81%D8%B1%D8%A7%D8%A8%D9%88%D8%B1%D8%B3-%D8%B3%D8%A8%D8%B2-%D8%B4%D8%AF",
+    "summary": "معاملات بورس تهران امروز (دوشنبه) در شرایطی دنبال شد که اگر چه شاخص کل همچنان روند نزولی داشت، اما از شدت افت آن نسبت به روزهای گذشته کاسته شد. در مقابل شاخص کل هم وزن و شاخص فرابورس با رشد همراه شدند تا نشانه هایی از بهبود نسبی وضعیت معاملات در بخشی از بازار سهام نمایان شود.",
+    "published": "Mon, 02 Nov 2026 09:42:26 GMT",
+    "collected_at": "2026-11-02T13:14:30.839216+03:30",
+    "filter_market_score": 31,
+    "market_score": 30,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "فرابورس",
+        "شاخص کل",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "فرابورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "فرابورس",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "ریزش",
+      "رشد",
+      "افت",
+      "نزول",
+      "معاملات",
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "فرابورس",
+      "شاخص کل",
+      "سهام",
+      "بازار سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "ریزش شدید بورس در پایان معاملات/ موج نزولی به سراسر بازار سهام رسید",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305546-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B4%D8%AF%DB%8C%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D9%88%D8%AC-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%A8%D9%87-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -2608,6 +2677,64 @@
     "ranking_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "قیمت نفت بشکه ای ۱۱۰ دلار شد",
+    "link": "https://www.mashreghnews.ir/news/1849919/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B4%DA%A9%D9%87-%D8%A7%DB%8C-%DB%B1%DB%B1%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF",
+    "summary": "قیمت نفت در پی ادامه مذاکرات ایران و قطر و کاهش نگرانی ها از تشدید درگیری ها، امروز بیش از ۳ درصد افت کرد.",
+    "published": "Mon, 02 Nov 2026 09:27:46 GMT",
+    "collected_at": "2026-11-02T13:14:59.433425+03:30",
+    "filter_market_score": 16,
+    "market_score": 20,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [
+      "مذاکرات ایران"
+    ],
+    "signal_matches": [
+      "قیمت",
+      "کاهش",
+      "افت",
+      "مذاکرات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مهر",
     "title": "نوسان قیمت ها در بازار جهانی انرژی، برنت ۱۱۰ دلار",
     "link": "https://www.mehrnews.com/news/6997014/%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%A8%D8%B1%D9%86%D8%AA-%DB%B1%DB%B1%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1",
@@ -2809,61 +2936,6 @@
       "نرخ",
       "افزایش",
       "تقاضا"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت دلار امروز یکشنبه ۱۰ آبان ۱۴۰۵/ افزایش قیمت دلار",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305533-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "قیمت دلار در بازار آزاد امروز با کاهش نسبت به نرخ بسته شدن روز گذشته، 271,230 (دویست و هفتاد و یک هزار و دویست و سی) تومان نرخ گذاری شد.",
-    "published": "Sun, 01 Nov 2026 07:56:53 +0000",
-    "collected_at": "2026-11-01T11:47:52.206243+03:30",
-    "filter_market_score": 14,
-    "market_score": 20,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "قیمت",
-      "کاهش",
-      "نرخ"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
@@ -3322,6 +3394,60 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "ممنوعیت فروش طلا با طرح پهلوی و شیروخورشید در مشهد",
+    "link": "https://www.mehrnews.com/news/6997437/%D9%85%D9%85%D9%86%D9%88%D8%B9%DB%8C%D8%AA-%D9%81%D8%B1%D9%88%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%AD-%D9%BE%D9%87%D9%84%D9%88%DB%8C-%D9%88-%D8%B4%DB%8C%D8%B1%D9%88%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF",
+    "summary": "مشهد- اتحادیه صنف طلا، جواهر، نقره و سکه مشهد در ابلاغیه ای اعلام کرد: خرید و فروش هر محصول طلا که دارای نقش و طرح های متعلق به دوران پهلوی یا طرح «شیر و خورشید» باشند، ممنوع است.",
+    "published": "Mon, 02 Nov 2026 09:27:27 GMT",
+    "collected_at": "2026-11-02T13:14:38.227223+03:30",
+    "filter_market_score": 12,
+    "market_score": 17,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "ممنوعیت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "سکه"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "بایننس با خروج ۳.۶۴ میلیارد دلار سرمایه روبرو شد",
     "link": "https://www.isna.ir/news/1405081106819/%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%A8%D8%A7-%D8%AE%D8%B1%D9%88%D8%AC-%DB%B3-%DB%B6%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%B1%D9%88%D8%A8%D8%B1%D9%88-%D8%B4%D8%AF",
@@ -3411,58 +3537,6 @@
       "طلا"
     ],
     "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "رسیدن به جمع ۱۰۰ تنیسور برتر جهان ۱ میلیون دلار هزینه دارد/ تنیس اصفهان دچار افت شده است",
-    "link": "https://www.isna.ir/news/1405081006205/%D8%B1%D8%B3%DB%8C%D8%AF%D9%86-%D8%A8%D9%87-%D8%AC%D9%85%D8%B9-%DB%B1%DB%B0%DB%B0-%D8%AA%D9%86%DB%8C%D8%B3%D9%88%D8%B1-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%AC%D9%87%D8%A7%D9%86-%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF-%D8%AA%D9%86%DB%8C%D8%B3",
-    "summary": "مربی اسبق تیم ملی تنیس و مشاور فنی فدراسیون گفت: با وجود اینکه تنیس ورزش لاکچری و پرهزینه ای ست، اما ورود به این رشته و آغاز فعالیت در آن نیازمند هزینه های سنگین نیست، اما رسیدن به سطح حرفه ای و حضور در رقابت های ملی، جهانی و قرار گرفتن در بین ۱۰۰ نفر برتر جهان، مستلزم صرف هزینه ای به اندازه یک میلیون دلار است.",
-    "published": "Sun, 01 Nov 2026 08:33:17 GMT",
-    "collected_at": "2026-11-01T12:05:40.325062+03:30",
-    "filter_market_score": 11,
-    "market_score": 17,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
@@ -4255,54 +4329,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "روایت رحیم صفوی از تلاش شهید لاریجانی برای خرید پدافند/ گفت چند میلیون دلار نیاز داریم، اما پول نداریم+ فیلم",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305538-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%B1%D8%AD%DB%8C%D9%85-%D8%B5%D9%81%D9%88%DB%8C-%D8%A7%D8%B2-%D8%AA%D9%84%D8%A7%D8%B4-%D8%B4%D9%87%DB%8C%D8%AF-%D9%84%D8%A7%D8%B1%DB%8C%D8%AC%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%DA%AF%D9%81%D8%AA-%DA%86%D9%86%D8%AF-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%86%DB%8C%D8%A7%D8%B2-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85-%D8%A7%D9%85%D8%A7-%D9%BE%D9%88%D9%84-%D9%86%D8%AF%D8%A7%D8%B1%DB%8C%D9%85-%D9%81%DB%8C%D9%84%D9%85",
-    "summary": "حمزه رحیم صفوی روایتی از تلاش شهید لاریجانی برای خرید پدافند در روزهای منتهی به جنگ ارائه داد.",
-    "published": "Sun, 01 Nov 2026 08:24:15 +0000",
-    "collected_at": "2026-11-01T11:56:52.402812+03:30",
-    "filter_market_score": 7,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "گزارش هالووینی از وال استریت",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%86%DB%8C%D8%A7-5/4305504-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D9%87%D8%A7%D9%84%D9%88%D9%88%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2-%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%DB%8C%D8%AA",
     "summary": "دنیای اقتصاد: انتخابات میان دوره ای آمریکا، انتشار مجموعه ای از گزارش های مالی شرکت ها و اعلام آمار ماهانه اشتغال، هفته آینده بازار سهام این کشور را در معرض آزمونی تازه قرار می دهد؛ بازاری که پس از چندین عقب نشینی در معاملات مرتبط با هوش مصنوعی، با تردیدهای فزاینده سرمایه گذاران روبه رو شده است.",
@@ -4398,56 +4424,6 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "هک بایننس بیت کوین را به کدام سو خواهد برد؟",
-    "link": "https://www.isna.ir/news/1405081006204/%D9%87%DA%A9-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%B1%D8%A7-%D8%A8%D9%87-%DA%A9%D8%AF%D8%A7%D9%85-%D8%B3%D9%88-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%A8%D8%B1%D8%AF",
-    "summary": "بیت کوین با افت شدید اعتماد سرمایه گذاران، خروج گسترده سرمایه از صندوق های قابل معامله در بورس و حمله سایبری بی سابقه به صرافی بایننس که نگرانی ها درباره ادامه روند نزولی اخیر این رمزارز را افزایش داده، نوامبر را آغاز کرده است.",
-    "published": "Sun, 01 Nov 2026 08:31:53 GMT",
-    "collected_at": "2026-11-01T12:05:40.325075+03:30",
-    "filter_market_score": 9,
-    "market_score": 12,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "افت",
-      "نزول",
-      "داده",
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -4826,6 +4802,54 @@
     "ranking_applied": true
   },
   {
+    "source": "تابناک",
+    "title": "بانک صادرات ایران؛ اولین بانک کشور در اعطای تسهیلات نقدینه",
+    "link": "https://tabnak.ir/fa/news/100000141/%D8%A8%D8%A7%D9%86%DA%A9-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%A8%D8%A7%D9%86%DA%A9-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%B7%D8%A7%DB%8C-%D8%AA%D8%B3%D9%87%DB%8C%D9%84%D8%A7%D8%AA-%D9%86%D9%82%D8%AF%DB%8C%D9%86%D9%87-187909da29d347f58c6726d6",
+    "summary": "​بانک صادرات ایران با اجرای طرح نقدینه؛ به عنوان اولین بانک کشور در اعطای تسهیلات برمبنای توثیق الکترونیکی سهام شناخته شد.",
+    "published": "Mon, 02 Nov 2026 09:17:08 +0000",
+    "collected_at": "2026-11-02T13:14:56.180894+03:30",
+    "filter_market_score": 7,
+    "market_score": 10,
+    "market_matches": {
+      "stock": [
+        "سهام"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "stock": [
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مهر",
     "title": "سارق نقاب دار کمتر از سه ساعت در مازندران دستگیر شد",
     "link": "https://www.mehrnews.com/news/6997350/%D8%B3%D8%A7%D8%B1%D9%82-%D9%86%D9%82%D8%A7%D8%A8-%D8%AF%D8%A7%D8%B1-%DA%A9%D9%85%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%B3%D9%87-%D8%B3%D8%A7%D8%B9%D8%AA-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF",
@@ -4912,6 +4936,50 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "بزرگ ترین صرافی رمزارز جهان هک شد",
+    "link": "https://www.mehrnews.com/news/6997386/%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2-%D8%AC%D9%87%D8%A7%D9%86-%D9%87%DA%A9-%D8%B4%D8%AF",
+    "summary": "با وجود آنکه صرافی رمزارز بایننس هدف یک سرقت ۶.۳ میلیارد دلاری قرار گرفته، معامله گران فعلا همچنان اعتماد خود را به بزرگ ترین صرافی رمزارز جهان حفظ کرده اند.",
+    "published": "Mon, 02 Nov 2026 09:40:06 GMT",
+    "collected_at": "2026-11-02T13:14:38.227023+03:30",
+    "filter_market_score": 6,
+    "market_score": 10,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -5535,50 +5603,6 @@
     "currency_matches": [
       "ارز"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مشرق",
-    "title": "فیلم/ شوخی مازندرانی ها با تنها غیر مازندرانی تیم ملی کشتی",
-    "link": "https://www.mashreghnews.ir/news/1849635/%D9%81%DB%8C%D9%84%D9%85-%D8%B4%D9%88%D8%AE%DB%8C-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%A8%D8%A7-%D8%AA%D9%86%D9%87%D8%A7-%D8%BA%DB%8C%D8%B1-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%DA%A9%D8%B4%D8%AA%DB%8C",
-    "summary": "فینال وزن ۶۱ کیلوگرم کشتی آزاد قهرمانی جهان با نمایش فوق العاده احمد جوان همراه بود و او با گرفتن انتقام شکست سال قبل مقابل زائور اوگوئف روس، اولین طلای ایران را صید کرد.",
-    "published": "Sun, 01 Nov 2026 08:10:00 GMT",
-    "collected_at": "2026-11-01T11:48:09.398761+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
