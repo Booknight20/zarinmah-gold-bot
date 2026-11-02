@@ -27230,5 +27230,77 @@
     "group_message_id": 2034,
     "fully_published": true,
     "last_checked_at": "2026-11-02T12:49:02.469832+00:00"
+  },
+  "fc6e11f7b6e6fcf45f22f33eb81b0d04fdfe840f37b05f94a72a3876b2c45a31": {
+    "title": "سانچز: جنگ غیرقانونی علیه ایران ۱۰۰ میلیارد یورو هزینه اضافی بر اروپا تحمیل کرد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081107282/%D8%B3%D8%A7%D9%86%DA%86%D8%B2-%D8%AC%D9%86%DA%AF-%D8%BA%DB%8C%D8%B1%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C",
+    "telegram_message_ids": [
+      2289
+    ],
+    "eitaa_message_ids": [
+      179635510
+    ],
+    "group_message_ids": [
+      2037
+    ],
+    "content_hash": "535ea0b4ea4418f83160bd9dc0c85f468f9ed296acca5662e48fd7a779b788c8",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T13:12:27.628633+00:00",
+    "telegram_message_id": 2289,
+    "eitaa_last_sent_at": "2026-11-02T13:12:28.896641+00:00",
+    "eitaa_message_id": 179635510,
+    "group_last_sent_at": "2026-11-02T13:12:30.566628+00:00",
+    "group_message_id": 2037,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T13:12:30.611593+00:00"
+  },
+  "1f6cb456579569dec72e2a144071578625638760642858094b1a10e8f8ef3c55": {
+    "title": "توقیف تلفن همراه و سهام بدهکاران هوشمند می شود",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6997732/%D8%AA%D9%88%D9%82%DB%8C%D9%81-%D8%AA%D9%84%D9%81%D9%86-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%88-%D8%B3%D9%87%D8%A7%D9%85-%D8%A8%D8%AF%D9%87%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "telegram_message_ids": [
+      2290
+    ],
+    "eitaa_message_ids": [
+      179635516
+    ],
+    "group_message_ids": [
+      2038
+    ],
+    "content_hash": "06785ea1c69c7cff2f7ec11a46f3925391874feaed30526c5e7da944ffff9a83",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T13:12:32.283687+00:00",
+    "telegram_message_id": 2290,
+    "eitaa_last_sent_at": "2026-11-02T13:12:33.465017+00:00",
+    "eitaa_message_id": 179635516,
+    "group_last_sent_at": "2026-11-02T13:12:35.047543+00:00",
+    "group_message_id": 2038,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T13:12:35.092697+00:00"
+  },
+  "1e171aa907893535b19c0f2a441369b4fd9a889647c245583b0432daacafe4ec": {
+    "title": "همتی: مطالبات واردکنندگان کالاهای اساسی بر عهده دولت است",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305808-%D9%87%D9%85%D8%AA%DB%8C-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D9%88%D8%A7%D8%B1%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%DA%A9%D8%A7%D9%84%D8%A7%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C-%D8%A8%D8%B1-%D8%B9%D9%87%D8%AF%D9%87-%D8%AF%D9%88%D9%84%D8%AA-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      2291
+    ],
+    "eitaa_message_ids": [
+      179635526
+    ],
+    "group_message_ids": [
+      2039
+    ],
+    "content_hash": "62646d7434325757ec4fe226c11bfdecd10474ad46c8cb83ea81e84228537f0d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T13:12:36.728251+00:00",
+    "telegram_message_id": 2291,
+    "eitaa_last_sent_at": "2026-11-02T13:12:37.362310+00:00",
+    "eitaa_message_id": 179635526,
+    "group_last_sent_at": "2026-11-02T13:12:39.016493+00:00",
+    "group_message_id": 2039,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T13:12:39.061607+00:00"
   }
 }
