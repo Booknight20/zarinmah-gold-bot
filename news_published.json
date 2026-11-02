@@ -26918,5 +26918,77 @@
     "group_message_id": 2014,
     "fully_published": true,
     "last_checked_at": "2026-11-02T11:18:37.574100+00:00"
+  },
+  "4ba5f86e30f53029ac3ae6709a76115f3cacff617e022072ad85a1711f750800": {
+    "title": "قیمت طلا و سکه امروز ۱۱ آبان؛ افزایش ۷ میلیون تومانی سکه",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6997622/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      2269
+    ],
+    "eitaa_message_ids": [
+      179621059
+    ],
+    "group_message_ids": [
+      2017
+    ],
+    "content_hash": "efbb6244e372413d875ff819d570deb40302fd8dc69cd89f309651e2c02acf18",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T11:48:58.022175+00:00",
+    "telegram_message_id": 2269,
+    "eitaa_last_sent_at": "2026-11-02T11:49:01.345740+00:00",
+    "eitaa_message_id": 179621059,
+    "group_last_sent_at": "2026-11-02T11:49:03.041298+00:00",
+    "group_message_id": 2017,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T11:49:03.084256+00:00"
+  },
+  "76ae4d882f828d4c5c930cd850a936b13af9a43f1e93e6047469748a0f08f6a2": {
+    "title": "افزایش دامنه نوسان صندوق های اهرمی بورس",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305794-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      2270
+    ],
+    "eitaa_message_ids": [
+      179621085
+    ],
+    "group_message_ids": [
+      2018
+    ],
+    "content_hash": "3bd5c4138b7e6178e988a2e436838156a0add321783b26a8a5f085b2f4deee22",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T11:49:04.933068+00:00",
+    "telegram_message_id": 2270,
+    "eitaa_last_sent_at": "2026-11-02T11:49:08.662729+00:00",
+    "eitaa_message_id": 179621085,
+    "group_last_sent_at": "2026-11-02T11:49:10.357709+00:00",
+    "group_message_id": 2018,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T11:49:10.400576+00:00"
+  },
+  "3070c50d19fbfeb452d96eadadcfda6b161e6ea13c070a1419f2940a6e7540d9": {
+    "title": "هشدار روسیه درباره هرگونه حمله مجدد به ایران",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000169/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%87%D8%B1%DA%AF%D9%88%D9%86%D9%87-%D8%AD%D9%85%D9%84%D9%87-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-bc6b9d86a48c444b8505693b",
+    "telegram_message_ids": [
+      2271
+    ],
+    "eitaa_message_ids": [
+      179621103
+    ],
+    "group_message_ids": [
+      2019
+    ],
+    "content_hash": "1844b816036a698d59601fa6e5bba6d68451b895dfc41932a3d17eb48063fe37",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T11:49:12.146972+00:00",
+    "telegram_message_id": 2271,
+    "eitaa_last_sent_at": "2026-11-02T11:49:15.382618+00:00",
+    "eitaa_message_id": 179621103,
+    "group_last_sent_at": "2026-11-02T11:49:17.024374+00:00",
+    "group_message_id": 2019,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T11:49:17.067191+00:00"
   }
 }
