@@ -341,6 +341,86 @@
     "telegram_preview": "📰 کف قیمتی طلا شکست؛ اونس طلا روی عدد ۳ هزار و ۸۷۵ دلار ایستاد/ قیمت طلای جهانی امروز ۱۰ آبان ۱۴۰۵\n\n. در بازار جهانی، اونس طلا و نقره به ترتیب ۳ و ۸.۹ درصد کاهش یافت در روز جمعه ۸ آبان ۱۴۰۵، قیمت طلای جهانی به ۳ هزار و 875 دلار رسید؛ به طوری که قیمت پایانی اونس طلا در همین سطح قرار گرفت و کف هفتگی نیز در آخرین روز معاملاتی ثبت شد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2295840/%DA%A9%D9%81-%D9%82%DB%8C%D9%85%D8%AA%DB%8C-%D8%B7%D9%84%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%B1%D9%88%DB%8C-%D8%B9%D8%AF%D8%AF-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B8%DB%B7%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF"
   },
   {
+    "source": "مهر",
+    "title": "نرخ ارزهای مرجع در مرکز مبادله؛ دوشنبه ۱۱ آبان ۱۴۰۵",
+    "link": "https://www.mehrnews.com/news/6997021/%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%AC%D8%B9-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "summary": "مرکز مبادله ارز و طلای ایران نرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوآن و روبل را برای روز دوشنبه یازدهم آبان ماه اعلام کرد.",
+    "published": "Mon, 02 Nov 2026 04:55:48 GMT",
+    "collected_at": "2026-11-02T08:35:18.048535+03:30",
+    "filter_market_score": 38,
+    "market_score": 39,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "نرخ ارز",
+        "ارز",
+        "مرکز مبادله",
+        "دلار",
+        "یورو",
+        "درهم"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز",
+        "مرکز مبادله"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو",
+        "درهم",
+        "مرکز مبادله"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "نرخ ارز",
+      "ارز",
+      "مرکز مبادله",
+      "دلار",
+      "یورو",
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "مرکز مبادله ارز و طلای ایران نرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوآن و روبل را برای روز دوشنبه یازدهم آبان ماه اعلام کرد.",
+    "telegram_preview": "📰 نرخ ارزهای مرجع در مرکز مبادله؛ دوشنبه ۱۱ آبان ۱۴۰۵\n\nمرکز مبادله ارز و طلای ایران نرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوآن و روبل را برای روز دوشنبه یازدهم آبان ماه اعلام کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6997021/%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%AC%D8%B9-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5"
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت درهم، دلار، یورو و انواع ارزها امروز ۱۰ آبان ۱۴۰۵ در زمان بازگشایی بازار/ درهم امارات ۷۴ هزار و ۱۱۸ تومان قیمت خورد + جدول",
     "link": "https://www.khabaronline.ir/news/2295752/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D8%B1%D9%87%D9%85-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B0-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86",
@@ -720,6 +800,72 @@
     "duplicate_count": 1,
     "full_text": "بررسی عملکرد بازارهای مالی نشان می دهد که اونس طلا و نقره، دلار و طلای ۱۸ عیار در هفته منتهی به آبان ماه روندی نزولی را تجربه کردند.",
     "telegram_preview": "📰 افت هم زمان طلا، نقره و دلار در بازارهای جهانی و داخلی\n\nبررسی عملکرد بازارهای مالی نشان می دهد که اونس طلا و نقره، دلار و طلای ۱۸ عیار در هفته منتهی به آبان ماه روندی نزولی را تجربه کردند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6995909/%D8%A7%D9%81%D8%AA-%D9%87%D9%85-%D8%B2%D9%85%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%88-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C"
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت یورو، دلار و انواع ارزها امروز ۱۱ آبان ۱۴۰۵ در زمان بازگشایی بازار/ یورو ۳۰۴ هزار و ۸۷۰ تومان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2296339/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
+    "summary": "قیمت یورو، دلار و سایر ارزها امروز ۱۱ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو در بازار با افزایش ۲ هزار و ۹۷۰ تومانی، ۳۰۴ هزار و ۸۷۰ تومان فروخته شد.",
+    "published": "Mon, 02 Nov 2026 04:55:00 GMT",
+    "collected_at": "2026-11-02T08:35:33.222521+03:30",
+    "filter_market_score": 28,
+    "market_score": 32,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "بازگشایی",
+      "افزایش",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "قیمت یورو، دلار و سایر ارزها امروز ۱۱ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو در بازار با افزایش ۲ هزار و ۹۷۰ تومانی، ۳۰۴ هزار و ۸۷۰ تومان فروخته شد.",
+    "telegram_preview": "📰 قیمت یورو، دلار و انواع ارزها امروز ۱۱ آبان ۱۴۰۵ در زمان بازگشایی بازار/ یورو ۳۰۴ هزار و ۸۷۰ تومان شد + جدول\n\nقیمت یورو، دلار و سایر ارزها امروز ۱۱ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو در بازار با افزایش ۲ هزار و ۹۷۰ تومانی، ۳۰۴ هزار و ۸۷۰ تومان فروخته شد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2296339/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C"
   },
   {
     "source": "دنیای اقتصاد",
@@ -2176,6 +2322,69 @@
     "telegram_preview": "📰 سقوط ۳۰۰ میلیارد دلاری رمزارزها / ریزش در بازار ارزهای دیجیتال موجی از نگرانی میان سرمایه گذاران ایجاد کرد\n\nقیمت رمزارزها اکنون در لبه ی پایین کانال نزولی قرار دارد و سایه ی بلند کندل آخر نشان می دهد خریداران در محدوده ی ۲.۵ تریلیون واکنش نشان داده اند و تقاضا برای خرید وجود دارد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2296044/%D8%B3%D9%82%D9%88%D8%B7-%DB%B3%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84"
   },
   {
+    "source": "مهر",
+    "title": "برخورد قاطع با قاچاق ارز و طلا در مرزهای سیستان و بلوچستان",
+    "link": "https://www.mehrnews.com/news/6997022/%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%D9%82%D8%A7%D8%B7%D8%B9-%D8%A8%D8%A7-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%A7%D8%B1%D8%B2-%D9%88-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86",
+    "summary": "زاهدان- مدیرکل تعزیرات حکومتی سیستان و بلوچستان از برخورد قانونی با ورود و خروج غیرمجاز ارز، شمش طلا و زیورآلات از مرزهای استان خبر داد.",
+    "published": "Mon, 02 Nov 2026 04:57:35 GMT",
+    "collected_at": "2026-11-02T08:35:18.048486+03:30",
+    "filter_market_score": 20,
+    "market_score": 24,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "زاهدان- مدیرکل تعزیرات حکومتی سیستان و بلوچستان از برخورد قانونی با ورود و خروج غیرمجاز ارز، شمش طلا و زیورآلات از مرزهای استان خبر داد.",
+    "telegram_preview": "📰 برخورد قاطع با قاچاق ارز و طلا در مرزهای سیستان و بلوچستان\n\nزاهدان- مدیرکل تعزیرات حکومتی سیستان و بلوچستان از برخورد قانونی با ورود و خروج غیرمجاز ارز، شمش طلا و زیورآلات از مرزهای استان خبر داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6997022/%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%D9%82%D8%A7%D8%B7%D8%B9-%D8%A8%D8%A7-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%A7%D8%B1%D8%B2-%D9%88-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86"
+  },
+  {
     "source": "ایسنا",
     "title": "بازگشت ۱۰.۵ میلیارد یورو ارز در پرونده های عدم رفع تعهدات ارزی",
     "link": "https://www.isna.ir/news/1405081006472/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%DB%B1%DB%B0-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D8%AF%D9%85-%D8%B1%D9%81%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C",
@@ -2589,6 +2798,66 @@
     "duplicate_count": 1,
     "full_text": "در ساعات اولیه معاملات امروز شاخص کل بورس تهران ۱۴۸ هزار واحد افت کرد.",
     "telegram_preview": "📰 افت شدید شاخص بورس در آغاز معاملات/ کانال ۷.۷ میلیون واحد را از دست رفت\n\nدر ساعات اولیه معاملات امروز شاخص کل بورس تهران ۱۴۸ هزار واحد افت کرد.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305519-%D8%A7%D9%81%D8%AA-%D8%B4%D8%AF%DB%8C%D8%AF-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA"
+  },
+  {
+    "source": "مهر",
+    "title": "نوسان قیمت ها در بازار جهانی انرژی، برنت ۱۱۰ دلار",
+    "link": "https://www.mehrnews.com/news/6997014/%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%A8%D8%B1%D9%86%D8%AA-%DB%B1%DB%B1%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1",
+    "summary": "تازه ترین نرخ حامل های انرژی و نفت در بازارهای جهانی حاکی از کاهش بهای نفت برنت و WTI و در مقابل رشد قیمت نفت موربان و گاز طبیعی است.",
+    "published": "Mon, 02 Nov 2026 04:48:28 GMT",
+    "collected_at": "2026-11-02T08:35:18.048696+03:30",
+    "filter_market_score": 15,
+    "market_score": 20,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "نوسان",
+      "قیمت",
+      "کاهش",
+      "رشد",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "تازه ترین نرخ حامل های انرژی و نفت در بازارهای جهانی حاکی از کاهش بهای نفت برنت و WTI و در مقابل رشد قیمت نفت موربان و گاز طبیعی است.",
+    "telegram_preview": "📰 نوسان قیمت ها در بازار جهانی انرژی، برنت ۱۱۰ دلار\n\nتازه ترین نرخ حامل های انرژی و نفت در بازارهای جهانی حاکی از کاهش بهای نفت برنت و WTI و در مقابل رشد قیمت نفت موربان و گاز طبیعی است.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6997014/%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%A8%D8%B1%D9%86%D8%AA-%DB%B1%DB%B1%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1"
   },
   {
     "source": "دنیای اقتصاد",
@@ -3616,62 +3885,6 @@
     "duplicate_count": 1,
     "full_text": "از تحقق ۱۱۵ درصدی برنامه توسعه کشت زعفران در همدان تا مشارکت بسیاری از خانوارها در فرآوری گل این محصول؛ طلای سرخ آرام آرام جای خود را در الگوی کشاورزی استانی باز می کند که کاهش منابع آبی، ضرورت عبور از کشت های پرمصرف را بیش از هر زمان دیگری آشکار کرده است.",
     "telegram_preview": "📰 زعفران؛ طلای سرخ در مسیر نجات کشاورزی همدان از تنش آبی\n\nاز تحقق ۱۱۵ درصدی برنامه توسعه کشت زعفران در همدان تا مشارکت بسیاری از خانوارها در فرآوری گل این محصول؛ طلای سرخ آرام آرام جای خود را در الگوی کشاورزی استانی باز می کند که کاهش منابع آبی، ضرورت عبور از کشت های پرمصرف را بیش از هر زمان دیگری آشکار کرده است.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081006089/%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D9%86%D8%AC%D8%A7%D8%AA-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%A7%D8%B2-%D8%AA%D9%86%D8%B4-%D8%A2%D8%A8%DB%8C"
-  },
-  {
-    "source": "مشرق",
-    "title": "ریزش سهام غول های هوش مصنوعی؛ آیا جنگ ایران حباب فناوری را ترکاند؟",
-    "link": "https://www.mashreghnews.ir/news/1849416/%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B3%D9%87%D8%A7%D9%85-%D8%BA%D9%88%D9%84-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A2%DB%8C%D8%A7-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AD%D8%A8%D8%A7%D8%A8-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%B1%D8%A7-%D8%AA%D8%B1%DA%A9%D8%A7%D9%86%D8%AF",
-    "summary": "افزایش هزینه انرژی در پی جنگ ایران، بازده سرمایه گذاری هوش مصنوعی را تهدید می کند.",
-    "published": "Sat, 31 Oct 2026 22:00:00 GMT",
-    "collected_at": "2026-11-01T01:44:14.270678+03:30",
-    "filter_market_score": 10,
-    "market_score": 17,
-    "market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "ریزش",
-      "حباب",
-      "افزایش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "سهام"
-    ],
-    "high_impact_matches": [
-      "جنگ"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "افزایش هزینه انرژی در پی جنگ ایران، بازده سرمایه گذاری هوش مصنوعی را تهدید می کند.",
-    "telegram_preview": "📰 ریزش سهام غول های هوش مصنوعی؛ آیا جنگ ایران حباب فناوری را ترکاند؟\n\nافزایش هزینه انرژی در پی جنگ ایران، بازده سرمایه گذاری هوش مصنوعی را تهدید می کند.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1849416/%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B3%D9%87%D8%A7%D9%85-%D8%BA%D9%88%D9%84-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A2%DB%8C%D8%A7-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AD%D8%A8%D8%A7%D8%A8-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%B1%D8%A7-%D8%AA%D8%B1%DA%A9%D8%A7%D9%86%D8%AF"
   },
   {
     "source": "ایسنا",
