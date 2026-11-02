@@ -26678,5 +26678,101 @@
     "group_message_id": 2000,
     "fully_published": true,
     "last_checked_at": "2026-11-02T09:45:36.424990+00:00"
+  },
+  "db1c8b9f44c5dd26afeed40afb8d7ddac90f60c901ffc04d0a2e5864c035ae31": {
+    "title": "سیاست های ارزی ناکارآمد، منابع را از تولید به اقتصاد زیرزمینی سوق می دهد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081107114/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%86%D8%A7%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D8%AF-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A8%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%B2%DB%8C%D8%B1%D8%B2%D9%85%DB%8C%D9%86%DB%8C",
+    "telegram_message_ids": [
+      2255
+    ],
+    "eitaa_message_ids": [
+      179607636
+    ],
+    "group_message_ids": [
+      2003
+    ],
+    "content_hash": "4ecf76d1eacfc996781649cfe90c9e8f989e977798abc737132c6b5905fc3c9c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T10:18:50.012937+00:00",
+    "telegram_message_id": 2255,
+    "eitaa_last_sent_at": "2026-11-02T10:18:51.269922+00:00",
+    "eitaa_message_id": 179607636,
+    "group_last_sent_at": "2026-11-02T10:18:52.931562+00:00",
+    "group_message_id": 2003,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T10:18:52.974640+00:00"
+  },
+  "23e67ef07981c9e475a3927224c9ea1b31aa179d831acd02bcd8b9d9a40c82de": {
+    "title": "آغاز ثبت نام کاغذ نشر با نرخ ارز مبادله ای",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081107101/%D8%A2%D8%BA%D8%A7%D8%B2-%D8%AB%D8%A8%D8%AA-%D9%86%D8%A7%D9%85-%DA%A9%D8%A7%D8%BA%D8%B0-%D9%86%D8%B4%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      2256
+    ],
+    "eitaa_message_ids": [
+      179607642
+    ],
+    "group_message_ids": [
+      2004
+    ],
+    "content_hash": "ebdd42160263c581f9a7200ce1dc8ea20eea1cbe57fdf83c96957f7675fd9516",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T10:18:54.626057+00:00",
+    "telegram_message_id": 2256,
+    "eitaa_last_sent_at": "2026-11-02T10:18:55.943052+00:00",
+    "eitaa_message_id": 179607642,
+    "group_last_sent_at": "2026-11-02T10:18:57.546143+00:00",
+    "group_message_id": 2004,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T10:18:57.588156+00:00"
+  },
+  "364a1f5c9c19bfe2f71b5aff2eec111f2d70c56d237ff3884f3399b1fb680adf": {
+    "title": "کاغذ نشر با نرخ ارز مبادله ای در اختیار ناشران قرار می گیرد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6997469/%DA%A9%D8%A7%D8%BA%D8%B0-%D9%86%D8%B4%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D9%86%D8%A7%D8%B4%D8%B1%D8%A7%D9%86-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%DB%8C-%DA%AF%DB%8C%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      2257
+    ],
+    "eitaa_message_ids": [
+      179607654
+    ],
+    "group_message_ids": [
+      2005
+    ],
+    "content_hash": "886ea1afc0b1502c1fdd7dd0a94c9f394986d644c7b8decd8ae19f766e6b1240",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T10:18:59.253021+00:00",
+    "telegram_message_id": 2257,
+    "eitaa_last_sent_at": "2026-11-02T10:19:00.559188+00:00",
+    "eitaa_message_id": 179607654,
+    "group_last_sent_at": "2026-11-02T10:19:02.176573+00:00",
+    "group_message_id": 2005,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T10:19:02.218915+00:00"
+  },
+  "4c75efcff3dfbfaebcf87c97d52684c18e0ca0a85c5c6e70ffc8ccf9506cf1c1": {
+    "title": "بورس به تعادل رسید/ خروج پول حقیقی از بازار سهام به بیش از ۱۷۰۰ میلیارد تومان رسید",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305783-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%B1%D8%B3%DB%8C%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      2258
+    ],
+    "eitaa_message_ids": [
+      179607659
+    ],
+    "group_message_ids": [
+      2006
+    ],
+    "content_hash": "ee5125be9976d55d01ef65b0bca97b12e341d897a270278245d9bcad6c433b8b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T10:19:03.942935+00:00",
+    "telegram_message_id": 2258,
+    "eitaa_last_sent_at": "2026-11-02T10:19:04.637137+00:00",
+    "eitaa_message_id": 179607659,
+    "group_last_sent_at": "2026-11-02T10:19:06.275264+00:00",
+    "group_message_id": 2006,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T10:19:06.318388+00:00"
   }
 }

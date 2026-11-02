@@ -1,100 +1,5 @@
 [
   {
-    "source": "دنیای اقتصاد",
-    "title": "نرخ ارز دلار، طلا و یورو امروز یکشنبه ۱۰ آبان ۱۴۰۵/ افزایش قیمت طلا و سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305537-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
-    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر، بازار امروز شاهد افزایش قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
-    "published": "Sun, 01 Nov 2026 08:29:52 +0000",
-    "collected_at": "2026-11-01T12:05:47.901470+03:30",
-    "filter_market_score": 51,
-    "market_score": 58,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ],
-      "currency": [
-        "دلار",
-        "نرخ ارز",
-        "ارز",
-        "یورو",
-        "مرکز مبادله"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ],
-      "currency": [
-        "دلار",
-        "نرخ ارز",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ],
-      "currency": [
-        "نرخ ارز",
-        "ارز",
-        "مرکز مبادله"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "قیمت",
-      "نرخ",
-      "صعود",
-      "نوسان"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
-    ],
-    "currency_matches": [
-      "دلار",
-      "نرخ ارز",
-      "ارز",
-      "یورو",
-      "مرکز مبادله"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "طلا با افزایش ۰.۷ درصدی قیمت به ۳۹۰۰ دلار رسید/ قیمت جدید طلای جهانی امروز ۱۱ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2296397/%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B0-%DB%B7-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D9%87-%DB%B3%DB%B9%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C",
@@ -706,6 +611,70 @@
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "بورس به تعادل رسید/ خروج پول حقیقی از بازار سهام به بیش از ۱۷۰۰ میلیارد تومان رسید",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305783-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%B1%D8%B3%DB%8C%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "در پایان معاملات بورس امروز، خالص جریان پول حقیقی از سهام، حق تقدم و صندوق های سهامی به منفی یک هزار و ۷۰۶ میلیارد تومان رسید.",
+    "published": "Mon, 02 Nov 2026 10:16:22 +0000",
+    "collected_at": "2026-11-02T13:48:14.618646+03:30",
+    "filter_market_score": 29,
+    "market_score": 32,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "خروج پول حقیقی",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "خروج پول حقیقی",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "خروج پول",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "خروج پول حقیقی",
+      "سهام",
+      "بازار سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -1429,78 +1398,6 @@
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "ایسنا",
-    "title": "طلا با وجود نوسانات اخیر همچنان امن ترین پناهگاه سرمایه در بازارهای جهانی است",
-    "link": "https://www.isna.ir/news/1405081006242/%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D9%86%D9%88%D8%B3%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D8%AE%DB%8C%D8%B1-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%A7%D9%85%D9%86-%D8%AA%D8%B1%DB%8C%D9%86-%D9%BE%D9%86%D8%A7%D9%87%DA%AF%D8%A7%D9%87-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C",
-    "summary": "یک کارشناس بازار طلا و ارز، با تأکید بر اینکه چشم انداز میان مدت اونس جهانی صعودی است، گفت: با وجود نوسانات مقطعی، فشارهای تورمی ناشی از بخش انرژی و تحلیل های انقباضی بانک های غربی، طلا همچنان مطمئن ترین پناهگاه برای حفظ ارزش دارایی ها در بازارهای بین المللی محسوب می شود.",
-    "published": "Sun, 01 Nov 2026 08:56:13 GMT",
-    "collected_at": "2026-11-01T12:27:18.143844+03:30",
-    "filter_market_score": 25,
-    "market_score": 30,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "اونس جهانی"
-      ],
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس جهانی"
-      ],
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "تورم"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صعود",
-      "تحلیل",
-      "چشم‌انداز",
-      "چشم انداز"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "اونس جهانی"
-    ],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "تورم"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -2660,6 +2557,118 @@
     "duplicate_count": 1
   },
   {
+    "source": "مهر",
+    "title": "کاغذ نشر با نرخ ارز مبادله ای در اختیار ناشران قرار می گیرد",
+    "link": "https://www.mehrnews.com/news/6997469/%DA%A9%D8%A7%D8%BA%D8%B0-%D9%86%D8%B4%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D9%86%D8%A7%D8%B4%D8%B1%D8%A7%D9%86-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%DB%8C-%DA%AF%DB%8C%D8%B1%D8%AF",
+    "summary": "با پیگیری معاونت امور فرهنگی وزارت فرهنگ، فرآیند تخصیص ارز مبادله ای برای تامین کاغذ ناشران کلید خورده و ثبت نام برای توزیع این کاغذ از امروز (11 آبان ماه 1405) آغاز شده است.",
+    "published": "Mon, 02 Nov 2026 09:44:54 GMT",
+    "collected_at": "2026-11-02T13:48:03.375888+03:30",
+    "filter_market_score": 16,
+    "market_score": 21,
+    "market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "ایسنا",
+    "title": "آغاز ثبت نام کاغذ نشر با نرخ ارز مبادله ای",
+    "link": "https://www.isna.ir/news/1405081107101/%D8%A2%D8%BA%D8%A7%D8%B2-%D8%AB%D8%A8%D8%AA-%D9%86%D8%A7%D9%85-%DA%A9%D8%A7%D8%BA%D8%B0-%D9%86%D8%B4%D8%B1-%D8%A8%D8%A7-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C",
+    "summary": "با پیگیری معاونت امور فرهنگی وزارت فرهنگ، فرآیند تخصیص ارز مبادله ای برای تامین کاغذ ناشران کلید خورده و ثبت نام برای توزیع این کاغذ از امروز (۱۱ آبان ماه ۱۴۰۵) آغاز شده است.",
+    "published": "Mon, 02 Nov 2026 10:04:17 GMT",
+    "collected_at": "2026-11-02T13:47:49.364565+03:30",
+    "filter_market_score": 16,
+    "market_score": 21,
+    "market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "بازگشت بورس به کف 19روزه",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305510-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%DA%A9%D9%81-%D8%B1%D9%88%D8%B2%D9%87",
@@ -3610,60 +3619,6 @@
   },
   {
     "source": "ایسنا",
-    "title": "تولید ریالی و فروش دلاری، بزرگ ترین رانت اقتصاد ایران!",
-    "link": "https://www.isna.ir/news/1405081006230/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D9%88-%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B1%D8%A7%D9%86%D8%AA-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-    "summary": "یک کارشناس اقتصادی با انتقاد از سیاست های پولی و ارزی کشور گفت: در شرایطی که سرمایه گذاری در بازار ارز به اوج رسیده، فعالیت در این بازار نه تنها ارزش افزوده ای برای اقتصاد ایجاد نمی کند بلکه بخش مولد اقتصاد را از رقابت خارج کرده است.",
-    "published": "Sun, 01 Nov 2026 08:49:15 GMT",
-    "collected_at": "2026-11-01T12:27:18.144015+03:30",
-    "filter_market_score": 15,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "بازار ارز",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "بازار ارز",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "بازار ارز",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "ایسنا",
     "title": "تیغِ تیزِ «رفع تعهد ارزی» بر گلوی صادرکنندگان؛ هشدار صریح رئیس اتاق یزد به اهمال کاران",
     "link": "https://www.isna.ir/news/1405081106984/%D8%AA%DB%8C%D8%BA-%D8%AA%DB%8C%D8%B2-%D8%B1%D9%81%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A8%D8%B1-%DA%AF%D9%84%D9%88%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%B5%D8%B1%DB%8C%D8%AD-%D8%B1%D8%A6%DB%8C%D8%B3",
     "summary": "رئیس اتاق بازرگانی، صنایع، معادن و کشاورزی استان یزد با تفکیک پرونده های رفع تعهد ارزی به زیر و بالای سه میلیون دلار، صادرکنندگان را به اقدام فوری فراخواند و در عین حال، با انتقاد از اثر مخرب مسدودی حساب ها بر جریان جاری واحدهای تولیدی، خواستار طراحی راهکاری شد تا حقوق دولت و تولید کننده حفظ شود.",
@@ -4142,60 +4097,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "ایسنا",
-    "title": "از بوئینگ مسافربری تا سوخت رسان جنگی؛ معامله بزرگ هند با تل آویو",
-    "link": "https://www.isna.ir/news/1405081006258/%D8%A7%D8%B2-%D8%A8%D9%88%D8%A6%DB%8C%D9%86%DA%AF-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D8%A8%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%B3%D9%88%D8%AE%D8%AA-%D8%B1%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%DA%AF%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%D8%A8%D8%B2%D8%B1%DA%AF-%D9%87%D9%86%D8%AF-%D8%A8%D8%A7-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88",
-    "summary": "صنایع هوافضای رژیم صهیونیستی در آستانه عقد قراردادی ۹۰۵ میلیون دلاری با هند برای تبدیل شش بوئینگ ۷۶۷ به سوخت رسان های هوایی قرار دارد؛ توافقی که می تواند نفوذ نظامی تل آویو در بازار دهلی نو را افزایش دهد.",
-    "published": "Sun, 01 Nov 2026 09:03:34 GMT",
-    "collected_at": "2026-11-01T12:34:31.784074+03:30",
-    "filter_market_score": 9,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "افزایش",
-      "توافق"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "تابناک",
     "title": "روز تلخ سهامداران؛ ثبت ریزش ۱۸۴ هزار واحدی شاخص و تداوم خروج پول",
     "link": "https://tabnak.ir/fa/news/100000041/%D8%B1%D9%88%D8%B2-%D8%AA%D9%84%D8%AE-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%AB%D8%A8%D8%AA-%D8%B1%DB%8C%D8%B2%D8%B4-%DB%B1%DB%B8%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%88-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D8%AE%D8%B1%D9%88%D8%AC-%D9%BE%D9%88%D9%84-47cae81a6644405290deb6ab",
@@ -4243,6 +4144,58 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "ایسنا",
+    "title": "سیاست های ارزی ناکارآمد، منابع را از تولید به اقتصاد زیرزمینی سوق می دهد",
+    "link": "https://www.isna.ir/news/1405081107114/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%86%D8%A7%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D8%AF-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A8%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%B2%DB%8C%D8%B1%D8%B2%D9%85%DB%8C%D9%86%DB%8C",
+    "summary": "رئیس اتاق بازرگانی فارس با انتقاد از سیاست های ارزی و مقررات بانکی کشور گفت: محدودیت در ورود قانونی ارز و بازگشت منابع ارزی به چرخه رسمی اقتصاد، موجب تقویت فعالیت های غیررسمی، گسترش اقتصاد زیرزمینی و کاهش انگیزه سرمایه گذاری در بخش تولید می شود.",
+    "published": "Mon, 02 Nov 2026 10:12:07 GMT",
+    "collected_at": "2026-11-02T13:47:49.364401+03:30",
+    "filter_market_score": 12,
+    "market_score": 15,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -4394,58 +4347,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "گزارش هالووینی از وال استریت",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%86%DB%8C%D8%A7-5/4305504-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D9%87%D8%A7%D9%84%D9%88%D9%88%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2-%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%DB%8C%D8%AA",
-    "summary": "دنیای اقتصاد: انتخابات میان دوره ای آمریکا، انتشار مجموعه ای از گزارش های مالی شرکت ها و اعلام آمار ماهانه اشتغال، هفته آینده بازار سهام این کشور را در معرض آزمونی تازه قرار می دهد؛ بازاری که پس از چندین عقب نشینی در معاملات مرتبط با هوش مصنوعی، با تردیدهای فزاینده سرمایه گذاران روبه رو شده است.",
-    "published": "Sun, 01 Nov 2026 08:30:31 +0000",
-    "collected_at": "2026-11-01T12:05:47.901445+03:30",
-    "filter_market_score": 12,
-    "market_score": 13,
-    "market_matches": {
-      "stock": [
-        "سهام",
-        "بازار سهام"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "سهام",
-        "بازار سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "گزارش",
-      "معاملات",
-      "آمار"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "سهام",
-      "بازار سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -5658,51 +5559,6 @@
     "stock_matches": [
       "سهام"
     ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "درآمد نجومی از هک/ کره شمالی چطور با سرقت رمزارز ها درآمد کسب می کند و سلاح می سازد؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305539-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D9%86%D8%AC%D9%88%D9%85%DB%8C-%D8%A7%D8%B2-%D9%87%DA%A9-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%DA%86%D8%B7%D9%88%D8%B1-%D8%A8%D8%A7-%D8%B3%D8%B1%D9%82%D8%AA-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2-%D9%87%D8%A7-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%DA%A9%D8%B3%D8%A8-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D8%B3%D9%84%D8%A7%D8%AD-%D9%85%DB%8C-%D8%B3%D8%A7%D8%B2%D8%AF",
-    "summary": "برآوردها نشان می دهد درآمد حاصل از سرقت رمزارزها حدود نیمی از درآمد ارزی کره شمالی را تشکیل می دهد و حتی می تواند ۴۰ درصد هزینه برنامه های تسلیحات کشتارجمعی این کشور را تأمین کند.",
-    "published": "Sun, 01 Nov 2026 08:33:18 +0000",
-    "collected_at": "2026-11-01T12:27:30.698346+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
