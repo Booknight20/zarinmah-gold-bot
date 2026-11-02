@@ -3014,6 +3014,41 @@
     "filter_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "۴۰ میلیون دلار صرف تبلیغات مرتبط با پرونده اپستین در انتخابات آمریکا",
+    "link": "https://www.mashreghnews.ir/news/1849654/%DB%B4%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7-%D8%A8%D8%A7-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%A7%D9%BE%D8%B3%D8%AA%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
+    "summary": "دموکرات ها با هزینه بیش از ۴۰ میلیون دلار، پرونده اپستین را به سلاح تبلیغاتی علیه جمهوری خواهان در رقابت های حساس سنا تبدیل کرده اند.",
+    "published": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "collected_at": "2026-11-02T03:37:15.662169+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "ایسنا",
     "title": "افزایش ۳۲ درصدی صادرات از گمرکات گیلان",
     "link": "https://www.isna.ir/news/1405081006548/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3%DB%B2-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B2-%DA%AF%D9%85%D8%B1%DA%A9%D8%A7%D8%AA-%DA%AF%DB%8C%D9%84%D8%A7%D9%86",
@@ -3650,6 +3685,40 @@
       "جنگ"
     ],
     "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "تابناک",
+    "title": "لحظه سقوط هواپیما در فلوریدا آمریکا",
+    "link": "https://tabnak.ir/fa/news/100000092/%D9%84%D8%AD%D8%B8%D9%87-%D8%B3%D9%82%D9%88%D8%B7-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7-%D8%AF%D8%B1-%D9%81%D9%84%D9%88%D8%B1%DB%8C%D8%AF%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-08306d1136a54a8aae0c6dda",
+    "summary": "یک هواپیمای خصوصی حامل ۹ سرنشین در بعدازظهر یکشنبه، در محله ای مسکونی در جنوب فلوریدا و در فاصلهٔ حدود ۱۴ کیلومتری از عمارت مارالاگو متعلق به دونالد ترامپ، رئیس جمهوری آمریکا، سقوط کرد. سانحه ای مرگبار که دست کم ۹ کشته برجای گذاشت. هواپیمای لیرجت 10 میلیون دلاری عازم باهاما بود که بعد از صعود به ارتفاع ۴۱۰۰۰ پا ناگهان به سمت راست غلطید و با حالت شیرجه در یک منطقه مسکونی سقوط کرد!",
+    "published": "Sun, 01 Nov 2026 16:13:00 +0000",
+    "collected_at": "2026-11-02T03:37:12.947867+03:30",
+    "filter_market_score": 6,
+    "market_score": 6,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "سقوط",
+      "صعود"
+    ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },

@@ -25622,5 +25622,53 @@
     "group_message_id": 1946,
     "fully_published": true,
     "last_checked_at": "2026-11-01T20:48:19.262510+00:00"
+  },
+  "2c4682b7a2b97a6e1ffb6dea0fe4995a9331abeb2930e468d347e01a49a25604": {
+    "title": "لحظه سقوط هواپیما در فلوریدا آمریکا",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000092/%D9%84%D8%AD%D8%B8%D9%87-%D8%B3%D9%82%D9%88%D8%B7-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7-%D8%AF%D8%B1-%D9%81%D9%84%D9%88%D8%B1%DB%8C%D8%AF%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-08306d1136a54a8aae0c6dda",
+    "telegram_message_ids": [
+      2199
+    ],
+    "eitaa_message_ids": [
+      179528364
+    ],
+    "group_message_ids": [
+      1947
+    ],
+    "content_hash": "df20874826b272c2bb74ba3773ae7c9a3cc9c347b38a2600b084062ec8eb7082",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T00:07:40.247143+00:00",
+    "telegram_message_id": 2199,
+    "eitaa_last_sent_at": "2026-11-02T00:07:41.879157+00:00",
+    "eitaa_message_id": 179528364,
+    "group_last_sent_at": "2026-11-02T00:07:43.664946+00:00",
+    "group_message_id": 1947,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T00:07:43.706275+00:00"
+  },
+  "8a2585cf49ff40d1bfc25845a56f112543337f31f3b0f5e157fd28f8ad0955d6": {
+    "title": "۴۰ میلیون دلار صرف تبلیغات مرتبط با پرونده اپستین در انتخابات آمریکا",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1849654/%DB%B4%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7-%D8%A8%D8%A7-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%A7%D9%BE%D8%B3%D8%AA%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
+    "telegram_message_ids": [
+      2200
+    ],
+    "eitaa_message_ids": [
+      179528367
+    ],
+    "group_message_ids": [
+      1948
+    ],
+    "content_hash": "d685cdd57ea055819b847f9344ddfd9a4889ab0cb43474f25497288e5e01eab6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T00:07:45.486703+00:00",
+    "telegram_message_id": 2200,
+    "eitaa_last_sent_at": "2026-11-02T00:07:47.155467+00:00",
+    "eitaa_message_id": 179528367,
+    "group_last_sent_at": "2026-11-02T00:07:48.909900+00:00",
+    "group_message_id": 1948,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T00:07:48.950845+00:00"
   }
 }
