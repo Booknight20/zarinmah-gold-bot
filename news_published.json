@@ -26318,5 +26318,77 @@
     "group_message_id": 1981,
     "fully_published": true,
     "last_checked_at": "2026-11-02T07:48:30.722619+00:00"
+  },
+  "2c9db680dfbbdd3c57d5130683e9b40db0b879d7cab646198c06afc478a6e62d": {
+    "title": "۲۲ رتبه دو رقمی کنکور فارس به دانش آموزان ناحیه ۲ شیراز اختصاص دارد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081106944/%DB%B2%DB%B2-%D8%B1%D8%AA%D8%A8%D9%87-%D8%AF%D9%88-%D8%B1%D9%82%D9%85%DB%8C-%DA%A9%D9%86%DA%A9%D9%88%D8%B1-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D9%87-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2%D8%A7%D9%86-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%DB%B2-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5",
+    "telegram_message_ids": [
+      2235
+    ],
+    "eitaa_message_ids": [
+      179585581
+    ],
+    "group_message_ids": [
+      1983
+    ],
+    "content_hash": "5cccbea8dff65fb2e075c43e34f289bd240363720d79b04f67f9e3f06b69df81",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T08:18:28.681215+00:00",
+    "telegram_message_id": 2235,
+    "eitaa_last_sent_at": "2026-11-02T08:18:29.895624+00:00",
+    "eitaa_message_id": 179585581,
+    "group_last_sent_at": "2026-11-02T08:18:31.529996+00:00",
+    "group_message_id": 1983,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T08:18:31.572094+00:00"
+  },
+  "29c056459ddd2dce7f62283345afd18d2e98f93ead1647d76af7a50cd3b684d6": {
+    "title": "قیمت دلار، یورو و درهم امروز دوشنبه ۱۱ آبان ۱۴۰۵/ افزایش قیمت دلار",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305770-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      2236
+    ],
+    "eitaa_message_ids": [
+      179585589
+    ],
+    "group_message_ids": [
+      1984
+    ],
+    "content_hash": "7c036dcb812c2a411275d9064271dbced9ef076ed40a1949d4f87013cf50774a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T08:18:33.184485+00:00",
+    "telegram_message_id": 2236,
+    "eitaa_last_sent_at": "2026-11-02T08:18:34.388945+00:00",
+    "eitaa_message_id": 179585589,
+    "group_last_sent_at": "2026-11-02T08:18:35.960319+00:00",
+    "group_message_id": 1984,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T08:18:36.002353+00:00"
+  },
+  "dfe099459d757440b1e0debc550c56c7a995da23ebb14c76d9e854d58943ceef": {
+    "title": "قیمت سکه، نیم سکه و ربع سکه امروز دوشنبه ۱۱ آبان ۱۴۰۵ / سکه صعودی شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305769-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2237
+    ],
+    "eitaa_message_ids": [
+      179585604
+    ],
+    "group_message_ids": [
+      1985
+    ],
+    "content_hash": "27639478108f4096df24de95b711d26095069c5639368f56b608485278645f43",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T08:18:37.638600+00:00",
+    "telegram_message_id": 2237,
+    "eitaa_last_sent_at": "2026-11-02T08:18:38.800170+00:00",
+    "eitaa_message_id": 179585604,
+    "group_last_sent_at": "2026-11-02T08:18:40.395575+00:00",
+    "group_message_id": 1985,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T08:18:40.437768+00:00"
   }
 }

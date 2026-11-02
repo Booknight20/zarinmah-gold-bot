@@ -22028,5 +22028,72 @@
     "group_sent_at": "2026-11-02T11:18:33.018316+03:30",
     "group_message_id": 1982,
     "published_at": "2026-11-02T11:18:33.040554+03:30"
+  },
+  "https://t.me/nasiirry/17736": {
+    "item": {
+      "analyst": "حسین نصیری",
+      "title": "رویترز گزارش داده هم‌زمان با ادامه مذاکرات ایران و قطر، قیمت نفت بیش از ۳ درصد افت کرده؛",
+      "summary": "رویترز گزارش داده هم‌زمان با ادامه مذاکرات ایران و قطر، قیمت نفت بیش از ۳ درصد افت کرده؛ چون بازار احتمال کاهش تنش و بهترشدن وضعیت عبور نفت از منطقه رو جدی گرفته.\nفعلاً تا وقتی خبرهای دیپلماسی دست بالا رو داشته باشن، فشار روی نفت ادامه داره\n\n @nasiirry",
+      "full_text": "رویترز گزارش داده هم‌زمان با ادامه مذاکرات ایران و قطر، قیمت نفت بیش از ۳ درصد افت کرده؛ چون بازار احتمال کاهش تنش و بهترشدن وضعیت عبور نفت از منطقه رو جدی گرفته.\nفعلاً تا وقتی خبرهای دیپلماسی دست بالا رو داشته باشن، فشار روی نفت ادامه داره\n\n @nasiirry",
+      "source": "حسین نصیری",
+      "link": "https://t.me/nasiirry/17736",
+      "analysis_score": 15,
+      "market_matches": [
+        "قیمت نفت",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "احتمال",
+        "رشد",
+        "کاهش",
+        "قیمت"
+      ],
+      "market_groups": [
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی"
+      ],
+      "priority": "high",
+      "content_length": 252,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-02T11:48:25.819958+03:30"
+    },
+    "content_signature": "4cb612a5ace17ddeee61aa282b5b264565e17d1c195acd5394f238ca23fd864d",
+    "first_seen_at": "2026-11-02T11:48:40.651200+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2238
+    ],
+    "telegram_last_success_at": "2026-11-02T11:48:40.995893+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-02T11:48:41.018763+03:30",
+    "telegram_message_id": 2238,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179585613
+    ],
+    "eitaa_last_success_at": "2026-11-02T11:48:42.165765+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-02T11:48:42.188529+03:30",
+    "eitaa_message_id": 179585613,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      1986
+    ],
+    "group_last_success_at": "2026-11-02T11:48:42.604898+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-02T11:48:42.628009+03:30",
+    "group_message_id": 1986,
+    "published_at": "2026-11-02T11:48:42.650562+03:30"
   }
 }
