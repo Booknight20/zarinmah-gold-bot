@@ -26774,5 +26774,101 @@
     "group_message_id": 2006,
     "fully_published": true,
     "last_checked_at": "2026-11-02T10:19:06.318388+00:00"
+  },
+  "93cd06f7a8f0ad0151fa1c11f75f1ff2f07466a427ee8fffb2b015ae4cf649bf": {
+    "title": "هدف گذاری تجارت ۱۰ میلیارد دلاری ایران و برزیل تا سال ۲۰۳۰",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6997526/%D9%87%D8%AF%D9%81-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%DB%B1%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A8%D8%B1%D8%B2%DB%8C%D9%84-%D8%AA%D8%A7-%D8%B3%D8%A7%D9%84-%DB%B2%DB%B0%DB%B3%DB%B0",
+    "telegram_message_ids": [
+      2260
+    ],
+    "eitaa_message_ids": [
+      179611462
+    ],
+    "group_message_ids": [
+      2008
+    ],
+    "content_hash": "711ec0a9f168e7b0e3c83a1460ff87c1b9c7a7b81d7ac185091ad21feceeea89",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T10:44:53.474506+00:00",
+    "telegram_message_id": 2260,
+    "eitaa_last_sent_at": "2026-11-02T10:44:54.701696+00:00",
+    "eitaa_message_id": 179611462,
+    "group_last_sent_at": "2026-11-02T10:44:56.478375+00:00",
+    "group_message_id": 2008,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T10:44:56.502266+00:00"
+  },
+  "a15572ff7d63df97532394d0a71fd15f0ddc3382022aa1a898c745e59a31ef0c": {
+    "title": "نرخ ارز دلار، طلا و یورو امروز دوشنبه ۱۱ آبان ۱۴۰۵/ افزایش قیمت طلا و سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305771-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      2261
+    ],
+    "eitaa_message_ids": [
+      179611469
+    ],
+    "group_message_ids": [
+      2009
+    ],
+    "content_hash": "74e05a21e62f51ada1a23ecd2851e1e18bd5447512beb90c9542a7c3da50111f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T10:44:58.263527+00:00",
+    "telegram_message_id": 2261,
+    "eitaa_last_sent_at": "2026-11-02T10:44:59.473504+00:00",
+    "eitaa_message_id": 179611469,
+    "group_last_sent_at": "2026-11-02T10:45:01.214529+00:00",
+    "group_message_id": 2009,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T10:45:01.238369+00:00"
+  },
+  "9e7a483e8b8fa5c042773e5bbd4334d094e11f6c6dbe2f02b3e7988f2b509a1b": {
+    "title": "رکورددار جهش قیمت دلار کدام رئیس کل بانک مرکزی است؟ / همتی صدرنشین است البته در دوره فشارهای سه جنگ + آمارها و جداول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296409/%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%AF%D8%A7%D8%B1-%D8%AC%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DA%A9%D8%AF%D8%A7%D9%85-%D8%B1%D8%A6%DB%8C%D8%B3-%DA%A9%D9%84-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA-%D9%87%D9%85%D8%AA%DB%8C-%D8%B5%D8%AF%D8%B1%D9%86%D8%B4%DB%8C%D9%86",
+    "telegram_message_ids": [
+      2262
+    ],
+    "eitaa_message_ids": [
+      179611485
+    ],
+    "group_message_ids": [
+      2010
+    ],
+    "content_hash": "3e056e97eb4f47be2fe406e31ac5a59f3afae8e8328a8d87acd52774ba3ef8f9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T10:45:03.016362+00:00",
+    "telegram_message_id": 2262,
+    "eitaa_last_sent_at": "2026-11-02T10:45:03.912115+00:00",
+    "eitaa_message_id": 179611485,
+    "group_last_sent_at": "2026-11-02T10:45:05.620629+00:00",
+    "group_message_id": 2010,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T10:45:05.644481+00:00"
+  },
+  "85006ac53736391ffcb4378aea394358bc31c06a21ab9570cde4dd23a6efba7e": {
+    "title": "قیمت طلا و سکه امروز 11 آبان / انفجار سکه امامی و بازگشت غول های بازار !",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000158/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-11-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C-%D9%88-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%BA%D9%88%D9%84%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-5c3365827ecc4f1eb480cbe9",
+    "telegram_message_ids": [
+      2263
+    ],
+    "eitaa_message_ids": [
+      179611503
+    ],
+    "group_message_ids": [
+      2011
+    ],
+    "content_hash": "8d73749a476013eecab19bbc7b249f2cd6d342f775d958a62c9924a85d41d21d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T10:45:07.454865+00:00",
+    "telegram_message_id": 2263,
+    "eitaa_last_sent_at": "2026-11-02T10:45:09.001306+00:00",
+    "eitaa_message_id": 179611503,
+    "group_last_sent_at": "2026-11-02T10:45:10.737838+00:00",
+    "group_message_id": 2011,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T10:45:10.761387+00:00"
   }
 }
