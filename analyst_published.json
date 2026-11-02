@@ -22928,5 +22928,72 @@
     "group_sent_at": "2026-11-02T17:18:35.685566+03:30",
     "group_message_id": 2042,
     "published_at": "2026-11-02T17:18:35.709018+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25939": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "سقوط نفت به ۶.۵٪ رسید ، نفت ۱۰۶ دلار",
+      "summary": "سقوط نفت به ۶.۵٪ رسید ، نفت ۱۰۶ دلار \n\n عراقچی:با توجه به بررسی و خطیر بودن شرایط فعلی، تصمیم‌گیری‌ها فوق‌العاده فشرده شده و رایزنی‌ها از نزدیک در جریان است. \nقطر و پاكستان به عنوان ميانجي‌هاي اين روند نقش بسيار فعالي را بر عهده دارند. \nرفت‌وآمد هیئت‌ها مشهود است و در کنار آن ده‌ها گفت‌وگوی تلفنی میان طرف‌ها انجام می‌شود و پیام‌های متعددی ردوبدل می‌شود.\n\n @payamelyaskordi ✅",
+      "full_text": "سقوط نفت به ۶.۵٪ رسید ، نفت ۱۰۶ دلار \n\n عراقچی:با توجه به بررسی و خطیر بودن شرایط فعلی، تصمیم‌گیری‌ها فوق‌العاده فشرده شده و رایزنی‌ها از نزدیک در جریان است. \nقطر و پاكستان به عنوان ميانجي‌هاي اين روند نقش بسيار فعالي را بر عهده دارند. \nرفت‌وآمد هیئت‌ها مشهود است و در کنار آن ده‌ها گفت‌وگوی تلفنی میان طرف‌ها انجام می‌شود و پیام‌های متعددی ردوبدل می‌شود.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25939",
+      "analysis_score": 15,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "روند"
+      ],
+      "market_groups": [
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 376,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-02T19:14:55.367797+03:30"
+    },
+    "content_signature": "7af7d5af72a960c9a4ef95d1d88928b13039f352d6ec5d0a5ded63a29ccfe1ed",
+    "first_seen_at": "2026-11-02T19:15:02.599628+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2305
+    ],
+    "telegram_last_success_at": "2026-11-02T19:15:03.102105+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-02T19:15:03.116623+03:30",
+    "telegram_message_id": 2305,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179663325
+    ],
+    "eitaa_last_success_at": "2026-11-02T19:15:06.622628+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-02T19:15:06.636080+03:30",
+    "eitaa_message_id": 179663325,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2053
+    ],
+    "group_last_success_at": "2026-11-02T19:15:07.239712+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-02T19:15:07.253730+03:30",
+    "group_message_id": 2053,
+    "published_at": "2026-11-02T19:15:07.269598+03:30"
   }
 }

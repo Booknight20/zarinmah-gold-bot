@@ -27494,5 +27494,29 @@
     "group_message_id": 2051,
     "fully_published": true,
     "last_checked_at": "2026-11-02T15:15:00.127691+00:00"
+  },
+  "b8b4701660d3bcfce24f6a4410cfb851964942146fbbbde0c52261bdd1cc1ab6": {
+    "title": "تغییر مسیر معاملات بازار سرمایه پس از ریزش/ صندوق تثبیت، حامی بازار یا ناظر بحران؟ +فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305859-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D8%AD%D8%A7%D9%85%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DB%8C%D8%A7-%D9%86%D8%A7%D8%B8%D8%B1-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      2304
+    ],
+    "eitaa_message_ids": [
+      179663296
+    ],
+    "group_message_ids": [
+      2052
+    ],
+    "content_hash": "5d92842faed344322f00da71cd0af30cff946484d4a61a78f79607d3be36f716",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-02T15:44:59.276907+00:00",
+    "telegram_message_id": 2304,
+    "eitaa_last_sent_at": "2026-11-02T15:45:00.730928+00:00",
+    "eitaa_message_id": 179663296,
+    "group_last_sent_at": "2026-11-02T15:45:02.441636+00:00",
+    "group_message_id": 2052,
+    "fully_published": true,
+    "last_checked_at": "2026-11-02T15:45:02.465964+00:00"
   }
 }

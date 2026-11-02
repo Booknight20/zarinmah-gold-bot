@@ -1855,69 +1855,6 @@
     "ranking_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "تابلوی سرخ بورس",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4305584-%D8%AA%D8%A7%D8%A8%D9%84%D9%88%DB%8C-%D8%B3%D8%B1%D8%AE-%D8%A8%D9%88%D8%B1%D8%B3",
-    "summary": "دنیای اقتصاد: بورس تهران در معاملات روز یکشنبه برای دومین روز متوالی با افت شاخص های سهامی همراه شد. شاخص کل با کاهش 2.36 درصدی و از دست دادن کانال 7.7 میلیونی به سطح ۷ میلیون و ۶۵۴ هزار واحد عقب نشینی کرد و شاخص هم وزن نیز افت 1.41 درصدی را تجربه کرد و در سطح ۲ میلیون و ۱۶۵ هزار واحد ایستاد.",
-    "published": "Sun, 01 Nov 2026 14:02:21 +0000",
-    "collected_at": "2026-11-01T17:47:41.279068+03:30",
-    "filter_market_score": 24,
-    "market_score": 25,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "افت",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن",
-      "سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "حراج شمش طلا ۱۲ آبان برگزار می شود/ متقاضیان باید پنج میلیارد تومان به عنوان وجه الضمان واریز کنند",
     "link": "https://www.khabaronline.ir/news/2296146/%D8%AD%D8%B1%D8%A7%D8%AC-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C%D8%A7%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%BE%D9%86%D8%AC-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF",
@@ -2084,6 +2021,71 @@
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "تغییر مسیر معاملات بازار سرمایه پس از ریزش/ صندوق تثبیت، حامی بازار یا ناظر بحران؟ +فیلم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305859-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D8%AD%D8%A7%D9%85%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%DB%8C%D8%A7-%D9%86%D8%A7%D8%B8%D8%B1-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "بورس امروز ۱۱ آبان ماه، پس از افت سنگین روز گذشته با بهبود نسبی تقاضا همراه شد؛ به طوری که ۶۸ درصد نمادها مثبت بودند و شاخص هم وزن ۰.۴۴ درصد رشد کرد. با این حال، شاخص کل ۰.۰۷ درصد افت داشت و حدود ۱.۴ همت پول حقیقی از بازار خارج شد.",
+    "published": "Mon, 02 Nov 2026 15:38:44 +0000",
+    "collected_at": "2026-11-02T19:14:34.041889+03:30",
+    "filter_market_score": 22,
+    "market_score": 24,
+    "market_matches": {
+      "stock": [
+        "بازار سرمایه",
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "ریزش",
+      "معاملات",
+      "تغییر",
+      "رشد",
+      "افت",
+      "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بازار سرمایه",
+      "بورس",
+      "شاخص کل",
+      "شاخص هم وزن"
+    ],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
@@ -4044,55 +4046,6 @@
     "ranking_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "دادگستری بوشهر: ۴۴۰ میلیون دلار مطالبات پتروشیمی جم وصول شد",
-    "link": "https://www.isna.ir/news/1405081006543/%D8%AF%D8%A7%D8%AF%DA%AF%D8%B3%D8%AA%D8%B1%DB%8C-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%DB%B4%DB%B4%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C-%D8%AC%D9%85-%D9%88%D8%B5%D9%88%D9%84-%D8%B4%D8%AF",
-    "summary": "رئیس کل دادگستری استان بوشهر از اجرای بخشی از حکم قطعی پرونده اختلاف پتروشیمی جم و پتروشیمی مهر به ارزش حدود ۴۴۰ میلیون دلار خبر داد و گفت: تأسیسات و ابنیه پتروشیمی مهر در راستای اجرای حکم به پتروشیمی جم تحویل شده و فعالیت تولیدی و اشتغال کارگران این مجموعه همچنان ادامه دارد.",
-    "published": "Sun, 01 Nov 2026 14:19:17 GMT",
-    "collected_at": "2026-11-01T18:17:17.947494+03:30",
-    "filter_market_score": 11,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "مشرق",
     "title": "۴۰ میلیون دلار صرف تبلیغات مرتبط با پرونده اپستین در انتخابات آمریکا",
     "link": "https://www.mashreghnews.ir/news/1849654/%DB%B4%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%B1%D9%81-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D9%85%D8%B1%D8%AA%D8%A8%D8%B7-%D8%A8%D8%A7-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%A7%D9%BE%D8%B3%D8%AA%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
@@ -4241,60 +4194,6 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "افزایش ۳۲ درصدی صادرات از گمرکات گیلان",
-    "link": "https://www.isna.ir/news/1405081006548/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3%DB%B2-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B2-%DA%AF%D9%85%D8%B1%DA%A9%D8%A7%D8%AA-%DA%AF%DB%8C%D9%84%D8%A7%D9%86",
-    "summary": "ناظر گمرکات استان گیلان و مدیرکل گمرک بندرانزلی با اشاره به روند افزایش صادرات از طریق گمرکات استان گفت: در هفت ماهه اول سالجاری یک میلیون و ۴۳ هزار تن کالا به ارزش بیش از ۵۸۱ میلیون دلار از گمرکات گیلان صادر شد که نسبت به مدت مشابه سال گذشته از لحاظ ارزش دلاری ۳۲ درصد رشد را نشان می دهد.",
-    "published": "Sun, 01 Nov 2026 14:38:59 GMT",
-    "collected_at": "2026-11-01T18:17:17.947395+03:30",
-    "filter_market_score": 10,
-    "market_score": 15,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "رشد",
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -4921,50 +4820,6 @@
     "ranking_applied": true
   },
   {
-    "source": "تابناک",
-    "title": "نبرد فینال محمد نخودی؛ طلسم طلا پابرجا ماند!",
-    "link": "https://tabnak.ir/fa/news/100000051/%D9%86%D8%A8%D8%B1%D8%AF-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%AE%D9%88%D8%AF%DB%8C-%D8%B7%D9%84%D8%B3%D9%85-%D8%B7%D9%84%D8%A7-%D9%BE%D8%A7%D8%A8%D8%B1%D8%AC%D8%A7%D8%B3%D8%AA-7f281657d0384e1298be8253",
-    "summary": "محمد نخودی در دیدار فینال برابر لوی هینز از آمریکا قرار گرفت و با نتیجه 3-4 شکست خورد و به مدال نقره دست یافت و بدین ترتیب طلسم طلایی شدنش پابرجا ماند. این نبرد سخت را می بینید.",
-    "published": "Sun, 01 Nov 2026 13:13:00 +0000",
-    "collected_at": "2026-11-01T17:47:48.801963+03:30",
-    "filter_market_score": 6,
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "مهر",
     "title": "گرانی انرژی و مواد اولیه، نفس صنایع اروپا را گرفت",
     "link": "https://www.mehrnews.com/news/6997708/%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D9%88-%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D9%86%D9%81%D8%B3-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B1%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA",
@@ -5108,50 +4963,6 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "یزدانی به مدال برنز جهان رسید/ سومی ایران با ۲ طلا، یک نقره و ۳ برنز",
-    "link": "https://www.isna.ir/news/1405081006551/%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF-%D8%B3%D9%88%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%DB%B2-%D8%B7%D9%84%D8%A7-%DB%8C%DA%A9-%D9%86%D9%82%D8%B1%D9%87-%D9%88",
-    "summary": "آزادکار وزن ۷۴ کیلوگرم ایران با شکست حریف خود از اسلواکی به مدال برنز جهان رسید.",
-    "published": "Sun, 01 Nov 2026 14:43:46 GMT",
-    "collected_at": "2026-11-01T18:17:17.947330+03:30",
-    "filter_market_score": 5,
-    "market_score": 11,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 5,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -5553,6 +5364,52 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "نوری: خام فروشی زعفران فاروج با نشان تجاری و فرآوری مهار می شود",
+    "link": "https://www.mehrnews.com/news/6997863/%D9%86%D9%88%D8%B1%DB%8C-%D8%AE%D8%A7%D9%85-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D9%88%D8%AC-%D8%A8%D8%A7-%D9%86%D8%B4%D8%A7%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D9%88-%D9%81%D8%B1%D8%A2%D9%88%D8%B1%DB%8C-%D9%85%D9%87%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "بجنورد- استاندار خراسان شمالی گفت: اهمیت بورس زعفران فاروج برکسی پوشیده نیست، اما باید با خام فروشی مقابله کرد و از طریق نشان تجاری و فرآوری، ارزش افزوده این محصول را افزایش داد.",
+    "published": "Mon, 02 Nov 2026 15:22:07 GMT",
+    "collected_at": "2026-11-02T19:14:29.063380+03:30",
+    "filter_market_score": 5,
+    "market_score": 8,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 5,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
