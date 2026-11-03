@@ -24498,5 +24498,258 @@
     "group_sent_at": "2026-11-03T20:47:22.279877+03:30",
     "group_message_id": 2177,
     "published_at": "2026-11-03T20:47:22.301831+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26002": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "بابک زنجانی گفته دلارهایی که بابت فروش بیت کوین انجام داده رو بریزه تو بازار دلار میاد زیر ۲۰۰ هزارتومان یعنی بابک زن...",
+      "summary": "بابک زنجانی گفته دلارهایی که بابت فروش بیت کوین انجام داده رو بریزه تو بازار دلار میاد زیر ۲۰۰ هزارتومان یعنی بابک زنجانی میتونه باعث ریزش ۲۵٪ دلار بشه!!!! @payamelyaskordi ✅",
+      "full_text": "بابک زنجانی گفته دلارهایی که بابت فروش بیت کوین انجام داده رو بریزه تو بازار دلار میاد زیر ۲۰۰ هزارتومان یعنی بابک زنجانی میتونه باعث ریزش ۲۵٪ دلار بشه!!!! @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26002",
+      "analysis_score": 12,
+      "market_matches": [
+        "دلار",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "ریزش",
+        "فروش"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "high",
+      "content_length": 174,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T21:18:20.114239+03:30"
+    },
+    "content_signature": "b37c3920ae4d958e43e44a6d08a5bf896f50840922ec8bd9cd719dd676d9c71e",
+    "first_seen_at": "2026-11-03T21:18:22.183987+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2426
+    ],
+    "telegram_last_success_at": "2026-11-03T21:18:22.600406+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T21:18:22.634686+03:30",
+    "telegram_message_id": 2426,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179868511
+    ],
+    "eitaa_last_success_at": "2026-11-03T21:18:23.731824+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T21:18:23.757062+03:30",
+    "eitaa_message_id": 179868511,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2178
+    ],
+    "group_last_success_at": "2026-11-03T21:18:24.184660+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T21:18:24.209727+03:30",
+    "group_message_id": 2178,
+    "published_at": "2026-11-03T21:18:24.234437+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8857": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "داخل وبینار تحلیل بیت کوین در حال انجامه",
+      "summary": "داخل وبینار تحلیل بیت کوین در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
+      "full_text": "داخل وبینار تحلیل بیت کوین در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8857",
+      "analysis_score": 10,
+      "market_matches": [
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "ورود"
+      ],
+      "market_groups": [],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 83,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T21:18:21.321395+03:30"
+    },
+    "content_signature": "369cb022daaf11ef76ff022d23af42dcf9ac4aa5277c6dde620558df53d043f7",
+    "first_seen_at": "2026-11-03T21:18:24.259784+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2427
+    ],
+    "telegram_last_success_at": "2026-11-03T21:18:24.596822+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T21:18:24.621834+03:30",
+    "telegram_message_id": 2427,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179868514
+    ],
+    "eitaa_last_success_at": "2026-11-03T21:18:25.962568+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T21:18:25.988551+03:30",
+    "eitaa_message_id": 179868514,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2179
+    ],
+    "group_last_success_at": "2026-11-03T21:18:26.368274+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T21:18:26.393447+03:30",
+    "group_message_id": 2179,
+    "published_at": "2026-11-03T21:18:26.420041+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8855": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "داخل وبینار تحلیل نفت در حال انجامه",
+      "summary": "داخل وبینار تحلیل نفت در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
+      "full_text": "داخل وبینار تحلیل نفت در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8855",
+      "analysis_score": 8,
+      "market_matches": [
+        "نفت"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "ورود"
+      ],
+      "market_groups": [
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 78,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T21:18:21.317338+03:30"
+    },
+    "content_signature": "98e8d9287a0bc17ef4c100b8ebe4a585820adc0ba4b0a5d09ff2e88ea65debd0",
+    "first_seen_at": "2026-11-03T21:18:26.449476+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2428
+    ],
+    "telegram_last_success_at": "2026-11-03T21:18:26.786426+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T21:18:26.811834+03:30",
+    "telegram_message_id": 2428,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179868517
+    ],
+    "eitaa_last_success_at": "2026-11-03T21:18:27.978099+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T21:18:28.003572+03:30",
+    "eitaa_message_id": 179868517,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2180
+    ],
+    "group_last_success_at": "2026-11-03T21:18:28.384953+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T21:18:28.410067+03:30",
+    "group_message_id": 2180,
+    "published_at": "2026-11-03T21:18:28.434675+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8856": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "داخل وبینار تحلیل طلا در حال انجامه",
+      "summary": "داخل وبینار تحلیل طلا در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
+      "full_text": "داخل وبینار تحلیل طلا در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8856",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "ورود"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 78,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T21:18:21.319366+03:30"
+    },
+    "content_signature": "ac9ed36669a8ed92cae9b6a825f68667178b97a92ba5d5fbb5cfcc60d621c485",
+    "first_seen_at": "2026-11-03T21:18:28.460101+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2429
+    ],
+    "telegram_last_success_at": "2026-11-03T21:18:28.807160+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T21:18:28.832800+03:30",
+    "telegram_message_id": 2429,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179868522
+    ],
+    "eitaa_last_success_at": "2026-11-03T21:18:30.011332+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T21:18:30.037016+03:30",
+    "eitaa_message_id": 179868522,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2181
+    ],
+    "group_last_success_at": "2026-11-03T21:18:30.409723+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T21:18:30.435565+03:30",
+    "group_message_id": 2181,
+    "published_at": "2026-11-03T21:18:30.461090+03:30"
   }
 }
