@@ -29390,5 +29390,29 @@
     "group_message_id": 2169,
     "fully_published": true,
     "last_checked_at": "2026-11-03T15:18:41.308351+00:00"
+  },
+  "2a673dcbf4d7978fb3c87ca8c2aabf0b4b8097864956eb455f72c8028f50c765": {
+    "title": "فشار مضاعف بر واحدهای تولیدی به بهانه شدت مصرف انرژی منطقی نیست",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081208243/%D9%81%D8%B4%D8%A7%D8%B1-%D9%85%D8%B6%D8%A7%D8%B9%D9%81-%D8%A8%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%A8%D9%87-%D8%A8%D9%87%D8%A7%D9%86%D9%87-%D8%B4%D8%AF%D8%AA-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D9%85%D9%86%D8%B7%D9%82%DB%8C-%D9%86%DB%8C%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      2418
+    ],
+    "eitaa_message_ids": [
+      179850802
+    ],
+    "group_message_ids": [
+      2170
+    ],
+    "content_hash": "46e9b00be0c48c058b931619e61638a3ee9fd5025ccd7d58315d3c4c1abf8356",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T15:48:00.233886+00:00",
+    "telegram_message_id": 2418,
+    "eitaa_last_sent_at": "2026-11-03T15:48:01.636728+00:00",
+    "eitaa_message_id": 179850802,
+    "group_last_sent_at": "2026-11-03T15:48:03.304510+00:00",
+    "group_message_id": 2170,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T15:48:03.348355+00:00"
   }
 }
