@@ -23731,5 +23731,73 @@
     "group_sent_at": "2026-11-03T12:20:42.565481+03:30",
     "group_message_id": 2125,
     "published_at": "2026-11-03T12:20:42.589124+03:30"
+  },
+  "https://t.me/drarashamini/7316": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "وضعیت صندوق های طلا و نقره",
+      "summary": "وضعیت صندوق های طلا و نقره\n\nدرسته منفی معامله میشن ولی خروج پول بزرگی نداشتیم و تا اینجا فقط 236 میلیارد پول از صندوق های طلا و نقره خارج شده.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "وضعیت صندوق های طلا و نقره\n\nدرسته منفی معامله میشن ولی خروج پول بزرگی نداشتیم و تا اینجا فقط 236 میلیارد پول از صندوق های طلا و نقره خارج شده.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7316",
+      "analysis_score": 17,
+      "market_matches": [
+        "طلا",
+        "صندوق‌های طلا"
+      ],
+      "analysis_matches": [
+        "معامله",
+        "خروج"
+      ],
+      "market_groups": [
+        "gold",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 267,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T12:44:40.941936+03:30"
+    },
+    "content_signature": "2abf6bc56d3072058965d608dcde6386b635b2d063d5398b62e44fb45caf1b6d",
+    "first_seen_at": "2026-11-03T12:44:42.741551+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2375
+    ],
+    "telegram_last_success_at": "2026-11-03T12:44:43.288946+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T12:44:43.304300+03:30",
+    "telegram_message_id": 2375,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179781655
+    ],
+    "eitaa_last_success_at": "2026-11-03T12:44:44.607834+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T12:44:44.622947+03:30",
+    "eitaa_message_id": 179781655,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2127
+    ],
+    "group_last_success_at": "2026-11-03T12:44:45.105704+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T12:44:45.120151+03:30",
+    "group_message_id": 2127,
+    "published_at": "2026-11-03T12:44:45.133911+03:30"
   }
 }
