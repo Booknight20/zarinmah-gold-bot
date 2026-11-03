@@ -352,6 +352,81 @@
     "telegram_preview": "📰 قیمت طلا و سکه امروز 11 آبان / انفجار سکه امامی و بازگشت غول های بازار !\n\nقیمت طلا و سکه امروز از فاز تردید خارج شد و رنگ سبز را پذیرفت! با جهش اونس جهانی به سمت مرز ۳۹۰۰ دلار، تمام اجزای بازار طلا و سکه هم جهت شدند و سکه امامی با قدرتی دوباره بازگشت.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/100000158/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-11-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C-%D9%88-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%BA%D9%88%D9%84%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-5c3365827ecc4f1eb480cbe9"
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "کاهش قیمت طلا در آستانه انتخابات آمریکا؛ اونس طلا ۳ هزار و۹۲۶ دلار شد/ قیمت جدید طلای جهانی امروز ۱۲ ابان ۱۴۰۵",
+    "link": "https://www.khabaronline.ir/news/2296859/%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%DB%B9%DB%B2%DB%B6",
+    "summary": "قیمت طلا در معاملات روز سه شنبه بازار جهانی، در آستانه انتخابات میان دوره ای آمریکا اندکی کاهش یافت و به ۳۹۲۶ دلار رسید.",
+    "published": "Tue, 03 Nov 2026 07:24:46 GMT",
+    "collected_at": "2026-11-03T11:18:05.393471+03:30",
+    "filter_market_score": 33,
+    "market_score": 37,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "اونس طلا",
+      "طلای جهانی"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "قیمت طلا در معاملات روز سه شنبه بازار جهانی، در آستانه انتخابات میان دوره ای آمریکا اندکی کاهش یافت و به ۳۹۲۶ دلار رسید.",
+    "telegram_preview": "📰 کاهش قیمت طلا در آستانه انتخابات آمریکا؛ اونس طلا ۳ هزار و۹۲۶ دلار شد/ قیمت جدید طلای جهانی امروز ۱۲ ابان ۱۴۰۵\n\nقیمت طلا در معاملات روز سه شنبه بازار جهانی، در آستانه انتخابات میان دوره ای آمریکا اندکی کاهش یافت و به ۳۹۲۶ دلار رسید.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2296859/%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%DB%B9%DB%B2%DB%B6"
+  },
+  {
     "source": "تابناک",
     "title": "عقب نشینی شاخص کل بورس؛ کاهش شتاب خروج پول از بازار سهام",
     "link": "https://tabnak.ir/fa/news/100000161/%D8%B9%D9%82%D8%A8%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%87%D8%B4-%D8%B4%D8%AA%D8%A7%D8%A8-%D8%AE%D8%B1%D9%88%D8%AC-%D9%BE%D9%88%D9%84-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-ac6ce6366da64e538e8ee401",
@@ -1868,6 +1943,71 @@
     "telegram_preview": "📰 بازپس گیری کانال ۷.۶ میلیونی شاخص کل بورس\n\nشاخص کل بورس تهران پس از ریزش ۶۳ هزار واحدی در ابتدای معاملات دوشنبه، با جمع آوری صف های فروش، بخشی از افت را جبران کرد و با کاهش ۵ هزار واحدی به کار خود پایان داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6997694/%D8%A8%D8%A7%D8%B2%D9%BE%D8%B3-%DA%AF%DB%8C%D8%B1%DB%8C-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B7-%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3"
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "گزارش بازار بورس امروز ۱۱ آبان ۱۴۰۵ / شاخص کل فقط ۵ هزار واحد افت کرد / ۶۴۶ نماد سبزپوش شدند",
+    "link": "https://www.khabaronline.ir/live/2296445/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%DB%B4%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF",
+    "summary": "بورس تهران در پایان معاملات امروز، پس از افت حدود ۶۵ هزار واحدی شاخص کل در ابتدای بازار، بخش عمده ریزش را جبران کرد؛ با این حال خروج بیش از ۱.۷ همت پول حقیقی نشان می دهد بازگشت تقاضا هنوز به معنای تغییر پایدار روند بازار نیست.",
+    "published": "Mon, 02 Nov 2026 11:05:00 GMT",
+    "collected_at": "2026-11-03T11:18:05.393900+03:30",
+    "filter_market_score": 22,
+    "market_score": 26,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افت",
+      "گزارش",
+      "ریزش",
+      "معاملات",
+      "تقاضا",
+      "تغییر",
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "بورس تهران در پایان معاملات امروز، پس از افت حدود ۶۵ هزار واحدی شاخص کل در ابتدای بازار، بخش عمده ریزش را جبران کرد؛ با این حال خروج بیش از ۱.۷ همت پول حقیقی نشان می دهد بازگشت تقاضا هنوز به معنای تغییر پایدار روند بازار نیست.",
+    "telegram_preview": "📰 گزارش بازار بورس امروز ۱۱ آبان ۱۴۰۵ / شاخص کل فقط ۵ هزار واحد افت کرد / ۶۴۶ نماد سبزپوش شدند\n\nبورس تهران در پایان معاملات امروز، پس از افت حدود ۶۵ هزار واحدی شاخص کل در ابتدای بازار، بخش عمده ریزش را جبران کرد؛ با این حال خروج بیش از ۱.۷ همت پول حقیقی نشان می دهد بازگشت تقاضا هنوز به معنای تغییر پایدار روند بازار نیست.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/live/2296445/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%DB%B4%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF"
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "قیمت دلار، یورو و درهم امروز دوشنبه ۱۱ آبان ۱۴۰۵/ افزایش قیمت دلار",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305770-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
@@ -2392,70 +2532,6 @@
     "duplicate_count": 1,
     "full_text": "معاملات بازار ارز در روز دوشنبه، همچون روز یکشنبه، در دامنه ای محدود دنبال شد و دلار تغییرات قیمتی قابل توجهی را تجربه نکرد. فاصله بالاترین و پایین ترین قیمت ثبت شده برای معاملات نقدی این ارز در روز دوشنبه به حدود ۶۰۰تومان رسید؛ درحالی که این فاصله در روز یکشنبه ۷۰۰ تومان بود. محدود شدن دامنه نوسانات روزانه در شرایطی رخ می دهد که از ابتدای آبان ماه، تغییرات قیمت دلار در هر روز معاملاتی نسبت به روز قبل، کمتر از یک درصد بوده است؛ به طوری که با احتساب معاملات روز دوشنبه، در ۱۱ روز نخست ماه جاری، بیشترین تغییر روزانه قیمت دلار 0.9درصد و کمترین آن 0.1درصد ثبت شده است. این در حالی است که در ۱۱ روز نخست مهرماه، در پنج روز تغییرات روزانه قیمت دلار از یک درصد فراتر رفته بود.",
     "telegram_preview": "📰 کاهش نوسان قیمت دلار\n\nمعاملات بازار ارز در روز دوشنبه، همچون روز یکشنبه، در دامنه ای محدود دنبال شد و دلار تغییرات قیمتی قابل توجهی را تجربه نکرد. فاصله بالاترین و پایین ترین قیمت ثبت شده برای معاملات نقدی این ارز در روز دوشنبه به حدود ۶۰۰تومان رسید؛ درحالی که این فاصله در روز یکشنبه ۷۰۰ تومان بود. محدود شدن دامنه نوسانات روزانه در شرایطی رخ می دهد که از ابتدای آبان ماه، تغییرات قیمت دلار در هر روز معاملاتی نسبت به روز قبل، کمتر از یک درصد بوده است؛ به طوری که با احتساب معاملات روز دوشنبه، در ۱۱ روز نخست ماه جاری، بیشترین تغییر روزانه قیمت دلار 0.9درصد و کمترین آن 0.1درصد ثبت شده است. این در حالی است که در ۱۱ روز نخست مهرماه، در پنج روز تغییرات روزانه قیمت دلار از یک درصد فراتر رفته بود.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4305880-%DA%A9%D8%A7%D9%87%D8%B4-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1"
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "نوسان بورس در مرز 7.6میلیونی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305760-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C",
-    "summary": "دنیای اقتصاد: معاملات بورس تهران امروز فضای متعادل تری را نسبت به روزهای گذشته تجربه می کند. اگرچه نماگرهای سهامی در ابتدای معاملات در محدوده منفی قرار داشتند و شاخص کل حتی برای مدتی کانال ۷ میلیون و ۶۰۰ هزار واحد را از دست داد، اما در ادامه با افزایش تقاضا این سطح را به سرعت پس گرفت.",
-    "published": "Mon, 02 Nov 2026 07:14:27 +0000",
-    "collected_at": "2026-11-02T11:17:48.145747+03:30",
-    "filter_market_score": 20,
-    "market_score": 24,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "نوسان",
-      "افزایش",
-      "معاملات",
-      "تقاضا"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "دنیای اقتصاد: معاملات بورس تهران امروز فضای متعادل تری را نسبت به روزهای گذشته تجربه می کند. اگرچه نماگرهای سهامی در ابتدای معاملات در محدوده منفی قرار داشتند و شاخص کل حتی برای مدتی کانال ۷ میلیون و ۶۰۰ هزار واحد را از دست داد، اما در ادامه با افزایش تقاضا این سطح را به سرعت پس گرفت.",
-    "telegram_preview": "📰 نوسان بورس در مرز 7.6میلیونی\n\nدنیای اقتصاد: معاملات بورس تهران امروز فضای متعادل تری را نسبت به روزهای گذشته تجربه می کند. اگرچه نماگرهای سهامی در ابتدای معاملات در محدوده منفی قرار داشتند و شاخص کل حتی برای مدتی کانال ۷ میلیون و ۶۰۰ هزار واحد را از دست داد، اما در ادامه با افزایش تقاضا این سطح را به سرعت پس گرفت.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305760-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C"
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -3367,6 +3443,62 @@
     "telegram_preview": "📰 اتابک: بخشی از ارز صادراتی باید در اختیار تولیدکنندگان قرار گیرد\n\nوزیر صنعت، معدن و تجارت با تأکید بر ضرورت حمایت از صادرکنندگان، خواستار فراهم شدن امکان استفاده از ارز حاصل از صادرات برای تأمین نیازهای تولیدی و واردات کالاهای مورد نیاز کشور شد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6998310/%D8%A7%D8%AA%D8%A7%D8%A8%DA%A9-%D8%A8%D8%AE%D8%B4%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B2-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%DB%8C-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%DB%8C%D8%B1%D8%AF"
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا ۱۸ عیار امروز سه شنبه ۱۲ آبان ۱۴۰۵/ کاهش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305977-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "به 25 میلیون و 516 هزار تومان رسید.",
+    "published": "Tue, 03 Nov 2026 07:41:07 +0000",
+    "collected_at": "2026-11-03T11:17:58.718959+03:30",
+    "filter_market_score": 15,
+    "market_score": 18,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "به 25 میلیون و 516 هزار تومان رسید.",
+    "telegram_preview": "📰 قیمت طلا ۱۸ عیار امروز سه شنبه ۱۲ آبان ۱۴۰۵/ کاهش قیمت طلا\n\nبه 25 میلیون و 516 هزار تومان رسید.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305977-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7"
+  },
+  {
     "source": "ایسنا",
     "title": "پاسخ خواهر اون به اتهامات آمریکا درباره دخالت کره شمالی در سرقت ۶ میلیارد دلاری از بایننس",
     "link": "https://www.isna.ir/news/1405081207491/%D9%BE%D8%A7%D8%B3%D8%AE-%D8%AE%D9%88%D8%A7%D9%87%D8%B1-%D8%A7%D9%88%D9%86-%D8%A8%D9%87-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AF%D8%AE%D8%A7%D9%84%D8%AA-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%B1%D9%82%D8%AA",
@@ -3536,6 +3668,62 @@
     "telegram_preview": "📰 صادرات ۱۹۳ میلیون دلاری محصولات کشاورزی هرمزگان در نیمه نخست سال\n\nبندرعباس - سرپرست مدیریت توسعه بازرگانی سازمان جهاد کشاورزی هرمزگان از صادرات بیش از ۳۰۸ هزار تن محصولات کشاورزی به ارزش ۱۹۳ میلیون و ۴۰۰ هزار دلار در شش ماهه نخست سال ۱۴۰۵ خبر داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6998187/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1%DB%B9%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D8%AE%D8%B3%D8%AA"
   },
   {
+    "source": "مشرق",
+    "title": "کاهش قیمت طلا در آستانه انتخابات آمریکا",
+    "link": "https://www.mashreghnews.ir/news/1850160/%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+    "summary": "قیمت طلا در معاملات روز سه شنبه بازار جهانی، در آستانه انتخابات میان دوره ای آمریکا اندکی کاهش یافت.",
+    "published": "Tue, 03 Nov 2026 07:18:06 GMT",
+    "collected_at": "2026-11-03T11:18:15.233609+03:30",
+    "filter_market_score": 13,
+    "market_score": 17,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "قیمت طلا در معاملات روز سه شنبه بازار جهانی، در آستانه انتخابات میان دوره ای آمریکا اندکی کاهش یافت.",
+    "telegram_preview": "📰 کاهش قیمت طلا در آستانه انتخابات آمریکا\n\nقیمت طلا در معاملات روز سه شنبه بازار جهانی، در آستانه انتخابات میان دوره ای آمریکا اندکی کاهش یافت.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1850160/%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7"
+  },
+  {
     "source": "مهر",
     "title": "ممنوعیت فروش طلا با طرح پهلوی و شیروخورشید در مشهد",
     "link": "https://www.mehrnews.com/news/6997437/%D9%85%D9%85%D9%86%D9%88%D8%B9%DB%8C%D8%AA-%D9%81%D8%B1%D9%88%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D8%B7%D8%B1%D8%AD-%D9%BE%D9%87%D9%84%D9%88%DB%8C-%D9%88-%D8%B4%DB%8C%D8%B1%D9%88%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF",
@@ -3646,6 +3834,63 @@
     "duplicate_count": 1,
     "full_text": "دامنه نوسان صندوق های اهرمی بورس افزایش یافت.",
     "telegram_preview": "📰 افزایش دامنه نوسان صندوق های اهرمی بورس\n\nدامنه نوسان صندوق های اهرمی بورس افزایش یافت.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305794-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3"
+  },
+  {
+    "source": "مهر",
+    "title": "ابهام در نرخ خوراک پالایشگاه ها؛ سازمان بورس پیگیر اصلاح دستورالعمل",
+    "link": "https://www.mehrnews.com/news/6998406/%D8%A7%D8%A8%D9%87%D8%A7%D9%85-%D8%AF%D8%B1-%D9%86%D8%B1%D8%AE-%D8%AE%D9%88%D8%B1%D8%A7%DA%A9-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%84%D8%B9%D9%85%D9%84",
+    "summary": "سازمان بورس به دلیل تفاوت سود پالایشگاه ها در دو روش محاسبه نرخ خوراک، پیگیری اصلاح دستورالعمل جدید قیمت گذاری نفت خام و فرآورده های نفتی را آغاز کرده است.",
+    "published": "Tue, 03 Nov 2026 07:42:08 GMT",
+    "collected_at": "2026-11-03T11:17:46.117493+03:30",
+    "filter_market_score": 15,
+    "market_score": 16,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "نرخ",
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "سازمان بورس به دلیل تفاوت سود پالایشگاه ها در دو روش محاسبه نرخ خوراک، پیگیری اصلاح دستورالعمل جدید قیمت گذاری نفت خام و فرآورده های نفتی را آغاز کرده است.",
+    "telegram_preview": "📰 ابهام در نرخ خوراک پالایشگاه ها؛ سازمان بورس پیگیر اصلاح دستورالعمل\n\nسازمان بورس به دلیل تفاوت سود پالایشگاه ها در دو روش محاسبه نرخ خوراک، پیگیری اصلاح دستورالعمل جدید قیمت گذاری نفت خام و فرآورده های نفتی را آغاز کرده است.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6998406/%D8%A7%D8%A8%D9%87%D8%A7%D9%85-%D8%AF%D8%B1-%D9%86%D8%B1%D8%AE-%D8%AE%D9%88%D8%B1%D8%A7%DA%A9-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%84%D8%B9%D9%85%D9%84"
   },
   {
     "source": "ایسنا",
@@ -4729,6 +4974,58 @@
     "telegram_preview": "📰 دومینوی تخلف در صنایع شیر ایران؛ شبیخون سرپرست پگاه به حقوق سهامداران بورسی با گروگان گیری صادرات\n\nنگاه ها به وزیر تعاون، سازمان بازرسی، دیوان محاسبات و نهادهای امنیتی دوخته شده تا با ورود فوری به پرونده، مانع از تداوم احکام غیرقانونی و استیفای حقوق پایمال شده بازنشستگان از مدیران متخلف شوند.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/100000196/%D8%AF%D9%88%D9%85%DB%8C%D9%86%D9%88%DB%8C-%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%B4%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%A8%DB%8C%D8%AE%D9%88%D9%86-%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA-%D9%BE%DA%AF%D8%A7%D9%87-%D8%A8%D9%87-%D8%AD%D9%82%D9%88%D9%82-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7-%DA%AF%D8%B1%D9%88%DA%AF%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-4d95080919ff4517b7191e9c"
   },
   {
+    "source": "ایسنا",
+    "title": "صادرات ۱۵ میلیون تنی از گمرکات هرمزگان",
+    "link": "https://www.isna.ir/news/1405081207736/%D9%86%D8%A7%D8%B8%D8%B1-%DA%AF%D9%85%D8%B1%DA%A9%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%86%DB%8C-%D8%A7%D8%B2-%DA%AF%D9%85%D8%B1%DA%A9%D8%A7%D8%AA-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86",
+    "summary": "ناظر گمرکات استان هرمزگان از صادرات بیش از ۱۵ میلیون تن کالا به ارزش نزدیک به ۵ میلیارد دلار از گمرکات استان طی هفت ماهه سال ۱۴۰۵ خبر داد.",
+    "published": "Tue, 03 Nov 2026 07:38:37 GMT",
+    "collected_at": "2026-11-03T11:17:32.238577+03:30",
+    "filter_market_score": 7,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "ناظر گمرکات استان هرمزگان از صادرات بیش از ۱۵ میلیون تن کالا به ارزش نزدیک به ۵ میلیارد دلار از گمرکات استان طی هفت ماهه سال ۱۴۰۵ خبر داد.",
+    "telegram_preview": "📰 صادرات ۱۵ میلیون تنی از گمرکات هرمزگان\n\nناظر گمرکات استان هرمزگان از صادرات بیش از ۱۵ میلیون تن کالا به ارزش نزدیک به ۵ میلیارد دلار از گمرکات استان طی هفت ماهه سال ۱۴۰۵ خبر داد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081207736/%D9%86%D8%A7%D8%B8%D8%B1-%DA%AF%D9%85%D8%B1%DA%A9%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%86%DB%8C-%D8%A7%D8%B2-%DA%AF%D9%85%D8%B1%DA%A9%D8%A7%D8%AA-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86"
+  },
+  {
     "source": "تابناک",
     "title": "واگذاری بلوکی ایران خودرو با قیمت پارسال!",
     "link": "https://tabnak.ir/fa/news/100000216/%D9%88%D8%A7%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A8%D9%84%D9%88%DA%A9%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-70b90b3c269b4b2aad13810d",
@@ -5178,6 +5475,53 @@
     "telegram_preview": "📰 بزرگ ترین صرافی رمزارز جهان هک شد\n\nبا وجود آنکه صرافی رمزارز بایننس هدف یک سرقت ۶.۳ میلیارد دلاری قرار گرفته، معامله گران فعلا همچنان اعتماد خود را به بزرگ ترین صرافی رمزارز جهان حفظ کرده اند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6997386/%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2-%D8%AC%D9%87%D8%A7%D9%86-%D9%87%DA%A9-%D8%B4%D8%AF"
   },
   {
+    "source": "مهر",
+    "title": "جهان مبهوت اصالت ملایر؛ تولید ۶۵ درصد مبلمان کشور در پایتخت جهانی منبت",
+    "link": "https://www.mehrnews.com/news/6998230/%D8%AC%D9%87%D8%A7%D9%86-%D9%85%D8%A8%D9%87%D9%88%D8%AA-%D8%A7%D8%B5%D8%A7%D9%84%D8%AA-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%DB%B6%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+    "summary": "همدان-در میانه خاک ایران شهری است که در آن سکوت درختان با ضربات ظریف مُغار و تیشه های هنرمندان بر پیکره چوب به هنر- صنعتی ارز آور و اشتغالزا تبدیل می شود.",
+    "published": "Tue, 03 Nov 2026 07:46:31 GMT",
+    "collected_at": "2026-11-03T11:17:46.117372+03:30",
+    "filter_market_score": 5,
+    "market_score": 9,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "همدان-در میانه خاک ایران شهری است که در آن سکوت درختان با ضربات ظریف مُغار و تیشه های هنرمندان بر پیکره چوب به هنر- صنعتی ارز آور و اشتغالزا تبدیل می شود.",
+    "telegram_preview": "📰 جهان مبهوت اصالت ملایر؛ تولید ۶۵ درصد مبلمان کشور در پایتخت جهانی منبت\n\nهمدان-در میانه خاک ایران شهری است که در آن سکوت درختان با ضربات ظریف مُغار و تیشه های هنرمندان بر پیکره چوب به هنر- صنعتی ارز آور و اشتغالزا تبدیل می شود.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6998230/%D8%AC%D9%87%D8%A7%D9%86-%D9%85%D8%A8%D9%87%D9%88%D8%AA-%D8%A7%D8%B5%D8%A7%D9%84%D8%AA-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%DB%B6%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C"
+  },
+  {
     "source": "ایسنا",
     "title": "ثبت بین المللی برند ملی زعفران ایران طی یک ماه آینده",
     "link": "https://www.isna.ir/news/1405081207631/%D8%AB%D8%A8%D8%AA-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%A8%D8%B1%D9%86%D8%AF-%D9%85%D9%84%DB%8C-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
@@ -5364,53 +5708,6 @@
     "telegram_preview": "📰 خط و نشان قهرمان سنگین وزن کشتی فرنگی جهان برای المپیک\n\nقهرمان وزن 130 کیلوگرم کشتی فرنگی جهان هدف بزرگ خود را کسب مدال طلای المپیک 2028 لس آنجلس عنوان کرد.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/100000181/%D8%AE%D8%B7-%D9%88-%D9%86%D8%B4%D8%A7%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%B3%D9%86%DA%AF%DB%8C%D9%86%D9%88%D8%B2%D9%86-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9-b5d8ad32f5294f79baa2364a"
   },
   {
-    "source": "ایسنا",
-    "title": "پیشرفت ۵۰ درصدی تصفیه خانه خط انتقال آب خلیج فارس به فارس/ تلاش برای تأمین تسهیلات",
-    "link": "https://www.isna.ir/news/1405081106901/%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%DB%B5%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D8%AE%D8%B7-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%A2%D8%A8-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D9%87-%D9%81%D8%A7%D8%B1%D8%B3-%D8%AA%D9%84%D8%A7%D8%B4",
-    "summary": "نماینده مردم شیراز و زرقان در مجلس شورای اسلامی از پیشرفت حدود ۵۰ درصدی عملیات احداث تصفیه خانه خط انتقال آب خلیج فارس خبر داد و گفت: پیگیری ها برای تأمین تسهیلات ریالی و ارزی این طرح با هدف تسریع در تکمیل و بهره برداری از آن ادامه دارد.",
-    "published": "Mon, 02 Nov 2026 07:30:30 GMT",
-    "collected_at": "2026-11-02T11:17:22.348773+03:30",
-    "filter_market_score": 5,
-    "market_score": 9,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 5,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "نماینده مردم شیراز و زرقان در مجلس شورای اسلامی از پیشرفت حدود ۵۰ درصدی عملیات احداث تصفیه خانه خط انتقال آب خلیج فارس خبر داد و گفت: پیگیری ها برای تأمین تسهیلات ریالی و ارزی این طرح با هدف تسریع در تکمیل و بهره برداری از آن ادامه دارد.",
-    "telegram_preview": "📰 پیشرفت ۵۰ درصدی تصفیه خانه خط انتقال آب خلیج فارس به فارس/ تلاش برای تأمین تسهیلات\n\nنماینده مردم شیراز و زرقان در مجلس شورای اسلامی از پیشرفت حدود ۵۰ درصدی عملیات احداث تصفیه خانه خط انتقال آب خلیج فارس خبر داد و گفت: پیگیری ها برای تأمین تسهیلات ریالی و ارزی این طرح با هدف تسریع در تکمیل و بهره برداری از آن ادامه دارد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081106901/%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%DB%B5%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AA%D8%B5%D9%81%DB%8C%D9%87-%D8%AE%D8%A7%D9%86%D9%87-%D8%AE%D8%B7-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%A2%D8%A8-%D8%AE%D9%84%DB%8C%D8%AC-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A8%D9%87-%D9%81%D8%A7%D8%B1%D8%B3-%D8%AA%D9%84%D8%A7%D8%B4"
-  },
-  {
     "source": "مهر",
     "title": "قطعات یدکی کاشت حلزون تحت پوشش بیمه سلامت قرار گرفت",
     "link": "https://www.mehrnews.com/news/6998193/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA-%DB%8C%D8%AF%DA%A9%DB%8C-%DA%A9%D8%A7%D8%B4%D8%AA-%D8%AD%D9%84%D8%B2%D9%88%D9%86-%D8%AA%D8%AD%D8%AA-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D9%85%D9%87-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA",
@@ -5507,55 +5804,6 @@
     "duplicate_count": 1,
     "full_text": "بجنورد- استاندار خراسان شمالی گفت: اهمیت بورس زعفران فاروج برکسی پوشیده نیست، اما باید با خام فروشی مقابله کرد و از طریق نشان تجاری و فرآوری، ارزش افزوده این محصول را افزایش داد.",
     "telegram_preview": "📰 نوری: خام فروشی زعفران فاروج با نشان تجاری و فرآوری مهار می شود\n\nبجنورد- استاندار خراسان شمالی گفت: اهمیت بورس زعفران فاروج برکسی پوشیده نیست، اما باید با خام فروشی مقابله کرد و از طریق نشان تجاری و فرآوری، ارزش افزوده این محصول را افزایش داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6997863/%D9%86%D9%88%D8%B1%DB%8C-%D8%AE%D8%A7%D9%85-%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D9%88%D8%AC-%D8%A8%D8%A7-%D9%86%D8%B4%D8%A7%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D9%88-%D9%81%D8%B1%D8%A2%D9%88%D8%B1%DB%8C-%D9%85%D9%87%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF"
-  },
-  {
-    "source": "ایسنا",
-    "title": "استخدام کشتی گیر طلایی جهان در شهرداری شیراز",
-    "link": "https://www.isna.ir/news/1405081106891/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%DA%A9%D8%B4%D8%AA%DB%8C-%DA%AF%DB%8C%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
-    "summary": "شهردار شیراز از صدور مجوز استخدام غلامرضا فرخی، کشتی گیر جوان شیرازی و دارنده مدال طلای جهان، در شهرداری این کلان شهر خبر داد و بر استمرار حمایت مدیریت شهری از قهرمانان و توسعه زیرساخت های ورزشی تأکید کرد.",
-    "published": "Mon, 02 Nov 2026 07:22:43 GMT",
-    "collected_at": "2026-11-02T11:17:22.348939+03:30",
-    "filter_market_score": 5,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "حمایت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 5,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "شهردار شیراز از صدور مجوز استخدام غلامرضا فرخی، کشتی گیر جوان شیرازی و دارنده مدال طلای جهان، در شهرداری این کلان شهر خبر داد و بر استمرار حمایت مدیریت شهری از قهرمانان و توسعه زیرساخت های ورزشی تأکید کرد.",
-    "telegram_preview": "📰 استخدام کشتی گیر طلایی جهان در شهرداری شیراز\n\nشهردار شیراز از صدور مجوز استخدام غلامرضا فرخی، کشتی گیر جوان شیرازی و دارنده مدال طلای جهان، در شهرداری این کلان شهر خبر داد و بر استمرار حمایت مدیریت شهری از قهرمانان و توسعه زیرساخت های ورزشی تأکید کرد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081106891/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%DA%A9%D8%B4%D8%AA%DB%8C-%DA%AF%DB%8C%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2"
   },
   {
     "source": "مهر",
