@@ -28070,5 +28070,77 @@
     "group_message_id": 2082,
     "fully_published": true,
     "last_checked_at": "2026-11-03T05:16:35.953252+00:00"
+  },
+  "6f8456a7eb855141477d66e3c849a439721d6112c64849eb798231e21af8602e": {
+    "title": "قیمت یورو، دلار و انواع ارزها امروز ۱۲ آبان ۱۴۰۵ در زمان بسته شدن بازار/ یورو به قیمت ۳۰۴ هزار و ۹۰۷ تومان فروخته شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296779/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
+    "telegram_message_ids": [
+      2335
+    ],
+    "eitaa_message_ids": [
+      179739072
+    ],
+    "group_message_ids": [
+      2084
+    ],
+    "content_hash": "0f584809fee9ef51703e7516e9846a9aae5f061353d95482bc52e250f3145a5b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T05:46:33.260550+00:00",
+    "telegram_message_id": 2335,
+    "eitaa_last_sent_at": "2026-11-03T05:46:36.699205+00:00",
+    "eitaa_message_id": 179739072,
+    "group_last_sent_at": "2026-11-03T05:46:38.529493+00:00",
+    "group_message_id": 2084,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T05:46:38.562054+00:00"
+  },
+  "0dd998e01475b9c078fa388c32b5a1dd1d708f573684eac6ccca9aa8cf26cb9c": {
+    "title": "قیمت سکه امروز ۱۲ آبان ۱۴۰۵ در زمان بازگشایی بازار/ نیم سکه به قیمت ۱۳۹ میلیون و ۴۰۰ هزار تومان به فروش رفت + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296777/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87",
+    "telegram_message_ids": [
+      2336
+    ],
+    "eitaa_message_ids": [
+      179739084
+    ],
+    "group_message_ids": [
+      2085
+    ],
+    "content_hash": "813fe1cd1486b510cb434f02030dd01a41a9e9da486a4c8d05a08f056930aa97",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T05:46:40.340220+00:00",
+    "telegram_message_id": 2336,
+    "eitaa_last_sent_at": "2026-11-03T05:46:44.209632+00:00",
+    "eitaa_message_id": 179739084,
+    "group_last_sent_at": "2026-11-03T05:46:45.936726+00:00",
+    "group_message_id": 2085,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T05:46:45.969414+00:00"
+  },
+  "d53296939065e85e353cda6266e921fb28816fb4cc26abc9186eb5b87986062f": {
+    "title": "بورس آمریکا فرو ریخت",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000269/%D8%A8%D9%88%D8%B1%D8%B3-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%81%D8%B1%D9%88-%D8%B1%DB%8C%D8%AE%D8%AA-95e967c5b53e44b4a6355c8c",
+    "telegram_message_ids": [
+      2337
+    ],
+    "eitaa_message_ids": [
+      179739095
+    ],
+    "group_message_ids": [
+      2086
+    ],
+    "content_hash": "86bfac6d8c85e9618fab5036d8acb6a99de66a7abd1188f528b96d7f9efc7e2b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T05:46:47.799428+00:00",
+    "telegram_message_id": 2337,
+    "eitaa_last_sent_at": "2026-11-03T05:46:49.510627+00:00",
+    "eitaa_message_id": 179739095,
+    "group_last_sent_at": "2026-11-03T05:46:51.247650+00:00",
+    "group_message_id": 2086,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T05:46:51.280210+00:00"
   }
 }
