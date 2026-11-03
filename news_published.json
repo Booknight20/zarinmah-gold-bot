@@ -28382,5 +28382,29 @@
     "group_message_id": 2102,
     "fully_published": true,
     "last_checked_at": "2026-11-03T06:51:06.280589+00:00"
+  },
+  "cadec4eb81e5bc67b97702593c579e29f1ce8e0275870d6bd26ef8a8510956e2": {
+    "title": "قیمت سکه پارسیان امروز ۱۲ آبان ۱۴۰۵",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000282/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-03b9466fbe234a549eb7d3d4",
+    "telegram_message_ids": [
+      2353
+    ],
+    "eitaa_message_ids": [
+      179759256
+    ],
+    "group_message_ids": [
+      2105
+    ],
+    "content_hash": "bc07c087ad74b65619fabadf4a8cdd3a49c4284c0ba13d39088a21542baa44f9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T07:15:49.344335+00:00",
+    "telegram_message_id": 2353,
+    "eitaa_last_sent_at": "2026-11-03T07:15:50.653323+00:00",
+    "eitaa_message_id": 179759256,
+    "group_last_sent_at": "2026-11-03T07:15:52.223502+00:00",
+    "group_message_id": 2105,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T07:15:52.252352+00:00"
   }
 }
