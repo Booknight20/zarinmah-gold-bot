@@ -429,65 +429,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "مسیر متفاوت بورس",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4305800-%D9%85%D8%B3%DB%8C%D8%B1-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3",
-    "summary": "دنیای اقتصاد: در معاملات روز دوشنبه ۱۱ آبان ماه، شاخص کل بورس تهران با افتی محدود همراه شد؛ اما شاخص هم وزن و شاخص کل فرابورس مسیر متفاوتی را در پیش گرفتند و به محدوده مثبت رسیدند. این واگرایی در حالی رقم خورد که هر دو شاخص اصلی بازار سهام، معاملات را با فشار عرضه آغاز کرده بودند، اما در ادامه بخشی از تقاضا به بازار بازگشت. خروج پول نیز به سومین روز متوالی رسید.",
-    "published": "Mon, 02 Nov 2026 12:18:14 +0000",
-    "collected_at": "2026-11-02T16:17:55.796590+03:30",
-    "filter_market_score": 32,
-    "market_score": 32,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس",
-        "سهام",
-        "شاخص کل بورس",
-        "بازار سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس",
-        "سهام",
-        "شاخص کل بورس",
-        "بازار سهام"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس",
-        "سهام",
-        "شاخص کل بورس",
-        "بازار سهام"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افت",
-      "معاملات",
-      "عرضه",
-      "تقاضا",
-      "خروج پول"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "بورس سبز شد/ ۳۹۸ صف خرید در مقابل 41 صف فروش",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306025-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B3%D8%A8%D8%B2-%D8%B4%D8%AF-%D8%B5%D9%81-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B5%D9%81-%D9%81%D8%B1%D9%88%D8%B4",
     "summary": "شاخص کل بورس در پایان معاملات امروز با رشد ۱۷۵ هزار و ۱۷۹ واحدی معادل ۲.۲۹ درصد، به سطح ۷ میلیون و ۸۲۴ هزار واحد رسید.",
@@ -637,53 +578,6 @@
       "افت",
       "ریزش",
       "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار ، یورو و انواع ارزها ظهر امروز ۱۱ آبان ۱۴۰۵/ دلار به قیمت ۲۷۳ هزار و ۵۰۰ تومان فروخته شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2296468/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "قیمت یورو، دلار و سایر ارزها امروز ۱۱ آبان ۱۴۰۵ اعلام شد. بر این اساس دلار در بازار با افزایش ۲ هزار تومانی، ۲۷۳ هزار و ۵۰۰ تومان فروخته شد.",
-    "published": "Mon, 02 Nov 2026 08:42:00 GMT",
-    "collected_at": "2026-11-02T16:18:00.434519+03:30",
-    "filter_market_score": 27,
-    "market_score": 27,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "افزایش",
-      "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -1021,57 +915,6 @@
       "نرخ",
       "داده",
       "آمار"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "آینده قیمت دلار و طلا در اقتصاد ایران/ پورکار: دلار در سناریوی توافق تا ۲۲۰ هزار تومان کاهش می یابد",
-    "link": "https://www.khabaronline.ir/news/2296481/%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%BE%D9%88%D8%B1%DA%A9%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%B3%D9%86%D8%A7%D8%B1%DB%8C%D9%88%DB%8C",
-    "summary": "آینده قیمت دلار و طلا در اقتصاد ایران بیش از هر زمان دیگری به سرنوشت محاصره اقتصادی و تحولات سیاسی وابسته است. آراد پورکار، تحلیلگر بازارهای مالی، معتقد است در صورت رفع محاصره اقتصادی، احتمال اصلاح قیمت دلار تا محدوده ۲۲۰ تا ۲۳۰ هزار تومان وجود دارد.",
-    "published": "Mon, 02 Nov 2026 12:32:00 GMT",
-    "collected_at": "2026-11-02T16:18:00.434355+03:30",
-    "filter_market_score": 23,
-    "market_score": 23,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "توافق"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2454,46 +2297,6 @@
     "filter_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "سانچز: جنگ غیرقانونی علیه ایران ۱۰۰ میلیارد یورو هزینه اضافی بر اروپا تحمیل کرد",
-    "link": "https://www.isna.ir/news/1405081107282/%D8%B3%D8%A7%D9%86%DA%86%D8%B2-%D8%AC%D9%86%DA%AF-%D8%BA%DB%8C%D8%B1%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C",
-    "summary": "پدرو سانچز، نخست وزیر اسپانیا امروز (دوشنبه) در نشستی جنگ علیه ایران را «غیرقانونی» خوانده و گفت که این جنگ پیامدهایی، از جمله ۱۰۰ میلیارد یورو ر به دلیل افزایش قیمت سوخت بر کشورهای اروپایی تحمیل کرده است.",
-    "published": "Mon, 02 Nov 2026 13:07:26 GMT",
-    "collected_at": "2026-11-02T16:41:31.696956+03:30",
-    "filter_market_score": 14,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "افزایش",
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "مهر",
     "title": "خرید طلا توسط بانک های مرکزی جهان رکورد زد",
     "link": "https://www.mehrnews.com/news/6998631/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AA%D9%88%D8%B3%D8%B7-%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%B2%D8%AF",
@@ -2999,6 +2802,41 @@
   },
   {
     "source": "مشرق",
+    "title": "دستگیری فعال غیرمجاز ارزی در شمال تهران",
+    "link": "https://www.mashreghnews.ir/news/1850210/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D9%81%D8%B9%D8%A7%D9%84-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%B4%D9%85%D8%A7%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+    "summary": "معاون مبارزه با جرایم اقتصادی پلیس امنیت اقتصادی تهران از دستگیری فعال غیرمجاز ارزی در شمال تهران خبر داد.",
+    "published": "Tue, 03 Nov 2026 12:29:00 GMT",
+    "collected_at": "2026-11-03T16:16:55.450895+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مشرق",
     "title": "توپ طلا به ورزشگاه تیم دسته سومی انگلیس رسید؛ هواداران برای تماشای جام به بروملی رفتند",
     "link": "https://www.mashreghnews.ir/news/1850154/%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D9%88%D8%B1%D8%B2%D8%B4%DA%AF%D8%A7%D9%87-%D8%AA%DB%8C%D9%85-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B3%D9%88%D9%85%DB%8C-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%85%D8%A7%D8%B4%D8%A7%DB%8C",
     "summary": "جام توپ طلای فوتبال جهان در اتفاقی جالب در ورزشگاه خانگی باشگاه بروملی انگلیس به نمایش درآمد؛ ورزشگاهی قدیمی که میزبان مسابقات تیم فوتبال زنان لندن سیتی لاینِسِس نیز هست.",
@@ -3352,42 +3190,6 @@
     "signal_matches": [
       "افزایش",
       "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "گرانی انرژی و مواد اولیه، نفس صنایع اروپا را گرفت",
-    "link": "https://www.mehrnews.com/news/6997708/%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D9%88-%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D9%86%D9%81%D8%B3-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B1%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA",
-    "summary": "فعالیت کارخانه های منطقه یورو در اکتبر با کاهش سرعت رشد مواجه شد و افزایش هزینه انرژی، مواد اولیه و اختلال زنجیره تأمین، فشار بر تولید و سودآوری صنایع اروپا را تشدید کرد.",
-    "published": "Mon, 02 Nov 2026 12:36:00 GMT",
-    "collected_at": "2026-11-02T16:17:42.844758+03:30",
-    "filter_market_score": 8,
-    "market_score": 8,
-    "market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "کاهش",
-      "رشد",
-      "تولید"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3916,39 +3718,6 @@
     "filter_applied": true
   },
   {
-    "source": "تابناک",
-    "title": "خط و نشان قهرمان سنگین وزن کشتی فرنگی جهان برای المپیک",
-    "link": "https://tabnak.ir/fa/news/100000181/%D8%AE%D8%B7-%D9%88-%D9%86%D8%B4%D8%A7%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%B3%D9%86%DA%AF%DB%8C%D9%86%D9%88%D8%B2%D9%86-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9-b5d8ad32f5294f79baa2364a",
-    "summary": "قهرمان وزن 130 کیلوگرم کشتی فرنگی جهان هدف بزرگ خود را کسب مدال طلای المپیک 2028 لس آنجلس عنوان کرد.",
-    "published": "Mon, 02 Nov 2026 12:20:35 +0000",
-    "collected_at": "2026-11-02T16:18:05.803575+03:30",
-    "filter_market_score": 5,
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "هدف"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "اتصال ۴۸ مگاوات برق خورشیدی به شبکه خراسان جنوبی؛ ۱۲۰ مگاوات دیگر در دست ساخت",
     "link": "https://www.isna.ir/news/1405081207941/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%DB%B4%DB%B8-%D9%85%DA%AF%D8%A7%D9%88%D8%A7%D8%AA-%D8%A8%D8%B1%D9%82-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C-%D8%A8%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%DB%B1%DB%B2%DB%B0-%D9%85%DA%AF%D8%A7%D9%88%D8%A7%D8%AA",
@@ -4157,37 +3926,6 @@
     "full_text_market_matches": {
       "currency": [
         "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "ورود بیش از ۱۶ هزار پرونده به تعزیرات کرمان طی امسال/۷۵ درصد پرونده ها مربوط به قاچاق سوخت",
-    "link": "https://www.isna.ir/news/1405081107243/%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%A8%D9%87-%D8%AA%D8%B9%D8%B2%DB%8C%D8%B1%D8%A7%D8%AA-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B7%DB%8C-%D8%A7%D9%85%D8%B3%D8%A7%D9%84-%DB%B7%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF",
-    "summary": "مدیرکل تعزیرات حکومتی استان کرمان با تشریح عملکرد هفت ماهه این اداره کل گفت: از ابتدای سال جاری تا ۱۰ آبان ماه، بیش از ۱۶ هزار فقره پرونده در حوزه های مختلف کالا و خدمات، قاچاق کالا و ارز و بهداشت و درمان به تعزیرات حکومتی استان وارد شده است.",
-    "published": "Mon, 02 Nov 2026 12:21:06 GMT",
-    "collected_at": "2026-11-02T16:17:31.255082+03:30",
-    "filter_market_score": 4,
-    "market_score": 4,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز"
       ]
     },
     "driver_matches": [],

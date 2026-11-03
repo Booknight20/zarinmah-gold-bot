@@ -29270,5 +29270,29 @@
     "group_message_id": 2158,
     "fully_published": true,
     "last_checked_at": "2026-11-03T12:17:53.183347+00:00"
+  },
+  "8225d45cb6300069356de3269f301b66db33a7bde75b3f073c31141ec2753ce8": {
+    "title": "دستگیری فعال غیرمجاز ارزی در شمال تهران",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1850210/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D9%81%D8%B9%D8%A7%D9%84-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%B4%D9%85%D8%A7%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      2409
+    ],
+    "eitaa_message_ids": [
+      179820153
+    ],
+    "group_message_ids": [
+      2161
+    ],
+    "content_hash": "7b89931a681270d0497694bbea2af465ef4ba7c0aa4c0964c5e89624bde54022",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T12:47:11.620647+00:00",
+    "telegram_message_id": 2409,
+    "eitaa_last_sent_at": "2026-11-03T12:47:15.401791+00:00",
+    "eitaa_message_id": 179820153,
+    "group_last_sent_at": "2026-11-03T12:47:17.050400+00:00",
+    "group_message_id": 2161,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T12:47:17.075478+00:00"
   }
 }
