@@ -29150,5 +29150,29 @@
     "group_message_id": 2148,
     "fully_published": true,
     "last_checked_at": "2026-11-03T11:20:49.590557+00:00"
+  },
+  "38828cf2d67e8dfbd7e27cbcf1db744f85c224323af425f1c9bd60830476c810": {
+    "title": "تحلیل حرفه ای و پیش بینی بازار مقاطع فولادی؛ بهترین زمان تامین مصالح پروژه های عمرانی",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4306034-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D9%85%D8%B1%D8%A7%D9%86%DB%8C",
+    "telegram_message_ids": [
+      2400
+    ],
+    "eitaa_message_ids": [
+      179804789
+    ],
+    "group_message_ids": [
+      2152
+    ],
+    "content_hash": "29a3295069820d980b166fbcb0a8b029db86a0b6e485b46abebf9721a67794e5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T11:34:22.368716+00:00",
+    "telegram_message_id": 2400,
+    "eitaa_last_sent_at": "2026-11-03T11:34:23.607361+00:00",
+    "eitaa_message_id": 179804789,
+    "group_last_sent_at": "2026-11-03T11:34:25.302639+00:00",
+    "group_message_id": 2152,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T11:34:25.346042+00:00"
   }
 }
