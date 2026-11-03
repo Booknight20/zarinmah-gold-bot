@@ -29582,5 +29582,29 @@
     "group_message_id": 2187,
     "fully_published": true,
     "last_checked_at": "2026-11-03T19:17:21.959047+00:00"
+  },
+  "00bc1d532b7a0f5ca3399b96b86a3154aa094ca4a21627e9c330c29e5d259edb": {
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۲ آبان ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۲۷۲ هزار و ۷۶۰ تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2297271/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
+    "telegram_message_ids": [
+      2436
+    ],
+    "eitaa_message_ids": [
+      179884091
+    ],
+    "group_message_ids": [
+      2188
+    ],
+    "content_hash": "585b52c8b3cd31d2026559a924893eaeccb50737a84de5208914a0beb576d6d5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T19:48:30.787414+00:00",
+    "telegram_message_id": 2436,
+    "eitaa_last_sent_at": "2026-11-03T19:48:32.053494+00:00",
+    "eitaa_message_id": 179884091,
+    "group_last_sent_at": "2026-11-03T19:48:33.820018+00:00",
+    "group_message_id": 2188,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T19:48:33.867311+00:00"
   }
 }
