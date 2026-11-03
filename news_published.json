@@ -27902,5 +27902,29 @@
     "group_message_id": 2075,
     "fully_published": true,
     "last_checked_at": "2026-11-03T01:48:05.776947+00:00"
+  },
+  "50d73dcb0d6766dfc48d6942acac45d89f822612b20a0bfa8e5a58e977399a19": {
+    "title": "بلومبرگ: واشنگتن از متحدان ناتو درخواست ۲ میلیارد دلار برای تجهیز اوکراین کرده است",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081207493/%D8%A8%D9%84%D9%88%D9%85%D8%A8%D8%B1%DA%AF-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D8%A7%D8%B2-%D9%85%D8%AA%D8%AD%D8%AF%D8%A7%D9%86-%D9%86%D8%A7%D8%AA%D9%88-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%AC%D9%87%DB%8C%D8%B2",
+    "telegram_message_ids": [
+      2328
+    ],
+    "eitaa_message_ids": [
+      179719214
+    ],
+    "group_message_ids": [
+      2076
+    ],
+    "content_hash": "208f048b58cce17a3648eb04e5fdae7c443d94905d99252d3f3c18ef1bf24efa",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T02:44:36.012776+00:00",
+    "telegram_message_id": 2328,
+    "eitaa_last_sent_at": "2026-11-03T02:44:37.594542+00:00",
+    "eitaa_message_id": 179719214,
+    "group_last_sent_at": "2026-11-03T02:44:39.409305+00:00",
+    "group_message_id": 2076,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T02:44:39.433969+00:00"
   }
 }
