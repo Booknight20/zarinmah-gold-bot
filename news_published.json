@@ -28742,5 +28742,101 @@
     "group_message_id": 2124,
     "fully_published": true,
     "last_checked_at": "2026-11-03T08:50:39.781027+00:00"
+  },
+  "cfcb71126372e6bad612e2c6e55a73292049f567f50473812828846ebd43e810": {
+    "title": "صعود بورس؛ شاخص کل کانال ۷.۸ میلیون واحد را پس گرفت",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6998612/%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B7-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%A7-%D9%BE%D8%B3-%DA%AF%D8%B1%D9%81%D8%AA",
+    "telegram_message_ids": [
+      2376
+    ],
+    "eitaa_message_ids": [
+      179788584
+    ],
+    "group_message_ids": [
+      2128
+    ],
+    "content_hash": "5f80cbaa69dc587493fd737278bc60dffebd251104e41ec1b51f81e5ffeb0c1c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T09:50:49.352386+00:00",
+    "telegram_message_id": 2376,
+    "eitaa_last_sent_at": "2026-11-03T09:50:53.141770+00:00",
+    "eitaa_message_id": 179788584,
+    "group_last_sent_at": "2026-11-03T09:50:54.872093+00:00",
+    "group_message_id": 2128,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T09:50:54.916988+00:00"
+  },
+  "c67e601f48540ef866d7e3885f5a124e632ea94a87cc365040bdd989ec59b755": {
+    "title": "صادرات ۴۸ میلیون دلار داروی دام و طیور طی سال جاری",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6998577/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B4%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%A7%D8%B1%D9%88%DB%8C-%D8%AF%D8%A7%D9%85-%D9%88-%D8%B7%DB%8C%D9%88%D8%B1-%D8%B7%DB%8C-%D8%B3%D8%A7%D9%84-%D8%AC%D8%A7%D8%B1%DB%8C",
+    "telegram_message_ids": [
+      2377
+    ],
+    "eitaa_message_ids": [
+      179788590
+    ],
+    "group_message_ids": [
+      2129
+    ],
+    "content_hash": "e7ed2fdf3dcd6495908d41a6ecba68d2dba9a601c3c9b450fce2765ba17c8401",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T09:50:56.654128+00:00",
+    "telegram_message_id": 2377,
+    "eitaa_last_sent_at": "2026-11-03T09:50:58.189151+00:00",
+    "eitaa_message_id": 179788590,
+    "group_last_sent_at": "2026-11-03T09:50:59.907497+00:00",
+    "group_message_id": 2129,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T09:50:59.952363+00:00"
+  },
+  "ca49f2176164fee8b4bc82b819538a2629bb1c7a78f57b49becbe791034d99bc": {
+    "title": "قیمت طلا ظهر امروز ۱۲ آبان ۱۴۰۵/ هر گرم طلای ۱۸عیار ۲۵ میلیون و ۴۹۹ هزار تومان فروش رفت + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296936/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "telegram_message_ids": [
+      2378
+    ],
+    "eitaa_message_ids": [
+      179788602
+    ],
+    "group_message_ids": [
+      2130
+    ],
+    "content_hash": "beaf2367c014231492932c125b27737adc8a94441b2603cb4243fb6981304189",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T09:51:01.713794+00:00",
+    "telegram_message_id": 2378,
+    "eitaa_last_sent_at": "2026-11-03T09:51:03.208815+00:00",
+    "eitaa_message_id": 179788602,
+    "group_last_sent_at": "2026-11-03T09:51:04.946193+00:00",
+    "group_message_id": 2130,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T09:51:04.991334+00:00"
+  },
+  "235135c8deb86c68775bdbf165d57f0acde0562603b321b0f700c23e91e77f43": {
+    "title": "قیمت دلار امروز سه شنبه ۱۲ آبان ۱۴۰۵؛ حواله ها گران تر شدند",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000317/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AD%D9%88%D8%A7%D9%84%D9%87%D9%87%D8%A7-%DA%AF%D8%B1%D8%A7%D9%86%D8%AA%D8%B1-%D8%B4%D8%AF%D9%86%D8%AF-3d0ac8be47c14bc29b70d638",
+    "telegram_message_ids": [
+      2379
+    ],
+    "eitaa_message_ids": [
+      179788632
+    ],
+    "group_message_ids": [
+      2131
+    ],
+    "content_hash": "b16b79e7428d12b3d49e65413b760732a4e83c4c78d6291df2b3bc170fa93bb5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T09:51:06.734035+00:00",
+    "telegram_message_id": 2379,
+    "eitaa_last_sent_at": "2026-11-03T09:51:10.687240+00:00",
+    "eitaa_message_id": 179788632,
+    "group_last_sent_at": "2026-11-03T09:51:12.381459+00:00",
+    "group_message_id": 2131,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T09:51:12.426397+00:00"
   }
 }

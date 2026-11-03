@@ -23799,5 +23799,66 @@
     "group_sent_at": "2026-11-03T12:44:45.120151+03:30",
     "group_message_id": 2127,
     "published_at": "2026-11-03T12:44:45.133911+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8841": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "صرافی ایرانی omp پول مردم رو بلاک کرده و امروز تجمع اعتراضی بوده فقط اون بلاگر مالی ای که میگفت اینجا مال منه بعدش گف...",
+      "summary": "صرافی ایرانی omp پول مردم رو بلاک کرده و امروز تجمع اعتراضی بوده فقط اون بلاگر مالی ای که میگفت اینجا مال منه بعدش گفت من کاره ای نبودم...!!! قبلا هم گفتم توی هر مدل پلتفرمی از طلا تا کریپتویی همه چی تا نیم ساعت قبل ترکیدنش عالیه... مراقبت کنید عزیزان صرافی…",
+      "full_text": "صرافی ایرانی omp پول مردم رو بلاک کرده و امروز تجمع اعتراضی بوده فقط اون بلاگر مالی ای که میگفت اینجا مال منه بعدش گفت من کاره ای نبودم...!!! قبلا هم گفتم توی هر مدل پلتفرمی از طلا تا کریپتویی همه چی تا نیم ساعت قبل ترکیدنش عالیه... مراقبت کنید عزیزان صرافی…",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8841",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا",
+        "کریپتو"
+      ],
+      "analysis_matches": [],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای توضیح",
+        "دارای استدلال"
+      ],
+      "priority": "medium",
+      "content_length": 258,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T13:20:46.854390+03:30"
+    },
+    "content_signature": "164b5018b5f37dc792b941fd11964695711b39f4c873a46a06b354ebec16953d",
+    "first_seen_at": "2026-11-03T13:21:12.643975+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2380
+    ],
+    "telegram_last_success_at": "2026-11-03T13:21:13.095157+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T13:21:13.120312+03:30",
+    "telegram_message_id": 2380,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179788636
+    ],
+    "eitaa_last_success_at": "2026-11-03T13:21:13.902213+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T13:21:13.926583+03:30",
+    "eitaa_message_id": 179788636,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2132
+    ],
+    "group_last_success_at": "2026-11-03T13:21:14.449650+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T13:21:14.473823+03:30",
+    "group_message_id": 2132,
+    "published_at": "2026-11-03T13:21:14.497347+03:30"
   }
 }
