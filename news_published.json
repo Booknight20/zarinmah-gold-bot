@@ -29174,5 +29174,101 @@
     "group_message_id": 2152,
     "fully_published": true,
     "last_checked_at": "2026-11-03T11:34:25.346042+00:00"
+  },
+  "5fa061544dcb180fb7b87c2e0be1ac4c0a58712f2eca730d44264d89522c8110": {
+    "title": "صادرات۱۵میلیون دلاری شرکت های زایشی/پوشش های زخم تولید داخل، مجوز صادرات به اروپا گرفتند",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081208112/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%DB%B1%DB%B5%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B2%D8%A7%DB%8C%D8%B4%DB%8C-%D9%BE%D9%88%D8%B4%D8%B4-%D9%87%D8%A7%DB%8C-%D8%B2%D8%AE%D9%85-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AF%D8%A7%D8%AE%D9%84",
+    "telegram_message_ids": [
+      2403
+    ],
+    "eitaa_message_ids": [
+      179811059
+    ],
+    "group_message_ids": [
+      2155
+    ],
+    "content_hash": "cc6ac5f14f79266fe8b96a267eddc78204f9e92360f0542b3487ea193ba436fa",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T12:17:33.684449+00:00",
+    "telegram_message_id": 2403,
+    "eitaa_last_sent_at": "2026-11-03T12:17:35.377972+00:00",
+    "eitaa_message_id": 179811059,
+    "group_last_sent_at": "2026-11-03T12:17:37.108859+00:00",
+    "group_message_id": 2155,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T12:17:37.148543+00:00"
+  },
+  "16c16e3f581b3be08b984120af948cb305f2d896a2b59f271f5dda5c51e9586b": {
+    "title": "تأمین ارز اشخاص در مرکز مبادله فراهم شد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081208103/%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%D8%A7%D8%B4%D8%AE%D8%A7%D8%B5-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D9%81%D8%B1%D8%A7%D9%87%D9%85-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2404
+    ],
+    "eitaa_message_ids": [
+      179811071
+    ],
+    "group_message_ids": [
+      2156
+    ],
+    "content_hash": "a69e0ca99c77c560dc731b4197ff89f36b05a659b2edab4417fd21272654a973",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T12:17:38.906739+00:00",
+    "telegram_message_id": 2404,
+    "eitaa_last_sent_at": "2026-11-03T12:17:40.417443+00:00",
+    "eitaa_message_id": 179811071,
+    "group_last_sent_at": "2026-11-03T12:17:42.197347+00:00",
+    "group_message_id": 2156,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T12:17:42.231296+00:00"
+  },
+  "6a1bb586991adb49e6fb6f8fb8a6ac7ca060c9bce83ee16caa9abedd07a2c420": {
+    "title": "سخنگوی کمیسیون اقتصادی: عملکرد صندوق تثبیت بازار سرمایه شفاف نیست",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081208027/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%B4%D9%81%D8%A7%D9%81",
+    "telegram_message_ids": [
+      2405
+    ],
+    "eitaa_message_ids": [
+      179811077
+    ],
+    "group_message_ids": [
+      2157
+    ],
+    "content_hash": "12439829c06d56ff5ca14b4cdb27b5fc094ca89ad555013e44350f8f3c20a099",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T12:17:44.062875+00:00",
+    "telegram_message_id": 2405,
+    "eitaa_last_sent_at": "2026-11-03T12:17:45.120595+00:00",
+    "eitaa_message_id": 179811077,
+    "group_last_sent_at": "2026-11-03T12:17:46.815093+00:00",
+    "group_message_id": 2157,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T12:17:46.850561+00:00"
+  },
+  "f550a788ce4e4e56c031db57904beda9ca8b41630fa47547fdf5d016113eb100": {
+    "title": "توپ طلا به ورزشگاه تیم دسته سومی انگلیس رسید؛ هواداران برای تماشای جام به بروملی رفتند",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1850154/%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D9%88%D8%B1%D8%B2%D8%B4%DA%AF%D8%A7%D9%87-%D8%AA%DB%8C%D9%85-%D8%AF%D8%B3%D8%AA%D9%87-%D8%B3%D9%88%D9%85%DB%8C-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%85%D8%A7%D8%B4%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      2406
+    ],
+    "eitaa_message_ids": [
+      179811086
+    ],
+    "group_message_ids": [
+      2158
+    ],
+    "content_hash": "4d81635215257df86ca6b8a9cf5a6ca4cfd646d8f491e1f9275499f1bd84f64f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T12:17:48.584485+00:00",
+    "telegram_message_id": 2406,
+    "eitaa_last_sent_at": "2026-11-03T12:17:50.127990+00:00",
+    "eitaa_message_id": 179811086,
+    "group_last_sent_at": "2026-11-03T12:17:53.149839+00:00",
+    "group_message_id": 2158,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T12:17:53.183347+00:00"
   }
 }
