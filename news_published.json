@@ -29462,5 +29462,29 @@
     "group_message_id": 2173,
     "fully_published": true,
     "last_checked_at": "2026-11-03T16:15:16.694976+00:00"
+  },
+  "e7005cd4be51b9cf4c4889c707c8af3a8b47e795476f5482da68c81557393a05": {
+    "title": "از تأمین ارز تا ساخت نیروگاه؛ جزئیات مرحله دوم افزایش سرمایه «سولار»",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6999090/%D8%A7%D8%B2-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%A7-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%AF%D9%88%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87",
+    "telegram_message_ids": [
+      2422
+    ],
+    "eitaa_message_ids": [
+      179859932
+    ],
+    "group_message_ids": [
+      2174
+    ],
+    "content_hash": "8107842fd1117b48e8f160ff7088cb56df45675ce272fcb3945f90e20e2e9291",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T16:46:28.244899+00:00",
+    "telegram_message_id": 2422,
+    "eitaa_last_sent_at": "2026-11-03T16:46:29.597033+00:00",
+    "eitaa_message_id": 179859932,
+    "group_last_sent_at": "2026-11-03T16:46:31.213271+00:00",
+    "group_message_id": 2174,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T16:46:31.247819+00:00"
   }
 }
