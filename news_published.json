@@ -28646,5 +28646,101 @@
     "group_message_id": 2118,
     "fully_published": true,
     "last_checked_at": "2026-11-03T08:21:26.252475+00:00"
+  },
+  "2e5a27f15188f6fa8046b642786e31f190131dc4681df33608a216bd0a758f03": {
+    "title": "پرداخت ۴ میلیون دلار مالیات اینفانتینو در آمریکا از جیب فیفا!",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081207715/%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D8%A7%DB%8C%D9%86%D9%81%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D9%88-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%AC%DB%8C%D8%A8-%D9%81%DB%8C%D9%81%D8%A7",
+    "telegram_message_ids": [
+      2369
+    ],
+    "eitaa_message_ids": [
+      179777158
+    ],
+    "group_message_ids": [
+      2121
+    ],
+    "content_hash": "580734ec2c55d73590b622ab31c3fdf7456edfd48915c397c015cc27cca388cd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T08:50:22.212309+00:00",
+    "telegram_message_id": 2369,
+    "eitaa_last_sent_at": "2026-11-03T08:50:23.722854+00:00",
+    "eitaa_message_id": 179777158,
+    "group_last_sent_at": "2026-11-03T08:50:25.453070+00:00",
+    "group_message_id": 2121,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T08:50:25.495882+00:00"
+  },
+  "2cb63206cb12cc6f3848ae5c0312030e90dd8fcf7af61e238da619fb08d24e98": {
+    "title": "بانک های مرکزی با سریع ترین روند از ۲۰۲۴ طلا می خرند",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081207812/%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D9%86%D8%AF-%D8%A7%D8%B2-%DB%B2%DB%B0%DB%B2%DB%B4-%D8%B7%D9%84%D8%A7-%D9%85%DB%8C-%D8%AE%D8%B1%D9%86%D8%AF",
+    "telegram_message_ids": [
+      2370
+    ],
+    "eitaa_message_ids": [
+      179777179
+    ],
+    "group_message_ids": [
+      2122
+    ],
+    "content_hash": "3988f535c15f46278e0d775a4a0136c4da4a77b2f3984080c6ccc0ccc6472363",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T08:50:27.221076+00:00",
+    "telegram_message_id": 2370,
+    "eitaa_last_sent_at": "2026-11-03T08:50:28.720944+00:00",
+    "eitaa_message_id": 179777179,
+    "group_last_sent_at": "2026-11-03T08:50:30.497740+00:00",
+    "group_message_id": 2122,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T08:50:30.540302+00:00"
+  },
+  "2e201baf4705219149e20fcd247a659ee1c80d5d8dfb4e23fe05db91d328a796": {
+    "title": "بازگشت بورس به مدار صعود",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4302594-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D9%85%D8%AF%D8%A7%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF",
+    "telegram_message_ids": [
+      2371
+    ],
+    "eitaa_message_ids": [
+      179777221
+    ],
+    "group_message_ids": [
+      2123
+    ],
+    "content_hash": "d73ce193d7cd8f710af5e01746e8aa01bbfc61588f843a3a652cdb14da2183cb",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T08:50:32.291747+00:00",
+    "telegram_message_id": 2371,
+    "eitaa_last_sent_at": "2026-11-03T08:50:33.746695+00:00",
+    "eitaa_message_id": 179777221,
+    "group_last_sent_at": "2026-11-03T08:50:35.422654+00:00",
+    "group_message_id": 2123,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T08:50:35.465162+00:00"
+  },
+  "ba924845b630b78130af42fbd05d3292b2ae5732a08103d67931291cad316405": {
+    "title": "قیمت دلار، یورو و درهم امروز سه شنبه ۱۲ آبان ۱۴۰۵/ افزایش قیمت دلار",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306003-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      2372
+    ],
+    "eitaa_message_ids": [
+      179777234
+    ],
+    "group_message_ids": [
+      2124
+    ],
+    "content_hash": "358329864161ae9610e919b7944d0536965c701435adec48d4cc142a2bad902c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T08:50:37.220103+00:00",
+    "telegram_message_id": 2372,
+    "eitaa_last_sent_at": "2026-11-03T08:50:38.050049+00:00",
+    "eitaa_message_id": 179777234,
+    "group_last_sent_at": "2026-11-03T08:50:39.737999+00:00",
+    "group_message_id": 2124,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T08:50:39.781027+00:00"
   }
 }

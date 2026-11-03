@@ -23660,5 +23660,76 @@
     "group_sent_at": "2026-11-03T11:51:31.327503+03:30",
     "group_message_id": 2120,
     "published_at": "2026-11-03T11:51:31.351847+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8839": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "صندوق‌های طلا و نقره توی محدوده منفی 1 درصد معاملات امروز رو آغاز کردن ‼️",
+      "summary": "صندوق‌های طلا و نقره توی محدوده منفی 1 درصد معاملات امروز رو آغاز کردن ‼️ \n\nطلا 18 عیار: 25/650/000 تومان\nنقره 925: 399/000 تومان\nتتر: 273/400 تومان\nبیت کوین: 76/600 دلار\nاونس طلا: 3/908 دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "صندوق‌های طلا و نقره توی محدوده منفی 1 درصد معاملات امروز رو آغاز کردن ‼️ \n\nطلا 18 عیار: 25/650/000 تومان\nنقره 925: 399/000 تومان\nتتر: 273/400 تومان\nبیت کوین: 76/600 دلار\nاونس طلا: 3/908 دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8839",
+      "analysis_score": 21,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "دلار",
+        "صندوق‌های طلا",
+        "تتر",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "محدوده"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 215,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T12:20:19.679065+03:30"
+    },
+    "content_signature": "017c450d50b2bed0bd3ea7bedc278614c734b8a422be7c89886d6e32e0f9cd51",
+    "first_seen_at": "2026-11-03T12:20:39.997542+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2373
+    ],
+    "telegram_last_success_at": "2026-11-03T12:20:40.451079+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T12:20:40.475590+03:30",
+    "telegram_message_id": 2373,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179777247
+    ],
+    "eitaa_last_success_at": "2026-11-03T12:20:41.908715+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T12:20:41.932827+03:30",
+    "eitaa_message_id": 179777247,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2125
+    ],
+    "group_last_success_at": "2026-11-03T12:20:42.541470+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T12:20:42.565481+03:30",
+    "group_message_id": 2125,
+    "published_at": "2026-11-03T12:20:42.589124+03:30"
   }
 }
