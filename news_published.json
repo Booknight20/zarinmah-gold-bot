@@ -29750,5 +29750,29 @@
     "group_message_id": 2194,
     "fully_published": true,
     "last_checked_at": "2026-11-03T20:47:02.546889+00:00"
+  },
+  "339e4743f1458a5fda37d917405d173c3e7cb7e6867b58905ea4d769d8c1bb58": {
+    "title": "هر خانوار ۲۱۴۷ دلار؛ ضربه جنگ علیه ایران به جیب آمریکایی ها",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1850303/%D9%87%D8%B1-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%B1-%DB%B2%DB%B1%DB%B4%DB%B7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B6%D8%B1%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AC%DB%8C%D8%A8-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7",
+    "telegram_message_ids": [
+      2443
+    ],
+    "eitaa_message_ids": [
+      179894791
+    ],
+    "group_message_ids": [
+      2195
+    ],
+    "content_hash": "fb88b74cb9da4793ae82e460d3c8a4a4c58ee9eb8ac183832a7bd1fedf14710f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T21:19:33.256652+00:00",
+    "telegram_message_id": 2443,
+    "eitaa_last_sent_at": "2026-11-03T21:19:34.695643+00:00",
+    "eitaa_message_id": 179894791,
+    "group_last_sent_at": "2026-11-03T21:19:36.409222+00:00",
+    "group_message_id": 2195,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T21:19:36.439105+00:00"
   }
 }
