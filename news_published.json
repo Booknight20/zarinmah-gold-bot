@@ -29798,5 +29798,29 @@
     "group_message_id": 2196,
     "fully_published": true,
     "last_checked_at": "2026-11-03T23:16:10.785102+00:00"
+  },
+  "b321c1962c1f77179fd5d98cc7e8de1aa7fcba903300eea1fa50efcadcb10915": {
+    "title": "فون درلاین: بسته شدن تنگه هرمز ۱۲۷ میلیارد یورو هزینه اضافی برای اروپا داشته است",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081308357/%D9%81%D9%88%D9%86-%D8%AF%D8%B1%D9%84%D8%A7%DB%8C%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%DB%B1%DB%B2%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      2445
+    ],
+    "eitaa_message_ids": [
+      179902023
+    ],
+    "group_message_ids": [
+      2197
+    ],
+    "content_hash": "4842c45e7d4e20e7342f738ae9fad17f0a1cee59cfd6b53dc04f097b38e8e6df",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T23:47:39.096714+00:00",
+    "telegram_message_id": 2445,
+    "eitaa_last_sent_at": "2026-11-03T23:47:40.720904+00:00",
+    "eitaa_message_id": 179902023,
+    "group_last_sent_at": "2026-11-03T23:47:42.510902+00:00",
+    "group_message_id": 2197,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T23:47:42.555188+00:00"
   }
 }
