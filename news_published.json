@@ -29102,5 +29102,53 @@
     "group_message_id": 2145,
     "fully_published": true,
     "last_checked_at": "2026-11-03T10:46:32.780592+00:00"
+  },
+  "b36049b065b87226f6cd3ce4c373102b4e55ecbdf1f0d99c496efd5ed88c0be4": {
+    "title": "شرایط عرضه اوراق وکالت ارزی اعلام شد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081208052/%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%B9%D8%B1%D8%B6%D9%87-%D8%A7%D9%88%D8%B1%D8%A7%D9%82-%D9%88%DA%A9%D8%A7%D9%84%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2395
+    ],
+    "eitaa_message_ids": [
+      179802866
+    ],
+    "group_message_ids": [
+      2147
+    ],
+    "content_hash": "4048df0d3cdd02072a709f9b52963d4999d5e40503e0de0cf25c988a7f1cf423",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T11:20:42.119296+00:00",
+    "telegram_message_id": 2395,
+    "eitaa_last_sent_at": "2026-11-03T11:20:43.362559+00:00",
+    "eitaa_message_id": 179802866,
+    "group_last_sent_at": "2026-11-03T11:20:44.987989+00:00",
+    "group_message_id": 2147,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T11:20:45.044177+00:00"
+  },
+  "8f66c9ac8929bacbd41ea8457e8e9b12aef80911cc967c92513901b153cb6dc6": {
+    "title": "سقف عرضه اوراق مرابحه ارزی برای هر طرح ۲۰۰ میلیون یورو تعیین شد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081208032/%D8%B3%D9%82%D9%81-%D8%B9%D8%B1%D8%B6%D9%87-%D8%A7%D9%88%D8%B1%D8%A7%D9%82-%D9%85%D8%B1%D8%A7%D8%A8%D8%AD%D9%87-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D8%B1-%D8%B7%D8%B1%D8%AD-%DB%B2%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88-%D8%AA%D8%B9%DB%8C%DB%8C%D9%86",
+    "telegram_message_ids": [
+      2396
+    ],
+    "eitaa_message_ids": [
+      179802872
+    ],
+    "group_message_ids": [
+      2148
+    ],
+    "content_hash": "f398b1fce16aaf8a36f5ca3b187cbb6d6712deb735c32ba17b3127f5cc9976d6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T11:20:46.673714+00:00",
+    "telegram_message_id": 2396,
+    "eitaa_last_sent_at": "2026-11-03T11:20:47.911602+00:00",
+    "eitaa_message_id": 179802872,
+    "group_last_sent_at": "2026-11-03T11:20:49.543879+00:00",
+    "group_message_id": 2148,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T11:20:49.590557+00:00"
   }
 }
