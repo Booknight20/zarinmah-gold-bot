@@ -28574,5 +28574,77 @@
     "group_message_id": 2113,
     "fully_published": true,
     "last_checked_at": "2026-11-03T07:49:14.407843+00:00"
+  },
+  "1ced322a2d3ec1fbf5eda72a4074478ee35c25ddf0683225aab888642cb95f04": {
+    "title": "چالش ارز گریبانگیر رادیولوژی هم شده است",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6998448/%DA%86%D8%A7%D9%84%D8%B4-%D8%A7%D8%B1%D8%B2-%DA%AF%D8%B1%DB%8C%D8%A8%D8%A7%D9%86%DA%AF%DB%8C%D8%B1-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%D9%84%D9%88%DA%98%DB%8C-%D9%87%D9%85-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      2364
+    ],
+    "eitaa_message_ids": [
+      179771482
+    ],
+    "group_message_ids": [
+      2116
+    ],
+    "content_hash": "eb946f6f87c211144de3a27b168945b55d00806ce246e5528e1948d60371a1d5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T08:21:12.075186+00:00",
+    "telegram_message_id": 2364,
+    "eitaa_last_sent_at": "2026-11-03T08:21:13.727690+00:00",
+    "eitaa_message_id": 179771482,
+    "group_last_sent_at": "2026-11-03T08:21:15.614528+00:00",
+    "group_message_id": 2116,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T08:21:15.660769+00:00"
+  },
+  "4b08d70d17206dbe58ca455427016127f198d41b9ea0fa41bc7b46ef4affc443": {
+    "title": "نرخ ارز دلار، طلا و یورو امروز سه شنبه ۱۲ آبان ۱۴۰۵/ عقب نشینی قیمت طلا و سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306006-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      2365
+    ],
+    "eitaa_message_ids": [
+      179771500
+    ],
+    "group_message_ids": [
+      2117
+    ],
+    "content_hash": "125cf87f8d0343753ef10cddd2fa747263779a9022739917ec4f43130e833b18",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T08:21:17.520295+00:00",
+    "telegram_message_id": 2365,
+    "eitaa_last_sent_at": "2026-11-03T08:21:19.174873+00:00",
+    "eitaa_message_id": 179771500,
+    "group_last_sent_at": "2026-11-03T08:21:20.994697+00:00",
+    "group_message_id": 2117,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T08:21:21.041802+00:00"
+  },
+  "df928b45cc1d2e80a01b6cfd1100368e841c696c55c6b181efc9219ae3fc21c7": {
+    "title": "قیمت سکه، نیم سکه و ربع سکه امروز سه شنبه ۱۲ آبان ۱۴۰۵ / سکه نزولی شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306005-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2366
+    ],
+    "eitaa_message_ids": [
+      179771515
+    ],
+    "group_message_ids": [
+      2118
+    ],
+    "content_hash": "763686ec4408b5cbc9e44d05d82c6636bad5c04af1f049b9db32b10e1f5edeb1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T08:21:22.865799+00:00",
+    "telegram_message_id": 2366,
+    "eitaa_last_sent_at": "2026-11-03T08:21:24.441562+00:00",
+    "eitaa_message_id": 179771515,
+    "group_last_sent_at": "2026-11-03T08:21:26.206242+00:00",
+    "group_message_id": 2118,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T08:21:26.252475+00:00"
   }
 }
