@@ -182,86 +182,6 @@
     "telegram_preview": "📰 طلا با افزایش ۰.۷ درصدی قیمت به ۳۹۰۰ دلار رسید/ قیمت جدید طلای جهانی امروز ۱۱ آبان ۱۴۰۵\n\nقیمت طلا پس از سقوط به پایین ترین سطح یک سال اخیر، در معاملات روز دوشنبه افزایش یافت؛ کاهش قیمت نفت نگرانی ها درباره تورم را تعدیل کرد، بر این اساس قیمت هر اونس طلای نقدی تا ساعت ۴:۴۰ به وقت گرینویچ با افزایش ۰.۷ درصدی به ۳۹۰۰ دلار و ۹۰ سنت رسید. قراردادهای آتی طلای آمریکا برای تحویل در ماه دسامبر نیز با افزایش ۰.۳ درصدی به ۳۹۰۹ دلار و ۷۰ سنت رسید.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2296397/%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B0-%DB%B7-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D9%87-%DB%B3%DB%B9%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C"
   },
   {
-    "source": "مهر",
-    "title": "نرخ ارزهای مرجع در مرکز مبادله؛ دوشنبه ۱۱ آبان ۱۴۰۵",
-    "link": "https://www.mehrnews.com/news/6997021/%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%AC%D8%B9-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
-    "summary": "مرکز مبادله ارز و طلای ایران نرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوآن و روبل را برای روز دوشنبه یازدهم آبان ماه اعلام کرد.",
-    "published": "Mon, 02 Nov 2026 04:55:48 GMT",
-    "collected_at": "2026-11-02T08:35:18.048535+03:30",
-    "filter_market_score": 38,
-    "market_score": 39,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "نرخ ارز",
-        "ارز",
-        "مرکز مبادله",
-        "دلار",
-        "یورو",
-        "درهم"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "نرخ ارز",
-        "ارز",
-        "مرکز مبادله"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو",
-        "درهم",
-        "مرکز مبادله"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "نرخ ارز",
-      "ارز",
-      "مرکز مبادله",
-      "دلار",
-      "یورو",
-      "درهم"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "مرکز مبادله ارز و طلای ایران نرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوآن و روبل را برای روز دوشنبه یازدهم آبان ماه اعلام کرد.",
-    "telegram_preview": "📰 نرخ ارزهای مرجع در مرکز مبادله؛ دوشنبه ۱۱ آبان ۱۴۰۵\n\nمرکز مبادله ارز و طلای ایران نرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوآن و روبل را برای روز دوشنبه یازدهم آبان ماه اعلام کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6997021/%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%AC%D8%B9-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5"
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "دورنمای بازارهای جهانی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4305870-%D8%AF%D9%88%D8%B1%D9%86%D9%85%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
@@ -939,72 +859,6 @@
     "telegram_preview": "📰 بورس به تعادل رسید/ خروج پول حقیقی از بازار سهام به بیش از ۱۷۰۰ میلیارد تومان رسید\n\nدر پایان معاملات بورس امروز، خالص جریان پول حقیقی از سهام، حق تقدم و صندوق های سهامی به منفی یک هزار و ۷۰۶ میلیارد تومان رسید.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305783-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%B1%D8%B3%DB%8C%D8%AF-%D8%AE%D8%B1%D9%88%D8%AC-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF"
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت یورو، دلار و انواع ارزها امروز ۱۱ آبان ۱۴۰۵ در زمان بازگشایی بازار/ یورو ۳۰۴ هزار و ۸۷۰ تومان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2296339/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
-    "summary": "قیمت یورو، دلار و سایر ارزها امروز ۱۱ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو در بازار با افزایش ۲ هزار و ۹۷۰ تومانی، ۳۰۴ هزار و ۸۷۰ تومان فروخته شد.",
-    "published": "Mon, 02 Nov 2026 04:55:00 GMT",
-    "collected_at": "2026-11-02T08:35:33.222521+03:30",
-    "filter_market_score": 28,
-    "market_score": 32,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "بازگشایی",
-      "افزایش",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "قیمت یورو، دلار و سایر ارزها امروز ۱۱ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو در بازار با افزایش ۲ هزار و ۹۷۰ تومانی، ۳۰۴ هزار و ۸۷۰ تومان فروخته شد.",
-    "telegram_preview": "📰 قیمت یورو، دلار و انواع ارزها امروز ۱۱ آبان ۱۴۰۵ در زمان بازگشایی بازار/ یورو ۳۰۴ هزار و ۸۷۰ تومان شد + جدول\n\nقیمت یورو، دلار و سایر ارزها امروز ۱۱ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو در بازار با افزایش ۲ هزار و ۹۷۰ تومانی، ۳۰۴ هزار و ۸۷۰ تومان فروخته شد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2296339/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C"
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "قیمت سکه، نیم سکه و ربع سکه امروز دوشنبه ۱۱ آبان ۱۴۰۵ / سکه صعودی شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305769-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%B4%D8%AF",
@@ -1073,77 +927,6 @@
     "duplicate_count": 1,
     "full_text": "در نرخ 264 میلیون تومان در معامله بود.",
     "telegram_preview": "📰 قیمت سکه، نیم سکه و ربع سکه امروز دوشنبه ۱۱ آبان ۱۴۰۵ / سکه صعودی شد\n\nدر نرخ 264 میلیون تومان در معامله بود.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305769-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%B4%D8%AF"
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا و سکه امروز دوشنبه ۱۱ آبان ۱۴۰۵ / افزایش قیمت طلا و سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305740-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
-    "summary": "طلای 18 عیار صعودی شد و قیمت سکه امامی امروز با افزایش، در نرخ ۲۶۲ میلیون و ۷۰۰ هزار تومان در معامله بود.",
-    "published": "Mon, 02 Nov 2026 04:43:53 +0000",
-    "collected_at": "2026-11-02T08:17:39.799751+03:30",
-    "filter_market_score": 24,
-    "market_score": 32,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "قیمت",
-      "صعود",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "طلای 18 عیار صعودی شد و قیمت سکه امامی امروز با افزایش، در نرخ ۲۶۲ میلیون و ۷۰۰ هزار تومان در معامله بود.",
-    "telegram_preview": "📰 قیمت طلا و سکه امروز دوشنبه ۱۱ آبان ۱۴۰۵ / افزایش قیمت طلا و سکه\n\nطلای 18 عیار صعودی شد و قیمت سکه امامی امروز با افزایش، در نرخ ۲۶۲ میلیون و ۷۰۰ هزار تومان در معامله بود.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305740-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87"
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -2211,65 +1994,70 @@
     "telegram_preview": "📰 ترکیه نخستین مقصد صادراتی ایران شد؛ تراز تجاری مثبت ۶۵۴ میلیون دلار\n\nتجارت ایران و ترکیه در نیمه نخست ۱۴۰۵ با رشد ۱۰.۳ درصدی به ۷ میلیارد و ۹۱۴ میلیون دلار رسید؛ صادرات ایران ۵۶.۱ درصد افزایش یافت و ترکیه به نخستین مقصد صادراتی کشور تبدیل شد؛ واردات افت کرد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6996457/%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D9%85%D9%82%D8%B5%D8%AF-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF-%D8%AA%D8%B1%D8%A7%D8%B2-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D9%85%D8%AB%D8%A8%D8%AA-%DB%B6%DB%B5%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86"
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۱۱ آبان ۱۴۰۵ در زمان بازگشایی بازار/ نیم سکه ۱۳۸ میلیون و ۹۰۰ هزار تومان به فروش رفت + جدول",
-    "link": "https://www.khabaronline.ir/news/2296338/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B3%DB%B8",
-    "summary": "قیمت سکه در بازار تهران امروز ۱۱ آبان ۱۴۰۵ اعلام شد و نیم سکه ۱۳۸ میلیون و ۹۰۰ هزار تومان به فروش رفت.",
-    "published": "Mon, 02 Nov 2026 04:35:00 GMT",
-    "collected_at": "2026-11-02T08:17:44.320295+03:30",
-    "filter_market_score": 13,
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا امروز سه شنبه ۱۲ آبان ۱۴۰۵ / افزایش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305976-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "قیمت طلا امروز با افزایش 29 دلاری نسبت به روز گذشته، 3955 (سه هزار و نهصد و پنجاه و پنج) دلار نرخ گذاری شد.",
+    "published": "Tue, 03 Nov 2026 04:46:08 +0000",
+    "collected_at": "2026-11-03T08:45:53.537386+03:30",
+    "filter_market_score": 19,
     "market_score": 25,
     "market_matches": {
       "gold": [
-        "سکه",
-        "نیم سکه"
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
       ]
     },
     "title_market_matches": {
       "gold": [
-        "سکه",
-        "نیم سکه"
+        "طلا"
       ]
     },
     "summary_market_matches": {
       "gold": [
-        "سکه",
-        "نیم سکه"
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
       ]
     },
     "full_text_market_matches": {},
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
+      "افزایش",
       "قیمت",
-      "بازگشایی",
-      "اعلام شد"
+      "نرخ"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "high",
     "filter_score_bonus": 6,
     "gold_matches": [
-      "سکه",
-      "نیم سکه"
+      "طلا"
     ],
-    "currency_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
-    "market_count": 1,
+    "market_count": 2,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
     "duplicate_count": 1,
-    "full_text": "قیمت سکه در بازار تهران امروز ۱۱ آبان ۱۴۰۵ اعلام شد و نیم سکه ۱۳۸ میلیون و ۹۰۰ هزار تومان به فروش رفت.",
-    "telegram_preview": "📰 قیمت سکه امروز ۱۱ آبان ۱۴۰۵ در زمان بازگشایی بازار/ نیم سکه ۱۳۸ میلیون و ۹۰۰ هزار تومان به فروش رفت + جدول\n\nقیمت سکه در بازار تهران امروز ۱۱ آبان ۱۴۰۵ اعلام شد و نیم سکه ۱۳۸ میلیون و ۹۰۰ هزار تومان به فروش رفت.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2296338/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B3%DB%B8"
+    "full_text": "قیمت طلا امروز با افزایش 29 دلاری نسبت به روز گذشته، 3955 (سه هزار و نهصد و پنجاه و پنج) دلار نرخ گذاری شد.",
+    "telegram_preview": "📰 قیمت طلا امروز سه شنبه ۱۲ آبان ۱۴۰۵ / افزایش قیمت طلا\n\nقیمت طلا امروز با افزایش 29 دلاری نسبت به روز گذشته، 3955 (سه هزار و نهصد و پنجاه و پنج) دلار نرخ گذاری شد.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305976-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7"
   },
   {
     "source": "دنیای اقتصاد",
@@ -2544,69 +2332,6 @@
     "duplicate_count": 1,
     "full_text": "دنیای اقتصاد: معاملات بورس تهران امروز فضای متعادل تری را نسبت به روزهای گذشته تجربه می کند. اگرچه نماگرهای سهامی در ابتدای معاملات در محدوده منفی قرار داشتند و شاخص کل حتی برای مدتی کانال ۷ میلیون و ۶۰۰ هزار واحد را از دست داد، اما در ادامه با افزایش تقاضا این سطح را به سرعت پس گرفت.",
     "telegram_preview": "📰 نوسان بورس در مرز 7.6میلیونی\n\nدنیای اقتصاد: معاملات بورس تهران امروز فضای متعادل تری را نسبت به روزهای گذشته تجربه می کند. اگرچه نماگرهای سهامی در ابتدای معاملات در محدوده منفی قرار داشتند و شاخص کل حتی برای مدتی کانال ۷ میلیون و ۶۰۰ هزار واحد را از دست داد، اما در ادامه با افزایش تقاضا این سطح را به سرعت پس گرفت.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4305760-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C"
-  },
-  {
-    "source": "مهر",
-    "title": "برخورد قاطع با قاچاق ارز و طلا در مرزهای سیستان و بلوچستان",
-    "link": "https://www.mehrnews.com/news/6997022/%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%D9%82%D8%A7%D8%B7%D8%B9-%D8%A8%D8%A7-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%A7%D8%B1%D8%B2-%D9%88-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86",
-    "summary": "زاهدان- مدیرکل تعزیرات حکومتی سیستان و بلوچستان از برخورد قانونی با ورود و خروج غیرمجاز ارز، شمش طلا و زیورآلات از مرزهای استان خبر داد.",
-    "published": "Mon, 02 Nov 2026 04:57:35 GMT",
-    "collected_at": "2026-11-02T08:35:18.048486+03:30",
-    "filter_market_score": 20,
-    "market_score": 24,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "زاهدان- مدیرکل تعزیرات حکومتی سیستان و بلوچستان از برخورد قانونی با ورود و خروج غیرمجاز ارز، شمش طلا و زیورآلات از مرزهای استان خبر داد.",
-    "telegram_preview": "📰 برخورد قاطع با قاچاق ارز و طلا در مرزهای سیستان و بلوچستان\n\nزاهدان- مدیرکل تعزیرات حکومتی سیستان و بلوچستان از برخورد قانونی با ورود و خروج غیرمجاز ارز، شمش طلا و زیورآلات از مرزهای استان خبر داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6997022/%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%D9%82%D8%A7%D8%B7%D8%B9-%D8%A8%D8%A7-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%A7%D8%B1%D8%B2-%D9%88-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86"
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -3526,66 +3251,6 @@
     "telegram_preview": "📰 قیمت نفت بشکه ای ۱۱۰ دلار شد\n\nقیمت نفت در پی ادامه مذاکرات ایران و قطر و کاهش نگرانی ها از تشدید درگیری ها، امروز بیش از ۳ درصد افت کرد.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1849919/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B4%DA%A9%D9%87-%D8%A7%DB%8C-%DB%B1%DB%B1%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF"
   },
   {
-    "source": "مهر",
-    "title": "نوسان قیمت ها در بازار جهانی انرژی، برنت ۱۱۰ دلار",
-    "link": "https://www.mehrnews.com/news/6997014/%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%A8%D8%B1%D9%86%D8%AA-%DB%B1%DB%B1%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "تازه ترین نرخ حامل های انرژی و نفت در بازارهای جهانی حاکی از کاهش بهای نفت برنت و WTI و در مقابل رشد قیمت نفت موربان و گاز طبیعی است.",
-    "published": "Mon, 02 Nov 2026 04:48:28 GMT",
-    "collected_at": "2026-11-02T08:35:18.048696+03:30",
-    "filter_market_score": 15,
-    "market_score": 20,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "نوسان",
-      "قیمت",
-      "کاهش",
-      "رشد",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "تازه ترین نرخ حامل های انرژی و نفت در بازارهای جهانی حاکی از کاهش بهای نفت برنت و WTI و در مقابل رشد قیمت نفت موربان و گاز طبیعی است.",
-    "telegram_preview": "📰 نوسان قیمت ها در بازار جهانی انرژی، برنت ۱۱۰ دلار\n\nتازه ترین نرخ حامل های انرژی و نفت در بازارهای جهانی حاکی از کاهش بهای نفت برنت و WTI و در مقابل رشد قیمت نفت موربان و گاز طبیعی است.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6997014/%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%A8%D8%B1%D9%86%D8%AA-%DB%B1%DB%B1%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1"
-  },
-  {
     "source": "ایسنا",
     "title": "پیشنهاد کنسرسیوم آمریکایی برای پروژه ۴.۴ میلیارد دلاری گاز مایع در پاکستان",
     "link": "https://www.isna.ir/news/1405081106878/%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF-%DA%A9%D9%86%D8%B3%D8%B1%D8%B3%DB%8C%D9%88%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%DB%B4-%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%DA%AF%D8%A7%D8%B2-%D9%85%D8%A7%DB%8C%D8%B9",
@@ -3644,62 +3309,6 @@
     "duplicate_count": 1,
     "full_text": "یک کنسرسیوم خصوصی متشکل از شرکت های آمریکایی، با حمایت دولت ترامپ، در پی سرمایه گذاری تا سقف ۴.۴ میلیارد دلار در یک پروژه یکپارچه گاز طبیعی مایع (ال ان جی) در پاکستان است که شامل واردات، ذخیره سازی، تبدیل مجدد به گاز، انتقال گاز و فروش به مصرف کنندگان بزرگ بر مبنای مدل تجاری (مستقل از تضمین های دولتی) می شود.",
     "telegram_preview": "📰 پیشنهاد کنسرسیوم آمریکایی برای پروژه ۴.۴ میلیارد دلاری گاز مایع در پاکستان\n\nیک کنسرسیوم خصوصی متشکل از شرکت های آمریکایی، با حمایت دولت ترامپ، در پی سرمایه گذاری تا سقف ۴.۴ میلیارد دلار در یک پروژه یکپارچه گاز طبیعی مایع (ال ان جی) در پاکستان است که شامل واردات، ذخیره سازی، تبدیل مجدد به گاز، انتقال گاز و فروش به مصرف کنندگان بزرگ بر مبنای مدل تجاری (مستقل از تضمین های دولتی) می شود.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081106878/%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF-%DA%A9%D9%86%D8%B3%D8%B1%D8%B3%DB%8C%D9%88%D9%85-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%DB%B4-%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%DA%AF%D8%A7%D8%B2-%D9%85%D8%A7%DB%8C%D8%B9"
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا ۱۸ عیار امروز دوشنبه ۱۱ آبان ۱۴۰۵/ افزایش قیمت طلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305739-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
-    "summary": "به 25 میلیون و 645 هزار و 300 تومان رسید.",
-    "published": "Mon, 02 Nov 2026 04:34:07 +0000",
-    "collected_at": "2026-11-02T08:17:39.799794+03:30",
-    "filter_market_score": 15,
-    "market_score": 18,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "به 25 میلیون و 645 هزار و 300 تومان رسید.",
-    "telegram_preview": "📰 قیمت طلا ۱۸ عیار امروز دوشنبه ۱۱ آبان ۱۴۰۵/ افزایش قیمت طلا\n\nبه 25 میلیون و 645 هزار و 300 تومان رسید.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305739-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7"
   },
   {
     "source": "ایسنا",
@@ -3812,6 +3421,63 @@
     "duplicate_count": 1,
     "full_text": "شیراز- استان فارس به عنوان قطب کشاورزی با تولید سالانه ۱۲.۱ میلیون تن محصول و صادرات بیش از ۱۳۶ میلیون دلار، ظرفیت قابل توجهی برای ارزآوری و توسعه تجارت خارجی کشور دارد.",
     "telegram_preview": "📰 صادرات ۱۳۶ میلیون دلاری؛ سهم کشاورزی فارس از بازارهای جهانی\n\nشیراز- استان فارس به عنوان قطب کشاورزی با تولید سالانه ۱۲.۱ میلیون تن محصول و صادرات بیش از ۱۳۶ میلیون دلار، ظرفیت قابل توجهی برای ارزآوری و توسعه تجارت خارجی کشور دارد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6996035/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1%DB%B3%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B3%D9%87%D9%85-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C"
+  },
+  {
+    "source": "مهر",
+    "title": "صادرات ۱۹۳ میلیون دلاری محصولات کشاورزی هرمزگان در نیمه نخست سال",
+    "link": "https://www.mehrnews.com/news/6998187/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1%DB%B9%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D8%AE%D8%B3%D8%AA",
+    "summary": "بندرعباس - سرپرست مدیریت توسعه بازرگانی سازمان جهاد کشاورزی هرمزگان از صادرات بیش از ۳۰۸ هزار تن محصولات کشاورزی به ارزش ۱۹۳ میلیون و ۴۰۰ هزار دلار در شش ماهه نخست سال ۱۴۰۵ خبر داد.",
+    "published": "Tue, 03 Nov 2026 05:13:28 GMT",
+    "collected_at": "2026-11-03T08:45:44.970363+03:30",
+    "filter_market_score": 13,
+    "market_score": 18,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "بندرعباس - سرپرست مدیریت توسعه بازرگانی سازمان جهاد کشاورزی هرمزگان از صادرات بیش از ۳۰۸ هزار تن محصولات کشاورزی به ارزش ۱۹۳ میلیون و ۴۰۰ هزار دلار در شش ماهه نخست سال ۱۴۰۵ خبر داد.",
+    "telegram_preview": "📰 صادرات ۱۹۳ میلیون دلاری محصولات کشاورزی هرمزگان در نیمه نخست سال\n\nبندرعباس - سرپرست مدیریت توسعه بازرگانی سازمان جهاد کشاورزی هرمزگان از صادرات بیش از ۳۰۸ هزار تن محصولات کشاورزی به ارزش ۱۹۳ میلیون و ۴۰۰ هزار دلار در شش ماهه نخست سال ۱۴۰۵ خبر داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6998187/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1%DB%B9%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D8%AE%D8%B3%D8%AA"
   },
   {
     "source": "مهر",
@@ -4426,6 +4092,65 @@
     "duplicate_count": 1,
     "full_text": "پدرو سانچز، نخست وزیر اسپانیا امروز (دوشنبه) در نشستی جنگ علیه ایران را «غیرقانونی» خوانده و گفت که این جنگ پیامدهایی، از جمله ۱۰۰ میلیارد یورو ر به دلیل افزایش قیمت سوخت بر کشورهای اروپایی تحمیل کرده است.",
     "telegram_preview": "📰 اسپانیا: جنگ علیه ایران غیرقانونی است\n\nپدرو سانچز، نخست وزیر اسپانیا امروز (دوشنبه) در نشستی جنگ علیه ایران را «غیرقانونی» خوانده و گفت که این جنگ پیامدهایی، از جمله ۱۰۰ میلیارد یورو ر به دلیل افزایش قیمت سوخت بر کشورهای اروپایی تحمیل کرده است.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/100000203/%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%BA%DB%8C%D8%B1%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA-b96d61010255484fa58e2109"
+  },
+  {
+    "source": "تابناک",
+    "title": "افزایش قیمت خودرو مبارک دولت و سیاست گذاری هایش! / خودروی ملی یا چینی با برند ایرانی؟",
+    "link": "https://tabnak.ir/fa/news/100000187/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%85%D8%A8%D8%A7%D8%B1%DA%A9-%D8%AF%D9%88%D9%84%D8%AA-%D9%88-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C%D9%87%D8%A7%DB%8C%D8%B4-%D8%AA%DB%8C%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%DB%8C-%D9%85%D9%84%DB%8C-%DB%8C%D8%A7-%DA%86%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7-%D8%A8%D8%B1%D9%86%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-de536dd0094045438a55e3f7",
+    "summary": "عضو کمیسیون صنایع و معادن مجلس، افزایش قیمت خودرو را نتیجه سیاست های دولت در حوزه تعرفه واردات، نرخ ارز و تداوم انحصار دانست و گفت: دولت با سیاست های خود عملاً به نفع انحصارگران و به زیان مصرف کنندگان عمل کرده است.",
+    "published": "Tue, 03 Nov 2026 05:15:03 +0000",
+    "collected_at": "2026-11-03T08:46:01.473953+03:30",
+    "filter_market_score": 14,
+    "market_score": 15,
+    "market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "عضو کمیسیون صنایع و معادن مجلس، افزایش قیمت خودرو را نتیجه سیاست های دولت در حوزه تعرفه واردات، نرخ ارز و تداوم انحصار دانست و گفت: دولت با سیاست های خود عملاً به نفع انحصارگران و به زیان مصرف کنندگان عمل کرده است.",
+    "telegram_preview": "📰 افزایش قیمت خودرو مبارک دولت و سیاست گذاری هایش! / خودروی ملی یا چینی با برند ایرانی؟\n\nعضو کمیسیون صنایع و معادن مجلس، افزایش قیمت خودرو را نتیجه سیاست های دولت در حوزه تعرفه واردات، نرخ ارز و تداوم انحصار دانست و گفت: دولت با سیاست های خود عملاً به نفع انحصارگران و به زیان مصرف کنندگان عمل کرده است.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/100000187/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%85%D8%A8%D8%A7%D8%B1%DA%A9-%D8%AF%D9%88%D9%84%D8%AA-%D9%88-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C%D9%87%D8%A7%DB%8C%D8%B4-%D8%AA%DB%8C%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%DB%8C-%D9%85%D9%84%DB%8C-%DB%8C%D8%A7-%DA%86%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7-%D8%A8%D8%B1%D9%86%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-de536dd0094045438a55e3f7"
   },
   {
     "source": "ایسنا",
