@@ -24365,5 +24365,75 @@
     "group_sent_at": "2026-11-03T15:47:58.699271+03:30",
     "group_message_id": 2160,
     "published_at": "2026-11-03T15:47:58.721105+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25986": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "3 نکته مهم قبل از خرید سکه بهار آزادی",
+      "summary": "3 نکته مهم قبل از خرید سکه بهار آزادی \n1-حباب: بررسی حباب سکه\n2-سال ضرب: یعنی سالی که سکه توسط بانک مرکزی ضرب و تولید شده و بعضی خریدارها برای سکه‌های با سال ضرب قدیمی‌تر قیمت متفاوتی در نظر میگیرن و ممکنه موقع فروش روی قیمتش تاثیر بذاره.\n3-وکیوم: بسته‌بندی و وکیوم باز نشده باشد.\n\n @payamelyaskordi ✅",
+      "full_text": "3 نکته مهم قبل از خرید سکه بهار آزادی \n1-حباب: بررسی حباب سکه\n2-سال ضرب: یعنی سالی که سکه توسط بانک مرکزی ضرب و تولید شده و بعضی خریدارها برای سکه‌های با سال ضرب قدیمی‌تر قیمت متفاوتی در نظر میگیرن و ممکنه موقع فروش روی قیمتش تاثیر بذاره.\n3-وکیوم: بسته‌بندی و وکیوم باز نشده باشد.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25986",
+      "analysis_score": 20,
+      "market_matches": [
+        "سکه",
+        "حباب سکه",
+        "بانک مرکزی"
+      ],
+      "analysis_matches": [
+        "خرید",
+        "فروش",
+        "قیمت",
+        "حباب"
+      ],
+      "market_groups": [
+        "gold",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 301,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T17:18:15.021602+03:30"
+    },
+    "content_signature": "0007f793428ca4030f82f31a95515e1fa2b7eb16456a076f077c17d4b5b2aedc",
+    "first_seen_at": "2026-11-03T17:18:17.155967+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2411
+    ],
+    "telegram_last_success_at": "2026-11-03T17:18:17.560260+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T17:18:17.586261+03:30",
+    "telegram_message_id": 2411,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179833646
+    ],
+    "eitaa_last_success_at": "2026-11-03T17:18:18.794066+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T17:18:18.819033+03:30",
+    "eitaa_message_id": 179833646,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2163
+    ],
+    "group_last_success_at": "2026-11-03T17:18:19.239052+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T17:18:19.264164+03:30",
+    "group_message_id": 2163,
+    "published_at": "2026-11-03T17:18:19.289658+03:30"
   }
 }
