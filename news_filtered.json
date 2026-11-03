@@ -2264,6 +2264,47 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "سعیدی: رشد سودآوری، توسعه صادرات و تقویت تاب آوری شستا در شرایط دشوار اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2297204/%D8%B3%D8%B9%DB%8C%D8%AF%DB%8C-%D8%B1%D8%B4%D8%AF-%D8%B3%D9%88%D8%AF%D8%A2%D9%88%D8%B1%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AA%D8%A7%D8%A8-%D8%A2%D9%88%D8%B1%DB%8C-%D8%B4%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7",
+    "summary": "مدیرعامل شستا با تشریح عملکرد این مجموعه در شرایط جنگی، از افزایش سهم شستا در بازار سرمایه به ۱۳.۵ درصد، خروج هفت شرکت از زیان و بازگشت پتروشیمی آبادان به چرخه تولید خبر داد.",
+    "published": "Tue, 03 Nov 2026 14:41:54 GMT",
+    "collected_at": "2026-11-03T18:20:17.630112+03:30",
+    "filter_market_score": 13,
+    "market_score": 13,
+    "market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [
+      "رشد",
+      "صادرات",
+      "افزایش",
+      "زیان",
+      "تولید"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مهر",
     "title": "خرید طلا توسط بانک های مرکزی جهان رکورد زد",
     "link": "https://www.mehrnews.com/news/6998631/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AA%D9%88%D8%B3%D8%B7-%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%B2%D8%AF",
@@ -2768,6 +2809,41 @@
     "filter_applied": true
   },
   {
+    "source": "مهر",
+    "title": "فروشنده ۷۰ میلیارد ریال طلای تقلبی در مشهد دستگیر شد",
+    "link": "https://www.mehrnews.com/news/6999012/%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%D9%87-%DB%B7%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D9%82%D9%84%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF",
+    "summary": "مشهد- فرمانده انتظامی خراسان رضوی گفت: فروشنده ۷۰ میلیارد ریال طلای تقلبی در مشهد دستگیر و ۶ مالباخته در این زمینه شناسایی شدند.",
+    "published": "Tue, 03 Nov 2026 14:35:42 GMT",
+    "collected_at": "2026-11-03T18:20:01.773276+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مشرق",
     "title": "دستگیری فعال غیرمجاز ارزی در شمال تهران",
     "link": "https://www.mashreghnews.ir/news/1850210/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D9%81%D8%B9%D8%A7%D9%84-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%B4%D9%85%D8%A7%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
@@ -2874,41 +2950,6 @@
     "filter_applied": true
   },
   {
-    "source": "مهر",
-    "title": "فروش طلای دست دوم در چهارمحال و بختیاری ممنوع است",
-    "link": "https://www.mehrnews.com/news/6997846/%D9%81%D8%B1%D9%88%D8%B4-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA-%D8%AF%D9%88%D9%85-%D8%AF%D8%B1-%DA%86%D9%87%D8%A7%D8%B1%D9%85%D8%AD%D8%A7%D9%84-%D9%88-%D8%A8%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C-%D9%85%D9%85%D9%86%D9%88%D8%B9-%D8%A7%D8%B3%D8%AA",
-    "summary": "شهرکرد-معاون بازرسی و نظارت اداره کل صنعت، معدن و تجارت چهارمحال وبختیاری از آغاز گشت های نظارتی ویژه بازار طلا با مشارکت بازرسان استاندارد خبر داد.",
-    "published": "Mon, 02 Nov 2026 15:08:19 GMT",
-    "collected_at": "2026-11-02T18:44:21.265625+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "تحلیل حرفه ای و پیش بینی بازار مقاطع فولادی؛ بهترین زمان تامین مصالح پروژه های عمرانی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4306034-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D9%85%D8%B1%D8%A7%D9%86%DB%8C",
@@ -2981,41 +3022,6 @@
       "پیش‌بینی",
       "پیش بینی",
       "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "دومینوی تخلف در صنایع شیر ایران؛ شبیخون سرپرست پگاه به حقوق سهامداران بورسی با گروگان گیری صادرات",
-    "link": "https://tabnak.ir/fa/news/100000196/%D8%AF%D9%88%D9%85%DB%8C%D9%86%D9%88%DB%8C-%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%B4%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%A8%DB%8C%D8%AE%D9%88%D9%86-%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA-%D9%BE%DA%AF%D8%A7%D9%87-%D8%A8%D9%87-%D8%AD%D9%82%D9%88%D9%82-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7-%DA%AF%D8%B1%D9%88%DA%AF%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-4d95080919ff4517b7191e9c",
-    "summary": "نگاه ها به وزیر تعاون، سازمان بازرسی، دیوان محاسبات و نهادهای امنیتی دوخته شده تا با ورود فوری به پرونده، مانع از تداوم احکام غیرقانونی و استیفای حقوق پایمال شده بازنشستگان از مدیران متخلف شوند.",
-    "published": "Mon, 02 Nov 2026 14:24:19 +0000",
-    "collected_at": "2026-11-02T18:17:55.434289+03:30",
-    "filter_market_score": 9,
-    "market_score": 9,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صادرات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3315,40 +3321,6 @@
     "major_event_matches": [],
     "signal_matches": [
       "توافق"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "واگذاری بلوکی ایران خودرو با قیمت پارسال!",
-    "link": "https://tabnak.ir/fa/news/100000216/%D9%88%D8%A7%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A8%D9%84%D9%88%DA%A9%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-70b90b3c269b4b2aad13810d",
-    "summary": "واگذاری بلوک ۱۰.۳۳درصدی سهام سپهر کیش به بهمن موتور پس از ده ماه توقف، ابهاماتی درباره قیمت روز، نبود رقابت، سهم دولت و احتمال تغییر موازنه قدرت در ایران خودرو ایجاد کرده است",
-    "published": "Mon, 02 Nov 2026 15:13:01 +0000",
-    "collected_at": "2026-11-02T18:44:32.456456+03:30",
-    "filter_market_score": 6,
-    "market_score": 6,
-    "market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "تغییر"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3756,6 +3728,37 @@
     "full_text_market_matches": {
       "currency": [
         "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "اولیسه؛ فوتبال خالص، بی خیالی مطلق/ ستاره بایرن ۱۸۰ میلیون یورویی شد",
+    "link": "https://www.isna.ir/news/1405081208191/%D8%A7%D9%88%D9%84%DB%8C%D8%B3%D9%87-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%AE%D8%A7%D9%84%D8%B5-%D8%A8%DB%8C-%D8%AE%DB%8C%D8%A7%D9%84%DB%8C-%D9%85%D8%B7%D9%84%D9%82-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%DB%8C%D8%B1%D9%86-%DB%B1%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C",
+    "summary": "ارزش وینگر ۲۴ ساله فرانسوی بایرن مونیخ بعد از درخشش در شروع فصل به ۱۸۰ میلیون یورو رسیده است.",
+    "published": "Tue, 03 Nov 2026 14:15:00 GMT",
+    "collected_at": "2026-11-03T18:17:40.328656+03:30",
+    "filter_market_score": 3,
+    "market_score": 3,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "یورو"
       ]
     },
     "driver_matches": [],

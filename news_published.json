@@ -29318,5 +29318,53 @@
     "group_message_id": 2165,
     "fully_published": true,
     "last_checked_at": "2026-11-03T14:15:03.622064+00:00"
+  },
+  "48d625e0c27378d1927104b3ec9df5924249808ab90a762d9b372cd29abb9347": {
+    "title": "فروشنده ۷۰ میلیارد ریال طلای تقلبی در مشهد دستگیر شد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6999012/%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%D9%87-%DB%B7%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D9%82%D9%84%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2414
+    ],
+    "eitaa_message_ids": [
+      179842618
+    ],
+    "group_message_ids": [
+      2166
+    ],
+    "content_hash": "aa4893f46b6969957077b2cad8558829681966808775f79f04a043f00a843423",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T14:50:49.779151+00:00",
+    "telegram_message_id": 2414,
+    "eitaa_last_sent_at": "2026-11-03T14:50:50.980227+00:00",
+    "eitaa_message_id": 179842618,
+    "group_last_sent_at": "2026-11-03T14:50:52.633766+00:00",
+    "group_message_id": 2166,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T14:50:52.680570+00:00"
+  },
+  "89e3b81679c78226f20712f46dec6550761cbc6bf17d4d3b8f22dfdcc5548f55": {
+    "title": "سعیدی: رشد سودآوری، توسعه صادرات و تقویت تاب آوری شستا در شرایط دشوار اقتصادی",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2297204/%D8%B3%D8%B9%DB%8C%D8%AF%DB%8C-%D8%B1%D8%B4%D8%AF-%D8%B3%D9%88%D8%AF%D8%A2%D9%88%D8%B1%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AA%D8%A7%D8%A8-%D8%A2%D9%88%D8%B1%DB%8C-%D8%B4%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7",
+    "telegram_message_ids": [
+      2415
+    ],
+    "eitaa_message_ids": [
+      179842635
+    ],
+    "group_message_ids": [
+      2167
+    ],
+    "content_hash": "50dd30c4975ce26ec33876cb3f472f8d3cf6fae89492687752a4bb51366de197",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T14:50:54.343338+00:00",
+    "telegram_message_id": 2415,
+    "eitaa_last_sent_at": "2026-11-03T14:50:57.346186+00:00",
+    "eitaa_message_id": 179842635,
+    "group_last_sent_at": "2026-11-03T14:50:58.986978+00:00",
+    "group_message_id": 2167,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T14:50:59.033634+00:00"
   }
 }

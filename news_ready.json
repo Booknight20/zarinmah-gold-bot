@@ -3203,6 +3203,67 @@
     "telegram_preview": "📰 پاسخ خواهر اون به اتهامات آمریکا درباره دخالت کره شمالی در سرقت ۶ میلیارد دلاری از بایننس\n\nخواهر کیم جونگ اون، رهبر کره شمالی دخالت کشورش را در حمله سایبری که صرافی ارز دیجیتال بایننس را هدف قرار داد و منجر به سرقت دارایی های دیجیتال به ارزش بیش از ۶ میلیارد دلار شد تکذیب کرد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081207491/%D9%BE%D8%A7%D8%B3%D8%AE-%D8%AE%D9%88%D8%A7%D9%87%D8%B1-%D8%A7%D9%88%D9%86-%D8%A8%D9%87-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AF%D8%AE%D8%A7%D9%84%D8%AA-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%B1%D9%82%D8%AA"
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "سعیدی: رشد سودآوری، توسعه صادرات و تقویت تاب آوری شستا در شرایط دشوار اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2297204/%D8%B3%D8%B9%DB%8C%D8%AF%DB%8C-%D8%B1%D8%B4%D8%AF-%D8%B3%D9%88%D8%AF%D8%A2%D9%88%D8%B1%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AA%D8%A7%D8%A8-%D8%A2%D9%88%D8%B1%DB%8C-%D8%B4%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7",
+    "summary": "مدیرعامل شستا با تشریح عملکرد این مجموعه در شرایط جنگی، از افزایش سهم شستا در بازار سرمایه به ۱۳.۵ درصد، خروج هفت شرکت از زیان و بازگشت پتروشیمی آبادان به چرخه تولید خبر داد.",
+    "published": "Tue, 03 Nov 2026 14:41:54 GMT",
+    "collected_at": "2026-11-03T18:20:17.630112+03:30",
+    "filter_market_score": 13,
+    "market_score": 18,
+    "market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "stock": [
+        "بازار سرمایه"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [
+      "رشد",
+      "افزایش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بازار سرمایه"
+    ],
+    "high_impact_matches": [
+      "جنگ"
+    ],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "مدیرعامل شستا با تشریح عملکرد این مجموعه در شرایط جنگی، از افزایش سهم شستا در بازار سرمایه به ۱۳.۵ درصد، خروج هفت شرکت از زیان و بازگشت پتروشیمی آبادان به چرخه تولید خبر داد.",
+    "telegram_preview": "📰 سعیدی: رشد سودآوری، توسعه صادرات و تقویت تاب آوری شستا در شرایط دشوار اقتصادی\n\nمدیرعامل شستا با تشریح عملکرد این مجموعه در شرایط جنگی، از افزایش سهم شستا در بازار سرمایه به ۱۳.۵ درصد، خروج هفت شرکت از زیان و بازگشت پتروشیمی آبادان به چرخه تولید خبر داد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2297204/%D8%B3%D8%B9%DB%8C%D8%AF%DB%8C-%D8%B1%D8%B4%D8%AF-%D8%B3%D9%88%D8%AF%D8%A2%D9%88%D8%B1%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AA%D8%A7%D8%A8-%D8%A2%D9%88%D8%B1%DB%8C-%D8%B4%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7"
+  },
+  {
     "source": "مهر",
     "title": "صادرات ۴۸ میلیون دلار داروی دام و طیور طی سال جاری",
     "link": "https://www.mehrnews.com/news/6998577/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B4%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%A7%D8%B1%D9%88%DB%8C-%D8%AF%D8%A7%D9%85-%D9%88-%D8%B7%DB%8C%D9%88%D8%B1-%D8%B7%DB%8C-%D8%B3%D8%A7%D9%84-%D8%AC%D8%A7%D8%B1%DB%8C",
@@ -3766,6 +3827,58 @@
     "telegram_preview": "📰 درمان جهش ارز؛ وقتی پمپاژ ریال متوقف شود\n\nدر روزگار افت درآمدهای ارزی، کلید ثبات بازار در کنترل خلق پول بانک ها و انضباط پولی نهفته است.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6998157/%D8%AF%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%B4-%D8%A7%D8%B1%D8%B2-%D9%88%D9%82%D8%AA%DB%8C-%D9%BE%D9%85%D9%BE%D8%A7%DA%98-%D8%B1%DB%8C%D8%A7%D9%84-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D8%B4%D9%88%D8%AF"
   },
   {
+    "source": "مهر",
+    "title": "فروشنده ۷۰ میلیارد ریال طلای تقلبی در مشهد دستگیر شد",
+    "link": "https://www.mehrnews.com/news/6999012/%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%D9%87-%DB%B7%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D9%82%D9%84%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF",
+    "summary": "مشهد- فرمانده انتظامی خراسان رضوی گفت: فروشنده ۷۰ میلیارد ریال طلای تقلبی در مشهد دستگیر و ۶ مالباخته در این زمینه شناسایی شدند.",
+    "published": "Tue, 03 Nov 2026 14:35:42 GMT",
+    "collected_at": "2026-11-03T18:20:01.773276+03:30",
+    "filter_market_score": 10,
+    "market_score": 16,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "مشهد- فرمانده انتظامی خراسان رضوی گفت: فروشنده ۷۰ میلیارد ریال طلای تقلبی در مشهد دستگیر و ۶ مالباخته در این زمینه شناسایی شدند.",
+    "telegram_preview": "📰 فروشنده ۷۰ میلیارد ریال طلای تقلبی در مشهد دستگیر شد\n\nمشهد- فرمانده انتظامی خراسان رضوی گفت: فروشنده ۷۰ میلیارد ریال طلای تقلبی در مشهد دستگیر و ۶ مالباخته در این زمینه شناسایی شدند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6999012/%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%D9%87-%DB%B7%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D9%82%D9%84%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF"
+  },
+  {
     "source": "ایسنا",
     "title": "آسیب دیدگی ۲۸ شرکت زیرمجموعه شستا در جنگ/ حضور در بازارهای خارجی و سوددهی بالا در بورس",
     "link": "https://www.isna.ir/news/1405081208007/%D8%A2%D8%B3%DB%8C%D8%A8-%D8%AF%DB%8C%D8%AF%DA%AF%DB%8C-%DB%B2%DB%B8-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B2%DB%8C%D8%B1%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%B4%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C",
@@ -4149,57 +4262,6 @@
   },
   {
     "source": "مهر",
-    "title": "فروش طلای دست دوم در چهارمحال و بختیاری ممنوع است",
-    "link": "https://www.mehrnews.com/news/6997846/%D9%81%D8%B1%D9%88%D8%B4-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA-%D8%AF%D9%88%D9%85-%D8%AF%D8%B1-%DA%86%D9%87%D8%A7%D8%B1%D9%85%D8%AD%D8%A7%D9%84-%D9%88-%D8%A8%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C-%D9%85%D9%85%D9%86%D9%88%D8%B9-%D8%A7%D8%B3%D8%AA",
-    "summary": "شهرکرد-معاون بازرسی و نظارت اداره کل صنعت، معدن و تجارت چهارمحال وبختیاری از آغاز گشت های نظارتی ویژه بازار طلا با مشارکت بازرسان استاندارد خبر داد.",
-    "published": "Mon, 02 Nov 2026 15:08:19 GMT",
-    "collected_at": "2026-11-02T18:44:21.265625+03:30",
-    "filter_market_score": 10,
-    "market_score": 14,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "شهرکرد-معاون بازرسی و نظارت اداره کل صنعت، معدن و تجارت چهارمحال وبختیاری از آغاز گشت های نظارتی ویژه بازار طلا با مشارکت بازرسان استاندارد خبر داد.",
-    "telegram_preview": "📰 فروش طلای دست دوم در چهارمحال و بختیاری ممنوع است\n\nشهرکرد-معاون بازرسی و نظارت اداره کل صنعت، معدن و تجارت چهارمحال وبختیاری از آغاز گشت های نظارتی ویژه بازار طلا با مشارکت بازرسان استاندارد خبر داد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6997846/%D9%81%D8%B1%D9%88%D8%B4-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AF%D8%B3%D8%AA-%D8%AF%D9%88%D9%85-%D8%AF%D8%B1-%DA%86%D9%87%D8%A7%D8%B1%D9%85%D8%AD%D8%A7%D9%84-%D9%88-%D8%A8%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C-%D9%85%D9%85%D9%86%D9%88%D8%B9-%D8%A7%D8%B3%D8%AA"
-  },
-  {
-    "source": "مهر",
     "title": "افزایش هزینه سوخت، سود لوفت هانزا را کاهش داد؛بلیت هواپیما گران می شود",
     "link": "https://www.mehrnews.com/news/6998299/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%B3%D9%88%D8%AE%D8%AA-%D8%B3%D9%88%D8%AF-%D9%84%D9%88%D9%81%D8%AA-%D9%87%D8%A7%D9%86%D8%B2%D8%A7-%D8%B1%D8%A7-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%A7%D8%AF-%D8%A8%D9%84%DB%8C%D8%AA-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7-%DA%AF%D8%B1%D8%A7%D9%86",
     "summary": "گروه هواپیمایی آلمانی لوفت هانزا روز سه شنبه در پی افزایش هزینه های سوخت جت، پیش بینی سود عملیاتی خود برای سال مالی ۲۰۲۶ را به محدوده ۱.۷ تا ۲ میلیارد یورو کاهش داده است.",
@@ -4413,57 +4475,6 @@
     "telegram_preview": "📰 تحلیل حرفه ای و پیش بینی بازار مقاطع فولادی؛ بهترین زمان تامین مصالح پروژه های عمرانی\n\nبازار آهن و فولاد به عنوان یکی از مهم ترین ارکان توسعه زیرساخت ها، همواره تحت تاثیر متغیرهای پیچیده اقتصاد کلان، نوسانات ارزی و سیاست های قیمت گذاری داخلی و بین المللی قرار دارد. برای مدیران پروژه های عمرانی، انبوه سازان و پیمانکاران، تشخیص دقیق چرخه های بازار و انتخاب بهترین زمان تامین مصالح، مرز باریک میان سودآوری قطعی و تحمیل هزینه های سنگین مازاد را تعیین می کند. در این چشم انداز پرالتهاب و نوسانی، دسترسی به منابع دست اول، حذف واسطه های غیرضروری و انتخاب تامین کنندگان استراتژیک اهمیت فوق العاده ای می یابد.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4306034-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D9%85%D8%B1%D8%A7%D9%86%DB%8C"
   },
   {
-    "source": "تابناک",
-    "title": "دومینوی تخلف در صنایع شیر ایران؛ شبیخون سرپرست پگاه به حقوق سهامداران بورسی با گروگان گیری صادرات",
-    "link": "https://tabnak.ir/fa/news/100000196/%D8%AF%D9%88%D9%85%DB%8C%D9%86%D9%88%DB%8C-%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%B4%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%A8%DB%8C%D8%AE%D9%88%D9%86-%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA-%D9%BE%DA%AF%D8%A7%D9%87-%D8%A8%D9%87-%D8%AD%D9%82%D9%88%D9%82-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7-%DA%AF%D8%B1%D9%88%DA%AF%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-4d95080919ff4517b7191e9c",
-    "summary": "نگاه ها به وزیر تعاون، سازمان بازرسی، دیوان محاسبات و نهادهای امنیتی دوخته شده تا با ورود فوری به پرونده، مانع از تداوم احکام غیرقانونی و استیفای حقوق پایمال شده بازنشستگان از مدیران متخلف شوند.",
-    "published": "Mon, 02 Nov 2026 14:24:19 +0000",
-    "collected_at": "2026-11-02T18:17:55.434289+03:30",
-    "filter_market_score": 9,
-    "market_score": 12,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "عامل اقتصادی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "نگاه ها به وزیر تعاون، سازمان بازرسی، دیوان محاسبات و نهادهای امنیتی دوخته شده تا با ورود فوری به پرونده، مانع از تداوم احکام غیرقانونی و استیفای حقوق پایمال شده بازنشستگان از مدیران متخلف شوند.",
-    "telegram_preview": "📰 دومینوی تخلف در صنایع شیر ایران؛ شبیخون سرپرست پگاه به حقوق سهامداران بورسی با گروگان گیری صادرات\n\nنگاه ها به وزیر تعاون، سازمان بازرسی، دیوان محاسبات و نهادهای امنیتی دوخته شده تا با ورود فوری به پرونده، مانع از تداوم احکام غیرقانونی و استیفای حقوق پایمال شده بازنشستگان از مدیران متخلف شوند.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/100000196/%D8%AF%D9%88%D9%85%DB%8C%D9%86%D9%88%DB%8C-%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%B4%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%A8%DB%8C%D8%AE%D9%88%D9%86-%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA-%D9%BE%DA%AF%D8%A7%D9%87-%D8%A8%D9%87-%D8%AD%D9%82%D9%88%D9%82-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7-%DA%AF%D8%B1%D9%88%DA%AF%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-4d95080919ff4517b7191e9c"
-  },
-  {
     "source": "مهر",
     "title": "زرپاد ۸ کیلو طلا فروخت، اما فقط یک کیلو ذخیره داشت!",
     "link": "https://www.mehrnews.com/news/6998702/%D8%B2%D8%B1%D9%BE%D8%A7%D8%AF-%DB%B8-%DA%A9%DB%8C%D9%84%D9%88-%D8%B7%D9%84%D8%A7-%D9%81%D8%B1%D9%88%D8%AE%D8%AA-%D8%A7%D9%85%D8%A7-%D9%81%D9%82%D8%B7-%DB%8C%DA%A9-%DA%A9%DB%8C%D9%84%D9%88-%D8%B0%D8%AE%DB%8C%D8%B1%D9%87-%D8%AF%D8%A7%D8%B4%D8%AA",
@@ -4655,57 +4666,6 @@
     "duplicate_count": 1,
     "full_text": "روزنامه نیویورک تایمز فاش کرد که فدراسیون بین المللی فوتبال فیفا تمام بدهی های مالیاتی جیانی اینفانتینو، رئیس این نهاد در آمریکا را برای دوره ای که در این کشور اقامت داشت، تسویه کرده است.",
     "telegram_preview": "📰 پرداخت ۴ میلیون دلار مالیات اینفانتینو در آمریکا از جیب فیفا!\n\nروزنامه نیویورک تایمز فاش کرد که فدراسیون بین المللی فوتبال فیفا تمام بدهی های مالیاتی جیانی اینفانتینو، رئیس این نهاد در آمریکا را برای دوره ای که در این کشور اقامت داشت، تسویه کرده است.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081207715/%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D8%A7%DB%8C%D9%86%D9%81%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D9%88-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%AC%DB%8C%D8%A8-%D9%81%DB%8C%D9%81%D8%A7"
-  },
-  {
-    "source": "تابناک",
-    "title": "واگذاری بلوکی ایران خودرو با قیمت پارسال!",
-    "link": "https://tabnak.ir/fa/news/100000216/%D9%88%D8%A7%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A8%D9%84%D9%88%DA%A9%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-70b90b3c269b4b2aad13810d",
-    "summary": "واگذاری بلوک ۱۰.۳۳درصدی سهام سپهر کیش به بهمن موتور پس از ده ماه توقف، ابهاماتی درباره قیمت روز، نبود رقابت، سهم دولت و احتمال تغییر موازنه قدرت در ایران خودرو ایجاد کرده است",
-    "published": "Mon, 02 Nov 2026 15:13:01 +0000",
-    "collected_at": "2026-11-02T18:44:32.456456+03:30",
-    "filter_market_score": 6,
-    "market_score": 12,
-    "market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "تغییر"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "واگذاری بلوک ۱۰.۳۳درصدی سهام سپهر کیش به بهمن موتور پس از ده ماه توقف، ابهاماتی درباره قیمت روز، نبود رقابت، سهم دولت و احتمال تغییر موازنه قدرت در ایران خودرو ایجاد کرده است",
-    "telegram_preview": "📰 واگذاری بلوکی ایران خودرو با قیمت پارسال!\n\nواگذاری بلوک ۱۰.۳۳درصدی سهام سپهر کیش به بهمن موتور پس از ده ماه توقف، ابهاماتی درباره قیمت روز، نبود رقابت، سهم دولت و احتمال تغییر موازنه قدرت در ایران خودرو ایجاد کرده است\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/100000216/%D9%88%D8%A7%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A8%D9%84%D9%88%DA%A9%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-70b90b3c269b4b2aad13810d"
   },
   {
     "source": "مهر",
@@ -5179,6 +5139,53 @@
     "duplicate_count": 1,
     "full_text": "مستند «تو می توانی همه چیز را ببینی» در سومین هفته نمایش در سینماهای آمریکا، ۱۰.۵ میلیون دلار دیگر، به مجموع فروش خود اضافه کرد.",
     "telegram_preview": "📰 مستند جنجالی، پدیده گیشه سینما شد\n\nمستند «تو می توانی همه چیز را ببینی» در سومین هفته نمایش در سینماهای آمریکا، ۱۰.۵ میلیون دلار دیگر، به مجموع فروش خود اضافه کرد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081107398/%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%AC%D9%86%D8%AC%D8%A7%D9%84%DB%8C-%D9%BE%D8%AF%DB%8C%D8%AF%D9%87-%DA%AF%DB%8C%D8%B4%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-%D8%B4%D8%AF"
+  },
+  {
+    "source": "ایسنا",
+    "title": "اولیسه؛ فوتبال خالص، بی خیالی مطلق/ ستاره بایرن ۱۸۰ میلیون یورویی شد",
+    "link": "https://www.isna.ir/news/1405081208191/%D8%A7%D9%88%D9%84%DB%8C%D8%B3%D9%87-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%AE%D8%A7%D9%84%D8%B5-%D8%A8%DB%8C-%D8%AE%DB%8C%D8%A7%D9%84%DB%8C-%D9%85%D8%B7%D9%84%D9%82-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%DB%8C%D8%B1%D9%86-%DB%B1%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C",
+    "summary": "ارزش وینگر ۲۴ ساله فرانسوی بایرن مونیخ بعد از درخشش در شروع فصل به ۱۸۰ میلیون یورو رسیده است.",
+    "published": "Tue, 03 Nov 2026 14:15:00 GMT",
+    "collected_at": "2026-11-03T18:17:40.328656+03:30",
+    "filter_market_score": 3,
+    "market_score": 7,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 3,
+    "gold_matches": [],
+    "currency_matches": [
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "ارزش وینگر ۲۴ ساله فرانسوی بایرن مونیخ بعد از درخشش در شروع فصل به ۱۸۰ میلیون یورو رسیده است.",
+    "telegram_preview": "📰 اولیسه؛ فوتبال خالص، بی خیالی مطلق/ ستاره بایرن ۱۸۰ میلیون یورویی شد\n\nارزش وینگر ۲۴ ساله فرانسوی بایرن مونیخ بعد از درخشش در شروع فصل به ۱۸۰ میلیون یورو رسیده است.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081208191/%D8%A7%D9%88%D9%84%DB%8C%D8%B3%D9%87-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%AE%D8%A7%D9%84%D8%B5-%D8%A8%DB%8C-%D8%AE%DB%8C%D8%A7%D9%84%DB%8C-%D9%85%D8%B7%D9%84%D9%82-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%DB%8C%D8%B1%D9%86-%DB%B1%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C"
   },
   {
     "source": "مهر",
