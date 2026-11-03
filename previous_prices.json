@@ -1,9 +1,9 @@
 {
-  "gold18": 25624700,
-  "dollar": 273860,
-  "coin": 261515000,
-  "half": 139080000,
-  "quarter": 75170000,
+  "gold18": 25412300,
+  "dollar": 271510,
+  "coin": 261175000,
+  "half": 139000000,
+  "quarter": 74980000,
   "_sources": {
     "gold18": "tgju",
     "dollar": "tgju",
@@ -11,7 +11,7 @@
     "half": "tgju",
     "quarter": "tgju"
   },
-  "_saved_at": "2026-11-03T16:31:41.582786+03:30",
+  "_saved_at": "2026-11-03T17:31:39.533248+03:30",
   "_daily_date": "2026-11-03",
   "_daily_prices": {
     "gold18": 25815100,
