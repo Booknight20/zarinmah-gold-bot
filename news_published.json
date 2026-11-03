@@ -29414,5 +29414,53 @@
     "group_message_id": 2170,
     "fully_published": true,
     "last_checked_at": "2026-11-03T15:48:03.348355+00:00"
+  },
+  "9aad21be9fb82ef9b768e909a8a7a3653f180689570b5ba4d31ae70a2b0e34fc": {
+    "title": "تغییر جهت بورس زیر سایه نقدینگی؛ طلا و نقره در مسیرهای متفاوت +فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306093-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AC%D9%87%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B2%DB%8C%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      2420
+    ],
+    "eitaa_message_ids": [
+      179855850
+    ],
+    "group_message_ids": [
+      2172
+    ],
+    "content_hash": "3fae6da5c3c494a6923f08f96a1cdde5fae5cc97d9441f3b1254f9b643039169",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T16:15:08.684421+00:00",
+    "telegram_message_id": 2420,
+    "eitaa_last_sent_at": "2026-11-03T16:15:10.115204+00:00",
+    "eitaa_message_id": 179855850,
+    "group_last_sent_at": "2026-11-03T16:15:11.844479+00:00",
+    "group_message_id": 2172,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T16:15:11.871816+00:00"
+  },
+  "6588588e2a7cfab32c093b34f126ef79ec0e0ed9bffef8f60cfd67f5fefa3fda": {
+    "title": "دستگیری فروشنده ۷ میلیارد تومان طلای تقلبی در مشهد",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000418/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%D9%87-%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D9%82%D9%84%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF-cdd3cbfcb13f4166986f9009",
+    "telegram_message_ids": [
+      2421
+    ],
+    "eitaa_message_ids": [
+      179855855
+    ],
+    "group_message_ids": [
+      2173
+    ],
+    "content_hash": "9c29c695c9023b9842741ff98e733d6919e926d65f7a191e766bcdba53fc54a9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T16:15:13.560748+00:00",
+    "telegram_message_id": 2421,
+    "eitaa_last_sent_at": "2026-11-03T16:15:15.014800+00:00",
+    "eitaa_message_id": 179855855,
+    "group_last_sent_at": "2026-11-03T16:15:16.668952+00:00",
+    "group_message_id": 2173,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T16:15:16.694976+00:00"
   }
 }
