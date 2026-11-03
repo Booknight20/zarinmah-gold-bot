@@ -29774,5 +29774,29 @@
     "group_message_id": 2195,
     "fully_published": true,
     "last_checked_at": "2026-11-03T21:19:36.439105+00:00"
+  },
+  "b0ac3b550f976644b99c2c2ced11d10f83306ed86580df14da897b3107ca868b": {
+    "title": "تصمیم ناگهانی ترامپ تل آویو را غافلگیر کرد / ۸ میلیارد دلار کمک نظامی اسرائیل به خطر افتاد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306190-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%86%D8%A7%DA%AF%D9%87%D8%A7%D9%86%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88-%D8%B1%D8%A7-%D8%BA%D8%A7%D9%81%D9%84%DA%AF%DB%8C%D8%B1-%DA%A9%D8%B1%D8%AF-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DA%A9%D9%85%DA%A9-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D9%87-%D8%AE%D8%B7%D8%B1-%D8%A7%D9%81%D8%AA%D8%A7%D8%AF",
+    "telegram_message_ids": [
+      2444
+    ],
+    "eitaa_message_ids": [
+      179901045
+    ],
+    "group_message_ids": [
+      2196
+    ],
+    "content_hash": "9faf9c667074959d54a8c557bac380b18063e71c568eca2e914ca919c775858f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T23:16:08.026041+00:00",
+    "telegram_message_id": 2444,
+    "eitaa_last_sent_at": "2026-11-03T23:16:09.146688+00:00",
+    "eitaa_message_id": 179901045,
+    "group_last_sent_at": "2026-11-03T23:16:10.750084+00:00",
+    "group_message_id": 2196,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T23:16:10.785102+00:00"
   }
 }
