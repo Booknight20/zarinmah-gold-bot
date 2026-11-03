@@ -850,6 +850,56 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "صعود پرقدرت بورس تهران امروز ۱۲ آبان ۱۴۰۵/ شاخص کل ۱۷۶ هزار واحد رشد کرد",
+    "link": "https://www.khabaronline.ir/live/2296888/%D8%B5%D8%B9%D9%88%D8%AF-%D9%BE%D8%B1%D9%82%D8%AF%D8%B1%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%DB%B1%DB%B7%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF",
+    "summary": "شاخص کل بورس تهران در معاملات صبح سه شنبه ۱۲ آبان ۱۴۰۵ با رشد ۱۷۶ هزار و ۵۸۵ واحدی به ۷ میلیون و ۸۲۵ هزار واحد رسید و شاخص هم وزن نیز افزایش ۳۹ هزار و ۸۴۷ واحدی را ثبت کرد.",
+    "published": "Tue, 03 Nov 2026 06:41:00 GMT",
+    "collected_at": "2026-11-03T10:20:08.734737+03:30",
+    "filter_market_score": 27,
+    "market_score": 27,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "شاخص کل بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "شاخص کل بورس"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "شاخص کل بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد",
+      "صعود",
+      "افزایش",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "تابناک",
     "title": "بورس آمریکا فرو ریخت",
     "link": "https://tabnak.ir/fa/news/100000269/%D8%A8%D9%88%D8%B1%D8%B3-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%81%D8%B1%D9%88-%D8%B1%DB%8C%D8%AE%D8%AA-95e967c5b53e44b4a6355c8c",
@@ -1812,6 +1862,49 @@
     "filter_applied": true
   },
   {
+    "source": "مهر",
+    "title": "اتابک: بخشی از ارز صادراتی باید در اختیار تولیدکنندگان قرار گیرد",
+    "link": "https://www.mehrnews.com/news/6998310/%D8%A7%D8%AA%D8%A7%D8%A8%DA%A9-%D8%A8%D8%AE%D8%B4%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B2-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%DB%8C-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%DB%8C%D8%B1%D8%AF",
+    "summary": "وزیر صنعت، معدن و تجارت با تأکید بر ضرورت حمایت از صادرکنندگان، خواستار فراهم شدن امکان استفاده از ارز حاصل از صادرات برای تأمین نیازهای تولیدی و واردات کالاهای مورد نیاز کشور شد.",
+    "published": "Tue, 03 Nov 2026 06:48:05 GMT",
+    "collected_at": "2026-11-03T10:19:53.197427+03:30",
+    "filter_market_score": 18,
+    "market_score": 18,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [
+      "واردات",
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "صادرات",
+      "حمایت",
+      "تولید",
+      "واردات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "افزایش دامنه نوسان صندوق های اهرمی بورس",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305794-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3",
@@ -1849,49 +1942,6 @@
     "signal_matches": [
       "افزایش",
       "نوسان"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "بانک گلدمن ساکس: قیمت نفت در سال ۲۰۲۷ به ۱۴۰ دلار می رسد",
-    "link": "https://www.mehrnews.com/news/6997138/%D8%A8%D8%A7%D9%86%DA%A9-%DA%AF%D9%84%D8%AF%D9%85%D9%86-%D8%B3%D8%A7%DA%A9%D8%B3-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84-%DB%B2%DB%B0%DB%B2%DB%B7-%D8%A8%D9%87-%DB%B1%DB%B4%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B1%D8%B3%D8%AF",
-    "summary": "بانک گلدمن ساکس پیش بینی کرد که در صورت تداوم بحران عرضه بین المللی نفت، قیمت در بازارهای جهانی در سال آینده میلادی به ۱۴۰ دلار در هر بشکه برسد.",
-    "published": "Mon, 02 Nov 2026 06:31:33 GMT",
-    "collected_at": "2026-11-02T10:15:47.202833+03:30",
-    "filter_market_score": 18,
-    "market_score": 18,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "پیش‌بینی",
-      "پیش بینی",
-      "عرضه"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2791,38 +2841,41 @@
   },
   {
     "source": "ایسنا",
-    "title": "بایننس با خروج ۳.۶۴ میلیارد دلار سرمایه روبرو شد",
-    "link": "https://www.isna.ir/news/1405081106819/%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%A8%D8%A7-%D8%AE%D8%B1%D9%88%D8%AC-%DB%B3-%DB%B6%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%B1%D9%88%D8%A8%D8%B1%D9%88-%D8%B4%D8%AF",
-    "summary": "بایننس اعلام کرد که پس از بازگشایی امکان برداشت وجه در روز یکشنبه — که به دنبال هک و سرقت ۶.۳ میلیارد دلار رمزارز صورت گرفت — شاهد هجوم مشتریان برای خارج کردن دارایی های خود از این پلتفرم و خروج خالص ۳.۶۴ میلیارد دلار سرمایه بوده است.",
-    "published": "Mon, 02 Nov 2026 06:25:00 GMT",
-    "collected_at": "2026-11-02T10:15:37.750164+03:30",
-    "filter_market_score": 12,
-    "market_score": 12,
+    "title": "کارشناس بازار خودرو: ممنوعیت واردات خودرو، فشار اقتصادی بر مصرف کننده را افزایش می دهد",
+    "link": "https://www.isna.ir/news/1405081207647/%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%85%D9%85%D9%86%D9%88%D8%B9%DB%8C%D8%AA-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A8%D8%B1-%D9%85%D8%B5%D8%B1%D9%81-%DA%A9%D9%86%D9%86%D8%AF%D9%87",
+    "summary": "یک کارشناس بازار خودرو، با تحلیل وضعیت فعلی بازار و ابعاد پنهان تصمیمات اخیر در حوزه واردات، از ایجاد یک شوک بزرگ در بازار خودروهای آزاد خبر داد و افزود: ممنوعیت واردات خودرو، علاوه بر هدف کنترل خروج ارز، عملاً منجر به جهش قیمت در تمامی سطوح بازار شده است.",
+    "published": "Tue, 03 Nov 2026 06:33:23 GMT",
+    "collected_at": "2026-11-03T10:17:25.419918+03:30",
+    "filter_market_score": 11,
+    "market_score": 11,
     "market_matches": {
       "currency": [
-        "دلار"
+        "ارز"
       ]
     },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
+    "title_market_matches": {},
     "summary_market_matches": {
       "currency": [
-        "دلار"
+        "ارز"
       ]
     },
     "full_text_market_matches": {
       "currency": [
-        "دلار"
+        "ارز"
       ]
     },
-    "driver_matches": [],
+    "driver_matches": [
+      "واردات"
+    ],
     "major_event_matches": [],
     "signal_matches": [
-      "بازگشایی",
-      "اعلام کرد"
+      "افزایش",
+      "ممنوعیت",
+      "واردات",
+      "جهش",
+      "تحلیل",
+      "قیمت",
+      "هدف"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3116,6 +3169,44 @@
     "filter_applied": true
   },
   {
+    "source": "مهر",
+    "title": "افزایش هزینه سوخت، سود لوفت هانزا را کاهش داد؛بلیت هواپیما گران می شود",
+    "link": "https://www.mehrnews.com/news/6998299/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%B3%D9%88%D8%AE%D8%AA-%D8%B3%D9%88%D8%AF-%D9%84%D9%88%D9%81%D8%AA-%D9%87%D8%A7%D9%86%D8%B2%D8%A7-%D8%B1%D8%A7-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%A7%D8%AF-%D8%A8%D9%84%DB%8C%D8%AA-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7-%DA%AF%D8%B1%D8%A7%D9%86",
+    "summary": "گروه هواپیمایی آلمانی لوفت هانزا روز سه شنبه در پی افزایش هزینه های سوخت جت، پیش بینی سود عملیاتی خود برای سال مالی ۲۰۲۶ را به محدوده ۱.۷ تا ۲ میلیارد یورو کاهش داده است.",
+    "published": "Tue, 03 Nov 2026 06:46:58 GMT",
+    "collected_at": "2026-11-03T10:19:53.197456+03:30",
+    "filter_market_score": 9,
+    "market_score": 9,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "کاهش",
+      "سود",
+      "پیش‌بینی",
+      "پیش بینی",
+      "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "تابناک",
     "title": "دومینوی تخلف در صنایع شیر ایران؛ شبیخون سرپرست پگاه به حقوق سهامداران بورسی با گروگان گیری صادرات",
     "link": "https://tabnak.ir/fa/news/100000196/%D8%AF%D9%88%D9%85%DB%8C%D9%86%D9%88%DB%8C-%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%B4%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%A8%DB%8C%D8%AE%D9%88%D9%86-%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA-%D9%BE%DA%AF%D8%A7%D9%87-%D8%A8%D9%87-%D8%AD%D9%82%D9%88%D9%82-%D8%B3%D9%87%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7-%DA%AF%D8%B1%D9%88%DA%AF%D8%A7%D9%86%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-4d95080919ff4517b7191e9c",
@@ -3146,6 +3237,42 @@
     "major_event_matches": [],
     "signal_matches": [
       "صادرات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "هوش مصنوعی به کمک سنجش دقیق ویژگی های سطح مواد می آید",
+    "link": "https://www.isna.ir/news/1405081207653/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D9%87-%DA%A9%D9%85%DA%A9-%D8%B3%D9%86%D8%AC%D8%B4-%D8%AF%D9%82%DB%8C%D9%82-%D9%88%DB%8C%DA%98%DA%AF%DB%8C-%D9%87%D8%A7%DB%8C-%D8%B3%D8%B7%D8%AD-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%DB%8C-%D8%A2%DB%8C%D8%AF",
+    "summary": "فناوران یکی از شرکت های دانش بنیان در کنار بومی سازی تجهیزات تخصصی آزمایشگاهی، موفق به توسعه تجهیزات آزمایشگاهی مبتنی بر فناوری نانو و هوش مصنوعی شدند و این دستاورد امکان اندازه گیری دقیق تر ویژگی های سطحی مواد را فراهم کرده است و به گفته آنها این شرکت با عرضه محصولات خود به مراکز دانشگاهی و صنعتی زمینه صرفه جویی حدود ۲.۵ میلیون دلاری در واردات تجهیزات آزمایشگاهی را فراهم آورده است.",
+    "published": "Tue, 03 Nov 2026 06:37:07 GMT",
+    "collected_at": "2026-11-03T10:17:25.419844+03:30",
+    "filter_market_score": 8,
+    "market_score": 8,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "عرضه",
+      "واردات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3591,6 +3718,39 @@
     "major_event_matches": [],
     "signal_matches": [
       "معامله",
+      "هدف"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "ثبت بین المللی برند ملی زعفران ایران طی یک ماه آینده",
+    "link": "https://www.isna.ir/news/1405081207631/%D8%AB%D8%A8%D8%AA-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%A8%D8%B1%D9%86%D8%AF-%D9%85%D9%84%DB%8C-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "summary": "دبیر شورای ملی زعفران با اشاره به ارسال پرونده برند ملی زعفران به ۵۰ کشور هدف از طریق «وایپو»، از دریافت پاسخ های نهایی و ثبت رسمی آن طی یک ماه آینده خبر داد و گفت: این نشان بین المللی، گارانتی و تضمینی مطمئن برای اصالت و کیفیت طلای سرخ ایران خواهد بود.",
+    "published": "Tue, 03 Nov 2026 06:25:28 GMT",
+    "collected_at": "2026-11-03T10:17:25.420121+03:30",
+    "filter_market_score": 5,
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
       "هدف"
     ],
     "filter_reason": "relevant_market_news",
