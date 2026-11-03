@@ -24751,5 +24751,135 @@
     "group_sent_at": "2026-11-03T21:18:30.435565+03:30",
     "group_message_id": 2181,
     "published_at": "2026-11-03T21:18:30.461090+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8860": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "خب وبینار تموم شد ❤️",
+      "summary": "خب وبینار تموم شد ❤️ \nامیدوارم براتون مفید بوده باشه\n\nتاریخ های مهم جنگ رو گفتیم ‼️ \n\nوضعیت طلا، بورس، ارزدیجیتال و بقیه بازار هارو بررسی کردیم و نقطه ورود هارو دادیم…",
+      "full_text": "خب وبینار تموم شد ❤️ \nامیدوارم براتون مفید بوده باشه\n\nتاریخ های مهم جنگ رو گفتیم ‼️ \n\nوضعیت طلا، بورس، ارزدیجیتال و بقیه بازار هارو بررسی کردیم و نقطه ورود هارو دادیم…",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8860",
+      "analysis_score": 13,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "بورس"
+      ],
+      "analysis_matches": [
+        "ورود",
+        "نقطه ورود"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 167,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T21:49:08.235637+03:30"
+    },
+    "content_signature": "5ee8eff8d8d449ed8fab4fca0fab6480bd183c6cb613d35c8a6ecedebf58bdda",
+    "first_seen_at": "2026-11-03T21:49:18.353264+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2433
+    ],
+    "telegram_last_success_at": "2026-11-03T21:49:18.729269+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T21:49:18.755769+03:30",
+    "telegram_message_id": 2433,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179872392
+    ],
+    "eitaa_last_success_at": "2026-11-03T21:49:19.961786+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T21:49:19.987153+03:30",
+    "eitaa_message_id": 179872392,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2185
+    ],
+    "group_last_success_at": "2026-11-03T21:49:20.423434+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T21:49:20.453049+03:30",
+    "group_message_id": 2185,
+    "published_at": "2026-11-03T21:49:20.488506+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8858": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "داخل وبینار تحلیل دلار در حال انجامه",
+      "summary": "داخل وبینار تحلیل دلار در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
+      "full_text": "داخل وبینار تحلیل دلار در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8858",
+      "analysis_score": 8,
+      "market_matches": [
+        "دلار"
+      ],
+      "analysis_matches": [
+        "تحلیل",
+        "ورود"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 79,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T21:49:08.231729+03:30"
+    },
+    "content_signature": "9348ccd27ce24857e0c3b2e34fe7cad084857320bd6280b7a261d8e4dc1c4efe",
+    "first_seen_at": "2026-11-03T21:49:20.514250+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2434
+    ],
+    "telegram_last_success_at": "2026-11-03T21:49:20.896160+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T21:49:20.921557+03:30",
+    "telegram_message_id": 2434,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179872397
+    ],
+    "eitaa_last_success_at": "2026-11-03T21:49:22.100407+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T21:49:22.125783+03:30",
+    "eitaa_message_id": 179872397,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2186
+    ],
+    "group_last_success_at": "2026-11-03T21:49:22.507080+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T21:49:22.533125+03:30",
+    "group_message_id": 2186,
+    "published_at": "2026-11-03T21:49:22.558109+03:30"
   }
 }

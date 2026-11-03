@@ -1,20 +1,50 @@
 [
   {
-    "analyst": "پیام الیاس کردی",
-    "title": "بابک زنجانی گفته دلارهایی که بابت فروش بیت کوین انجام داده رو بریزه تو بازار دلار میاد زیر ۲۰۰ هزارتومان یعنی بابک زن...",
-    "summary": "بابک زنجانی گفته دلارهایی که بابت فروش بیت کوین انجام داده رو بریزه تو بازار دلار میاد زیر ۲۰۰ هزارتومان یعنی بابک زنجانی میتونه باعث ریزش ۲۵٪ دلار بشه!!!! @payamelyaskordi ✅",
-    "full_text": "بابک زنجانی گفته دلارهایی که بابت فروش بیت کوین انجام داده رو بریزه تو بازار دلار میاد زیر ۲۰۰ هزارتومان یعنی بابک زنجانی میتونه باعث ریزش ۲۵٪ دلار بشه!!!! @payamelyaskordi ✅",
-    "source": "پیام الیاس کردی",
-    "link": "https://t.me/PayamElyaskordi/26002",
-    "analysis_score": 12,
+    "analyst": "علیرضا محرابی",
+    "title": "خب وبینار تموم شد ❤️",
+    "summary": "خب وبینار تموم شد ❤️ \nامیدوارم براتون مفید بوده باشه\n\nتاریخ های مهم جنگ رو گفتیم ‼️ \n\nوضعیت طلا، بورس، ارزدیجیتال و بقیه بازار هارو بررسی کردیم و نقطه ورود هارو دادیم…",
+    "full_text": "خب وبینار تموم شد ❤️ \nامیدوارم براتون مفید بوده باشه\n\nتاریخ های مهم جنگ رو گفتیم ‼️ \n\nوضعیت طلا، بورس، ارزدیجیتال و بقیه بازار هارو بررسی کردیم و نقطه ورود هارو دادیم…",
+    "source": "علیرضا محرابی",
+    "link": "https://t.me/AlirezaMehrabi_ir/8860",
+    "analysis_score": 13,
     "market_matches": [
-      "دلار",
-      "بیت کوین",
-      "بیت‌کوین"
+      "طلا",
+      "ارز",
+      "بورس"
     ],
     "analysis_matches": [
-      "ریزش",
-      "فروش"
+      "ورود",
+      "نقطه ورود"
+    ],
+    "market_groups": [
+      "gold",
+      "currency",
+      "stock"
+    ],
+    "analysis_reasons": [
+      "ارتباط با بازار",
+      "دارای نشانه‌های تحلیل",
+      "ارتباط میان چند حوزه بازار"
+    ],
+    "priority": "high",
+    "content_length": 167,
+    "content_complete_from_source": true,
+    "collected_at": "2026-11-03T21:49:08.235637+03:30"
+  },
+  {
+    "analyst": "علیرضا محرابی",
+    "title": "داخل وبینار تحلیل دلار در حال انجامه",
+    "summary": "داخل وبینار تحلیل دلار در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
+    "full_text": "داخل وبینار تحلیل دلار در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
+    "source": "علیرضا محرابی",
+    "link": "https://t.me/AlirezaMehrabi_ir/8858",
+    "analysis_score": 8,
+    "market_matches": [
+      "دلار"
+    ],
+    "analysis_matches": [
+      "تحلیل",
+      "ورود"
     ],
     "market_groups": [
       "currency"
@@ -24,92 +54,9 @@
       "دارای نشانه‌های تحلیل",
       "دارای داده عددی"
     ],
-    "priority": "high",
-    "content_length": 174,
-    "content_complete_from_source": true,
-    "collected_at": "2026-11-03T21:18:20.114239+03:30"
-  },
-  {
-    "analyst": "علیرضا محرابی",
-    "title": "داخل وبینار تحلیل بیت کوین در حال انجامه",
-    "summary": "داخل وبینار تحلیل بیت کوین در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
-    "full_text": "داخل وبینار تحلیل بیت کوین در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
-    "source": "علیرضا محرابی",
-    "link": "https://t.me/AlirezaMehrabi_ir/8857",
-    "analysis_score": 10,
-    "market_matches": [
-      "بیت کوین",
-      "بیت‌کوین"
-    ],
-    "analysis_matches": [
-      "تحلیل",
-      "ورود"
-    ],
-    "market_groups": [],
-    "analysis_reasons": [
-      "ارتباط با بازار",
-      "دارای نشانه‌های تحلیل",
-      "دارای داده عددی"
-    ],
     "priority": "medium",
-    "content_length": 83,
+    "content_length": 79,
     "content_complete_from_source": true,
-    "collected_at": "2026-11-03T21:18:21.321395+03:30"
-  },
-  {
-    "analyst": "علیرضا محرابی",
-    "title": "داخل وبینار تحلیل نفت در حال انجامه",
-    "summary": "داخل وبینار تحلیل نفت در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
-    "full_text": "داخل وبینار تحلیل نفت در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
-    "source": "علیرضا محرابی",
-    "link": "https://t.me/AlirezaMehrabi_ir/8855",
-    "analysis_score": 8,
-    "market_matches": [
-      "نفت"
-    ],
-    "analysis_matches": [
-      "تحلیل",
-      "ورود"
-    ],
-    "market_groups": [
-      "economy"
-    ],
-    "analysis_reasons": [
-      "ارتباط با بازار",
-      "دارای نشانه‌های تحلیل",
-      "دارای داده عددی"
-    ],
-    "priority": "medium",
-    "content_length": 78,
-    "content_complete_from_source": true,
-    "collected_at": "2026-11-03T21:18:21.317338+03:30"
-  },
-  {
-    "analyst": "علیرضا محرابی",
-    "title": "داخل وبینار تحلیل طلا در حال انجامه",
-    "summary": "داخل وبینار تحلیل طلا در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
-    "full_text": "داخل وبینار تحلیل طلا در حال انجامه\n\nورود به وبینار 👇 \n\n https://b2n.ir/jx7608",
-    "source": "علیرضا محرابی",
-    "link": "https://t.me/AlirezaMehrabi_ir/8856",
-    "analysis_score": 8,
-    "market_matches": [
-      "طلا"
-    ],
-    "analysis_matches": [
-      "تحلیل",
-      "ورود"
-    ],
-    "market_groups": [
-      "gold"
-    ],
-    "analysis_reasons": [
-      "ارتباط با بازار",
-      "دارای نشانه‌های تحلیل",
-      "دارای داده عددی"
-    ],
-    "priority": "medium",
-    "content_length": 78,
-    "content_complete_from_source": true,
-    "collected_at": "2026-11-03T21:18:21.319366+03:30"
+    "collected_at": "2026-11-03T21:49:08.231729+03:30"
   }
 ]

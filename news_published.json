@@ -29510,5 +29510,53 @@
     "group_message_id": 2176,
     "fully_published": true,
     "last_checked_at": "2026-11-03T17:17:17.592581+00:00"
+  },
+  "f61f6e2bf7cf3239564f6ea9a723ef3f7ba0b7d851b0130438c365ee012a9589": {
+    "title": "بانک مرکزی رسما راه خالی خوانی تراستی ها را بست/ شرط تایید انتقال مبالغ بالا چیست؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306132-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%B1%D8%B3%D9%85%D8%A7-%D8%B1%D8%A7%D9%87-%D8%AE%D8%A7%D9%84%DB%8C-%D8%AE%D9%88%D8%A7%D9%86%DB%8C-%D8%AA%D8%B1%D8%A7%D8%B3%D8%AA%DB%8C-%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A8%D8%B3%D8%AA-%D8%B4%D8%B1%D8%B7-%D8%AA%D8%A7%DB%8C%DB%8C%D8%AF-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%A8%D8%A7%D9%84%D8%BA-%D8%A8%D8%A7%D9%84%D8%A7-%DA%86%DB%8C%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      2431
+    ],
+    "eitaa_message_ids": [
+      179872381
+    ],
+    "group_message_ids": [
+      2183
+    ],
+    "content_hash": "656a4d81211b068014b624534aa54243cd446a8864514457024d200a2b81eb60",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T18:19:10.657791+00:00",
+    "telegram_message_id": 2431,
+    "eitaa_last_sent_at": "2026-11-03T18:19:11.904190+00:00",
+    "eitaa_message_id": 179872381,
+    "group_last_sent_at": "2026-11-03T18:19:13.539731+00:00",
+    "group_message_id": 2183,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T18:19:13.586449+00:00"
+  },
+  "a41e4bbcd58ea111006fbedeaaefcd789078ce5ddce3267a56893c03931baf59": {
+    "title": "آینده قیمت دلار و طلا در ایران/ حق شناس: نمی توان در هر شرایطی قیمت دلار را پایین تر از محدوده ۲۲۰ تا ۲۳۰ هزار تومان تصور کرد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296928/%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AD%D9%82-%D8%B4%D9%86%D8%A7%D8%B3-%D9%86%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86-%D8%AF%D8%B1-%D9%87%D8%B1-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%DB%8C",
+    "telegram_message_ids": [
+      2432
+    ],
+    "eitaa_message_ids": [
+      179872388
+    ],
+    "group_message_ids": [
+      2184
+    ],
+    "content_hash": "e95ba172e4a999a42fccc2e372f39ef11f76c9dda20eaffe85f2144fb399ea7e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T18:19:15.221921+00:00",
+    "telegram_message_id": 2432,
+    "eitaa_last_sent_at": "2026-11-03T18:19:16.504671+00:00",
+    "eitaa_message_id": 179872388,
+    "group_last_sent_at": "2026-11-03T18:19:18.087620+00:00",
+    "group_message_id": 2184,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T18:19:18.134382+00:00"
   }
 }
