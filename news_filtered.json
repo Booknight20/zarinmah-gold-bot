@@ -3237,6 +3237,39 @@
   },
   {
     "source": "مهر",
+    "title": "شوک در تل آویو پس از تصمیم ترامپ برای قطع کمک های نظامی",
+    "link": "https://www.mehrnews.com/news/6999323/%D8%B4%D9%88%DA%A9-%D8%AF%D8%B1-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%82%D8%B7%D8%B9-%DA%A9%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D9%86%D8%B8%D8%A7%D9%85%DB%8C",
+    "summary": "اعلام ناگهانی ترامپ مبنی بر توقف کمک های نظامی به رژیم صهیونیستی تا پایان سال، ارتش این رژیم را در شوک فرو برد و مقام های تل آویو را با خطر از دست رفتن میلیاردها دلار کمک واشنگتن مواجه ساخت.",
+    "published": "Tue, 03 Nov 2026 21:18:53 GMT",
+    "collected_at": "2026-11-04T01:17:16.746356+03:30",
+    "filter_market_score": 5,
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "تصمیم"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مهر",
     "title": "جهان مبهوت اصالت ملایر؛ تولید ۶۵ درصد مبلمان کشور در پایتخت جهانی منبت",
     "link": "https://www.mehrnews.com/news/6998230/%D8%AC%D9%87%D8%A7%D9%86-%D9%85%D8%A8%D9%87%D9%88%D8%AA-%D8%A7%D8%B5%D8%A7%D9%84%D8%AA-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%DB%B6%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
     "summary": "همدان-در میانه خاک ایران شهری است که در آن سکوت درختان با ضربات ظریف مُغار و تیشه های هنرمندان بر پیکره چوب به هنر- صنعتی ارز آور و اشتغالزا تبدیل می شود.",
