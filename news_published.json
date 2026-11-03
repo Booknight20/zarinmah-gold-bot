@@ -29486,5 +29486,29 @@
     "group_message_id": 2174,
     "fully_published": true,
     "last_checked_at": "2026-11-03T16:46:31.247819+00:00"
+  },
+  "fa993e3c0131c8caae7e271e55c403de0f9840bb48dab10892fcb787ee203c2f": {
+    "title": "صادرات ۴۸ میلیون دلاری داروهای دامپزشکی؛ ۲۰ میلیون دلار قرارداد جدید بسته شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306119-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%A7%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D9%85%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2424
+    ],
+    "eitaa_message_ids": [
+      179864504
+    ],
+    "group_message_ids": [
+      2176
+    ],
+    "content_hash": "7aab211298f9ee63de517ef820c9f7b3e18eba1ff8776441c2f10c8e6f816086",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-03T17:17:11.834307+00:00",
+    "telegram_message_id": 2424,
+    "eitaa_last_sent_at": "2026-11-03T17:17:15.825977+00:00",
+    "eitaa_message_id": 179864504,
+    "group_last_sent_at": "2026-11-03T17:17:17.557762+00:00",
+    "group_message_id": 2176,
+    "fully_published": true,
+    "last_checked_at": "2026-11-03T17:17:17.592581+00:00"
   }
 }

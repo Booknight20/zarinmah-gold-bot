@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "analyst": "پیام الیاس کردی",
+    "title": "طلا و نقره تو یک‌ماه اخیر چقدر ریزش قیمتی داشتن .",
+    "summary": "طلا و نقره تو یک‌ماه اخیر چقدر ریزش قیمتی داشتن .\nنقره ۲.۵ برابر طلا ریزش داشته.\n\n @payamelyaskordi ✅",
+    "full_text": "طلا و نقره تو یک‌ماه اخیر چقدر ریزش قیمتی داشتن .\nنقره ۲.۵ برابر طلا ریزش داشته.\n\n @payamelyaskordi ✅",
+    "source": "پیام الیاس کردی",
+    "link": "https://t.me/PayamElyaskordi/25998",
+    "analysis_score": 8,
+    "market_matches": [
+      "طلا"
+    ],
+    "analysis_matches": [
+      "ریزش",
+      "قیمت"
+    ],
+    "market_groups": [
+      "gold"
+    ],
+    "analysis_reasons": [
+      "ارتباط با بازار",
+      "دارای نشانه‌های تحلیل",
+      "دارای داده عددی"
+    ],
+    "priority": "medium",
+    "content_length": 101,
+    "content_complete_from_source": true,
+    "collected_at": "2026-11-03T20:47:07.389675+03:30"
+  }
+]

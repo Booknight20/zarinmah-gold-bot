@@ -24435,5 +24435,68 @@
     "group_sent_at": "2026-11-03T17:18:19.264164+03:30",
     "group_message_id": 2163,
     "published_at": "2026-11-03T17:18:19.289658+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25998": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "طلا و نقره تو یک‌ماه اخیر چقدر ریزش قیمتی داشتن .",
+      "summary": "طلا و نقره تو یک‌ماه اخیر چقدر ریزش قیمتی داشتن .\nنقره ۲.۵ برابر طلا ریزش داشته.\n\n @payamelyaskordi ✅",
+      "full_text": "طلا و نقره تو یک‌ماه اخیر چقدر ریزش قیمتی داشتن .\nنقره ۲.۵ برابر طلا ریزش داشته.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25998",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "ریزش",
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 101,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T20:47:07.389675+03:30"
+    },
+    "content_signature": "bb5c93db381c71917dba00984e9258ed1065193c0fda446c40286e0881657143",
+    "first_seen_at": "2026-11-03T20:47:17.774414+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2425
+    ],
+    "telegram_last_success_at": "2026-11-03T20:47:18.258170+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T20:47:18.284046+03:30",
+    "telegram_message_id": 2425,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179864514
+    ],
+    "eitaa_last_success_at": "2026-11-03T20:47:21.690047+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T20:47:21.724726+03:30",
+    "eitaa_message_id": 179864514,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2177
+    ],
+    "group_last_success_at": "2026-11-03T20:47:22.255942+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T20:47:22.279877+03:30",
+    "group_message_id": 2177,
+    "published_at": "2026-11-03T20:47:22.301831+03:30"
   }
 }
