@@ -23262,5 +23262,136 @@
     "group_sent_at": "2026-11-03T09:16:54.559150+03:30",
     "group_message_id": 2087,
     "published_at": "2026-11-03T09:16:54.578960+03:30"
+  },
+  "https://t.me/PayamElyaskordi/25960": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "دلار دولتی شده ۱۸۶ هزار تومان !",
+      "summary": "دلار دولتی شده ۱۸۶ هزار تومان ! فقط اگر به منم بگن تا کجا میتونه بالا بره میشه به راحتی فهمید بورس تا کجا میتونه رشد کنه! چون ماشین پشتی دلار حواله هست و ماشین جلویی دلار آزاد فعلا ماشین جلویی داره میره و پشتی هم داره گرون میشه! پس نگرانی‌ها برای بورس بی‌مورده…",
+      "full_text": "دلار دولتی شده ۱۸۶ هزار تومان ! فقط اگر به منم بگن تا کجا میتونه بالا بره میشه به راحتی فهمید بورس تا کجا میتونه رشد کنه! چون ماشین پشتی دلار حواله هست و ماشین جلویی دلار آزاد فعلا ماشین جلویی داره میره و پشتی هم داره گرون میشه! پس نگرانی‌ها برای بورس بی‌مورده…",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/25960",
+      "analysis_score": 17,
+      "market_matches": [
+        "دلار",
+        "دلار آزاد",
+        "بورس"
+      ],
+      "analysis_matches": [
+        "رشد"
+      ],
+      "market_groups": [
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 261,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T09:48:48.979852+03:30"
+    },
+    "content_signature": "920425db5ae22fafb8c49e5e61491c1b26ddeead5ffad6e2f84e208b87ed7abc",
+    "first_seen_at": "2026-11-03T09:49:11.786766+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2343
+    ],
+    "telegram_last_success_at": "2026-11-03T09:49:12.261218+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T09:49:12.285914+03:30",
+    "telegram_message_id": 2343,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179744997
+    ],
+    "eitaa_last_success_at": "2026-11-03T09:49:13.804025+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T09:49:13.827964+03:30",
+    "eitaa_message_id": 179744997,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2092
+    ],
+    "group_last_success_at": "2026-11-03T09:49:14.359319+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T09:49:14.383602+03:30",
+    "group_message_id": 2092,
+    "published_at": "2026-11-03T09:49:14.403859+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8836": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "بالای ۹۰ درصد بازار بورس مثبت باز شد ‼️",
+      "summary": "بالای ۹۰ درصد بازار بورس مثبت باز شد ‼️ \n\n 🔹 صف خرید: ۱۶ همت\n 🔹 صف فروش: کمتر از یک همت\n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "بالای ۹۰ درصد بازار بورس مثبت باز شد ‼️ \n\n 🔹 صف خرید: ۱۶ همت\n 🔹 صف فروش: کمتر از یک همت\n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8836",
+      "analysis_score": 8,
+      "market_matches": [
+        "بورس"
+      ],
+      "analysis_matches": [
+        "خرید",
+        "فروش"
+      ],
+      "market_groups": [
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 111,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-03T09:48:50.661596+03:30"
+    },
+    "content_signature": "f3fc44dde5a9d4e26e9c87c48de5a6d7390fa338478386c944d3f597ae2b6680",
+    "first_seen_at": "2026-11-03T09:49:14.424488+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2344
+    ],
+    "telegram_last_success_at": "2026-11-03T09:49:14.894281+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-03T09:49:14.915924+03:30",
+    "telegram_message_id": 2344,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179745002
+    ],
+    "eitaa_last_success_at": "2026-11-03T09:49:16.396703+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-03T09:49:16.419931+03:30",
+    "eitaa_message_id": 179745002,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2093
+    ],
+    "group_last_success_at": "2026-11-03T09:49:16.937414+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-03T09:49:16.957513+03:30",
+    "group_message_id": 2093,
+    "published_at": "2026-11-03T09:49:16.977906+03:30"
   }
 }
