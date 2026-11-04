@@ -30950,5 +30950,77 @@
     "group_message_id": 2257,
     "fully_published": true,
     "last_checked_at": "2026-11-04T10:46:41.618661+00:00"
+  },
+  "39daa99bd15bf394bd2514083bcce009fd5ac4b9593537c13d7d127a850271ed": {
+    "title": "ربات انسان نمای رومیزی در آمریکا قابل خرید شد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081308942/%D8%B1%D8%A8%D8%A7%D8%AA-%D8%A7%D9%86%D8%B3%D8%A7%D9%86-%D9%86%D9%85%D8%A7%DB%8C-%D8%B1%D9%88%D9%85%DB%8C%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%82%D8%A7%D8%A8%D9%84-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2511
+    ],
+    "eitaa_message_ids": [
+      180012593
+    ],
+    "group_message_ids": [
+      2263
+    ],
+    "content_hash": "01705ba532f67769660b0d2057617630d5c87423d9f96922d34350fd0e9c2dae",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T11:28:44.785751+00:00",
+    "telegram_message_id": 2511,
+    "eitaa_last_sent_at": "2026-11-04T11:28:46.391693+00:00",
+    "eitaa_message_id": 180012593,
+    "group_last_sent_at": "2026-11-04T11:28:48.176993+00:00",
+    "group_message_id": 2263,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T11:28:48.227162+00:00"
+  },
+  "a07f60e1c3fa1ea3fe96a684196eff145cdd4acfcc19766f4811d8eecb04e439": {
+    "title": "آغاز عملیات اجرایی کارخانه ۱۰۰ میلیون دلاری سیلیکون متال در جنوب کرمان",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081308939/%D8%A2%D8%BA%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C%DB%8C-%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86-%D9%85%D8%AA%D8%A7%D9%84-%D8%AF%D8%B1-%D8%AC%D9%86%D9%88%D8%A8",
+    "telegram_message_ids": [
+      2512
+    ],
+    "eitaa_message_ids": [
+      180012598
+    ],
+    "group_message_ids": [
+      2264
+    ],
+    "content_hash": "5df567d7247d1d8335579beec9a5eed42c24aeebc805a502a63a68e94ea796bc",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T11:28:49.995340+00:00",
+    "telegram_message_id": 2512,
+    "eitaa_last_sent_at": "2026-11-04T11:28:51.519374+00:00",
+    "eitaa_message_id": 180012598,
+    "group_last_sent_at": "2026-11-04T11:28:53.264131+00:00",
+    "group_message_id": 2264,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T11:28:53.316568+00:00"
+  },
+  "ddf4273c3dea5cf8dfff39251105192585dba04abbef8b8d588b3ef7701bf657": {
+    "title": "قیمت طلا و سکه امروز چهارشنبه ۱۳ آبان ۱۴۰۵",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1850490/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "telegram_message_ids": [
+      2513
+    ],
+    "eitaa_message_ids": [
+      180012606
+    ],
+    "group_message_ids": [
+      2265
+    ],
+    "content_hash": "a9e93a7ee6f21dfc44825f9c14e2a26b724393573ebcef71f3c73f48edecd226",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T11:28:55.090583+00:00",
+    "telegram_message_id": 2513,
+    "eitaa_last_sent_at": "2026-11-04T11:28:56.688464+00:00",
+    "eitaa_message_id": 180012606,
+    "group_last_sent_at": "2026-11-04T11:28:58.476911+00:00",
+    "group_message_id": 2265,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T11:28:58.526745+00:00"
   }
 }

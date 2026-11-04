@@ -25495,5 +25495,71 @@
     "group_sent_at": "2026-11-04T14:16:51.179424+03:30",
     "group_message_id": 2261,
     "published_at": "2026-11-04T14:16:51.201577+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26027": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "بررسی جریان ورود پول ۹۰ روز اخیر ETFها:",
+      "summary": "بررسی جریان ورود پول ۹۰ روز اخیر ETFها: \n\nبیت‌کوین: حدود ۴.۸۹ میلیارد دلار ورود پول\nاتریوم: حدود ۸۷۶.۷ میلیون دلار ورود پول\nریپل: حدود ۲۹۸.۸ میلیون دلار ورود پول\nهایپرلیکویید: حدود ۲۹.۱ میلیون دلار خروج پول\nسولانا: حدود ۱۱۱.۷ میلیون دلار خروج پول\n در ۳ ماه اخیر‌سرمایه‌ها بیشتر به سمت بیت‌کوین و اتریوم رفتن و از سولانا و هایپرلیکویید خارج شدن. \n\n @payamelyaskordi ✅",
+      "full_text": "بررسی جریان ورود پول ۹۰ روز اخیر ETFها: \n\nبیت‌کوین: حدود ۴.۸۹ میلیارد دلار ورود پول\nاتریوم: حدود ۸۷۶.۷ میلیون دلار ورود پول\nریپل: حدود ۲۹۸.۸ میلیون دلار ورود پول\nهایپرلیکویید: حدود ۲۹.۱ میلیون دلار خروج پول\nسولانا: حدود ۱۱۱.۷ میلیون دلار خروج پول\n در ۳ ماه اخیر‌سرمایه‌ها بیشتر به سمت بیت‌کوین و اتریوم رفتن و از سولانا و هایپرلیکویید خارج شدن. \n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26027",
+      "analysis_score": 13,
+      "market_matches": [
+        "دلار",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "ورود",
+        "خروج"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی"
+      ],
+      "priority": "high",
+      "content_length": 366,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T14:58:40.524082+03:30"
+    },
+    "content_signature": "ffaba03500ab47f83955ebc15036e308df61646f85c7f65cc3a23b7fd01fdb09",
+    "first_seen_at": "2026-11-04T14:58:58.749609+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2514
+    ],
+    "telegram_last_success_at": "2026-11-04T14:58:59.232293+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T14:58:59.259459+03:30",
+    "telegram_message_id": 2514,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180012611
+    ],
+    "eitaa_last_success_at": "2026-11-04T14:59:00.767919+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T14:59:00.793984+03:30",
+    "eitaa_message_id": 180012611,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2266
+    ],
+    "group_last_success_at": "2026-11-04T14:59:01.347015+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T14:59:01.372893+03:30",
+    "group_message_id": 2266,
+    "published_at": "2026-11-04T14:59:01.399665+03:30"
   }
 }
