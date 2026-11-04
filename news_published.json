@@ -30518,5 +30518,77 @@
     "group_message_id": 2234,
     "fully_published": true,
     "last_checked_at": "2026-11-04T07:46:53.799144+00:00"
+  },
+  "930f887d773f33725bef44cece0aeae9063f7921eb7490c332207cbbc3f11917": {
+    "title": "نرخ ارز دلار، طلا و یورو امروز چهارشنبه 13 آبان ۱۴۰۵/ افزایش قیمت طلا و سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306251-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      2484
+    ],
+    "eitaa_message_ids": [
+      179970527
+    ],
+    "group_message_ids": [
+      2236
+    ],
+    "content_hash": "7402057bf26ba34d0a145ee25a35e0608f21ef5180088691c547e2c78b35403d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T08:14:58.727589+00:00",
+    "telegram_message_id": 2484,
+    "eitaa_last_sent_at": "2026-11-04T08:14:59.976932+00:00",
+    "eitaa_message_id": 179970527,
+    "group_last_sent_at": "2026-11-04T08:15:01.613933+00:00",
+    "group_message_id": 2236,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T08:15:01.641465+00:00"
+  },
+  "f94bc62349eccb617ae5f1e06db44b23c8df93ab393858fcae8bdb4836b13e4c": {
+    "title": "قیمت سکه، نیم سکه و ربع سکه امروز چهارشنبه ۱۳ آبان ۱۴۰۵ / سکه صعودی شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306248-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      2485
+    ],
+    "eitaa_message_ids": [
+      179970567
+    ],
+    "group_message_ids": [
+      2237
+    ],
+    "content_hash": "1d48ed5e08d61a0548117d649d675724f80f5c113e94799dac0f9bd34e448fb5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T08:15:03.330716+00:00",
+    "telegram_message_id": 2485,
+    "eitaa_last_sent_at": "2026-11-04T08:15:04.810257+00:00",
+    "eitaa_message_id": 179970567,
+    "group_last_sent_at": "2026-11-04T08:15:06.447847+00:00",
+    "group_message_id": 2237,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T08:15:06.473238+00:00"
+  },
+  "ff80194bec232e4fb01177db2e4a539410acc85f46858d6cd3fe5da0879113fd": {
+    "title": "ردپای خریداران در بورس",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4306246-%D8%B1%D8%AF%D9%BE%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      2486
+    ],
+    "eitaa_message_ids": [
+      179970620
+    ],
+    "group_message_ids": [
+      2238
+    ],
+    "content_hash": "e9dde0fa0479603e2b9ca8d1acfc96be4bb55299cd599a0f331939f7fca5fb3f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T08:15:08.129496+00:00",
+    "telegram_message_id": 2486,
+    "eitaa_last_sent_at": "2026-11-04T08:15:12.024668+00:00",
+    "eitaa_message_id": 179970620,
+    "group_last_sent_at": "2026-11-04T08:15:13.661911+00:00",
+    "group_message_id": 2238,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T08:15:13.688826+00:00"
   }
 }

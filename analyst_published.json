@@ -25082,5 +25082,74 @@
     "group_sent_at": "2026-11-04T10:18:42.578141+03:30",
     "group_message_id": 2221,
     "published_at": "2026-11-04T10:18:42.603466+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8867": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "سر بالا زدن اونس، طلا 18 عیار 2 درصد حباب منفی گرفته و تقریبا 500 تومن زیر ارزش ذاتیش داره معامله میشه ‼️",
+      "summary": "سر بالا زدن اونس، طلا 18 عیار 2 درصد حباب منفی گرفته و تقریبا 500 تومن زیر ارزش ذاتیش داره معامله میشه ‼️ \n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "سر بالا زدن اونس، طلا 18 عیار 2 درصد حباب منفی گرفته و تقریبا 500 تومن زیر ارزش ذاتیش داره معامله میشه ‼️ \n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8867",
+      "analysis_score": 19,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "analysis_matches": [
+        "معامله",
+        "حباب",
+        "ارزش ذاتی"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 130,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T11:44:56.326994+03:30"
+    },
+    "content_signature": "616d385bd50a796b325ae16e131003042fe2b7a92d6396801a5eaeecb4f6a085",
+    "first_seen_at": "2026-11-04T11:45:13.827495+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2487
+    ],
+    "telegram_last_success_at": "2026-11-04T11:45:14.238674+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T11:45:14.254361+03:30",
+    "telegram_message_id": 2487,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179970633
+    ],
+    "eitaa_last_success_at": "2026-11-04T11:45:14.951018+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T11:45:14.965522+03:30",
+    "eitaa_message_id": 179970633,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2239
+    ],
+    "group_last_success_at": "2026-11-04T11:45:15.422881+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T11:45:15.437802+03:30",
+    "group_message_id": 2239,
+    "published_at": "2026-11-04T11:45:15.452503+03:30"
   }
 }
