@@ -25561,5 +25561,735 @@
     "group_sent_at": "2026-11-04T14:59:01.372893+03:30",
     "group_message_id": 2266,
     "published_at": "2026-11-04T14:59:01.399665+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26042": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "خلاصه بازار 13 آبان 1405",
+      "summary": "خلاصه بازار 13 آبان 1405 \n\n ۱- طلا فیزیکی 18 عیار 26/039/000 تومان \n ۲- صندوق طلا 10050 میلیارد تومان ارزش معاملات ، 1030 میلیارد خروج پول (حباب نداشتن)\n ۳- شمش طلای 24 عیار 34/115/000 تومان\n ۴- صندوق نقره 626 میلیارد تومان ارزش معاملات ، 129 میلیارد ورود پول (میانگین حباب ۱٪+)\n ۵- شمش 999‌ نقره 455/000 تومان \n ۶- صندوق درآمد ثابت 47616 میلیارد تومان ارزش معاملات ، 1925 میلیارد تومان ورود پول\n ۷- انس طلا 4041 $ انس نقره 51 $\nنسبت طلا به نقره 77 \n ۸- بین‌کوین 78000 $ معادل 21/100 میلیارد تومان\n\n @payamelyaskordi ✅",
+      "full_text": "خلاصه بازار 13 آبان 1405 \n\n ۱- طلا فیزیکی 18 عیار 26/039/000 تومان \n ۲- صندوق طلا 10050 میلیارد تومان ارزش معاملات ، 1030 میلیارد خروج پول (حباب نداشتن)\n ۳- شمش طلای 24 عیار 34/115/000 تومان\n ۴- صندوق نقره 626 میلیارد تومان ارزش معاملات ، 129 میلیارد ورود پول (میانگین حباب ۱٪+)\n ۵- شمش 999‌ نقره 455/000 تومان \n ۶- صندوق درآمد ثابت 47616 میلیارد تومان ارزش معاملات ، 1925 میلیارد تومان ورود پول\n ۷- انس طلا 4041 $ انس نقره 51 $\nنسبت طلا به نقره 77 \n ۸- بین‌کوین 78000 $ معادل 21/100 میلیارد تومان\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26042",
+      "analysis_score": 26,
+      "market_matches": [
+        "طلا",
+        "طلای ۲۴",
+        "طلای 24",
+        "ارز",
+        "ارزش معاملات",
+        "صندوق طلا",
+        "صندوق نقره"
+      ],
+      "analysis_matches": [
+        "ورود",
+        "خروج",
+        "حباب"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 518,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T22:37:37.041623+03:30"
+    },
+    "content_signature": "efa0158875754694700d5a0e4ac78b53cb109a95266abb2f4bb989eb7b8aa6e9",
+    "first_seen_at": "2026-11-04T22:38:14.173529+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2526
+    ],
+    "telegram_last_success_at": "2026-11-04T22:38:14.528422+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T22:38:14.560111+03:30",
+    "telegram_message_id": 2526,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180085634
+    ],
+    "eitaa_last_success_at": "2026-11-04T22:38:15.783657+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T22:38:15.809486+03:30",
+    "eitaa_message_id": 180085634,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2278
+    ],
+    "group_last_success_at": "2026-11-04T22:38:16.257209+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T22:38:16.284007+03:30",
+    "group_message_id": 2278,
+    "published_at": "2026-11-04T22:38:16.309644+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26036": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "کدوم دارایی تو ۶ ماه اخیر بیشترین رشد رو داشتن؟",
+      "summary": "کدوم دارایی تو ۶ ماه اخیر بیشترین رشد رو داشتن؟ \n۱- صندوق اهرمی ۱۹۸٪ رشد \n۲-صندوق بخشی ۱۱۷٪ رشد\n۳-صندوق سهامی عادی ۱۱۴٪ رشد\n۴-صندوق املاک ۴۶٪ رشد\n۵-صندوق مختلط ۴۵٪ رشد\n۶-صندوق کالایی ۲۷٪ رشد\n۷-صندوق طلا ۱۸٪ رشد\n۸-صندوق درآمد ثابت ۱۵٪ رشد\n۹- صندوق نقره ۱۵٪- ریزش\n حواستون به دارایی‌های جامونده باشه .\n\n @payamelyaskordi ✅",
+      "full_text": "کدوم دارایی تو ۶ ماه اخیر بیشترین رشد رو داشتن؟ \n۱- صندوق اهرمی ۱۹۸٪ رشد \n۲-صندوق بخشی ۱۱۷٪ رشد\n۳-صندوق سهامی عادی ۱۱۴٪ رشد\n۴-صندوق املاک ۴۶٪ رشد\n۵-صندوق مختلط ۴۵٪ رشد\n۶-صندوق کالایی ۲۷٪ رشد\n۷-صندوق طلا ۱۸٪ رشد\n۸-صندوق درآمد ثابت ۱۵٪ رشد\n۹- صندوق نقره ۱۵٪- ریزش\n حواستون به دارایی‌های جامونده باشه .\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26036",
+      "analysis_score": 16,
+      "market_matches": [
+        "طلا",
+        "صندوق طلا",
+        "صندوق نقره"
+      ],
+      "analysis_matches": [
+        "رشد",
+        "ریزش"
+      ],
+      "market_groups": [
+        "gold",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 320,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T22:37:37.028435+03:30"
+    },
+    "content_signature": "d0501271238def69ac640cfdbefbe434efe4ef9182d6c38ff35e78516c85d697",
+    "first_seen_at": "2026-11-04T22:38:16.336092+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2527
+    ],
+    "telegram_last_success_at": "2026-11-04T22:38:16.717795+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T22:38:16.744819+03:30",
+    "telegram_message_id": 2527,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180085640
+    ],
+    "eitaa_last_success_at": "2026-11-04T22:38:17.964966+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T22:38:17.990931+03:30",
+    "eitaa_message_id": 180085640,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2279
+    ],
+    "group_last_success_at": "2026-11-04T22:38:18.445035+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T22:38:18.470594+03:30",
+    "group_message_id": 2279,
+    "published_at": "2026-11-04T22:38:18.496527+03:30"
+  },
+  "https://t.me/drarashamini/7325": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "🚀 نرخ جدید صندوق درآمد ثابت آفاق",
+      "summary": "🚀 نرخ جدید صندوق درآمد ثابت آفاق\n\n 🟢 هر ۱۰۰ میلیون تومان سرمایه‌گذاری = ۴۰.۳ میلیون تومان سود سالانه!\n\n 💡 مزایای کلیدی صندوق آفاق: \n \n 🟢 بدون نرخ شکست\n\n 🟢 نقدشوندگی آنی\n\nسفارش سرخط بازارگردان: \n ✅ بیش از ۲ همت برای تضمین نقد شوندگی آنی\n\n 🖥 مسیر سرمایه‌گذاری: \nبا جست‌وجوی نماد \n\n ◀️ آفاق ➡️ \n\n در پنل کارگزاری خود، همین امروز به جمع سرمایه‌گذاران آفاق بپیوندید.\n\n ℹ️ جهت کسب اطلاعات بیشتر، با ما در ارتباط باشید:\n\n۰۲۱۵۷۲۰۶۰۰۰\n\n ❤️ یک آتیه آرمانی... \n 📱 @ArmanAti",
+      "full_text": "🚀 نرخ جدید صندوق درآمد ثابت آفاق\n\n 🟢 هر ۱۰۰ میلیون تومان سرمایه‌گذاری = ۴۰.۳ میلیون تومان سود سالانه!\n\n 💡 مزایای کلیدی صندوق آفاق: \n \n 🟢 بدون نرخ شکست\n\n 🟢 نقدشوندگی آنی\n\nسفارش سرخط بازارگردان: \n ✅ بیش از ۲ همت برای تضمین نقد شوندگی آنی\n\n 🖥 مسیر سرمایه‌گذاری: \nبا جست‌وجوی نماد \n\n ◀️ آفاق ➡️ \n\n در پنل کارگزاری خود، همین امروز به جمع سرمایه‌گذاران آفاق بپیوندید.\n\n ℹ️ جهت کسب اطلاعات بیشتر، با ما در ارتباط باشید:\n\n۰۲۱۵۷۲۰۶۰۰۰\n\n ❤️ یک آتیه آرمانی... \n 📱 @ArmanAti",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7325",
+      "analysis_score": 16,
+      "market_matches": [
+        "طلا",
+        "نماد"
+      ],
+      "analysis_matches": [
+        "مسیر",
+        "شکست",
+        "نرخ"
+      ],
+      "market_groups": [
+        "gold",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 462,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T22:37:37.473320+03:30"
+    },
+    "content_signature": "275cf7d9e87104dfa78303eea9d500141e88408c8d4b4999d3cedd3bef4ad5f4",
+    "first_seen_at": "2026-11-04T22:38:18.522599+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2528
+    ],
+    "telegram_last_success_at": "2026-11-04T22:38:18.869526+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T22:38:18.895267+03:30",
+    "telegram_message_id": 2528,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180085643
+    ],
+    "eitaa_last_success_at": "2026-11-04T22:38:20.131429+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T22:38:20.157801+03:30",
+    "eitaa_message_id": 180085643,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2280
+    ],
+    "group_last_success_at": "2026-11-04T22:38:20.520421+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T22:38:20.547404+03:30",
+    "group_message_id": 2280,
+    "published_at": "2026-11-04T22:38:20.573194+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26034": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "جدول حساسیت طلا",
+      "summary": "جدول حساسیت طلا \nبا جدول حساسیت طلا خیلی ساده می‌بینید با تغییر دلار و طلا جهانی ، قیمت طلا باید چه عددی باشه؛ طلا سمت راست، دلار بالای جدول .\nطلا 18 عیار بازار به 26 میلیون رسیده و تقریبا بدون حباب و به قیمت معامله میشه.\n\n @payamelyaskordi ✅",
+      "full_text": "جدول حساسیت طلا \nبا جدول حساسیت طلا خیلی ساده می‌بینید با تغییر دلار و طلا جهانی ، قیمت طلا باید چه عددی باشه؛ طلا سمت راست، دلار بالای جدول .\nطلا 18 عیار بازار به 26 میلیون رسیده و تقریبا بدون حباب و به قیمت معامله میشه.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26034",
+      "analysis_score": 15,
+      "market_matches": [
+        "طلا",
+        "دلار"
+      ],
+      "analysis_matches": [
+        "معامله",
+        "قیمت",
+        "حباب"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 242,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T22:37:37.023980+03:30"
+    },
+    "content_signature": "855a30a4660a56d6d8bf02094a27797d96422066b09e8e0ee1f9f7cdb7da35d9",
+    "first_seen_at": "2026-11-04T22:38:20.600143+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2529
+    ],
+    "telegram_last_success_at": "2026-11-04T22:38:21.002510+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T22:38:21.029889+03:30",
+    "telegram_message_id": 2529,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180085646
+    ],
+    "eitaa_last_success_at": "2026-11-04T22:38:21.640272+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T22:38:21.666608+03:30",
+    "eitaa_message_id": 180085646,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2281
+    ],
+    "group_last_success_at": "2026-11-04T22:38:22.213569+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T22:38:22.239948+03:30",
+    "group_message_id": 2281,
+    "published_at": "2026-11-04T22:38:22.265575+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26037": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "طلای ۱۸ عیار تو آبان معمولا چقدر رشد میکنه؟",
+      "summary": "طلای ۱۸ عیار تو آبان معمولا چقدر رشد میکنه؟ \n طلا در ۳ سال اخیر تو آبان کمترین رشد را نسبتا به باقی ماه‌های نیمه دوم سال داشته و امسال هم تا الان حدود ۴٪ ریزش داشته. \n\n @payamelyaskordi ✅",
+      "full_text": "طلای ۱۸ عیار تو آبان معمولا چقدر رشد میکنه؟ \n طلا در ۳ سال اخیر تو آبان کمترین رشد را نسبتا به باقی ماه‌های نیمه دوم سال داشته و امسال هم تا الان حدود ۴٪ ریزش داشته. \n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26037",
+      "analysis_score": 12,
+      "market_matches": [
+        "طلا",
+        "طلای ۱۸",
+        "طلای 18"
+      ],
+      "analysis_matches": [
+        "رشد",
+        "ریزش"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "high",
+      "content_length": 187,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T22:37:37.030639+03:30"
+    },
+    "content_signature": "a5af21a9347b33c3989e58cc86ed8e40abf20b68842a4b31fd42ea3da91603f1",
+    "first_seen_at": "2026-11-04T22:38:22.292072+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2530
+    ],
+    "telegram_last_success_at": "2026-11-04T22:38:22.697401+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T22:38:22.723291+03:30",
+    "telegram_message_id": 2530,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180085647
+    ],
+    "eitaa_last_success_at": "2026-11-04T22:38:23.350042+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T22:38:23.383365+03:30",
+    "eitaa_message_id": 180085647,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2282
+    ],
+    "group_last_success_at": "2026-11-04T22:38:23.879976+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T22:38:23.908074+03:30",
+    "group_message_id": 2282,
+    "published_at": "2026-11-04T22:38:23.936377+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26043": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "چهار دلیل شکست جمهوری‌خواهان از زبان ونس",
+      "summary": "چهار دلیل شکست جمهوری‌خواهان از زبان ونس \nدیروز، یکی از برجسته‌ترین نظرسنجی‌گران عرصه سیاست به من گفت که طبق نظرسنجی‌ها، با اختلاف ۱۳ واحد درصد از دموکرات‌ها عقب هستیم. اگرچه پیش از سه‌شنبه هم انتظار نتیجه خوبی نداشتم، اما این اختلاف حتی مرا هم شوکه کرد.\n او در نظرسنجی‌هایش دریافت که بسیاری از رأی‌دهندگان ترامپ در سال ۲۰۲۴ ناراضی‌اند و قصد دارند به دموکرات‌ها رأی بدهند. وقتی از آن‌ها پرسید چه چیزی می‌تواند باعث بازگشتشان به اردوگاه جمهوری‌خواهان شود، چهار پاسخ اصلی مطرح شد:\n ۱. به جنگ پایان دهید.\n ۲. بر هزینه‌های زندگی و تورم تمرکز کنید.\n ۳. آمریکا را در اولویت قرار دهید.\n ۴. در روابط خود با اسرائیل تجدیدنظر کنید. \n\n @payamelyaskordi ✅",
+      "full_text": "چهار دلیل شکست جمهوری‌خواهان از زبان ونس \nدیروز، یکی از برجسته‌ترین نظرسنجی‌گران عرصه سیاست به من گفت که طبق نظرسنجی‌ها، با اختلاف ۱۳ واحد درصد از دموکرات‌ها عقب هستیم. اگرچه پیش از سه‌شنبه هم انتظار نتیجه خوبی نداشتم، اما این اختلاف حتی مرا هم شوکه کرد.\n او در نظرسنجی‌هایش دریافت که بسیاری از رأی‌دهندگان ترامپ در سال ۲۰۲۴ ناراضی‌اند و قصد دارند به دموکرات‌ها رأی بدهند. وقتی از آن‌ها پرسید چه چیزی می‌تواند باعث بازگشتشان به اردوگاه جمهوری‌خواهان شود، چهار پاسخ اصلی مطرح شد:\n ۱. به جنگ پایان دهید.\n ۲. بر هزینه‌های زندگی و تورم تمرکز کنید.\n ۳. آمریکا را در اولویت قرار دهید.\n ۴. در روابط خود با اسرائیل تجدیدنظر کنید. \n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26043",
+      "analysis_score": 12,
+      "market_matches": [
+        "تورم"
+      ],
+      "analysis_matches": [
+        "انتظار",
+        "شکست"
+      ],
+      "market_groups": [
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال"
+      ],
+      "priority": "high",
+      "content_length": 643,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T22:37:37.044254+03:30"
+    },
+    "content_signature": "cb3d15229ed3ccbb3498d90855b8be2d75814be00cc24e8520491a8288fe28af",
+    "first_seen_at": "2026-11-04T22:38:23.964386+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2531
+    ],
+    "telegram_last_success_at": "2026-11-04T22:38:24.388918+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T22:38:24.415983+03:30",
+    "telegram_message_id": 2531,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180085649
+    ],
+    "eitaa_last_success_at": "2026-11-04T22:38:25.593137+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T22:38:25.619365+03:30",
+    "eitaa_message_id": 180085649,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2283
+    ],
+    "group_last_success_at": "2026-11-04T22:38:26.030402+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T22:38:26.056794+03:30",
+    "group_message_id": 2283,
+    "published_at": "2026-11-04T22:38:26.082812+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26039": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "۳ نکته طلایی که قبل از خرید طلای آب‌شده",
+      "summary": "۳ نکته طلایی که قبل از خرید طلای آب‌شده\n1) حتماً کد انگ رو استعلام کنید \nطلای آب‌شده باید ری‌گیری معتبر داشته باشه. فقط به کد حک‌شده اعتماد نکنید؛ عیار و مشخصات قطعه رو بررسی کنید. \n2) بدون فاکتور خرید نکنید \nحتماً از فروشنده دارای مجوز خرید کنید و فاکتوری بگیرید که وزن دقیق، عیار، کد انگ و قیمت طلا داخلش ثبت شده باشه. \n3) اختلاف قیمت خرید و فروش رو چک کنید \nطلای آب‌شده اجرت ساخت نداره، اما ممکنه فروشنده کارمزد یا اختلاف قیمت زیادی بگیره. قبل از خرید، حتماً قیمت فروش مجدد رو هم بپرسید.\n\n @payamelyaskordi ✅",
+      "full_text": "۳ نکته طلایی که قبل از خرید طلای آب‌شده\n1) حتماً کد انگ رو استعلام کنید \nطلای آب‌شده باید ری‌گیری معتبر داشته باشه. فقط به کد حک‌شده اعتماد نکنید؛ عیار و مشخصات قطعه رو بررسی کنید. \n2) بدون فاکتور خرید نکنید \nحتماً از فروشنده دارای مجوز خرید کنید و فاکتوری بگیرید که وزن دقیق، عیار، کد انگ و قیمت طلا داخلش ثبت شده باشه. \n3) اختلاف قیمت خرید و فروش رو چک کنید \nطلای آب‌شده اجرت ساخت نداره، اما ممکنه فروشنده کارمزد یا اختلاف قیمت زیادی بگیره. قبل از خرید، حتماً قیمت فروش مجدد رو هم بپرسید.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26039",
+      "analysis_score": 11,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "خرید",
+        "فروش",
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 511,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T22:37:37.035154+03:30"
+    },
+    "content_signature": "084c82877676c3bc92755e1042af406273d2b25e501426b09a8013a908a67b3d",
+    "first_seen_at": "2026-11-04T22:38:26.109798+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2532
+    ],
+    "telegram_last_success_at": "2026-11-04T22:38:26.467200+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T22:38:26.493235+03:30",
+    "telegram_message_id": 2532,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180085652
+    ],
+    "eitaa_last_success_at": "2026-11-04T22:38:27.677602+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T22:38:27.704145+03:30",
+    "eitaa_message_id": 180085652,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2284
+    ],
+    "group_last_success_at": "2026-11-04T22:38:28.098805+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T22:38:28.125492+03:30",
+    "group_message_id": 2284,
+    "published_at": "2026-11-04T22:38:28.151408+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26045": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "نفت ۷ درصد ریخت و به ۹۵ دلار رسید",
+      "summary": "نفت ۷ درصد ریخت و به ۹۵ دلار رسید \nیکی از خبرایی که باعث شد نفت بریزه خبر سی‌بی‌اس هست.\n سی‌بی‌اس : دونالد ترامپ در پی شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای، در حال بررسی جایگزینی پیت هگست، وزیر دفاع آمریکا است.\n\n @payamelyaskordi ✅",
+      "full_text": "نفت ۷ درصد ریخت و به ۹۵ دلار رسید \nیکی از خبرایی که باعث شد نفت بریزه خبر سی‌بی‌اس هست.\n سی‌بی‌اس : دونالد ترامپ در پی شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای، در حال بررسی جایگزینی پیت هگست، وزیر دفاع آمریکا است.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26045",
+      "analysis_score": 11,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "شکست"
+      ],
+      "market_groups": [
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "medium",
+      "content_length": 244,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T22:37:37.048586+03:30"
+    },
+    "content_signature": "c84eedd32c07b940cb535fba9a05b563e74a7c7728eb3c280899b6e6e3f595e4",
+    "first_seen_at": "2026-11-04T22:38:28.178719+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2533
+    ],
+    "telegram_last_success_at": "2026-11-04T22:38:28.552443+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T22:38:28.579050+03:30",
+    "telegram_message_id": 2533,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180085657
+    ],
+    "eitaa_last_success_at": "2026-11-04T22:38:29.200045+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T22:38:29.226080+03:30",
+    "eitaa_message_id": 180085657,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2285
+    ],
+    "group_last_success_at": "2026-11-04T22:38:29.719999+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T22:38:29.746372+03:30",
+    "group_message_id": 2285,
+    "published_at": "2026-11-04T22:38:29.772051+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26046": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "نفت ۷ درصد ریخت و به ۹۵ دلار رسید یکی از خبرایی که باعث شد نفت بریزه خبر سی‌بی‌اس هست.",
+      "summary": "نفت ۷ درصد ریخت و به ۹۵ دلار رسید یکی از خبرایی که باعث شد نفت بریزه خبر سی‌بی‌اس هست. سی‌بی‌اس : دونالد ترامپ در پی شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای، در حال بررسی جایگزینی پیت هگست، وزیر دفاع آمریکا است. @payamelyaskordi ✅",
+      "full_text": "نفت ۷ درصد ریخت و به ۹۵ دلار رسید یکی از خبرایی که باعث شد نفت بریزه خبر سی‌بی‌اس هست. سی‌بی‌اس : دونالد ترامپ در پی شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای، در حال بررسی جایگزینی پیت هگست، وزیر دفاع آمریکا است. @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26046",
+      "analysis_score": 11,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "شکست"
+      ],
+      "market_groups": [
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "medium",
+      "content_length": 240,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T22:37:37.051066+03:30"
+    },
+    "content_signature": "936605f9566f177b66dda80dccc6ee0bf39739eaddff28d0f40e998cd97864d3",
+    "first_seen_at": "2026-11-04T22:38:29.798779+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2534
+    ],
+    "telegram_last_success_at": "2026-11-04T22:38:30.139550+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T22:38:30.165975+03:30",
+    "telegram_message_id": 2534,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180085663
+    ],
+    "eitaa_last_success_at": "2026-11-04T22:38:31.439055+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T22:38:31.465626+03:30",
+    "eitaa_message_id": 180085663,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2286
+    ],
+    "group_last_success_at": "2026-11-04T22:38:31.833424+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T22:38:31.860073+03:30",
+    "group_message_id": 2286,
+    "published_at": "2026-11-04T22:38:31.886459+03:30"
+  },
+  "https://t.me/drarashamini/7328": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "کانال 14 اسرائیل:",
+      "summary": "کانال 14 اسرائیل:\n\nنتانیاهو تا ساعاتی دیگر با مقامات ارشد امنیتی و نظامی اسرائیل یک جلسه امنیتی اضطراری درباره ایران برگزار خواهد کرد.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "کانال 14 اسرائیل:\n\nنتانیاهو تا ساعاتی دیگر با مقامات ارشد امنیتی و نظامی اسرائیل یک جلسه امنیتی اضطراری درباره ایران برگزار خواهد کرد.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7328",
+      "analysis_score": 10,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "رشد"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال"
+      ],
+      "priority": "medium",
+      "content_length": 259,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T22:37:37.475499+03:30"
+    },
+    "content_signature": "e4d081fcf18fefb07d4eb7ce03cff5c2f8d500b81095ecf15ad851f95f234bf4",
+    "first_seen_at": "2026-11-04T22:38:31.913781+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2535
+    ],
+    "telegram_last_success_at": "2026-11-04T22:38:32.317960+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T22:38:32.344575+03:30",
+    "telegram_message_id": 2535,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180085667
+    ],
+    "eitaa_last_success_at": "2026-11-04T22:38:33.568466+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T22:38:33.595256+03:30",
+    "eitaa_message_id": 180085667,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2287
+    ],
+    "group_last_success_at": "2026-11-04T22:38:33.962871+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T22:38:33.989573+03:30",
+    "group_message_id": 2287,
+    "published_at": "2026-11-04T22:38:34.016111+03:30"
+  },
+  "https://t.me/nasiirry/17819": {
+    "item": {
+      "analyst": "حسین نصیری",
+      "title": "🔴 دوره جامع نصیری‌گلد",
+      "summary": "🔴 دوره جامع نصیری‌گلد \nمناسب افرادی که می‌خوان از صفر وارد بازار طلای آنلاین بشن و قدم‌به‌قدم آموزش ببینن.\n\n ✅ آموزش‌های آپدیت‌شده متناسب با بازار\n ✅ آموزش مدیریت سرمایه و ریسک\n ✅ ۳۰ روز پشتیبانی تخصصی\n ✅ عضویت در کانال VIP\n ✅ جلسه رفع اشکال\n\nقیمت تا ساعت ۱۲ شب پنجشنبه:\n فقط ۵/۱۸۰ میلیون تومان \n\nاگه درمورد دوره نیاز به راهنمایی دارین 👇 \n 👤 | @Academynasirygold \n 👤 | @Poshtibani1344",
+      "full_text": "🔴 دوره جامع نصیری‌گلد \nمناسب افرادی که می‌خوان از صفر وارد بازار طلای آنلاین بشن و قدم‌به‌قدم آموزش ببینن.\n\n ✅ آموزش‌های آپدیت‌شده متناسب با بازار\n ✅ آموزش مدیریت سرمایه و ریسک\n ✅ ۳۰ روز پشتیبانی تخصصی\n ✅ عضویت در کانال VIP\n ✅ جلسه رفع اشکال\n\nقیمت تا ساعت ۱۲ شب پنجشنبه:\n فقط ۵/۱۸۰ میلیون تومان \n\nاگه درمورد دوره نیاز به راهنمایی دارین 👇 \n 👤 | @Academynasirygold \n 👤 | @Poshtibani1344",
+      "source": "حسین نصیری",
+      "link": "https://t.me/nasiirry/17819",
+      "analysis_score": 9,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "ریسک",
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 384,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T22:37:37.904911+03:30"
+    },
+    "content_signature": "f6cfd2af9fbb8b4c5c1eab18b28c0b1abaf858143b7623dcab3a18d919e90740",
+    "first_seen_at": "2026-11-04T22:38:34.043538+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2536
+    ],
+    "telegram_last_success_at": "2026-11-04T22:38:34.387866+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T22:38:34.414425+03:30",
+    "telegram_message_id": 2536,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180085670
+    ],
+    "eitaa_last_success_at": "2026-11-04T22:38:35.588678+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T22:38:35.614896+03:30",
+    "eitaa_message_id": 180085670,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2288
+    ],
+    "group_last_success_at": "2026-11-04T22:38:36.119818+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T22:38:36.146891+03:30",
+    "group_message_id": 2288,
+    "published_at": "2026-11-04T22:38:36.173159+03:30"
   }
 }
