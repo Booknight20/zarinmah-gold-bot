@@ -29822,5 +29822,53 @@
     "group_message_id": 2197,
     "fully_published": true,
     "last_checked_at": "2026-11-03T23:47:42.555188+00:00"
+  },
+  "9c340f01314e4dcc40f5d6f8e6251c2d3c1bccfbf9c7ac5c319034f61380f83b": {
+    "title": "واکنش بنزین آمریکا به پایان انتخابات میان دوره ای/ قیمت ها افزایش یافت",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306210-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%DB%8C%D8%A7%D9%86-%D8%AF%D9%88%D8%B1%D9%87-%D8%A7%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
+    "telegram_message_ids": [
+      2447
+    ],
+    "eitaa_message_ids": [
+      179915308
+    ],
+    "group_message_ids": [
+      2199
+    ],
+    "content_hash": "f21fe15a8a6650cc9b77975bf87db139bf6474cbe8d96a512beaa4d6744a8c26",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T03:48:14.623361+00:00",
+    "telegram_message_id": 2447,
+    "eitaa_last_sent_at": "2026-11-04T03:48:16.369210+00:00",
+    "eitaa_message_id": 179915308,
+    "group_last_sent_at": "2026-11-04T03:48:18.206386+00:00",
+    "group_message_id": 2199,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T03:48:18.253799+00:00"
+  },
+  "9bbf50ec02702bd14b27ea16f304309a8b773fe720e980e09ba3f73bf9829978": {
+    "title": "دستمزد کارگران قربانی سیاست های تورم زای دولت شد/ حیدری: کارگران نهادی مستقل برای پیگیری حقوقشان ندارند/ مجلس پیگیر افزایش مزدها شود",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296230/%D8%AF%D8%B3%D8%AA%D9%85%D8%B2%D8%AF-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B1%D9%85-%D8%B2%D8%A7%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D8%B4%D8%AF-%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      2448
+    ],
+    "eitaa_message_ids": [
+      179915317
+    ],
+    "group_message_ids": [
+      2200
+    ],
+    "content_hash": "083d8f2c1007a9f072522ed634a4b1102c8c4fe3d9cc54785474c61167cbf8ad",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T03:48:20.133456+00:00",
+    "telegram_message_id": 2448,
+    "eitaa_last_sent_at": "2026-11-04T03:48:21.828140+00:00",
+    "eitaa_message_id": 179915317,
+    "group_last_sent_at": "2026-11-04T03:48:23.562213+00:00",
+    "group_message_id": 2200,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T03:48:23.611110+00:00"
   }
 }
