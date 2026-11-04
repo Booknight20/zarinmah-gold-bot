@@ -486,6 +486,53 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت یورو، دلار و انواع ارزها امروز ۱۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ یورو ۳۰۶ هزار و ۶۷۰ تومان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2297308/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
+    "summary": "قیمت یورو، دلار و سایر ارزها امروز ۱۳ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو ۳۰۶ هزار و ۶۷۰ تومان قیمت پیدا کرد.",
+    "published": "Wed, 04 Nov 2026 05:16:00 GMT",
+    "collected_at": "2026-11-04T08:45:54.425621+03:30",
+    "filter_market_score": 27,
+    "market_score": 27,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "بازگشایی",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "صعود پرقدرت بورس تهران امروز ۱۲ آبان ۱۴۰۵/ شاخص کل ۱۷۶ هزار واحد رشد کرد",
     "link": "https://www.khabaronline.ir/live/2296888/%D8%B5%D8%B9%D9%88%D8%AF-%D9%BE%D8%B1%D9%82%D8%AF%D8%B1%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%DB%B1%DB%B7%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF",
     "summary": "شاخص کل بورس تهران در معاملات صبح سه شنبه ۱۲ آبان ۱۴۰۵ با رشد ۱۷۶ هزار و ۵۸۵ واحدی به ۷ میلیون و ۸۲۵ هزار واحد رسید و شاخص هم وزن نیز افزایش ۳۹ هزار و ۸۴۷ واحدی را ثبت کرد.",
@@ -530,61 +577,6 @@
       "صعود",
       "افزایش",
       "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "بورس آمریکا فرو ریخت",
-    "link": "https://tabnak.ir/fa/news/100000269/%D8%A8%D9%88%D8%B1%D8%B3-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%81%D8%B1%D9%88-%D8%B1%DB%8C%D8%AE%D8%AA-95e967c5b53e44b4a6355c8c",
-    "summary": "درحالی که ترامپ کاهش ۱۰ دلاری قیمت نفت را در تروث سوشال جشن گرفته، شاخص نزدک۱۰۰ به عنوان مهم ترین شاخص بورس آمریکا با افت بی سابقه نسبت به ماه قبل ۱۰ درصد ریزش داشت.",
-    "published": "Tue, 03 Nov 2026 05:35:08 +0000",
-    "collected_at": "2026-11-03T09:16:07.132786+03:30",
-    "filter_market_score": 27,
-    "market_score": 27,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "بورس",
-        "شاخص بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "بورس",
-        "شاخص بورس"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "بورس",
-        "شاخص بورس"
-      ]
-    },
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "افت",
-      "ریزش",
-      "قیمت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -689,52 +681,6 @@
     "summary": "قیمت دلار، یورو و سایر ارزها امروز ۱۲ آبان ۱۴۰۵ اعلام شد. بر این اساس دلار در بازار ۲۷۲ هزار و ۵۰۰ تومان فروخته شد.",
     "published": "Tue, 03 Nov 2026 09:52:00 GMT",
     "collected_at": "2026-11-03T13:48:21.335113+03:30",
-    "filter_market_score": 26,
-    "market_score": 26,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت یورو، دلار و انواع ارزها امروز ۱۲ آبان ۱۴۰۵ در زمان بسته شدن بازار/ یورو به قیمت ۳۰۴ هزار و ۹۰۷ تومان فروخته شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2296779/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
-    "summary": "قیمت یورو، دلار و سایر ارزها امروز ۱۲ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو در بازار ۳۰۴ هزار و ۹۰۷ تومان فروخته شد.",
-    "published": "Tue, 03 Nov 2026 05:19:00 GMT",
-    "collected_at": "2026-11-03T09:16:01.939146+03:30",
     "filter_market_score": 26,
     "market_score": 26,
     "market_matches": {
@@ -1453,6 +1399,54 @@
     "signal_matches": [
       "صعود",
       "رشد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا امروز چهارشنبه ۱۳ آبان ۱۴۰۵ / افزایش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306200-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "قیمت طلا امروز با افزایش 4 دلاری نسبت به روز گذشته، 3930 (سه هزار و نهصد و سی) دلار نرخ گذاری شد.",
+    "published": "Wed, 04 Nov 2026 04:40:08 +0000",
+    "collected_at": "2026-11-04T08:45:52.173281+03:30",
+    "filter_market_score": 18,
+    "market_score": 18,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "نرخ"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2322,45 +2316,6 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۱۲ آبان ۱۴۰۵ در زمان بازگشایی بازار/ نیم سکه به قیمت ۱۳۹ میلیون و ۴۰۰ هزار تومان به فروش رفت + جدول",
-    "link": "https://www.khabaronline.ir/news/2296777/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87",
-    "summary": "قیمت سکه در بازار تهران امروز ۱۲ آبان ۱۴۰۵ اعلام شد و نیم سکه به قیمت ۱۳۹ میلیون و ۴۰۰ هزار تومان به فروش رفت.",
-    "published": "Tue, 03 Nov 2026 04:54:00 GMT",
-    "collected_at": "2026-11-03T09:16:01.939173+03:30",
-    "filter_market_score": 13,
-    "market_score": 13,
-    "market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "بازگشایی",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "سخنگوی کمیسیون اقتصادی: عملکرد صندوق تثبیت بازار سرمایه شفاف نیست",
     "link": "https://www.isna.ir/news/1405081208027/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%B4%D9%81%D8%A7%D9%81",
@@ -3221,6 +3176,37 @@
     "filter_applied": true
   },
   {
+    "source": "مهر",
+    "title": "وعده مدال طلا نداده بودیم؛ ریکرو یک قدم تا مدال آسیایی فاصله داشت",
+    "link": "https://www.mehrnews.com/news/6998700/%D9%88%D8%B9%D8%AF%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%86%D8%AF%D8%A7%D8%AF%D9%87-%D8%A8%D9%88%D8%AF%DB%8C%D9%85-%D8%B1%DB%8C%DA%A9%D8%B1%D9%88-%DB%8C%DA%A9-%D9%82%D8%AF%D9%85-%D8%AA%D8%A7-%D9%85%D8%AF%D8%A7%D9%84-%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%81%D8%A7%D8%B5%D9%84%D9%87",
+    "summary": "سرمربی تیم ملی ریکرو با اشاره به شانس کسب مدال تیم ملی در بازی های آسیایی ناگویا،گفت: ملی پوشان ایران برای رسیدن به سکو تمام تلاش خود را انجام دادند اما یک خطای کوچک فرصت مدال آوری را گرفت.",
+    "published": "Wed, 04 Nov 2026 05:05:13 GMT",
+    "collected_at": "2026-11-04T08:45:42.790064+03:30",
+    "filter_market_score": 6,
+    "market_score": 6,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مشرق",
     "title": "فیلم/ آخرین وضعیت پرونده پلتفرم زرپاد، فروش آنلاین طلا",
     "link": "https://www.mashreghnews.ir/news/1850199/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D8%B2%D8%B1%D9%BE%D8%A7%D8%AF-%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B7%D9%84%D8%A7",
@@ -3411,39 +3397,6 @@
     "major_event_matches": [],
     "signal_matches": [
       "هدف"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "قطعات یدکی کاشت حلزون تحت پوشش بیمه سلامت قرار گرفت",
-    "link": "https://www.mehrnews.com/news/6998193/%D9%82%D8%B7%D8%B9%D8%A7%D8%AA-%DB%8C%D8%AF%DA%A9%DB%8C-%DA%A9%D8%A7%D8%B4%D8%AA-%D8%AD%D9%84%D8%B2%D9%88%D9%86-%D8%AA%D8%AD%D8%AA-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D9%85%D9%87-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA",
-    "summary": "با پیگیری هیات امنای صرفه جویی ارزی در معالجه بیماران و همکاری سازمان بیمه سلامت، سازوکار جدیدی برای کاهش هزینه تأمین قطعات یدکی تجهیزات کاشت حلزون شنوایی فراهم شد.",
-    "published": "Tue, 03 Nov 2026 05:16:04 GMT",
-    "collected_at": "2026-11-03T09:15:50.728081+03:30",
-    "filter_market_score": 5,
-    "market_score": 5,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
