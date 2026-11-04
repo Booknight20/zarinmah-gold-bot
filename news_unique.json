@@ -95,95 +95,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "پیش بینی قیمت طلا، دلار و سکه امروز سه شنبه ۱۲ آبان ۱۴۰۵/ بازار سر دوراهی اصلاح یا صعود",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305987-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1-%D8%AF%D9%88%D8%B1%D8%A7%D9%87%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%DB%8C%D8%A7-%D8%B5%D8%B9%D9%88%D8%AF",
-    "summary": "از سفر میانجی های قطری به تهران گرفته تا گزارش انفجارهای قشم، معامله گران بازار ارز، طلا و سکه را در موقعیتی حساس قرار داده است و عبور دلار از مرز ۲۷۳ هزار تومان، طلای ۱۸ عیار از ۲۶ میلیون تومان و سکه امامی از ۲۶۵ میلیون تومان را به آزمونی تعیین کننده تبدیل کرده است.",
-    "published": "Tue, 03 Nov 2026 05:45:37 +0000",
-    "collected_at": "2026-11-03T09:48:19.204699+03:30",
-    "filter_market_score": 39,
-    "market_score": 46,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ],
-      "currency": [
-        "دلار",
-        "بازار ارز",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ],
-      "currency": [
-        "دلار",
-        "بازار ارز",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صعود",
-      "پیش‌بینی",
-      "پیش بینی",
-      "قیمت",
-      "داده",
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
-    ],
-    "currency_matches": [
-      "دلار",
-      "بازار ارز",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "کاهش قیمت طلا در آستانه انتخابات آمریکا؛ اونس طلا ۳ هزار و۹۲۶ دلار شد/ قیمت جدید طلای جهانی امروز ۱۲ ابان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2296859/%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%DB%B9%DB%B2%DB%B6",
@@ -340,82 +251,6 @@
       "عامل پراثر اقتصادی یا سیاسی",
       "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "نرخ های ارز مرکز مبادله در سه شنبه ۱۲ آبان ۱۴۰۵",
-    "link": "https://www.mehrnews.com/news/6998244/%D9%86%D8%B1%D8%AE-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%AF%D8%B1-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5",
-    "summary": "نرخ حواله ارزهای اصلی شامل دلار، یورو، درهم، یوان و روبل در مرکز مبادله ارز و طلای ایران برای روز سه شنبه ۱۲ آبان ۱۴۰۵ اعلام شد.",
-    "published": "Tue, 03 Nov 2026 06:01:01 GMT",
-    "collected_at": "2026-11-03T09:48:09.399962+03:30",
-    "filter_market_score": 34,
-    "market_score": 36,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "ارز",
-        "مرکز مبادله",
-        "دلار",
-        "یورو",
-        "درهم"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز",
-        "مرکز مبادله"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو",
-        "درهم",
-        "مرکز مبادله"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "نرخ",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "ارز",
-      "مرکز مبادله",
-      "دلار",
-      "یورو",
-      "درهم"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
       "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -1779,6 +1614,65 @@
     "duplicate_count": 1
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت سکه امروز ۱۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ نیم سکه ۱۳۸ میلیون و ۱۰۰ هزار تومان به فروش رفت + جدول",
+    "link": "https://www.khabaronline.ir/news/2297307/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B3%DB%B8",
+    "summary": "قیمت سکه در بازار تهران امروز ۱۳ آبان ۱۴۰۵ اعلام شد و نیم سکه ۱۳۸ میلیون و ۱۰۰ هزار تومان به فروش رفت.",
+    "published": "Wed, 04 Nov 2026 04:51:00 GMT",
+    "collected_at": "2026-11-04T09:17:55.365419+03:30",
+    "filter_market_score": 13,
+    "market_score": 25,
+    "market_matches": {
+      "gold": [
+        "سکه",
+        "نیم سکه"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "سکه",
+        "نیم سکه"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "سکه",
+        "نیم سکه"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "بازگشایی",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "سکه",
+      "نیم سکه"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "تابناک",
     "title": "قیمت دلار امروز سه شنبه ۱۲ آبان ۱۴۰۵؛ حواله ها گران تر شدند",
     "link": "https://tabnak.ir/fa/news/100000317/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AD%D9%88%D8%A7%D9%84%D9%87%D9%87%D8%A7-%DA%AF%D8%B1%D8%A7%D9%86%D8%AA%D8%B1-%D8%B4%D8%AF%D9%86%D8%AF-3d0ac8be47c14bc29b70d638",
@@ -2328,64 +2222,6 @@
   },
   {
     "source": "مهر",
-    "title": "تازه ترین نرخ های جهانی طلا و نقره در بازارهای بین المللی",
-    "link": "https://www.mehrnews.com/news/6998260/%D8%AA%D8%A7%D8%B2%D9%87-%D8%AA%D8%B1%DB%8C%D9%86-%D9%86%D8%B1%D8%AE-%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C",
-    "summary": "آخرین قیمت و تغییرات اونس جهانی طلا و نقره همراه با نوسانات بازار فلزات گرانبها در معاملات بین المللی اعلام شد.",
-    "published": "Tue, 03 Nov 2026 06:14:34 GMT",
-    "collected_at": "2026-11-03T09:48:09.399753+03:30",
-    "filter_market_score": 17,
-    "market_score": 20,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "اونس جهانی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس جهانی"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "نرخ",
-      "قیمت",
-      "معاملات",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "اونس جهانی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
     "title": "نقشه راه نجات ذخایر ارزی؛ سد محکم برابر واردات لوکس و رانت خواری",
     "link": "https://www.mehrnews.com/news/6999407/%D9%86%D9%82%D8%B4%D9%87-%D8%B1%D8%A7%D9%87-%D9%86%D8%AC%D8%A7%D8%AA-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B3%D8%AF-%D9%85%D8%AD%DA%A9%D9%85-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%84%D9%88%DA%A9%D8%B3-%D9%88-%D8%B1%D8%A7%D9%86%D8%AA-%D8%AE%D9%88%D8%A7%D8%B1%DB%8C",
     "summary": "مدیریت دقیق دلارهای محدود کشور و قطع دست واردات تجملی، تنها راه تضمین تأمین کالای اساسی، مهار گرانی و بازگرداندن ثبات به سفره مردم است.",
@@ -2496,65 +2332,6 @@
       "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "اتابک: بخشی از ارز صادراتی باید در اختیار تولیدکنندگان قرار گیرد",
-    "link": "https://www.mehrnews.com/news/6998310/%D8%A7%D8%AA%D8%A7%D8%A8%DA%A9-%D8%A8%D8%AE%D8%B4%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%B1%D8%B2-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%DB%8C-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%DB%8C%D8%B1%D8%AF",
-    "summary": "وزیر صنعت، معدن و تجارت با تأکید بر ضرورت حمایت از صادرکنندگان، خواستار فراهم شدن امکان استفاده از ارز حاصل از صادرات برای تأمین نیازهای تولیدی و واردات کالاهای مورد نیاز کشور شد.",
-    "published": "Tue, 03 Nov 2026 06:48:05 GMT",
-    "collected_at": "2026-11-03T10:19:53.197427+03:30",
-    "filter_market_score": 18,
-    "market_score": 19,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "واردات",
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "حمایت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات",
-      "واردات"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -3225,60 +3002,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "مهر",
-    "title": "مهار رانت و صیانت از منابع ارزی با توقف واردات لوکس",
-    "link": "https://www.mehrnews.com/news/6998250/%D9%85%D9%87%D8%A7%D8%B1-%D8%B1%D8%A7%D9%86%D8%AA-%D9%88-%D8%B5%DB%8C%D8%A7%D9%86%D8%AA-%D8%A7%D8%B2-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%AA%D9%88%D9%82%D9%81-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%84%D9%88%DA%A9%D8%B3",
-    "summary": "مدیریت بهینه ذخایر محدود ارزی نیازمند بازنگری در شیوه تخصیص، مسدودسازی واردات غیرضروری و نظارت دقیق بر توزیع کالاها است.",
-    "published": "Tue, 03 Nov 2026 06:06:37 GMT",
-    "collected_at": "2026-11-03T09:48:09.399836+03:30",
-    "filter_market_score": 13,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "واردات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "واردات"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "ایسنا",
     "title": "سخنگوی کمیسیون اقتصادی: عملکرد صندوق تثبیت بازار سرمایه شفاف نیست",
     "link": "https://www.isna.ir/news/1405081208027/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%B4%D9%81%D8%A7%D9%81",
@@ -3586,56 +3309,50 @@
     "duplicate_count": 1
   },
   {
-    "source": "ایسنا",
-    "title": "کارشناس بازار خودرو: ممنوعیت واردات خودرو، فشار اقتصادی بر مصرف کننده را افزایش می دهد",
-    "link": "https://www.isna.ir/news/1405081207647/%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%85%D9%85%D9%86%D9%88%D8%B9%DB%8C%D8%AA-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A8%D8%B1-%D9%85%D8%B5%D8%B1%D9%81-%DA%A9%D9%86%D9%86%D8%AF%D9%87",
-    "summary": "یک کارشناس بازار خودرو، با تحلیل وضعیت فعلی بازار و ابعاد پنهان تصمیمات اخیر در حوزه واردات، از ایجاد یک شوک بزرگ در بازار خودروهای آزاد خبر داد و افزود: ممنوعیت واردات خودرو، علاوه بر هدف کنترل خروج ارز، عملاً منجر به جهش قیمت در تمامی سطوح بازار شده است.",
-    "published": "Tue, 03 Nov 2026 06:33:23 GMT",
-    "collected_at": "2026-11-03T10:17:25.419918+03:30",
-    "filter_market_score": 11,
-    "market_score": 14,
+    "source": "مشرق",
+    "title": "اولین واکنش بورس آمریکا به نتیجه انتخابات",
+    "link": "https://www.mashreghnews.ir/news/1850385/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D9%86%D8%AA%DB%8C%D8%AC%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
+    "summary": "معاملات آتی نزدک ۱۰۰ با افزایش احتمال پیروزی دموکرات ها به ۹۵ درصد، به نزدیک به ۱.۵ درصد کاهش یافت.",
+    "published": "Wed, 04 Nov 2026 05:35:48 GMT",
+    "collected_at": "2026-11-04T09:18:03.911376+03:30",
+    "filter_market_score": 8,
+    "market_score": 15,
     "market_matches": {
-      "currency": [
-        "ارز"
+      "stock": [
+        "بورس"
       ]
     },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
+    "title_market_matches": {
+      "stock": [
+        "بورس"
       ]
     },
+    "summary_market_matches": {},
     "full_text_market_matches": {},
-    "driver_matches": [
-      "واردات"
-    ],
+    "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
       "افزایش",
-      "ممنوعیت",
-      "جهش",
-      "تحلیل",
-      "قیمت"
+      "کاهش",
+      "معاملات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "medium",
     "filter_score_bonus": 6,
     "gold_matches": [],
-    "currency_matches": [
-      "ارز"
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
     ],
-    "stock_matches": [],
     "high_impact_matches": [],
-    "medium_impact_matches": [
-      "واردات"
-    ],
-    "has_numeric_evidence": false,
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
     "market_count": 1,
     "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
+      "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -3838,58 +3555,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "مهر",
-    "title": "افزایش هزینه سوخت، سود لوفت هانزا را کاهش داد؛بلیت هواپیما گران می شود",
-    "link": "https://www.mehrnews.com/news/6998299/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%B3%D9%88%D8%AE%D8%AA-%D8%B3%D9%88%D8%AF-%D9%84%D9%88%D9%81%D8%AA-%D9%87%D8%A7%D9%86%D8%B2%D8%A7-%D8%B1%D8%A7-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%A7%D8%AF-%D8%A8%D9%84%DB%8C%D8%AA-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7-%DA%AF%D8%B1%D8%A7%D9%86",
-    "summary": "گروه هواپیمایی آلمانی لوفت هانزا روز سه شنبه در پی افزایش هزینه های سوخت جت، پیش بینی سود عملیاتی خود برای سال مالی ۲۰۲۶ را به محدوده ۱.۷ تا ۲ میلیارد یورو کاهش داده است.",
-    "published": "Tue, 03 Nov 2026 06:46:58 GMT",
-    "collected_at": "2026-11-03T10:19:53.197456+03:30",
-    "filter_market_score": 9,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "کاهش",
-      "پیش‌بینی",
-      "پیش بینی",
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "دستمزد کارگران قربانی سیاست های تورم زای دولت شد/ حیدری: کارگران نهادی مستقل برای پیگیری حقوقشان ندارند/ مجلس پیگیر افزایش مزدها شود",
     "link": "https://www.khabaronline.ir/news/2296230/%D8%AF%D8%B3%D8%AA%D9%85%D8%B2%D8%AF-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B1%D9%85-%D8%B2%D8%A7%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D8%B4%D8%AF-%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86",
@@ -3983,59 +3648,6 @@
     "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "ایسنا",
-    "title": "هوش مصنوعی به کمک سنجش دقیق ویژگی های سطح مواد می آید",
-    "link": "https://www.isna.ir/news/1405081207653/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A8%D9%87-%DA%A9%D9%85%DA%A9-%D8%B3%D9%86%D8%AC%D8%B4-%D8%AF%D9%82%DB%8C%D9%82-%D9%88%DB%8C%DA%98%DA%AF%DB%8C-%D9%87%D8%A7%DB%8C-%D8%B3%D8%B7%D8%AD-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%DB%8C-%D8%A2%DB%8C%D8%AF",
-    "summary": "فناوران یکی از شرکت های دانش بنیان در کنار بومی سازی تجهیزات تخصصی آزمایشگاهی، موفق به توسعه تجهیزات آزمایشگاهی مبتنی بر فناوری نانو و هوش مصنوعی شدند و این دستاورد امکان اندازه گیری دقیق تر ویژگی های سطحی مواد را فراهم کرده است و به گفته آنها این شرکت با عرضه محصولات خود به مراکز دانشگاهی و صنعتی زمینه صرفه جویی حدود ۲.۵ میلیون دلاری در واردات تجهیزات آزمایشگاهی را فراهم آورده است.",
-    "published": "Tue, 03 Nov 2026 06:37:07 GMT",
-    "collected_at": "2026-11-03T10:17:25.419844+03:30",
-    "filter_market_score": 8,
-    "market_score": 13,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "واردات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "عرضه"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "واردات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -4573,51 +4185,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "ایسنا",
-    "title": "ثبت بین المللی برند ملی زعفران ایران طی یک ماه آینده",
-    "link": "https://www.isna.ir/news/1405081207631/%D8%AB%D8%A8%D8%AA-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%A8%D8%B1%D9%86%D8%AF-%D9%85%D9%84%DB%8C-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-    "summary": "دبیر شورای ملی زعفران با اشاره به ارسال پرونده برند ملی زعفران به ۵۰ کشور هدف از طریق «وایپو»، از دریافت پاسخ های نهایی و ثبت رسمی آن طی یک ماه آینده خبر داد و گفت: این نشان بین المللی، گارانتی و تضمینی مطمئن برای اصالت و کیفیت طلای سرخ ایران خواهد بود.",
-    "published": "Tue, 03 Nov 2026 06:25:28 GMT",
-    "collected_at": "2026-11-03T10:17:25.420121+03:30",
-    "filter_market_score": 5,
-    "market_score": 9,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 5,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "مهر",
     "title": "شوک در تل آویو پس از تصمیم ترامپ برای قطع کمک های نظامی",
     "link": "https://www.mehrnews.com/news/6999323/%D8%B4%D9%88%DA%A9-%D8%AF%D8%B1-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%82%D8%B7%D8%B9-%DA%A9%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D9%86%D8%B8%D8%A7%D9%85%DB%8C",
@@ -4800,51 +4367,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "مهر",
-    "title": "شکست های نگران کننده در مسکو؛ مسیر دشوار مردان برای تکرار نایب قهرمانی",
-    "link": "https://www.mehrnews.com/news/6998224/%D8%B4%DA%A9%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D9%86%DA%AF%D8%B1%D8%A7%D9%86-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%B3%DA%A9%D9%88-%D9%85%D8%B3%DB%8C%D8%B1-%D8%AF%D8%B4%D9%88%D8%A7%D8%B1-%D9%85%D8%B1%D8%AF%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1-%D9%86%D8%A7%DB%8C%D8%A8-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C",
-    "summary": "تیم ملی کاراته در حالی با کسب ۱۲ مدال طلا، نقره و برنز از رقابت های بین المللی کاراته مسکو به تهران بازگشت که نتایج برخی ملی پوشان، نگرانی هایی را در آستانه جام جهانی به همراه داشته است.",
-    "published": "Tue, 03 Nov 2026 06:03:38 GMT",
-    "collected_at": "2026-11-03T09:48:09.399931+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "ایسنا",
     "title": "اولیسه؛ فوتبال خالص، بی خیالی مطلق/ ستاره بایرن ۱۸۰ میلیون یورویی شد",
     "link": "https://www.isna.ir/news/1405081208191/%D8%A7%D9%88%D9%84%DB%8C%D8%B3%D9%87-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%AE%D8%A7%D9%84%D8%B5-%D8%A8%DB%8C-%D8%AE%DB%8C%D8%A7%D9%84%DB%8C-%D9%85%D8%B7%D9%84%D9%82-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%DB%8C%D8%B1%D9%86-%DB%B1%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C",
@@ -4884,6 +4406,50 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "واکنش کره شمالی به ادعای آمریکا درباره سرقت بزرگ/ دخالتی نداشتیم، اتهام زنی است",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306225-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%DA%A9%D8%B1%D9%87-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B3%D8%B1%D9%82%D8%AA-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AF%D8%AE%D8%A7%D9%84%D8%AA%DB%8C-%D9%86%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C%D9%85-%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D8%B2%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA",
+    "summary": "پیونگ یانگ تاکید کرد که اتهام زنی آمریکا مبنی بر دست داشتن کره شمالی در یک سرقت بزرگ ارز دیجیتال، نشانه ای از خصومت واشنگتن نسبت به پیونگ یانگ است.",
+    "published": "Wed, 04 Nov 2026 05:42:23 +0000",
+    "collected_at": "2026-11-04T09:17:50.263256+03:30",
+    "filter_market_score": 4,
+    "market_score": 6,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
