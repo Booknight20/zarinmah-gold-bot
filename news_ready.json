@@ -1,52 +1,42 @@
 [
   {
-    "source": "دنیای اقتصاد",
-    "title": "نرخ ارز دلار، طلا و یورو امروز سه شنبه ۱۲ آبان ۱۴۰۵/ عقب نشینی قیمت طلا و سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306006-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
-    "summary": "بازار امروز شاهد کاهش قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
-    "published": "Tue, 03 Nov 2026 07:50:52 +0000",
-    "collected_at": "2026-11-03T11:50:16.921843+03:30",
-    "filter_market_score": 51,
-    "market_score": 58,
+    "source": "مهر",
+    "title": "نرخ ارزهای رسمی در مرکز مبادله اعلام شد + جدول",
+    "link": "https://www.mehrnews.com/news/6999771/%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%B1%D8%B3%D9%85%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D8%AC%D8%AF%D9%88%D9%84",
+    "summary": "نرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوان و روبل در مرکز مبادله ارز و طلای ایران برای چهارشنبه ۱۳ آبان ۱۴۰۵ اعلام شد.",
+    "published": "Wed, 04 Nov 2026 07:42:15 GMT",
+    "collected_at": "2026-11-04T11:15:48.266636+03:30",
+    "filter_market_score": 38,
+    "market_score": 40,
     "market_matches": {
       "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
+        "طلا"
       ],
       "currency": [
-        "دلار",
         "نرخ ارز",
         "ارز",
+        "مرکز مبادله",
+        "دلار",
         "یورو",
-        "مرکز مبادله"
+        "درهم"
       ]
     },
     "title_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ],
       "currency": [
-        "دلار",
         "نرخ ارز",
         "ارز",
-        "یورو"
+        "مرکز مبادله"
       ]
     },
     "summary_market_matches": {
       "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
+        "طلا"
       ],
       "currency": [
-        "نرخ ارز",
+        "دلار",
         "ارز",
+        "یورو",
+        "درهم",
         "مرکز مبادله"
       ]
     },
@@ -54,29 +44,23 @@
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "قیمت",
       "نرخ",
-      "کاهش",
-      "صعود",
-      "نوسان"
+      "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "high",
     "filter_score_bonus": 6,
     "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
+      "طلا"
     ],
     "currency_matches": [
-      "دلار",
       "نرخ ارز",
       "ارز",
+      "مرکز مبادله",
+      "دلار",
       "یورو",
-      "مرکز مبادله"
+      "درهم"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -93,8 +77,8 @@
     ],
     "ranking_applied": true,
     "duplicate_count": 1,
-    "full_text": "بازار امروز شاهد کاهش قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.",
-    "telegram_preview": "📰 نرخ ارز دلار، طلا و یورو امروز سه شنبه ۱۲ آبان ۱۴۰۵/ عقب نشینی قیمت طلا و سکه\n\nبازار امروز شاهد کاهش قیمت طلای ۱۸ عیار و سکه امامی نسبت به قیمت بسته شده روز گذشته است؛ همزمان نرخ ارز در مرکز مبادله ارز و طلا نسبت به دیروز نوسان صعودی ثبت کرده است.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306006-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87"
+    "full_text": "نرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوان و روبل در مرکز مبادله ارز و طلای ایران برای چهارشنبه ۱۳ آبان ۱۴۰۵ اعلام شد.",
+    "telegram_preview": "📰 نرخ ارزهای رسمی در مرکز مبادله اعلام شد + جدول\n\nنرخ رسمی انواع ارز شامل دلار، یورو، درهم، یوان و روبل در مرکز مبادله ارز و طلای ایران برای چهارشنبه ۱۳ آبان ۱۴۰۵ اعلام شد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6999771/%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%B1%D8%B3%D9%85%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D8%AC%D8%AF%D9%88%D9%84"
   },
   {
     "source": "خبرآنلاین اقتصادی",
@@ -484,76 +468,6 @@
     "telegram_preview": "📰 سقف عرضه اوراق مرابحه ارزی برای هر طرح ۲۰۰ میلیون یورو تعیین شد\n\nاصلاحیه دستورالعمل اجرایی عرضه اوراق مرابحه ارزی مصوب هیات عالی بانک مرکزی به سازمان بورس و اوراق بهادار، صندوق توسعه ملی و شبکه بانکی کشور ابلاغ شد.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081208032/%D8%B3%D9%82%D9%81-%D8%B9%D8%B1%D8%B6%D9%87-%D8%A7%D9%88%D8%B1%D8%A7%D9%82-%D9%85%D8%B1%D8%A7%D8%A8%D8%AD%D9%87-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%87%D8%B1-%D8%B7%D8%B1%D8%AD-%DB%B2%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88-%D8%AA%D8%B9%DB%8C%DB%8C%D9%86"
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت سکه، نیم سکه و ربع سکه امروز سه شنبه ۱۲ آبان ۱۴۰۵ / سکه نزولی شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306005-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF",
-    "summary": "در نرخ 261 میلیون و 800 هزار تومان در معامله بود.",
-    "published": "Tue, 03 Nov 2026 07:47:50 +0000",
-    "collected_at": "2026-11-03T11:50:16.921859+03:30",
-    "filter_market_score": 24,
-    "market_score": 32,
-    "market_matches": {
-      "gold": [
-        "سکه",
-        "نیم سکه",
-        "ربع سکه",
-        "طلا",
-        "سکه امامی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه",
-        "نیم سکه",
-        "ربع سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "نزول",
-      "قیمت",
-      "کاهش",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "سکه",
-      "نیم سکه",
-      "ربع سکه",
-      "طلا",
-      "سکه امامی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "در نرخ 261 میلیون و 800 هزار تومان در معامله بود.",
-    "telegram_preview": "📰 قیمت سکه، نیم سکه و ربع سکه امروز سه شنبه ۱۲ آبان ۱۴۰۵ / سکه نزولی شد\n\nدر نرخ 261 میلیون و 800 هزار تومان در معامله بود.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306005-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF"
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۱۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۱۸عیار ۲۵ میلیون و ۴۰۲ هزار تومان قیمت خورد + جدول",
     "link": "https://www.khabaronline.ir/news/2297273/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
@@ -753,6 +667,78 @@
     "duplicate_count": 1,
     "full_text": "قیمت یورو، دلار و سایر ارزها امروز ۱۳ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو ۳۰۶ هزار و ۶۷۰ تومان قیمت پیدا کرد.",
     "telegram_preview": "📰 قیمت یورو، دلار و انواع ارزها امروز ۱۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ یورو ۳۰۶ هزار و ۶۷۰ تومان شد + جدول\n\nقیمت یورو، دلار و سایر ارزها امروز ۱۳ آبان ۱۴۰۵ اعلام شد. بر این اساس یورو ۳۰۶ هزار و ۶۷۰ تومان قیمت پیدا کرد.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2297308/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C"
+  },
+  {
+    "source": "مهر",
+    "title": "افزایش قیمت جهانی طلا و نقره؛ طلا به ۴,۰۲۲ دلار رسید",
+    "link": "https://www.mehrnews.com/news/6999752/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4-%DB%B0%DB%B2%DB%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "قیمت هر اونس طلا با رشد ۲.۳۵ درصدی به ۴,۰۲۲.۷۶ دلار و نقره با افزایش ۴.۱۱ درصدی به ۵۱.۷۷ دلار رسید.",
+    "published": "Wed, 04 Nov 2026 07:34:27 GMT",
+    "collected_at": "2026-11-04T11:15:48.266801+03:30",
+    "filter_market_score": 25,
+    "market_score": 31,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "رشد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "اونس طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "قیمت هر اونس طلا با رشد ۲.۳۵ درصدی به ۴,۰۲۲.۷۶ دلار و نقره با افزایش ۴.۱۱ درصدی به ۵۱.۷۷ دلار رسید.",
+    "telegram_preview": "📰 افزایش قیمت جهانی طلا و نقره؛ طلا به ۴,۰۲۲ دلار رسید\n\nقیمت هر اونس طلا با رشد ۲.۳۵ درصدی به ۴,۰۲۲.۷۶ دلار و نقره با افزایش ۴.۱۱ درصدی به ۵۱.۷۷ دلار رسید.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6999752/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4-%DB%B0%DB%B2%DB%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF"
   },
   {
     "source": "دنیای اقتصاد",
@@ -2743,6 +2729,62 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "قیمت طلا ۱۸ عیار امروز چهارشنبه ۱۳ آبان ۱۴۰۵/ کاهش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306199-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "به 25 میلیون و 372 هزار و 900 تومان رسید.",
+    "published": "Wed, 04 Nov 2026 04:35:07 +0000",
+    "collected_at": "2026-11-04T11:15:57.817333+03:30",
+    "filter_market_score": 15,
+    "market_score": 18,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "به 25 میلیون و 372 هزار و 900 تومان رسید.",
+    "telegram_preview": "📰 قیمت طلا ۱۸ عیار امروز چهارشنبه ۱۳ آبان ۱۴۰۵/ کاهش قیمت طلا\n\nبه 25 میلیون و 372 هزار و 900 تومان رسید.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306199-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7"
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "داستان پاسپورت های اجاره ای برای رجیستری",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-19/4306062-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D9%BE%D9%88%D8%B1%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C",
     "summary": "بازار گوشی شرایط خوبی ندارد. تقلای دولت از یک سو برای تنظیم بازار، کنترل قیمت ها، مبارزه با کالای قاچاق و از سوی دیگر تلاش مدیریت منابع ارزی، بازار گوشی را در حالت مخصوصی قرار داده است. بعد از تحمیل شرایط جنگی به بازار، واردات گوشی تحت تاثیر قرار گرفت و چرخه تامین و توزیع کالا با مشکلاتی روبه رو شد. روند افزایش قیمت ها از ابتدا تا به امروز پیوسته ادامه داشته است. حالا خبر تازه، حکایت از تغییر رویه واردات مسافری گوشی حکایت دارد.",
@@ -3034,61 +3076,6 @@
     "duplicate_count": 1,
     "full_text": "قیمت فروش حواله دلار با افزایش ۳۷۷ تومانی به ۱۸۸ هزار و ۶۶۸ تومان رسید.",
     "telegram_preview": "📰 دلار حواله امروز ۱۸۸ هزار و ۶۶۸ تومان شد\n\nقیمت فروش حواله دلار با افزایش ۳۷۷ تومانی به ۱۸۸ هزار و ۶۶۸ تومان رسید.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1850430/%D8%AF%D9%84%D8%A7%D8%B1-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B8%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B6%DB%B6%DB%B8-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B4%D8%AF"
-  },
-  {
-    "source": "ایسنا",
-    "title": "بانک های مرکزی با سریع ترین روند از ۲۰۲۴ طلا می خرند",
-    "link": "https://www.isna.ir/news/1405081207812/%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D9%86%D8%AF-%D8%A7%D8%B2-%DB%B2%DB%B0%DB%B2%DB%B4-%D8%B7%D9%84%D8%A7-%D9%85%DB%8C-%D8%AE%D8%B1%D9%86%D8%AF",
-    "summary": "شورای جهانی طلا (WGC) اعلام کرد بانک های مرکزی جهان در سه ماهه سوم امسال، با سریع ترین روند از پایان سال ۲۰۲۴ به این سو، اقدام به خرید طلا کردند.",
-    "published": "Tue, 03 Nov 2026 08:27:43 GMT",
-    "collected_at": "2026-11-03T12:17:05.443894+03:30",
-    "filter_market_score": 12,
-    "market_score": 17,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "شورای جهانی طلا (WGC) اعلام کرد بانک های مرکزی جهان در سه ماهه سوم امسال، با سریع ترین روند از پایان سال ۲۰۲۴ به این سو، اقدام به خرید طلا کردند.",
-    "telegram_preview": "📰 بانک های مرکزی با سریع ترین روند از ۲۰۲۴ طلا می خرند\n\nشورای جهانی طلا (WGC) اعلام کرد بانک های مرکزی جهان در سه ماهه سوم امسال، با سریع ترین روند از پایان سال ۲۰۲۴ به این سو، اقدام به خرید طلا کردند.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081207812/%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D9%86%D8%AF-%D8%A7%D8%B2-%DB%B2%DB%B0%DB%B2%DB%B4-%D8%B7%D9%84%D8%A7-%D9%85%DB%8C-%D8%AE%D8%B1%D9%86%D8%AF"
   },
   {
     "source": "دنیای اقتصاد",
@@ -3828,6 +3815,61 @@
     "telegram_preview": "📰 دستمزد کارگران قربانی سیاست های تورم زای دولت شد/ حیدری: کارگران نهادی مستقل برای پیگیری حقوقشان ندارند/ مجلس پیگیر افزایش مزدها شود\n\nکارشناس حوزه کار، با انتقاد از اظهارات معاون اول رئیس جمهور درباره تورم زا بودن افزایش دستمزدها، معتقد است سهم مزد در قیمت تمام شده کالاها ناچیز است و نمی توان مسئولیت تورم ناشی از سیاست های ارزی و اقتصادی را به گردن کارگران انداخت. او همچنین با انتقاد از اجرانشدن مصوبه مزدی شورای عالی کار، مجلس را مسئول نظارت بر عملکرد دولت دانسته و می گوید فقدان تشکل های مستقل کارگری و ضعف امنیت شغلی، امکان پیگیری مطالبات قانونی کارگران را به شدت محدود کرده است.\n\n📌 منبع: خبرآنلاین اقتصادی\n\n🔗 https://www.khabaronline.ir/news/2296230/%D8%AF%D8%B3%D8%AA%D9%85%D8%B2%D8%AF-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B1%D9%85-%D8%B2%D8%A7%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D8%B4%D8%AF-%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86"
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "محصولات غذایی هرمزگان در سفره خارجی ها",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-155/4306234-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B3%D9%81%D8%B1%D9%87-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D9%87%D8%A7",
+    "summary": "ارزش صادرات محصولات کشاورزی هرمزگان در نیمه نخست سال ۱۴۰۵ از ۱۹۳ میلیون دلار فراتر رفت؛ آماری که نشان دهنده ظرفیت قابل توجه بخش کشاورزی استان در تأمین بازارهای خارجی و توسعه صادرات غیرنفتی است.",
+    "published": "Wed, 04 Nov 2026 06:36:59 +0000",
+    "collected_at": "2026-11-04T11:15:57.817154+03:30",
+    "filter_market_score": 8,
+    "market_score": 13,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "آمار"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "ارزش صادرات محصولات کشاورزی هرمزگان در نیمه نخست سال ۱۴۰۵ از ۱۹۳ میلیون دلار فراتر رفت؛ آماری که نشان دهنده ظرفیت قابل توجه بخش کشاورزی استان در تأمین بازارهای خارجی و توسعه صادرات غیرنفتی است.",
+    "telegram_preview": "📰 محصولات غذایی هرمزگان در سفره خارجی ها\n\nارزش صادرات محصولات کشاورزی هرمزگان در نیمه نخست سال ۱۴۰۵ از ۱۹۳ میلیون دلار فراتر رفت؛ آماری که نشان دهنده ظرفیت قابل توجه بخش کشاورزی استان در تأمین بازارهای خارجی و توسعه صادرات غیرنفتی است.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-155/4306234-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B3%D9%81%D8%B1%D9%87-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D9%87%D8%A7"
+  },
+  {
     "source": "مهر",
     "title": "از تأمین ارز تا ساخت نیروگاه؛ جزئیات مرحله دوم افزایش سرمایه «سولار»",
     "link": "https://www.mehrnews.com/news/6999090/%D8%A7%D8%B2-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%A7-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%AF%D9%88%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87",
@@ -4042,6 +4084,58 @@
     "telegram_preview": "📰 تحلیل حرفه ای و پیش بینی بازار مقاطع فولادی؛ بهترین زمان تامین مصالح پروژه های عمرانی\n\nبازار آهن و فولاد به عنوان یکی از مهم ترین ارکان توسعه زیرساخت ها، همواره تحت تاثیر متغیرهای پیچیده اقتصاد کلان، نوسانات ارزی و سیاست های قیمت گذاری داخلی و بین المللی قرار دارد. برای مدیران پروژه های عمرانی، انبوه سازان و پیمانکاران، تشخیص دقیق چرخه های بازار و انتخاب بهترین زمان تامین مصالح، مرز باریک میان سودآوری قطعی و تحمیل هزینه های سنگین مازاد را تعیین می کند. در این چشم انداز پرالتهاب و نوسانی، دسترسی به منابع دست اول، حذف واسطه های غیرضروری و انتخاب تامین کنندگان استراتژیک اهمیت فوق العاده ای می یابد.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4306034-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D9%81%D9%88%D9%84%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%B2%D9%85%D8%A7%D9%86-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D9%85%D8%B1%D8%A7%D9%86%DB%8C"
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "هرمزگان؛ کانون تجارت خارجی کشور",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-155/4306235-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%DA%A9%D8%A7%D9%86%D9%88%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1",
+    "summary": "ناظر گمرکات استان هرمزگان از صادرات بیش از ۱۵ میلیون تن کالای غیرنفتی به ارزش نزدیک به پنج میلیارد دلار از گمرکات این استان در هفت ماهه سال ۱۴۰۵ خبر داد و گفت: مجموع درآمدهای گمرکی هرمزگان در این مدت به ۱۲۹ همت رسیده است.",
+    "published": "Wed, 04 Nov 2026 06:38:21 +0000",
+    "collected_at": "2026-11-04T11:15:57.817143+03:30",
+    "filter_market_score": 7,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "ناظر گمرکات استان هرمزگان از صادرات بیش از ۱۵ میلیون تن کالای غیرنفتی به ارزش نزدیک به پنج میلیارد دلار از گمرکات این استان در هفت ماهه سال ۱۴۰۵ خبر داد و گفت: مجموع درآمدهای گمرکی هرمزگان در این مدت به ۱۲۹ همت رسیده است.",
+    "telegram_preview": "📰 هرمزگان؛ کانون تجارت خارجی کشور\n\nناظر گمرکات استان هرمزگان از صادرات بیش از ۱۵ میلیون تن کالای غیرنفتی به ارزش نزدیک به پنج میلیارد دلار از گمرکات این استان در هفت ماهه سال ۱۴۰۵ خبر داد و گفت: مجموع درآمدهای گمرکی هرمزگان در این مدت به ۱۲۹ همت رسیده است.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-155/4306235-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%DA%A9%D8%A7%D9%86%D9%88%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1"
+  },
+  {
     "source": "مهر",
     "title": "زرپاد ۸ کیلو طلا فروخت، اما فقط یک کیلو ذخیره داشت!",
     "link": "https://www.mehrnews.com/news/6998702/%D8%B2%D8%B1%D9%BE%D8%A7%D8%AF-%DB%B8-%DA%A9%DB%8C%D9%84%D9%88-%D8%B7%D9%84%D8%A7-%D9%81%D8%B1%D9%88%D8%AE%D8%AA-%D8%A7%D9%85%D8%A7-%D9%81%D9%82%D8%B7-%DB%8C%DA%A9-%DA%A9%DB%8C%D9%84%D9%88-%D8%B0%D8%AE%DB%8C%D8%B1%D9%87-%D8%AF%D8%A7%D8%B4%D8%AA",
@@ -4089,6 +4183,53 @@
     "telegram_preview": "📰 زرپاد ۸ کیلو طلا فروخت، اما فقط یک کیلو ذخیره داشت!\n\nسخنگوی قوه قضاییه از ثبت ۴۲۹ شکایت علیه سکوی زرپاد خبر داد و اعلام کرد: برای ۲۴۴ متهم قرار جلب به دادرسی صادر شده و پرونده ۱۸۵ متهم دیگر در حال بررسی است.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6998702/%D8%B2%D8%B1%D9%BE%D8%A7%D8%AF-%DB%B8-%DA%A9%DB%8C%D9%84%D9%88-%D8%B7%D9%84%D8%A7-%D9%81%D8%B1%D9%88%D8%AE%D8%AA-%D8%A7%D9%85%D8%A7-%D9%81%D9%82%D8%B7-%DB%8C%DA%A9-%DA%A9%DB%8C%D9%84%D9%88-%D8%B0%D8%AE%DB%8C%D8%B1%D9%87-%D8%AF%D8%A7%D8%B4%D8%AA"
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "هکر ها چطور به بایننس نفوذ کردند و ۶.۳ میلیارد دلار دزدیدند؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306243-%D9%87%DA%A9%D8%B1-%D9%87%D8%A7-%DA%86%D8%B7%D9%88%D8%B1-%D8%A8%D9%87-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D9%86%D9%81%D9%88%D8%B0-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B2%D8%AF%DB%8C%D8%AF%D9%86%D8%AF",
+    "summary": "بایننس توضیحات جدیدی درباره جزئیات حمله هکری به این صرافی که به سرقت مقادیر زیادی رمزارز منجر شد، ارائه داد.",
+    "published": "Wed, 04 Nov 2026 07:23:50 +0000",
+    "collected_at": "2026-11-04T11:15:57.817062+03:30",
+    "filter_market_score": 6,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "بایننس توضیحات جدیدی درباره جزئیات حمله هکری به این صرافی که به سرقت مقادیر زیادی رمزارز منجر شد، ارائه داد.",
+    "telegram_preview": "📰 هکر ها چطور به بایننس نفوذ کردند و ۶.۳ میلیارد دلار دزدیدند؟\n\nبایننس توضیحات جدیدی درباره جزئیات حمله هکری به این صرافی که به سرقت مقادیر زیادی رمزارز منجر شد، ارائه داد.\n\n📌 منبع: دنیای اقتصاد\n\n🔗 https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306243-%D9%87%DA%A9%D8%B1-%D9%87%D8%A7-%DA%86%D8%B7%D9%88%D8%B1-%D8%A8%D9%87-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D9%86%D9%81%D9%88%D8%B0-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B2%D8%AF%DB%8C%D8%AF%D9%86%D8%AF"
+  },
+  {
     "source": "مشرق",
     "title": "فیلم/ آخرین وضعیت پرونده پلتفرم زرپاد، فروش آنلاین طلا",
     "link": "https://www.mashreghnews.ir/news/1850199/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D8%B2%D8%B1%D9%BE%D8%A7%D8%AF-%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B7%D9%84%D8%A7",
@@ -4134,53 +4275,6 @@
     "duplicate_count": 1,
     "full_text": "سخنگوی قوه قضاییه: تاکنون ۴۲۹ شکایت درباره این سکو ثبت شده و برای ۲۴۴ متهم به اتهام کلاهبرداری قرار جلب به دادرسی صادر شده است.",
     "telegram_preview": "📰 فیلم/ آخرین وضعیت پرونده پلتفرم زرپاد، فروش آنلاین طلا\n\nسخنگوی قوه قضاییه: تاکنون ۴۲۹ شکایت درباره این سکو ثبت شده و برای ۲۴۴ متهم به اتهام کلاهبرداری قرار جلب به دادرسی صادر شده است.\n\n📌 منبع: مشرق\n\n🔗 https://www.mashreghnews.ir/news/1850199/%D9%81%DB%8C%D9%84%D9%85-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D8%B2%D8%B1%D9%BE%D8%A7%D8%AF-%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B7%D9%84%D8%A7"
-  },
-  {
-    "source": "ایسنا",
-    "title": "پرداخت ۴ میلیون دلار مالیات اینفانتینو در آمریکا از جیب فیفا!",
-    "link": "https://www.isna.ir/news/1405081207715/%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D8%A7%DB%8C%D9%86%D9%81%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D9%88-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%AC%DB%8C%D8%A8-%D9%81%DB%8C%D9%81%D8%A7",
-    "summary": "روزنامه نیویورک تایمز فاش کرد که فدراسیون بین المللی فوتبال فیفا تمام بدهی های مالیاتی جیانی اینفانتینو، رئیس این نهاد در آمریکا را برای دوره ای که در این کشور اقامت داشت، تسویه کرده است.",
-    "published": "Tue, 03 Nov 2026 08:30:00 GMT",
-    "collected_at": "2026-11-03T12:17:05.443848+03:30",
-    "filter_market_score": 6,
-    "market_score": 12,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "روزنامه نیویورک تایمز فاش کرد که فدراسیون بین المللی فوتبال فیفا تمام بدهی های مالیاتی جیانی اینفانتینو، رئیس این نهاد در آمریکا را برای دوره ای که در این کشور اقامت داشت، تسویه کرده است.",
-    "telegram_preview": "📰 پرداخت ۴ میلیون دلار مالیات اینفانتینو در آمریکا از جیب فیفا!\n\nروزنامه نیویورک تایمز فاش کرد که فدراسیون بین المللی فوتبال فیفا تمام بدهی های مالیاتی جیانی اینفانتینو، رئیس این نهاد در آمریکا را برای دوره ای که در این کشور اقامت داشت، تسویه کرده است.\n\n📌 منبع: ایسنا\n\n🔗 https://www.isna.ir/news/1405081207715/%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D8%A7%DB%8C%D9%86%D9%81%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D9%88-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%AC%DB%8C%D8%A8-%D9%81%DB%8C%D9%81%D8%A7"
   },
   {
     "source": "مشرق",
@@ -4519,6 +4613,53 @@
     "duplicate_count": 1,
     "full_text": "اعلام ناگهانی ترامپ مبنی بر توقف کمک های نظامی به رژیم صهیونیستی تا پایان سال، ارتش این رژیم را در شوک فرو برد و مقام های تل آویو را با خطر از دست رفتن میلیاردها دلار کمک واشنگتن مواجه ساخت.",
     "telegram_preview": "📰 شوک در تل آویو پس از تصمیم ترامپ برای قطع کمک های نظامی\n\nاعلام ناگهانی ترامپ مبنی بر توقف کمک های نظامی به رژیم صهیونیستی تا پایان سال، ارتش این رژیم را در شوک فرو برد و مقام های تل آویو را با خطر از دست رفتن میلیاردها دلار کمک واشنگتن مواجه ساخت.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6999323/%D8%B4%D9%88%DA%A9-%D8%AF%D8%B1-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%82%D8%B7%D8%B9-%DA%A9%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D9%86%D8%B8%D8%A7%D9%85%DB%8C"
+  },
+  {
+    "source": "مهر",
+    "title": "درآمد ۲۰دلاری در هر ساعت برای گرداندن روبات ها در خیابان",
+    "link": "https://www.mehrnews.com/news/6999620/%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%DB%B2%DB%B0%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%87%D8%B1-%D8%B3%D8%A7%D8%B9%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%D8%AF%D9%86-%D8%B1%D9%88%D8%A8%D8%A7%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86",
+    "summary": "یک استارت آپ در سن فرانسیسکو آمریکا به افراد ساعتی ۲۰ دلار می دهد تا سگ های روباتیک را در خیابان های شهر بگردانند.",
+    "published": "Wed, 04 Nov 2026 07:41:20 GMT",
+    "collected_at": "2026-11-04T11:15:48.266656+03:30",
+    "filter_market_score": 4,
+    "market_score": 8,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1,
+    "full_text": "یک استارت آپ در سن فرانسیسکو آمریکا به افراد ساعتی ۲۰ دلار می دهد تا سگ های روباتیک را در خیابان های شهر بگردانند.",
+    "telegram_preview": "📰 درآمد ۲۰دلاری در هر ساعت برای گرداندن روبات ها در خیابان\n\nیک استارت آپ در سن فرانسیسکو آمریکا به افراد ساعتی ۲۰ دلار می دهد تا سگ های روباتیک را در خیابان های شهر بگردانند.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6999620/%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%DB%B2%DB%B0%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%87%D8%B1-%D8%B3%D8%A7%D8%B9%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%D8%AF%D9%86-%D8%B1%D9%88%D8%A8%D8%A7%D8%AA-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86"
   },
   {
     "source": "مهر",
@@ -4983,51 +5124,5 @@
     "duplicate_count": 1,
     "full_text": "همدان- مراسم استقبال از «مریم بربط» دارنده مدال طلای مسابقات کاپ آسیا در اردن و «مهشید صفری» دارنده نشان نقره رقابت های بزرگسالان و برنز کاپ آسیا با حضور مسئولان و جامعه ورزش برگزار شد.",
     "telegram_preview": "📰 استقبال از بانوان مدال آور جودوی همدان در مسابقات کاپ آسیا\n\nهمدان- مراسم استقبال از «مریم بربط» دارنده مدال طلای مسابقات کاپ آسیا در اردن و «مهشید صفری» دارنده نشان نقره رقابت های بزرگسالان و برنز کاپ آسیا با حضور مسئولان و جامعه ورزش برگزار شد.\n\n📌 منبع: مهر\n\n🔗 https://www.mehrnews.com/news/6998447/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D8%A7%D8%B2-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%A2%D9%88%D8%B1-%D8%AC%D9%88%D8%AF%D9%88%DB%8C-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7"
-  },
-  {
-    "source": "تابناک",
-    "title": "اتحادیه مرجع صدور مجوز فروش آنلاین طلاست",
-    "link": "https://tabnak.ir/fa/news/100000279/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D9%85%D8%B1%D8%AC%D8%B9-%D8%B5%D8%AF%D9%88%D8%B1-%D9%85%D8%AC%D9%88%D8%B2-%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%D8%B3%D8%AA-39366d2f5e4a4da6bf4e4cc8",
-    "summary": "به گفته الفت نسب: بر اساس مصوبه دولت، برای فروش برخط طلا و نقره، ضوابط مصوب هیئت دولت را داریم که بر مصوبه هیئت عالی نظارت اولویت دارد.",
-    "published": "Tue, 03 Nov 2026 08:05:25 +0000",
-    "collected_at": "2026-11-03T11:50:40.493377+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1,
-    "full_text": "به گفته الفت نسب: بر اساس مصوبه دولت، برای فروش برخط طلا و نقره، ضوابط مصوب هیئت دولت را داریم که بر مصوبه هیئت عالی نظارت اولویت دارد.",
-    "telegram_preview": "📰 اتحادیه مرجع صدور مجوز فروش آنلاین طلاست\n\nبه گفته الفت نسب: بر اساس مصوبه دولت، برای فروش برخط طلا و نقره، ضوابط مصوب هیئت دولت را داریم که بر مصوبه هیئت عالی نظارت اولویت دارد.\n\n📌 منبع: تابناک\n\n🔗 https://tabnak.ir/fa/news/100000279/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D9%85%D8%B1%D8%AC%D8%B9-%D8%B5%D8%AF%D9%88%D8%B1-%D9%85%D8%AC%D9%88%D8%B2-%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%D8%B3%D8%AA-39366d2f5e4a4da6bf4e4cc8"
   }
 ]

@@ -30374,5 +30374,149 @@
     "group_message_id": 2228,
     "fully_published": true,
     "last_checked_at": "2026-11-04T07:18:44.597554+00:00"
+  },
+  "76868b1764b29396fa51409ae9ced436da36fd446a979f042bc76b422ef2acfa": {
+    "title": "نرخ ارزهای رسمی در مرکز مبادله اعلام شد + جدول",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6999771/%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%B1%D8%B3%D9%85%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D8%AC%D8%AF%D9%88%D9%84",
+    "telegram_message_ids": [
+      2477
+    ],
+    "eitaa_message_ids": [
+      179964275
+    ],
+    "group_message_ids": [
+      2229
+    ],
+    "content_hash": "3cccacfd2443e5c01d318b974c16df974235c4bdbe5c7babeb43c33ac46a1a88",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T07:46:27.324724+00:00",
+    "telegram_message_id": 2477,
+    "eitaa_last_sent_at": "2026-11-04T07:46:28.701857+00:00",
+    "eitaa_message_id": 179964275,
+    "group_last_sent_at": "2026-11-04T07:46:30.412270+00:00",
+    "group_message_id": 2229,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T07:46:30.492867+00:00"
+  },
+  "0d260c52a2f17a7228ae4048b22885840dfb34838d8c883d1ab47eff0d16dc5a": {
+    "title": "افزایش قیمت جهانی طلا و نقره؛ طلا به ۴,۰۲۲ دلار رسید",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/6999752/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4-%DB%B0%DB%B2%DB%B2-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      2478
+    ],
+    "eitaa_message_ids": [
+      179964301
+    ],
+    "group_message_ids": [
+      2230
+    ],
+    "content_hash": "29dd536710de1c139f888475b7dcf04e58f2b9b87a5a8295450c633d11ffaa3b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T07:46:32.162999+00:00",
+    "telegram_message_id": 2478,
+    "eitaa_last_sent_at": "2026-11-04T07:46:33.366220+00:00",
+    "eitaa_message_id": 179964301,
+    "group_last_sent_at": "2026-11-04T07:46:35.008222+00:00",
+    "group_message_id": 2230,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T07:46:35.044910+00:00"
+  },
+  "1fdf6b1310062b3c5b27f61ed95a9b89cbef6456267b0190e24b8c67b8b147c1": {
+    "title": "هکر ها چطور به بایننس نفوذ کردند و ۶.۳ میلیارد دلار دزدیدند؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306243-%D9%87%DA%A9%D8%B1-%D9%87%D8%A7-%DA%86%D8%B7%D9%88%D8%B1-%D8%A8%D9%87-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D9%86%D9%81%D9%88%D8%B0-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B2%D8%AF%DB%8C%D8%AF%D9%86%D8%AF",
+    "telegram_message_ids": [
+      2479
+    ],
+    "eitaa_message_ids": [
+      179964324
+    ],
+    "group_message_ids": [
+      2231
+    ],
+    "content_hash": "570d645153244b941c52ca1564cb9ccc49a1163f36232e87beca2f909b396891",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T07:46:36.727543+00:00",
+    "telegram_message_id": 2479,
+    "eitaa_last_sent_at": "2026-11-04T07:46:38.069827+00:00",
+    "eitaa_message_id": 179964324,
+    "group_last_sent_at": "2026-11-04T07:46:39.753627+00:00",
+    "group_message_id": 2231,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T07:46:39.788849+00:00"
+  },
+  "5a6c2a78a20e5c0edc71441f596f2e699c1988ae65bf664248dbd8d57ddfe919": {
+    "title": "هرمزگان؛ کانون تجارت خارجی کشور",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-155/4306235-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%DA%A9%D8%A7%D9%86%D9%88%D9%86-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1",
+    "telegram_message_ids": [
+      2480
+    ],
+    "eitaa_message_ids": [
+      179964333
+    ],
+    "group_message_ids": [
+      2232
+    ],
+    "content_hash": "d84a2abd64c011d324f447e1c3ce96f7550212f1eb722072c35d66925d4254d7",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T07:46:41.480253+00:00",
+    "telegram_message_id": 2480,
+    "eitaa_last_sent_at": "2026-11-04T07:46:42.809956+00:00",
+    "eitaa_message_id": 179964333,
+    "group_last_sent_at": "2026-11-04T07:46:44.463128+00:00",
+    "group_message_id": 2232,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T07:46:44.498369+00:00"
+  },
+  "1fb72f3894c2fb659c1afac651d74246d829058e8028189462052d24d4d66392": {
+    "title": "محصولات غذایی هرمزگان در سفره خارجی ها",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-155/4306234-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B3%D9%81%D8%B1%D9%87-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D9%87%D8%A7",
+    "telegram_message_ids": [
+      2481
+    ],
+    "eitaa_message_ids": [
+      179964339
+    ],
+    "group_message_ids": [
+      2233
+    ],
+    "content_hash": "01ad1d34f633dd39f811ede091eba8cac1a638ebddf793736c61e60289e09949",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T07:46:46.181558+00:00",
+    "telegram_message_id": 2481,
+    "eitaa_last_sent_at": "2026-11-04T07:46:47.374158+00:00",
+    "eitaa_message_id": 179964339,
+    "group_last_sent_at": "2026-11-04T07:46:49.060433+00:00",
+    "group_message_id": 2233,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T07:46:49.095939+00:00"
+  },
+  "9f39669d3c0b7ebcbdb7cb7be7d4b3bd7c8f8489a28e878c30e04679f4afa2f7": {
+    "title": "قیمت طلا ۱۸ عیار امروز چهارشنبه ۱۳ آبان ۱۴۰۵/ کاهش قیمت طلا",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306199-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      2482
+    ],
+    "eitaa_message_ids": [
+      179964348
+    ],
+    "group_message_ids": [
+      2234
+    ],
+    "content_hash": "d1b1320de76c0d47617a7df056c51b1b0f72c66075b1776e115584b36da9de51",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T07:46:50.770981+00:00",
+    "telegram_message_id": 2482,
+    "eitaa_last_sent_at": "2026-11-04T07:46:52.127194+00:00",
+    "eitaa_message_id": 179964348,
+    "group_last_sent_at": "2026-11-04T07:46:53.763854+00:00",
+    "group_message_id": 2234,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T07:46:53.799144+00:00"
   }
 }
