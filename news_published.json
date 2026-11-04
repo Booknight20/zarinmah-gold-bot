@@ -30710,5 +30710,77 @@
     "group_message_id": 2246,
     "fully_published": true,
     "last_checked_at": "2026-11-04T09:16:29.777858+00:00"
+  },
+  "debf4257d6e3e2b9be0793d08b0a77ee638511fbf9ca8dc0a51ddd7b2ee21041": {
+    "title": "اولین واکنش بازارهای ایران به پیروزی انتخاباتی دمکرات ها / بورس برخلاف دلار صعودی شد، طلا و سکه پیشروی کردند / معامله گران در انتظار خروجی تحول کنگره",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/live/2297518/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%AF%D9%85%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      2495
+    ],
+    "eitaa_message_ids": [
+      179988657
+    ],
+    "group_message_ids": [
+      2247
+    ],
+    "content_hash": "95fa46d79e90abfe72f6819aacfdac1a04cda6d55d429ef22512e0c7b1114a23",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T09:46:21.333302+00:00",
+    "telegram_message_id": 2495,
+    "eitaa_last_sent_at": "2026-11-04T09:46:22.541095+00:00",
+    "eitaa_message_id": 179988657,
+    "group_last_sent_at": "2026-11-04T09:46:24.148270+00:00",
+    "group_message_id": 2247,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T09:46:24.184523+00:00"
+  },
+  "3f00b76f4326729aab90659fcb3187e2c526a4d9b13166ad14da400bbfa60623": {
+    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۱۳ آبان ۱۴۰۵/ دلار ۲۶۸ هزار و ۹۰۰ تومان قیمت پیدا کرد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2297473/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B6%DB%B8",
+    "telegram_message_ids": [
+      2496
+    ],
+    "eitaa_message_ids": [
+      179988676
+    ],
+    "group_message_ids": [
+      2248
+    ],
+    "content_hash": "cf0a32427ab2843e17948e506f274e657923b8d88fbe74f75f9b9101fe0c9330",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T09:46:25.825527+00:00",
+    "telegram_message_id": 2496,
+    "eitaa_last_sent_at": "2026-11-04T09:46:26.971293+00:00",
+    "eitaa_message_id": 179988676,
+    "group_last_sent_at": "2026-11-04T09:46:28.566094+00:00",
+    "group_message_id": 2248,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T09:46:28.602491+00:00"
+  },
+  "b3894a0b44f5771b5c20c562d5cc5b767062b79f4ee817abeb3b4e648f93d659": {
+    "title": "قیمت طلا و سکه امروز 13 آبان / بازار طلا و سکه در وضعیت قرمز!",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/100000539/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-13-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%AF%D8%B1-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D9%82%D8%B1%D9%85%D8%B2-37f3ff36278140c58fdf0d78",
+    "telegram_message_ids": [
+      2497
+    ],
+    "eitaa_message_ids": [
+      179988697
+    ],
+    "group_message_ids": [
+      2249
+    ],
+    "content_hash": "a1e080e85cc64d6705b485bf482b24317807782e1375bc913b4ebbf1c5277a37",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T09:46:30.369490+00:00",
+    "telegram_message_id": 2497,
+    "eitaa_last_sent_at": "2026-11-04T09:46:31.621589+00:00",
+    "eitaa_message_id": 179988697,
+    "group_last_sent_at": "2026-11-04T09:46:33.218550+00:00",
+    "group_message_id": 2249,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T09:46:33.254670+00:00"
   }
 }
