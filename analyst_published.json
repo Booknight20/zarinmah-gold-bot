@@ -25016,5 +25016,71 @@
     "group_sent_at": "2026-11-04T08:46:31.939682+03:30",
     "group_message_id": 2211,
     "published_at": "2026-11-04T08:46:32.046471+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26015": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "بازارهای جهانی به استقبال دموکرات‌ها رفتن .",
+      "summary": "بازارهای جهانی به استقبال دموکرات‌ها رفتن .\n\nانس رفت بالای ۴۰۰۰ دلار نقره ۵۱ دلار و نفت هم کمی کاهش پیدا کرد.\nبازارهای جهانی احتمال کاهش تنش رو با پیروزی دموکرات‌ها میبینن.\n\n @payamelyaskordi ✅",
+      "full_text": "بازارهای جهانی به استقبال دموکرات‌ها رفتن .\n\nانس رفت بالای ۴۰۰۰ دلار نقره ۵۱ دلار و نفت هم کمی کاهش پیدا کرد.\nبازارهای جهانی احتمال کاهش تنش رو با پیروزی دموکرات‌ها میبینن.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26015",
+      "analysis_score": 13,
+      "market_matches": [
+        "دلار",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "احتمال",
+        "کاهش"
+      ],
+      "market_groups": [
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 193,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T10:18:17.400941+03:30"
+    },
+    "content_signature": "216b72baf68df4ec4429968b070e266193363b95be18706a7bcec7e3dd6312c1",
+    "first_seen_at": "2026-11-04T10:18:39.967343+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2469
+    ],
+    "telegram_last_success_at": "2026-11-04T10:18:40.391715+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T10:18:40.418122+03:30",
+    "telegram_message_id": 2469,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179950019
+    ],
+    "eitaa_last_success_at": "2026-11-04T10:18:41.990795+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T10:18:42.016308+03:30",
+    "eitaa_message_id": 179950019,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2221
+    ],
+    "group_last_success_at": "2026-11-04T10:18:42.552483+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T10:18:42.578141+03:30",
+    "group_message_id": 2221,
+    "published_at": "2026-11-04T10:18:42.603466+03:30"
   }
 }

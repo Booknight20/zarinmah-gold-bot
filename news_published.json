@@ -30134,5 +30134,101 @@
     "group_message_id": 2216,
     "fully_published": true,
     "last_checked_at": "2026-11-04T06:14:56.414511+00:00"
+  },
+  "271149de43d864cab21cddb8ec3a72aa06652c7760dd336711b45a444d8cfd74": {
+    "title": "هکرهای بایننس با مصاحبه شغلی ساختگی به این صرافی نفوذ کردند",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081308541/%D9%87%DA%A9%D8%B1%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%A8%D8%A7-%D9%85%D8%B5%D8%A7%D8%AD%D8%A8%D9%87-%D8%B4%D8%BA%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%DA%AF%DB%8C-%D8%A8%D9%87-%D8%A7%DB%8C%D9%86-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D9%86%D9%81%D9%88%D8%B0-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF",
+    "telegram_message_ids": [
+      2465
+    ],
+    "eitaa_message_ids": [
+      179949981
+    ],
+    "group_message_ids": [
+      2217
+    ],
+    "content_hash": "ce4a602f9a1510b0a84a254a6f73cd779b692b69321604f7fd77ac9f98e63464",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T06:48:21.455095+00:00",
+    "telegram_message_id": 2465,
+    "eitaa_last_sent_at": "2026-11-04T06:48:22.972386+00:00",
+    "eitaa_message_id": 179949981,
+    "group_last_sent_at": "2026-11-04T06:48:24.676955+00:00",
+    "group_message_id": 2217,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T06:48:24.724226+00:00"
+  },
+  "93c5c6f3657d97891bc144eb42bd96a1d57f7f166bf754b38004638d3476f284": {
+    "title": "رشد ۴۶ هزار واحدی شاخص بورس امروز ۱۳ آبان ۱۴۰۵ / شاخص فرابورس ۱۱۶ واحد بالا رفت",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/live/2297384/%D8%B1%D8%B4%D8%AF-%DB%B4%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%81%D8%B1%D8%A7%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      2466
+    ],
+    "eitaa_message_ids": [
+      179949990
+    ],
+    "group_message_ids": [
+      2218
+    ],
+    "content_hash": "09dab5e41681e59fc9cd4180d3d14441668b6bdb1923ce1a74fda426ea357c7c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T06:48:26.470039+00:00",
+    "telegram_message_id": 2466,
+    "eitaa_last_sent_at": "2026-11-04T06:48:27.899797+00:00",
+    "eitaa_message_id": 179949990,
+    "group_last_sent_at": "2026-11-04T06:48:29.601538+00:00",
+    "group_message_id": 2218,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T06:48:29.648703+00:00"
+  },
+  "e7f69c89b5a15c0089c6426e4370378bd399fc62a3085f32b9ca28084b007bb0:rev:66f3bf400251e6a2": {
+    "title": "گزارش بازار سرمایه امروز ۱۲ آبان ۱۴۰۵/ شاخص کل بورس ۱۷۵ هزار واحد رشد کرد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/live/2296888/%D8%B5%D8%B9%D9%88%D8%AF-%D9%BE%D8%B1%D9%82%D8%AF%D8%B1%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%DB%B1%DB%B7%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF",
+    "telegram_message_ids": [
+      2467
+    ],
+    "eitaa_message_ids": [
+      179950005
+    ],
+    "group_message_ids": [
+      2219
+    ],
+    "content_hash": "66f3bf400251e6a2a4aa777595ccd8d5e73c3cd6821aa292ae6580d06c7ed591",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T06:48:31.377968+00:00",
+    "telegram_message_id": 2467,
+    "eitaa_last_sent_at": "2026-11-04T06:48:32.967072+00:00",
+    "eitaa_message_id": 179950005,
+    "group_last_sent_at": "2026-11-04T06:48:34.723568+00:00",
+    "group_message_id": 2219,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T06:48:34.770641+00:00"
+  },
+  "77c177df823a96349d56a9659b104d04279f3bf9c80451fdeae99a3033fc46e4": {
+    "title": "زلزله انتخاباتی آمریکا در بازارهای جهانی؛ بورس ها عقب نشستند",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1850411/%D8%B2%D9%84%D8%B2%D9%84%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%A7-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%D8%B3%D8%AA%D9%86%D8%AF",
+    "telegram_message_ids": [
+      2468
+    ],
+    "eitaa_message_ids": [
+      179950012
+    ],
+    "group_message_ids": [
+      2220
+    ],
+    "content_hash": "7247e93ddaafcc1c269fbce31767bceefbfa61055a12a6cd8574f60c394e5e0d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-04T06:48:36.499426+00:00",
+    "telegram_message_id": 2468,
+    "eitaa_last_sent_at": "2026-11-04T06:48:37.965324+00:00",
+    "eitaa_message_id": 179950012,
+    "group_last_sent_at": "2026-11-04T06:48:39.700510+00:00",
+    "group_message_id": 2220,
+    "fully_published": true,
+    "last_checked_at": "2026-11-04T06:48:39.748040+00:00"
   }
 }

@@ -77,6 +77,61 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "گزارش بازار سرمایه امروز ۱۲ آبان ۱۴۰۵/ شاخص کل بورس ۱۷۵ هزار واحد رشد کرد",
+    "link": "https://www.khabaronline.ir/live/2296888/%D8%B5%D8%B9%D9%88%D8%AF-%D9%BE%D8%B1%D9%82%D8%AF%D8%B1%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%DB%B1%DB%B7%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF",
+    "summary": "بازار سرمایه در پایان معاملات امروز سه شنبه ۱۲ آبان ۱۴۰۵ با برتری محسوس تقاضا همراه شد؛ شاخص کل بورس با رشد ۱۷۵ هزار و ۱۷۹ واحدی به ۷ میلیون و ۸۲۴ هزار واحد رسید و ۴ هزار و ۵۴۹ میلیارد تومان پول حقیقی وارد سهام و صندوق های سهامی شد.",
+    "published": "Tue, 03 Nov 2026 11:15:00 GMT",
+    "collected_at": "2026-11-04T10:17:46.503523+03:30",
+    "filter_market_score": 38,
+    "market_score": 38,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "شاخص کل بورس",
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "شاخص کل بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "سهام",
+        "شاخص کل بورس"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل",
+        "سهام",
+        "شاخص کل بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد",
+      "گزارش",
+      "معاملات",
+      "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "تغییر جهت بورس زیر سایه نقدینگی؛ طلا و نقره در مسیرهای متفاوت +فیلم",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306093-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AC%D9%87%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B2%DB%8C%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D9%81%DB%8C%D9%84%D9%85",
@@ -299,6 +354,58 @@
     "signal_matches": [
       "کاهش",
       "قیمت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "رشد ۴۶ هزار واحدی شاخص بورس امروز ۱۳ آبان ۱۴۰۵ / شاخص فرابورس ۱۱۶ واحد بالا رفت",
+    "link": "https://www.khabaronline.ir/live/2297384/%D8%B1%D8%B4%D8%AF-%DB%B4%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%81%D8%B1%D8%A7%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "شاخص کل بورس تهران در معاملات ساعت ۹:۵۴ چهارشنبه ۱۳ آبان ۱۴۰۵ با رشد ۴۶ هزار و ۶۳ واحدی به ۷ میلیون و ۸۷۰ هزار واحد رسید؛ شاخص کل فرابورس نیز ۱۱۶ واحد افزایش یافت و به ۶ هزار و ۸۳۵ واحد رسید.",
+    "published": "Wed, 04 Nov 2026 06:40:00 GMT",
+    "collected_at": "2026-11-04T10:17:46.503146+03:30",
+    "filter_market_score": 31,
+    "market_score": 31,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "فرابورس",
+        "شاخص بورس",
+        "شاخص کل",
+        "شاخص کل بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "فرابورس",
+        "شاخص بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "فرابورس",
+        "شاخص کل بورس"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "فرابورس",
+        "شاخص بورس",
+        "شاخص کل بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد",
+      "افزایش",
       "معاملات"
     ],
     "filter_reason": "relevant_market_news",
@@ -1763,47 +1870,6 @@
   },
   {
     "source": "مهر",
-    "title": "ابهام در نرخ خوراک پالایشگاه ها؛ سازمان بورس پیگیر اصلاح دستورالعمل",
-    "link": "https://www.mehrnews.com/news/6998406/%D8%A7%D8%A8%D9%87%D8%A7%D9%85-%D8%AF%D8%B1-%D9%86%D8%B1%D8%AE-%D8%AE%D9%88%D8%B1%D8%A7%DA%A9-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%84%D8%B9%D9%85%D9%84",
-    "summary": "سازمان بورس به دلیل تفاوت سود پالایشگاه ها در دو روش محاسبه نرخ خوراک، پیگیری اصلاح دستورالعمل جدید قیمت گذاری نفت خام و فرآورده های نفتی را آغاز کرده است.",
-    "published": "Tue, 03 Nov 2026 07:42:08 GMT",
-    "collected_at": "2026-11-03T11:17:46.117493+03:30",
-    "filter_market_score": 15,
-    "market_score": 15,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "نرخ",
-      "قیمت",
-      "سود"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
     "title": "چالش ارز گریبانگیر رادیولوژی هم شده است",
     "link": "https://www.mehrnews.com/news/6998448/%DA%86%D8%A7%D9%84%D8%B4-%D8%A7%D8%B1%D8%B2-%DA%AF%D8%B1%DB%8C%D8%A8%D8%A7%D9%86%DA%AF%DB%8C%D8%B1-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%D9%84%D9%88%DA%98%DB%8C-%D9%87%D9%85-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
     "summary": "دبیر کنگره رادیولوژی ایران، نسبت به تبعات چالش های نرخ ارز که گریبانگیر رشته رادیولوژی شده است، هشدار داد.",
@@ -2230,44 +2296,6 @@
     "signal_matches": [
       "روند",
       "اعلام کرد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "قیمت سکه پارسیان امروز ۱۲ آبان ۱۴۰۵",
-    "link": "https://tabnak.ir/fa/news/100000282/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-03b9466fbe234a549eb7d3d4",
-    "summary": "قیمت سکه پارسیان امروز سه شنبه ۱۲ آبان ۱۴۰۵ اعلام شد و قیمت ها در انواع سوت با عیار ۷۵۰ را در جدول زیر مشاهده کنید",
-    "published": "Tue, 03 Nov 2026 07:14:53 +0000",
-    "collected_at": "2026-11-03T10:45:30.756812+03:30",
-    "filter_market_score": 12,
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "سکه پارسیان"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه پارسیان"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "سکه پارسیان"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "سکه پارسیان"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2767,6 +2795,39 @@
     "filter_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "زلزله انتخاباتی آمریکا در بازارهای جهانی؛ بورس ها عقب نشستند",
+    "link": "https://www.mashreghnews.ir/news/1850411/%D8%B2%D9%84%D8%B2%D9%84%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%A7-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%D8%B3%D8%AA%D9%86%D8%AF",
+    "summary": "پیروزی دموکرات ها در انتخابات میان دوره ای آمریکا و تغییر موازنه قدرت در کنگره، موجی از نگرانی را در بازارهای مالی جهان برانگیخت.",
+    "published": "Wed, 04 Nov 2026 06:22:26 GMT",
+    "collected_at": "2026-11-04T10:17:56.825618+03:30",
+    "filter_market_score": 7,
+    "market_score": 7,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "تغییر"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "خزان سرمایه گذاری در فصل بهار",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-100/4306148-%D8%AE%D8%B2%D8%A7%D9%86-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B5%D9%84-%D8%A8%D9%87%D8%A7%D8%B1",
@@ -2905,41 +2966,6 @@
     "filter_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "صادرات ۱۵ میلیون تنی از گمرکات هرمزگان",
-    "link": "https://www.isna.ir/news/1405081207736/%D9%86%D8%A7%D8%B8%D8%B1-%DA%AF%D9%85%D8%B1%DA%A9%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%86%DB%8C-%D8%A7%D8%B2-%DA%AF%D9%85%D8%B1%DA%A9%D8%A7%D8%AA-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86",
-    "summary": "ناظر گمرکات استان هرمزگان از صادرات بیش از ۱۵ میلیون تن کالا به ارزش نزدیک به ۵ میلیارد دلار از گمرکات استان طی هفت ماهه سال ۱۴۰۵ خبر داد.",
-    "published": "Tue, 03 Nov 2026 07:38:37 GMT",
-    "collected_at": "2026-11-03T11:17:32.238577+03:30",
-    "filter_market_score": 7,
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صادرات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "مهر",
     "title": "وعده مدال طلا نداده بودیم؛ ریکرو یک قدم تا مدال آسیایی فاصله داشت",
     "link": "https://www.mehrnews.com/news/6998700/%D9%88%D8%B9%D8%AF%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%86%D8%AF%D8%A7%D8%AF%D9%87-%D8%A8%D9%88%D8%AF%DB%8C%D9%85-%D8%B1%DB%8C%DA%A9%D8%B1%D9%88-%DB%8C%DA%A9-%D9%82%D8%AF%D9%85-%D8%AA%D8%A7-%D9%85%D8%AF%D8%A7%D9%84-%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%81%D8%A7%D8%B5%D9%84%D9%87",
@@ -3033,6 +3059,39 @@
     "filter_applied": true
   },
   {
+    "source": "ایسنا",
+    "title": "هکرهای بایننس با مصاحبه شغلی ساختگی به این صرافی نفوذ کردند",
+    "link": "https://www.isna.ir/news/1405081308541/%D9%87%DA%A9%D8%B1%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%DB%8C%D9%86%D9%86%D8%B3-%D8%A8%D8%A7-%D9%85%D8%B5%D8%A7%D8%AD%D8%A8%D9%87-%D8%B4%D8%BA%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%DA%AF%DB%8C-%D8%A8%D9%87-%D8%A7%DB%8C%D9%86-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D9%86%D9%81%D9%88%D8%B0-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF",
+    "summary": "بایننس، روز سه شنبه، اعلام کرد که هکرها با ترتیب دادن یک مصاحبه شغلی جعلی، به یکی از رایانه های این صرافی و یک ابزار داخلی مبتنی بر هوش مصنوعی نفوذ کردند و از این طریق، کنترل کیف پول های شرکت را به دست گرفتند و ۶.۳ میلیارد دلار رمزارز را به سرقت بردند.",
+    "published": "Wed, 04 Nov 2026 06:42:54 GMT",
+    "collected_at": "2026-11-04T10:17:17.744484+03:30",
+    "filter_market_score": 5,
+    "market_score": 5,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "اعلام کرد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "واکنش بنزین آمریکا به پایان انتخابات میان دوره ای/ قیمت ها افزایش یافت",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306210-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%DB%8C%D8%A7%D9%86-%D8%AF%D9%88%D8%B1%D9%87-%D8%A7%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
@@ -3095,39 +3154,6 @@
     "major_event_matches": [],
     "signal_matches": [
       "تصمیم"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "جهان مبهوت اصالت ملایر؛ تولید ۶۵ درصد مبلمان کشور در پایتخت جهانی منبت",
-    "link": "https://www.mehrnews.com/news/6998230/%D8%AC%D9%87%D8%A7%D9%86-%D9%85%D8%A8%D9%87%D9%88%D8%AA-%D8%A7%D8%B5%D8%A7%D9%84%D8%AA-%D9%85%D9%84%D8%A7%DB%8C%D8%B1-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%DB%B6%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%85%D8%A8%D9%84%D9%85%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-    "summary": "همدان-در میانه خاک ایران شهری است که در آن سکوت درختان با ضربات ظریف مُغار و تیشه های هنرمندان بر پیکره چوب به هنر- صنعتی ارز آور و اشتغالزا تبدیل می شود.",
-    "published": "Tue, 03 Nov 2026 07:46:31 GMT",
-    "collected_at": "2026-11-03T11:17:46.117372+03:30",
-    "filter_market_score": 5,
-    "market_score": 5,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "تولید"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
