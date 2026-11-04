@@ -25151,5 +25151,66 @@
     "group_sent_at": "2026-11-04T11:45:15.437802+03:30",
     "group_message_id": 2239,
     "published_at": "2026-11-04T11:45:15.452503+03:30"
+  },
+  "https://t.me/drarashamini/7323": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "فکر میکنم اینا تو ایران هم رای نمی آوردن. جمهوری خواه ها باید برای مدت زیادی بیخیال سیاست بشن.",
+      "summary": "فکر میکنم اینا تو ایران هم رای نمی آوردن. جمهوری خواه ها باید برای مدت زیادی بیخیال سیاست بشن.\n\nعبدال السید\nرشیده طلیب\nایلهان عمر\nآدام حماوی\nداریالیزا آویلا شوالیه\nعایشه وهاب\nآبر کاواس\nنبیله سید\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "فکر میکنم اینا تو ایران هم رای نمی آوردن. جمهوری خواه ها باید برای مدت زیادی بیخیال سیاست بشن.\n\nعبدال السید\nرشیده طلیب\nایلهان عمر\nآدام حماوی\nداریالیزا آویلا شوالیه\nعایشه وهاب\nآبر کاواس\nنبیله سید\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7323",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا",
+        "ریال"
+      ],
+      "analysis_matches": [],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای توضیح",
+        "دارای استدلال"
+      ],
+      "priority": "medium",
+      "content_length": 319,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-04T12:15:57.404931+03:30"
+    },
+    "content_signature": "6afce09417821a2d83bd0e10c6b774b47e7710df99609418e51ef87c00ec978b",
+    "first_seen_at": "2026-11-04T12:16:18.587770+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2492
+    ],
+    "telegram_last_success_at": "2026-11-04T12:16:19.170758+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-04T12:16:19.195315+03:30",
+    "telegram_message_id": 2492,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      179976953
+    ],
+    "eitaa_last_success_at": "2026-11-04T12:16:19.971684+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-04T12:16:19.993458+03:30",
+    "eitaa_message_id": 179976953,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2244
+    ],
+    "group_last_success_at": "2026-11-04T12:16:20.599772+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-04T12:16:20.620942+03:30",
+    "group_message_id": 2244,
+    "published_at": "2026-11-04T12:16:20.643013+03:30"
   }
 }
