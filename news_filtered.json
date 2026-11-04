@@ -528,56 +528,6 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "بورس سبز شد/ ۳۹۸ صف خرید در مقابل 41 صف فروش",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306025-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B3%D8%A8%D8%B2-%D8%B4%D8%AF-%D8%B5%D9%81-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B5%D9%81-%D9%81%D8%B1%D9%88%D8%B4",
-    "summary": "شاخص کل بورس در پایان معاملات امروز با رشد ۱۷۵ هزار و ۱۷۹ واحدی معادل ۲.۲۹ درصد، به سطح ۷ میلیون و ۸۲۴ هزار واحد رسید.",
-    "published": "Tue, 03 Nov 2026 09:55:46 +0000",
-    "collected_at": "2026-11-03T13:48:17.814988+03:30",
-    "filter_market_score": 28,
-    "market_score": 28,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "صف خرید",
-        "صف فروش",
-        "شاخص کل",
-        "شاخص کل بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "صف خرید",
-        "صف فروش"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص کل بورس"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "صف خرید",
-        "صف فروش",
-        "شاخص کل بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت یورو، دلار و انواع ارزها امروز ۱۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ یورو ۳۰۶ هزار و ۶۷۰ تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2297308/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
@@ -769,52 +719,6 @@
       "جهش",
       "رشد",
       "بازدهی"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۱۲ آبان ۱۴۰۵/ دلار روی قیمت ۲۷۲ هزار و ۵۰۰ تومان قرار گرفت + جدول",
-    "link": "https://www.khabaronline.ir/news/2296954/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D9%88%DB%8C",
-    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۱۲ آبان ۱۴۰۵ اعلام شد. بر این اساس دلار در بازار ۲۷۲ هزار و ۵۰۰ تومان فروخته شد.",
-    "published": "Tue, 03 Nov 2026 09:52:00 GMT",
-    "collected_at": "2026-11-03T13:48:21.335113+03:30",
-    "filter_market_score": 26,
-    "market_score": 26,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -1472,99 +1376,6 @@
     "filter_applied": true
   },
   {
-    "source": "تابناک",
-    "title": "قیمت طلا و سکه امروز 12 آبان/ فرصت برای خرید طلا و سکه در روز اصلاحی!",
-    "link": "https://tabnak.ir/fa/news/100000334/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-12-%D8%A2%D8%A8%D8%A7%D9%86-%D9%81%D8%B1%D8%B5%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD%DB%8C-543870c4abad466dbb94d3e5",
-    "summary": "قیمت طلا و سکه امروز مسیر عجیبی پیدا کرد به طوری که طلا در جهان به مرز ۳۹۰۵ دلار رسیده است اما در بازار داخلی شاهد ریزش سنگین سکه ها و طلا هستیم. آیا این یک سقوط واقعی است یا تله ای برای خریداران؟",
-    "published": "Tue, 03 Nov 2026 10:17:01 +0000",
-    "collected_at": "2026-11-03T13:48:26.211023+03:30",
-    "filter_market_score": 19,
-    "market_score": 19,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "سقوط",
-      "ریزش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "پر سودترین صنایع بورسی کدامند؟",
-    "link": "https://www.isna.ir/news/1405081207958/%D9%BE%D8%B1-%D8%B3%D9%88%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C-%DA%A9%D8%AF%D8%A7%D9%85%D9%86%D8%AF",
-    "summary": "بررسی عملکرد صنایع بورسی در هفت ماه ابتدایی امسال نشان می دهد اگرچه بخش عمده گروه های بازار سهام پس از بازگشایی بورس با رشد قابل توجه شاخص مواجه شدند، اما میزان بازدهی صنایع تفاوت چشمگیری داشته است؛ به طوری که کانی های غیرفلزی، زغال سنگ و دارویی ها در صدر جدول بازدهی قرار گرفتند.",
-    "published": "Tue, 03 Nov 2026 09:55:21 GMT",
-    "collected_at": "2026-11-03T13:45:43.033329+03:30",
-    "filter_market_score": 19,
-    "market_score": 19,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "سهام",
-        "بازار سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "سهام",
-        "بازار سهام"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "بورس",
-        "سهام",
-        "بازار سهام"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "بازدهی",
-      "بازگشایی"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا امروز چهارشنبه ۱۳ آبان ۱۴۰۵ / افزایش قیمت طلا",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306200-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
@@ -1991,6 +1802,45 @@
     "filter_applied": true
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "واکنش بازارها به نتایج انتخابات آمریکا/ دلار به پایین ترین سطح یک ماه اخیر رسید",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306257-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%A8%D9%87-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DB%8C%D9%86-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%DB%8C%DA%A9-%D9%85%D8%A7%D9%87-%D8%A7%D8%AE%DB%8C%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "به دنبال پیروزی دموکرات ها در انتخابات میان دوره ای آمریکا شاخص دلار در معاملات روز چهارشنبه ۴ نوامبر به پایین ترین سطح یک ماه اخیر رسید.",
+    "published": "Wed, 04 Nov 2026 08:54:29 +0000",
+    "collected_at": "2026-11-04T12:45:55.993801+03:30",
+    "filter_market_score": 13,
+    "market_score": 13,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "شاخص دلار"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت سکه امروز ۱۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ نیم سکه ۱۳۸ میلیون و ۱۰۰ هزار تومان به فروش رفت + جدول",
     "link": "https://www.khabaronline.ir/news/2297307/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B3%DB%B8",
@@ -2186,45 +2036,6 @@
       "افزایش",
       "زیان",
       "تولید"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "خرید طلا توسط بانک های مرکزی جهان رکورد زد",
-    "link": "https://www.mehrnews.com/news/6998631/%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D8%AA%D9%88%D8%B3%D8%B7-%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%B2%D8%AF",
-    "summary": "شورای جهانی طلا از افزایش چشمگیر خرید طلا توسط بانک های مرکزی جهان خبر داده است؛ به طوری که میزان خرید این نهادها در سه ماهه سوم سال ۲۰۲۶ به بالاترین سطح از پایان سال ۲۰۲۴ رسیده است.",
-    "published": "Tue, 03 Nov 2026 09:57:43 GMT",
-    "collected_at": "2026-11-03T13:48:08.067485+03:30",
-    "filter_market_score": 13,
-    "market_score": 13,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رکورد",
-      "افزایش",
-      "داده"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3334,6 +3145,37 @@
     "signal_matches": [
       "تصمیم"
     ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "سرمایه گذاری ۲۰ میلیون یورویی در بخش صالح آباد بهار در دست پیگیری است",
+    "link": "https://www.isna.ir/news/1405081308765/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%DB%B2%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%AE%D8%B4-%D8%B5%D8%A7%D9%84%D8%AD-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%A8%D9%87%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C",
+    "summary": "نماینده مردم شهرستان های بهار و کبودراهنگ در مجلس شورای اسلامی با تأکید بر ضرورت رفع محرومیت از بخش صالح آباد و روستاهای تابعه، گفت: اجرای یک پروژه صنعتی بزرگ با سرمایه گذاری اولیه حدود ۲۰ میلیون یورو با استفاده از ظرفیت معدن صبانور در این منطقه در دست پیگیری است.",
+    "published": "Wed, 04 Nov 2026 09:14:44 GMT",
+    "collected_at": "2026-11-04T12:45:36.798138+03:30",
+    "filter_market_score": 4,
+    "market_score": 4,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
