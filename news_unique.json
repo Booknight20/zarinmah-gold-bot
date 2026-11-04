@@ -4996,6 +4996,50 @@
     "duplicate_count": 1
   },
   {
+    "source": "ایسنا",
+    "title": "کنایه عبدل السید به اعلام ترامپ در قطع کمک به اسرائیل",
+    "link": "https://www.isna.ir/news/1405081308360/%DA%A9%D9%86%D8%A7%DB%8C%D9%87-%D8%B9%D8%A8%D8%AF%D9%84-%D8%A7%D9%84%D8%B3%DB%8C%D8%AF-%D8%A8%D9%87-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1-%D9%82%D8%B7%D8%B9-%DA%A9%D9%85%DA%A9-%D8%A8%D9%87-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84",
+    "summary": "«عبدل السید» نامزد حزب دموکرات رقابت های انتخاباتی سنای آمریکا در ایالت میشیگان واکنشی کنایه آمیز به اعلامیه «دونالد ترامپ» رئیس جمهور آمریکا در روز انتخابات میان دوره ای مبنی بر توقف تدریجی میلیاردها دلار کمک به اسرائیل نشان داد.",
+    "published": "Wed, 04 Nov 2026 00:22:27 GMT",
+    "collected_at": "2026-11-04T04:17:28.334327+03:30",
+    "filter_market_score": 4,
+    "market_score": 6,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 4,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "تابناک",
     "title": "استاندار کردستان با نخستین طلاآور پاراآسیایی استان دیدار کرد",
     "link": "https://tabnak.ir/fa/news/100000414/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%D8%A2%D9%88%D8%B1-%D9%BE%D8%A7%D8%B1%D8%A7%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF-ae2cdc9f889547cd8c74626b",
