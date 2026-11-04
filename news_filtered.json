@@ -203,6 +203,65 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "طلا گران شد؛ هر اونس طلا در معاملات آتی ۳۹۵۸ دلار قیمت خورد/ قیمت جدید طلای جهانی امروز ۱۳ آبان ۱۴۰۵",
+    "link": "https://www.khabaronline.ir/news/2297375/%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF-%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B3%DB%B9%DB%B5%DB%B8-%D8%AF%D9%84%D8%A7%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%B1%D8%AF",
+    "summary": "قیمت طلا در معاملات روز چهارشنبه بازار جهانی، تحت تاثیر تضعیف ارزش دلار پس از پیروزی های اولیه دموکرات ها در انتخابات میان دوره ای آمریکا، افزایش یافت؛ به طوری که قیمت هر اونس طلا در بازار معاملات آتی آمریکا برای تحویل در دسامبر نیز با ۰.۵ درصد افزایش، ۳۹۵۸ دلار معامله شد.",
+    "published": "Wed, 04 Nov 2026 07:08:47 GMT",
+    "collected_at": "2026-11-04T10:47:45.717629+03:30",
+    "filter_market_score": 36,
+    "market_score": 36,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "معاملات",
+      "افزایش",
+      "معامله"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۱۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۱۸عیار ۲۵ میلیون و ۴۰۲ هزار تومان قیمت خورد + جدول",
     "link": "https://www.khabaronline.ir/news/2297273/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
     "summary": "قیمت طلا در بازار تهران امروز ۱۳ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۵ میلیون و ۴۰۲ هزار تومان قیمت خورد.",
@@ -298,63 +357,6 @@
     "signal_matches": [
       "قیمت",
       "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "کاهش قیمت طلا در آستانه انتخابات آمریکا؛ اونس طلا ۳ هزار و۹۲۶ دلار شد/ قیمت جدید طلای جهانی امروز ۱۲ ابان ۱۴۰۵",
-    "link": "https://www.khabaronline.ir/news/2296859/%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%DB%B9%DB%B2%DB%B6",
-    "summary": "قیمت طلا در معاملات روز سه شنبه بازار جهانی، در آستانه انتخابات میان دوره ای آمریکا اندکی کاهش یافت و به ۳۹۲۶ دلار رسید.",
-    "published": "Tue, 03 Nov 2026 07:24:46 GMT",
-    "collected_at": "2026-11-03T11:18:05.393471+03:30",
-    "filter_market_score": 33,
-    "market_score": 33,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "معاملات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -1109,53 +1111,6 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "گزارش بازار بورس امروز ۱۱ آبان ۱۴۰۵ / شاخص کل فقط ۵ هزار واحد افت کرد / ۶۴۶ نماد سبزپوش شدند",
-    "link": "https://www.khabaronline.ir/live/2296445/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%DB%B4%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF",
-    "summary": "بورس تهران در پایان معاملات امروز، پس از افت حدود ۶۵ هزار واحدی شاخص کل در ابتدای بازار، بخش عمده ریزش را جبران کرد؛ با این حال خروج بیش از ۱.۷ همت پول حقیقی نشان می دهد بازگشت تقاضا هنوز به معنای تغییر پایدار روند بازار نیست.",
-    "published": "Mon, 02 Nov 2026 11:05:00 GMT",
-    "collected_at": "2026-11-03T11:18:05.393900+03:30",
-    "filter_market_score": 22,
-    "market_score": 22,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افت",
-      "گزارش",
-      "ریزش",
-      "معاملات",
-      "تقاضا",
-      "تغییر",
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "سیگنال جدید به بازارها",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4306097-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7",
@@ -1301,6 +1256,54 @@
       "نوسان",
       "نرخ",
       "تغییر"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مشرق",
+    "title": "واکنش طلا به نتایج انتخابات آمریکا",
+    "link": "https://www.mashreghnews.ir/news/1850420/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+    "summary": "با وجود افت سنگین هفته گذشته، طلا و نقره با بازگشت تقاضا در بازار جهانی صعودی شدند و طلا بار دیگر به مرز ۴ هزار دلار نزدیک شد.",
+    "published": "Wed, 04 Nov 2026 06:53:09 GMT",
+    "collected_at": "2026-11-04T10:47:52.588187+03:30",
+    "filter_market_score": 19,
+    "market_score": 19,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افت",
+      "صعود",
+      "تقاضا"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -1661,6 +1664,48 @@
     "filter_applied": true
   },
   {
+    "source": "ایسنا",
+    "title": "عرضه بلوک ۵۳.۰۹ درصدی «شپترو» در فرابورس؛ ارزش پایه بیش از ۴.۱ همت",
+    "link": "https://www.isna.ir/news/1405081308598/%D8%B9%D8%B1%D8%B6%D9%87-%D8%A8%D9%84%D9%88%DA%A9-%DB%B5%DB%B3-%DB%B0%DB%B9-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%B4%D9%BE%D8%AA%D8%B1%D9%88-%D8%AF%D8%B1-%D9%81%D8%B1%D8%A7%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D8%B1%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B4-%DB%B1",
+    "summary": "شرکت سرمایه گذاری نفت، گاز و پتروشیمی تأمین (تاپیکو) در راستای اصلاح پرتفوی خود، بلوک کنترلی ۵۳.۰۹ درصدی سهام پتروشیمی آبادان را روز ۲۶ آبان ماه در فرابورس عرضه می کند.",
+    "published": "Wed, 04 Nov 2026 07:14:30 GMT",
+    "collected_at": "2026-11-04T10:47:15.981458+03:30",
+    "filter_market_score": 16,
+    "market_score": 16,
+    "market_matches": {
+      "stock": [
+        "فرابورس",
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "فرابورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "فرابورس",
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "فرابورس",
+        "سهام"
+      ]
+    },
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "عرضه"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مهر",
     "title": "نقشه راه نجات ذخایر ارزی؛ سد محکم برابر واردات لوکس و رانت خواری",
     "link": "https://www.mehrnews.com/news/6999407/%D9%86%D9%82%D8%B4%D9%87-%D8%B1%D8%A7%D9%87-%D9%86%D8%AC%D8%A7%D8%AA-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B3%D8%AF-%D9%85%D8%AD%DA%A9%D9%85-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%84%D9%88%DA%A9%D8%B3-%D9%88-%D8%B1%D8%A7%D9%86%D8%AA-%D8%AE%D9%88%D8%A7%D8%B1%DB%8C",
@@ -1823,87 +1868,6 @@
     ],
     "signal_matches": [
       "واردات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا ۱۸ عیار امروز سه شنبه ۱۲ آبان ۱۴۰۵/ کاهش قیمت طلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305977-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
-    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت گرم طلا ۱۸ عیار با کاهش، به 25 میلیون و 516 هزار تومان رسید.",
-    "published": "Tue, 03 Nov 2026 07:41:07 +0000",
-    "collected_at": "2026-11-03T11:17:58.718959+03:30",
-    "filter_market_score": 15,
-    "market_score": 15,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "چالش ارز گریبانگیر رادیولوژی هم شده است",
-    "link": "https://www.mehrnews.com/news/6998448/%DA%86%D8%A7%D9%84%D8%B4-%D8%A7%D8%B1%D8%B2-%DA%AF%D8%B1%DB%8C%D8%A8%D8%A7%D9%86%DA%AF%DB%8C%D8%B1-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%D9%84%D9%88%DA%98%DB%8C-%D9%87%D9%85-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
-    "summary": "دبیر کنگره رادیولوژی ایران، نسبت به تبعات چالش های نرخ ارز که گریبانگیر رشته رادیولوژی شده است، هشدار داد.",
-    "published": "Tue, 03 Nov 2026 08:15:53 GMT",
-    "collected_at": "2026-11-03T11:50:05.670722+03:30",
-    "filter_market_score": 14,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "نرخ"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2187,45 +2151,6 @@
     "filter_applied": true
   },
   {
-    "source": "مشرق",
-    "title": "کاهش قیمت طلا در آستانه انتخابات آمریکا",
-    "link": "https://www.mashreghnews.ir/news/1850160/%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
-    "summary": "قیمت طلا در معاملات روز سه شنبه بازار جهانی، در آستانه انتخابات میان دوره ای آمریکا اندکی کاهش یافت.",
-    "published": "Tue, 03 Nov 2026 07:18:06 GMT",
-    "collected_at": "2026-11-03T11:18:15.233609+03:30",
-    "filter_market_score": 13,
-    "market_score": 13,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "سخنگوی کمیسیون اقتصادی: عملکرد صندوق تثبیت بازار سرمایه شفاف نیست",
     "link": "https://www.isna.ir/news/1405081208027/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%AA%D8%AB%D8%A8%DB%8C%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%B4%D9%81%D8%A7%D9%81",
@@ -2301,6 +2226,44 @@
     "filter_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "دلار حواله امروز ۱۸۸ هزار و ۶۶۸ تومان شد",
+    "link": "https://www.mashreghnews.ir/news/1850430/%D8%AF%D9%84%D8%A7%D8%B1-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B8%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B6%DB%B6%DB%B8-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B4%D8%AF",
+    "summary": "قیمت فروش حواله دلار با افزایش ۳۷۷ تومانی به ۱۸۸ هزار و ۶۶۸ تومان رسید.",
+    "published": "Wed, 04 Nov 2026 07:07:01 GMT",
+    "collected_at": "2026-11-04T10:47:52.588061+03:30",
+    "filter_market_score": 11,
+    "market_score": 11,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "تصمیم ناگهانی ترامپ تل آویو را غافلگیر کرد / ۸ میلیارد دلار کمک نظامی اسرائیل به خطر افتاد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306190-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%86%D8%A7%DA%AF%D9%87%D8%A7%D9%86%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88-%D8%B1%D8%A7-%D8%BA%D8%A7%D9%81%D9%84%DA%AF%DB%8C%D8%B1-%DA%A9%D8%B1%D8%AF-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DA%A9%D9%85%DA%A9-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D9%87-%D8%AE%D8%B7%D8%B1-%D8%A7%D9%81%D8%AA%D8%A7%D8%AF",
@@ -2370,6 +2333,42 @@
       "تولید",
       "صادرات",
       "کاهش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "افزایش ۲۵ درصدی تولید زعفران در آزادشهر/ پیش بینی برداشت ۳.۷ تن طلای سرخ",
+    "link": "https://www.isna.ir/news/1405081308594/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B2%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B4%D8%AA-%DB%B3-%DB%B7",
+    "summary": "مدیر جهاد کشاورزی آزادشهر از پیش بینی برداشت ۳ تن و ۷۰۰ کیلوگرم زعفران خشک از مزارع این شهرستان خبر داد و گفت: میزان تولید زعفران آزادشهر در سال جاری نسبت به سال گذشته ۲۵ درصد افزایش خواهد داشت.",
+    "published": "Wed, 04 Nov 2026 07:13:45 GMT",
+    "collected_at": "2026-11-04T10:47:15.981520+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "پیش‌بینی",
+      "پیش بینی",
+      "تولید"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2962,6 +2961,37 @@
     "signal_matches": [
       "اعلام کرد"
     ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "روانبخش: دموکرات ها از سرنوشت ترامپ عبرت بگیرند؛ هیمنه شیطان درهم شکست",
+    "link": "https://www.mehrnews.com/news/6999702/%D8%B1%D9%88%D8%A7%D9%86%D8%A8%D8%AE%D8%B4-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%D8%A7%D8%B2-%D8%B3%D8%B1%D9%86%D9%88%D8%B4%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B9%D8%A8%D8%B1%D8%AA-%D8%A8%DA%AF%DB%8C%D8%B1%D9%86%D8%AF-%D9%87%DB%8C%D9%85%D9%86%D9%87-%D8%B4%DB%8C%D8%B7%D8%A7%D9%86",
+    "summary": "نماینده مردم قم در مجلس خطاب به دموکرات ها گفت: آنها بدانند در صورتی که پس از دستیابی به قدرت، سیاست های جمهوری خواهان و ترامپ را دنبال کنند، به سرنوشتی مشابه آنها گرفتار خواهند شد.",
+    "published": "Wed, 04 Nov 2026 07:10:16 GMT",
+    "collected_at": "2026-11-04T10:47:29.553028+03:30",
+    "filter_market_score": 6,
+    "market_score": 6,
+    "market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
