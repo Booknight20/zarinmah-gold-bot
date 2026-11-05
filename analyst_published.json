@@ -26291,5 +26291,75 @@
     "group_sent_at": "2026-11-04T22:38:36.146891+03:30",
     "group_message_id": 2288,
     "published_at": "2026-11-04T22:38:36.173159+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26050": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "انس طلا به بالای ۴۱۰۰ دلار برگشت ، نقره ۵۳ دلار بیت کوین هم ۸۰ هزار دلار ، نفت هم در مسیر ریزش هست .",
+      "summary": "انس طلا به بالای ۴۱۰۰ دلار برگشت ، نقره ۵۳ دلار بیت کوین هم ۸۰ هزار دلار ، نفت هم در مسیر ریزش هست .\n\n نکته:دلیل جذابیت طلا در داخل همینه دقیقا ، هر بار دلار و یا انس ریزش میکنه یا بلعکس ، اون یکی جبرانش میکنه! \n\n @payamelyaskordi ✅",
+      "full_text": "انس طلا به بالای ۴۱۰۰ دلار برگشت ، نقره ۵۳ دلار بیت کوین هم ۸۰ هزار دلار ، نفت هم در مسیر ریزش هست .\n\n نکته:دلیل جذابیت طلا در داخل همینه دقیقا ، هر بار دلار و یا انس ریزش میکنه یا بلعکس ، اون یکی جبرانش میکنه! \n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26050",
+      "analysis_score": 19,
+      "market_matches": [
+        "طلا",
+        "دلار",
+        "نفت",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "مسیر",
+        "ریزش"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 232,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-05T10:40:42.443086+03:30"
+    },
+    "content_signature": "a4d5c6497d1e75e3629f302a0751f58416b9a8ff4a9e15bb4e1dadb255794734",
+    "first_seen_at": "2026-11-05T10:41:57.303448+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2561
+    ],
+    "telegram_last_success_at": "2026-11-05T10:41:57.708103+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-05T10:41:57.725320+03:30",
+    "telegram_message_id": 2561,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180141934
+    ],
+    "eitaa_last_success_at": "2026-11-05T10:41:58.398145+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-05T10:41:58.415059+03:30",
+    "eitaa_message_id": 180141934,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2313
+    ],
+    "group_last_success_at": "2026-11-05T10:41:58.867398+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-05T10:41:58.884872+03:30",
+    "group_message_id": 2313,
+    "published_at": "2026-11-05T10:41:58.901719+03:30"
   }
 }

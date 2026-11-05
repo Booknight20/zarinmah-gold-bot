@@ -337,6 +337,72 @@
     "ranking_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت پوند، دلار، یورو و انواع ارزها امروز ۱۴ آبان ۱۴۰۵ در زمان بازگشایی بازار/ پوند ۳۶۱ هزار و ۹۲۰ تومان قیمت پیدا کرد + جدول",
+    "link": "https://www.khabaronline.ir/news/2297822/%D9%82%DB%8C%D9%85%D8%AA-%D9%BE%D9%88%D9%86%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86",
+    "summary": "قیمت پوند، دلار، یورو و سایر ارزها امروز ۱۴ آبان ۱۴۰۵ اعلام شد. بر این اساس دلار ۲۶۸ هزار و۷۱۰ تومان و قیمت پوند ۳۶۱ هزار و ۹۲۰ تومان شد.",
+    "published": "Thu, 05 Nov 2026 05:44:00 GMT",
+    "collected_at": "2026-11-05T10:40:14.891392+03:30",
+    "filter_market_score": 34,
+    "market_score": 37,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو",
+        "پوند"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو",
+        "پوند"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو",
+        "پوند"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "بازگشایی",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو",
+      "پوند"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "تغییر جهت بورس زیر سایه نقدینگی؛ طلا و نقره در مسیرهای متفاوت +فیلم",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306093-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AC%D9%87%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B2%DB%8C%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D9%81%DB%8C%D9%84%D9%85",
@@ -643,6 +709,75 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "افزایش قیمت تمامی ارزها در مرکز مبادله؛ دلار ۱۸۹ هزار تومان شد",
+    "link": "https://www.mehrnews.com/news/7000936/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AA%D9%85%D8%A7%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B1%DB%B8%DB%B9-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B4%D8%AF",
+    "summary": "قیمت فروش حواله انواع ارز در مرکز مبادله ارز و طلای ایران امروز پنجشنبه ۱۴ آبان ۱۴۰۵ در مقایسه با روز گذشته با افزایش همراه شد.",
+    "published": "Thu, 05 Nov 2026 06:58:18 GMT",
+    "collected_at": "2026-11-05T10:39:57.274789+03:30",
+    "filter_market_score": 30,
+    "market_score": 34,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "مرکز مبادله"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "مرکز مبادله"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "ارز",
+        "مرکز مبادله"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "مرکز مبادله"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -1467,6 +1602,67 @@
     "ranking_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۱۴ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۲۴عیار ۳۴ میلیون و ۵۹۹ هزار تومان شد+ جدول",
+    "link": "https://www.khabaronline.ir/news/2297820/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
+    "summary": "قیمت طلا در بازار تهران امروز ۱۴ آبان ۱۴۰۵ اعلام و هر گرم طلای ۲۴ عیار ۳۴ میلیون و ۵۹۹ هزار تومان شد.",
+    "published": "Thu, 05 Nov 2026 05:03:27 GMT",
+    "collected_at": "2026-11-05T10:40:14.891410+03:30",
+    "filter_market_score": 33,
+    "market_score": 30,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۲۴ عیار",
+        "طلای 24 عیار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۲۴ عیار",
+        "طلای 24 عیار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۲۴ عیار",
+        "طلای 24 عیار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "بازگشایی"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "طلای ۲۴ عیار",
+      "طلای 24 عیار"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "تابناک",
     "title": "رشد ۸۸ هزار واحدی شاخص بورس / ارزش دلاری بازار از ۱۰۰ میلیارد دلار گذشت",
     "link": "https://tabnak.ir/fa/news/100000544/%D8%B1%D8%B4%D8%AF-%DB%B8%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B2-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DA%AF%D8%B0%D8%B4%D8%AA-f98939c8afe040408c3bd808",
@@ -2094,6 +2290,69 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "افزایش قیمت جهانی طلا به بالاترین سطح دو هفته اخیر",
+    "link": "https://www.mehrnews.com/news/7000912/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D8%AF%D9%88-%D9%87%D9%81%D8%AA%D9%87-%D8%A7%D8%AE%DB%8C%D8%B1",
+    "summary": "قیمت طلا در معاملات روز پنج شنبه با افزایش نزدیک به ۲ درصدی به بالاترین سطح خود در دو هفته گذشته رسید و اونس از ۴۱۳۴ دلار عبور کرد.",
+    "published": "Thu, 05 Nov 2026 06:31:37 GMT",
+    "collected_at": "2026-11-05T10:39:57.274915+03:30",
+    "filter_market_score": 19,
+    "market_score": 25,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مشرق",
     "title": "واکنش طلا به نتایج انتخابات آمریکا",
     "link": "https://www.mashreghnews.ir/news/1850420/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
@@ -2130,6 +2389,69 @@
       "افت",
       "صعود",
       "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا امروز پنجشنبه ۱۴ آبان ۱۴۰۵ / افزایش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306425-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "قیمت طلا امروز با افزایش 72 دلاری نسبت به روز گذشته، 4093 (چهار هزار و نود و سه) دلار نرخ گذاری شد.",
+    "published": "Thu, 05 Nov 2026 04:54:53 +0000",
+    "collected_at": "2026-11-05T10:40:04.395641+03:30",
+    "filter_market_score": 18,
+    "market_score": 25,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "نرخ"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
@@ -2261,6 +2583,64 @@
     "gold_matches": [
       "سکه",
       "نیم سکه"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت سکه امروز ۱۴ آبان ۱۴۰۵ در زمان بازگشایی بازار/ ربع سکه ۷۵ میلیون و ۳۰۰ هزار تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2297821/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%DB%B7%DB%B5",
+    "summary": "قیمت سکه در بازار تهران امروز ۱۴ آبان ۱۴۰۵ اعلام شد و ربع سکه ۷۵ میلیون و ۳۰۰ هزار تومان قیمت خورد.",
+    "published": "Thu, 05 Nov 2026 05:19:00 GMT",
+    "collected_at": "2026-11-05T10:40:14.891402+03:30",
+    "filter_market_score": 12,
+    "market_score": 25,
+    "market_matches": {
+      "gold": [
+        "سکه",
+        "ربع سکه"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "سکه",
+        "ربع سکه"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "سکه",
+        "ربع سکه"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "بازگشایی",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "سکه",
+      "ربع سکه"
     ],
     "currency_matches": [],
     "stock_matches": [],
@@ -2578,6 +2958,66 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "تداوم کاهش قیمت نفت؛ برنت به ۹۳ دلار و ۸۲ سنت رسید",
+    "link": "https://www.mehrnews.com/news/7000906/%DA%A9%D8%A7%D9%87%D8%B4-%DA%86%D9%87%D8%A7%D8%B1%D9%85%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%D9%85%D8%AA%D9%88%D8%A7%D9%84%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%DB%B9%DB%B3-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%DB%B8%DB%B2-%D8%B3%D9%86%D8%AA-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "قیمت نفت در معاملات روز پنج شنبه برای چهارمین روز متوالی کاهش یافت و به کمتر از ۹۴ دلار رسید.",
+    "published": "Thu, 05 Nov 2026 06:26:31 GMT",
+    "collected_at": "2026-11-05T10:39:57.274963+03:30",
+    "filter_market_score": 16,
+    "market_score": 23,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "سیگنال جدید به بازارها",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4306097-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7",
@@ -2813,6 +3253,64 @@
       "عامل پراثر اقتصادی یا سیاسی",
       "عامل اقتصادی",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "مشرق",
+    "title": "هرمز تورم اروپا را به اوج سه ساله رساند",
+    "link": "https://www.mashreghnews.ir/news/1850564/%D9%87%D8%B1%D9%85%D8%B2-%D8%AA%D9%88%D8%B1%D9%85-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%A7%D9%88%D8%AC-%D8%B3%D9%87-%D8%B3%D8%A7%D9%84%D9%87-%D8%B1%D8%B3%D8%A7%D9%86%D8%AF",
+    "summary": "در حالی که تبعات جنگ آمریکا درخاورمیانه همچنان بازار جهانی انرژی را تحت تأثیر قرار داده است،موج گرانی ناشی ازافزایش قیمت نفت به اقتصاد اروپا رسیدو تورم منطقه یورو را به بالاترین سطح سه سال اخیر رساند.",
+    "published": "Thu, 05 Nov 2026 04:00:00 GMT",
+    "collected_at": "2026-11-05T10:40:27.116695+03:30",
+    "filter_market_score": 14,
+    "market_score": 22,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تورم",
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [
+      "قیمت",
+      "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تورم",
+      "جنگ",
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -3393,6 +3891,58 @@
     "ranking_applied": true
   },
   {
+    "source": "مهر",
+    "title": "رحیمیان: ۲۵۶ پرونده تعهدات ارزی در تعزیرات کردستان رسیدگی می شود",
+    "link": "https://www.mehrnews.com/news/7000933/%D8%B1%D8%AD%DB%8C%D9%85%DB%8C%D8%A7%D9%86-%DB%B2%DB%B5%DB%B6-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%AA%D8%B9%D8%B2%DB%8C%D8%B1%D8%A7%D8%AA-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF%DA%AF%DB%8C-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "سنندج- مدیرکل تعزیرات حکومتی کردستان از ارجاع ۲۵۶ پرونده تخلف ارزی صادرکنندگان به ارزش ۳ میلیارد و ۴۵۰ میلیون یورو به استان خبر داد و گفت: تاکنون حدود ۷۰ پرونده تعیین تکلیف شده است.",
+    "published": "Thu, 05 Nov 2026 06:55:37 GMT",
+    "collected_at": "2026-11-05T10:39:57.274806+03:30",
+    "filter_market_score": 13,
+    "market_score": 18,
+    "market_matches": {
+      "currency": [
+        "ارز",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "داستان پاسپورت های اجاره ای برای رجیستری",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-19/4306062-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3%D9%BE%D9%88%D8%B1%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C",
@@ -3507,64 +4057,6 @@
     "ranking_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "سعیدی: رشد سودآوری، توسعه صادرات و تقویت تاب آوری شستا در شرایط دشوار اقتصادی",
-    "link": "https://www.khabaronline.ir/news/2297204/%D8%B3%D8%B9%DB%8C%D8%AF%DB%8C-%D8%B1%D8%B4%D8%AF-%D8%B3%D9%88%D8%AF%D8%A2%D9%88%D8%B1%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AA%D8%A7%D8%A8-%D8%A2%D9%88%D8%B1%DB%8C-%D8%B4%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7",
-    "summary": "مدیرعامل شستا با تشریح عملکرد این مجموعه در شرایط جنگی، از افزایش سهم شستا در بازار سرمایه به ۱۳.۵ درصد، خروج هفت شرکت از زیان و بازگشت پتروشیمی آبادان به چرخه تولید خبر داد.",
-    "published": "Tue, 03 Nov 2026 14:41:54 GMT",
-    "collected_at": "2026-11-03T18:20:17.630112+03:30",
-    "filter_market_score": 13,
-    "market_score": 18,
-    "market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "رشد",
-      "افزایش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [
-      "جنگ"
-    ],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "مشرق",
     "title": "دلار حواله امروز ۱۸۸ هزار و ۶۶۸ تومان شد",
     "link": "https://www.mashreghnews.ir/news/1850430/%D8%AF%D9%84%D8%A7%D8%B1-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B8%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B6%DB%B6%DB%B8-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B4%D8%AF",
@@ -3598,6 +4090,110 @@
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "تابناک",
+    "title": "ردپای دو ریسک بزرگ در پتروشیمی خلیج فارس؛ از فریز ۱۹۰ میلیون دلاری تا تهدید مالیاتی ۴.۷ همتی",
+    "link": "https://tabnak.ir/fa/news/100000397/%D8%B1%D8%AF%D9%BE%D8%A7%DB%8C-%D8%AF%D9%88-%D8%B1%DB%8C%D8%B3%DA%A9-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AF%D8%B1-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C-%D8%AE%D9%84%DB%8C%D8%AC%D9%81%D8%A7%D8%B1%D8%B3-%D8%A7%D8%B2-%D9%81%D8%B1%DB%8C%D8%B2-%DB%B1%DB%B9%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%DB%B4%DB%B7-%D9%87%D9%85%D8%AA%DB%8C-33c65ed64eea4e8bb6f626a1",
+    "summary": "پشت صورت های مالی پتروشیمی خلیج فارس، گزارش حسابرس از دو ریسک بزرگ پرده برمی دارد: قفل شدن ۱۹۰ میلیون دلار مطالبات و سرمایه در باتلاق ۱۰ ساله پتروشیمی فیلیپین، و ابهام سنگین مالیاتی ۴.۷ همتی که بدون ثبت ذخیره در حساب ها، همچنان در حال پیگیری است.",
+    "published": "Thu, 05 Nov 2026 04:52:29 +0000",
+    "collected_at": "2026-11-05T10:40:19.958907+03:30",
+    "filter_market_score": 11,
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "ادعای وال استریت ژورنال درباره درخواست ۵۱ میلیارد دلاری یمن از عربستان",
+    "link": "https://www.isna.ir/news/1405081409339/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%DB%8C%D8%AA-%DA%98%D9%88%D8%B1%D9%86%D8%A7%D9%84-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%DB%B5%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%DB%8C%D9%85%D9%86-%D8%A7%D8%B2",
+    "summary": "روزنامه وال استریت ژورنال در گزارشی مدعی شد جنبش انصارالله یمن در پاسخ به پیشنهاد عربستان برای توقف درگیری ها، پرداخت ۵۱ میلیارد دلار غرامت و شناسایی خود به عنوان حاکمان یمن را خواستار شده است؛ ادعایی که رسانه های غربی آن را در شرایطی منتشر می کنند که ریاض از بیم پیامدهای سیاسی و نظامی، در پذیرش این خواسته ها مردد است.",
+    "published": "Thu, 05 Nov 2026 07:04:51 GMT",
+    "collected_at": "2026-11-05T10:39:49.684878+03:30",
+    "filter_market_score": 11,
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
     "filter_score_bonus": 6,
     "gold_matches": [],
     "currency_matches": [
@@ -3767,6 +4363,61 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "نفت در مسیر نزولی/ قیمت هر بشکه نفت برنت چند؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306415-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%B1-%D8%A8%D8%B4%DA%A9%D9%87-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%DA%86%D9%86%D8%AF",
+    "summary": "قیمت نفت خام برنت با ۹۷ سنت (۱.۰۳ درصد) کاهش به ۹۳.۶۵ دلار در هر بشکه رسید.",
+    "published": "Thu, 05 Nov 2026 04:18:13 +0000",
+    "collected_at": "2026-11-05T10:40:04.395719+03:30",
+    "filter_market_score": 10,
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "نزول",
+      "قیمت",
+      "کاهش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -3975,6 +4626,57 @@
   },
   {
     "source": "ایسنا",
+    "title": "حمایت حقوقی دادستانی تهران درخصوص رفع تعهدات ارزی شرکت زامیاد",
+    "link": "https://www.isna.ir/news/1405081409323/%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%AD%D9%82%D9%88%D9%82%DB%8C-%D8%AF%D8%A7%D8%AF%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1%D8%AE%D8%B5%D9%88%D8%B5-%D8%B1%D9%81%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%B2%D8%A7%D9%85%DB%8C%D8%A7%D8%AF",
+    "summary": "دادستان تهران اعلام کرد: با حمایت و پیگیری این دادستانی، مشکل کارت بازرگانی شرکت زامیاد که به دلیل عدم رفع تعهدات ارزی در مهلت مقرر، غیر فعال شده بود؛ موقتا فعال و دسترسی های آن شرکت به سامانه جامع تجارت تا ایفای تعهدات سررسید شده مجددا برقرار شد.",
+    "published": "Thu, 05 Nov 2026 06:25:36 GMT",
+    "collected_at": "2026-11-05T10:39:49.685032+03:30",
+    "filter_market_score": 12,
+    "market_score": 15,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "حمایت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "ایسنا",
     "title": "افزایش ۲۵ درصدی تولید زعفران در آزادشهر/ پیش بینی برداشت ۳.۷ تن طلای سرخ",
     "link": "https://www.isna.ir/news/1405081308594/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B2%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B4%D8%AA-%DB%B3-%DB%B7",
     "summary": "مدیر جهاد کشاورزی آزادشهر از پیش بینی برداشت ۳ تن و ۷۰۰ کیلوگرم زعفران خشک از مزارع این شهرستان خبر داد و گفت: میزان تولید زعفران آزادشهر در سال جاری نسبت به سال گذشته ۲۵ درصد افزایش خواهد داشت.",
@@ -4072,27 +4774,27 @@
     "ranking_applied": true
   },
   {
-    "source": "مهر",
-    "title": "لحظه دستگیری سارقان مسلح طلا و جواهرات در گلستان",
-    "link": "https://www.mehrnews.com/news/6999305/%D9%84%D8%AD%D8%B8%D9%87-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B1%D9%82%D8%A7%D9%86-%D9%85%D8%B3%D9%84%D8%AD-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AC%D9%88%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86",
-    "summary": "گرگان- سارقان مسلح طلا و جواهرات با هوشیاری و اقدام به موقع مأموران پلیس آگاهی استان گلستان شناسایی و دستگیر شدند؛ تصاویری از لحظه واقعی دستگیری این متهمان منتشر شده است.",
-    "published": "Tue, 03 Nov 2026 20:28:08 GMT",
-    "collected_at": "2026-11-04T00:16:05.282735+03:30",
+    "source": "ایسنا",
+    "title": "بلاتکلیفی ایران در مقررات گذاری ارزهای دیجیتال باوجود رتبه ششم مصرف!",
+    "link": "https://www.isna.ir/news/1405081409332/%D8%A8%D9%84%D8%A7%D8%AA%DA%A9%D9%84%DB%8C%D9%81%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D9%82%D8%B1%D8%B1%D8%A7%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A8%D8%A7%D9%88%D8%AC%D9%88%D8%AF-%D8%B1%D8%AA%D8%A8%D9%87-%D8%B4%D8%B4%D9%85",
+    "summary": "یک تحلیلگر اقتصادی با تأکید بر اینکه توسعه اقتصاد دیجیتال صرفا به فراهم کردن زیرساخت های اینترنتی محدود نمی شود، گفت: نبود فرهنگ دیجیتال و ضعف آموزش از موانع اصلی توسعه این حوزه است. به عنوان نمونه ایران در رتبه ششم استفاده از ارزهای دیجیتال قرار دارد اما در مقررات گذاری ارزها و دارایی های دیجیتال بلاتکلیف هستیم و هنوز مسیر مشخصی برای استفاده از ظرفیت های آن وجود ندارد.",
+    "published": "Thu, 05 Nov 2026 06:48:38 GMT",
+    "collected_at": "2026-11-05T10:39:49.684934+03:30",
     "filter_market_score": 10,
     "market_score": 14,
     "market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "ارز"
       ]
     },
     "title_market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "ارز"
       ]
     },
     "summary_market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "ارز"
       ]
     },
     "full_text_market_matches": {},
@@ -4103,10 +4805,10 @@
     "filter_applied": true,
     "priority": "medium",
     "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
     ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
@@ -4120,12 +4822,12 @@
     "ranking_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "استاندار کردستان: کسب نخستین مدال طلای پاراآسیایی افتخاری ماندگار برای ورزش استان است",
-    "link": "https://www.isna.ir/news/1405081208230/%DA%A9%D8%B3%D8%A8-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D9%BE%D8%A7%D8%B1%D8%A7%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%81%D8%AA%D8%AE%D8%A7%D8%B1%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C",
-    "summary": "استاندار کردستان با تبریک قهرمانی پارسا محمدی در بازی های پاراآسیایی آیچی ـ ناگویا ژاپن گفت: کسب مدال طلای این رقابت ها، نخستین طلای ورزشکاران کردستان در تاریخ بازی های پاراآسیایی است و نشان دهنده ظرفیت ها و استعدادهای ارزشمند ورزشی استان به شمار می رود.",
-    "published": "Tue, 03 Nov 2026 15:06:49 GMT",
-    "collected_at": "2026-11-03T18:47:40.180685+03:30",
+    "source": "مهر",
+    "title": "لحظه دستگیری سارقان مسلح طلا و جواهرات در گلستان",
+    "link": "https://www.mehrnews.com/news/6999305/%D9%84%D8%AD%D8%B8%D9%87-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B3%D8%A7%D8%B1%D9%82%D8%A7%D9%86-%D9%85%D8%B3%D9%84%D8%AD-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AC%D9%88%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86",
+    "summary": "گرگان- سارقان مسلح طلا و جواهرات با هوشیاری و اقدام به موقع مأموران پلیس آگاهی استان گلستان شناسایی و دستگیر شدند؛ تصاویری از لحظه واقعی دستگیری این متهمان منتشر شده است.",
+    "published": "Tue, 03 Nov 2026 20:28:08 GMT",
+    "collected_at": "2026-11-04T00:16:05.282735+03:30",
     "filter_market_score": 10,
     "market_score": 14,
     "market_matches": {
@@ -4317,6 +5019,56 @@
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "ایسنا",
+    "title": "سرمایه گذاری ۵۲۵ میلیون یورویی اروپا در استارتاپ های تراشه ای",
+    "link": "https://www.isna.ir/news/1405081409320/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%DB%B5%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%AA%D8%A7%D9%BE-%D9%87%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D8%B4%D9%87-%D8%A7%DB%8C",
+    "summary": "اتحادیه اروپا برای عقب نماندن از رقابت با آمریکا و چین، ۵۲۵ میلیون یورو (۵۹۰ میلیون دلار) در استارتاپ های تراشه سرمایه گذاری خواهد کرد تا به آنها کمک کند سریع تر رشد کنند.",
+    "published": "Thu, 05 Nov 2026 06:21:40 GMT",
+    "collected_at": "2026-11-05T10:39:49.685051+03:30",
+    "filter_market_score": 8,
+    "market_score": 13,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -4568,6 +5320,52 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "از ریشه یابی دلایل شکست جمهوری خواهان از سوی ونس تا ورود نفت به زیر ۱۰۰ دلار",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4305513-%D8%A7%D8%B2-%D8%B1%DB%8C%D8%B4%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AF%D9%84%D8%A7%DB%8C%D9%84-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D8%A7%D9%86-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D9%88%D9%86%D8%B3-%D8%AA%D8%A7-%D9%88%D8%B1%D9%88%D8%AF-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1",
+    "summary": "دنیای اقتصاد: دنیای اقتصاد هرصبح در پادکست«دشت اول» به بررسی مهم ترین اخبار اقتصادی و سیاسی ایران و جهان به صورت خلاصه می پردازد تا بتوانید در کوتاه ترین زمان از مهم ترین تحولات داخلی و بین المللی باخبر شوید.",
+    "published": "Thu, 05 Nov 2026 03:28:04 +0000",
+    "collected_at": "2026-11-05T10:40:04.395737+03:30",
+    "filter_market_score": 8,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -4848,53 +5646,6 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "فشار مضاعف بر واحدهای تولیدی به بهانه شدت مصرف انرژی منطقی نیست",
-    "link": "https://www.isna.ir/news/1405081208243/%D9%81%D8%B4%D8%A7%D8%B1-%D9%85%D8%B6%D8%A7%D8%B9%D9%81-%D8%A8%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%DB%8C-%D8%A8%D9%87-%D8%A8%D9%87%D8%A7%D9%86%D9%87-%D8%B4%D8%AF%D8%AA-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D9%85%D9%86%D8%B7%D9%82%DB%8C-%D9%86%DB%8C%D8%B3%D8%AA",
-    "summary": "معاون هماهنگی امور اقتصادی استاندار زنجان با تأکید بر ضرورت حمایت از واحدهای تولیدی، گفت: در شرایطی که تولیدکنندگان با محدودیت هایی مانند تأمین ارز، انرژی و مسائل مختلف حمایتی مواجه هستند، نباید با فشارهای مضاعف به دلیل شاخص شدت انرژی، مشکلات آن ها را افزایش داد.",
-    "published": "Tue, 03 Nov 2026 15:40:52 GMT",
-    "collected_at": "2026-11-03T19:17:14.428715+03:30",
-    "filter_market_score": 7,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "حمایت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -5244,50 +5995,6 @@
     "currency_matches": [
       "دلار"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "۳۴۵ دانش آموز و فرهنگی برگزیده آموزش و پرورش سمنان تجلیل می شوند",
-    "link": "https://www.mehrnews.com/news/6999103/%DB%B3%DB%B4%DB%B5-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%D9%88-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C-%D8%A8%D8%B1%DA%AF%D8%B2%DB%8C%D8%AF%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%88-%D9%BE%D8%B1%D9%88%D8%B1%D8%B4-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%AA%D8%AC%D9%84%DB%8C%D9%84-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF",
-    "summary": "سمنان- مدیرکل آموزش و پرورش استان سمنان از شناسایی ۳۴۵ برگزیده علمی، قرآنی، فرهنگی، هنری و ورزشی خبر داد و کسب مدال طلای المپیادهای علمی را از موفقیت های امیدبخش دانش آموزان استان دانست.",
-    "published": "Tue, 03 Nov 2026 16:10:53 GMT",
-    "collected_at": "2026-11-03T19:44:37.870489+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
