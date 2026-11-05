@@ -26361,5 +26361,211 @@
     "group_sent_at": "2026-11-05T10:41:58.884872+03:30",
     "group_message_id": 2313,
     "published_at": "2026-11-05T10:41:58.901719+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8879": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "با این قیمت دلار و اونس جهانی، طلا ۱۸ عیار حدود ۴۰۰ تومن زیر ارزش ذاتیش داره معامله میشه ❗️",
+      "summary": "با این قیمت دلار و اونس جهانی، طلا ۱۸ عیار حدود ۴۰۰ تومن زیر ارزش ذاتیش داره معامله میشه ❗️ \n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "با این قیمت دلار و اونس جهانی، طلا ۱۸ عیار حدود ۴۰۰ تومن زیر ارزش ذاتیش داره معامله میشه ❗️ \n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8879",
+      "analysis_score": 23,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "اونس جهانی",
+        "دلار",
+        "ارز",
+        "ارزش ذاتی"
+      ],
+      "analysis_matches": [
+        "معامله",
+        "قیمت",
+        "ارزش ذاتی"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 116,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-05T19:16:08.352961+03:30"
+    },
+    "content_signature": "49eb71bbc7a021dd12b138f4059aa7d7708ad68cb3183646b0a736bec029f24f",
+    "first_seen_at": "2026-11-05T19:16:48.380919+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2572
+    ],
+    "telegram_last_success_at": "2026-11-05T19:16:48.760100+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-05T19:16:48.781301+03:30",
+    "telegram_message_id": 2572,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180234755
+    ],
+    "eitaa_last_success_at": "2026-11-05T19:16:49.548756+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-05T19:16:49.572433+03:30",
+    "eitaa_message_id": 180234755,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2324
+    ],
+    "group_last_success_at": "2026-11-05T19:16:49.992320+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-05T19:16:50.020350+03:30",
+    "group_message_id": 2324,
+    "published_at": "2026-11-05T19:16:50.040760+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8877": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "یه سری به قیمت ها بزنیم:",
+      "summary": "یه سری به قیمت ها بزنیم: \n\nطلا ۱۸ عیار: ۲۶,۱۳۰,۰۰۰ تومان \nنقره ۹۲۵: ۴۱۶,۰۰۰ تومان \nتتر: ۲۶۷,۰۰۰ تومان\nاونس طلا: ۴,۱۲۷ دلار\nبیت‌کوین: ۸۰,۵۰۰ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "یه سری به قیمت ها بزنیم: \n\nطلا ۱۸ عیار: ۲۶,۱۳۰,۰۰۰ تومان \nنقره ۹۲۵: ۴۱۶,۰۰۰ تومان \nتتر: ۲۶۷,۰۰۰ تومان\nاونس طلا: ۴,۱۲۷ دلار\nبیت‌کوین: ۸۰,۵۰۰ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8877",
+      "analysis_score": 19,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "دلار",
+        "تتر",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 168,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-05T19:16:08.349901+03:30"
+    },
+    "content_signature": "182b248248af6414873d4faf7cafcd9d9b4a4cce0839fd9d333e4c71c7c20589",
+    "first_seen_at": "2026-11-05T19:16:50.132376+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2573
+    ],
+    "telegram_last_success_at": "2026-11-05T19:16:50.488447+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-05T19:16:50.524789+03:30",
+    "telegram_message_id": 2573,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180234759
+    ],
+    "eitaa_last_success_at": "2026-11-05T19:16:51.754421+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-05T19:16:51.775369+03:30",
+    "eitaa_message_id": 180234759,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2325
+    ],
+    "group_last_success_at": "2026-11-05T19:16:52.155925+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-05T19:16:52.176673+03:30",
+    "group_message_id": 2325,
+    "published_at": "2026-11-05T19:16:52.196760+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26054": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "قیمت نفت به ۹۶ دلار برگشته و امروز دوتا کشتی تو تنگه هرمز هم دچار آسیب شدن .",
+      "summary": "قیمت نفت به ۹۶ دلار برگشته و امروز دوتا کشتی تو تنگه هرمز هم دچار آسیب شدن .\nیه خبری هم از خبرگزاری فرانسه اومده که امروز تا الان ۱۲ مورد هشدار درباره وجود بمب در هواپیماها تو اروپا اعلام شده ، چندتا پرواز هم لغو شده.\n\n @payamelyaskordi ✅",
+      "full_text": "قیمت نفت به ۹۶ دلار برگشته و امروز دوتا کشتی تو تنگه هرمز هم دچار آسیب شدن .\nیه خبری هم از خبرگزاری فرانسه اومده که امروز تا الان ۱۲ مورد هشدار درباره وجود بمب در هواپیماها تو اروپا اعلام شده ، چندتا پرواز هم لغو شده.\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26054",
+      "analysis_score": 13,
+      "market_matches": [
+        "دلار",
+        "قیمت نفت",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "قیمت"
+      ],
+      "market_groups": [
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 238,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-05T19:16:07.116452+03:30"
+    },
+    "content_signature": "453bc9d5db211009e00471110446a97684097b99eadc5cb4e67ed775637c159b",
+    "first_seen_at": "2026-11-05T19:16:52.217585+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2574
+    ],
+    "telegram_last_success_at": "2026-11-05T19:16:52.607714+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-05T19:16:52.628681+03:30",
+    "telegram_message_id": 2574,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180234762
+    ],
+    "eitaa_last_success_at": "2026-11-05T19:16:53.748548+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-05T19:16:53.769244+03:30",
+    "eitaa_message_id": 180234762,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2326
+    ],
+    "group_last_success_at": "2026-11-05T19:16:54.131974+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-05T19:16:54.152702+03:30",
+    "group_message_id": 2326,
+    "published_at": "2026-11-05T19:16:54.173536+03:30"
   }
 }

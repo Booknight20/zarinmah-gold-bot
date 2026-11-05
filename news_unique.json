@@ -188,6 +188,88 @@
     "duplicate_count": 1
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "طلا در بالاترین سطح قیمتی؛ هر اونس طلا در بازار معاملات آتی ۴ هزار و ۱۴۴ دلار شد/ قیمت جدید طلای جهانی امروز ۱۴ آبان ۱۴۰۵",
+    "link": "https://www.khabaronline.ir/news/2297893/%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D9%82%DB%8C%D9%85%D8%AA%DB%8C-%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B4",
+    "summary": "قیمت طلا در معاملات روز پنج شنبه بازار جهانی، پس از انتخابات میان دوره ای آمریکا و تحت تاثیر تضعیف ارزش دلار و کاهش بازده اوراق خزانه آمریکا، حدود دو درصد افزایش یافت و به بالاترین سطح دو هفته اخیر رسید. بر همین اساس، قیمت هر اونس طلا در بازار معاملات آتی آمریکا برای تحویل در دسامبر با ۱.۸ درصد افزایش، ۴۱۴۴ دلار و ۲۰ سنت معامله شد.",
+    "published": "Thu, 05 Nov 2026 07:20:00 GMT",
+    "collected_at": "2026-11-05T19:15:27.609712+03:30",
+    "filter_market_score": 41,
+    "market_score": 44,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بازده اوراق",
+      "اوراق خزانه آمریکا"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "معاملات",
+      "افزایش",
+      "کاهش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "اونس طلا",
+      "طلای جهانی"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "بازده اوراق",
+      "اوراق خزانه آمریکا"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "مهر",
     "title": "نرخ ارزهای رسمی در مرکز مبادله اعلام شد + جدول",
     "link": "https://www.mehrnews.com/news/6999771/%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7%DB%8C-%D8%B1%D8%B3%D9%85%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D8%AC%D8%AF%D9%88%D9%84",
@@ -402,96 +484,6 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "تغییر جهت بورس زیر سایه نقدینگی؛ طلا و نقره در مسیرهای متفاوت +فیلم",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306093-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AC%D9%87%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B2%DB%8C%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D9%81%DB%8C%D9%84%D9%85",
-    "summary": "در این گزارش، ضمن بررسی وضعیت معاملات و تحولات بازارهای جهانی، ارز و مذاکرات ایران و آمریکا، عملکرد گواهی های سپرده و صندوق های سرمایه گذاری طلا و نقره از ابتدای سال و تفاوت بازدهی این دو فلز در بازار سرمایه مقایسه شده است.",
-    "published": "Tue, 03 Nov 2026 15:55:46 +0000",
-    "collected_at": "2026-11-03T19:44:45.032468+03:30",
-    "filter_market_score": 37,
-    "market_score": 36,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "ارز"
-      ],
-      "stock": [
-        "بورس",
-        "بازار سرمایه"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "ارز"
-      ],
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نقدینگی"
-    ],
-    "major_event_matches": [
-      "ایران و آمریکا",
-      "مذاکرات ایران و آمریکا",
-      "مذاکرات ایران"
-    ],
-    "signal_matches": [
-      "تغییر",
-      "معاملات",
-      "بازدهی",
-      "مذاکرات",
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [
-      "مذاکرات ایران و آمریکا"
-    ],
-    "medium_impact_matches": [
-      "نقدینگی"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 3,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -937,6 +929,82 @@
     "duplicate_count": 1
   },
   {
+    "source": "مشرق",
+    "title": "احتمال رسیدن قیمت طلا به ۴۴۰۰ دلار با تداوم حمایت بازار",
+    "link": "https://www.mashreghnews.ir/news/1850741/%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%B1%D8%B3%DB%8C%D8%AF%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%DB%B4%DB%B4%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1",
+    "summary": "یک تحلیلگر بازار گفت: در صورت تداوم ورود سرمایه به بازار طلا و کاهش بازده اوراق قرضه آمریکا، قیمت هر اونس طلا می تواند ابتدا به ۴ هزار و ۲۰۰ دلار و سپس به ۴ هزار و ۴۰۰ دلار برسد.",
+    "published": "Thu, 05 Nov 2026 13:26:19 GMT",
+    "collected_at": "2026-11-05T19:15:45.923692+03:30",
+    "filter_market_score": 30,
+    "market_score": 33,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بازده اوراق",
+      "بازده اوراق قرضه"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "حمایت",
+      "کاهش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "اونس طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "بازده اوراق"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "صعود همزمان شاخص های بورس",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4306306-%D8%B5%D8%B9%D9%88%D8%AF-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%87%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3",
@@ -1354,6 +1422,69 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۱۴ آبان ۱۴۰۵/ دلار ۲۶۵ هزار و ۹۰۰ تومان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2297971/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B6%DB%B5",
+    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۱۴ آبان ۱۴۰۵ اعلام شد. بر این اساس دلار با کاهش ۳ هزار تومانی، ۲۶۵ هزار و ۹۰۰ تومان شد.",
+    "published": "Thu, 05 Nov 2026 10:34:00 GMT",
+    "collected_at": "2026-11-05T19:15:27.609618+03:30",
+    "filter_market_score": 27,
+    "market_score": 31,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "کاهش",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -2012,6 +2143,67 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا ظهر امروز ۱۴ آبان ۱۴۰۵/ هر گرم طلای ۱۸عیار ۲۶ میلیون و ۷۰ هزار تومان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2297965/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "summary": "قیمت طلا در بازار تهران امروز ۱۴ آبان ۱۴۰۵ اعلام و هر گرم طلای ۱۸عیار ۲۶ میلیون و ۷۰ هزار تومان شد.",
+    "published": "Thu, 05 Nov 2026 09:47:00 GMT",
+    "collected_at": "2026-11-05T19:15:27.609650+03:30",
+    "filter_market_score": 31,
+    "market_score": 29,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "طلای ۱۸ عیار",
+      "طلای 18 عیار"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "آینده قیمت دلار و طلا در ایران/ حق شناس: نمی توان در هر شرایطی قیمت دلار را پایین تر از محدوده ۲۲۰ تا ۲۳۰ هزار تومان تصور کرد",
     "link": "https://www.khabaronline.ir/news/2296928/%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AD%D9%82-%D8%B4%D9%86%D8%A7%D8%B3-%D9%86%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86-%D8%AF%D8%B1-%D9%87%D8%B1-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%DB%8C",
     "summary": "یک کارشناس اقتصادی با اشاره به آینده طلا و دلار در ایران، گفت: درباره قیمت دلار نمی توان در هر شرایطی قیمت دلار را پایین تر از محدوده ۲۲۰ تا ۲۳۰ هزار تومان تصور کرد. ماندگاری قیمت دلار در محدوده های پایین تر هم به سطح توافق احتمالی بستگی دارد.",
@@ -2451,6 +2643,70 @@
     "duplicate_count": 1
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "سیاست های داخلی عامل ۸۵ درصد تورم است؛ توضیح راغفر درباره سهم جنگ در بحران اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2296693/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%D8%B9%D8%A7%D9%85%D9%84-%DB%B8%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%AA%D9%88%D8%B1%D9%85-%D8%A7%D8%B3%D8%AA-%D8%AA%D9%88%D8%B6%DB%8C%D8%AD-%D8%B1%D8%A7%D8%BA%D9%81%D8%B1-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B3%D9%87%D9%85",
+    "summary": "عضو هیأت علمی دانشگاه الزهرا، با بیان اینکه رسیدن نرخ دلار به محدوده ۲۷۰ هزار تومان از سال گذشته در سازمان برنامه هدف گذاری شده بود، می گوید کاهش ارزش پول ملی به انتقال منابع از حقوق بگیران و صاحبان پس اندازهای ریالی به گروه های برخوردار از درآمدهای ارزی و بدهکاران بزرگ منجر می شود. او همچنین سهم سیاستگذاری داخلی در تورم کنونی را بسیار بیشتر از پیامدهای جنگ می داند و برآورد می کند ۸۰ تا ۸۵ درصد مشکلات تورمی ریشه در تصمیم های اقتصادی داخل کشور دارد.",
+    "published": "Thu, 05 Nov 2026 13:04:00 GMT",
+    "collected_at": "2026-11-05T19:15:27.609581+03:30",
+    "filter_market_score": 18,
+    "market_score": 25,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ دلار",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ دلار",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تورم"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [
+      "کاهش",
+      "نرخ",
+      "تصمیم"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "نرخ دلار",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ",
+      "تورم"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا امروز پنجشنبه ۱۴ آبان ۱۴۰۵ / افزایش قیمت طلا",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306425-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
@@ -2817,6 +3073,67 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "بخشنامه بانک مرکزی جهت تمدید مهلت بهره مندی از مزایای تامین ارز واردات، از محل صادرات خود تا ۲۹ اسفند ۱۴۰۵",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-183/4306480-%D8%A8%D8%AE%D8%B4%D9%86%D8%A7%D9%85%D9%87-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%AC%D9%87%D8%AA-%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%D9%85%D9%87%D9%84%D8%AA-%D8%A8%D9%87%D8%B1%D9%87-%D9%85%D9%86%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%85%D8%B2%D8%A7%DB%8C%D8%A7%DB%8C-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B2-%D9%85%D8%AD%D9%84-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF-%D8%AA%D8%A7-%D8%A7%D8%B3%D9%81%D9%86%D8%AF",
+    "summary": "دنیای اقتصاد: بانک مرکزی جمهوری اسلامی ایران مهلت تامین ارز واردات از محل صادرات خود را تا ۲۹ اسفندماه اعلام و تاکید کرد: صادرکنندگانی که نسبت به واردات کالاهاى اساسى، ضرورى و مورد نیاز خطوط تولید، با اظهارنامه گمرکی حداکثر تا تاریخ ۱۴۰۵/٠٣/٠٩ اقدام نموده اند، مى توانند جهت تأمین ارز از محل ارز پروانه های صادراتى مربوط به سال هاى ۱۴۰۱ به بعد خود، حداکثر تا تاریخ ۱۴۰۵/١٢/٢٩ با رعایت تبصره هاى ذیل بهره مند شوند.",
+    "published": "Thu, 05 Nov 2026 11:55:40 +0000",
+    "collected_at": "2026-11-05T19:15:17.241705+03:30",
+    "filter_market_score": 19,
+    "market_score": 24,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی",
+      "واردات",
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": [
+      "واردات",
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -3359,6 +3676,67 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "مشرق",
+    "title": "جزئیات برنامه های بانک مرکزی برای کنترل بازار پول و ارز",
+    "link": "https://www.mashreghnews.ir/news/1850752/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D9%88-%D8%A7%D8%B1%D8%B2",
+    "summary": "بانک مرکزی بر تقویت ثبات پولی و مالی، کنترل رشد نقدینگی و ارتقای سلامت شبکه بانکی با اعمال و اجرای مجموعه ای از سیاست ها و اقدامات پولی، ارزی و نظارتی تاکید کرد.",
+    "published": "Thu, 05 Nov 2026 13:57:20 GMT",
+    "collected_at": "2026-11-05T19:15:45.923643+03:30",
+    "filter_market_score": 15,
+    "market_score": 21,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی",
+      "نقدینگی"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": [
+      "نقدینگی"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -4065,61 +4443,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "صادرات ۴۸ میلیون دلاری داروهای دامپزشکی؛ ۲۰ میلیون دلار قرارداد جدید بسته شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306119-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%A7%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D9%85%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF",
-    "summary": "رئیس سندیکای تولیدکنندگان و صادرکنندگان داروهای دامپزشکی ایران از دستیابی به رقم ۴۸ میلیون دلار صادرات در سال جاری خبر داد.",
-    "published": "Tue, 03 Nov 2026 16:48:15 +0000",
-    "collected_at": "2026-11-03T20:46:42.303380+03:30",
-    "filter_market_score": 13,
-    "market_score": 18,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "مشرق",
     "title": "دلار حواله امروز ۱۸۸ هزار و ۶۶۸ تومان شد",
     "link": "https://www.mashreghnews.ir/news/1850430/%D8%AF%D9%84%D8%A7%D8%B1-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B8%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B6%DB%B6%DB%B8-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B4%D8%AF",
@@ -4495,6 +4818,58 @@
     "duplicate_count": 1
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "فارس: درآمد نفتی یک ساله ایران تا شهریور ۳۰ میلیارد دلار شد",
+    "link": "https://www.khabaronline.ir/news/2297955/%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D9%86%D9%81%D8%AA%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D9%85%D8%B1%D8%B2-%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF",
+    "summary": "خبرنگار فارس مدعی شد درآمد نفتی یکساله منتهی به شهریور ایران از ۳۰ میلیارد دلار گذر کرد.",
+    "published": "Thu, 05 Nov 2026 08:32:00 GMT",
+    "collected_at": "2026-11-05T19:15:27.609685+03:30",
+    "filter_market_score": 11,
+    "market_score": 16,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "ایسنا",
     "title": "آغاز عملیات اجرایی کارخانه ۱۰۰ میلیون دلاری سیلیکون متال در جنوب کرمان",
     "link": "https://www.isna.ir/news/1405081308939/%D8%A2%D8%BA%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C%DB%8C-%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86-%D9%85%D8%AA%D8%A7%D9%84-%D8%AF%D8%B1-%D8%AC%D9%86%D9%88%D8%A8",
@@ -4530,56 +4905,6 @@
     "currency_matches": [
       "دلار"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "تابناک",
-    "title": "دستگیری فروشنده ۷ میلیارد تومان طلای تقلبی در مشهد",
-    "link": "https://tabnak.ir/fa/news/100000418/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%D9%87-%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D9%82%D9%84%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF-cdd3cbfcb13f4166986f9009",
-    "summary": "فرمانده انتظامی خراسان رضوی گفت: فروشنده ۷۰ میلیارد ریال طلای تقلبی در مشهد دستگیر و ۶ مالباخته در این زمینه شناسایی شدند.",
-    "published": "Tue, 03 Nov 2026 16:05:33 +0000",
-    "collected_at": "2026-11-03T19:44:50.380013+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
@@ -5210,54 +5535,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "مهر",
-    "title": "از تأمین ارز تا ساخت نیروگاه؛ جزئیات مرحله دوم افزایش سرمایه «سولار»",
-    "link": "https://www.mehrnews.com/news/6999090/%D8%A7%D8%B2-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%A7-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%AF%D9%88%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87",
-    "summary": "صندوق پروژه «سولار» در مرحله دوم تأمین مالی خود، افزایش سرمایه ای به ارزش ۲ هزار میلیارد تومان را با هدف تکمیل و بهره برداری از دو نیروگاه خورشیدی ۲۰ مگاواتی دنبال می کند.",
-    "published": "Tue, 03 Nov 2026 16:26:38 GMT",
-    "collected_at": "2026-11-03T20:15:52.283691+03:30",
-    "filter_market_score": 8,
-    "market_score": 13,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "خزان سرمایه گذاری در فصل بهار",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-100/4306148-%D8%AE%D8%B2%D8%A7%D9%86-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B5%D9%84-%D8%A8%D9%87%D8%A7%D8%B1",
@@ -5551,6 +5828,51 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "تابناک",
+    "title": "برنده توپ طلا با بایرن تمدید کرد",
+    "link": "https://tabnak.ir/fa/news/4200048/%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7-%D8%A8%D8%A7%DB%8C%D8%B1%D9%86-%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%DA%A9%D8%B1%D8%AF-bc3f52dd4bca4dfe8b218591",
+    "summary": "هری کین، مهاجم انگلیسی باشگاه بایرن مونیخ، قرارداد خود را با این تیم آلمانی تمدید کرد تا حضورش در جمع باواریایی ها تا سال ۲۰۲۹ ادامه داشته باشد.",
+    "published": "Thu, 05 Nov 2026 13:58:18 +0000",
+    "collected_at": "2026-11-05T19:15:36.248966+03:30",
+    "filter_market_score": 6,
+    "market_score": 12,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -6362,50 +6684,6 @@
     "currency_matches": [
       "دلار"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "تابناک",
-    "title": "استاندار کردستان با نخستین طلاآور پاراآسیایی استان دیدار کرد",
-    "link": "https://tabnak.ir/fa/news/100000414/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%B7%D9%84%D8%A7%D8%A2%D9%88%D8%B1-%D9%BE%D8%A7%D8%B1%D8%A7%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF-ae2cdc9f889547cd8c74626b",
-    "summary": "گروه استان ها - استاندار کردستان در دیدار با پارسا محمدی، ملی پوش والیبال نشسته استان، کسب مدال طلای بازی های پاراآسیایی آیچی ـ ناگویا را تبریک گفت و از پیگیری های فرمانده انتظامی استان برای رفع موانع اعزام این ورزشکار قدردانی کرد.",
-    "published": "Tue, 03 Nov 2026 15:50:00 +0000",
-    "collected_at": "2026-11-03T19:44:50.380040+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
