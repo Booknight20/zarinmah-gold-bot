@@ -432,6 +432,89 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "کاهش قیمت دلار با سیگنال انتخاباتی",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4306318-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C",
+    "summary": "قیمت دلار در معاملات نقدی روز چهارشنبه 5 هزار و500تومان، حدود ۲درصد، از اوج تاریخی ثبت شده در روز سه شنبه فاصله گرفت و به محدوده ۲۶۸هزار و ۲۰۰تومان رسید. این سطح قیمتی، پایین ترین نرخ دلار طی دو هفته اخیر محسوب می شود؛ به طوری که از ۳۰مهرماه تاکنون، دلار پایین تر از محدوده 269هزار تومان ثبت نشده بود. افت دلار در بازار داخلی همزمان با کاهش شاخص دلار آمریکا در بازارهای جهانی و مشخص شدن نتایج مقدماتی انتخابات میان دوره ای این کشور رقم خورد. در معاملات روز چهارشنبه، شاخص دلار به پایین ترین سطح از ۳۰سپتامبر، هشتم مهرماه، رسید و بازدهی اوراق خزانه داری آمریکا نیز کاهش یافت. همزمان، بهای جهانی طلا با عبور از مرز ۴هزار دلار به ازای هر اونس، به بالاترین سطح از ۲۹ اکتبر، هفتم آبان ماه، رسید. در بازار داخلی نیز طلای ۱۸عیار با افزایش قیمت، به بالاترین سطح از هفتم آبان رسید و در آستانه ورود به کانال 26 میلیون تومان قرار گرفت.",
+    "published": "Wed, 04 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-05T03:48:35.333768+03:30",
+    "filter_market_score": 35,
+    "market_score": 36,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ],
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ],
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "شاخص دلار"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت",
+      "سیگنال",
+      "افزایش",
+      "افت",
+      "نرخ",
+      "معاملات",
+      "بازدهی"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "طلای ۱۸ عیار",
+      "طلای 18 عیار"
+    ],
+    "currency_matches": [
+      "دلار",
+      "نرخ دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "شاخص دلار"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت طلا، دلار و سکه امروز چهارشنبه ۱۳ آبان ۱۴۰۵/ معامله گران چشم انتظار سیگنال های جدید",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306228-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%DA%AF%D8%B1%D8%A7%D9%86-%DA%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF",
     "summary": "چهارشنبه 13 آبان معاملات در بازار طلا، سکه و ارز در حالی آغاز می شود که این بازار میان سیگنال های متناقض دیپلماسی و تنش های نظامی گرفتار شده است؛ معامله گران چشم انتظار پاسخ تهران به پیشنهاد قطر و نتایج انتخابات آمریکا هستند.",
@@ -574,6 +657,85 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "مالیات 7 ماهه در ترازوی تورم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-100/4306358-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D9%85%D8%A7%D9%87%D9%87-%D8%AF%D8%B1-%D8%AA%D8%B1%D8%A7%D8%B2%D9%88%DB%8C-%D8%AA%D9%88%D8%B1%D9%85",
+    "summary": "بررسی عملکرد درآمدهای مالیاتی در 7ماه نخست سال۱۴۰۵ نشان می دهد که پس از کندی روند وصول مالیات در نیمه نخست سال، عملکرد مهرماه بهبود یافته است. نرخ تحقق درآمدهای مالیاتی که در پایان شهریورماه 38.2درصد بود، در پایان مهرماه به ۴۷درصد رسید. با این حال، این رقم همچنان با عملکرد مدت مشابه سال گذشته برابری می کند و از نرخ تحقق ۵۸درصدی سال۱۴۰۲ پایین تر است. همچنین، با فرض توزیع یکنواخت اهداف مالیاتی در طول سال، انتظار می رفت تا پایان مهرماه حدود 58.3درصد از درآمدهای پیش بینی شده محقق شده باشد. بررسی ارزش حقیقی درآمدهای مالیاتی نیز تصویر متفاوتی از عملکرد دولت ارائه می دهد. درآمدهای مالیاتی تعدیل شده بر اساس قیمت های سال۱۴۰۰، از ۱۸۳همت در سال۱۴۰۱ به ۲۲۳همت در سال۱۴۰۳ افزایش یافت؛ اما در سال۱۴۰۴ به ۲۱۲همت رسید. این رقم در هفت ماه نخست سال جاری نیز ۱۷۴همت بوده است. به این ترتیب، درآمد حقیقی مالیاتی نسبت به دوره مشابه سال گذشته ۱۸درصد کاهش یافته است. این روند نشان می دهد که رشد اسمی وصولی ها نتوانسته قدرت خرید منابع مالیاتی دولت را حفظ کند. بهبود وصول مالیات ها در مهرماه عمدتا ناشی از پایان مهلت های تمدیدشده مالیاتی و تسویه بخشی از تعهدات معوق بنگاه ها بوده است. همزمانی این ماه با موعد پرداخت مالیات ارزش افزوده معاملات فصل تابستان نیز در افزایش درآمدها نقش داشته است. تمدید مهلت ارائه اظهارنامه ها، استمهال بدهی ها و بسته حمایتی بیش از ۱۸۰هزار میلیارد تومانی دولت نیز از جمله عواملی بودند که وصول بخشی از درآمدهای مالیاتی را به تعویق انداختند. کاهش درآمدهای حقیقی مالیاتی در شرایطی رخ داده که محدودیت صادرات نفت و افت درآمدهای ارزی، اهمیت منابع پایدار مالیاتی را برای تامین هزینه های دولت افزایش داده است. در این میان، برخی کارشناسان معتقدند کاهش درآمدهای حقیقی مالیاتی در شرایط جنگی و رکود اقتصادی قابل پیش بینی است؛ هرچند بهبود شرایط سیاسی و بازگشت فعالیت بنگاه ها به وضعیت عادی می تواند به تغییر این روند کمک کند.",
+    "published": "Wed, 04 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-05T03:48:35.333619+03:30",
+    "filter_market_score": 23,
+    "market_score": 34,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تورم",
+      "نفت",
+      "صادرات نفت",
+      "رکود",
+      "صادرات"
+    ],
+    "major_event_matches": [
+      "جنگ",
+      "محدودیت صادرات نفت"
+    ],
+    "signal_matches": [
+      "افزایش",
+      "کاهش",
+      "رشد",
+      "افت",
+      "پیش‌بینی",
+      "پیش بینی",
+      "قیمت",
+      "نرخ",
+      "معاملات",
+      "تغییر",
+      "حمایت",
+      "داده",
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تورم",
+      "جنگ",
+      "صادرات نفت",
+      "محدودیت صادرات نفت"
+    ],
+    "medium_impact_matches": [
+      "رکود",
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "بازگشت خریداران به بازار سهام/ شاخص کل بورس 88 هزار واحد رشد کرد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306266-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF",
     "summary": "در پایان معاملات امروز شاخص کل بورس با افزایش ۸۸ هزار و ۴۲ واحدی، معادل ۱.۱۳ درصد رشد کرد و در سطح ۷ میلیون و ۹۱۲ هزار واحد قرار گرفت.",
@@ -632,6 +794,84 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "صعود همزمان شاخص های بورس",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4306306-%D8%B5%D8%B9%D9%88%D8%AF-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%87%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "بورس تهران در 2 روز گذشته از فضای محتاطانه معاملات فاصله گرفته و با تقویت تقاضا و ورود پول، سیگنال هایی از بازگشت رونق را به نمایش گذاشته است. دیروز نیز همه شاخص های سهامی صعودی شدند و شاخص کل تا آستانه ورود به کانال ۸ میلیون واحدی پیش رفت. این وضعیت در شرایطی رقم خورد که نرخ دلار آزاد در مسیر نزولی قرار گرفت. با این حال، کارشناسان بر این باورند که تداوم رشد بورس به پایداری جریان ورود پول در روزهای آینده و تحولات سیاسی و اقتصادی وابسته است.",
+    "published": "Wed, 04 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-05T03:48:35.333788+03:30",
+    "filter_market_score": 33,
+    "market_score": 32,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ],
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "نرخ دلار"
+      ],
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "صعود",
+      "رشد",
+      "نزول",
+      "نرخ",
+      "معاملات",
+      "تقاضا",
+      "ورود پول",
+      "سیگنال"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "نرخ دلار"
+    ],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -977,6 +1217,69 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۱۳ آبان ۱۴۰۵ در زمان بسته شدن/ دلار تا قیمت ۲۶۸ هزار و ۷۱۰ تومان کاهش یافت + جدول",
+    "link": "https://www.khabaronline.ir/news/2297782/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
+    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۱۳ آبان ۱۴۰۵ اعلام شد. بر این اساس دلار با کاهش ۳ هزار و ۷۹۰ تومانی، ۲۶۸ هزار و ۷۱۰ تومان قیمت پیدا کرد.",
+    "published": "Wed, 04 Nov 2026 19:32:00 GMT",
+    "collected_at": "2026-11-05T03:48:50.469243+03:30",
+    "filter_market_score": 27,
+    "market_score": 31,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -1500,76 +1803,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "شستا با وجود دو جنگ و ناآرامی ها بیش از ۲ میلیارد دلار صادرات داشت",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4306049-%D8%B4%D8%B3%D8%AA%D8%A7-%D8%A8%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%AF%D9%88-%D8%AC%D9%86%DA%AF-%D9%86%D8%A7%D8%A2%D8%B1%D8%A7%D9%85%DB%8C-%D9%87%D8%A7-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AF%D8%A7%D8%B4%D8%AA",
-    "summary": "مدیرعامل شستا با تشریح عملکرد ۱۷۶ شرکت زیرمجموعه این مجموعه اعلام کرد: سود تلفیقی شستا از حدود ۶۸ همت به ۱۳۴ همت رسیده و سهم این مجموعه از بازار سرمایه نیز از ۱۱.۵ به ۱۳.۵ درصد افزایش یافته است. وی همچنین از هدف گذاری رشد قابل توجه سودآوری، خروج هفت شرکت از زیان، آسیب دیدن ۲۸ شرکت در جنگ و برنامه توسعه بازارهای بین المللی خبر داد.",
-    "published": "Tue, 03 Nov 2026 13:55:00 +0000",
-    "collected_at": "2026-11-03T17:44:33.297470+03:30",
-    "filter_market_score": 23,
-    "market_score": 28,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "افزایش",
-      "رشد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [
-      "جنگ"
-    ],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
@@ -2205,6 +2438,69 @@
     "duplicate_count": 1
   },
   {
+    "source": "ایسنا",
+    "title": "فوربس: پیروزی دموکرات ها ۱۱۱ میلیون دلار به ترامپ خسارت زد",
+    "link": "https://www.isna.ir/news/1405081409218/%D9%81%D9%88%D8%B1%D8%A8%D8%B3-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%DB%B1%DB%B1%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%AB%D8%B1%D9%88%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%DA%A9%D8%A7%D8%B3%D8%AA",
+    "summary": "ثروت دونالد ترامپ، رئیس جمهور آمریکا پس از پیروزی دموکرات ها در انتخابات میان دوره ای و در پی سقوط سهام شرکت «ترامپ مدیا اند تکنولوژی گروپ» (Trump Media & Technology Group)، مالک پلتفرم تروث سوشال (Truth Social)، حدود ۱۱۱ میلیون دلار کاهش یافت.",
+    "published": "Wed, 04 Nov 2026 21:11:00 GMT",
+    "collected_at": "2026-11-05T03:48:08.051784+03:30",
+    "filter_market_score": 18,
+    "market_score": 24,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "سقوط"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [
+      "سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۱۲ آبان ۱۴۰۵ در زمان بسته شدن بازار/ هر مثقال طلا ۱۱۰ میلیون تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2297272/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84",
@@ -2237,6 +2533,63 @@
     "signal_matches": [
       "قیمت",
       "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "مثقال طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۱۳ آبان ۱۴۰۵ در زمان بسته شدن بازار/ هر مثقال طلا ۱۱۲ میلیون و ۴۲۰ هزار تومان شد + جدول",
+    "link": "https://www.khabaronline.ir/news/2297780/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84",
+    "summary": "قیمت طلا در بازار تهران امروز ۱۳ آبان ۱۴۰۵ اعلام و هر مثقال طلا ۱۱۲ میلیون و ۴۲۰ هزار تومان شد.",
+    "published": "Wed, 04 Nov 2026 19:14:00 GMT",
+    "collected_at": "2026-11-05T03:48:50.469257+03:30",
+    "filter_market_score": 17,
+    "market_score": 23,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "مثقال طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "مثقال طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "مثقال طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
@@ -3580,49 +3933,53 @@
     "duplicate_count": 1
   },
   {
-    "source": "مهر",
-    "title": "فروشنده ۷۰ میلیارد ریال طلای تقلبی در مشهد دستگیر شد",
-    "link": "https://www.mehrnews.com/news/6999012/%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%D9%87-%DB%B7%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AA%D9%82%D9%84%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF",
-    "summary": "مشهد- فرمانده انتظامی خراسان رضوی گفت: فروشنده ۷۰ میلیارد ریال طلای تقلبی در مشهد دستگیر و ۶ مالباخته در این زمینه شناسایی شدند.",
-    "published": "Tue, 03 Nov 2026 14:35:42 GMT",
-    "collected_at": "2026-11-03T18:20:01.773276+03:30",
-    "filter_market_score": 10,
+    "source": "دنیای اقتصاد",
+    "title": "روزهای از دست رفته تولید",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-3/4306369-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AF",
+    "summary": "۳۴ میلیارد دلار؛ برآورد خسارتی است که تعطیلات اجباری و اختلال های فعالیت اقتصادی در سال۱۴۰۴ به اقتصاد ایران تحمیل کرده است. بر اساس گزارش اتاق بازرگانی ایران، حدود ۲۲درصد از ظرفیت بالقوه فعالیت اقتصادی در این سال به دلیل مجموعه ای از محدودیت ها از دست رفته است. ناترازی برق و گاز، اختلال اینترنت، آلودگی هوا، ناآرامی ها و شرایط جنگی، دامنه موانع فعالیت بنگاه ها را از توقف خطوط تولید فراتر برده و زنجیره تامین، فروش و ایفای تعهدات تجاری را نیز تحت تاثیر قرار داده است. کارشناسان معتقدند تکرار این وقفه ها، علاوه بر تحمیل هزینه های مستقیم، امکان برنامه ریزی و سرمایه گذاری را برای بنگاه ها دشوارتر می کند. در همین راستا، بخش خصوصی اصلاح مقررات تعطیلات، شناور شدن روزهای کاری و فراهم کردن امکان جبران بخشی از تولید ازدست رفته را پیشنهاد کرده است. با این حال، این تدابیر بدون حل چالش های اقتصاد کلان، رفع ناترازی انرژی و بازسازی زیرساخت های آسیب دیده نمی توانند استمرار فعالیت صنایع را تضمین کنند.",
+    "published": "Wed, 04 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-05T03:48:35.333696+03:30",
+    "filter_market_score": 9,
     "market_score": 16,
     "market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "دلار"
       ]
     },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
+    "title_market_matches": {},
     "summary_market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "دلار"
       ]
     },
     "full_text_market_matches": {},
     "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [
+      "داده",
+      "گزارش"
+    ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "medium",
     "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
     ],
-    "currency_matches": [],
     "stock_matches": [],
-    "high_impact_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
     "market_count": 1,
     "ranking_reasons": [
-      "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -4434,6 +4791,53 @@
     "duplicate_count": 1
   },
   {
+    "source": "مهر",
+    "title": "روانبخش: ایستادگی ایران، هیمنه پوشالی آمریکا را درهم شکست",
+    "link": "https://www.mehrnews.com/news/7000798/%D8%B1%D9%88%D8%A7%D9%86%D8%A8%D8%AE%D8%B4-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%DA%AF%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%DB%8C%D9%85%D9%86%D9%87-%D9%BE%D9%88%D8%B4%D8%A7%D9%84%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A7-%D8%AF%D8%B1%D9%87%D9%85-%D8%B4%DA%A9%D8%B3%D8%AA",
+    "summary": "قم- نماینده مردم قم در مجلس با تأکید بر اینکه قدرت حقیقی از آن خداوند است، گفت: ایستادگی ملت ایران و مقاومت نیروهای مسلح، افسانه شکست ناپذیری آمریکا را پایان داد.",
+    "published": "Wed, 04 Nov 2026 23:38:45 GMT",
+    "collected_at": "2026-11-05T03:48:22.433747+03:30",
+    "filter_market_score": 7,
+    "market_score": 11,
+    "market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "مقاومت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "مشرق",
     "title": "زلزله انتخاباتی آمریکا در بازارهای جهانی؛ بورس ها عقب نشستند",
     "link": "https://www.mashreghnews.ir/news/1850411/%D8%B2%D9%84%D8%B2%D9%84%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%A7-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%D8%B3%D8%AA%D9%86%D8%AF",
@@ -4759,6 +5163,53 @@
     "duplicate_count": 1
   },
   {
+    "source": "ایسنا",
+    "title": "نبرد کنگره چقدر از پول ایلان ماسک را از بین برد؟",
+    "link": "https://www.isna.ir/news/1405081409228/%D9%86%D8%A8%D8%B1%D8%AF-%DA%A9%D9%86%DA%AF%D8%B1%D9%87-%DA%86%D9%82%D8%AF%D8%B1-%D8%A7%D8%B2-%D9%BE%D9%88%D9%84-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%A8%DB%8C%D9%86-%D8%A8%D8%B1%D8%AF",
+    "summary": "رسانه های آمریکایی نوشتند ایلان ماسک با وجود صرف صدها میلیون دلار برای حمایت از نامزدهای جمهوری خواه، به یکی از بزرگترین بازندگان انتخابات میان دوره ای ایالات متحده تبدیل شد، چرا که حزبش متحمل شکست انتخاباتی شد و کنترل هر دو مجلس کنگره را به دموکرات ها واگذار کرد.",
+    "published": "Wed, 04 Nov 2026 23:37:04 GMT",
+    "collected_at": "2026-11-05T03:48:08.051613+03:30",
+    "filter_market_score": 5,
+    "market_score": 8,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "حمایت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "low",
+    "filter_score_bonus": 5,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "مهر",
     "title": "شوک در تل آویو پس از تصمیم ترامپ برای قطع کمک های نظامی",
     "link": "https://www.mehrnews.com/news/6999323/%D8%B4%D9%88%DA%A9-%D8%AF%D8%B1-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%82%D8%B7%D8%B9-%DA%A9%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D9%86%D8%B8%D8%A7%D9%85%DB%8C",
@@ -4979,51 +5430,6 @@
     "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "ایسنا",
-    "title": "اولیسه؛ فوتبال خالص، بی خیالی مطلق/ ستاره بایرن ۱۸۰ میلیون یورویی شد",
-    "link": "https://www.isna.ir/news/1405081208191/%D8%A7%D9%88%D9%84%DB%8C%D8%B3%D9%87-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%AE%D8%A7%D9%84%D8%B5-%D8%A8%DB%8C-%D8%AE%DB%8C%D8%A7%D9%84%DB%8C-%D9%85%D8%B7%D9%84%D9%82-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%A8%D8%A7%DB%8C%D8%B1%D9%86-%DB%B1%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C",
-    "summary": "ارزش وینگر ۲۴ ساله فرانسوی بایرن مونیخ بعد از درخشش در شروع فصل به ۱۸۰ میلیون یورو رسیده است.",
-    "published": "Tue, 03 Nov 2026 14:15:00 GMT",
-    "collected_at": "2026-11-03T18:17:40.328656+03:30",
-    "filter_market_score": 3,
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 3,
-    "gold_matches": [],
-    "currency_matches": [
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -5256,94 +5662,6 @@
     "summary": "گروه استان ها - استاندار کردستان در دیدار با پارسا محمدی، ملی پوش والیبال نشسته استان، کسب مدال طلای بازی های پاراآسیایی آیچی ـ ناگویا را تبریک گفت و از پیگیری های فرمانده انتظامی استان برای رفع موانع اعزام این ورزشکار قدردانی کرد.",
     "published": "Tue, 03 Nov 2026 15:50:00 +0000",
     "collected_at": "2026-11-03T19:44:50.380040+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "توکن سازی املاک مسیرهای تازه ای برای تأمین مالی مسکن ایجاد می کند",
-    "link": "https://www.mehrnews.com/news/6998828/%D8%AA%D9%88%DA%A9%D9%86-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D9%85%D8%B3%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B2%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D9%85%D8%A7%D9%84%DB%8C-%D9%85%D8%B3%DA%A9%D9%86-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-    "summary": "مدیران ارشد بانک مسکن و شرکت تامین سرمایه، ظرفیت های بازار سرمایه و ابزارهای جدید برای تأمین منابع مورد نیاز بخش مسکن را بررسی کردند.",
-    "published": "Tue, 03 Nov 2026 14:01:20 GMT",
-    "collected_at": "2026-11-03T17:44:26.519339+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
-    "market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "بازار سرمایه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "استقبال از بانوان مدال آور جودوی همدان در مسابقات کاپ آسیا",
-    "link": "https://www.mehrnews.com/news/6998447/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D8%A7%D8%B2-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%A2%D9%88%D8%B1-%D8%AC%D9%88%D8%AF%D9%88%DB%8C-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%DA%A9%D8%A7%D9%BE-%D8%A2%D8%B3%DB%8C%D8%A7",
-    "summary": "همدان- مراسم استقبال از «مریم بربط» دارنده مدال طلای مسابقات کاپ آسیا در اردن و «مهشید صفری» دارنده نشان نقره رقابت های بزرگسالان و برنز کاپ آسیا با حضور مسئولان و جامعه ورزش برگزار شد.",
-    "published": "Tue, 03 Nov 2026 13:25:25 GMT",
-    "collected_at": "2026-11-03T17:17:34.127477+03:30",
     "filter_market_score": 4,
     "market_score": 6,
     "market_matches": {
