@@ -26567,5 +26567,406 @@
     "group_sent_at": "2026-11-05T19:16:54.152702+03:30",
     "group_message_id": 2326,
     "published_at": "2026-11-05T19:16:54.173536+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26059": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "بیت کوین ۵٪ ریزش کرد ، شاخص نزدک بورس آمریکا هم ۵٪ ریخت و نفت هم بالای ۱۰۰ دلار قرار گرفت .",
+      "summary": "بیت کوین ۵٪ ریزش کرد ، شاخص نزدک بورس آمریکا هم ۵٪ ریخت و نفت هم بالای ۱۰۰ دلار قرار گرفت .\n\n @payamelyaskordi ✅",
+      "full_text": "بیت کوین ۵٪ ریزش کرد ، شاخص نزدک بورس آمریکا هم ۵٪ ریخت و نفت هم بالای ۱۰۰ دلار قرار گرفت .\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26059",
+      "analysis_score": 19,
+      "market_matches": [
+        "دلار",
+        "بورس",
+        "شاخص",
+        "نفت",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "ریزش"
+      ],
+      "market_groups": [
+        "currency",
+        "stock",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 112,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-06T01:17:54.825908+03:30"
+    },
+    "content_signature": "ec3b27355c9b45d81cfdbb9fbe5751b26b64bbb069d39bf72e70c22d6d624dd6",
+    "first_seen_at": "2026-11-06T01:18:23.939578+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2581
+    ],
+    "telegram_last_success_at": "2026-11-06T01:18:24.310831+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-06T01:18:24.339352+03:30",
+    "telegram_message_id": 2581,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180280118
+    ],
+    "eitaa_last_success_at": "2026-11-06T01:18:25.745930+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-06T01:18:25.772760+03:30",
+    "eitaa_message_id": 180280118,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2334
+    ],
+    "group_last_success_at": "2026-11-06T01:18:26.442094+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-06T01:18:26.469172+03:30",
+    "group_message_id": 2334,
+    "published_at": "2026-11-06T01:18:26.496161+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26060": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "بیت کوین ۵٪ ریزش کرد ، شاخص نزدک بورس آمریکا هم ۵٪ ریخت و نفت هم بالای ۱۰۰ دلار قرار گرفت. @payamelyaskordi ✅",
+      "summary": "بیت کوین ۵٪ ریزش کرد ، شاخص نزدک بورس آمریکا هم ۵٪ ریخت و نفت هم بالای ۱۰۰ دلار قرار گرفت. @payamelyaskordi ✅",
+      "full_text": "بیت کوین ۵٪ ریزش کرد ، شاخص نزدک بورس آمریکا هم ۵٪ ریخت و نفت هم بالای ۱۰۰ دلار قرار گرفت. @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26060",
+      "analysis_score": 19,
+      "market_matches": [
+        "دلار",
+        "بورس",
+        "شاخص",
+        "نفت",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "ریزش"
+      ],
+      "market_groups": [
+        "currency",
+        "stock",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 109,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-06T01:17:54.827905+03:30"
+    },
+    "content_signature": "258296f96eb3e7208058fda1135bf06c9c482b1268c4cbceec8cc8a293345cf1",
+    "first_seen_at": "2026-11-06T01:18:26.524018+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2582
+    ],
+    "telegram_last_success_at": "2026-11-06T01:18:26.927777+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-06T01:18:26.955304+03:30",
+    "telegram_message_id": 2582,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180280121
+    ],
+    "eitaa_last_success_at": "2026-11-06T01:18:27.584167+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-06T01:18:27.611682+03:30",
+    "eitaa_message_id": 180280121,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2335
+    ],
+    "group_last_success_at": "2026-11-06T01:18:28.058395+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-06T01:18:28.085991+03:30",
+    "group_message_id": 2335,
+    "published_at": "2026-11-06T01:18:28.112931+03:30"
+  },
+  "https://t.me/drarashamini/7334": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "طلا برای نخستین بار از سال ۲۰۲۳، زمانی که روند صعودی عظیم ۱۸۵ درصدی خود را آغاز کرد، به زیر ارزش منصفانه (Fair Value)...",
+      "summary": "طلا برای نخستین بار از سال ۲۰۲۳، زمانی که روند صعودی عظیم ۱۸۵ درصدی خود را آغاز کرد، به زیر ارزش منصفانه (Fair Value) سقوط کرده است. \n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "طلا برای نخستین بار از سال ۲۰۲۳، زمانی که روند صعودی عظیم ۱۸۵ درصدی خود را آغاز کرد، به زیر ارزش منصفانه (Fair Value) سقوط کرده است. \n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7334",
+      "analysis_score": 19,
+      "market_matches": [
+        "طلا",
+        "ارز"
+      ],
+      "analysis_matches": [
+        "روند",
+        "صعود",
+        "صعودی"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 258,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-06T01:17:55.307545+03:30"
+    },
+    "content_signature": "304c4cab7909710c70be2e8086a58ac7ecb81a6af1a899a4f7e34c7084a50b2b",
+    "first_seen_at": "2026-11-06T01:18:28.140833+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2583
+    ],
+    "telegram_last_success_at": "2026-11-06T01:18:28.596254+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-06T01:18:28.623439+03:30",
+    "telegram_message_id": 2583,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180280128
+    ],
+    "eitaa_last_success_at": "2026-11-06T01:18:29.829876+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-06T01:18:29.857351+03:30",
+    "eitaa_message_id": 180280128,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2336
+    ],
+    "group_last_success_at": "2026-11-06T01:18:30.374985+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-06T01:18:30.402404+03:30",
+    "group_message_id": 2336,
+    "published_at": "2026-11-06T01:18:30.429741+03:30"
+  },
+  "https://t.me/drarashamini/7333": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "بورس آمریکا چه خبره",
+      "summary": "بورس آمریکا چه خبره\n\nترامپ هم که زد زیر میز کریپتو\n\nمشخصه ترامپ میگه یا من یا هیچی\n\nو اگه جنگ هم بشه شاید چیزی برای از دست دادن نداشته باشه و زیرساخت زده بشه\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "بورس آمریکا چه خبره\n\nترامپ هم که زد زیر میز کریپتو\n\nمشخصه ترامپ میگه یا من یا هیچی\n\nو اگه جنگ هم بشه شاید چیزی برای از دست دادن نداشته باشه و زیرساخت زده بشه\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7333",
+      "analysis_score": 13,
+      "market_matches": [
+        "طلا",
+        "بورس",
+        "کریپتو"
+      ],
+      "analysis_matches": [],
+      "market_groups": [
+        "gold",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای توضیح",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 282,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-06T01:17:55.305268+03:30"
+    },
+    "content_signature": "c4928c9a56b1a461f2bd42d86c1c359469cc126c5c34423adc82811bc27bf754",
+    "first_seen_at": "2026-11-06T01:18:30.458177+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2584
+    ],
+    "telegram_last_success_at": "2026-11-06T01:18:30.874693+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-06T01:18:30.903502+03:30",
+    "telegram_message_id": 2584,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180280131
+    ],
+    "eitaa_last_success_at": "2026-11-06T01:18:32.258461+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-06T01:18:32.285680+03:30",
+    "eitaa_message_id": 180280131,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2337
+    ],
+    "group_last_success_at": "2026-11-06T01:18:32.705744+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-06T01:18:32.733182+03:30",
+    "group_message_id": 2337,
+    "published_at": "2026-11-06T01:18:32.760116+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8882": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "بورس آمریکا چند هفته‌ست آخر هفته‌ها قرمزه و امشب هم ریزش سنگینی داشت ‼️",
+      "summary": "بورس آمریکا چند هفته‌ست آخر هفته‌ها قرمزه و امشب هم ریزش سنگینی داشت ‼️ \n\nبیت‌کوین هم تمام رشدش بعد از اخبار دموکرات‌ها رو پس گرفت 👍 \n\n این حرکت رو دقیقاً توی وبینار بهتون گفته بودم \n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "بورس آمریکا چند هفته‌ست آخر هفته‌ها قرمزه و امشب هم ریزش سنگینی داشت ‼️ \n\nبیت‌کوین هم تمام رشدش بعد از اخبار دموکرات‌ها رو پس گرفت 👍 \n\n این حرکت رو دقیقاً توی وبینار بهتون گفته بودم \n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8882",
+      "analysis_score": 10,
+      "market_matches": [
+        "بورس",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "رشد",
+        "ریزش"
+      ],
+      "market_groups": [
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل"
+      ],
+      "priority": "medium",
+      "content_length": 206,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-06T01:17:56.205527+03:30"
+    },
+    "content_signature": "15d8f2b1d11e4dfc15673b868f9fc3962e324ef7c7ef4e32ce7017d8eb7a04ac",
+    "first_seen_at": "2026-11-06T01:18:32.788013+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2585
+    ],
+    "telegram_last_success_at": "2026-11-06T01:18:33.221340+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-06T01:18:33.248625+03:30",
+    "telegram_message_id": 2585,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180280134
+    ],
+    "eitaa_last_success_at": "2026-11-06T01:18:33.921222+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-06T01:18:33.948459+03:30",
+    "eitaa_message_id": 180280134,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2338
+    ],
+    "group_last_success_at": "2026-11-06T01:18:34.358467+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-06T01:18:34.386311+03:30",
+    "group_message_id": 2338,
+    "published_at": "2026-11-06T01:18:34.413130+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/8884": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "بورس آمریکا چند هفته‌ست آخر هفته‌ها قرمزه و امشب هم ریزش سنگینی داشت ‼️ بیت‌کوین هم تمام رشدش بعد از اخبار دموکرات‌ها...",
+      "summary": "بورس آمریکا چند هفته‌ست آخر هفته‌ها قرمزه و امشب هم ریزش سنگینی داشت ‼️ بیت‌کوین هم تمام رشدش بعد از اخبار دموکرات‌ها رو پس گرفت 👍 این حرکت رو دقیقاً توی وبینار بهتون گفته بودم ⚡️ @Alirezamehrabi_ir",
+      "full_text": "بورس آمریکا چند هفته‌ست آخر هفته‌ها قرمزه و امشب هم ریزش سنگینی داشت ‼️ بیت‌کوین هم تمام رشدش بعد از اخبار دموکرات‌ها رو پس گرفت 👍 این حرکت رو دقیقاً توی وبینار بهتون گفته بودم ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/8884",
+      "analysis_score": 10,
+      "market_matches": [
+        "بورس",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "رشد",
+        "ریزش"
+      ],
+      "market_groups": [
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل"
+      ],
+      "priority": "medium",
+      "content_length": 198,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-06T01:17:56.209544+03:30"
+    },
+    "content_signature": "fe1e031ae9ab4d83db0d1b0722d08a6a4783e3b9f138ef54a6c25accfb304f96",
+    "first_seen_at": "2026-11-06T01:18:34.440600+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2586
+    ],
+    "telegram_last_success_at": "2026-11-06T01:18:34.845260+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-06T01:18:34.872608+03:30",
+    "telegram_message_id": 2586,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180280135
+    ],
+    "eitaa_last_success_at": "2026-11-06T01:18:35.498773+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-06T01:18:35.526112+03:30",
+    "eitaa_message_id": 180280135,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2339
+    ],
+    "group_last_success_at": "2026-11-06T01:18:35.932871+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-06T01:18:35.959913+03:30",
+    "group_message_id": 2339,
+    "published_at": "2026-11-06T01:18:35.987035+03:30"
   }
 }
