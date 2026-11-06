@@ -32150,5 +32150,29 @@
     "group_message_id": 2333,
     "fully_published": true,
     "last_checked_at": "2026-11-05T21:48:23.708025+00:00"
+  },
+  "8b9ace3deb935132fbbaedf5449c6cb751e88480acb4f42b1fa6bde446d43a7e": {
+    "title": "ترامپ: انتخابات یکی از بدترین روزهای تاریخ بورس آمریکا را رقم زد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/7001515/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A7-%D8%B1%D9%82%D9%85",
+    "telegram_message_ids": [
+      2587
+    ],
+    "eitaa_message_ids": [
+      180292435
+    ],
+    "group_message_ids": [
+      2340
+    ],
+    "content_hash": "e37afdc7bdff209d4f7ec0d6763929c30d455ed8d815e7a9ac336b24b117285b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-06T01:58:26.319796+00:00",
+    "telegram_message_id": 2587,
+    "eitaa_last_sent_at": "2026-11-06T01:58:27.957938+00:00",
+    "eitaa_message_id": 180292435,
+    "group_last_sent_at": "2026-11-06T01:58:29.703617+00:00",
+    "group_message_id": 2340,
+    "fully_published": true,
+    "last_checked_at": "2026-11-06T01:58:29.742065+00:00"
   }
 }
