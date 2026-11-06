@@ -26968,5 +26968,146 @@
     "group_sent_at": "2026-11-06T01:18:35.959913+03:30",
     "group_message_id": 2339,
     "published_at": "2026-11-06T01:18:35.987035+03:30"
+  },
+  "https://t.me/drarashamini/7335": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "یک بررسی روی انس جهانی طلا داشته باشیم.",
+      "summary": "یک بررسی روی انس جهانی طلا داشته باشیم. اگه یادتون باشه عرض کردم که انس جهانی بخش زیادی از افت خودش رو انجام داده و احتمالا بتونیم بگیم که 4 هزار دلار محدوده سیف زون باشه برای انس. احتمال افزایش نرخ بهره آمریکا هم که به بالای 50 درصد رسیده بود، با توجه به…",
+      "full_text": "یک بررسی روی انس جهانی طلا داشته باشیم. اگه یادتون باشه عرض کردم که انس جهانی بخش زیادی از افت خودش رو انجام داده و احتمالا بتونیم بگیم که 4 هزار دلار محدوده سیف زون باشه برای انس. احتمال افزایش نرخ بهره آمریکا هم که به بالای 50 درصد رسیده بود، با توجه به…",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7335",
+      "analysis_score": 25,
+      "market_matches": [
+        "طلا",
+        "دلار",
+        "نرخ بهره",
+        "نرخ بهره آمریکا"
+      ],
+      "analysis_matches": [
+        "احتمال",
+        "افزایش",
+        "نرخ",
+        "محدوده"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 256,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-06T12:17:57.075534+03:30"
+    },
+    "content_signature": "dfc57f7558561692c4162240bcee054f64a463c462b47d307553ad02c5e6ee44",
+    "first_seen_at": "2026-11-06T12:19:02.010065+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2602
+    ],
+    "telegram_last_success_at": "2026-11-06T12:19:02.441304+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-06T12:19:02.473929+03:30",
+    "telegram_message_id": 2602,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180326743
+    ],
+    "eitaa_last_success_at": "2026-11-06T12:19:03.154106+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-06T12:19:03.179734+03:30",
+    "eitaa_message_id": 180326743,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2355
+    ],
+    "group_last_success_at": "2026-11-06T12:19:03.701013+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-06T12:19:03.727727+03:30",
+    "group_message_id": 2355,
+    "published_at": "2026-11-06T12:19:03.751679+03:30"
+  },
+  "https://t.me/drarashamini/7317": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "وضعیت صندوق های طلا و نقره",
+      "summary": "وضعیت صندوق های طلا و نقره\n\nدرسته منفی معامله میشن ولی خروج پول بزرگی نداشتیم و تا اینجا فقط 236 میلیارد پول از صندوق های طلا و نقره خارج شده.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "وضعیت صندوق های طلا و نقره\n\nدرسته منفی معامله میشن ولی خروج پول بزرگی نداشتیم و تا اینجا فقط 236 میلیارد پول از صندوق های طلا و نقره خارج شده.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7317",
+      "analysis_score": 17,
+      "market_matches": [
+        "طلا",
+        "صندوق‌های طلا"
+      ],
+      "analysis_matches": [
+        "معامله",
+        "خروج"
+      ],
+      "market_groups": [
+        "gold",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 267,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-06T12:17:57.060486+03:30"
+    },
+    "content_signature": "9a61891fc71714dbd82aaf57e0b3df10dfdf3e66b8c98cbb079e0c09a0d8229d",
+    "first_seen_at": "2026-11-06T12:19:03.776484+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2603
+    ],
+    "telegram_last_success_at": "2026-11-06T12:19:04.246187+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-06T12:19:04.271899+03:30",
+    "telegram_message_id": 2603,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180326754
+    ],
+    "eitaa_last_success_at": "2026-11-06T12:19:05.525332+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-06T12:19:05.551717+03:30",
+    "eitaa_message_id": 180326754,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2356
+    ],
+    "group_last_success_at": "2026-11-06T12:19:06.012996+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-06T12:19:06.039779+03:30",
+    "group_message_id": 2356,
+    "published_at": "2026-11-06T12:19:06.082508+03:30"
   }
 }
