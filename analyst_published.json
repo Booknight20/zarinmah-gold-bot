@@ -27378,5 +27378,137 @@
     "group_sent_at": "2026-11-06T20:01:23.994700+03:30",
     "group_message_id": 2364,
     "published_at": "2026-11-06T20:01:24.010500+03:30"
+  },
+  "https://t.me/drarashamini/7315": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "وضعیت صندوق های طلا و نقره",
+      "summary": "وضعیت صندوق های طلا و نقره\n\nدرسته منفی معامله میشن ولی خروج پول بزرگی نداشتیم و تا اینجا فقط 236 میلیارد پول از صندوق های طلا و نقره خارج شده.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "وضعیت صندوق های طلا و نقره\n\nدرسته منفی معامله میشن ولی خروج پول بزرگی نداشتیم و تا اینجا فقط 236 میلیارد پول از صندوق های طلا و نقره خارج شده.\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7315",
+      "analysis_score": 17,
+      "market_matches": [
+        "طلا",
+        "صندوق‌های طلا"
+      ],
+      "analysis_matches": [
+        "معامله",
+        "خروج"
+      ],
+      "market_groups": [
+        "gold",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 267,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-07T01:18:37.944560+03:30"
+    },
+    "content_signature": "344e2efbbf50ea0cec7b585cbb1e550cb900b9f1bdc60d2e60960b870e6c43d3",
+    "first_seen_at": "2026-11-07T01:19:36.332753+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2619
+    ],
+    "telegram_last_success_at": "2026-11-07T01:19:36.810741+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-07T01:19:36.837705+03:30",
+    "telegram_message_id": 2619,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180424731
+    ],
+    "eitaa_last_success_at": "2026-11-07T01:19:45.036686+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-07T01:19:45.063025+03:30",
+    "eitaa_message_id": 180424731,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2374
+    ],
+    "group_last_success_at": "2026-11-07T01:19:45.710510+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-07T01:19:45.735778+03:30",
+    "group_message_id": 2374,
+    "published_at": "2026-11-07T01:19:45.760647+03:30"
+  },
+  "https://t.me/drarashamini/7332": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "بورس آمریکا چه خبره",
+      "summary": "بورس آمریکا چه خبره\n\nترامپ هم که زد زیر میز کریپتو\n\nمشخصه ترامپ میگه یا من یا هیچی\n\nو اگه جنگ هم بشه شاید چیزی برای از دست دادن نداشته باشه و زیرساخت زده بشه\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "بورس آمریکا چه خبره\n\nترامپ هم که زد زیر میز کریپتو\n\nمشخصه ترامپ میگه یا من یا هیچی\n\nو اگه جنگ هم بشه شاید چیزی برای از دست دادن نداشته باشه و زیرساخت زده بشه\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7332",
+      "analysis_score": 13,
+      "market_matches": [
+        "طلا",
+        "بورس",
+        "کریپتو"
+      ],
+      "analysis_matches": [],
+      "market_groups": [
+        "gold",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای توضیح",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 282,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-07T01:18:37.957143+03:30"
+    },
+    "content_signature": "743c60838df5cbdaf5eb55c4a7631e1ef1d09324d5219e25ef13e66353157151",
+    "first_seen_at": "2026-11-07T01:19:45.786706+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      2620
+    ],
+    "telegram_last_success_at": "2026-11-07T01:19:46.351632+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-07T01:19:46.378067+03:30",
+    "telegram_message_id": 2620,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      180424734
+    ],
+    "eitaa_last_success_at": "2026-11-07T01:19:48.506373+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-07T01:19:48.532860+03:30",
+    "eitaa_message_id": 180424734,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2375
+    ],
+    "group_last_success_at": "2026-11-07T01:19:49.054481+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-07T01:19:49.080684+03:30",
+    "group_message_id": 2375,
+    "published_at": "2026-11-07T01:19:49.105454+03:30"
   }
 }
