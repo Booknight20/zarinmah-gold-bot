@@ -341,6 +341,66 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "طلا از افزایش بیشتر بازماند؛ اونس طلا در بازار معاملات آتی ۴ هزار و ۷۲ دلار شد/ قیمت جدید طلای جهانی امروز ۱۵ آبان ۱۴۰۵",
+    "link": "https://www.khabaronline.ir/news/2298300/%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A8%D8%A7%D8%B2%D9%85%D8%A7%D9%86%D8%AF-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B4",
+    "summary": "طلا از افزایش بیشتر بازماند. قیمت هر اونس طلا در بازار معاملات آتی آمریکا برای تحویل در دسامبر با یک درصد کاهش، ۴۰۷۲ دلار معامله شد.",
+    "published": "Fri, 06 Nov 2026 08:51:17 GMT",
+    "collected_at": "2026-11-06T20:00:32.319766+03:30",
+    "filter_market_score": 37,
+    "market_score": 37,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "معاملات",
+      "کاهش",
+      "معامله"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "بازگشت خریداران به بازار سهام/ شاخص کل بورس 88 هزار واحد رشد کرد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306266-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF",
@@ -620,57 +680,6 @@
       "رشد",
       "معاملات",
       "تقاضا"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۱۳ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۱۸عیار ۲۵ میلیون و ۴۰۲ هزار تومان قیمت خورد + جدول",
-    "link": "https://www.khabaronline.ir/news/2297273/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B3-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
-    "summary": "قیمت طلا در بازار تهران امروز ۱۳ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۵ میلیون و ۴۰۲ هزار تومان قیمت خورد.",
-    "published": "Wed, 04 Nov 2026 04:28:23 GMT",
-    "collected_at": "2026-11-04T08:17:46.354270+03:30",
-    "filter_market_score": 34,
-    "market_score": 34,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "بازگشایی",
-      "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -1774,60 +1783,6 @@
     "filter_applied": true
   },
   {
-    "source": "مهر",
-    "title": "بازار جهانی طلا در ۲۰۲۶؛ از رکوردشکنی ۵۵۰۰ دلاری تا سقوط ۳۰ درصدی",
-    "link": "https://www.mehrnews.com/news/6998994/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%DB%B2%DB%B0%DB%B2%DB%B6-%D8%A7%D8%B2-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%DB%B5%DB%B5%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%B3%D9%82%D9%88%D8%B7-%DB%B3%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C",
-    "summary": "بازار جهانی طلا در سال ۲۰۲۶ پس از ثبت رکورد تاریخی بیش از ۵۵۰۰ دلار، با افتی نزدیک به ۳۰ درصد مواجه شد؛ اما خرید بانک های مرکزی و پیش بینی تحلیلگران، از احتمال بازگشت قیمت ها حکایت دارد.",
-    "published": "Wed, 04 Nov 2026 04:19:37 GMT",
-    "collected_at": "2026-11-04T08:17:30.287471+03:30",
-    "filter_market_score": 25,
-    "market_score": 25,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "سقوط",
-      "افت",
-      "رکورد",
-      "پیش‌بینی",
-      "پیش بینی",
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "تابناک",
     "title": "قیمت طلا و سکه امروز 13 آبان / بازار طلا و سکه در وضعیت قرمز!",
     "link": "https://tabnak.ir/fa/news/100000539/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-13-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%AF%D8%B1-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D9%82%D8%B1%D9%85%D8%B2-37f3ff36278140c58fdf0d78",
@@ -2088,55 +2043,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "قیمت طلا و سکه امروز چهارشنبه ۱۳ آبان ۱۴۰۵ / کاهش قیمت طلا و سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306198-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87",
-    "summary": "طلای 18 عیار کاهشی شد و قیمت سکه امامی امروز با کاهش، در نرخ 259 میلیون و 900 هزار تومان در معامله بود.",
-    "published": "Wed, 04 Nov 2026 04:30:53 +0000",
-    "collected_at": "2026-11-04T08:17:39.985703+03:30",
-    "filter_market_score": 23,
-    "market_score": 23,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار",
-        "سکه امامی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار",
-        "سکه امامی"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار",
-        "سکه امامی"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "نرخ",
-      "معامله"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "تداوم برتری تقاضا در بورس/ بررسی ابعاد تغییر دامنه نوسان صندوق های اهرمی +فیلم",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306320-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
     "summary": "بورس تهران در آخرین روز کاری هفته با تداوم برتری تقاضا، رشد شاخص ها و ورود حدود ۱.۶ همت پول حقیقی، هفته ای مثبت را به پایان رساند. هم زمان، افزایش دامنه نوسان صندوق های اهرمی از ۴ به ۶ درصد، پرسش هایی درباره اثر این تصمیم بر نقدشوندگی و تناسب آن با شرایط بازار مطرح کرده است.",
@@ -2221,6 +2127,54 @@
     "signal_matches": [
       "افزایش",
       "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "عقب نشینی آرام بورس",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4306620-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%A2%D8%B1%D8%A7%D9%85-%D8%A8%D9%88%D8%B1%D8%B3",
+    "summary": "دنیای اقتصاد: بازار سهام تهران در هفته گذشته برای سومین هفته متوالی با افت شاخص کل همراه شد؛ هرچند مقایسه عملکرد این نماگر در هفته های اخیر از کاهش تدریجی فشار فروش حکایت دارد.",
+    "published": "Fri, 06 Nov 2026 14:10:53 +0000",
+    "collected_at": "2026-11-06T20:00:23.216509+03:30",
+    "filter_market_score": 21,
+    "market_score": 21,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "شاخص کل",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "عقب‌نشینی",
+      "عقب نشینی",
+      "کاهش",
+      "افت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3033,48 +2987,6 @@
     "major_event_matches": [],
     "signal_matches": [
       "عرضه"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "نقشه راه نجات ذخایر ارزی؛ سد محکم برابر واردات لوکس و رانت خواری",
-    "link": "https://www.mehrnews.com/news/6999407/%D9%86%D9%82%D8%B4%D9%87-%D8%B1%D8%A7%D9%87-%D9%86%D8%AC%D8%A7%D8%AA-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B3%D8%AF-%D9%85%D8%AD%DA%A9%D9%85-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D9%84%D9%88%DA%A9%D8%B3-%D9%88-%D8%B1%D8%A7%D9%86%D8%AA-%D8%AE%D9%88%D8%A7%D8%B1%DB%8C",
-    "summary": "مدیریت دقیق دلارهای محدود کشور و قطع دست واردات تجملی، تنها راه تضمین تأمین کالای اساسی، مهار گرانی و بازگرداندن ثبات به سفره مردم است.",
-    "published": "Wed, 04 Nov 2026 04:32:00 GMT",
-    "collected_at": "2026-11-04T08:17:30.287365+03:30",
-    "filter_market_score": 16,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "ذخایر ارزی",
-      "واردات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "واردات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -4513,42 +4425,6 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "دستمزد کارگران قربانی سیاست های تورم زای دولت شد/ حیدری: کارگران نهادی مستقل برای پیگیری حقوقشان ندارند/ مجلس پیگیر افزایش مزدها شود",
-    "link": "https://www.khabaronline.ir/news/2296230/%D8%AF%D8%B3%D8%AA%D9%85%D8%B2%D8%AF-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B1%D9%85-%D8%B2%D8%A7%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D8%B4%D8%AF-%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86",
-    "summary": "کارشناس حوزه کار، با انتقاد از اظهارات معاون اول رئیس جمهور درباره تورم زا بودن افزایش دستمزدها، معتقد است سهم مزد در قیمت تمام شده کالاها ناچیز است و نمی توان مسئولیت تورم ناشی از سیاست های ارزی و اقتصادی را به گردن کارگران انداخت. او همچنین با انتقاد از اجرانشدن مصوبه مزدی شورای عالی کار، مجلس را مسئول نظارت بر عملکرد دولت دانسته و می گوید فقدان تشکل های مستقل کارگری و ضعف امنیت شغلی، امکان پیگیری مطالبات قانونی کارگران را به شدت محدود کرده است.",
-    "published": "Wed, 04 Nov 2026 03:39:00 GMT",
-    "collected_at": "2026-11-04T07:17:43.847556+03:30",
-    "filter_market_score": 8,
-    "market_score": 8,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "تورم"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "واکنش عربستان به ادعای وال استریت ژورنال درباره پرداخت غرامت 51 میلیارد دلاری به یمن",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306566-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%DB%8C%D8%AA-%DA%98%D9%88%D8%B1%D9%86%D8%A7%D9%84-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%BA%D8%B1%D8%A7%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D9%87-%DB%8C%D9%85%D9%86",
@@ -4842,37 +4718,6 @@
     "filter_applied": true
   },
   {
-    "source": "مهر",
-    "title": "وعده مدال طلا نداده بودیم؛ ریکرو یک قدم تا مدال آسیایی فاصله داشت",
-    "link": "https://www.mehrnews.com/news/6998700/%D9%88%D8%B9%D8%AF%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D8%B7%D9%84%D8%A7-%D9%86%D8%AF%D8%A7%D8%AF%D9%87-%D8%A8%D9%88%D8%AF%DB%8C%D9%85-%D8%B1%DB%8C%DA%A9%D8%B1%D9%88-%DB%8C%DA%A9-%D9%82%D8%AF%D9%85-%D8%AA%D8%A7-%D9%85%D8%AF%D8%A7%D9%84-%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%81%D8%A7%D8%B5%D9%84%D9%87",
-    "summary": "سرمربی تیم ملی ریکرو با اشاره به شانس کسب مدال تیم ملی در بازی های آسیایی ناگویا،گفت: ملی پوشان ایران برای رسیدن به سکو تمام تلاش خود را انجام دادند اما یک خطای کوچک فرصت مدال آوری را گرفت.",
-    "published": "Wed, 04 Nov 2026 05:05:13 GMT",
-    "collected_at": "2026-11-04T08:45:42.790064+03:30",
-    "filter_market_score": 6,
-    "market_score": 6,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "نبرد کنگره چقدر از پول ایلان ماسک را از بین برد؟",
     "link": "https://www.isna.ir/news/1405081409228/%D9%86%D8%A8%D8%B1%D8%AF-%DA%A9%D9%86%DA%AF%D8%B1%D9%87-%DA%86%D9%82%D8%AF%D8%B1-%D8%A7%D8%B2-%D9%BE%D9%88%D9%84-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%A8%DB%8C%D9%86-%D8%A8%D8%B1%D8%AF",
@@ -5006,14 +4851,14 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "واکنش بنزین آمریکا به پایان انتخابات میان دوره ای/ قیمت ها افزایش یافت",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306210-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D9%86%D8%B2%DB%8C%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%DB%8C%D8%A7%D9%86-%D8%AF%D9%88%D8%B1%D9%87-%D8%A7%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA",
-    "summary": "قیمت بنزین معمولی که پرمصرف ترین نوع بنزین در آمریکا است به ۴.۱۵ دلار در هر گالن رسید.",
-    "published": "Wed, 04 Nov 2026 03:30:24 +0000",
-    "collected_at": "2026-11-04T07:17:37.509746+03:30",
-    "filter_market_score": 5,
-    "market_score": 5,
+    "source": "مشرق",
+    "title": "بازداشت دو صهیونیست در آمریکا به اتهام کلاهبرداری با هوش مصنوعی",
+    "link": "https://www.mashreghnews.ir/news/1850923/%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D8%AF%D9%88-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C",
+    "summary": "کیفرخواست صادرشده در آمریکا، شهروندان صهیونیست را به کلاهبرداری ۱۲۹ میلیون دلاری از شرکت های بین المللی و استفاده از فناوری های هوش مصنوعی برای جعل هویت افراد متهم کرده است.",
+    "published": "Fri, 06 Nov 2026 13:56:16 GMT",
+    "collected_at": "2026-11-06T20:00:46.300885+03:30",
+    "filter_market_score": 4,
+    "market_score": 4,
     "market_matches": {
       "currency": [
         "دلار"
@@ -5032,10 +4877,38 @@
     },
     "driver_matches": [],
     "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "قیمت"
-    ],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "تابناک",
+    "title": "کلاهبرداری زیرکانه دو صهیونیست در آمریکا با هوش مصنوعی",
+    "link": "https://tabnak.ir/fa/news/4200181/%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D8%AF%D9%88-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-b8db7e6074da438a90d93626",
+    "summary": "کیفرخواست صادرشده در آمریکا، دو صهیونیست را به کلاهبرداری ۱۲۹ میلیون دلاری از شرکت های بین المللی و استفاده از فناوری های هوش مصنوعی برای جعل هویت افراد متهم کرد.",
+    "published": "Fri, 06 Nov 2026 14:34:58 +0000",
+    "collected_at": "2026-11-06T20:00:37.948190+03:30",
+    "filter_market_score": 4,
+    "market_score": 4,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },

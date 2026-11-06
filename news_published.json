@@ -32510,5 +32510,53 @@
     "group_message_id": 2354,
     "fully_published": true,
     "last_checked_at": "2026-11-06T08:49:01.814485+00:00"
+  },
+  "de2747929d13aedcd0bf4cea9c47511ce41ac49447359c1c612c291b4b554e58": {
+    "title": "عقب نشینی آرام بورس",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4306620-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%A2%D8%B1%D8%A7%D9%85-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      2604
+    ],
+    "eitaa_message_ids": [
+      180387355
+    ],
+    "group_message_ids": [
+      2359
+    ],
+    "content_hash": "083c3573d582d2404c464c359bdf50cf201818e5d5644faa9557b8e3fdf961cc",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-06T16:31:06.614254+00:00",
+    "telegram_message_id": 2604,
+    "eitaa_last_sent_at": "2026-11-06T16:31:08.050065+00:00",
+    "eitaa_message_id": 180387355,
+    "group_last_sent_at": "2026-11-06T16:31:09.883316+00:00",
+    "group_message_id": 2359,
+    "fully_published": true,
+    "last_checked_at": "2026-11-06T16:31:09.911352+00:00"
+  },
+  "e561f2a4651cf7962e344ec6845f4f5799b6443c9209a936c22d1e3a8a8df586": {
+    "title": "طلا از افزایش بیشتر بازماند؛ اونس طلا در بازار معاملات آتی ۴ هزار و ۷۲ دلار شد/ قیمت جدید طلای جهانی امروز ۱۵ آبان ۱۴۰۵",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2298300/%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A8%D8%A7%D8%B2%D9%85%D8%A7%D9%86%D8%AF-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B4",
+    "telegram_message_ids": [
+      2605
+    ],
+    "eitaa_message_ids": [
+      180387384
+    ],
+    "group_message_ids": [
+      2360
+    ],
+    "content_hash": "8d6171f17f0b98111165d843ecf6a0b41ecbec09b022374232f64a4bb1419df6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-06T16:31:11.625366+00:00",
+    "telegram_message_id": 2605,
+    "eitaa_last_sent_at": "2026-11-06T16:31:12.985438+00:00",
+    "eitaa_message_id": 180387384,
+    "group_last_sent_at": "2026-11-06T16:31:14.653728+00:00",
+    "group_message_id": 2360,
+    "fully_published": true,
+    "last_checked_at": "2026-11-06T16:31:14.680859+00:00"
   }
 }
