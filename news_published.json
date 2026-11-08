@@ -33686,5 +33686,53 @@
     "group_message_id": 2437,
     "fully_published": true,
     "last_checked_at": "2026-11-07T22:35:26.174302+00:00"
+  },
+  "55c0327cc6ad8d315e969eee3cc58900d132c0f06924c5d4cdea71bc8903591f": {
+    "title": "کارشناس اقتصادی: کاهش اعتماد به پلتفرم های طلا نقدینگی را به سمت بازار کالاها سوق می دهد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405081711003/%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A8%D9%87-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D9%87%D8%A7%DB%8C-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87",
+    "telegram_message_ids": [
+      2685
+    ],
+    "eitaa_message_ids": [
+      180636164
+    ],
+    "group_message_ids": [
+      2440
+    ],
+    "content_hash": "4778cc955a4176a390b693372aa6d7c857cb13b47710a61944a48e14826e7263",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-08T01:47:36.382209+00:00",
+    "telegram_message_id": 2685,
+    "eitaa_last_sent_at": "2026-11-08T01:47:37.536245+00:00",
+    "eitaa_message_id": 180636164,
+    "group_last_sent_at": "2026-11-08T01:47:39.171174+00:00",
+    "group_message_id": 2440,
+    "fully_published": true,
+    "last_checked_at": "2026-11-08T01:47:39.224536+00:00"
+  },
+  "2ec207feb96e61f6d7299697facabd249ff5cf2ddd049a189fd70aa05c8d6351": {
+    "title": "چینی ها رکورد خرید طلا را شکستند",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1851135/%DA%86%DB%8C%D9%86%DB%8C-%D9%87%D8%A7-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7-%D8%B1%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA%D9%86%D8%AF",
+    "telegram_message_ids": [
+      2686
+    ],
+    "eitaa_message_ids": [
+      180636165
+    ],
+    "group_message_ids": [
+      2441
+    ],
+    "content_hash": "a93c17804d20fb0f93c15f6da870b654c090cb122f07e9f334fd67db9682e72e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-08T01:47:40.868182+00:00",
+    "telegram_message_id": 2686,
+    "eitaa_last_sent_at": "2026-11-08T01:47:41.959974+00:00",
+    "eitaa_message_id": 180636165,
+    "group_last_sent_at": "2026-11-08T01:47:43.555709+00:00",
+    "group_message_id": 2441,
+    "fully_published": true,
+    "last_checked_at": "2026-11-08T01:47:43.608942+00:00"
   }
 }
