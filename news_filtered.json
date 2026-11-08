@@ -700,57 +700,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت پوند، دلار، یورو و انواع ارزها امروز ۱۴ آبان ۱۴۰۵ در زمان بازگشایی بازار/ پوند ۳۶۱ هزار و ۹۲۰ تومان قیمت پیدا کرد + جدول",
-    "link": "https://www.khabaronline.ir/news/2297822/%D9%82%DB%8C%D9%85%D8%AA-%D9%BE%D9%88%D9%86%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86",
-    "summary": "قیمت پوند، دلار، یورو و سایر ارزها امروز ۱۴ آبان ۱۴۰۵ اعلام شد. بر این اساس دلار ۲۶۸ هزار و۷۱۰ تومان و قیمت پوند ۳۶۱ هزار و ۹۲۰ تومان شد.",
-    "published": "Thu, 05 Nov 2026 05:44:00 GMT",
-    "collected_at": "2026-11-05T10:40:14.891392+03:30",
-    "filter_market_score": 34,
-    "market_score": 34,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو",
-        "پوند"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو",
-        "پوند"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو",
-        "پوند"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو",
-        "پوند"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "بازگشایی",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۱۵ آبان ۱۴۰۵/ هر گرم طلای ۱۸عیار ۲۶ میلیون و ۶۰ هزار تومان فروخته شد + جدول",
     "link": "https://www.khabaronline.ir/news/2298218/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B6%DB%B0",
     "summary": "قیمت طلا در بازار تهران امروز ۱۵ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار به قیمت ۲۶ میلیون و ۶۰ هزار تومان فروش رفت.",
@@ -795,56 +744,6 @@
     "signal_matches": [
       "قیمت",
       "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۱۴ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۲۴عیار ۳۴ میلیون و ۵۹۹ هزار تومان شد+ جدول",
-    "link": "https://www.khabaronline.ir/news/2297820/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
-    "summary": "قیمت طلا در بازار تهران امروز ۱۴ آبان ۱۴۰۵ اعلام و هر گرم طلای ۲۴ عیار ۳۴ میلیون و ۵۹۹ هزار تومان شد.",
-    "published": "Thu, 05 Nov 2026 05:03:27 GMT",
-    "collected_at": "2026-11-05T10:40:14.891410+03:30",
-    "filter_market_score": 33,
-    "market_score": 33,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۲۴ عیار",
-        "طلای 24 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۲۴ عیار",
-        "طلای 24 عیار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۲۴ عیار",
-        "طلای 24 عیار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۲۴ عیار",
-        "طلای 24 عیار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "بازگشایی"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2390,6 +2289,51 @@
     "filter_applied": true
   },
   {
+    "source": "مهر",
+    "title": "صادرات ۲۳۰ میلیون دلاری از سمنان؛ رشد آمارها و چالش های ارزی و تجاری",
+    "link": "https://www.mehrnews.com/news/7002129/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B2%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B1%D8%B4%D8%AF-%D8%A2%D9%85%D8%A7%D8%B1%D9%87%D8%A7-%D9%88-%DA%86%D8%A7%D9%84%D8%B4-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C",
+    "summary": "سمنان- سمنان با صادرات ۴۶۵ هزار تن کالا به ارزش ۲۳۰ میلیون دلار در هفت ماهه امسال، رشد ۵۴ درصدی ارزش صادرات را ثبت کرد؛ با این حال صادرکنندگان همچنان با موانع ارزی و تجاری روبه رو هستند.",
+    "published": "Sun, 08 Nov 2026 20:31:00 GMT",
+    "collected_at": "2026-11-09T02:49:05.698166+03:30",
+    "filter_market_score": 22,
+    "market_score": 22,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد",
+      "صادرات",
+      "آمار"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "قیمت دلار، یورو و درهم امروز یکشنبه ۱۷ آبان ۱۴۰۵/ افزایش قیمت دلار",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4307053-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
@@ -2429,6 +2373,54 @@
     "signal_matches": [
       "افزایش",
       "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "اولویت های اقتصادی بودجه 1406",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-100/4307207-%D8%A7%D9%88%D9%84%D9%88%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87",
+    "summary": "بخشنامه بودجه سال۱۴۰۶ در شرایطی به دستگاه های اجرایی ابلاغ شده که دولت با محدودیت منابع مالی، تداوم تورم بالا و ضرورت بازسازی ظرفیت های آسیب دیده اقتصاد روبه رو است. در این چارچوب، «ثبات، تاب آوری و بازسازی» سه محور اصلی سیاست های مالی سال آینده معرفی شده اند؛ رویکردی که مهار تورم و جلوگیری از تامین مالی تورم زای کسری بودجه را در کنار حفظ تولید و اشتغال و حمایت هدفمند از خانوارها قرار می دهد. دولت همچنین بر صرفه جویی در هزینه های جاری، محدود کردن تعهدات جدید و استفاده از سرمایه بخش خصوصی برای پیشبرد پروژه ها تاکید کرده است. در حوزه دستمزد نیز افزایش متوسط ۳۵درصدی حقوق کارکنان با الگوی پلکانی معکوس پیش بینی شده است تا سهم بیشتری از افزایش حقوق به کارکنان کم درآمد برسد. با این حال، تحقق اهداف معیشتی این سیاست به مهار تورم و توان دولت در تامین پایدار منابع وابسته است؛ چالشی که توازن میان انضباط مالی و حفظ قدرت خرید را به مساله اصلی بودجه سال آینده تبدیل می کند. محمدقاسمی، معاون هماهنگی سازمان برنامه و بودجه، در گفت وگو با گروه رسانه ای «دنیای اقتصاد»، با تشریح الزامات بودجه ریزی در شرایط جنگی، از ضرورت آمادگی برای سناریوی صفر شدن درآمدهای نفتی سخن گفت. به گفته او، جنگ همزمان منابع درآمدی دولت را کاهش داده و هزینه های آن را افزایش داده است؛ بنابراین، پرداخت حقوق کارکنان، مستمری بازنشستگان و تعهدات اوراق بدهی در اولویت قرار گرفته اند. این مقام مسوول همچنین تاکید کرد که دولت برای جلوگیری از تشدید تورم، از استقراض مستقیم از بانک مرکزی پرهیز کرده است. قاسمی اشاره کرد که دولت قصد دارد با کنترل هزینه ها، اصلاح ساختار دستگاه ها و هماهنگی سیاست های مالی، پولی، ارزی و انرژی، از انتقال فشارهای ناشی از محدودیت منابع به تولید و معیشت جلوگیری کند. با این حال، تحقق این اهداف به میزان پایبندی دستگاه های اجرایی به انضباط مالی و مهم تر از آن، موفقیت دولت در مهار تورم و تامین منابع پایدار بستگی دارد.",
+    "published": "Sun, 08 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-09T02:49:12.259604+03:30",
+    "filter_market_score": 21,
+    "market_score": 21,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [
+      "بانک مرکزی",
+      "تورم",
+      "نفت",
+      "کسری بودجه",
+      "بودجه"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [
+      "افزایش",
+      "کاهش",
+      "پیش‌بینی",
+      "پیش بینی",
+      "ابلاغ",
+      "حمایت",
+      "تولید",
+      "داده"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3223,54 +3215,6 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا امروز پنجشنبه ۱۴ آبان ۱۴۰۵ / افزایش قیمت طلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306425-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
-    "summary": "قیمت طلا امروز با افزایش 72 دلاری نسبت به روز گذشته، 4093 (چهار هزار و نود و سه) دلار نرخ گذاری شد.",
-    "published": "Thu, 05 Nov 2026 04:54:53 +0000",
-    "collected_at": "2026-11-05T10:40:04.395641+03:30",
-    "filter_market_score": 18,
-    "market_score": 18,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "قیمت",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "کارشناس اقتصادی: کاهش اعتماد به پلتفرم های طلا نقدینگی را به سمت بازار کالاها سوق می دهد",
     "link": "https://www.isna.ir/news/1405081711003/%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A8%D9%87-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D9%87%D8%A7%DB%8C-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87",
@@ -3308,6 +3252,48 @@
       "کاهش",
       "افزایش",
       "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت سکه امروز ۱۷ آبان ۱۴۰۵ در زمان بسته شدن بازار/ سکه بهار آزادی بیش از ۶ میلیون تومان ارزان شد و ۲۴۸ میلیون و ۲۰۰ هزار تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2299527/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87%D8%A7%D8%B1",
+    "summary": "قیمت سکه در بازار تهران امروز ۱۷ آبان ۱۴۰۵ اعلام شد و سکه امامی به قیمت ۲۵۷ میلیون هزار تومان رسید. سکه بهار آزادی هم با کاهش بیش از ۶ میلیون تومانی، ۲۴۸ میلیون و ۲۰۰ هزار تومان شد.",
+    "published": "Sun, 08 Nov 2026 20:11:00 GMT",
+    "collected_at": "2026-11-09T02:49:18.169021+03:30",
+    "filter_market_score": 16,
+    "market_score": 16,
+    "market_matches": {
+      "gold": [
+        "سکه بهار آزادی",
+        "سکه امامی"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "سکه بهار آزادی"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "سکه امامی",
+        "سکه بهار آزادی"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "سکه امامی",
+        "سکه بهار آزادی"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "کاهش",
+      "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3435,48 +3421,6 @@
     "signal_matches": [
       "کاهش",
       "افت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "تداوم کاهش قیمت نفت؛ برنت به ۹۳ دلار و ۸۲ سنت رسید",
-    "link": "https://www.mehrnews.com/news/7000906/%DA%A9%D8%A7%D9%87%D8%B4-%DA%86%D9%87%D8%A7%D8%B1%D9%85%DB%8C%D9%86-%D8%B1%D9%88%D8%B2-%D9%85%D8%AA%D9%88%D8%A7%D9%84%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%DB%B9%DB%B3-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%DB%B8%DB%B2-%D8%B3%D9%86%D8%AA-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "قیمت نفت در معاملات روز پنج شنبه برای چهارمین روز متوالی کاهش یافت و به کمتر از ۹۴ دلار رسید.",
-    "published": "Thu, 05 Nov 2026 06:26:31 GMT",
-    "collected_at": "2026-11-05T10:39:57.274963+03:30",
-    "filter_market_score": 16,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "معاملات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -4110,46 +4054,6 @@
     "filter_applied": true
   },
   {
-    "source": "مشرق",
-    "title": "هرمز تورم اروپا را به اوج سه ساله رساند",
-    "link": "https://www.mashreghnews.ir/news/1850564/%D9%87%D8%B1%D9%85%D8%B2-%D8%AA%D9%88%D8%B1%D9%85-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%A7%D9%88%D8%AC-%D8%B3%D9%87-%D8%B3%D8%A7%D9%84%D9%87-%D8%B1%D8%B3%D8%A7%D9%86%D8%AF",
-    "summary": "در حالی که تبعات جنگ آمریکا درخاورمیانه همچنان بازار جهانی انرژی را تحت تأثیر قرار داده است،موج گرانی ناشی ازافزایش قیمت نفت به اقتصاد اروپا رسیدو تورم منطقه یورو را به بالاترین سطح سه سال اخیر رساند.",
-    "published": "Thu, 05 Nov 2026 04:00:00 GMT",
-    "collected_at": "2026-11-05T10:40:27.116695+03:30",
-    "filter_market_score": 14,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "driver_matches": [
-      "تورم",
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "قیمت",
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "بلومبرگ: بودجه ۱.۵ تریلیون دلاری ترامپ توسط دموکرات ها مسدود می شود",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4307224-%D8%A8%D9%84%D9%88%D9%85%D8%A8%D8%B1%DA%AF-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%D9%85%D8%B3%D8%AF%D9%88%D8%AF-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
@@ -4306,6 +4210,46 @@
     "filter_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "جنگ ایران با اقتصاد آمریکا چه کرد؟/ از نفت ۱۱۷دلاری تا سقوط وال استریت",
+    "link": "https://www.mashreghnews.ir/news/1851422/%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%DA%86%D9%87-%DA%A9%D8%B1%D8%AF-%D8%A7%D8%B2-%D9%86%D9%81%D8%AA-%DB%B1%DB%B1%DB%B7%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%B3%D9%82%D9%88%D8%B7-%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%DB%8C%D8%AA",
+    "summary": "جنگ ایران با جهش نفت و نرخ بهره، هزینه بدهی آمریکا را بالا برد و بورس را به عقب راند.",
+    "published": "Sun, 08 Nov 2026 22:00:00 GMT",
+    "collected_at": "2026-11-09T02:49:26.204007+03:30",
+    "filter_market_score": 12,
+    "market_score": 12,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [
+      "نرخ بهره",
+      "نفت"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [
+      "سقوط",
+      "جهش",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "توافق مجلس و دولت برای ترمیم دو مرحله ای حقوق ها از محل مابه التفاوت ارز/ بابایی: ادعای نبود منابع برای افزایش حقوق ها صحت ندارد",
     "link": "https://www.khabaronline.ir/news/2298659/%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%85%D8%AC%D9%84%D8%B3-%D9%88-%D8%AF%D9%88%D9%84%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B1%D9%85%DB%8C%D9%85-%D8%AF%D9%88-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%A7%DB%8C-%D8%AD%D9%82%D9%88%D9%82-%D9%87%D8%A7-%D8%A7%D8%B2-%D9%85%D8%AD%D9%84-%D9%85%D8%A7%D8%A8%D9%87-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%AA",
@@ -4339,45 +4283,6 @@
     "signal_matches": [
       "افزایش",
       "توافق"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۱۴ آبان ۱۴۰۵ در زمان بازگشایی بازار/ ربع سکه ۷۵ میلیون و ۳۰۰ هزار تومان قیمت خورد + جدول",
-    "link": "https://www.khabaronline.ir/news/2297821/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%DB%B7%DB%B5",
-    "summary": "قیمت سکه در بازار تهران امروز ۱۴ آبان ۱۴۰۵ اعلام شد و ربع سکه ۷۵ میلیون و ۳۰۰ هزار تومان قیمت خورد.",
-    "published": "Thu, 05 Nov 2026 05:19:00 GMT",
-    "collected_at": "2026-11-05T10:40:14.891402+03:30",
-    "filter_market_score": 12,
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "ربع سکه"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "ربع سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "ربع سکه"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "ربع سکه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "بازگشایی",
-      "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -4716,43 +4621,6 @@
     "filter_applied": true
   },
   {
-    "source": "تابناک",
-    "title": "ردپای دو ریسک بزرگ در پتروشیمی خلیج فارس؛ از فریز ۱۹۰ میلیون دلاری تا تهدید مالیاتی ۴.۷ همتی",
-    "link": "https://tabnak.ir/fa/news/100000397/%D8%B1%D8%AF%D9%BE%D8%A7%DB%8C-%D8%AF%D9%88-%D8%B1%DB%8C%D8%B3%DA%A9-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AF%D8%B1-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C-%D8%AE%D9%84%DB%8C%D8%AC%D9%81%D8%A7%D8%B1%D8%B3-%D8%A7%D8%B2-%D9%81%D8%B1%DB%8C%D8%B2-%DB%B1%DB%B9%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%DB%B4%DB%B7-%D9%87%D9%85%D8%AA%DB%8C-33c65ed64eea4e8bb6f626a1",
-    "summary": "پشت صورت های مالی پتروشیمی خلیج فارس، گزارش حسابرس از دو ریسک بزرگ پرده برمی دارد: قفل شدن ۱۹۰ میلیون دلار مطالبات و سرمایه در باتلاق ۱۰ ساله پتروشیمی فیلیپین، و ابهام سنگین مالیاتی ۴.۷ همتی که بدون ثبت ذخیره در حساب ها، همچنان در حال پیگیری است.",
-    "published": "Thu, 05 Nov 2026 04:52:29 +0000",
-    "collected_at": "2026-11-05T10:40:19.958907+03:30",
-    "filter_market_score": 11,
-    "market_score": 11,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "مشرق",
     "title": "زیدان: امباپه به اندازه کین شایستگی دریافت توپ طلا را داشت",
     "link": "https://www.mashreghnews.ir/news/1851400/%D8%B2%DB%8C%D8%AF%D8%A7%D9%86-%D8%A7%D9%85%D8%A8%D8%A7%D9%BE%D9%87-%D8%A8%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%D9%87-%DA%A9%DB%8C%D9%86-%D8%B4%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7-%D8%B1%D8%A7-%D8%AF%D8%A7%D8%B4%D8%AA",
@@ -5005,44 +4873,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "نفت در مسیر نزولی/ قیمت هر بشکه نفت برنت چند؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306415-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%B1-%D8%A8%D8%B4%DA%A9%D9%87-%D9%86%D9%81%D8%AA-%D8%A8%D8%B1%D9%86%D8%AA-%DA%86%D9%86%D8%AF",
-    "summary": "قیمت نفت خام برنت با ۹۷ سنت (۱.۰۳ درصد) کاهش به ۹۳.۶۵ دلار در هر بشکه رسید.",
-    "published": "Thu, 05 Nov 2026 04:18:13 +0000",
-    "collected_at": "2026-11-05T10:40:04.395719+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "نزول",
-      "قیمت",
-      "کاهش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "ترامپ: سه تریلیون دلار در پی باخت در انتخابات از دست دادیم",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4307144-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B3%D9%87-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%A8%D8%A7%D8%AE%D8%AA-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF%DB%8C%D9%85",
     "summary": "رئیس جمهور آمریکا به از دست رفتن سه تریلیون دلار در پی شکست در انتخابات کنگره اعتراف کرد.",
@@ -5109,6 +4939,42 @@
     "signal_matches": [
       "صعود",
       "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "دلارسازهای دیجیتالی پیونگ یانگ",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-19/4307133-%D8%AF%D9%84%D8%A7%D8%B1%D8%B3%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84%DB%8C-%D9%BE%DB%8C%D9%88%D9%86%DA%AF-%DB%8C%D8%A7%D9%86%DA%AF",
+    "summary": "کره شمالی و ارتش سایبری اش، پس از هک بایننس صدر اخبار را تصاحب کردند. اخیرا رویترز گزارشی منتشر کرده است که ابعاد پنهان ارتش مخوف دیجیتالی کره شمالی را روایت می کند. بر اساس اطلاعات رویترز، کره شمالی به هکرهای برجسته خود که ماموریت هایی مانند سرقت سایبری از صرافی رمزارزی بایننس را بر عهده دارند و در این عملیات 6.3 میلیارد دلار به دست آورده اند، پاداش هایی نظیر آپارتمانی بزرگ در پایتخت، پیونگ یانگ، و مبالغ هنگفتی ارز خارجی اعطا می کند.",
+    "published": "Sun, 08 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-09T02:49:12.259658+03:30",
+    "filter_market_score": 8,
+    "market_score": 8,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "گزارش"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -5256,35 +5122,37 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "از ریشه یابی دلایل شکست جمهوری خواهان از سوی ونس تا ورود نفت به زیر ۱۰۰ دلار",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4305513-%D8%A7%D8%B2-%D8%B1%DB%8C%D8%B4%D9%87-%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AF%D9%84%D8%A7%DB%8C%D9%84-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D8%A7%D9%86-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D9%88%D9%86%D8%B3-%D8%AA%D8%A7-%D9%88%D8%B1%D9%88%D8%AF-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "دنیای اقتصاد: دنیای اقتصاد هرصبح در پادکست«دشت اول» به بررسی مهم ترین اخبار اقتصادی و سیاسی ایران و جهان به صورت خلاصه می پردازد تا بتوانید در کوتاه ترین زمان از مهم ترین تحولات داخلی و بین المللی باخبر شوید.",
-    "published": "Thu, 05 Nov 2026 03:28:04 +0000",
-    "collected_at": "2026-11-05T10:40:04.395737+03:30",
-    "filter_market_score": 8,
-    "market_score": 8,
+    "source": "ایسنا",
+    "title": "سردار مقدسی: در جنگ نابرابر، آمریکا از پنج اریکه قدرت به زیر کشیده شد",
+    "link": "https://www.isna.ir/news/1405081811854/%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D9%85%D9%82%D8%AF%D8%B3%DB%8C-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D9%86%D8%A7%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D9%BE%D9%86%D8%AC-%D8%A7%D8%B1%DB%8C%DA%A9%D9%87-%D9%82%D8%AF%D8%B1%D8%AA-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1",
+    "summary": "استاد دانشگاه گفت: امروز ایران توانست آمریکا را از پنج اریکه قدرت به زیر بکشد. در عرصه اقتصادی، قیمت بنزین و گازوئیل در آمریکا از دو دلار به ۶ دلار در برخی ایالت ها رسید و نتیجه آن، شکست مفتضحانه حزب جمهوری خواه بود که مجلس سنا و کنگره را از دست داد.",
+    "published": "Sun, 08 Nov 2026 21:15:29 GMT",
+    "collected_at": "2026-11-09T02:49:00.709005+03:30",
+    "filter_market_score": 7,
+    "market_score": 7,
     "market_matches": {
       "currency": [
         "دلار"
       ]
     },
-    "title_market_matches": {
+    "title_market_matches": {},
+    "summary_market_matches": {
       "currency": [
         "دلار"
       ]
     },
-    "summary_market_matches": {},
     "full_text_market_matches": {
       "currency": [
         "دلار"
       ]
     },
-    "driver_matches": [
-      "نفت"
+    "driver_matches": [],
+    "major_event_matches": [
+      "جنگ"
     ],
-    "major_event_matches": [],
-    "signal_matches": [],
+    "signal_matches": [
+      "قیمت"
+    ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
@@ -5553,6 +5421,39 @@
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "تابناک",
+    "title": "لحظه رکوردشکنی علیرضا یوسفی در وزنه برداری قهرمانی جهان",
+    "link": "https://tabnak.ir/fa/news/4200682/%D9%84%D8%AD%D8%B8%D9%87-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%DB%8C%D9%88%D8%B3%D9%81%DB%8C-%D8%AF%D8%B1-%D9%88%D8%B2%D9%86%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-2074979904c04d8ca78681cb",
+    "summary": "علیرضا یوسفی در رقابت های وزنه برداری قهرمانی جهان، با مهار وزنه ۲۶۳ کیلوگرمی در حرکت دوضرب دسته ۱۱۰+ کیلوگرم، رکورد جهان را جابه جا کرد. او با این عملکرد به مدال طلای دوضرب رسید و در مجموع مسابقات نیز مدال نقره را کسب کرد.",
+    "published": "Sun, 08 Nov 2026 19:05:00 +0000",
+    "collected_at": "2026-11-09T02:49:21.227091+03:30",
+    "filter_market_score": 5,
+    "market_score": 5,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رکورد"
+    ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
