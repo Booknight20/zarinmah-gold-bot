@@ -506,6 +506,59 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا ظهر امروز ۱۷ آبان ۱۴۰۵/ هر گرم طلای ۱۸ عیار ۲۵ میلیون و ۲۵۰ هزار تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2299201/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8-%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "summary": "قیمت طلا در بازار تهران امروز ۱۷ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۵ میلیون و ۲۵۰ هزار تومان قیمت خورد. هر مثقال طلا نیز ۱۰۹ میلیون و ۳۸۰ هزار تومان به فروش می رسد.",
+    "published": "Sun, 08 Nov 2026 09:09:00 GMT",
+    "collected_at": "2026-11-08T19:02:22.836855+03:30",
+    "filter_market_score": 36,
+    "market_score": 36,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "گرم طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار",
+        "مثقال طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "گرم طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "مثقال طلا",
+        "گرم طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا",
+        "مثقال طلا",
+        "گرم طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "سومین هفته نزولی شاخص کل",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4306664-%D8%B3%D9%88%D9%85%DB%8C%D9%86-%D9%87%D9%81%D8%AA%D9%87-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84",
@@ -2107,59 +2160,6 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "واکنش متفاوت بورس آمریکا و بازار نفت به پیروزی دموکرات ها / داوجونز هزار واحد رشد کرد، نفت ۳ دلار ارزان شد",
-    "link": "https://www.khabaronline.ir/live/2297768/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%D8%AF%D8%A7%D9%88%D8%AC%D9%88%D9%86%D8%B2",
-    "summary": "بازارهای جهانی در چهارشنبه ۱۳ آبان ۱۴۰۵، تحت تأثیر نتایج انتخابات میان دوره ای آمریکا و تحولات جنگ ایران، واکنش های متفاوتی نشان دادند. در حالی که بورس آمریکا معاملات خود را با رشد قابل توجه شاخص های اصلی آغاز کرد، بازار نفت با کاهش بیش از ۳ درصدی قیمت ها مواجه شد.",
-    "published": "Wed, 04 Nov 2026 16:45:17 GMT",
-    "collected_at": "2026-11-04T22:36:45.546163+03:30",
-    "filter_market_score": 26,
-    "market_score": 26,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "رشد",
-      "کاهش",
-      "قیمت",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "تأمین نزدیک به ۳۰ میلیارد دلار ارز واردات؛ آمار جدید بانک مرکزی به روایت همتی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306960-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%A8%D9%87-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%A2%D9%85%D8%A7%D8%B1-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D9%87%D9%85%D8%AA%DB%8C",
@@ -2202,6 +2202,52 @@
       "آمار",
       "تولید",
       "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "سخنگوی صمت: واردات خودرو صرفا از طریق ایرانیان مقیم خارج از کشور ممنوع است/ عرضه سهمیه واردات خودرو در بورس کالا باعث افزایش قیمت خودرو می شود",
+    "link": "https://www.khabaronline.ir/news/2299294/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%B5%D9%85%D8%AA-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%B5%D8%B1%D9%81%D8%A7-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86-%D9%85%D9%82%DB%8C%D9%85-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1",
+    "summary": "سخنگوی صمت با بیان این که عرضه سهمیه واردات خودرو در بورس کالا باعث افزایش قیمت خودرو می شود و یک بازار انحصاری برای واردات ایجاد می کند، گفت: واردات خودرو ممنوع نشده، بلکه صرفا واردات از طریق ایرانیان مقیم خارج از کشور ممنوع شده است.",
+    "published": "Sun, 08 Nov 2026 12:00:00 GMT",
+    "collected_at": "2026-11-08T19:02:22.836718+03:30",
+    "filter_market_score": 23,
+    "market_score": 23,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "بورس کالا"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "بورس کالا"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "بورس کالا"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "بورس کالا"
+      ]
+    },
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "عرضه",
+      "واردات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2556,47 +2602,50 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "تداوم برتری تقاضا در بورس/ بررسی ابعاد تغییر دامنه نوسان صندوق های اهرمی +فیلم",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306320-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%A7%D8%A8%D8%B9%D8%A7%D8%AF-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
-    "summary": "بورس تهران در آخرین روز کاری هفته با تداوم برتری تقاضا، رشد شاخص ها و ورود حدود ۱.۶ همت پول حقیقی، هفته ای مثبت را به پایان رساند. هم زمان، افزایش دامنه نوسان صندوق های اهرمی از ۴ به ۶ درصد، پرسش هایی درباره اثر این تصمیم بر نقدشوندگی و تناسب آن با شرایط بازار مطرح کرده است.",
-    "published": "Wed, 04 Nov 2026 15:44:33 +0000",
-    "collected_at": "2026-11-04T22:36:29.930423+03:30",
-    "filter_market_score": 22,
-    "market_score": 22,
+    "source": "مهر",
+    "title": "اطلاعیه جدید حراج شمش طلا در مرکز مبادله ایران",
+    "link": "https://www.mehrnews.com/news/7004491/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AD%D8%B1%D8%A7%D8%AC-%D8%B4%D9%85%D8%B4-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "summary": "مرکز مبادله ایران سه شنبه ۱۹ آبان ماه میزبان یکصد و شصت و یکمین حراج شمش طلا خواهد بود و متقاضیان واجد شرایط تا پایان روز دوشنبه ۱۸ آبان برای ثبت نام و واریز وجه الضمان فرصت دارند.",
+    "published": "Sun, 08 Nov 2026 15:23:50 GMT",
+    "collected_at": "2026-11-08T19:01:59.628074+03:30",
+    "filter_market_score": 21,
+    "market_score": 21,
     "market_matches": {
-      "stock": [
-        "بورس",
-        "دامنه نوسان"
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "مرکز مبادله"
       ]
     },
     "title_market_matches": {
-      "stock": [
-        "بورس",
-        "دامنه نوسان"
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "مرکز مبادله"
       ]
     },
     "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "دامنه نوسان"
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "مرکز مبادله"
       ]
     },
     "full_text_market_matches": {
-      "stock": [
-        "بورس",
-        "دامنه نوسان"
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "مرکز مبادله"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "نوسان",
-      "تقاضا",
-      "تغییر",
-      "افزایش",
-      "رشد",
-      "تصمیم"
+      "حراج"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2736,6 +2785,52 @@
       "عقب نشینی",
       "کاهش",
       "افت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "احتیاط بورس در مرز ۸ میلیونی",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4307103-%D8%A7%D8%AD%D8%AA%DB%8C%D8%A7%D8%B7-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C",
+    "summary": "دنیای اقتصاد: بورس تهران در معاملات امروز، با افزایش عرضه ها و تشدید فشار فروش از سوی سرمایه گذاران حقیقی مواجه شد. شاخص کل بورس که در میانه معاملات با رشد ۱.۸۱ درصدی توانسته بود از مرز ۸ میلیون و ۲۰۰ هزار واحد عبور کند، در ادامه تحت تاثیر افزایش عرضه ها بخش عمده رشد روزانه خود را از دست داد ودر نهایت با افزایش ۰.۰۸ درصدی کار خود را به پایان رساند.",
+    "published": "Sun, 08 Nov 2026 13:21:36 +0000",
+    "collected_at": "2026-11-08T19:02:12.033879+03:30",
+    "filter_market_score": 20,
+    "market_score": 20,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص کل بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص کل بورس"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص کل بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "رشد",
+      "معاملات",
+      "عرضه"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2915,6 +3010,54 @@
       "افزایش",
       "قیمت",
       "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا امروز یکشنبه ۱۷ آبان ۱۴۰۵",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4307026-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86",
+    "summary": "قیمت طلا امروز بدون تغییر نسبت به روز گذشته، 4069 (چهار هزار و شصت و نه) دلار نرخ گذاری شد.",
+    "published": "Sun, 08 Nov 2026 13:21:02 +0000",
+    "collected_at": "2026-11-08T19:02:12.033892+03:30",
+    "filter_market_score": 18,
+    "market_score": 18,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "نرخ",
+      "تغییر"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3198,53 +3341,6 @@
   },
   {
     "source": "ایسنا",
-    "title": "فوربس: پیروزی دموکرات ها ۱۱۱ میلیون دلار به ترامپ خسارت زد",
-    "link": "https://www.isna.ir/news/1405081409218/%D9%81%D9%88%D8%B1%D8%A8%D8%B3-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%DB%B1%DB%B1%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%AB%D8%B1%D9%88%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%DA%A9%D8%A7%D8%B3%D8%AA",
-    "summary": "ثروت دونالد ترامپ، رئیس جمهور آمریکا پس از پیروزی دموکرات ها در انتخابات میان دوره ای و در پی سقوط سهام شرکت «ترامپ مدیا اند تکنولوژی گروپ» (Trump Media & Technology Group)، مالک پلتفرم تروث سوشال (Truth Social)، حدود ۱۱۱ میلیون دلار کاهش یافت.",
-    "published": "Wed, 04 Nov 2026 21:11:00 GMT",
-    "collected_at": "2026-11-05T03:48:08.051784+03:30",
-    "filter_market_score": 18,
-    "market_score": 18,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "سهام"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "سهام"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "سقوط"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "ایسنا",
     "title": "کارشناس اقتصادی: کاهش اعتماد به پلتفرم های طلا نقدینگی را به سمت بازار کالاها سوق می دهد",
     "link": "https://www.isna.ir/news/1405081711003/%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A8%D9%87-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D9%87%D8%A7%DB%8C-%D8%B7%D9%84%D8%A7-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87",
     "summary": "یک کارشناس اقتصادی گفت: کاهش اعتماد عمومی به پلتفرم های آنلاین طلا و ابزارهای جذب نقدینگی می تواند موجب حرکت بخشی از نقدینگی به سمت خرید کالاهای مختلف شود و با افزایش تقاضا، فشار تورمی بیشتری به اقتصاد کشور وارد کند.",
@@ -3491,47 +3587,6 @@
       "کاهش",
       "قیمت",
       "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "سقوط آزاد نفت به زیر ۱۰۰ دلار/ برنت دو رقمی شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306372-%D8%B3%D9%82%D9%88%D8%B7-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%B1%D9%86%D8%AA-%D8%AF%D9%88-%D8%B1%D9%82%D9%85%DB%8C-%D8%B4%D8%AF",
-    "summary": "از ۲۹ روز پیش قیمت نفت از ۱۰۰ دلار پایین تر نیامده بود و در این مدت تا مرز ۱۱۹ دلار در هر بشکه هم رفت اما اکنون قیمت آن به ۹۹.۳۷ دلار رسید.",
-    "published": "Wed, 04 Nov 2026 17:50:52 +0000",
-    "collected_at": "2026-11-04T22:36:29.930108+03:30",
-    "filter_market_score": 16,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "سقوط",
-      "قیمت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3824,41 +3879,46 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "تصمیم درباره تراستی های نفتی/ بانک مرکزی راه خالی خوانی تراستی ها را بست",
-    "link": "https://www.khabaronline.ir/news/2297418/%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%B1%D8%A7%D8%B3%D8%AA%DB%8C-%D9%87%D8%A7%DB%8C-%D9%86%D9%81%D8%AA%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%B1%D8%A7%D9%87-%D8%AE%D8%A7%D9%84%DB%8C-%D8%AE%D9%88%D8%A7%D9%86%DB%8C-%D8%AA%D8%B1%D8%A7%D8%B3%D8%AA%DB%8C-%D9%87%D8%A7",
-    "summary": "سال ها امکان اعلام انتقال ارز بدون جابه جایی واقعی پول وجود داشت. حالا بانک مرکزی در تصمیمی جدید، برای پایان این رویه سازوکار تازه ای تصویب کرده است. در سال های گذشته خالی خوانی برخی تراستی ها باعث شد بخشی از ارز حاصل از صادرات نفت به کشور بازنگردد.",
-    "published": "Wed, 04 Nov 2026 12:31:00 GMT",
-    "collected_at": "2026-11-04T22:36:45.546267+03:30",
-    "filter_market_score": 15,
-    "market_score": 15,
+    "source": "تابناک",
+    "title": "ترامپ: نتایج انتخابات اخیر آمریکا را به عقب برد",
+    "link": "https://tabnak.ir/fa/news/4200621/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D8%AE%DB%8C%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B9%D9%82%D8%A8-%D8%A8%D8%B1%D8%AF-9aca768a8f774732b9f7333b",
+    "summary": "رئیس جمهور آمریکا در واکنش به نتایج انتخابات اخیر، از آنچه عقب گرد تاریخی این کشور خواند انتقاد کرد و کاهش سه تریلیون دلاری ارزش بازار سهام را به رخ کشید.",
+    "published": "Sun, 08 Nov 2026 14:36:00 +0000",
+    "collected_at": "2026-11-08T19:02:34.399275+03:30",
+    "filter_market_score": 14,
+    "market_score": 14,
     "market_matches": {
       "currency": [
-        "ارز"
+        "دلار"
+      ],
+      "stock": [
+        "سهام",
+        "بازار سهام"
       ]
     },
     "title_market_matches": {},
     "summary_market_matches": {
       "currency": [
-        "ارز"
+        "دلار"
+      ],
+      "stock": [
+        "سهام",
+        "بازار سهام"
       ]
     },
     "full_text_market_matches": {
       "currency": [
-        "ارز"
+        "دلار"
+      ],
+      "stock": [
+        "سهام",
+        "بازار سهام"
       ]
     },
-    "driver_matches": [
-      "بانک مرکزی",
-      "نفت",
-      "صادرات نفت",
-      "صادرات"
-    ],
+    "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "تصمیم",
-      "تصویب",
-      "صادرات"
+      "کاهش"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -4470,6 +4530,80 @@
     "filter_applied": true
   },
   {
+    "source": "مهر",
+    "title": "«پایگاه داده بورس تهران» در هجدهمین نمایشگاه نظام مالی رونمایی می شود",
+    "link": "https://www.mehrnews.com/news/7004497/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%87%D8%AC%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%A7%D9%84%DB%8C-%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C",
+    "summary": "معاون عملیات بازار بورس تهران از رونمایی «پایگاه داده بورس تهران» در هجدهمین نمایشگاه نظام مالی، سرمایه گذاری و زیرساخت های دیجیتال خبر داد.",
+    "published": "Sun, 08 Nov 2026 15:24:10 GMT",
+    "collected_at": "2026-11-08T19:01:59.628060+03:30",
+    "filter_market_score": 11,
+    "market_score": 11,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "۵ برنامه فرابورس در هجدهمین نمایشگاه نظام مالی و سرمایه گذاری",
+    "link": "https://www.mehrnews.com/news/7004560/%DB%B5-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%81%D8%B1%D8%A7%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%87%D8%AC%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%A7%D9%84%DB%8C-%D9%88-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C",
+    "summary": "۵ برنامه فرابورس با محوریت توسعه زنجیره تأمین مالی بنگاه ها، معرفی خدمات و درگاه های نوین در هجدهمین نمایشگاه نظام مالی، سرمایه گذاری و زیرساخت های دیجیتال اعلام شد.",
+    "published": "Sun, 08 Nov 2026 15:25:07 GMT",
+    "collected_at": "2026-11-08T19:01:59.628019+03:30",
+    "filter_market_score": 11,
+    "market_score": 11,
+    "market_matches": {
+      "stock": [
+        "فرابورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "فرابورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "فرابورس"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "فرابورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مشرق",
     "title": "یوسفی با شکستن رکورد جهان طلا گرفت/ ۳ مدال برای ۲ فوق سنگین ایران +فیلم",
     "link": "https://www.mashreghnews.ir/news/1851299/%DB%8C%D9%88%D8%B3%D9%81%DB%8C-%D8%A8%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA%D9%86-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AC%D9%87%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA-%DB%B3-%D9%85%D8%AF%D8%A7%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%DB%B2-%D9%81%D9%88%D9%82-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
@@ -4803,6 +4937,79 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت سکه ظهر امروز ۱۷ آبان ۱۴۰۵/ سکه به قیمت ۲۵۶ میلیون و ۵۰۰ هزار تومان رسید + جدول",
+    "link": "https://www.khabaronline.ir/news/2299203/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%DB%B2%DB%B5%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B5%DB%B0%DB%B0",
+    "summary": "قیمت سکه در بازار تهران امروز ۱۷ آبان ۱۴۰۵ اعلام شد و سکه امامی به قیمت ۲۵۶ میلیون و ۵۰۰ هزار تومان رسید. نیم سکه نیز با کاهشی اندک به ۱۳۶ میلیون تومان رسید.",
+    "published": "Sun, 08 Nov 2026 08:45:00 GMT",
+    "collected_at": "2026-11-08T19:02:22.836868+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "gold": [
+        "سکه امامی",
+        "نیم سکه"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "سکه امامی",
+        "نیم سکه"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "سکه امامی",
+        "نیم سکه"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "کاهش",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "مهر",
+    "title": "ایران رئیس کمیته توسعه کسب وکار انجمن بین المللی بورس های کالایی شد",
+    "link": "https://www.mehrnews.com/news/7004507/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A6%DB%8C%D8%B3-%DA%A9%D9%85%DB%8C%D8%AA%D9%87-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%DA%A9%D8%B3%D8%A8-%D9%88%DA%A9%D8%A7%D8%B1-%D8%A7%D9%86%D8%AC%D9%85%D9%86-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D9%84%D8%A7%DB%8C%DB%8C",
+    "summary": "بورس انرژی ایران با کسب سه کرسی در کمیته های تخصصی انجمن بین المللی بورس های کالایی و آتی (ACE)، ریاست کمیته توسعه کسب وکار این انجمن را نیز بر عهده گرفت.",
+    "published": "Sun, 08 Nov 2026 15:24:30 GMT",
+    "collected_at": "2026-11-08T19:01:59.628046+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "مکتب خونه پانزدهمین سال فعالیت خود را با بورسیه ۲۰۰۰ دلاری دانشگاه هاروارد جشن می گیرد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4306849-%D9%85%DA%A9%D8%AA%D8%A8-%D8%AE%D9%88%D9%86%D9%87-%D9%BE%D8%A7%D9%86%D8%B2%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D8%B3%D8%A7%D9%84-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%A8%D8%A7-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C%D9%87-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%D8%B1%D9%88%D8%A7%D8%B1%D8%AF-%D8%AC%D8%B4%D9%86-%D9%85%DB%8C-%DA%AF%DB%8C%D8%B1%D8%AF",
@@ -5019,42 +5226,6 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "واکنش بازارهای مالی به پیروزی دموکرات ها/ بورس اروپا رشد کرد، نفت عقب نشست",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306338-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D9%87-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF-%D9%86%D9%81%D8%AA-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%D8%B3%D8%AA",
-    "summary": "با اعلام پذیرش باخت و همکاری با دموکرات ها توسط ترامپ، بازارها به این نتیجه رسیدند که احتمالا تغییر قدرت در کنگره قرار نیست نااطمینانی بیشتری در بازارها ایجاد کند.",
-    "published": "Wed, 04 Nov 2026 17:05:40 +0000",
-    "collected_at": "2026-11-04T22:36:29.930206+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "تغییر"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "تابناک",
     "title": "نفت دوباره در رالی صعود",
     "link": "https://tabnak.ir/fa/news/4200110/%D9%86%D9%81%D8%AA-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%84%DB%8C-%D8%B5%D8%B9%D9%88%D8%AF-dd0a84f3e7a643dcb1a6cd61",
@@ -5129,39 +5300,37 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "از انقباض تولید و افت سرمایه گذاری تا افزایش هزینه بدهی و دشواری اجرای اصلاحات مالی در فضای بی ثبات سیاسی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4306343-%D8%A7%D8%B2-%D8%A7%D9%86%D9%82%D8%A8%D8%A7%D8%B6-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A7%D9%81%D8%AA-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%A8%D8%AF%D9%87%DB%8C-%D8%AF%D8%B4%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B5%D9%84%D8%A7%D8%AD%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B6%D8%A7%DB%8C-%D8%A8%DB%8C-%D8%AB%D8%A8%D8%A7%D8%AA-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C",
-    "summary": "دنیای اقتصاد؛ اقتصاد فرانسه برخلاف روند کلی منطقه یورو کوچک تر شده است. تازه ترین آمارها از انقباض ۰.۱ درصدی اقتصاد فرانسه در سه ماهه سوم ۲۰۲۶ حکایت دارد؛ آن هم در شرایطی که اقتصاد منطقه یورو ۰.۴ درصد رشد کرده است.",
-    "published": "Wed, 04 Nov 2026 17:30:00 +0000",
-    "collected_at": "2026-11-04T22:36:29.930159+03:30",
-    "filter_market_score": 9,
-    "market_score": 9,
+    "source": "خبرآنلاین اقتصادی",
+    "title": "نگاهی به گزارش سال ۱۴۰۴ «طلاین»؛ رشد در سایه ی بحران",
+    "link": "https://www.khabaronline.ir/news/2299263/%D9%86%DA%AF%D8%A7%D9%87%DB%8C-%D8%A8%D9%87-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%B3%D8%A7%D9%84-%DB%B1%DB%B4%DB%B0%DB%B4-%D8%B7%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D8%B4%D8%AF-%D8%AF%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%DB%8C-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86",
+    "summary": "گزارش سالانه طلاین تصویری از چالش های فعالیت پلتفرم های مالی آنلاین در شرایط بحرانی ارائه می دهد؛ از اختلال اینترنت و محدودیت شبکه بانکی گرفته تا افزایش تقاضا برای تحویل فیزیکی طلا و فشار بر نیروی انسانی. این پلتفرم در گزارش خود، اقدامات فنی، عملیاتی و مدیریتی برای تداوم خدمات و پاسخ گویی به کاربران در سالی پرالتهاب را تشریح کرده است.",
+    "published": "Sun, 08 Nov 2026 09:22:28 GMT",
+    "collected_at": "2026-11-08T19:02:22.836825+03:30",
+    "filter_market_score": 8,
+    "market_score": 8,
     "market_matches": {
-      "currency": [
-        "یورو"
+      "gold": [
+        "طلا"
       ]
     },
     "title_market_matches": {},
     "summary_market_matches": {
-      "currency": [
-        "یورو"
+      "gold": [
+        "طلا"
       ]
     },
     "full_text_market_matches": {
-      "currency": [
-        "یورو"
+      "gold": [
+        "طلا"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "افزایش",
-      "افت",
-      "تولید",
       "رشد",
-      "آمار",
-      "روند"
+      "گزارش",
+      "افزایش",
+      "تقاضا"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -5342,35 +5511,36 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "واکنش تردیدآمیز اروپا نسبت به نتایج انتخابات آمریکا؛ بازارهای سهام صعودی شدند",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306326-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%AA%D8%B1%D8%AF%DB%8C%D8%AF%D8%A2%D9%85%DB%8C%D8%B2-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D9%86%D8%B3%D8%A8%D8%AA-%D8%A8%D9%87-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%B3%D9%87%D8%A7%D9%85-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF",
-    "summary": "تیری برتون کمیسر سابق اتحادیه اروپا با اشاره به پیروزی دموکرات ها در انتخابات کنگره گفت: این تحول به خودی خود تغییر محسوسی در شرایط اروپا ایجاد نخواهد کرد.",
-    "published": "Wed, 04 Nov 2026 15:59:13 +0000",
-    "collected_at": "2026-11-04T22:36:29.930360+03:30",
-    "filter_market_score": 8,
-    "market_score": 8,
+    "source": "خبرآنلاین اقتصادی",
+    "title": "جدیدترین فهرست فوربس از ثروتمندان جهان / ثروت ۱۰ ثروتمند بزرگ جهان ۳۰۰ میلیارد افت کرد",
+    "link": "https://www.khabaronline.ir/news/2299209/%D8%AC%D8%AF%DB%8C%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%D9%87%D8%B1%D8%B3%D8%AA-%D9%81%D9%88%D8%B1%D8%A8%D8%B3-%D8%A7%D8%B2-%D8%AB%D8%B1%D9%88%D8%AA%D9%85%D9%86%D8%AF%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%AB%D8%B1%D9%88%D8%AA-%DB%B1%DB%B0-%D8%AB%D8%B1%D9%88%D8%AA%D9%85%D9%86%D8%AF-%D8%A8%D8%B2%D8%B1%DA%AF",
+    "summary": "فوربس در تازه ترین رتبه بندی ماهانه خود از ثروتمندترین افراد جهان اعلام کرد مجموع دارایی ۱۰ فرد ثروتمند جهان به حدود ۲.۸ تریلیون دلار رسیده است. این رقم در مقایسه با ماه گذشته، ۳۰۰ میلیارد دلار کاهش یافته است.",
+    "published": "Sun, 08 Nov 2026 14:40:00 GMT",
+    "collected_at": "2026-11-08T19:02:22.836656+03:30",
+    "filter_market_score": 7,
+    "market_score": 7,
     "market_matches": {
-      "stock": [
-        "سهام"
+      "currency": [
+        "دلار"
       ]
     },
-    "title_market_matches": {
-      "stock": [
-        "سهام"
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
       ]
     },
-    "summary_market_matches": {},
     "full_text_market_matches": {
-      "stock": [
-        "سهام"
+      "currency": [
+        "دلار"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "صعود",
-      "تغییر"
+      "افت",
+      "کاهش",
+      "اعلام کرد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -5548,39 +5718,6 @@
   },
   {
     "source": "مهر",
-    "title": "روانبخش: ایستادگی ایران، هیمنه پوشالی آمریکا را درهم شکست",
-    "link": "https://www.mehrnews.com/news/7000798/%D8%B1%D9%88%D8%A7%D9%86%D8%A8%D8%AE%D8%B4-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%DA%AF%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%DB%8C%D9%85%D9%86%D9%87-%D9%BE%D9%88%D8%B4%D8%A7%D9%84%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A7-%D8%AF%D8%B1%D9%87%D9%85-%D8%B4%DA%A9%D8%B3%D8%AA",
-    "summary": "قم- نماینده مردم قم در مجلس با تأکید بر اینکه قدرت حقیقی از آن خداوند است، گفت: ایستادگی ملت ایران و مقاومت نیروهای مسلح، افسانه شکست ناپذیری آمریکا را پایان داد.",
-    "published": "Wed, 04 Nov 2026 23:38:45 GMT",
-    "collected_at": "2026-11-05T03:48:22.433747+03:30",
-    "filter_market_score": 7,
-    "market_score": 7,
-    "market_matches": {
-      "currency": [
-        "درهم"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "درهم"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {
-      "currency": [
-        "درهم"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "مقاومت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
     "title": "گاهی یک جمله از هزار سکه طلا گران تر است",
     "link": "https://www.mehrnews.com/news/6990586/%DA%AF%D8%A7%D9%87%DB%8C-%DB%8C%DA%A9-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%B2-%D9%87%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA",
     "summary": "گاهی هوش و شناخت آدم ها، از ارزش دارایی ها پیشی می گیرد؛ حکایت «جنس کمیاب و گران» از شیخ عطار، روایت پیرمردی است که با قدرت کلام، خارهای بی ارزش را به گنجی گران بها تبدیل کرد.",
@@ -5708,35 +5845,33 @@
     "filter_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "نبرد کنگره چقدر از پول ایلان ماسک را از بین برد؟",
-    "link": "https://www.isna.ir/news/1405081409228/%D9%86%D8%A8%D8%B1%D8%AF-%DA%A9%D9%86%DA%AF%D8%B1%D9%87-%DA%86%D9%82%D8%AF%D8%B1-%D8%A7%D8%B2-%D9%BE%D9%88%D9%84-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%A8%DB%8C%D9%86-%D8%A8%D8%B1%D8%AF",
-    "summary": "رسانه های آمریکایی نوشتند ایلان ماسک با وجود صرف صدها میلیون دلار برای حمایت از نامزدهای جمهوری خواه، به یکی از بزرگترین بازندگان انتخابات میان دوره ای ایالات متحده تبدیل شد، چرا که حزبش متحمل شکست انتخاباتی شد و کنترل هر دو مجلس کنگره را به دموکرات ها واگذار کرد.",
-    "published": "Wed, 04 Nov 2026 23:37:04 GMT",
-    "collected_at": "2026-11-05T03:48:08.051613+03:30",
-    "filter_market_score": 5,
-    "market_score": 5,
+    "source": "مهر",
+    "title": "پیام وزارت ورزش و جوانان به تیم ملی وزنه برداری ایران",
+    "link": "https://www.mehrnews.com/news/7004536/%D9%BE%DB%8C%D8%A7%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D9%88%D8%B1%D8%B2%D8%B4-%D9%88-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D8%A8%D9%87-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D9%88%D8%B2%D9%86%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "summary": "وزارت ورزش و جوانان در پیامی با تقدیر از تلاش تیم ملی وزنه برداری ایران در عرصه جهانی، کسب مدال طلای دوضرب و رکوردشکنی دسته فوق سنگین و مقام سوم تیمی ایران را تبریک گفت.",
+    "published": "Sun, 08 Nov 2026 15:25:55 GMT",
+    "collected_at": "2026-11-08T19:01:59.627991+03:30",
+    "filter_market_score": 4,
+    "market_score": 4,
     "market_matches": {
-      "currency": [
-        "دلار"
+      "gold": [
+        "طلا"
       ]
     },
     "title_market_matches": {},
     "summary_market_matches": {
-      "currency": [
-        "دلار"
+      "gold": [
+        "طلا"
       ]
     },
     "full_text_market_matches": {
-      "currency": [
-        "دلار"
+      "gold": [
+        "طلا"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
-    "signal_matches": [
-      "حمایت"
-    ],
+    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
@@ -5949,37 +6084,6 @@
     "full_text_market_matches": {
       "gold": [
         "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "خیز بلند خوزستان برای خودروسازی؛ از ساخت کابینت تا فتح بازارهای جهانی",
-    "link": "https://www.mehrnews.com/news/7000701/%D8%AE%DB%8C%D8%B2-%D8%A8%D9%84%D9%86%D8%AF-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A7%D8%B2-%D8%B3%D8%A7%D8%AE%D8%AA-%DA%A9%D8%A7%D8%A8%DB%8C%D9%86%D8%AA-%D8%AA%D8%A7-%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C",
-    "summary": "اهواز - با امضای تفاهم نامه احداث نخستین کارخانه خودروسازی خوزستان با سرمایه گذاری بخش خصوصی، گامی بلند برای جلوگیری از خروج ارز، اشتغال زایی و ایجاد درآمدهای پایدار برداشته شد.",
-    "published": "Wed, 04 Nov 2026 18:33:26 GMT",
-    "collected_at": "2026-11-04T22:36:17.405869+03:30",
-    "filter_market_score": 4,
-    "market_score": 4,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز"
       ]
     },
     "driver_matches": [],
