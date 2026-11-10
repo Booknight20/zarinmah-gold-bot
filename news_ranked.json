@@ -1076,6 +1076,70 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا ۱۸ آبان ۱۴۰۵ در زمان بسته شدن بازار/ هر گرم طلای ۱۸عیار ۲۵ میلیون و ۴۱۹ هزار تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2300031/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%DB%B1%DB%B8-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1",
+    "summary": "قیمت طلا در بازار تهران ۱۸ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۵ میلیون و ۴۱۹ هزار تومان قیمت خورد. هر مثقال طلا نیز ۱۱۰ میلیون و ۱۱۰ هزار تومان به فروش می رسد.",
+    "published": "Mon, 09 Nov 2026 21:45:00 GMT",
+    "collected_at": "2026-11-10T07:14:09.344900+03:30",
+    "filter_market_score": 36,
+    "market_score": 32,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار",
+        "مثقال طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "مثقال طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "طلای ۱۸ عیار",
+      "طلای 18 عیار",
+      "مثقال طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا ظهر امروز ۱۷ آبان ۱۴۰۵/ هر گرم طلای ۱۸ عیار ۲۵ میلیون و ۲۵۰ هزار تومان قیمت خورد + جدول",
     "link": "https://www.khabaronline.ir/news/2299201/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8-%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
     "summary": "قیمت طلا در بازار تهران امروز ۱۷ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۵ میلیون و ۲۵۰ هزار تومان قیمت خورد. هر مثقال طلا نیز ۱۰۹ میلیون و ۳۸۰ هزار تومان به فروش می رسد.",
@@ -1671,75 +1735,6 @@
     "ranking_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلای جهانی ریخت",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306563-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B1%DB%8C%D8%AE%D8%AA",
-    "summary": "بهای هر اونس طلا در بازار معاملات آتی آمریکا برای تحویل در ماه دسامبر نیز با 1.42 درصد کاهش، به 4055 دلار رسید.",
-    "published": "Fri, 06 Nov 2026 06:57:46 +0000",
-    "collected_at": "2026-11-06T12:17:01.389616+03:30",
-    "filter_market_score": 27,
-    "market_score": 31,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی",
-        "اونس طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "کاهش",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "طلای جهانی",
-      "اونس طلا"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "طلا ۱.۵ درصد کاهش یافت؛ اونس ۴۰۶۵ دلار شد/ قیمت جدید طلای جهانی امروز ۱۶ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2298580/%D8%B7%D9%84%D8%A7-%DB%B1-%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA-%D8%A7%D9%88%D9%86%D8%B3-%DB%B4%DB%B0%DB%B6%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
@@ -1922,136 +1917,6 @@
       "ربع سکه",
       "طلا",
       "سکه امامی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "هشدار درباره تکرار شوک ارزی در بودجه ۱۴۰۶/ معیشت مردم را دریابید",
-    "link": "https://www.isna.ir/news/1405081509851/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1-%D8%B4%D9%88%DA%A9-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%DB%B1%DB%B4%DB%B0%DB%B6-%D9%85%D8%B9%DB%8C%D8%B4%D8%AA-%D9%85%D8%B1%D8%AF%D9%85-%D8%B1%D8%A7-%D8%AF%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C%D8%AF",
-    "summary": "در آستانه ارائه لایحه بودجه سال ۱۴۰۶، نگرانی ها از تکرار سیاست های تورم زا و افزایش نرخ ارز بار دیگر مطرح شده، در همین زمینه، مؤمنی با تاکید بر اینکه مسائل اقتصادی نباید صرفا از دریچه کمبود منابع دولت و شرایط جنگی بررسی شود، هشدار داد که تصمیم های بودجه ای باید با در نظر گرفتن پیامدهای آن بر معیشت خانوارها، هزینه های تولید و اشتغال اتخاذ شوند.",
-    "published": "Fri, 06 Nov 2026 08:02:01 GMT",
-    "collected_at": "2026-11-06T12:16:41.971674+03:30",
-    "filter_market_score": 23,
-    "market_score": 31,
-    "market_matches": {
-      "currency": [
-        "ارز",
-        "نرخ ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "تورم",
-      "بودجه"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "افزایش",
-      "نرخ",
-      "تصمیم"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز",
-      "نرخ ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ",
-      "تورم"
-    ],
-    "medium_impact_matches": [
-      "بودجه"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۱۵ آبان ۱۴۰۵/ هر گرم طلای ۱۸عیار ۲۶ میلیون و ۶۰ هزار تومان فروخته شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2298218/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B6-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B6%DB%B0",
-    "summary": "قیمت طلا در بازار تهران امروز ۱۵ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار به قیمت ۲۶ میلیون و ۶۰ هزار تومان فروش رفت.",
-    "published": "Fri, 06 Nov 2026 05:49:00 GMT",
-    "collected_at": "2026-11-06T12:17:17.824576+03:30",
-    "filter_market_score": 33,
-    "market_score": 30,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
     ],
     "currency_matches": [],
     "stock_matches": [],
@@ -3470,126 +3335,6 @@
     "summary": "قیمت سکه در بازار تهران امروز ۱۸ آبان ۱۴۰۵ اعلام شد و سکه امامی به قیمت ۲۵۷ میلیون و ۴۰۰ هزار تومان رسید و ربع سکه نیز به قیمت ۷۲ میلیون و ۴۰۰ هزار تومان فروخته شد.",
     "published": "Mon, 09 Nov 2026 18:12:00 GMT",
     "collected_at": "2026-11-10T00:46:29.720333+03:30",
-    "filter_market_score": 15,
-    "market_score": 26,
-    "market_matches": {
-      "gold": [
-        "سکه",
-        "ربع سکه",
-        "سکه امامی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه",
-        "ربع سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "سکه",
-        "سکه امامی",
-        "ربع سکه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "سکه",
-      "ربع سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۱۴ آبان ۱۴۰۵ در زمان بسته شدن بازار/ نیم سکه به قیمت ۱۳۹ میلیون و ۷۰۰ هزار تومان به فروش رفت + جدول",
-    "link": "https://www.khabaronline.ir/news/2298158/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87",
-    "summary": "قیمت سکه در بازار تهران امروز ۱۴ آبان ۱۴۰۵ اعلام شد و نیم سکه به قیمت ۱۳۹ میلیون و ۷۰۰ هزار تومان به فروش رفت و قیمت سکه امامی نیز به ۲۶۵ میلیون و ۲۰۰ هزار تومان رسید.",
-    "published": "Thu, 05 Nov 2026 18:50:00 GMT",
-    "collected_at": "2026-11-06T12:17:17.824678+03:30",
-    "filter_market_score": 15,
-    "market_score": 26,
-    "market_matches": {
-      "gold": [
-        "سکه",
-        "نیم سکه",
-        "سکه امامی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه",
-        "نیم سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "سکه",
-        "سکه امامی",
-        "نیم سکه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "سکه",
-      "نیم سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۱۵ آبان ۱۴۰۵/ ربع سکه روی قیمت ۷۴ میلیون و ۹۰۰ هزار تومان ایستاد + جدول",
-    "link": "https://www.khabaronline.ir/news/2298219/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%B1%D9%88%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%DB%B7%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B9%DB%B0%DB%B0",
-    "summary": "قیمت سکه در بازار تهران امروز ۱۵ آبان ۱۴۰۵ اعلام شد و ربع سکه ۷۴ میلیون و ۹۰۰ هزار تومان قیمت خورد و قیمت سکه امامی نیز به ۲۶۵ میلیون و ۲۰۰ هزار تومان رسید.",
-    "published": "Fri, 06 Nov 2026 04:50:45 GMT",
-    "collected_at": "2026-11-06T12:17:17.824600+03:30",
     "filter_market_score": 15,
     "market_score": 26,
     "market_matches": {
@@ -5608,61 +5353,6 @@
     "ranking_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "نفت گران شد/ بازگشت نفت به کانال ۱۰۰ دلار",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306555-%D9%86%D9%81%D8%AA-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "بلومبرگ نوشت: نفت برنت پس از ثبت رشد حدوداً ۴ درصدی در جلسه معاملاتی پیشین، در سطحی نزدیک به ۱۰۰ دلار در هر بشکه معامله شد.",
-    "published": "Fri, 06 Nov 2026 05:58:30 +0000",
-    "collected_at": "2026-11-06T12:17:01.389723+03:30",
-    "filter_market_score": 15,
-    "market_score": 18,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "ریزش قیمت خودروهای پرفروش در بازار/ پژو۲۰۷ اتوماتیک ۸۰ میلیون تومانی ارزان شد و ۴ میلیارد و ۲۸۵ میلیون تومان فروش رفت + جدول",
     "link": "https://www.khabaronline.ir/news/2299056/%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%DA%98%D9%88%DB%B2%DB%B0%DB%B7-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%DB%B8%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
@@ -5833,59 +5523,6 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "آیا ریزش سهام فناوری به بحران گسترده بازارها تبدیل می شود؟",
-    "link": "https://www.mehrnews.com/news/7001668/%D8%A2%DB%8C%D8%A7-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B3%D9%87%D8%A7%D9%85-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%A8%D9%87-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%DA%AF%D8%B3%D8%AA%D8%B1%D8%AF%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
-    "summary": "ریزش شدید سهام شرکت های فناوری در آمریکا، نگرانی ها درباره احتمال گسترش موج فروش به سایر بخش های بازارهای مالی را افزایش داده است.",
-    "published": "Fri, 06 Nov 2026 08:04:00 GMT",
-    "collected_at": "2026-11-06T12:16:52.038638+03:30",
-    "filter_market_score": 13,
-    "market_score": 17,
-    "market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "ریزش",
-      "افزایش",
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -6514,60 +6151,6 @@
   },
   {
     "source": "تابناک",
-    "title": "نفت دوباره در رالی صعود",
-    "link": "https://tabnak.ir/fa/news/4200110/%D9%86%D9%81%D8%AA-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%84%DB%8C-%D8%B5%D8%B9%D9%88%D8%AF-dd0a84f3e7a643dcb1a6cd61",
-    "summary": "قیمت نفت پس از انتشار وضعیت بد ذخایر نفتی جهان به ۱۰۰ دلار رسید.",
-    "published": "Fri, 06 Nov 2026 07:12:51 +0000",
-    "collected_at": "2026-11-06T12:17:25.670429+03:30",
-    "filter_market_score": 9,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صعود",
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "تابناک",
     "title": "تولید باید در اولویت تخصیص ارز قرار گیرد",
     "link": "https://tabnak.ir/fa/news/4200355/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A7%D9%88%D9%84%D9%88%DB%8C%D8%AA-%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%D8%A7%D8%B1%D8%B2-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%DB%8C%D8%B1%D8%AF-126d663a817e45eebfdd4f35",
     "summary": "گروه استان ها- استاندار قزوین اعلام کرد که تولید باید در اولویت تخصیص ارز قرار گیرد و تصمیم گیری ها در این حوزه با هدف حفظ و تقویت چرخه تولید انجام شود.",
@@ -7115,52 +6698,6 @@
     "ranking_applied": true
   },
   {
-    "source": "مهر",
-    "title": "گاهی یک جمله از هزار سکه طلا گران تر است",
-    "link": "https://www.mehrnews.com/news/6990586/%DA%AF%D8%A7%D9%87%DB%8C-%DB%8C%DA%A9-%D8%AC%D9%85%D9%84%D9%87-%D8%A7%D8%B2-%D9%87%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1-%D8%A7%D8%B3%D8%AA",
-    "summary": "گاهی هوش و شناخت آدم ها، از ارزش دارایی ها پیشی می گیرد؛ حکایت «جنس کمیاب و گران» از شیخ عطار، روایت پیرمردی است که با قدرت کلام، خارهای بی ارزش را به گنجی گران بها تبدیل کرد.",
-    "published": "Fri, 06 Nov 2026 08:30:00 GMT",
-    "collected_at": "2026-11-06T12:16:52.038433+03:30",
-    "filter_market_score": 6,
-    "market_score": 14,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "سکه"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "علل ناکامی صنعت لوازم خانگی / کمبود ارز،تامین مواد اولیه را مشکل کرده",
     "link": "https://www.khabaronline.ir/news/2298521/%D8%B9%D9%84%D9%84-%D9%86%D8%A7%DA%A9%D8%A7%D9%85%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA-%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%DA%A9%D9%85%D8%A8%D9%88%D8%AF-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D8%B1%D8%A7",
@@ -7307,100 +6844,6 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "واکنش عربستان به ادعای وال استریت ژورنال درباره پرداخت غرامت 51 میلیارد دلاری به یمن",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4306566-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%DB%8C%D8%AA-%DA%98%D9%88%D8%B1%D9%86%D8%A7%D9%84-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%BA%D8%B1%D8%A7%D9%85%D8%AA-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D9%87-%DB%8C%D9%85%D9%86",
-    "summary": "معاون وزارت خارجه عربستان گزارش وال استریت ژورنال درباره درخواست های انصارالله یمن را تکذیب کرد و مدعی شد: انصارالله یمن با تمام تلاش ها برای صلح مخالف است.",
-    "published": "Fri, 06 Nov 2026 07:05:53 +0000",
-    "collected_at": "2026-11-06T12:17:01.389595+03:30",
-    "filter_market_score": 7,
-    "market_score": 13,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "فاجعه تکراری «طلای سرخ بر زمین مانده» در ارومیه/ چرخه ای بحرانی که به دریاچه ارومیه هم آسیب می زند!",
-    "link": "https://tabnak.ir/fa/news/4200115/%D9%81%D8%A7%D8%AC%D8%B9%D9%87-%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B3%D8%B1%D8%AE-%D8%A8%D8%B1-%D8%B2%D9%85%DB%8C%D9%86%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%DA%86%D8%B1%D8%AE%D9%87%D8%A7%DB%8C-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86%DB%8C-%DA%A9%D9%87-%D8%A8%D9%87-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D9%87%D9%85-%D8%A2%D8%B3%DB%8C%D8%A8-%D9%85%DB%8C%D8%B2%D9%86%D8%AF-c75ad2c228514a16825cd24b",
-    "summary": "گروه استان ها - ورشکستگی صنایع تبدیلی و بن بست حل نشدنی سیب زیردرختی در ارومیه، تراژدی انباشت صدها هزار تن سیب صنعتی در حاشیه جاده ها و افت شدید قیمت خرید تا مرز چند هزار تومان، اتفاقی تکراری بوده که همه سالله باغ دارن سیب در این منطقه را با چالش های بسیاری مواجه کرده است.",
-    "published": "Fri, 06 Nov 2026 07:50:07 +0000",
-    "collected_at": "2026-11-06T12:17:25.670354+03:30",
-    "filter_market_score": 8,
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افت",
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -8082,50 +7525,6 @@
     "currency_matches": [
       "دلار"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "تجلیل از طلاییِ بیجار؛ فرمانداری پیگیر اشتغال و واگذاری زمین به قهرمان جهان شد",
-    "link": "https://tabnak.ir/fa/news/4200108/%D8%AA%D8%AC%D9%84%DB%8C%D9%84-%D8%A7%D8%B2-%DA%A9%D8%B4%D8%AA%DB%8C%DA%AF%DB%8C%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%A8%DB%8C%D8%AC%D8%A7%D8%B1-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%DB%8C-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1-%D8%A7%D8%B4%D8%AA%D8%BA%D8%A7%D9%84-%D9%88-%D9%88%D8%A7%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%B2%D9%85%DB%8C%D9%86-%D8%A8%D9%87-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D8%B4%D8%AF-cb91932eb5724b7ba9d5b94b",
-    "summary": "گروه استان ها - ابوالفضل محمدنژاد، قهرمان سنگین وزن کشتی آزاد زیر ۲۳ سال جهان، پس از درخشش در رقابت های جهانی آمریکا و کسب مدال طلا بدون واگذاری حتی یک امتیاز، در مراسمی با حضور فرماندار بیجار مورد تجلیل قرار گرفت؛ فرماندار نیز از پیگیری موضوع اشتغال و واگذاری زمین به این قهرمان ملی خبر داد.",
-    "published": "Fri, 06 Nov 2026 07:08:33 +0000",
-    "collected_at": "2026-11-06T12:17:25.670442+03:30",
-    "filter_market_score": 4,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
