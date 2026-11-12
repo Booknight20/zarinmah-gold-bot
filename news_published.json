@@ -37430,5 +37430,221 @@
     "group_message_id": 2753,
     "fully_published": true,
     "last_checked_at": "2026-11-12T18:37:33.985522+00:00"
+  },
+  "5bd457e8de25d00fb03da5141b4db252066cb06bab5df080d2e855397abcbfc0": {
+    "title": "وزارت خزانه داری آمریکا از ثبت کسری بودجه بی سابقه ۴۰۴ میلیارد دلاری خبر داد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405082214847/%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%AE%D8%B2%D8%A7%D9%86%D9%87-%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%AB%D8%A8%D8%AA-%DA%A9%D8%B3%D8%B1%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D8%A8%DB%8C-%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%DB%B4%DB%B0%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      3003
+    ],
+    "eitaa_message_ids": [
+      181581398
+    ],
+    "group_message_ids": [
+      2758
+    ],
+    "content_hash": "fe53a6e5748a08a742f83837ed9dcf1bcb5acfcf83b915e3092d87ec5adb2b7f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T23:51:15.997254+00:00",
+    "telegram_message_id": 3003,
+    "eitaa_last_sent_at": "2026-11-12T23:51:17.558746+00:00",
+    "eitaa_message_id": 181581398,
+    "group_last_sent_at": "2026-11-12T23:51:19.367498+00:00",
+    "group_message_id": 2758,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T23:51:19.411442+00:00"
+  },
+  "971193513615a185b04158f0063b6d5942d9c03828fe8bf71f2b47ee217120f2": {
+    "title": "کیف پول طلای بازنشستگان متقاضی شارژ شد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405082114823/%DA%A9%DB%8C%D9%81-%D9%BE%D9%88%D9%84-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%D9%86%D8%B4%D8%B3%D8%AA%DA%AF%D8%A7%D9%86-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C-%D8%B4%D8%A7%D8%B1%DA%98-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      3004
+    ],
+    "eitaa_message_ids": [
+      181581405
+    ],
+    "group_message_ids": [
+      2759
+    ],
+    "content_hash": "abb76ccf7ba184789207fe281a050431a55769bb9af5f2ee4b89d0c4c08987a4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T23:51:21.297581+00:00",
+    "telegram_message_id": 3004,
+    "eitaa_last_sent_at": "2026-11-12T23:51:23.097388+00:00",
+    "eitaa_message_id": 181581405,
+    "group_last_sent_at": "2026-11-12T23:51:24.905245+00:00",
+    "group_message_id": 2759,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T23:51:24.949560+00:00"
+  },
+  "6b303e8d962e073e9fac69ec8afeaf1b423d48ee0e5bb8bc36e86e926a223ec3": {
+    "title": "آغاز سال مالی ۲۰۲۷ آمریکا با کسری بودجه ۴۰۴ میلیارد دلاری",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/7009165/%D8%A2%D8%BA%D8%A7%D8%B2-%D8%B3%D8%A7%D9%84-%D9%85%D8%A7%D9%84%DB%8C-%DB%B2%DB%B0%DB%B2%DB%B7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%DA%A9%D8%B3%D8%B1%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%DB%B4%DB%B0%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C",
+    "telegram_message_ids": [
+      3005
+    ],
+    "eitaa_message_ids": [
+      181581410
+    ],
+    "group_message_ids": [
+      2760
+    ],
+    "content_hash": "ad634ad4236b7f57159bd7661d32617475f16a3f7b0748fdb1972701197b743d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T23:51:26.743271+00:00",
+    "telegram_message_id": 3005,
+    "eitaa_last_sent_at": "2026-11-12T23:51:28.335483+00:00",
+    "eitaa_message_id": 181581410,
+    "group_last_sent_at": "2026-11-12T23:51:30.137689+00:00",
+    "group_message_id": 2760,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T23:51:30.181304+00:00"
+  },
+  "469fadfa3d33a1e192091d55d7240a27fe389ab87e423a60e6dd3b8a97f07297": {
+    "title": "سقوط بیت کوین به زیر ۷۲ هزار دلار امروز ۲۱ آبان ۱۴۰۵ / بیش از ۶۵۶ میلیون دلار از معاملات اهرمی لیکوئید شد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2301322/%D8%B3%D9%82%D9%88%D8%B7-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1-%DB%B7%DB%B2-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2",
+    "telegram_message_ids": [
+      3006
+    ],
+    "eitaa_message_ids": [
+      181581413
+    ],
+    "group_message_ids": [
+      2761
+    ],
+    "content_hash": "72172a39a27d9d086059bb3a9fe5d056e9aee1475b5190f776cd48fe974b6ec6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T23:51:32.016793+00:00",
+    "telegram_message_id": 3006,
+    "eitaa_last_sent_at": "2026-11-12T23:51:33.671972+00:00",
+    "eitaa_message_id": 181581413,
+    "group_last_sent_at": "2026-11-12T23:51:35.479429+00:00",
+    "group_message_id": 2761,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T23:51:35.524516+00:00"
+  },
+  "b03b896cda8e673a873442dd360502130455f260fc4850f1d4e5656f12f3864b": {
+    "title": "قیمت سکه امروز ۲۱ آبان ۱۴۰۵ در زمان بسته شدن بازار/ ربع سکه ۷۲ میلیون و ۱۰۰ هزار تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2301333/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%DB%B7%DB%B2",
+    "telegram_message_ids": [
+      3007
+    ],
+    "eitaa_message_ids": [
+      181581414
+    ],
+    "group_message_ids": [
+      2762
+    ],
+    "content_hash": "adc826c5420bf99ef6916b03eaea5aba6da7cf0f2cbe186ac81aaadc0bb162de",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T23:51:37.308360+00:00",
+    "telegram_message_id": 3007,
+    "eitaa_last_sent_at": "2026-11-12T23:51:38.189803+00:00",
+    "eitaa_message_id": 181581414,
+    "group_last_sent_at": "2026-11-12T23:51:39.978906+00:00",
+    "group_message_id": 2762,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T23:51:40.023128+00:00"
+  },
+  "4f3054aa537c2dba69fb22c384a97778edf21cd963a0acadb5e8928551238688": {
+    "title": "قیمت سکه ظهر امروز ۲۱ آبان ۱۴۰۵/ سکه امامی به قیمت ۲۵۳ میلیون و ۷۰۰ هزار تومان رسید + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2301160/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%DB%B2%DB%B5%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "telegram_message_ids": [
+      3008
+    ],
+    "eitaa_message_ids": [
+      181581415
+    ],
+    "group_message_ids": [
+      2763
+    ],
+    "content_hash": "6f2c5c4c4a7d83e7ff716a5bc500be5bf4ce9bdadf53fe64c0a5de74c942a3ad",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T23:51:41.871276+00:00",
+    "telegram_message_id": 3008,
+    "eitaa_last_sent_at": "2026-11-12T23:51:43.617174+00:00",
+    "eitaa_message_id": 181581415,
+    "group_last_sent_at": "2026-11-12T23:51:45.357294+00:00",
+    "group_message_id": 2763,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T23:51:45.400974+00:00"
+  },
+  "17f4ca032849f22df00f2c70a047c9b7ab3284aa1d2a5a466c0590e9c4e70945": {
+    "title": "لحظه بازداشت سه ایرانی توسط نیروهای ویژه انگلیس",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/4201507/%D9%84%D8%AD%D8%B8%D9%87-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D8%B3%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AA%D9%88%D8%B3%D8%B7-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%88%DB%8C%DA%98%D9%87-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-f219a3c5976a402191b1ac01",
+    "telegram_message_ids": [
+      3009
+    ],
+    "eitaa_message_ids": [
+      181581416
+    ],
+    "group_message_ids": [
+      2764
+    ],
+    "content_hash": "58d64249c78c56e7b21d32ec082f160b711c2ddc0cd1cd67f53123f43ed6dc14",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T23:51:47.269549+00:00",
+    "telegram_message_id": 3009,
+    "eitaa_last_sent_at": "2026-11-12T23:51:48.939887+00:00",
+    "eitaa_message_id": 181581416,
+    "group_last_sent_at": "2026-11-12T23:51:50.751885+00:00",
+    "group_message_id": 2764,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T23:51:50.795801+00:00"
+  },
+  "e1e8987cb37fd3b925c9ceca7db5e3ca32613be8185b690cb81db551b8456f27": {
+    "title": "درخواست فوری ترامپ برای بودجه نظامی سنگین",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/4201499/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D9%81%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-0d46ad176a5f435ca9ddfed2",
+    "telegram_message_ids": [
+      3010
+    ],
+    "eitaa_message_ids": [
+      181581417
+    ],
+    "group_message_ids": [
+      2765
+    ],
+    "content_hash": "e216d218df7bd71c95ab1fd3b6617d5fdb013e3933cc91e3a5daf2bcb5f906bc",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T23:51:52.646344+00:00",
+    "telegram_message_id": 3010,
+    "eitaa_last_sent_at": "2026-11-12T23:51:53.512789+00:00",
+    "eitaa_message_id": 181581417,
+    "group_last_sent_at": "2026-11-12T23:51:55.259704+00:00",
+    "group_message_id": 2765,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T23:51:55.304023+00:00"
+  },
+  "bbe0d1c75a54fd4b4b7d9345e2f4586ce195806781bf37ddb85683a8156ff15e": {
+    "title": "از جنگ ۱۲۰ میلیارد دلاری تا احتمال عقب نشینی ترامپ",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1852189/%D8%A7%D8%B2-%D8%AC%D9%86%DA%AF-%DB%B1%DB%B2%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE",
+    "telegram_message_ids": [
+      3011
+    ],
+    "eitaa_message_ids": [
+      181581418
+    ],
+    "group_message_ids": [
+      2766
+    ],
+    "content_hash": "041254194aa4b4a44d6c62478402f0580b620dae64df1995414097945d12825e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T23:51:57.151367+00:00",
+    "telegram_message_id": 3011,
+    "eitaa_last_sent_at": "2026-11-12T23:51:58.753400+00:00",
+    "eitaa_message_id": 181581418,
+    "group_last_sent_at": "2026-11-12T23:52:00.563443+00:00",
+    "group_message_id": 2766,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T23:52:00.607481+00:00"
   }
 }
