@@ -37358,5 +37358,77 @@
     "group_message_id": 2739,
     "fully_published": true,
     "last_checked_at": "2026-11-12T10:35:44.648071+00:00"
+  },
+  "70ed3908e4f64dae23b25889d4421a08e319a151d2163a3f5ff821f45898fa67": {
+    "title": "ترامپ خواستار تصویب لایحه ۳۵۰ میلیارد دلاری تقویت توان نظامی آمریکا شد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/7009030/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%AA%D8%B5%D9%88%DB%8C%D8%A8-%D9%81%D9%88%D8%B1%DB%8C-%D9%84%D8%A7%DB%8C%D8%AD%D9%87-%DB%B3%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%AA%D9%88%D8%A7%D9%86-%D9%86%D8%B8%D8%A7%D9%85%DB%8C",
+    "telegram_message_ids": [
+      2996
+    ],
+    "eitaa_message_ids": [
+      181556033
+    ],
+    "group_message_ids": [
+      2751
+    ],
+    "content_hash": "7b393b76b65b1fbe347a6ea7ad862051d15e60873f071e2f36f31c9d2404aee2",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T18:37:22.153896+00:00",
+    "telegram_message_id": 2996,
+    "eitaa_last_sent_at": "2026-11-12T18:37:23.438142+00:00",
+    "eitaa_message_id": 181556033,
+    "group_last_sent_at": "2026-11-12T18:37:25.073425+00:00",
+    "group_message_id": 2751,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T18:37:25.132052+00:00"
+  },
+  "389d6f922d94aab176fea6e8416fcf06b6759925e23094243e678aedc53594e6": {
+    "title": "قدرت دلاری نقدینگی ایران به کف تاریخی ۷۳ میلیارد دلار سقوط کرد / نقدینگی ایران در دو دهه آب رفت",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2299925/%D9%82%D8%AF%D8%B1%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%DA%A9%D9%81-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C-%DB%B7%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B3%D9%82%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      2997
+    ],
+    "eitaa_message_ids": [
+      181556043
+    ],
+    "group_message_ids": [
+      2752
+    ],
+    "content_hash": "25c6d0d9c27eb73a36d9c94e55550919450e10a683b92570bcb4d98d5d96fea9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T18:37:26.804241+00:00",
+    "telegram_message_id": 2997,
+    "eitaa_last_sent_at": "2026-11-12T18:37:28.018155+00:00",
+    "eitaa_message_id": 181556043,
+    "group_last_sent_at": "2026-11-12T18:37:29.630053+00:00",
+    "group_message_id": 2752,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T18:37:29.702919+00:00"
+  },
+  "57ee80a100edaf999a30023e0c03f6f41cea4de34f3ca0aad3d36fe9ea863738": {
+    "title": "ترامپ از سنا درخواست بودجه ۳۵۰ میلیارد دلاری اضافی برای پنتاگون کرد",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1852296/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D8%B3%D9%86%D8%A7-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%A8%D9%88%D8%AF%D8%AC%D9%87-%DB%B3%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B6%D8%A7%D9%81%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%86%D8%AA%D8%A7%DA%AF%D9%88%D9%86",
+    "telegram_message_ids": [
+      2998
+    ],
+    "eitaa_message_ids": [
+      181556050
+    ],
+    "group_message_ids": [
+      2753
+    ],
+    "content_hash": "2622e989715df4ec64d8047f03fd2608b06aade50678080e1630101c01b4e092",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-12T18:37:31.440314+00:00",
+    "telegram_message_id": 2998,
+    "eitaa_last_sent_at": "2026-11-12T18:37:32.342093+00:00",
+    "eitaa_message_id": 181556050,
+    "group_last_sent_at": "2026-11-12T18:37:33.926996+00:00",
+    "group_message_id": 2753,
+    "fully_published": true,
+    "last_checked_at": "2026-11-12T18:37:33.985522+00:00"
   }
 }
