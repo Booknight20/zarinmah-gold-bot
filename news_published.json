@@ -37646,5 +37646,77 @@
     "group_message_id": 2766,
     "fully_published": true,
     "last_checked_at": "2026-11-12T23:52:00.607481+00:00"
+  },
+  "d60a8f681760b644216844d72702b65d1d0e20b73356676d5ce11ff8dd990344": {
+    "title": "جهش قیمت نفت و گاز در بازارهای جهانی",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308041-%D8%AC%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%DA%AF%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+    "telegram_message_ids": [
+      3012
+    ],
+    "eitaa_message_ids": [
+      181590899
+    ],
+    "group_message_ids": [
+      2767
+    ],
+    "content_hash": "37840d0c25b235e6592dfc4116b8cf0b8ad274ea7148a9e37f3b465d5c221988",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-13T03:59:30.745664+00:00",
+    "telegram_message_id": 3012,
+    "eitaa_last_sent_at": "2026-11-13T03:59:32.252574+00:00",
+    "eitaa_message_id": 181590899,
+    "group_last_sent_at": "2026-11-13T03:59:33.969315+00:00",
+    "group_message_id": 2767,
+    "fully_published": true,
+    "last_checked_at": "2026-11-13T03:59:34.000228+00:00"
+  },
+  "ce637ad11531d4dc323f0d8c3a71eb6b05ea91e6194a1d9c99a2ead4399b1d51": {
+    "title": "کلاهبرداری فیشینگ با سوءاستفاده از فروشندگان ارز در تلگرام",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1852248/%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%81%DB%8C%D8%B4%DB%8C%D9%86%DA%AF-%D8%A8%D8%A7-%D8%B3%D9%88%D8%A1%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D9%81%D8%B1%D9%88%D8%B4%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%B1-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
+    "telegram_message_ids": [
+      3013
+    ],
+    "eitaa_message_ids": [
+      181590901
+    ],
+    "group_message_ids": [
+      2768
+    ],
+    "content_hash": "08fd44298901c19f9470e10c30ac157c2523ed6ade0a6a837febdd788fe490ac",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-13T03:59:35.716560+00:00",
+    "telegram_message_id": 3013,
+    "eitaa_last_sent_at": "2026-11-13T03:59:37.356935+00:00",
+    "eitaa_message_id": 181590901,
+    "group_last_sent_at": "2026-11-13T03:59:39.043713+00:00",
+    "group_message_id": 2768,
+    "fully_published": true,
+    "last_checked_at": "2026-11-13T03:59:39.074613+00:00"
+  },
+  "6fd1996820e03d2f8019641fcd7dce8ef79729be2423f458b1adb57212eaa344": {
+    "title": "جنگ ایران قبض زمستانی آمریکایی ها را منفجر کرد",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1852301/%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%82%D8%A8%D8%B6-%D8%B2%D9%85%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7-%D8%B1%D8%A7-%D9%85%D9%86%D9%81%D8%AC%D8%B1-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      3014
+    ],
+    "eitaa_message_ids": [
+      181590904
+    ],
+    "group_message_ids": [
+      2769
+    ],
+    "content_hash": "559c882be0778926e1476be12aeb28b40adf03e3b3eabff0c18fbf17bae35d33",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-13T03:59:40.848497+00:00",
+    "telegram_message_id": 3014,
+    "eitaa_last_sent_at": "2026-11-13T03:59:42.328758+00:00",
+    "eitaa_message_id": 181590904,
+    "group_last_sent_at": "2026-11-13T03:59:44.088567+00:00",
+    "group_message_id": 2769,
+    "fully_published": true,
+    "last_checked_at": "2026-11-13T03:59:44.119352+00:00"
   }
 }
