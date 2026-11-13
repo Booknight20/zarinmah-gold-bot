@@ -267,6 +267,153 @@
     "duplicate_count": 1
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا و سکه امروز جمعه ۲۲ آبان ۱۴۰۵ / کاهش قیمت طلای ۱۸ عیار / سکه امامی ارزان شد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308048-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AC%D9%85%D8%B9%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86-%D8%B4%D8%AF",
+    "summary": "طلای 18 عیار نزولی شد و قیمت سکه امامی امروز با کاهش، در نرخ ۲۵۳ میلیون و ۵۰۰ هزار تومان در معامله بود.",
+    "published": "Fri, 13 Nov 2026 10:34:04 +0000",
+    "collected_at": "2026-11-13T15:15:23.225910+03:30",
+    "filter_market_score": 36,
+    "market_score": 44,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "سکه امامی",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "سکه امامی",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "سکه امامی",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت",
+      "نزول",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "سکه امامی",
+      "طلای ۱۸ عیار",
+      "طلای 18 عیار"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "طلا از کف قیمت یک ساله فاصله گرفت؛ اونس طلا در معاملات آتی ۳ هزار و ۹۲۲ دلار شد/ قیمت جدید طلای جهانی امروز ۲۲ آبان ۱۴۰۵",
+    "link": "https://www.khabaronline.ir/news/2301405/%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%DA%A9%D9%81-%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84%D9%87-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%DA%AF%D8%B1%D9%81%D8%AA-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B3",
+    "summary": "طلای جهانی از کف قیمت یک ساله فاصله گرفت؛ به طوری که قیمت هر اونس طلا در بازار معاملات آتی آمریکا برای تحویل در دسامبر با یک درصد افزایش، در ۳۹۲۲ دلار و ۶۰ سنت معامله شد.",
+    "published": "Fri, 13 Nov 2026 09:41:00 GMT",
+    "collected_at": "2026-11-13T15:15:34.108555+03:30",
+    "filter_market_score": 38,
+    "market_score": 41,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا",
+        "طلای جهانی"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "معاملات",
+      "افزایش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "اونس طلا",
+      "طلای جهانی"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "طلا اندکی ارزان شد؛ اونس طلا در بازار معاملات آتی ۴ هزار و ۱۲۳ دلار معامله شد/ قیمت جدید طلای جهانی امروز ۱۹ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2300137/%D8%B7%D9%84%D8%A7-%D8%A7%D9%86%D8%AF%DA%A9%DB%8C-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86-%D8%B4%D8%AF-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B1%DB%B2%DB%B3",
@@ -675,6 +822,74 @@
     "signal_matches": [
       "قیمت",
       "بازگشایی",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "طلای ۲۴ عیار",
+      "طلای 24 عیار",
+      "طلای ۱۸ عیار",
+      "طلای 18 عیار"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت طلا امروز ۲۲ آبان ۱۴۰۵/ هر گرم طلای ۲۴عیار ۳۳ میلیون و ۳۲۵ هزار تومان قیمت پیدا کرد + جدول",
+    "link": "https://www.khabaronline.ir/news/2301375/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B2%DB%B4%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B3%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B3%DB%B2%DB%B5",
+    "summary": "قیمت طلا در بازار تهران ۲۲ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۴ میلیون و ۹۹۶ هزار تومان قیمت خورد. هر گرم طلای ۲۴عیار هم به قیمت ۳۳ میلیون و ۳۲۵ هزار تومان رسید.",
+    "published": "Fri, 13 Nov 2026 04:35:54 GMT",
+    "collected_at": "2026-11-13T15:15:34.108650+03:30",
+    "filter_market_score": 39,
+    "market_score": 34,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۲۴ عیار",
+        "طلای 24 عیار",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۲۴ عیار",
+        "طلای 24 عیار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار",
+        "طلای ۲۴ عیار",
+        "طلای 24 عیار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
       "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
@@ -1781,6 +1996,68 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۲ آبان ۱۴۰۵/ دلار روی قیمت ۲۶۶ هزار و ۹۰۰ تومان ایستاد + جدول",
+    "link": "https://www.khabaronline.ir/news/2301379/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D9%88%DB%8C-%D9%82%DB%8C%D9%85%D8%AA",
+    "summary": "قیمت دلار، یورو و سایر ارزها امروز ۲۲ آبان ۱۴۰۵ اعلام شد. بر این اساس بهای هر دلار ۲۶۶ هزار و ۹۰۰ تومان قیمت خورد و یورو نیز به قیمت ۲۹۶ هزار و ۹۳۰ تومان فروخته شد.",
+    "published": "Fri, 13 Nov 2026 05:04:00 GMT",
+    "collected_at": "2026-11-13T15:15:34.108641+03:30",
+    "filter_market_score": 26,
+    "market_score": 30,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۰ آبان ۱۴۰۵ در زمان بسته شدن بازار/ قیمت دلار به ۲۶۴ هزار و ۷۰ تومان رسید + جدول",
     "link": "https://www.khabaronline.ir/news/2300986/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B0-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
     "summary": "قیمت دلار، یورو و سایر ارزها امروز ۲۰ آبان ۱۴۰۵ اعلام شد. بر این اساس بهای هر دلار ۲۶۴ هزار و ۷۰ تومان قیمت خورد و یورو نیز به قیمت ۲۹۳ هزار و ۶۱۰ تومان فروخته شد.",
@@ -2149,77 +2426,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "اولویت های اقتصادی بودجه 1406",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-100/4307207-%D8%A7%D9%88%D9%84%D9%88%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A8%D9%88%D8%AF%D8%AC%D9%87",
-    "summary": "بخشنامه بودجه سال۱۴۰۶ در شرایطی به دستگاه های اجرایی ابلاغ شده که دولت با محدودیت منابع مالی، تداوم تورم بالا و ضرورت بازسازی ظرفیت های آسیب دیده اقتصاد روبه رو است. در این چارچوب، «ثبات، تاب آوری و بازسازی» سه محور اصلی سیاست های مالی سال آینده معرفی شده اند؛ رویکردی که مهار تورم و جلوگیری از تامین مالی تورم زای کسری بودجه را در کنار حفظ تولید و اشتغال و حمایت هدفمند از خانوارها قرار می دهد. دولت همچنین بر صرفه جویی در هزینه های جاری، محدود کردن تعهدات جدید و استفاده از سرمایه بخش خصوصی برای پیشبرد پروژه ها تاکید کرده است. در حوزه دستمزد نیز افزایش متوسط ۳۵درصدی حقوق کارکنان با الگوی پلکانی معکوس پیش بینی شده است تا سهم بیشتری از افزایش حقوق به کارکنان کم درآمد برسد. با این حال، تحقق اهداف معیشتی این سیاست به مهار تورم و توان دولت در تامین پایدار منابع وابسته است؛ چالشی که توازن میان انضباط مالی و حفظ قدرت خرید را به مساله اصلی بودجه سال آینده تبدیل می کند. محمدقاسمی، معاون هماهنگی سازمان برنامه و بودجه، در گفت وگو با گروه رسانه ای «دنیای اقتصاد»، با تشریح الزامات بودجه ریزی در شرایط جنگی، از ضرورت آمادگی برای سناریوی صفر شدن درآمدهای نفتی سخن گفت. به گفته او، جنگ همزمان منابع درآمدی دولت را کاهش داده و هزینه های آن را افزایش داده است؛ بنابراین، پرداخت حقوق کارکنان، مستمری بازنشستگان و تعهدات اوراق بدهی در اولویت قرار گرفته اند. این مقام مسوول همچنین تاکید کرد که دولت برای جلوگیری از تشدید تورم، از استقراض مستقیم از بانک مرکزی پرهیز کرده است. قاسمی اشاره کرد که دولت قصد دارد با کنترل هزینه ها، اصلاح ساختار دستگاه ها و هماهنگی سیاست های مالی، پولی، ارزی و انرژی، از انتقال فشارهای ناشی از محدودیت منابع به تولید و معیشت جلوگیری کند. با این حال، تحقق این اهداف به میزان پایبندی دستگاه های اجرایی به انضباط مالی و مهم تر از آن، موفقیت دولت در مهار تورم و تامین منابع پایدار بستگی دارد.",
-    "published": "Sun, 08 Nov 2026 20:30:00 +0000",
-    "collected_at": "2026-11-09T02:49:12.259604+03:30",
-    "filter_market_score": 21,
-    "market_score": 30,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی",
-      "تورم",
-      "نفت",
-      "کسری بودجه",
-      "بودجه"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "افزایش",
-      "کاهش",
-      "پیش‌بینی",
-      "پیش بینی",
-      "ابلاغ",
-      "حمایت",
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی",
-      "جنگ",
-      "تورم"
-    ],
-    "medium_impact_matches": [
-      "بودجه",
-      "کسری بودجه"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -2744,6 +2950,68 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت سکه امروز ۲۲ آبان ۱۴۰۵/ نیم سکه به قیمت ۱۳۳ میلیون تومان فروش رفت + جدول",
+    "link": "https://www.khabaronline.ir/news/2301377/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B2-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%DB%B1%DB%B3%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
+    "summary": "قیمت سکه در بازار تهران امروز ۲۲ آبان ۱۴۰۵ اعلام شد و سکه امامی به قیمت ۲۵۴ میلیون و ۴۰۰ هزار تومان رسید و نیم سکه با نرخ ۱۳۳ میلیون تومان به فروش رفت.",
+    "published": "Fri, 13 Nov 2026 05:20:00 GMT",
+    "collected_at": "2026-11-13T15:15:34.108632+03:30",
+    "filter_market_score": 16,
+    "market_score": 27,
+    "market_matches": {
+      "gold": [
+        "سکه",
+        "نیم سکه",
+        "سکه امامی"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "سکه",
+        "نیم سکه"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "سکه",
+        "سکه امامی",
+        "نیم سکه"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "نرخ",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "سکه",
+      "نیم سکه",
+      "سکه امامی"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت سکه امروز ۲۱ آبان ۱۴۰۵ در زمان بازگشایی بازار/ ربع سکه ۷۲ میلیون تومان فروش رفت + جدول",
     "link": "https://www.khabaronline.ir/news/2301062/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%DB%B7%DB%B2",
     "summary": "قیمت سکه در بازار تهران امروز ۲۱ آبان ۱۴۰۵ اعلام شد و سکه امامی به قیمت ۲۵۴ میلیون و ۲۰۰ هزار تومان رسید و ربع سکه نیز امروز ۷۲ میلیون تومان قیمت خورد.",
@@ -2910,68 +3178,6 @@
     "gold_matches": [
       "سکه",
       "نیم سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۱۷ آبان ۱۴۰۵ در زمان بسته شدن بازار/ سکه بهار آزادی بیش از ۶ میلیون تومان ارزان شد و ۲۴۸ میلیون و ۲۰۰ هزار تومان قیمت خورد + جدول",
-    "link": "https://www.khabaronline.ir/news/2299527/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87%D8%A7%D8%B1",
-    "summary": "قیمت سکه در بازار تهران امروز ۱۷ آبان ۱۴۰۵ اعلام شد و سکه امامی به قیمت ۲۵۷ میلیون هزار تومان رسید. سکه بهار آزادی هم با کاهش بیش از ۶ میلیون تومانی، ۲۴۸ میلیون و ۲۰۰ هزار تومان شد.",
-    "published": "Sun, 08 Nov 2026 20:11:00 GMT",
-    "collected_at": "2026-11-09T02:49:18.169021+03:30",
-    "filter_market_score": 16,
-    "market_score": 27,
-    "market_matches": {
-      "gold": [
-        "سکه",
-        "سکه بهار آزادی",
-        "سکه امامی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه",
-        "سکه بهار آزادی"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "سکه",
-        "سکه امامی",
-        "سکه بهار آزادی"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "کاهش",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "سکه",
-      "سکه بهار آزادی",
       "سکه امامی"
     ],
     "currency_matches": [],
@@ -3166,69 +3372,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "صادرات ۲۳۰ میلیون دلاری از سمنان؛ رشد آمارها و چالش های ارزی و تجاری",
-    "link": "https://www.mehrnews.com/news/7002129/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B2%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B1%D8%B4%D8%AF-%D8%A2%D9%85%D8%A7%D8%B1%D9%87%D8%A7-%D9%88-%DA%86%D8%A7%D9%84%D8%B4-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C",
-    "summary": "سمنان- سمنان با صادرات ۴۶۵ هزار تن کالا به ارزش ۲۳۰ میلیون دلار در هفت ماهه امسال، رشد ۵۴ درصدی ارزش صادرات را ثبت کرد؛ با این حال صادرکنندگان همچنان با موانع ارزی و تجاری روبه رو هستند.",
-    "published": "Sun, 08 Nov 2026 20:31:00 GMT",
-    "collected_at": "2026-11-09T02:49:05.698166+03:30",
-    "filter_market_score": 22,
-    "market_score": 26,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "آمار"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -3597,6 +3740,70 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت طلا امروز جمعه ۲۲ آبان ۱۴۰۵ / کاهش قیمت طلا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308047-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AC%D9%85%D8%B9%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "summary": "قیمت طلا امروز با کاهش ۲۸ دلاری نسبت به روز گذشته، ۳۸۹۹ (سه هزار و هشتصد و نود و نه) دلار نرخ گذاری شد.",
+    "published": "Fri, 13 Nov 2026 10:36:33 +0000",
+    "collected_at": "2026-11-13T15:15:23.225901+03:30",
+    "filter_market_score": 19,
+    "market_score": 25,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "قیمت",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -4832,65 +5039,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "مشرق",
-    "title": "جنگ ایران با اقتصاد آمریکا چه کرد؟/ از نفت ۱۱۷دلاری تا سقوط وال استریت",
-    "link": "https://www.mashreghnews.ir/news/1851422/%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%DA%86%D9%87-%DA%A9%D8%B1%D8%AF-%D8%A7%D8%B2-%D9%86%D9%81%D8%AA-%DB%B1%DB%B1%DB%B7%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%B3%D9%82%D9%88%D8%B7-%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%B1%DB%8C%D8%AA",
-    "summary": "جنگ ایران با جهش نفت و نرخ بهره، هزینه بدهی آمریکا را بالا برد و بورس را به عقب راند.",
-    "published": "Sun, 08 Nov 2026 22:00:00 GMT",
-    "collected_at": "2026-11-09T02:49:26.204007+03:30",
-    "filter_market_score": 12,
-    "market_score": 21,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نرخ بهره",
-      "نفت"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "سقوط",
-      "جهش",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس"
-    ],
-    "high_impact_matches": [
-      "جنگ",
-      "نرخ بهره"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "سقوط بیت کوین به زیر ۷۲ هزار دلار امروز ۲۱ آبان ۱۴۰۵ / بیش از ۶۵۶ میلیون دلار از معاملات اهرمی لیکوئید شد",
     "link": "https://www.khabaronline.ir/news/2301322/%D8%B3%D9%82%D9%88%D8%B7-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1-%DB%B7%DB%B2-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B1-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2",
@@ -5045,6 +5193,62 @@
     "gold_matches": [],
     "currency_matches": [
       "تتر"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "ریزش سنگین بیت کوین در بازار جهانی/ بیش از ۱.۶ میلیارد دلار از معاملات رمزارزی لیکوئید شد/قیمت بیت کوین به زیر ۶۸ هزار دلار رسید",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308069-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B2-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2%DB%8C-%D9%84%DB%8C%DA%A9%D9%88%D8%A6%DB%8C%D8%AF-%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "بازار جهانی رمزارزها با موج تازه ای از ریزش مواجه شد؛ افت بیت کوین به زیر ۶۸ هزار دلار، بیش از ۱.۶۲ میلیارد دلار از موقعیت های معاملاتی را در بازار قراردادهای آتی نقد کرد که حدود ۹۰ درصد آن به معاملات خرید اختصاص داشت.",
+    "published": "Fri, 13 Nov 2026 07:57:34 +0000",
+    "collected_at": "2026-11-13T15:15:23.226031+03:30",
+    "filter_market_score": 14,
+    "market_score": 20,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "ریزش",
+      "قیمت",
+      "معاملات",
+      "افت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -5287,6 +5491,65 @@
       "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "معامله جدید پسر ترامپ با اسرائیل/ ۱۰۰۰ ربات جنگی به تونل های غزه اعزام می شوند",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308084-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%BE%D8%B3%D8%B1-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%B1%D8%A8%D8%A7%D8%AA-%D8%AC%D9%86%DA%AF%DB%8C-%D8%A8%D9%87-%D8%AA%D9%88%D9%86%D9%84-%D9%87%D8%A7%DB%8C-%D8%BA%D8%B2%D9%87-%D8%A7%D8%B9%D8%B2%D8%A7%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF",
+    "summary": "شرکتی که اریک ترامپ در آن سهام دارد، برای فروش هزار ربات انسان نما به ارزش احتمالی ۱۵۰ میلیون دلار با ارتش اسرائیل مذاکره می کند؛ ربات هایی که قرار است پیش از ورود نیروهای نظامی به تونل های غزه، برای شناسایی تله های انفجاری و خنثی سازی بمب ها به کار گرفته شوند.",
+    "published": "Fri, 13 Nov 2026 10:58:36 +0000",
+    "collected_at": "2026-11-13T15:15:23.225884+03:30",
+    "filter_market_score": 13,
+    "market_score": 20,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [
+      "سهام"
+    ],
+    "high_impact_matches": [
+      "جنگ"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -5628,6 +5891,61 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "مرز سومار از چرخه تجارت ایران و عراق خارج شد/ صادرات ۳۶۸ میلیون دلاری متوقف می شود؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308077-%D9%85%D8%B1%D8%B2-%D8%B3%D9%88%D9%85%D8%A7%D8%B1-%D8%A7%D8%B2-%DA%86%D8%B1%D8%AE%D9%87-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B9%D8%B1%D8%A7%D9%82-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B4%D8%AF-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "مرز سومار از جمعه ۲۲ آبان ماه تا اطلاع ثانوی به دلیل اجرای عملیات فنی و زیرساختی بسته شد؛ گذرگاهی که در نیمه نخست امسال بیش از ۳۶۸ میلیون دلار کالا از آن به عراق صادر شده است.",
+    "published": "Fri, 13 Nov 2026 09:20:43 +0000",
+    "collected_at": "2026-11-13T15:15:23.225967+03:30",
+    "filter_market_score": 13,
+    "market_score": 18,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -6627,6 +6945,56 @@
     "duplicate_count": 1
   },
   {
+    "source": "تابناک",
+    "title": "انهدام باند سارقان مسلح طلاجات میلیاردی در ایلام",
+    "link": "https://tabnak.ir/fa/news/4201563/%D8%A7%D9%86%D9%87%D8%AF%D8%A7%D9%85-%D8%A8%D8%A7%D9%86%D8%AF-%D8%B3%D8%A7%D8%B1%D9%82%D8%A7%D9%86-%D9%85%D8%B3%D9%84%D8%AD-%D8%B7%D9%84%D8%A7%D8%AC%D8%A7%D8%AA-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85-381d2db4732044509468fee8",
+    "summary": "گروه استان ها - فرمانده انتظامی استان ایلام از انهدام باند سه نفره سارقان مسلح و کشف ۲ قبضه سلاح جنگی، ۲ تیغه خشاب و مقادیری اموال مسروقه خبر داد و گفت: اعضای این باند در سرقت به عنف ۹۷۵ گرم طلا به ارزش تقریبی ۲۴۴ میلیارد ریال دست داشتند.",
+    "published": "Fri, 13 Nov 2026 09:30:00 +0000",
+    "collected_at": "2026-11-13T15:15:41.759445+03:30",
+    "filter_market_score": 9,
+    "market_score": 14,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "سیگنال های تورمی تولید/ آیا تورم همچنان در حال رکوردزنی است؟ +فیلم",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4307679-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D8%B1%D9%85%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A2%DB%8C%D8%A7-%D8%AA%D9%88%D8%B1%D9%85-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B2%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA-%D9%81%DB%8C%D9%84%D9%85",
@@ -6777,57 +7145,6 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "دلارسازهای دیجیتالی پیونگ یانگ",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-19/4307133-%D8%AF%D9%84%D8%A7%D8%B1%D8%B3%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84%DB%8C-%D9%BE%DB%8C%D9%88%D9%86%DA%AF-%DB%8C%D8%A7%D9%86%DA%AF",
-    "summary": "کره شمالی و ارتش سایبری اش، پس از هک بایننس صدر اخبار را تصاحب کردند. اخیرا رویترز گزارشی منتشر کرده است که ابعاد پنهان ارتش مخوف دیجیتالی کره شمالی را روایت می کند. بر اساس اطلاعات رویترز، کره شمالی به هکرهای برجسته خود که ماموریت هایی مانند سرقت سایبری از صرافی رمزارزی بایننس را بر عهده دارند و در این عملیات 6.3 میلیارد دلار به دست آورده اند، پاداش هایی نظیر آپارتمانی بزرگ در پایتخت، پیونگ یانگ، و مبالغ هنگفتی ارز خارجی اعطا می کند.",
-    "published": "Sun, 08 Nov 2026 20:30:00 +0000",
-    "collected_at": "2026-11-09T02:49:12.259658+03:30",
-    "filter_market_score": 8,
-    "market_score": 13,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -7083,6 +7400,56 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "مهر",
+    "title": "۱۰۰ نماینده واردکننده کالای اساسی از پورمحمدی درخواست جلسه فوری کردند",
+    "link": "https://www.mehrnews.com/news/7009521/%DB%B1%DB%B0%DB%B0-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%88%D8%A7%D8%B1%D8%AF%DA%A9%D9%86%D9%86%D8%AF%D9%87-%DA%A9%D8%A7%D9%84%D8%A7%DB%8C-%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C-%D8%A7%D8%B2-%D9%BE%D9%88%D8%B1%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D8%AC%D9%84%D8%B3%D9%87-%D9%81%D9%88%D8%B1%DB%8C",
+    "summary": "نمایندگان بیش از ۱۰۰۰ شرکت دارای مطالبات ارزی، خواستار دیدار فوری با رئیس سازمان برنامه و بودجه شدند.",
+    "published": "Fri, 13 Nov 2026 11:27:19 GMT",
+    "collected_at": "2026-11-13T15:15:16.084847+03:30",
+    "filter_market_score": 6,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بودجه"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "بودجه"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -7711,54 +8078,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "تابناک",
-    "title": "لحظه رکوردشکنی علیرضا یوسفی در وزنه برداری قهرمانی جهان",
-    "link": "https://tabnak.ir/fa/news/4200682/%D9%84%D8%AD%D8%B8%D9%87-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%DB%8C%D9%88%D8%B3%D9%81%DB%8C-%D8%AF%D8%B1-%D9%88%D8%B2%D9%86%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-2074979904c04d8ca78681cb",
-    "summary": "علیرضا یوسفی در رقابت های وزنه برداری قهرمانی جهان، با مهار وزنه ۲۶۳ کیلوگرمی در حرکت دوضرب دسته ۱۱۰+ کیلوگرم، رکورد جهان را جابه جا کرد. او با این عملکرد به مدال طلای دوضرب رسید و در مجموع مسابقات نیز مدال نقره را کسب کرد.",
-    "published": "Sun, 08 Nov 2026 19:05:00 +0000",
-    "collected_at": "2026-11-09T02:49:21.227091+03:30",
-    "filter_market_score": 5,
-    "market_score": 10,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رکورد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 5,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "ایسنا",
     "title": "از تأمین امنیت غذایی تا ضرورت حمایت از اشتغال",
     "link": "https://www.isna.ir/news/1405081913268/%D8%A7%D8%B2-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%BA%D8%B0%D8%A7%DB%8C%DB%8C-%D8%AA%D8%A7-%D8%B6%D8%B1%D9%88%D8%B1%D8%AA-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D8%A7%D8%B4%D8%AA%D8%BA%D8%A7%D9%84",
@@ -7895,23 +8214,23 @@
     "duplicate_count": 1
   },
   {
-    "source": "مهر",
-    "title": "روایتی از سرگذشت ساخت پهپاد در ایران، منتشر شد",
-    "link": "https://www.mehrnews.com/news/7005465/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%B3%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF",
-    "summary": "هم زمان با هفته هوافضا، کتاب «کابوس بیست هزار دلاری» نوشته اکرم خریف، روزنامه نگار و تحلیلگر حوزه دفاعی، با ترجمه شهریار شفیعی توسط انتشارات شهید کاظمی منتشر شد.",
-    "published": "Mon, 09 Nov 2026 10:35:07 GMT",
-    "collected_at": "2026-11-09T14:09:30.902717+03:30",
-    "filter_market_score": 5,
-    "market_score": 7,
+    "source": "دنیای اقتصاد",
+    "title": "هشدار تند ​​سردار ایزدی​ به آمریکا و اسرائیل/ بدون محدودیت جغرافیایی با دشمن روبه رو می شویم/ پاسخ ما به هر تهدید فوری و پشیمان کننده خواهد بود",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308063-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AA%D9%86%D8%AF-%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D8%A7%DB%8C%D8%B2%D8%AF%DB%8C-%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B4%D9%85%D9%86-%D8%B1%D9%88%D8%A8%D9%87-%D8%B1%D9%88-%D9%85%DB%8C-%D8%B4%D9%88%DB%8C%D9%85-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%85%D8%A7-%D8%A8%D9%87-%D9%87%D8%B1-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D9%81%D9%88%D8%B1%DB%8C-%D9%BE%D8%B4%DB%8C%D9%85%D8%A7%D9%86-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%A8%D9%88%D8%AF",
+    "summary": "جانشین فرمانده کل سپاه گفت: نیروهای مسلح جمهوری اسلامی ایران با اتکا به روحیه مکتبی و پشتیبانی بی دریغ ملت بزرگ و بانوان قهرمان، در هر سطح و هر نوع تهدیدی، پاسخ فوری، اثرگذار و پشیمان کننده ای به متجاوزان خواهند داد و بدون هیچ گونه محدودیت جغرافیایی، ریشه ظلم و استکبار را درهم خواهند کوبید.",
+    "published": "Fri, 13 Nov 2026 07:00:38 +0000",
+    "collected_at": "2026-11-13T15:15:23.226087+03:30",
+    "filter_market_score": 4,
+    "market_score": 6,
     "market_matches": {
       "currency": [
-        "دلار"
+        "درهم"
       ]
     },
     "title_market_matches": {},
     "summary_market_matches": {
       "currency": [
-        "دلار"
+        "درهم"
       ]
     },
     "full_text_market_matches": {},
@@ -7921,10 +8240,10 @@
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "low",
-    "filter_score_bonus": 5,
+    "filter_score_bonus": 4,
     "gold_matches": [],
     "currency_matches": [
-      "دلار"
+      "درهم"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
