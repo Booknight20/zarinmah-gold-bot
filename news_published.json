@@ -38102,5 +38102,125 @@
     "group_message_id": 2789,
     "fully_published": true,
     "last_checked_at": "2026-11-13T19:00:34.990123+00:00"
+  },
+  "46dfe311a1bb99444391b364aed3e873c4ae57785a6f8ae93b822b98bd1d425b": {
+    "title": "کلیدهای ارتقای هوش تجاری در بورس",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405082215117/%DA%A9%D9%84%DB%8C%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      3046
+    ],
+    "eitaa_message_ids": [
+      181721344
+    ],
+    "group_message_ids": [
+      2801
+    ],
+    "content_hash": "414ce41b9ffae5862974ae4e76d320b0f001ceedc8c3431bcea6bf86bac03b19",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-14T00:08:09.262008+00:00",
+    "telegram_message_id": 3046,
+    "eitaa_last_sent_at": "2026-11-14T00:08:10.416582+00:00",
+    "eitaa_message_id": 181721344,
+    "group_last_sent_at": "2026-11-14T00:08:12.048838+00:00",
+    "group_message_id": 2801,
+    "fully_published": true,
+    "last_checked_at": "2026-11-14T00:08:12.109120+00:00"
+  },
+  "068127524588b7f1645f65c1de0b41767f04d31d507f303aa75e381f04003e09": {
+    "title": "۶ طلای المپیاد نجوم به ایران رسید",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405082215234/%DB%B6-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%D9%86%D8%AC%D9%88%D9%85-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      3047
+    ],
+    "eitaa_message_ids": [
+      181721346
+    ],
+    "group_message_ids": [
+      2802
+    ],
+    "content_hash": "59fa773bb9a2891c53032ccb809d94d7ad54cd8a79523d25df28a06a764bc32f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-14T00:08:13.748249+00:00",
+    "telegram_message_id": 3047,
+    "eitaa_last_sent_at": "2026-11-14T00:08:14.927384+00:00",
+    "eitaa_message_id": 181721346,
+    "group_last_sent_at": "2026-11-14T00:08:16.514119+00:00",
+    "group_message_id": 2802,
+    "fully_published": true,
+    "last_checked_at": "2026-11-14T00:08:16.574346+00:00"
+  },
+  "470acfab0a3c089a759ba495e361c2b2a5350c292d46be60cb9667204912c791": {
+    "title": "پایان سه هفته عقب نشینی بورس",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4308153-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B3%D9%87-%D9%87%D9%81%D8%AA%D9%87-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3",
+    "telegram_message_ids": [
+      3048
+    ],
+    "eitaa_message_ids": [
+      181721348
+    ],
+    "group_message_ids": [
+      2803
+    ],
+    "content_hash": "401a754685d0c79a5b32dad4b8b3fae526b48513eea42bfd5857bf46f970d150",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-14T00:08:18.233891+00:00",
+    "telegram_message_id": 3048,
+    "eitaa_last_sent_at": "2026-11-14T00:08:19.390786+00:00",
+    "eitaa_message_id": 181721348,
+    "group_last_sent_at": "2026-11-14T00:08:21.018626+00:00",
+    "group_message_id": 2803,
+    "fully_published": true,
+    "last_checked_at": "2026-11-14T00:08:21.078608+00:00"
+  },
+  "4202981b18c4d8df70ac6b40a116f42259ddabbe97be1d7ab3114bffde1e525b": {
+    "title": "کسب۶ طلای المپیاد نجوم توسط جوانان نخبه ایران",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/4201683/%DA%A9%D8%B3%D8%A8%DB%B6-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%D9%86%D8%AC%D9%88%D9%85-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D9%86%D8%AE%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-b1893c9ddf21477c93c8a188",
+    "telegram_message_ids": [
+      3049
+    ],
+    "eitaa_message_ids": [
+      181721350
+    ],
+    "group_message_ids": [
+      2804
+    ],
+    "content_hash": "8be9915daeaf1a8e355e26a4a76fb2069748f48ef9f025500eee36795784459e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-14T00:08:22.729835+00:00",
+    "telegram_message_id": 3049,
+    "eitaa_last_sent_at": "2026-11-14T00:08:23.918993+00:00",
+    "eitaa_message_id": 181721350,
+    "group_last_sent_at": "2026-11-14T00:08:25.493116+00:00",
+    "group_message_id": 2804,
+    "fully_published": true,
+    "last_checked_at": "2026-11-14T00:08:25.553233+00:00"
+  },
+  "7aba888088ce502a43db90c308bb12d682c3ccb1690084d8199332b89d382e47": {
+    "title": "کروز در مسیر نفوذ بیشتر بر ایران خودرو / درخواست ورود دادستان به معامله ۵.۳ همتی بهمن موتور",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/4201623/%DA%A9%D8%B1%D9%88%D8%B2-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D9%86%D9%81%D9%88%D8%B0-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A8%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D9%88%D8%B1%D9%88%D8%AF-%D8%AF%D8%A7%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%DB%B5%DB%B3-%D9%87%D9%85%D8%AA%DB%8C-%D8%A8%D9%87%D9%85%D9%86%D9%85%D9%88%D8%AA%D9%88%D8%B1-528a2dc5af614a2394548399",
+    "telegram_message_ids": [
+      3050
+    ],
+    "eitaa_message_ids": [
+      181721358
+    ],
+    "group_message_ids": [
+      2805
+    ],
+    "content_hash": "c90db5b7df17469183474d96f54a967a9a77ebbfda915886554bd6280252d090",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-14T00:08:27.194562+00:00",
+    "telegram_message_id": 3050,
+    "eitaa_last_sent_at": "2026-11-14T00:08:28.398146+00:00",
+    "eitaa_message_id": 181721358,
+    "group_last_sent_at": "2026-11-14T00:08:30.018033+00:00",
+    "group_message_id": 2805,
+    "fully_published": true,
+    "last_checked_at": "2026-11-14T00:08:30.078101+00:00"
   }
 }
