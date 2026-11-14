@@ -42082,10 +42082,10 @@
     "content_signature": "f76cabbea801cdf99bbd63425fc746d46479182a48916d8e9f31325019ee9cc0",
     "first_seen_at": "2026-11-14T15:59:36.062244+03:30",
     "telegram_parts_sent": [
-      false
+      true
     ],
     "telegram_part_message_ids": [
-      null
+      3109
     ],
     "errors": [
       {
@@ -42109,14 +42109,23 @@
     ],
     "eitaa_last_success_at": "2026-11-14T15:59:37.592427+03:30",
     "eitaa_sent": true,
-    "eitaa_sent_at": "2026-11-14T15:59:37.624996+03:30",
+    "eitaa_sent_at": "2026-11-14T21:57:45.380429+03:30",
     "eitaa_message_id": 181832192,
     "group_parts_sent": [
-      false
+      true
     ],
     "group_part_message_ids": [
-      null
-    ]
+      2864
+    ],
+    "telegram_last_success_at": "2026-11-14T21:57:45.322838+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-14T21:57:45.351384+03:30",
+    "telegram_message_id": 3109,
+    "group_last_success_at": "2026-11-14T21:57:45.955440+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-14T21:57:45.983347+03:30",
+    "group_message_id": 2864,
+    "published_at": "2026-11-14T21:57:46.010668+03:30"
   },
   "https://t.me/drarashamini/7404": {
     "item": {
@@ -42149,10 +42158,10 @@
     "content_signature": "faec5a78f4accd9826febc13195dfd5d85fc44f925917cd8572c973d72617bff",
     "first_seen_at": "2026-11-14T15:59:38.035465+03:30",
     "telegram_parts_sent": [
-      false
+      true
     ],
     "telegram_part_message_ids": [
-      null
+      3112
     ],
     "errors": [
       {
@@ -42176,13 +42185,618 @@
     ],
     "eitaa_last_success_at": "2026-11-14T15:59:38.971797+03:30",
     "eitaa_sent": true,
-    "eitaa_sent_at": "2026-11-14T15:59:39.036785+03:30",
+    "eitaa_sent_at": "2026-11-14T21:57:50.849971+03:30",
     "eitaa_message_id": 181832194,
     "group_parts_sent": [
-      false
+      true
     ],
     "group_part_message_ids": [
-      null
-    ]
+      2867
+    ],
+    "telegram_last_success_at": "2026-11-14T21:57:50.794547+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-14T21:57:50.822328+03:30",
+    "telegram_message_id": 3112,
+    "group_last_success_at": "2026-11-14T21:57:51.424281+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-14T21:57:51.452125+03:30",
+    "group_message_id": 2867,
+    "published_at": "2026-11-14T21:57:51.479671+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26256": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "خلاصه بازار 23 آبان 1405",
+      "summary": "خلاصه بازار 23 آبان 1405 \n\n ۱- طلا فیزیکی 18 عیار 24/803/000 تومان \n ۲- صندوق طلا 9759 میلیارد تومان ارزش معاملات ، 706 میلیارد خروج پول (حباب نداشتن)\n ۳- شمش طلای 24 عیار 32/720/000 تومان\n ۴- صندوق نقره 500 میلیارد تومان ارزش معاملات ، 123 میلیارد ورود پول (میانگین حباب ۱٪+)\n ۵- شمش 999‌ نقره 428/000 تومان \n ۶- صندوق درآمد ثابت 44622 میلیارد تومان ارزش معاملات ، 2607 میلیارد تومان ورود پول\n ۷- انس طلا 3883 $ انس نقره 49 $\nنسبت طلا به نقره 79 \n ۸- بین‌کوین 66000 $ معادل 18/000 میلیارد تومان\n\n @payamelyaskordi ✅",
+      "full_text": "خلاصه بازار 23 آبان 1405 \n\n ۱- طلا فیزیکی 18 عیار 24/803/000 تومان \n ۲- صندوق طلا 9759 میلیارد تومان ارزش معاملات ، 706 میلیارد خروج پول (حباب نداشتن)\n ۳- شمش طلای 24 عیار 32/720/000 تومان\n ۴- صندوق نقره 500 میلیارد تومان ارزش معاملات ، 123 میلیارد ورود پول (میانگین حباب ۱٪+)\n ۵- شمش 999‌ نقره 428/000 تومان \n ۶- صندوق درآمد ثابت 44622 میلیارد تومان ارزش معاملات ، 2607 میلیارد تومان ورود پول\n ۷- انس طلا 3883 $ انس نقره 49 $\nنسبت طلا به نقره 79 \n ۸- بین‌کوین 66000 $ معادل 18/000 میلیارد تومان\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26256",
+      "analysis_score": 26,
+      "market_matches": [
+        "طلا",
+        "طلای ۲۴",
+        "طلای 24",
+        "ارز",
+        "ارزش معاملات",
+        "صندوق طلا",
+        "صندوق نقره"
+      ],
+      "analysis_matches": [
+        "ورود",
+        "خروج",
+        "حباب"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 516,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-14T21:57:07.426125+03:30"
+    },
+    "content_signature": "21f066ff304ce9161ce7406676816916accf1c13a75e56ee38f2f09568cced42",
+    "first_seen_at": "2026-11-14T21:57:29.256255+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3102
+    ],
+    "telegram_last_success_at": "2026-11-14T21:57:29.958828+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-14T21:57:29.986862+03:30",
+    "telegram_message_id": 3102,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      181881623
+    ],
+    "eitaa_last_success_at": "2026-11-14T21:57:30.777226+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-14T21:57:30.805361+03:30",
+    "eitaa_message_id": 181881623,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2857
+    ],
+    "group_last_success_at": "2026-11-14T21:57:31.817414+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-14T21:57:31.845432+03:30",
+    "group_message_id": 2857,
+    "published_at": "2026-11-14T21:57:31.873854+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26253": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "بیت کوین به 65 هزار دلار رسیده و تو ترس شدید هست.",
+      "summary": "بیت کوین به 65 هزار دلار رسیده و تو ترس شدید هست.\nحالا شاخص ترس و طمع بیت‌کوین چیه؟ \nاین شاخص از صفر تا ۱۰۰ نشون میده حال‌وهوای بازار بیت‌کوین چطوره، عدد پایین یعنی ترس و نگرانی بیشتر، عدد بالا یعنی طمع و هیجان بیشتر.\n۰ تا ۲۴: ترس شدید\n۲۵ تا ۴۴: ترس\n۴۵ تا ۵۴: وضعیت خنثی\n۵۵ تا ۷۴: طمع\n۷۵ تا ۱۰۰: طمع شدید\n عدد فعلی ۲۰ از ۱۰۰ هست، یعنی فضای بازار به‌شدت ترس‌آلوده و بدبینی بین فعالان بازار زیاده ، بیت کوین همیشه کف‌های قیمتی رو در ترس‌های شدید تجربه کرده و فرصت خرید بوده. \n\n @payamelyaskordi ✅",
+      "full_text": "بیت کوین به 65 هزار دلار رسیده و تو ترس شدید هست.\nحالا شاخص ترس و طمع بیت‌کوین چیه؟ \nاین شاخص از صفر تا ۱۰۰ نشون میده حال‌وهوای بازار بیت‌کوین چطوره، عدد پایین یعنی ترس و نگرانی بیشتر، عدد بالا یعنی طمع و هیجان بیشتر.\n۰ تا ۲۴: ترس شدید\n۲۵ تا ۴۴: ترس\n۴۵ تا ۵۴: وضعیت خنثی\n۵۵ تا ۷۴: طمع\n۷۵ تا ۱۰۰: طمع شدید\n عدد فعلی ۲۰ از ۱۰۰ هست، یعنی فضای بازار به‌شدت ترس‌آلوده و بدبینی بین فعالان بازار زیاده ، بیت کوین همیشه کف‌های قیمتی رو در ترس‌های شدید تجربه کرده و فرصت خرید بوده. \n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26253",
+      "analysis_score": 18,
+      "market_matches": [
+        "دلار",
+        "شاخص",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "خرید",
+        "قیمت"
+      ],
+      "market_groups": [
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 494,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-14T21:57:07.421645+03:30"
+    },
+    "content_signature": "d45b0d4ea9daf5946f5897bacb52e4b4eba90c2d764ac0aa1d1ab818aa7a9a43",
+    "first_seen_at": "2026-11-14T21:57:31.903011+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3103
+    ],
+    "telegram_last_success_at": "2026-11-14T21:57:32.530381+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-14T21:57:32.557978+03:30",
+    "telegram_message_id": 3103,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      181881627
+    ],
+    "eitaa_last_success_at": "2026-11-14T21:57:33.342734+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-14T21:57:33.371552+03:30",
+    "eitaa_message_id": 181881627,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2858
+    ],
+    "group_last_success_at": "2026-11-14T21:57:34.062024+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-14T21:57:34.089601+03:30",
+    "group_message_id": 2858,
+    "published_at": "2026-11-14T21:57:34.117837+03:30"
+  },
+  "https://t.me/rahavard365/58685": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "گزارش روزانه بازار اختیار معامله",
+      "summary": "گزارش روزانه بازار اختیار معامله\n\n 🌟 ارزش معاملات: ۳.۷۳ همت\n\n ⚡️ برای دسترسی به جزئیات اطلاعات مربوط به قراردادهای اختیار معامله (آپشن) به داشبورد اختصاصی بازار اختیار معامله ره‌آورد مراجعه کنید. \n\n #اختیار_معامله \n #آپشن \n \n 🗓 ‌شنبه ۲۳ آبان ۱۴۰۵ \n\n ✉️ @rahavard365",
+      "full_text": "گزارش روزانه بازار اختیار معامله\n\n 🌟 ارزش معاملات: ۳.۷۳ همت\n\n ⚡️ برای دسترسی به جزئیات اطلاعات مربوط به قراردادهای اختیار معامله (آپشن) به داشبورد اختصاصی بازار اختیار معامله ره‌آورد مراجعه کنید. \n\n #اختیار_معامله \n #آپشن \n \n 🗓 ‌شنبه ۲۳ آبان ۱۴۰۵ \n\n ✉️ @rahavard365",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58685",
+      "analysis_score": 14,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "ارزش معاملات"
+      ],
+      "analysis_matches": [
+        "معامله"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 265,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-14T21:57:10.149857+03:30"
+    },
+    "content_signature": "1e70170cf1b7c86638a43ef8e431096229b0b7613da46a2116bec2299ad52739",
+    "first_seen_at": "2026-11-14T21:57:34.146356+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3104
+    ],
+    "telegram_last_success_at": "2026-11-14T21:57:34.788647+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-14T21:57:34.816535+03:30",
+    "telegram_message_id": 3104,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      181881635
+    ],
+    "eitaa_last_success_at": "2026-11-14T21:57:35.595205+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-14T21:57:35.622691+03:30",
+    "eitaa_message_id": 181881635,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2859
+    ],
+    "group_last_success_at": "2026-11-14T21:57:36.204053+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-14T21:57:36.231477+03:30",
+    "group_message_id": 2859,
+    "published_at": "2026-11-14T21:57:36.259432+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26255": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "با گرون‌شدن بنزین، کدوم ماشین‌ها گرون‌تر میشن؟ کدوم‌ها ارزون‌تر؟",
+      "summary": "با گرون‌شدن بنزین، کدوم ماشین‌ها گرون‌تر میشن؟ کدوم‌ها ارزون‌تر؟ \n\nاحتمال افزایش قیمت:\n۱-پراید و تیبا\n۲-ساینا و کوییک\n۳-خودروهای دوگانه‌سوز مثل سمند و پژو ۴۰۵ دوگانه‌سوز\n۴-خودروهای هیبریدی و برقی\nاحتمال کاهش قیمت:\n۱-خودروهای پرمصرف مثل لندکروز و پاترول\n۲-شاسی‌بلندهای بنزینی پرمصرف مثل هایلوکس\n۳-خودروهای با موتورهای حجیم مثل بنز S500\n۴-خودروهای بالای ۶ سیلندر مثل هیوندای \n\n @payamelyaskordi ✅",
+      "full_text": "با گرون‌شدن بنزین، کدوم ماشین‌ها گرون‌تر میشن؟ کدوم‌ها ارزون‌تر؟ \n\nاحتمال افزایش قیمت:\n۱-پراید و تیبا\n۲-ساینا و کوییک\n۳-خودروهای دوگانه‌سوز مثل سمند و پژو ۴۰۵ دوگانه‌سوز\n۴-خودروهای هیبریدی و برقی\nاحتمال کاهش قیمت:\n۱-خودروهای پرمصرف مثل لندکروز و پاترول\n۲-شاسی‌بلندهای بنزینی پرمصرف مثل هایلوکس\n۳-خودروهای با موتورهای حجیم مثل بنز S500\n۴-خودروهای بالای ۶ سیلندر مثل هیوندای \n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26255",
+      "analysis_score": 13,
+      "market_matches": [
+        "ارز"
+      ],
+      "analysis_matches": [
+        "احتمال",
+        "افزایش",
+        "کاهش",
+        "قیمت"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی"
+      ],
+      "priority": "high",
+      "content_length": 394,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-14T21:57:07.424540+03:30"
+    },
+    "content_signature": "4593cdec30cbb4c509326a4f8bbe00b1daf6d93f600533909dbc9cff5b81dce2",
+    "first_seen_at": "2026-11-14T21:57:36.287871+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3105
+    ],
+    "telegram_last_success_at": "2026-11-14T21:57:36.852531+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-14T21:57:36.879825+03:30",
+    "telegram_message_id": 3105,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      181881640
+    ],
+    "eitaa_last_success_at": "2026-11-14T21:57:37.658191+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-14T21:57:37.685883+03:30",
+    "eitaa_message_id": 181881640,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2860
+    ],
+    "group_last_success_at": "2026-11-14T21:57:38.340598+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-14T21:57:38.368399+03:30",
+    "group_message_id": 2860,
+    "published_at": "2026-11-14T21:57:38.395581+03:30"
+  },
+  "https://t.me/nasiirry/17958": {
+    "item": {
+      "analyst": "حسین نصیری",
+      "title": "دوستان، علاوه بر پیام‌هایی که امروز منتشر کردم، یک ویس جامع هم درباره دغدغه‌های ورود به بازار آنلاین طلا داخل کانال ق...",
+      "summary": "دوستان، علاوه بر پیام‌هایی که امروز منتشر کردم، یک ویس جامع هم درباره دغدغه‌های ورود به بازار آنلاین طلا داخل کانال قرار دادم.\nاگر هنوز درباره شروع این مسیر تردید دارید، پیشنهاد می‌کنم حتماً این ویس رو گوش بدید.\n\nتوی این ویس درباره همین موانعی صحبت کردم که خیلی از شما باهاشون درگیر هستید. 👇 👇 \n\n https://t.me/NasiriBlackFriday/579",
+      "full_text": "دوستان، علاوه بر پیام‌هایی که امروز منتشر کردم، یک ویس جامع هم درباره دغدغه‌های ورود به بازار آنلاین طلا داخل کانال قرار دادم.\nاگر هنوز درباره شروع این مسیر تردید دارید، پیشنهاد می‌کنم حتماً این ویس رو گوش بدید.\n\nتوی این ویس درباره همین موانعی صحبت کردم که خیلی از شما باهاشون درگیر هستید. 👇 👇 \n\n https://t.me/NasiriBlackFriday/579",
+      "source": "حسین نصیری",
+      "link": "https://t.me/nasiirry/17958",
+      "analysis_score": 12,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "مسیر",
+        "ورود"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال"
+      ],
+      "priority": "high",
+      "content_length": 331,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-14T21:57:08.751886+03:30"
+    },
+    "content_signature": "9e9a05d3fdbd35c405b9fb891f9dae41bb018682be487a0767749732ca356d92",
+    "first_seen_at": "2026-11-14T21:57:38.424643+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3106
+    ],
+    "telegram_last_success_at": "2026-11-14T21:57:39.034714+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-14T21:57:39.062444+03:30",
+    "telegram_message_id": 3106,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      181881646
+    ],
+    "eitaa_last_success_at": "2026-11-14T21:57:39.847633+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-14T21:57:39.875166+03:30",
+    "eitaa_message_id": 181881646,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2861
+    ],
+    "group_last_success_at": "2026-11-14T21:57:40.473263+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-14T21:57:40.500938+03:30",
+    "group_message_id": 2861,
+    "published_at": "2026-11-14T21:57:40.528810+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/9015": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "رشد دلار و طلا از ابتدای سال تا الان به این شکل بوده ‼️",
+      "summary": "رشد دلار و طلا از ابتدای سال تا الان به این شکل بوده ‼️",
+      "full_text": "رشد دلار و طلا از ابتدای سال تا الان به این شکل بوده ‼️",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/9015",
+      "analysis_score": 9,
+      "market_matches": [
+        "طلا",
+        "دلار"
+      ],
+      "analysis_matches": [
+        "رشد"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "medium",
+      "content_length": 55,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-14T21:57:09.407223+03:30"
+    },
+    "content_signature": "f62817236120d83088635fde7c744dea706247c73ac87e3ea153c4830bb225b6",
+    "first_seen_at": "2026-11-14T21:57:40.557276+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3107
+    ],
+    "telegram_last_success_at": "2026-11-14T21:57:41.163046+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-14T21:57:41.191014+03:30",
+    "telegram_message_id": 3107,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      181881653
+    ],
+    "eitaa_last_success_at": "2026-11-14T21:57:41.970098+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-14T21:57:41.998173+03:30",
+    "eitaa_message_id": 181881653,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2862
+    ],
+    "group_last_success_at": "2026-11-14T21:57:42.577615+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-14T21:57:42.605638+03:30",
+    "group_message_id": 2862,
+    "published_at": "2026-11-14T21:57:42.633453+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/9018": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "رشد دلار و طلا از ابتدای سال تا الان به این شکل بوده ‼️",
+      "summary": "رشد دلار و طلا از ابتدای سال تا الان به این شکل بوده ‼️",
+      "full_text": "رشد دلار و طلا از ابتدای سال تا الان به این شکل بوده ‼️",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/9018",
+      "analysis_score": 9,
+      "market_matches": [
+        "طلا",
+        "دلار"
+      ],
+      "analysis_matches": [
+        "رشد"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "medium",
+      "content_length": 55,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-14T21:57:09.409731+03:30"
+    },
+    "content_signature": "7cfa6762eb734268cf48cf35313463e1b624b7678b63169dfcb5abab0ef31077",
+    "first_seen_at": "2026-11-14T21:57:42.662782+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3108
+    ],
+    "telegram_last_success_at": "2026-11-14T21:57:43.262853+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-14T21:57:43.290565+03:30",
+    "telegram_message_id": 3108,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      181881657
+    ],
+    "eitaa_last_success_at": "2026-11-14T21:57:44.068876+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-14T21:57:44.096873+03:30",
+    "eitaa_message_id": 181881657,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2863
+    ],
+    "group_last_success_at": "2026-11-14T21:57:44.672346+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-14T21:57:44.700124+03:30",
+    "group_message_id": 2863,
+    "published_at": "2026-11-14T21:57:44.727705+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/9013": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "بابک زنجانی گفته تتر رو ۲۴۹ هزار تومن میدم قیمت بازار ۲۷۱ دمت گرم بابا فقط اگه اون تتر هایی که با فروش توکن خودت داری...",
+      "summary": "بابک زنجانی گفته تتر رو ۲۴۹ هزار تومن میدم قیمت بازار ۲۷۱ دمت گرم بابا فقط اگه اون تتر هایی که با فروش توکن خودت داری از مردم میگیری نباشه و اونارو حراج نکنی، کار خوبیه مرسی @AlirezaMehrabi_ir",
+      "full_text": "بابک زنجانی گفته تتر رو ۲۴۹ هزار تومن میدم قیمت بازار ۲۷۱ دمت گرم بابا فقط اگه اون تتر هایی که با فروش توکن خودت داری از مردم میگیری نباشه و اونارو حراج نکنی، کار خوبیه مرسی @AlirezaMehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/9013",
+      "analysis_score": 8,
+      "market_matches": [
+        "تتر"
+      ],
+      "analysis_matches": [
+        "فروش",
+        "قیمت"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 192,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-14T21:57:09.404805+03:30"
+    },
+    "content_signature": "97479a6e1a41d509d8d9a074c761c4a6fb59c4f1b37d49fadd3e8d7c20d78636",
+    "first_seen_at": "2026-11-14T21:57:46.039765+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3110
+    ],
+    "telegram_last_success_at": "2026-11-14T21:57:46.627181+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-14T21:57:46.655021+03:30",
+    "telegram_message_id": 3110,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      181881663
+    ],
+    "eitaa_last_success_at": "2026-11-14T21:57:47.438026+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-14T21:57:47.465806+03:30",
+    "eitaa_message_id": 181881663,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2865
+    ],
+    "group_last_success_at": "2026-11-14T21:57:48.057274+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-14T21:57:48.084912+03:30",
+    "group_message_id": 2865,
+    "published_at": "2026-11-14T21:57:48.112417+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/9017": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "بازدهی بورس هم تا اینجای کار روی شاخص‌ها اینجوری بوده 👆",
+      "summary": "بازدهی بورس هم تا اینجای کار روی شاخص‌ها اینجوری بوده 👆",
+      "full_text": "بازدهی بورس هم تا اینجای کار روی شاخص‌ها اینجوری بوده 👆",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/9017",
+      "analysis_score": 8,
+      "market_matches": [
+        "بورس",
+        "شاخص",
+        "بازدهی"
+      ],
+      "analysis_matches": [
+        "بازده"
+      ],
+      "market_groups": [
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل"
+      ],
+      "priority": "medium",
+      "content_length": 55,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-14T21:57:09.408507+03:30"
+    },
+    "content_signature": "1b8151548ca76910744e049c3e12788229fb0548c9d3f4991eaf8d365484992a",
+    "first_seen_at": "2026-11-14T21:57:48.140878+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3111
+    ],
+    "telegram_last_success_at": "2026-11-14T21:57:48.696136+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-14T21:57:48.723927+03:30",
+    "telegram_message_id": 3111,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      181881667
+    ],
+    "eitaa_last_success_at": "2026-11-14T21:57:49.509268+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-14T21:57:49.537293+03:30",
+    "eitaa_message_id": 181881667,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      2866
+    ],
+    "group_last_success_at": "2026-11-14T21:57:50.124902+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-14T21:57:50.152766+03:30",
+    "group_message_id": 2866,
+    "published_at": "2026-11-14T21:57:50.180884+03:30"
   }
 }

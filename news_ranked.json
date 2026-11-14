@@ -1341,6 +1341,73 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "فشار فروش بر غول های بورسی و افت شاخص کل؛ از بازدهی عرضه اولیه های قبلی تا آینده مایکت +فیلم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308343-%D9%81%D8%B4%D8%A7%D8%B1-%D9%81%D8%B1%D9%88%D8%B4-%D8%A8%D8%B1-%D8%BA%D9%88%D9%84-%D9%87%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C-%D8%A7%D9%81%D8%AA-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%B9%D8%B1%D8%B6%D9%87-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D9%87%D8%A7%DB%8C-%D9%82%D8%A8%D9%84%DB%8C-%D8%AA%D8%A7-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%85%D8%A7%DB%8C%DA%A9%D8%AA-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "معاملات امروز ۲۳ آبان بازار سهام با افت نزدیک به یک درصدی شاخص کل و خروج ۴.۳ همت پول حقیقی مواجه شد.",
+    "published": "Sat, 14 Nov 2026 15:47:28 +0000",
+    "collected_at": "2026-11-14T21:56:19.590053+03:30",
+    "filter_market_score": 31,
+    "market_score": 32,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "عرضه اولیه",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "عرضه اولیه"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "شاخص کل",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افت",
+      "عرضه",
+      "بازدهی",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "عرضه اولیه",
+      "سهام",
+      "بازار سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "قیمت سکه، نیم سکه و ربع سکه امروز شنبه ۲۳ آبان ۱۴۰۵ / سکه نزولی شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308271-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF",
     "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت سکه امامی امروز با کاهش، در نرخ 253 میلیون و 700 هزار تومان در معامله بود.",
@@ -2636,6 +2703,68 @@
     "ranking_applied": true
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "واکنش همتی به تهدیدات اخیر بسنت/ شرایط خوب است، ۳۳ میلیارد دلار ارز تامین کرده ایم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308336-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D9%87%D9%85%D8%AA%DB%8C-%D8%A8%D9%87-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%D8%A7%D8%AA-%D8%A7%D8%AE%DB%8C%D8%B1-%D8%A8%D8%B3%D9%86%D8%AA-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%AE%D9%88%D8%A8-%D8%A7%D8%B3%D8%AA-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%DB%8C%D9%85",
+    "summary": "رئیس کل بانک مرکزی در واکنش به اظهارات بسنت درباره تشدید تحریم ها از تامین ۳۳ میلیارد دلار ارز خبر داد.",
+    "published": "Sat, 14 Nov 2026 15:30:23 +0000",
+    "collected_at": "2026-11-14T21:56:19.590070+03:30",
+    "filter_market_score": 21,
+    "market_score": 28,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی",
+      "تحریم"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": [
+      "تحریم"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "قیمت نفت بیش از یک دلار کاهش یافت/ نفت خام برنت به بشکه ای ۹۱ دلار رسید",
     "link": "https://www.khabaronline.ir/news/2301073/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%8C%DA%A9-%D8%AF%D9%84%D8%A7%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D9%85-%D8%A8%D8%B1%D9%86%D8%AA-%D8%A8%D9%87-%D8%A8%D8%B4%DA%A9%D9%87-%D8%A7%DB%8C-%DB%B9%DB%B1",
@@ -3437,66 +3566,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۱۹ آبان ۱۴۰۵ در زمان بسته شدن بازار/ سکه امامی به قیمت ۲۵۱ میلیون و ۸۰۰ هزار تومان رسید + جدول",
-    "link": "https://www.khabaronline.ir/news/2300473/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C",
-    "summary": "قیمت سکه در بازار تهران امروز ۱۹ آبان ۱۴۰۵ اعلام شد و سکه امامی به قیمت ۲۵۱ میلیون و ۸۰۰ هزار تومان رسید و نیم سکه به قیمت ۱۳۲ میلیون و ۳۰۰ هزار تومان فروش رفت.",
-    "published": "Tue, 10 Nov 2026 18:46:09 GMT",
-    "collected_at": "2026-11-10T22:37:55.107833+03:30",
-    "filter_market_score": 15,
-    "market_score": 26,
-    "market_matches": {
-      "gold": [
-        "سکه",
-        "سکه امامی",
-        "نیم سکه"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه",
-        "سکه امامی"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "سکه",
-        "سکه امامی",
-        "نیم سکه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "سکه",
-      "سکه امامی",
-      "نیم سکه"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "سقوط عجیب قیمت تتر در صرافی های ایرانی/ دلار دیجیتال ۴۰ هزار تومان ارزان شد/صرافی های ایرانی به خریداران زیان دیده غرامت می دهند",
     "link": "https://www.khabaronline.ir/news/2300834/%D8%B3%D9%82%D9%88%D8%B7-%D8%B9%D8%AC%DB%8C%D8%A8-%D9%82%DB%8C%D9%85%D8%AA-%D8%AA%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%DB%B4%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1",
     "summary": "صرافی های ارز دیجیتال می گویند برای معاملاتی که سه شنبه ۱۹ آبان با دلار ۲۱۵ هزار تومانی انجام شده،به خریداران زیان دیده غرامت می دهند.",
@@ -3870,124 +3939,57 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "بازگشت طوفانی بورس با ۱۱.۵ همت نقدینگی؛ ۹۵ درصد نمادها سبزپوش شدند +فیلم",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4307580-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%B7%D9%88%D9%81%D8%A7%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%A7-%D9%87%D9%85%D8%AA-%D9%86%D9%82%D8%AF%DB%8C%D9%86%DA%AF%DB%8C-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%86%D9%85%D8%A7%D8%AF%D9%87%D8%A7-%D8%B3%D8%A8%D8%B2%D9%BE%D9%88%D8%B4-%D8%B4%D8%AF%D9%86%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
-    "summary": "در معاملات امروز بازار سرمایه، پس از دو هفته فشار فروش، با ورود ۱۱.۵ همت نقدینگی، رشد ۲.۷ درصدی شاخص کل و سبزپوشی ۹۵ درصد نمادها شاهد بازگشت تقاضا بود.",
-    "published": "Tue, 10 Nov 2026 15:57:33 +0000",
-    "collected_at": "2026-11-10T22:37:39.136035+03:30",
+    "title": "عراقچی: اید فشار تحریم ها را از طریق دیپلماسی اقتصادی خنثی کنیم/ حتی یک دلار درآمد ارزی بیشتر در شرایط کنونی کشور ارزشمند است",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308377-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A7%DB%8C%D8%AF-%D9%81%D8%B4%D8%A7%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%AE%D9%86%D8%AB%DB%8C-%DA%A9%D9%86%DB%8C%D9%85-%D8%AD%D8%AA%DB%8C-%DB%8C%DA%A9-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%DA%A9%D9%86%D9%88%D9%86%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B1%D8%B2%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D8%B3%D8%AA",
+    "summary": "عراقچی تأکید کرد که در شرایط کنونی، حتی یک دلار درآمد ارزی بیشتر و ایجاد یک فرصت شغلی نیز ارزشمند است.",
+    "published": "Sat, 14 Nov 2026 16:55:33 +0000",
+    "collected_at": "2026-11-14T21:56:19.589969+03:30",
     "filter_market_score": 19,
-    "market_score": 23,
+    "market_score": 22,
     "market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه",
-        "شاخص کل"
+      "currency": [
+        "دلار",
+        "ارز"
       ]
     },
     "title_market_matches": {
-      "stock": [
-        "بورس"
+      "currency": [
+        "دلار",
+        "ارز"
       ]
     },
     "summary_market_matches": {
-      "stock": [
-        "بازار سرمایه",
-        "شاخص کل"
+      "currency": [
+        "دلار",
+        "ارز"
       ]
     },
     "full_text_market_matches": {},
     "driver_matches": [
-      "نقدینگی"
+      "تحریم"
     ],
     "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "معاملات",
-      "تقاضا"
-    ],
+    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
-    "priority": "high",
+    "priority": "medium",
     "filter_score_bonus": 6,
     "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه",
-      "شاخص کل"
+    "currency_matches": [
+      "دلار",
+      "ارز"
     ],
+    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [
-      "نقدینگی"
+      "تحریم"
     ],
-    "has_numeric_evidence": true,
+    "has_numeric_evidence": false,
     "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "پیش بینی بورس فردا چهارشنبه ۲۰ آبان ۱۴۰۵/ سه عامل کلیدی برای چشم انداز روشن بازار سرمایه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4307634-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%81%D8%B1%D8%AF%D8%A7-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%D9%87-%D8%B9%D8%A7%D9%85%D9%84-%DA%A9%D9%84%DB%8C%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2-%D8%B1%D9%88%D8%B4%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87",
-    "summary": "گستردگی تقاضا در معاملات امروز، ورود بی سابقه نقدینگی حقیقی و برتری چشمگیر سفارش های خرید، مجموعه عواملی هستند که چشم انداز معاملات روز چهارشنبه را مثبت ترسیم می کنند.",
-    "published": "Tue, 10 Nov 2026 18:27:34 +0000",
-    "collected_at": "2026-11-10T22:37:39.135741+03:30",
-    "filter_market_score": 18,
-    "market_score": 22,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نقدینگی"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "پیش‌بینی",
-      "پیش بینی",
-      "چشم‌انداز",
-      "چشم انداز",
-      "معاملات",
-      "تقاضا"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "نقدینگی"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -4570,63 +4572,6 @@
     "ranking_applied": true
   },
   {
-    "source": "تابناک",
-    "title": "نوسان عجیب تتر: کاهش ۱۸ درصدی در یک ساعت! + جدول",
-    "link": "https://tabnak.ir/fa/news/4201086/%D9%86%D9%88%D8%B3%D8%A7%D9%86-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%AA%D8%AA%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%DB%B1%DB%B8-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AF%D8%B1-%DB%8C%DA%A9-%D8%B3%D8%A7%D8%B9%D8%AA-4bbcd13aa4534ea2bb7aee92",
-    "summary": "به گزارش تابناک، قیمت تتر در بازار رمزارز ایران با ریزشی ناگهانی مواجه شد و بر اساس داده های موجود، قیمت تا محدوده ۲۲۲ هزار و ۹۵۳ تومان کاهش یافت. در ادامه تتر با جبران بخشی از کاهش قیمت خود، به رقم ۲۵۴ هزار و ۷۱۷ تومان رسید.",
-    "published": "Tue, 10 Nov 2026 18:04:57 +0000",
-    "collected_at": "2026-11-10T22:38:04.767852+03:30",
-    "filter_market_score": 15,
-    "market_score": 20,
-    "market_matches": {
-      "currency": [
-        "تتر"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "تتر"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "تتر"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "نوسان",
-      "ریزش",
-      "قیمت",
-      "داده",
-      "گزارش"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "تتر"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "ریزش سنگین بیت کوین در بازار جهانی/ بیش از ۱.۶ میلیارد دلار از معاملات رمزارزی لیکوئید شد/قیمت بیت کوین به زیر ۶۸ هزار دلار رسید",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308069-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B2-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B1%D9%85%D8%B2%D8%A7%D8%B1%D8%B2%DB%8C-%D9%84%DB%8C%DA%A9%D9%88%D8%A6%DB%8C%D8%AF-%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -5013,63 +4958,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "هدفگذاری صادرات ۲ میلیارد دلاری در استان مرکزی",
-    "link": "https://www.isna.ir/news/1405081913483/%D9%87%D8%AF%D9%81%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C",
-    "summary": "استاندار مرکزی با اعلام رشد ۴۶ درصدی صادرات غیرنفتی استان در هفت ماهه امسال، از هدف گذاری برای دستیابی به صادرات دو میلیارد دلاری تا پایان سال خبر داد.",
-    "published": "Tue, 10 Nov 2026 17:45:04 GMT",
-    "collected_at": "2026-11-10T22:37:12.557008+03:30",
-    "filter_market_score": 15,
-    "market_score": 19,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -5626,6 +5514,58 @@
     "ranking_applied": true
   },
   {
+    "source": "تابناک",
+    "title": "از میدان صادرات تا تله تعزیرات ارزی؛ صدای تجار گرفتار را بشنوید!",
+    "link": "https://tabnak.ir/fa/news/4201760/%D8%A7%D8%B2-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%A7-%D8%AA%D9%84%D9%87-%D8%AA%D8%B9%D8%B2%DB%8C%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA%D8%A7%D8%B1-%D8%B1%D8%A7-%D8%A8%D8%B4%D9%86%D9%88%DB%8C%D8%AF-f7a5d77c1d0044a1be9fd6b9",
+    "summary": "جناب آقای دکتر همتی، ریاست محترم بانک مرکزی، و مسئولان محترم دستگاه های ذی ربط صادرکنندگانی که با سرمایه شخصی، اعتبار خانوادگی و حاصل سال ها تلاش وارد بازارهای جهانی شدند، امروز در وضعیتی قرار گرفته اند که بخش مهمی از آن خارج از اراده و اختیارشان بوده است. بسیاری از این تجار، خرد و مستقل اند و بدون پشتوانه شرکت های بزرگ، حتی کالاهای فسادپذیری مانند میوه و محصولات کشاورزی را صادر کرده اند؛ کالاهایی که کوچک ترین تأخیر در حمل یا ترخیص می تواند کل سرمایه یک معامله را از میان ببرد.",
+    "published": "Sat, 14 Nov 2026 16:55:49 +0000",
+    "collected_at": "2026-11-14T21:56:37.881664+03:30",
+    "filter_market_score": 12,
+    "market_score": 16,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی",
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "شکست روسیه در جایگزینی دلار با یوان",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4307949-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%AF%D8%B1-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86%DB%8C-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%A7-%DB%8C%D9%88%D8%A7%D9%86",
@@ -5924,55 +5864,6 @@
     "ranking_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "کمتر از ۱۰ درصد جامعه مشمول حذف کالابرگ می شوند/ زنگنه: میزان درآمد و خرید خانوار، دارایی های ملکی، خودرویی و سهام، معیارهای بررسی وسع خانوار هستند",
-    "link": "https://www.khabaronline.ir/news/2300312/%DA%A9%D9%85%D8%AA%D8%B1-%D8%A7%D8%B2-%DB%B1%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%AC%D8%A7%D9%85%D8%B9%D9%87-%D9%85%D8%B4%D9%85%D9%88%D9%84-%D8%AD%D8%B0%D9%81-%DA%A9%D8%A7%D9%84%D8%A7%D8%A8%D8%B1%DA%AF-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF-%D8%B2%D9%86%DA%AF%D9%86%D9%87-%D9%85%DB%8C%D8%B2%D8%A7%D9%86",
-    "summary": "زنگنه، سخنگوی معاونت رفاه و امور اقتصادی وزارت تعاون، کار و رفاه اجتماعی با بیان اینکه کمتر از ۱۰ درصد جامعه مشمول اصلاح و بازنگری می شوند، گفت: میزان درآمد و خرید خانوار و همچنین دارایی های ملکی، خودرویی، سهام، اوراق بهادار و صندوق های سرمایه گذاری از ملاک های بررسی وسع اقتصادی خانوارها است. اگر خانواری این شاخصه های درآمدی را داشته باشد، مشمول بازنگری در دریافت کالابرگ می شود.",
-    "published": "Tue, 10 Nov 2026 13:38:00 GMT",
-    "collected_at": "2026-11-10T22:37:55.107962+03:30",
-    "filter_market_score": 10,
-    "market_score": 16,
-    "market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "مشرق",
     "title": "از جنگ ۱۲۰ میلیارد دلاری تا احتمال عقب نشینی ترامپ",
     "link": "https://www.mashreghnews.ir/news/1852189/%D8%A7%D8%B2-%D8%AC%D9%86%DA%AF-%DB%B1%DB%B2%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%A7-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE",
@@ -6017,57 +5908,6 @@
       "ارتباط بازار در عنوان",
       "عامل پراثر اقتصادی یا سیاسی",
       "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "هزینه استخراج فلز زرد در جهان رکورد زد؛ هشدار شورای جهانی طلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4307622-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%81%D9%84%D8%B2-%D8%B2%D8%B1%D8%AF-%D8%AF%D8%B1-%D8%AC%D9%87%D8%A7%D9%86-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%B2%D8%AF-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7",
-    "summary": "شورای جهانی طلا اعلام کرد که هزینه های استخراج این فلز گرانبها در جهان در سه ماهه دوم سال جاری(میلادی) در مقایسه با ابتدای سال، به رکوردی بی سابقه رسیده است.",
-    "published": "Tue, 10 Nov 2026 17:22:25 +0000",
-    "collected_at": "2026-11-10T22:37:39.135871+03:30",
-    "filter_market_score": 12,
-    "market_score": 15,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رکورد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -6996,53 +6836,6 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "مهر",
-    "title": "حمایت از تولید کننده داخلی؛ کشف هزار و ۷۰۰ میلیارد تومان کالای قاچاق",
-    "link": "https://www.mehrnews.com/news/7007156/%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AF%D8%A7%D8%AE%D9%84%DB%8C-%DA%A9%D8%B4%D9%81-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B7%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%DA%A9%D8%A7%D9%84%D8%A7%DB%8C",
-    "summary": "کرج- جلسه ستاد مبارزه با قاچاق کالا و ارز البرز در حالی برگزار شد که در این جلسه دبیر این ستاد از کشفیات دستگاه های استان را هزار و ۷۰۰ میلیارد تومان اعلام کرد.",
-    "published": "Tue, 10 Nov 2026 18:40:04 GMT",
-    "collected_at": "2026-11-10T22:37:26.067600+03:30",
-    "filter_market_score": 7,
-    "market_score": 11,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "حمایت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
