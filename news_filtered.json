@@ -2873,6 +2873,55 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "اگر سهام عدالت ۵۰۰ هزار تومانی سال ۱۳۸۵ را به طلا یا دلار تبدیل می کردیم، امروز چقدر می ارزید؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308467-%D8%A7%DA%AF%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%B3%D8%A7%D9%84-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B7%D9%84%D8%A7-%DB%8C%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%85%DB%8C-%DA%A9%D8%B1%D8%AF%DB%8C%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%82%D8%AF%D8%B1-%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C%D8%AF",
+    "summary": "بر اساس اطلاعات ارزش گذاری سبد دارایی ارائه شده، ارزش روز این سبد به ۵۵۵ میلیون و ۳۳۱ هزار و ۴۵۶ ریال، معادل ۵۵ میلیون و ۵۳۳ هزار تومان رسیده است.",
+    "published": "Sun, 15 Nov 2026 01:28:02 +0000",
+    "collected_at": "2026-11-15T05:49:52.755409+03:30",
+    "filter_market_score": 19,
+    "market_score": 19,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "عراقچی: اید فشار تحریم ها را از طریق دیپلماسی اقتصادی خنثی کنیم/ حتی یک دلار درآمد ارزی بیشتر در شرایط کنونی کشور ارزشمند است",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308377-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A7%DB%8C%D8%AF-%D9%81%D8%B4%D8%A7%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A7%D8%B2-%D8%B7%D8%B1%DB%8C%D9%82-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%AE%D9%86%D8%AB%DB%8C-%DA%A9%D9%86%DB%8C%D9%85-%D8%AD%D8%AA%DB%8C-%DB%8C%DA%A9-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%DA%A9%D9%86%D9%88%D9%86%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B1%D8%B2%D8%B4%D9%85%D9%86%D8%AF-%D8%A7%D8%B3%D8%AA",
     "summary": "عراقچی تأکید کرد که در شرایط کنونی، حتی یک دلار درآمد ارزی بیشتر و ایجاد یک فرصت شغلی نیز ارزشمند است.",
@@ -4198,6 +4247,45 @@
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "جهش قیمت خودروهای مونتاژی/ ردپای نوسانات ارزی در تغییر مسیر بازار خودرو",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308466-%D8%AC%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98%DB%8C-%D8%B1%D8%AF%D9%BE%D8%A7%DB%8C-%D9%86%D9%88%D8%B3%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "summary": "نوسانات ارزی از ابتدای امسال نقش تعیین کننده ای در تغییر مسیر بازار خودرو داشته است.",
+    "published": "Sun, 15 Nov 2026 00:55:32 +0000",
+    "collected_at": "2026-11-15T05:49:52.755419+03:30",
+    "filter_market_score": 12,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "جهش",
+      "قیمت",
+      "تغییر"
+    ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },

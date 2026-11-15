@@ -39230,5 +39230,53 @@
     "group_message_id": 2879,
     "fully_published": true,
     "last_checked_at": "2026-11-14T22:46:05.073460+00:00"
+  },
+  "0ab631a41b6e6202895b8576b4e72e823c3ccbf006a2d739e73c94d8f1b7e2d3": {
+    "title": "اگر سهام عدالت ۵۰۰ هزار تومانی سال ۱۳۸۵ را به طلا یا دلار تبدیل می کردیم، امروز چقدر می ارزید؟",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308467-%D8%A7%DA%AF%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%B3%D8%A7%D9%84-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B7%D9%84%D8%A7-%DB%8C%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%85%DB%8C-%DA%A9%D8%B1%D8%AF%DB%8C%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%82%D8%AF%D8%B1-%D9%85%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C%D8%AF",
+    "telegram_message_ids": [
+      3127
+    ],
+    "eitaa_message_ids": [
+      181914928
+    ],
+    "group_message_ids": [
+      2882
+    ],
+    "content_hash": "10cd268ed40839706dbb7dd6d97e779e03eb524529ebfa13ee512d980f85083f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-15T02:20:25.650722+00:00",
+    "telegram_message_id": 3127,
+    "eitaa_last_sent_at": "2026-11-15T02:20:27.295448+00:00",
+    "eitaa_message_id": 181914928,
+    "group_last_sent_at": "2026-11-15T02:20:29.028978+00:00",
+    "group_message_id": 2882,
+    "fully_published": true,
+    "last_checked_at": "2026-11-15T02:20:29.074618+00:00"
+  },
+  "4c9b0eb49e73c8e46dcaef4e4d5d0d15a304ccdfc29e727633ded7f0555fe260": {
+    "title": "جهش قیمت خودروهای مونتاژی/ ردپای نوسانات ارزی در تغییر مسیر بازار خودرو",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308466-%D8%AC%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D9%86%D8%AA%D8%A7%DA%98%DB%8C-%D8%B1%D8%AF%D9%BE%D8%A7%DB%8C-%D9%86%D9%88%D8%B3%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
+    "telegram_message_ids": [
+      3128
+    ],
+    "eitaa_message_ids": [
+      181914930
+    ],
+    "group_message_ids": [
+      2883
+    ],
+    "content_hash": "d3083b42a70fbfceb844d5a2ec04727a0acdf5b8d0ea2fa040c69473cc781035",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-15T02:20:30.848645+00:00",
+    "telegram_message_id": 3128,
+    "eitaa_last_sent_at": "2026-11-15T02:20:32.396164+00:00",
+    "eitaa_message_id": 181914930,
+    "group_last_sent_at": "2026-11-15T02:20:34.103403+00:00",
+    "group_message_id": 2883,
+    "fully_published": true,
+    "last_checked_at": "2026-11-15T02:20:34.148782+00:00"
   }
 }
