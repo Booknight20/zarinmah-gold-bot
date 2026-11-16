@@ -40190,5 +40190,17 @@
     "group_message_id": 2951,
     "fully_published": true,
     "last_checked_at": "2026-11-15T21:30:33.653740+00:00"
+  },
+  "9cd9c45985a548b623c50fd552b838470d98ab52e556b958f0f4cd2d4259cacf": {
+    "title": "ام دی؛ هواپیمای یک میلیون دلاری با درآمد چندمیلیون دلاری!",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/4201756/%D8%A7%D9%85%D8%AF%DB%8C-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C-%DB%8C%DA%A9-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%DA%86%D9%86%D8%AF%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-c40732f8f7894fd0887aaa5b",
+    "telegram_message_ids": [
+      null
+    ],
+    "eitaa_message_ids": [],
+    "group_message_ids": [],
+    "content_hash": "fbb0361810880646680e046ffa1d66478dcc3b2e20443cba21501e7ae4d93c32",
+    "expected_parts": 1
   }
 }
