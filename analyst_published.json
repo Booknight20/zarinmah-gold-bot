@@ -46534,5 +46534,72 @@
     "group_sent_at": "2026-11-16T22:24:01.895696+03:30",
     "group_message_id": 3006,
     "published_at": "2026-11-16T22:24:01.940844+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26305": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "اختلال هم‌زمان در ۳ بانک بزرگ آمریکا",
+      "summary": "اختلال هم‌زمان در ۳ بانک بزرگ آمریکا \nمشتری‌های بانک‌های چیس، بانک آمریکا و ولز فارگو برای ورود به حسابشون و انتقال پول به مشکل خوردن؛ فقط تو بانک چیس ۵ هزار گزارش اختلال ثبت شده و هنوز معلوم نیست ماجرا چیه.\n بورس آمریکا هم امشب ۱.۳ تریلیون دلار ریزش داشت .\n\n @payamelyaskordi ✅",
+      "full_text": "اختلال هم‌زمان در ۳ بانک بزرگ آمریکا \nمشتری‌های بانک‌های چیس، بانک آمریکا و ولز فارگو برای ورود به حسابشون و انتقال پول به مشکل خوردن؛ فقط تو بانک چیس ۵ هزار گزارش اختلال ثبت شده و هنوز معلوم نیست ماجرا چیه.\n بورس آمریکا هم امشب ۱.۳ تریلیون دلار ریزش داشت .\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26305",
+      "analysis_score": 14,
+      "market_matches": [
+        "دلار",
+        "بورس"
+      ],
+      "analysis_matches": [
+        "ریزش",
+        "ورود"
+      ],
+      "market_groups": [
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 278,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-17T05:47:16.320445+03:30"
+    },
+    "content_signature": "7ba7bad544ce6ca7ca46597fde4c092d5a5762fb64b838616ffa953a4fc4509b",
+    "first_seen_at": "2026-11-17T05:47:31.845319+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3249
+    ],
+    "telegram_last_success_at": "2026-11-17T05:47:32.281812+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-17T05:47:32.332623+03:30",
+    "telegram_message_id": 3249,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      182307803
+    ],
+    "eitaa_last_success_at": "2026-11-17T05:47:32.954771+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-17T05:47:33.001504+03:30",
+    "eitaa_message_id": 182307803,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3010
+    ],
+    "group_last_success_at": "2026-11-17T05:47:33.389098+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-17T05:47:33.494077+03:30",
+    "group_message_id": 3010,
+    "published_at": "2026-11-17T05:47:33.536725+03:30"
   }
 }
