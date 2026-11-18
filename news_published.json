@@ -41654,5 +41654,317 @@
     "group_message_id": 3074,
     "fully_published": true,
     "last_checked_at": "2026-11-18T01:51:06.779148+00:00"
+  },
+  "a5e86e66e706a68a450eb34107102d0920bc31dcecdeb86da53c8ffbc801374a": {
+    "title": "معاون وزارت صمت: بیش از ۸۵ درصد واحدهای صنعتی کشور فعالند",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405082718949/%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B8%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%88%D8%A7%D8%AD%D8%AF%D9%87%D8%A7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D9%81%D8%B9%D8%A7%D9%84-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
+    "telegram_message_ids": [
+      3314
+    ],
+    "eitaa_message_ids": [
+      182588917
+    ],
+    "group_message_ids": [
+      3075
+    ],
+    "content_hash": "bfaef89e970ed81200e393ea703d8e395d9b54bfae3d06cfda9077a8caf5b1fc",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:30:23.194546+00:00",
+    "telegram_message_id": 3314,
+    "eitaa_last_sent_at": "2026-11-18T09:30:25.836305+00:00",
+    "eitaa_message_id": 182588917,
+    "group_last_sent_at": "2026-11-18T09:30:27.498214+00:00",
+    "group_message_id": 3075,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:30:27.534947+00:00"
+  },
+  "4630c4abd456e6d0bd6a76bf60893e527109ac9ed1b6619b099c4285f6e7746d": {
+    "title": "صادقی: رفع موانع تعهدات ارزی اولویت توسعه صادرات است",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/7015320/%D8%B5%D8%A7%D8%AF%D9%82%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%D9%88%D9%84%D9%88%DB%8C%D8%AA-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      3315
+    ],
+    "eitaa_message_ids": [
+      182588942
+    ],
+    "group_message_ids": [
+      3076
+    ],
+    "content_hash": "17500069bfb1f02a2932bb1f05bc58f549d26e977f1ec96ff0c4a37eef439438",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:30:29.190197+00:00",
+    "telegram_message_id": 3315,
+    "eitaa_last_sent_at": "2026-11-18T09:30:31.018832+00:00",
+    "eitaa_message_id": 182588942,
+    "group_last_sent_at": "2026-11-18T09:30:32.694586+00:00",
+    "group_message_id": 3076,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:30:32.732272+00:00"
+  },
+  "f012b2fe95c4f32651e32cd45f3dc27e0960f90857b38ba738337e78eb78fcb1": {
+    "title": "آغاز به کار سامانه معاملاتی اختصاصی لقمان",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4309214-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D9%84%D9%82%D9%85%D8%A7%D9%86",
+    "telegram_message_ids": [
+      3316
+    ],
+    "eitaa_message_ids": [
+      182588964
+    ],
+    "group_message_ids": [
+      3077
+    ],
+    "content_hash": "34acd0467e460cf6ad0db63be952591dadad323da2669fc4bcc32a8551019bc4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:30:34.399467+00:00",
+    "telegram_message_id": 3316,
+    "eitaa_last_sent_at": "2026-11-18T09:30:35.910197+00:00",
+    "eitaa_message_id": 182588964,
+    "group_last_sent_at": "2026-11-18T09:30:37.542587+00:00",
+    "group_message_id": 3077,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:30:37.580148+00:00"
+  },
+  "56a0e7752c18a0166297ff7101ef9dfcc40c07254a410e2ebd33f75b645a7b48": {
+    "title": "قیمت سکه، نیم سکه و ربع سکه امروز چهارشنبه ۲۷ آبان ۱۴۰۵ / کاهش قیمت سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309207-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      3317
+    ],
+    "eitaa_message_ids": [
+      182588996
+    ],
+    "group_message_ids": [
+      3078
+    ],
+    "content_hash": "d41a9181f7fa5af2506af297225d509e8477823f0baf504f58d28547a2b5deb2",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:30:39.225799+00:00",
+    "telegram_message_id": 3317,
+    "eitaa_last_sent_at": "2026-11-18T09:30:41.567709+00:00",
+    "eitaa_message_id": 182588996,
+    "group_last_sent_at": "2026-11-18T09:30:43.197302+00:00",
+    "group_message_id": 3078,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:30:43.234369+00:00"
+  },
+  "3e54c8fd923806710c55677752d97ea01249b4257f98a206fe6925f347e19897": {
+    "title": "قیمت طلا امروز چهارشنبه ۲۷ آبان ۱۴۰۵ / کاهش قیمت طلا",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309181-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      3318
+    ],
+    "eitaa_message_ids": [
+      182589024
+    ],
+    "group_message_ids": [
+      3079
+    ],
+    "content_hash": "d04eeeceb77b5981004994c13ee23fa7653edc3a7bbe182159edb6acafc5e43d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:30:44.870692+00:00",
+    "telegram_message_id": 3318,
+    "eitaa_last_sent_at": "2026-11-18T09:30:47.493263+00:00",
+    "eitaa_message_id": 182589024,
+    "group_last_sent_at": "2026-11-18T09:30:49.097690+00:00",
+    "group_message_id": 3079,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:30:49.134391+00:00"
+  },
+  "400dcc69539d1042aa67ba06eec24b6c32ba4af40cb6a2f5107179e6c521b250": {
+    "title": "واگرایی شاخص های بورسی",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4309195-%D9%88%D8%A7%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%87%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C",
+    "telegram_message_ids": [
+      3319
+    ],
+    "eitaa_message_ids": [
+      182589051
+    ],
+    "group_message_ids": [
+      3080
+    ],
+    "content_hash": "80d2494849a8922b98629c6eefcae4f3fa64ee39dee835643351bce6c5ed1fbf",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:30:50.789537+00:00",
+    "telegram_message_id": 3319,
+    "eitaa_last_sent_at": "2026-11-18T09:30:52.019362+00:00",
+    "eitaa_message_id": 182589051,
+    "group_last_sent_at": "2026-11-18T09:30:53.626047+00:00",
+    "group_message_id": 3080,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:30:53.662936+00:00"
+  },
+  "41836e70c030c4a2b41d7dc7b03e0134b6250e418147f6740e51cd8281201737": {
+    "title": "پیش بینی قیمت طلا، سکه و دلار امروز چهارشنبه ۲۷ آبان ۱۴۰۵",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309193-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86",
+    "telegram_message_ids": [
+      3320
+    ],
+    "eitaa_message_ids": [
+      182589083
+    ],
+    "group_message_ids": [
+      3081
+    ],
+    "content_hash": "9be767c11576e2f5d2ff120d3e5d25fdbf12190e2c854d40a1a92813823adb53",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:30:55.356957+00:00",
+    "telegram_message_id": 3320,
+    "eitaa_last_sent_at": "2026-11-18T09:30:58.176860+00:00",
+    "eitaa_message_id": 182589083,
+    "group_last_sent_at": "2026-11-18T09:30:59.800279+00:00",
+    "group_message_id": 3081,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:30:59.838444+00:00"
+  },
+  "17b068dcd583d1ed825ab5c0f13a04a409876d79f379fd5f867471dc2dc12c5a": {
+    "title": "قیمت سکه ظهر امروز ۲۷ آبان ۱۴۰۵/ سکه بهار آزادی ۲۴۱ میلیون و ۶۰۰ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2303783/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87%D8%A7%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%DB%B2%DB%B4%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88",
+    "telegram_message_ids": [
+      3321
+    ],
+    "eitaa_message_ids": [
+      182589100
+    ],
+    "group_message_ids": [
+      3082
+    ],
+    "content_hash": "1884b401e559269ebd696d1c1badcd748daf6f44cedafb1a47471d80a11e9aaf",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:31:01.505825+00:00",
+    "telegram_message_id": 3321,
+    "eitaa_last_sent_at": "2026-11-18T09:31:02.178852+00:00",
+    "eitaa_message_id": 182589100,
+    "group_last_sent_at": "2026-11-18T09:31:03.809857+00:00",
+    "group_message_id": 3082,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:31:03.848790+00:00"
+  },
+  "79c74c1fc20ffe24bfaa24095be87e176141e3081a5de01af78721516a207396": {
+    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۲۷ آبان ۱۴۰۵/ دلار روی قیمت ۲۶۶ هزار و ۹۹۰ تومان ایستاد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2303786/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D9%88%DB%8C",
+    "telegram_message_ids": [
+      3322
+    ],
+    "eitaa_message_ids": [
+      182589123
+    ],
+    "group_message_ids": [
+      3083
+    ],
+    "content_hash": "218b4f6daeef7bb480e261f372a45e48cebef48edf7b36474acb39366bde95d4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:31:05.487568+00:00",
+    "telegram_message_id": 3322,
+    "eitaa_last_sent_at": "2026-11-18T09:31:08.007534+00:00",
+    "eitaa_message_id": 182589123,
+    "group_last_sent_at": "2026-11-18T09:31:09.640973+00:00",
+    "group_message_id": 3083,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:31:09.679514+00:00"
+  },
+  "0bda8445197b6bd0c4e3a1a9f236d492b8ecf3771b1ca2b9110572d4dac82502": {
+    "title": "افت ۸۷ هزار واحدی شاخص کل بورس در ۲۷ آبان / شاخص هم وزن ۸ هزار واحد کاهش یافت، فرابورس مثبت شد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/live/2303743/%D8%A7%D9%81%D8%AA-%DB%B8%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%DB%B2%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%87%D9%85-%D9%88%D8%B2%D9%86-%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      3323
+    ],
+    "eitaa_message_ids": [
+      182589144
+    ],
+    "group_message_ids": [
+      3084
+    ],
+    "content_hash": "2bdd54d71c69e32311363ca2e8915a38a55d47fb10631aeb628602616ddad64d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:31:11.343694+00:00",
+    "telegram_message_id": 3323,
+    "eitaa_last_sent_at": "2026-11-18T09:31:12.596621+00:00",
+    "eitaa_message_id": 182589144,
+    "group_last_sent_at": "2026-11-18T09:31:14.298571+00:00",
+    "group_message_id": 3084,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:31:14.337003+00:00"
+  },
+  "8707a99af581bbbf502579204e12d52dc42d5b981b08c2a63869724f86d2a69d": {
+    "title": "طلا باز هم ریزش کرد؛ قیمت اونس طلا در معاملات آتی ۳.۸۸۹ دلار شد/ قیمت جدید طلای جهانی امروز ۲۷ آبان ۱۴۰۵",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2303686/%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D8%B1%DB%8C%D8%B2%D8%B4-%DA%A9%D8%B1%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B3-%DB%B8%DB%B8%DB%B9-%D8%AF%D9%84%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      3324
+    ],
+    "eitaa_message_ids": [
+      182589160
+    ],
+    "group_message_ids": [
+      3085
+    ],
+    "content_hash": "2af2036be06a91c4e53fe9c0f693debf8e85cc96fbe6e2c61086d7d59a61da3b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:31:16.035439+00:00",
+    "telegram_message_id": 3324,
+    "eitaa_last_sent_at": "2026-11-18T09:31:16.767577+00:00",
+    "eitaa_message_id": 182589160,
+    "group_last_sent_at": "2026-11-18T09:31:18.422008+00:00",
+    "group_message_id": 3085,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:31:18.481363+00:00"
+  },
+  "3743541bb0e921b4afe19d3e268b8a30557c14c568c0f6ddb8ec57d08a0af78c": {
+    "title": "قیمت یورو، دلار و انواع ارزها امروز ۲۷ آبان ۱۴۰۵ در زمان بازگشایی بازار/ یورو به قیمت ۲۹۴ هزار و ۴۴۰ تومان فروخته شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2303665/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
+    "telegram_message_ids": [
+      3325
+    ],
+    "eitaa_message_ids": [
+      182589210
+    ],
+    "group_message_ids": [
+      3086
+    ],
+    "content_hash": "43aec61468c2d123e5d6e606fc60f0881c32c489916d48eaff995fa3b8021691",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:31:20.131952+00:00",
+    "telegram_message_id": 3325,
+    "eitaa_last_sent_at": "2026-11-18T09:31:25.076435+00:00",
+    "eitaa_message_id": 182589210,
+    "group_last_sent_at": "2026-11-18T09:31:26.740709+00:00",
+    "group_message_id": 3086,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:31:26.778145+00:00"
+  },
+  "f36302f9f6fc07e4333b3469660c669e35eb3ddb6c84c234d47b1daf8c7c77b6": {
+    "title": "قیمت دلار امروز چهارشنبه ۲۷ آبان ۱۴۰۵؛ کاهش تقاضای هیجانی در بازار",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/4202714/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%DB%B2%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7%DB%8C-%D9%87%DB%8C%D8%AC%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-7a8b8bec4faa4148a37d9a53",
+    "telegram_message_ids": [
+      3326
+    ],
+    "eitaa_message_ids": [
+      182589237
+    ],
+    "group_message_ids": [
+      3087
+    ],
+    "content_hash": "3027ba4e13131dc917a2c0da742b3bdf78f8059a25f93a23db6166244f755c6d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-18T09:31:28.433478+00:00",
+    "telegram_message_id": 3326,
+    "eitaa_last_sent_at": "2026-11-18T09:31:29.105646+00:00",
+    "eitaa_message_id": 182589237,
+    "group_last_sent_at": "2026-11-18T09:31:30.724536+00:00",
+    "group_message_id": 3087,
+    "fully_published": true,
+    "last_checked_at": "2026-11-18T09:31:30.761819+00:00"
   }
 }
