@@ -16,6 +16,7 @@ import requests
 TEHRAN_TZ = ZoneInfo("Asia/Tehran")
 
 OUTPUT_FILE = "analyst_ready.json"
+REJECTED_FILE = "analyst_rejected_diagnostics.json"
 SEEN_FILE = "analyst_seen.json"
 PUBLISHED_FILE = "analyst_published.json"
 
@@ -827,21 +828,36 @@ def main():
         previous_ready = []
 
     new_items = []
+    rejected_items = []
+    source_stats = {}
 
     for source_name, config in ANALYSTS.items():
         print("\nReading:", source_name)
+        stats = {
+            "posts_found": 0,
+            "already_seen": 0,
+            "evaluated": 0,
+            "accepted": 0,
+            "rejected": 0,
+            "empty": 0,
+            "initialized_now": False,
+        }
+        source_stats[source_name] = stats
 
         try:
             posts = fetch_channel(config["channel"])
 
         except Exception as error:
+            stats["error"] = str(error)
             print("Channel error:", source_name, error)
             continue
 
+        stats["posts_found"] = len(posts)
         print("Posts found:", len(posts))
 
         # اولین اجرا، پست‌های آرشیوی را ثبت می‌کند اما منتشر نمی‌کند.
         if initialize_source(seen, source_name, posts):
+            stats["initialized_now"] = True
             continue
 
         for post in posts:
@@ -851,17 +867,32 @@ def main():
                 continue
 
             if source_has_post(seen, source_name, post_id):
+                stats["already_seen"] += 1
                 continue
 
             text = clean_html(post.get("text", ""))
 
             if not text:
+                stats["empty"] += 1
                 mark_source_post(seen, source_name, post_id)
                 continue
 
+            stats["evaluated"] += 1
             evaluation = evaluate_analysis(text)
 
             if not evaluation["relevant"]:
+                stats["rejected"] += 1
+                rejected_items.append({
+                    "analyst": source_name,
+                    "link": post_id,
+                    "title": build_title(text),
+                    "text": text,
+                    "reject_reason": evaluation["reject_reason"],
+                    "score": evaluation["score"],
+                    "content_length": len(text),
+                    "market_matches": evaluation["market_matches"],
+                    "analysis_matches": evaluation["analysis_matches"],
+                })
                 print(
                     "Skipped:",
                     source_name,
@@ -877,6 +908,7 @@ def main():
 
             item = make_item(source_name, post, evaluation)
             new_items.append(item)
+            stats["accepted"] += 1
 
             mark_source_post(seen, source_name, post_id)
 
@@ -902,6 +934,19 @@ def main():
 
     save_json(OUTPUT_FILE, ready)
     save_json(SEEN_FILE, seen)
+    save_json(REJECTED_FILE, {
+        "generated_at": now_iso(),
+        "summary": {
+            "posts_found": sum(x.get("posts_found", 0) for x in source_stats.values()),
+            "already_seen": sum(x.get("already_seen", 0) for x in source_stats.values()),
+            "evaluated": sum(x.get("evaluated", 0) for x in source_stats.values()),
+            "accepted": sum(x.get("accepted", 0) for x in source_stats.values()),
+            "rejected": len(rejected_items),
+            "empty": sum(x.get("empty", 0) for x in source_stats.values()),
+        },
+        "sources": source_stats,
+        "rejected_items": rejected_items,
+    })
 
     print("\nNew accepted analyses:", len(new_items))
     print("Pending analyses recovered:", len(pending_items))
