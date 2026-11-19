@@ -11,8 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Checkout selected branch
+      - name: Checkout feature branch for safe testing
         uses: actions/checkout@v4
+        with:
+          ref: feature/analyst-filter-preview-2026-11-19
 
       - name: Set up Python
         uses: actions/setup-python@v5
