@@ -463,6 +463,45 @@ def is_promotional(text):
 
 
 # =========================================================
+# دسته‌بندی محتوای بازار که تحلیل رسمی نیست
+# =========================================================
+def classify_market_content(text):
+    normalized_text = normalize(clean_html(text))
+
+    gold_terms = ("طلا", "سکه", "اونس", "آبشده", "صندوق طلا", "صندوق های طلا")
+    has_gold_context = any(normalize(x) in normalized_text for x in gold_terms)
+
+    comparison_markers = (
+        "نسبت به", "در مقایسه با", "مقایسه", "قدرت خرید",
+        "چندتا سکه", "چند سکه", "با فروش", "معادل چند", "در برابر",
+    )
+    comparison_assets = (
+        "مسکن", "آپارتمان", "خانه", "ملک", "خودرو",
+        "ماشین", "دستمزد", "حقوق", "اجاره", "بورس", "سهام",
+    )
+    if (
+        has_gold_context
+        and any(normalize(x) in normalized_text for x in comparison_markers)
+        and any(normalize(x) in normalized_text for x in comparison_assets)
+    ):
+        return "market_comparison"
+
+    fund_terms = ("صندوق طلا", "صندوق های طلا", "صندوق های نقره", "صندوق نقره")
+    fund_activity_terms = (
+        "معاملات", "آغاز کردن", "آغاز به کار", "منفی", "مثبت",
+        "ورود پول", "خروج پول", "حباب صندوق", "ارزش معاملات",
+        "nav", "واحد", "بازگشایی",
+    )
+    if (
+        any(normalize(x) in normalized_text for x in fund_terms)
+        and any(normalize(x) in normalized_text for x in fund_activity_terms)
+    ):
+        return "gold_fund_market_pulse"
+
+    return "general"
+
+
+# =========================================================
 # ارزیابی کیفیت تحلیل
 # =========================================================
 
@@ -554,6 +593,7 @@ def evaluate_analysis(text):
 
     market_matches = find_matches(normalized_analysis, gold_keywords)
     analysis_matches = find_matches(normalized_analysis, analysis_signals)
+    content_category = classify_market_content(analysis_text)
     reasons = []
 
     if is_promotional(analysis_text):
@@ -562,6 +602,7 @@ def evaluate_analysis(text):
             "market_matches": market_matches,
             "analysis_matches": analysis_matches,
             "market_groups": ["gold"] if market_matches else [],
+            "content_category": content_category,
             "reasons": reasons, "reject_reason": "promotional",
         }
 
@@ -581,6 +622,10 @@ def evaluate_analysis(text):
 
     if not market_matches:
         reject_reason = "no_gold_focus"
+    elif content_category == "market_comparison":
+        reject_reason = "market_comparison_not_analysis"
+    elif content_category == "gold_fund_market_pulse":
+        reject_reason = "gold_fund_market_pulse"
     elif mostly_price_list:
         reject_reason = "price_report_only"
     elif len(analysis_text) < 180:
@@ -623,6 +668,7 @@ def evaluate_analysis(text):
         "market_matches": market_matches,
         "analysis_matches": analysis_matches,
         "market_groups": ["gold"] if market_matches else [],
+        "content_category": content_category,
         "reasons": reasons,
         "reject_reason": reject_reason,
     }
@@ -908,6 +954,7 @@ def main():
                     "content_length": len(text),
                     "market_matches": evaluation["market_matches"],
                     "analysis_matches": evaluation["analysis_matches"],
+                    "content_category": evaluation.get("content_category", "general"),
                 })
                 print(
                     "Skipped:",
@@ -962,6 +1009,24 @@ def main():
         },
         "sources": source_stats,
         "rejected_items": rejected_items,
+        "market_comparison_items": [
+            item for item in rejected_items
+            if item.get("content_category") == "market_comparison"
+        ],
+        "gold_fund_pulse_items": [
+            item for item in rejected_items
+            if item.get("content_category") == "gold_fund_market_pulse"
+        ],
+        "content_category_counts": {
+            "market_comparison": sum(
+                item.get("content_category") == "market_comparison"
+                for item in rejected_items
+            ),
+            "gold_fund_market_pulse": sum(
+                item.get("content_category") == "gold_fund_market_pulse"
+                for item in rejected_items
+            ),
+        },
     })
 
     print("\nNew accepted analyses:", len(new_items))
