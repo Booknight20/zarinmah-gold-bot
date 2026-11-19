@@ -27,21 +27,29 @@ jobs:
       - name: Collect and filter analyst posts (no publishing)
         run: python -u analyst_bot.py
 
-      - name: Show candidate summary
+      - name: Show candidate and rejection diagnostics
         if: always()
         run: |
-          if [ -f analyst_ready.json ]; then
-            python - <<'PY'
+          python - <<'PY'
           import json
           from pathlib import Path
-          items = json.loads(Path("analyst_ready.json").read_text(encoding="utf-8"))
-          print("Candidate count:", len(items))
-          for item in items:
-              print("-", item.get("analyst", "تحلیلگر"), "|", item.get("analysis_score", 0), "|", item.get("title", ""))
+          ready_path = Path("analyst_ready.json")
+          if ready_path.exists():
+              items = json.loads(ready_path.read_text(encoding="utf-8"))
+              print("Candidate count:", len(items))
+          else:
+              print("analyst_ready.json was not generated")
+          diagnostics_path = Path("analyst_rejected_diagnostics.json")
+          if diagnostics_path.exists():
+              report = json.loads(diagnostics_path.read_text(encoding="utf-8"))
+              print("Diagnostic totals:", json.dumps(report.get("summary", {}), ensure_ascii=False))
+              for source, stats in report.get("sources", {}).items():
+                  print("SOURCE:", source, json.dumps(stats, ensure_ascii=False))
+              for item in report.get("rejected_items", []):
+                  print("REJECTED:", item.get("analyst"), "|", item.get("reject_reason"), "| score:", item.get("score"), "|", item.get("title"))
+          else:
+              print("analyst_rejected_diagnostics.json was not generated")
           PY
-          else
-            echo "analyst_ready.json was not generated"
-          fi
 
       - name: Upload dry-run results
         if: always()
@@ -50,5 +58,6 @@ jobs:
           name: analyst-dry-run-results
           path: |
             analyst_ready.json
+            analyst_rejected_diagnostics.json
           if-no-files-found: warn
           retention-days: 7
