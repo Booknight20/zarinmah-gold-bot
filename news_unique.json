@@ -709,83 +709,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "عقب نشینی طلا از کانال ۴۰۰۰ دلار هم زمان با جهش قیمت نفت",
-    "link": "https://www.khabaronline.ir/news/2302504/%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%DB%B4%DB%B0%DB%B0%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D9%87%D9%85-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7-%D8%AC%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA",
-    "summary": "نفت به ۱۰۰ دلار نزدیک شد، طلا ۴.۷ درصد سقوط کرد و بازارها بار دیگر با کابوس افزایش نرخ بهره مواجه شدند.",
-    "published": "Sun, 15 Nov 2026 12:23:45 GMT",
-    "collected_at": "2026-11-15T20:18:30.674336+03:30",
-    "filter_market_score": 31,
-    "market_score": 38,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نرخ بهره",
-      "قیمت نفت",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "جهش",
-      "قیمت",
-      "افزایش",
-      "سقوط",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "قیمت نفت",
-      "نرخ بهره"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "افت ۸۷ هزار واحدی شاخص کل بورس در ۲۷ آبان / شاخص هم وزن ۸ هزار واحد کاهش یافت، فرابورس مثبت شد",
     "link": "https://www.khabaronline.ir/live/2303743/%D8%A7%D9%81%D8%AA-%DB%B8%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%DB%B2%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%87%D9%85-%D9%88%D8%B2%D9%86-%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1",
     "summary": "شاخص کل بورس تهران تا ساعت ۱۰:۲۵ با افت ۸۷ هزار و ۳۴۰ واحدی به ۸ میلیون و ۴۱۰ هزار واحد رسید؛ شاخص هم وزن نیز ۸ هزار و ۲۲۴ واحد کاهش یافت، اما شاخص کل فرابورس ۱۵۷ هزار و ۶۲۷ واحد رشد کرد.",
@@ -2257,68 +2180,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۲۴ آبان ۱۴۰۵/ دلار ۲۶۸ هزار و ۹۰۰ تومان قیمت خورد + جدول",
-    "link": "https://www.khabaronline.ir/news/2302338/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B6%DB%B8",
-    "summary": "قیمت دلار، یورو و سایر ارزها ۲۴ آبان ۱۴۰۵ اعلام شد. بر این اساس بهای هر دلار ۲۶۸ هزار و ۹۰۰ تومان قیمت خورد و یورو نیز به قیمت ۲۹۶ هزار و ۷۸۰ تومان فروخته شد.",
-    "published": "Sun, 15 Nov 2026 10:03:03 GMT",
-    "collected_at": "2026-11-15T20:18:30.674429+03:30",
-    "filter_market_score": 26,
-    "market_score": 30,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "تابناک",
     "title": "قیمت طلا و سکه امروز 26 آبان / جهش میلیونی در بازار طلا !",
     "link": "https://tabnak.ir/fa/news/4202468/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-26-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AC%D9%87%D8%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-a4366d7a0151478cb6c7055b",
@@ -2650,6 +2511,76 @@
     "duplicate_count": 1
   },
   {
+    "source": "ایسنا",
+    "title": "آنتروپیک با ارزش گذاری ۲ تریلیون دلاری وارد بورس شد",
+    "link": "https://www.isna.ir/news/1405082819950/%D8%A2%D9%86%D8%AA%D8%B1%D9%88%D9%BE%DB%8C%DA%A9-%D8%A8%D8%A7-%D8%A7%D8%B1%D8%B2%D8%B4-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%DB%B2-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%88%D8%A7%D8%B1%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B4%D8%AF",
+    "summary": "شرکت آنتروپیک (Anthropic) پس از جذب بزرگترین سرمایه گذاری تاریخ در قالب یک عرضه اولیه سهام، روز پنج شنبه وارد بازار سهام ایالات متحده شد.",
+    "published": "Thu, 19 Nov 2026 22:00:00 GMT",
+    "collected_at": "2026-11-20T03:15:26.716067+03:30",
+    "filter_market_score": 27,
+    "market_score": 29,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "بورس",
+        "عرضه اولیه",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "عرضه اولیه",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "عرضه"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [
+      "بورس",
+      "عرضه اولیه",
+      "سهام",
+      "بازار سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "تابناک",
     "title": "قیمت طلا و سکه امروز ۲۸ آبان؛ سکه امامی ۲۴۸ میلیون و ۹۰۰ هزار تومان شد",
     "link": "https://tabnak.ir/fa/news/4202978/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B8-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C-%DB%B2%DB%B4%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B9%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B4%D8%AF-e10ac7f569ff49328b756e1c",
@@ -2948,131 +2879,6 @@
       "سکه",
       "ربع سکه",
       "سکه بهار آزادی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۲۴ آبان ۱۴۰۵ در زمان بازگشایی بازار/ ربع سکه ۷۱ میلیون و ۷۰۰ هزار تومان قیمت خورد + جدول",
-    "link": "https://www.khabaronline.ir/news/2302222/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%DB%B7%DB%B1",
-    "summary": "قیمت سکه در بازار تهران ۲۴ آبان ۱۴۰۵ اعلام شد و سکه امامی به قیمت ۲۵۲ میلیون و ۱۰۰ هزار تومان رسید و ربع سکه با نرخ ۷۱ میلیون و ۷۰۰ هزار تومان به فروش رفت.",
-    "published": "Sun, 15 Nov 2026 05:20:00 GMT",
-    "collected_at": "2026-11-15T20:18:30.674657+03:30",
-    "filter_market_score": 17,
-    "market_score": 28,
-    "market_matches": {
-      "gold": [
-        "سکه",
-        "ربع سکه",
-        "سکه امامی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه",
-        "ربع سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "سکه",
-        "سکه امامی",
-        "ربع سکه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "بازگشایی",
-      "نرخ",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "سکه",
-      "ربع سکه",
-      "سکه امامی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه ظهر امروز ۲۴ آبان ۱۴۰۵/ سکه بهار آزادی به قیمت ۲۴۳ میلیون و ۵۰۰ هزار تومان رسید + جدول",
-    "link": "https://www.khabaronline.ir/news/2302336/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B4-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87%D8%A7%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%DB%B2%DB%B4%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
-    "summary": "قیمت سکه در بازار تهران ۲۴ آبان ۱۴۰۵ اعلام شد و سکه بهار آزادی به قیمت ۲۴۳ میلیون و ۵۰۰ هزار تومان رسید و ربع سکه با نرخ ۷۱ میلیون و ۸۰۰ هزار تومان به فروش رفت.",
-    "published": "Sun, 15 Nov 2026 10:17:00 GMT",
-    "collected_at": "2026-11-15T20:18:30.674415+03:30",
-    "filter_market_score": 16,
-    "market_score": 27,
-    "market_matches": {
-      "gold": [
-        "سکه",
-        "سکه بهار آزادی",
-        "ربع سکه"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه",
-        "سکه بهار آزادی"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "سکه",
-        "سکه بهار آزادی",
-        "ربع سکه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "نرخ",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "سکه",
-      "سکه بهار آزادی",
-      "ربع سکه"
     ],
     "currency_matches": [],
     "stock_matches": [],
@@ -3845,69 +3651,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "رکورد تاریخی در صندوق های اهرمی؛ از بازگشت تقاضا تا بررسی عملکرد صنایع بزرگ بورس +فیلم",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308582-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C-%D8%AF%D8%B1-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%87%D8%A7%DB%8C-%D8%A7%D9%87%D8%B1%D9%85%DB%8C-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7-%D8%AA%D8%A7-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D9%81%DB%8C%D9%84%D9%85",
-    "summary": "بورس تهران در معاملات ۲۴ آبان با رشد ۱.۳۴ درصدی شاخص کل و افزایش ۱.۴۸ درصدی شاخص هم وزن همراه شد.",
-    "published": "Sun, 15 Nov 2026 15:43:24 +0000",
-    "collected_at": "2026-11-15T20:18:18.045453+03:30",
-    "filter_market_score": 20,
-    "market_score": 24,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رکورد",
-      "تقاضا",
-      "افزایش",
-      "رشد",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "طلا در صدر انتخاب های مورگان استنلی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4309057-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D8%B5%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D8%B1%DA%AF%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%86%D9%84%DB%8C",
     "summary": "مورگان استنلی در چشم انداز سال2027 خود از بازارهای جهانی، طلا را با هدف 5250دلاری جذاب ترین کالای سرمایه گذاری معرفی کرده و چشم انداز شاخص S&amp;P 500 را به 8700واحد ارتقا داده است. در مقابل، پیش بینی این بانک برای قیمت نفت و مس نزولی است.",
@@ -3964,6 +3707,64 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت سکه امروز ۲۸ آبان ۱۴۰۵ در زمان بسته شدن بازار/ سکه بهار آزادی ۱۳۷ میلیون و ۷۰۰ هزار تومان قیمت خورد + جدول",
+    "link": "https://www.khabaronline.ir/news/2304432/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B8-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87%D8%A7%D8%B1",
+    "summary": "قیمت سکه در بازار تهران ۲۸ آبان ۱۴۰۵ اعلام شد و سکه به قیمت ۲۴۸ میلیون و ۳۰۰ هزار تومان رسید و سکه بهار آزادی نیز ۱۳۷ میلیون و ۷۰۰ هزار تومان قیمت خورد.",
+    "published": "Thu, 19 Nov 2026 19:10:00 GMT",
+    "collected_at": "2026-11-20T03:15:51.586302+03:30",
+    "filter_market_score": 12,
+    "market_score": 24,
+    "market_matches": {
+      "gold": [
+        "سکه",
+        "سکه بهار آزادی"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "سکه",
+        "سکه بهار آزادی"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "سکه",
+        "سکه بهار آزادی"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "سکه",
+      "سکه بهار آزادی"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -5135,6 +4936,61 @@
     "duplicate_count": 1
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "رکوردشکنی قیمت سوخت در بریتانیا؛ گازوئیل به مرز ۲ پوند رسید",
+    "link": "https://www.khabaronline.ir/news/2304438/%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%D9%88%D8%AE%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7-%DA%AF%D8%A7%D8%B2%D9%88%D8%A6%DB%8C%D9%84-%D8%A8%D9%87-%D9%85%D8%B1%D8%B2-%DB%B2-%D9%BE%D9%88%D9%86%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF",
+    "summary": "افزایش شدید قیمت بنزین و گازوئیل در بریتانیا، به یکی از عوامل اصلی بازگشت تورم به مسیر صعودی تبدیل شده است.",
+    "published": "Thu, 19 Nov 2026 19:32:00 GMT",
+    "collected_at": "2026-11-20T03:15:51.586293+03:30",
+    "filter_market_score": 11,
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "پوند"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "پوند"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تورم"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "افزایش",
+      "صعود"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "پوند"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تورم"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا ۱۸ عیار امروز پنجشنبه ۲۸ آبان ۱۴۰۵ / کاهش قیمت طلا",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309388-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
@@ -5896,61 +5752,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "خلق ارزش برای صنعت فولاد توسط مشاور سرمایه گذاری خط ارزش",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4308563-%D8%AE%D9%84%D9%82-%D8%A7%D8%B1%D8%B2%D8%B4-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%AA%D9%88%D8%B3%D8%B7-%D9%85%D8%B4%D8%A7%D9%88%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%AE%D8%B7-%D8%A7%D8%B1%D8%B2%D8%B4",
-    "summary": "نخستین نشست معارفه عرضه اولیه سهام مجتمع معدنی و صنعت فولاد و آهن بافق (بیمیسکو) در فرابورس ایران برگزار شد؛ پذیره نویسی این عرضه را مشاوره سرمایه گذاری خط ارزش بر عهده دارد. در این نشست، سیدمحسن ابویی مهریزی، مدیرعامل فولاد بافق، از روند توسعه زیرساخت ها، افزایش ظرفیت تولید و راه اندازی طرح های جدید شرکت در سال های اخیر گفت و فرشید زرین کیا، مدیرعامل مشاوره سرمایه گذاری خط ارزش، درباره نقش این مجموعه در پذیره نویسی، بازارگردانی و ارزش گذاری بیمیسکو توضیح دادند.",
-    "published": "Sun, 15 Nov 2026 14:15:32 +0000",
-    "collected_at": "2026-11-15T20:18:18.045596+03:30",
-    "filter_market_score": 15,
-    "market_score": 15,
-    "market_matches": {
-      "stock": [
-        "فرابورس",
-        "عرضه اولیه",
-        "سهام"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "فرابورس",
-        "عرضه اولیه",
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "عرضه",
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "فرابورس",
-      "عرضه اولیه",
-      "سهام"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "«زمستان کریپتو» آغاز شد؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4308624-%D8%B2%D9%85%D8%B3%D8%AA%D8%A7%D9%86-%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA%D9%88-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%B4%D8%AF",
     "summary": "بازار جهانی رمزارزها با ثبت افت قیمت در دارایی های پیشرو نظیر بیت کوین و ریپل، در مسیر نزولی قرار گرفته است. خروج گسترده نقدینگی از صندوق های بورسی به سمت سهام هوش مصنوعی، در کنار فشارهای ساختاری بازارگردان ها، عوامل اصلی این عقب نشینی هستند.",
@@ -6477,104 +6278,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "از پرداخت های دیجیتال و بلاک چین تا استیبل کوین هایی که می توانند به جای تضعیف سلطه دلار، مسیر تازه ای برای گسترش آن ایجاد کنند",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4308572-%D8%A7%D8%B2-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A8%D9%84%D8%A7%DA%A9-%DA%86%DB%8C%D9%86-%D8%AA%D8%A7-%D8%A7%D8%B3%D8%AA%DB%8C%D8%A8%D9%84-%DA%A9%D9%88%DB%8C%D9%86-%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D9%86%D8%AF-%D8%A8%D9%87-%D8%AC%D8%A7%DB%8C-%D8%AA%D8%B6%D8%B9%DB%8C%D9%81-%D8%B3%D9%84%D8%B7%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%AA%D8%A7%D8%B2%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%AF%D8%B3%D8%AA%D8%B1%D8%B4-%D8%A2%D9%86-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%DA%A9%D9%86%D9%86%D8%AF",
-    "summary": "دنیای اقتصاد: چرا فناوری ای که قرار بود وابستگی جهان به دلار را کمتر کند، ممکن است در نهایت سلطه دلار را بیشتر کند؟",
-    "published": "Sun, 15 Nov 2026 15:30:00 +0000",
-    "collected_at": "2026-11-15T20:18:18.045496+03:30",
-    "filter_market_score": 10,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مهر",
-    "title": "استاندار خراسان رضوی: باید در موضوع رفع تعهد ارزی یک هشدار جدی بدهیم",
-    "link": "https://www.mehrnews.com/news/7012044/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D8%B1%D9%81%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF-%D8%A7%D8%B1%D8%B2%DB%8C-%DB%8C%DA%A9-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AC%D8%AF%DB%8C",
-    "summary": "مشهد- استاندار خراسان رضوی با اشاره به اهمیت موضوع رفع تعهد ارزی و تأثیر آن بر شرایط اقتصادی کشور گفت: باید در موضوع رفع تعهد ارزی یک هشدار جدی بدهیم.",
-    "published": "Sun, 15 Nov 2026 16:29:46 GMT",
-    "collected_at": "2026-11-15T20:18:05.892064+03:30",
-    "filter_market_score": 10,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "موانع اقتصادی ایمن سازی معادن",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%85%D8%B9%D8%AF%D9%86-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D9%85%D8%B9%D8%AF%D9%86%DB%8C-4/4308641-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A7%DB%8C%D9%85%D9%86-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%85%D8%B9%D8%A7%D8%AF%D9%86",
     "summary": "تامین تجهیزات ایمنی معادن زیرزمینی به یکی از چالش های زنجیره تامین صنایع معدنی تبدیل شده است. وابستگی به واردات، نوسانات ارزی و محدودیت های تجاری، هزینه دسترسی به تجهیزات تخصصی را افزایش داده و امکان برنامه ریزی برای نوسازی و نگهداری سرمایه را محدود کرده است. این وضعیت در کنار فرسودگی ماشین آلات و اختلال در چرخه پرداخت مطالبات زغال سنگ، بر ظرفیت سرمایه گذاری و بهره وری معادن اثر می گذارد. پس از حادثه طبس، ضرورت رعایت استانداردهای ایمنی و نظارت بر عملکرد معادن بیش از گذشته مورد توجه قرار گرفته است؛ با این حال، تحقق پایدار این استانداردها علاوه بر نظارت موثر، به عملکرد بازار تجهیزات، رقابت پذیری عرضه داخلی و ثبات سیاست های ارزی و تجاری نیز وابسته است.",
@@ -6963,54 +6666,6 @@
     "stock_matches": [
       "بازار سرمایه"
     ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "انویدیا چقدر بزرگ است؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4308575-%D8%A7%D9%86%D9%88%DB%8C%D8%AF%DB%8C%D8%A7-%DA%86%D9%82%D8%AF%D8%B1-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%A7%D8%B3%D8%AA",
-    "summary": "دنیای اقتصاد: ارزش بازار ۴٫۲ تریلیون دلاری انویدیا، این شرکت فعال در حوزه طراحی و تولید تراشه های پردازشی را در جایگاه یکی از بزرگ ترین شرکت های جهان قرار داده است.",
-    "published": "Sun, 15 Nov 2026 15:31:02 +0000",
-    "collected_at": "2026-11-15T20:18:18.045480+03:30",
-    "filter_market_score": 6,
-    "market_score": 11,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
@@ -7571,23 +7226,23 @@
     "duplicate_count": 1
   },
   {
-    "source": "تابناک",
-    "title": "انتقاد عضو کمیسیون امنیت ملی نسبت به بی عملی در برابر تراستی ها",
-    "link": "https://tabnak.ir/fa/news/4202084/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D8%B9%D8%B6%D9%88-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%84%DB%8C-%D9%86%D8%B3%D8%A8%D8%AA-%D8%A8%D9%87-%D8%A8%DB%8C-%D8%B9%D9%85%D9%84%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%AA%D8%B1%D8%A7%D8%B3%D8%AA%DB%8C%D9%87%D8%A7-cbb2f830b583406990e0c56a",
-    "summary": "عضو کمیسیون امنیت ملی و سیاست خارجی مجلس با بیان اینکه چرا اقدام مؤثر و جدی برای بازگشت ده ها میلیارد دلار از سوی تراستی ها انجام نمی شود؟ گفت: مردم حق دارند بدانند تراستی ها چه کسانی هستند و به کجا وصل هستند و چه افراد یا نهادهایی آنان را برای دسترسی به منابع انرژی معرفی کرده اند؟",
-    "published": "Sun, 15 Nov 2026 15:55:49 +0000",
-    "collected_at": "2026-11-15T20:18:43.417398+03:30",
-    "filter_market_score": 4,
-    "market_score": 6,
+    "source": "مشرق",
+    "title": "قهرمان جهان مدالش را به موزه امام رضا (ع) اهدا کرد",
+    "link": "https://www.mashreghnews.ir/news/1853949/%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D9%85%D8%AF%D8%A7%D9%84%D8%B4-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%85%D9%88%D8%B2%D9%87-%D8%A7%D9%85%D8%A7%D9%85-%D8%B1%D8%B6%D8%A7-%D8%B9-%D8%A7%D9%87%D8%AF%D8%A7-%DA%A9%D8%B1%D8%AF",
+    "summary": "امیرحسین زارع مدال های طلای جهان و بازی های آسیایی خود را به موزه آستان قدس رضوی اهدا کرد.",
+    "published": "Thu, 19 Nov 2026 18:42:16 GMT",
+    "collected_at": "2026-11-20T03:16:04.849418+03:30",
+    "filter_market_score": 3,
+    "market_score": 5,
     "market_matches": {
-      "currency": [
-        "دلار"
+      "gold": [
+        "طلا"
       ]
     },
     "title_market_matches": {},
     "summary_market_matches": {
-      "currency": [
-        "دلار"
+      "gold": [
+        "طلا"
       ]
     },
     "full_text_market_matches": {},
@@ -7597,11 +7252,11 @@
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "low",
-    "filter_score_bonus": 4,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
+    "filter_score_bonus": 3,
+    "gold_matches": [
+      "طلا"
     ],
+    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
