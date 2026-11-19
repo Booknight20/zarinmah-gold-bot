@@ -489,110 +489,115 @@ def has_reasoning_structure(text):
 
 
 def evaluate_analysis(text):
+    """
+    پذیرش فقط تحلیل مستدل و مشخص درباره بازار طلا و سکه.
+    اشاره‌های تبلیغاتی، گزارش صرف قیمت و مطالب عمومی بازار رد می‌شوند.
+    """
     text = clean_html(text)
-    normalized_text = normalize(text)
 
-    market_matches = find_matches(
-        normalized_text,
-        MARKET_KEYWORDS,
+    # حذف امضاها و دعوت‌های تبلیغاتی انتهای پست تا اشاره گذرای
+    # کانال به «طلا» باعث مرتبط تشخیص دادن خبر نامرتبط نشود.
+    content_lines = []
+    footer_markers = (
+        "اگر در بازارهای مالی",
+        "برای عضویت",
+        "جهت عضویت",
+        "کانال زیر را دنبال",
+        "کانال زیر رو دنبال",
+        "برای تبلیغات",
+        "جهت تبلیغات",
+        "ثبت نام",
+        "ثبت‌نام",
     )
-    analysis_matches = find_matches(
-        normalized_text,
-        ANALYSIS_KEYWORDS,
-    )
+    for line in text.splitlines():
+        normalized_line = normalize(line)
+        if any(normalize(marker) in normalized_line for marker in footer_markers):
+            break
+        if re.fullmatch(r"@?[A-Za-z0-9_]{3,}", line.strip()):
+            continue
+        content_lines.append(line)
 
-    score = 0
+    analysis_text = clean_html("\n".join(content_lines))
+    normalized_analysis = normalize(analysis_text)
+
+    gold_keywords = [
+        "طلا", "طلای 18", "طلای ۱۸", "طلای 24", "طلای ۲۴",
+        "آبشده", "اونس", "اونس جهانی", "سکه", "سکه امامی",
+        "نیم سکه", "نیم‌سکه", "ربع سکه", "ربع‌سکه",
+        "حباب طلا", "حباب سکه", "صندوق طلا", "صندوق‌های طلا",
+        "گواهی سپرده شمش",
+    ]
+    analysis_signals = [
+        "تحلیل", "پیش بینی", "پیش‌بینی", "سناریو",
+        "چشم انداز", "چشم‌انداز", "حمایت", "مقاومت",
+        "شکست", "تثبیت", "اصلاح", "واگرایی", "همگرایی",
+        "میانگین متحرک", "تکنیکال", "تکنیکالی", "بنیادی",
+        "ارزش ذاتی", "هدف قیمتی", "حد ضرر", "حد سود",
+        "نقطه ورود", "ریسک به ریوارد", "عرضه و تقاضا",
+        "جریان نقدینگی", "نرخ بهره", "فدرال رزرو",
+        "بازده اوراق", "تورم", "سیاست پولی",
+    ]
+
+    market_matches = find_matches(normalized_analysis, gold_keywords)
+    analysis_matches = find_matches(normalized_analysis, analysis_signals)
     reasons = []
 
-    score += min(len(market_matches), 8) * 2
-
-    if market_matches:
-        reasons.append("ارتباط با بازار")
-
-    score += min(len(analysis_matches), 6) * 2
-
-    if analysis_matches:
-        reasons.append("دارای نشانه‌های تحلیل")
-
-    if len(text) >= 250:
-        score += 1
-        reasons.append("دارای توضیح")
-
-    if len(text) >= 700:
-        score += 1
-
-    if has_numeric_evidence(text):
-        score += 2
-        reasons.append("دارای داده عددی")
-
-    if has_reasoning_structure(text):
-        score += 3
-        reasons.append("دارای استدلال")
-
-    market_groups = {
-        "gold": ["طلا", "آبشده", "اونس", "سکه"],
-        "currency": ["دلار", "ارز", "یورو", "درهم", "تتر"],
-        "stock": [
-            "بورس", "شاخص", "نماد", "فرابورس",
-            "صندوق", "ارزش معاملات",
-        ],
-        "economy": [
-            "تورم", "نرخ بهره", "بانک مرکزی",
-            "نفت", "تحریم", "کسری بودجه",
-        ],
-    }
-
-    matched_groups = []
-
-    for group_name, keywords in market_groups.items():
-        if any(
-            normalize(keyword) in normalized_text
-            for keyword in keywords
-        ):
-            matched_groups.append(group_name)
-
-    if len(matched_groups) >= 2:
-        score += 3
-        reasons.append("ارتباط میان چند حوزه بازار")
-
-    if is_promotional(text):
+    if is_promotional(analysis_text):
         return {
-            "relevant": False,
-            "score": score,
+            "relevant": False, "score": 0,
             "market_matches": market_matches,
             "analysis_matches": analysis_matches,
-            "market_groups": matched_groups,
-            "reasons": reasons,
-            "reject_reason": "promotional",
+            "market_groups": ["gold"] if market_matches else [],
+            "reasons": reasons, "reject_reason": "promotional",
         }
+
+    # گزارش قیمت، فهرست نرخ‌ها و پیام‌های کوتاه بدون استدلال تحلیل نیستند.
+    price_lines = [
+        line for line in analysis_text.splitlines()
+        if re.search(r"\d", normalize(line))
+        and any(term in normalize(line) for term in (
+            "قیمت", "طلا", "اونس", "سکه", "تومان", "دلار"
+        ))
+    ]
+    mostly_price_list = (
+        len(price_lines) >= 2
+        and len(analysis_text) < 500
+        and len(analysis_matches) == 0
+    )
 
     if not market_matches:
-        return {
-            "relevant": False,
-            "score": score,
-            "market_matches": [],
-            "analysis_matches": analysis_matches,
-            "market_groups": matched_groups,
-            "reasons": reasons,
-            "reject_reason": "no_market_evidence",
-        }
+        reject_reason = "no_gold_focus"
+    elif mostly_price_list:
+        reject_reason = "price_report_only"
+    elif len(analysis_text) < 180:
+        reject_reason = "insufficient_analysis_length"
+    elif len(analysis_matches) < 2:
+        reject_reason = "insufficient_analysis_evidence"
+    elif not (
+        has_reasoning_structure(analysis_text)
+        or any(term in normalized_analysis for term in (
+            "حمایت", "مقاومت", "سناریو", "پیش بینی",
+            "پیش‌بینی", "تکنیکال", "بنیادی", "واگرایی",
+            "میانگین متحرک", "هدف قیمتی", "ارزش ذاتی",
+        ))
+    ):
+        reject_reason = "no_reasoned_view"
+    else:
+        reject_reason = ""
 
-    has_analysis = bool(analysis_matches)
-    has_reasoning = has_reasoning_structure(text)
-    sufficient_length = len(text) >= 180
+    relevant = not reject_reason
+    if relevant:
+        reasons.extend(["تمرکز مستقیم بر طلا یا سکه", "دارای شواهد تحلیلی مشخص"])
+        if has_reasoning_structure(analysis_text):
+            reasons.append("دارای استدلال")
+        if has_numeric_evidence(analysis_text):
+            reasons.append("دارای داده عددی")
 
-    relevant = (
-        (score >= 8 and has_analysis)
-        or (
-            score >= 7
-            and has_reasoning
-            and sufficient_length
-        )
-        or (
-            len(market_matches) >= 2
-            and has_analysis
-            and len(text) >= 120
-        )
+    score = (
+        min(len(market_matches), 5) * 2
+        + min(len(analysis_matches), 5) * 3
+        + (3 if has_reasoning_structure(analysis_text) else 0)
+        + (1 if has_numeric_evidence(analysis_text) else 0)
     )
 
     return {
@@ -600,11 +605,9 @@ def evaluate_analysis(text):
         "score": score,
         "market_matches": market_matches,
         "analysis_matches": analysis_matches,
-        "market_groups": matched_groups,
+        "market_groups": ["gold"] if market_matches else [],
         "reasons": reasons,
-        "reject_reason": (
-            "" if relevant else "insufficient_analysis_evidence"
-        ),
+        "reject_reason": reject_reason,
     }
 
 
