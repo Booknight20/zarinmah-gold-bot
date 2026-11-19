@@ -1,0 +1,52 @@
+name: ZarinMah Analyst Dry Run
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  analyst-dry-run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout selected branch
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect and filter analyst posts (no publishing)
+        run: python -u analyst_bot.py
+
+      - name: Show candidate summary
+        if: always()
+        run: |
+          if [ -f analyst_ready.json ]; then
+            python - <<'PY'
+          import json
+          from pathlib import Path
+          items = json.loads(Path("analyst_ready.json").read_text(encoding="utf-8"))
+          print("Candidate count:", len(items))
+          for item in items:
+              print("-", item.get("analyst", "تحلیلگر"), "|", item.get("analysis_score", 0), "|", item.get("title", ""))
+          PY
+          else
+            echo "analyst_ready.json was not generated"
+          fi
+
+      - name: Upload dry-run results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: analyst-dry-run-results
+          path: |
+            analyst_ready.json
+          if-no-files-found: warn
+          retention-days: 7
