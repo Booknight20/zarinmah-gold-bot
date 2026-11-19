@@ -50434,5 +50434,207 @@
     "group_sent_at": "2026-11-18T21:51:57.643275+03:30",
     "group_message_id": 3118,
     "published_at": "2026-11-18T21:51:57.678003+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/9078": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "یه سری به قیمت ها بزنیم:",
+      "summary": "یه سری به قیمت ها بزنیم: \n\nطلا ۱۸ عیار: ۲۴,۳۰۰,۰۰۰ تومان \nنقره ۹۹۹: ۳۸۷,۰۰۰ تومان \nتتر: ۲۷۱,۳۰۰ تومان\nاونس طلا: ۳,۷۳۱ دلار\nبیت‌کوین: ۶۳,۵۰۰ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "full_text": "یه سری به قیمت ها بزنیم: \n\nطلا ۱۸ عیار: ۲۴,۳۰۰,۰۰۰ تومان \nنقره ۹۹۹: ۳۸۷,۰۰۰ تومان \nتتر: ۲۷۱,۳۰۰ تومان\nاونس طلا: ۳,۷۳۱ دلار\nبیت‌کوین: ۶۳,۵۰۰ دلار\n\n ⚡️ @Alirezamehrabi_ir",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/9078",
+      "analysis_score": 19,
+      "market_matches": [
+        "طلا",
+        "اونس",
+        "دلار",
+        "تتر",
+        "بیت کوین",
+        "بیت‌کوین"
+      ],
+      "analysis_matches": [
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold",
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 168,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-19T11:43:58.248793+03:30"
+    },
+    "content_signature": "f9a79b82d64a59f39833b9a1812b040178cb1aa6a92421acc0b7fa7634300f2f",
+    "first_seen_at": "2026-11-19T11:45:10.740256+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3377
+    ],
+    "telegram_last_success_at": "2026-11-19T11:45:11.225424+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-19T11:45:11.274082+03:30",
+    "telegram_message_id": 3377,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      182753744
+    ],
+    "eitaa_last_success_at": "2026-11-19T11:45:13.122594+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-19T11:45:13.170202+03:30",
+    "eitaa_message_id": 182753744,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3138
+    ],
+    "group_last_success_at": "2026-11-19T11:45:13.772704+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-19T11:45:13.820349+03:30",
+    "group_message_id": 3138,
+    "published_at": "2026-11-19T11:45:13.864836+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26352": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "نسبت بورس به نقدینگی",
+      "summary": "نسبت بورس به نقدینگی \nنسبت ارزش بورس به نقدینگی از کف ۰.۶۴ به حوالی ۱.۱۴ رسیده ، یعنی ۷۸ درصد رشد کرده این نشون میده بورس داره بخشی از عقب‌موندگی خودش نسبت به رشد نقدینگی رو جبران می‌کنه\n\n @payamelyaskordi ✅",
+      "full_text": "نسبت بورس به نقدینگی \nنسبت ارزش بورس به نقدینگی از کف ۰.۶۴ به حوالی ۱.۱۴ رسیده ، یعنی ۷۸ درصد رشد کرده این نشون میده بورس داره بخشی از عقب‌موندگی خودش نسبت به رشد نقدینگی رو جبران می‌کنه\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26352",
+      "analysis_score": 15,
+      "market_matches": [
+        "ارز",
+        "بورس",
+        "نقدینگی"
+      ],
+      "analysis_matches": [
+        "رشد",
+        "نقدینگی"
+      ],
+      "market_groups": [
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 207,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-19T11:43:56.586219+03:30"
+    },
+    "content_signature": "3d72ae1f20eb182cf1c62d3d97e9139dae60b5d761b372ca439afafde35d8134",
+    "first_seen_at": "2026-11-19T11:45:13.911225+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3378
+    ],
+    "telegram_last_success_at": "2026-11-19T11:45:14.378831+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-19T11:45:14.426329+03:30",
+    "telegram_message_id": 3378,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      182753757
+    ],
+    "eitaa_last_success_at": "2026-11-19T11:45:15.315523+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-19T11:45:15.378479+03:30",
+    "eitaa_message_id": 182753757,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3139
+    ],
+    "group_last_success_at": "2026-11-19T11:45:15.898312+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-19T11:45:15.946455+03:30",
+    "group_message_id": 3139,
+    "published_at": "2026-11-19T11:45:16.010821+03:30"
+  },
+  "https://t.me/drarashamini/7458": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "پس از حمله روسیه به اوکراین، شماری از مدیران نفتی این کشور که با جنگ مخالفت کرده یا از آن انتقاد کرده بودند، در شرایط...",
+      "summary": "پس از حمله روسیه به اوکراین، شماری از مدیران نفتی این کشور که با جنگ مخالفت کرده یا از آن انتقاد کرده بودند، در شرایطی مشکوک جان باختند. از گازپروم و لوک‌اویل تا نواتک، نام مدیران ارشد غول‌های انرژی روسیه در فهرست این مرگ‌های غیرعادی دیده می‌شود.\n\nبدون شرح\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "پس از حمله روسیه به اوکراین، شماری از مدیران نفتی این کشور که با جنگ مخالفت کرده یا از آن انتقاد کرده بودند، در شرایطی مشکوک جان باختند. از گازپروم و لوک‌اویل تا نواتک، نام مدیران ارشد غول‌های انرژی روسیه در فهرست این مرگ‌های غیرعادی دیده می‌شود.\n\nبدون شرح\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7458",
+      "analysis_score": 13,
+      "market_matches": [
+        "طلا",
+        "نفت"
+      ],
+      "analysis_matches": [
+        "رشد"
+      ],
+      "market_groups": [
+        "gold",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 380,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-19T11:43:57.144405+03:30"
+    },
+    "content_signature": "d8b1f7aaecb6fb66cedd137c66309d538056f133375068b94044c684d92c5cb0",
+    "first_seen_at": "2026-11-19T11:45:16.057220+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3379
+    ],
+    "telegram_last_success_at": "2026-11-19T11:45:16.533458+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-19T11:45:16.580127+03:30",
+    "telegram_message_id": 3379,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      182753762
+    ],
+    "eitaa_last_success_at": "2026-11-19T11:45:17.670137+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-19T11:45:17.718271+03:30",
+    "eitaa_message_id": 182753762,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3140
+    ],
+    "group_last_success_at": "2026-11-19T11:45:18.245892+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-19T11:45:18.294254+03:30",
+    "group_message_id": 3140,
+    "published_at": "2026-11-19T11:45:18.338234+03:30"
   }
 }
