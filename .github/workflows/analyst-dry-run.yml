@@ -14,7 +14,7 @@ jobs:
       - name: Checkout feature branch for safe testing
         uses: actions/checkout@v4
         with:
-          ref: feature/analyst-macro-reasoning-preview-2026-11-20
+          ref: feature/analyst-content-categories-preview-2026-11-20
 
       - name: Set up Python
         uses: actions/setup-python@v5
