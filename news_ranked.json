@@ -97,88 +97,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا باز هم کاهش یافت؛ هر اونس ۳۸۷۰ دلار شد/ قیمت جدید طلای جهانی امروز ۲۵ آبان ۱۴۰۶",
-    "link": "https://www.khabaronline.ir/news/2302748/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%DA%A9%D8%A7%D9%87%D8%B4-%DB%8C%D8%A7%D9%81%D8%AA-%D9%87%D8%B1-%D8%A7%D9%88%D9%86%D8%B3-%DB%B3%DB%B8%DB%B7%DB%B0-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C",
-    "summary": "قیمت طلا در اولین روز فعالیت بازارهای جهانی باز هم کاهش یافت. ناظران معتقدند تقویت دلار آمریکا و افزایش بازده اوراق قرضه خزانه داری، در کنار انتظار سرمایه گذاران برای افزایش نرخ بهره فدرال رزرو، بر بازار این فلز گران بها فشار وارد کرد.",
-    "published": "Mon, 16 Nov 2026 06:14:22 GMT",
-    "collected_at": "2026-11-16T11:43:37.296940+03:30",
-    "filter_market_score": 40,
-    "market_score": 44,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نرخ بهره",
-      "فدرال رزرو",
-      "بازده اوراق",
-      "بازده اوراق قرضه"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "افزایش",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "طلای جهانی"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "نرخ بهره",
-      "فدرال رزرو"
-    ],
-    "medium_impact_matches": [
-      "بازده اوراق"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "طلا دوباره افزایشی شد؛ اونس طلا ۳. ۷۴۳ دلار قیمت پیدا کرد/ قیمت جدید طلای جهانی امروز ۲۸ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2304177/%D8%B7%D9%84%D8%A7-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4%DB%8C-%D8%B4%D8%AF-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%DB%B3-%DB%B7%DB%B4%DB%B3-%D8%AF%D9%84%D8%A7%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D8%B1%D8%AF-%D9%82%DB%8C%D9%85%D8%AA",
     "summary": "قیمت طلا پس از اینکه روز گذشته، به پایین ترین سطح خود در بیش از یک سال گذشته سقوط کرد، در معاملات روز پنج شنبه بازار جهانی، تحت تاثیر چشم انداز نرخ بهره آمریکا، افزایش یافت. قیمت هر اونس طلا برای تحویل فوری، با ۰.۶ درصد افزایش، به ۳۷۴۳ دلار و ۲۶ سنت رسید.",
@@ -302,77 +220,6 @@
       "افزایش",
       "صعود",
       "قیمت",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "سکه",
-      "سکه امامی",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا و سکه امروز دوشنبه ۲۵ آبان ۱۴۰۵ / تداوم کاهش طلای ۱۸ عیار و سکه امامی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308711-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%DA%A9%D8%A7%D9%87%D8%B4-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C",
-    "summary": "طلای 18 عیار نزولی شد و قیمت سکه امامی امروز با کاهش، در نرخ 247 میلیون و 900 هزار تومان در معامله بود.",
-    "published": "Mon, 16 Nov 2026 07:43:12 +0000",
-    "collected_at": "2026-11-16T11:43:27.182754+03:30",
-    "filter_market_score": 36,
-    "market_score": 44,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه",
-        "سکه امامی",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "نزول",
       "نرخ"
     ],
     "filter_reason": "relevant_market_news",
@@ -554,6 +401,108 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "طلای جهانی در کف 14 ماهه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4309623-%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%DA%A9%D9%81-%D9%85%D8%A7%D9%87%D9%87",
+    "summary": "بازار جهانی طلا در پی افزایش احتمال رشد دوباره نرخ بهره آمریکا تا اوایل سال ۲۰۲۷ روزهای پرتنشی را سپری می کند. با تقویت این انتظارات، سرمایه گذاران تمایل کمتری به خرید طلا نشان داده اند و همین موضوع به افت پی درپی قیمت ها دامن زده است. در نتیجه این روند، بهای هر اونس طلا در معاملات اخیر به حدود 3500دلار رسید و پایین ترین سطح خود در ۱۴ ماه گذشته را ثبت کرد. شدت این ریزش به گونه ای بود که طلا تنها در هشت روز معاملاتی بیش از 15درصد از ارزش خود را از دست داد. در کنار چشم انداز افزایش نرخ بهره، تقویت دلار و بالا رفتن بازده اوراق قرضه آمریکا نیز محبوبیت طلا برای سرمایه گذاران را کاهش داد. همزمان با افت بازارهای سهام و خروج سرمایه از صندوق های طلا، فشار فروش بر این فلز گران بها افزایش یافته و احتمال عقب نشینی بیشتر قیمت ها را تقویت کرده است. با این حال چشم انداز بازار تنها به نگرانی های کوتاه مدت محدود نمی شود. مورگان استنلی با تکیه بر تداوم تقاضای بانک های مرکزی و سرمایه گذاران پیش بینی می کند قیمت هر اونس طلا در نیمه دوم سال ۲۰۲۷ از ۵۰۰۰دلار عبور کند. به این ترتیب درحالی که سیاست پولی آمریکا در کوتاه مدت مسیر طلا را نزولی کرده، امید به تداوم تقاضای جهانی همچنان از احتمال بازگشت این فلز به مسیر صعودی در بلندمدت حکایت دارد.",
+    "published": "Fri, 20 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-21T01:10:44.102421+03:30",
+    "filter_market_score": 49,
+    "market_score": 40,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا",
+        "طلای جهانی"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نرخ بهره",
+      "سیاست پولی",
+      "بازده اوراق",
+      "بازده اوراق قرضه"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "کاهش",
+      "رشد",
+      "افت",
+      "صعود",
+      "نزول",
+      "ریزش",
+      "پیش‌بینی",
+      "پیش بینی",
+      "چشم‌انداز",
+      "چشم انداز",
+      "قیمت",
+      "نرخ",
+      "معاملات",
+      "تقاضا",
+      "داده",
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "طلای جهانی",
+      "اونس طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [
+      "سهام"
+    ],
+    "high_impact_matches": [
+      "نرخ بهره"
+    ],
+    "medium_impact_matches": [
+      "بازده اوراق"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 3,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true
@@ -1455,74 +1404,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "پیش بینی قیمت طلا، سکه و دلار امروز دوشنبه 25 آبان ۱۴۰۵/ ریزش قیمت ها ادامه دارد؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308725-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
-    "summary": "تحلیلگران بازار معتقدند معاملات روز دوشنبه بیش از هر چیز به رفتار دلار و تحولات سیاسی وابسته خواهد بود.",
-    "published": "Mon, 16 Nov 2026 06:13:27 +0000",
-    "collected_at": "2026-11-16T11:43:27.182883+03:30",
-    "filter_market_score": 23,
-    "market_score": 32,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "ریزش",
-      "پیش‌بینی",
-      "پیش بینی",
-      "قیمت",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "سکه"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت طلا، سکه و دلار امروز چهارشنبه ۲۷ آبان ۱۴۰۵",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309193-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86",
     "summary": "به اعتقاد تحلیلگران، دلار در معاملات روز چهارشنبه بیش از هر چیز تحت تأثیر اخبار سیاسی و تحولات نظامی منطقه قرار خواهد داشت.",
@@ -1898,6 +1779,79 @@
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "واگرایی هفتگی نماگرهای بورسی",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4309604-%D9%88%D8%A7%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C-%D9%87%D9%81%D8%AA%DA%AF%DB%8C-%D9%86%D9%85%D8%A7%DA%AF%D8%B1%D9%87%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C",
+    "summary": "معاملات بورس تهران در هفته گذشته با تداوم واگرایی میان شاخص های سهامی دنبال شد؛ به طوری که شاخص کل با افت همراه شد، اما شاخص هموزن و شاخص کل فرابورس مسیر صعودی را در پیش گرفتند. این تفاوت عملکرد در شرایطی رقم خورد که شاخص کل در چهار هفته از پنج هفته معاملاتی اخیر کاهش یافته و نشانه هایی از تداوم فشار فروش در نمادهای بزرگ بازار به چشم می خورد. در مقابل، شاخص هموزن با رشد 3.4درصدی در هفته گذشته، بار دیگر عملکرد بهتر سهام کوچک و متوسط را به نمایش گذاشت. فاصله ۳۰واحد درصدی بازدهی شاخص هموزن و شاخص کل از ابتدای سال نیز بر همین تفاوت تاکید دارد. با وجود این واگرایی، بورس همچنان در صدر جدول بازدهی بازارها از ابتدای سال قرار دارد؛ هرچند خروج پول حقیقی ها و تداوم افت شاخص کل، از احتیاط بخشی از سرمایه گذاران حکایت می کند.",
+    "published": "Fri, 20 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-21T01:10:44.102331+03:30",
+    "filter_market_score": 30,
+    "market_score": 30,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "فرابورس",
+        "خروج پول حقیقی",
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "شاخص هم وزن",
+        "فرابورس",
+        "خروج پول حقیقی",
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش",
+      "رشد",
+      "افت",
+      "صعود",
+      "معاملات",
+      "خروج پول",
+      "بازدهی"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "شاخص هم وزن",
+      "فرابورس",
+      "خروج پول حقیقی",
+      "سهام"
+    ],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
@@ -2423,139 +2377,11 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "رشد ۱۳۵ هزار واحدی شاخص کل بورس امروز ۲۵ آبان ۱۴۰۵ / شاخص به ۸.۶ میلیون واحد رسید",
-    "link": "https://www.khabaronline.ir/live/2302773/%D8%B1%D8%B4%D8%AF-%DB%B1%DB%B3%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%87",
-    "summary": "شاخص کل بورس در معاملات صبح دوشنبه ۲۵ آبان ۱۴۰۵ با رشد ۱۳۵ هزار و ۴۵۲ واحدی به ۸ میلیون و ۶۰۱ هزار واحد رسید. شاخص هم وزن نیز ۳۴ هزار و ۸۹۵ واحد افزایش یافت و ارزش معاملات بورس از ۱۶۰ هزار میلیارد واحد پولی عبور کرد.",
-    "published": "Mon, 16 Nov 2026 06:46:00 GMT",
-    "collected_at": "2026-11-16T11:43:37.296912+03:30",
-    "filter_market_score": 34,
-    "market_score": 29,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "ارزش معاملات"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "ارزش معاملات"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "افزایش",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل",
-      "شاخص هم وزن",
-      "ارزش معاملات"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۲۸ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر مثقال طلا ۱۰۵ میلیون و ۹۳۰ هزار تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2304064/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B8-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84",
     "summary": "قیمت طلا در بازار تهران ۲۸ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۴ میلیون و ۴۵۴ هزار تومان قیمت خورد. هر مثقال طلا هم به قیمت ۱۰۵ میلیون و ۹۳۰ هزار تومان رسید.",
     "published": "Thu, 19 Nov 2026 04:37:44 GMT",
     "collected_at": "2026-11-19T11:43:17.875083+03:30",
-    "filter_market_score": 29,
-    "market_score": 29,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "بازگشایی",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "مثقال طلا",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۲۵ آبان ۱۴۰۵ در زمان بازگشایی بازار/ هر مثقال طلا روی قیمت ۱۰۶ میلیون و ۱۱۰ هزار تومان ایستاد + جدول",
-    "link": "https://www.khabaronline.ir/news/2302653/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84",
-    "summary": "قیمت طلا در بازار تهران ۲۵ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۴ میلیون و ۴۹۵ هزار تومان قیمت خورد. هر مثقال طلا هم به قیمت ۱۰۶ میلیون و ۱۱۰ هزار تومان رسید.",
-    "published": "Mon, 16 Nov 2026 04:25:00 GMT",
-    "collected_at": "2026-11-16T11:43:37.296997+03:30",
     "filter_market_score": 29,
     "market_score": 29,
     "market_matches": {
@@ -2932,68 +2758,6 @@
     "ranking_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۲۵ آبان ۱۴۰۵ در زمان بازگشایی بازار/ ربع سکه به قیمت ۷۰ میلیون و ۵۰۰ هزار تومان رسید + جدول",
-    "link": "https://www.khabaronline.ir/news/2302654/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B5-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87",
-    "summary": "قیمت سکه در بازار تهران ۲۵ آبان ۱۴۰۵ اعلام شد و سکه بهار آزادی به قیمت ۲۴۹ میلیون و ۴۰۰ هزار تومان رسید و ربع سکه با نرخ ۷۰ میلیون و ۵۰۰ هزار تومان به فروش رفت.",
-    "published": "Mon, 16 Nov 2026 04:45:00 GMT",
-    "collected_at": "2026-11-16T11:43:37.296986+03:30",
-    "filter_market_score": 17,
-    "market_score": 28,
-    "market_matches": {
-      "gold": [
-        "سکه",
-        "ربع سکه",
-        "سکه بهار آزادی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه",
-        "ربع سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "سکه",
-        "سکه بهار آزادی",
-        "ربع سکه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "بازگشایی",
-      "نرخ",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "سکه",
-      "ربع سکه",
-      "سکه بهار آزادی"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "سبقت سهام کوچک از بزرگان بورس",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4309277-%D8%B3%D8%A8%D9%82%D8%AA-%D8%B3%D9%87%D8%A7%D9%85-%DA%A9%D9%88%DA%86%DA%A9-%D8%A7%D8%B2-%D8%A8%D8%B2%D8%B1%DA%AF%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3",
@@ -3305,69 +3069,6 @@
     "summary": "قیمت طلا امروز با کاهش 90 دلاری نسبت به روز گذشته، 3772 (سه هزار و هفتصد و هفتاد و دو) دلار نرخ گذاری شد.",
     "published": "Wed, 18 Nov 2026 07:51:03 +0000",
     "collected_at": "2026-11-18T12:59:38.531379+03:30",
-    "filter_market_score": 19,
-    "market_score": 25,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا امروز دوشنبه ۲۵ آبان ۱۴۰۵ / کاهش قیمت طلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308709-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
-    "summary": "قیمت طلا امروز با کاهش 26 دلاری نسبت به روز گذشته، 3857 (سه هزار و هشتصد و پنجاه و هفت) دلار نرخ گذاری شد.",
-    "published": "Mon, 16 Nov 2026 07:41:10 +0000",
-    "collected_at": "2026-11-16T11:43:27.182775+03:30",
     "filter_market_score": 19,
     "market_score": 25,
     "market_matches": {
@@ -4023,66 +3724,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "سکانس دوم رکوردشکنی بورس",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4308736-%D8%B3%DA%A9%D8%A7%D9%86%D8%B3-%D8%AF%D9%88%D9%85-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3",
-    "summary": "دنیای اقتصاد: بورس تهران در میانه معاملات امروز نیز به روند صعودی خود ادامه داد و با ثبت رکوردی تازه، از سقف تاریخی پیشین خود عبور کرد. شاخص کل با رشد ۱.۵۴ درصدی و افزایش ۱۳۰ هزار واحدی، به محدوده ۸ میلیون و ۵۹۸ هزار واحد رسید. این اتفاق در ادامه عبور روز گذشته شاخص از سقف تاریخی ۸ میلیون و ۴۶۰ هزار واحدی ثبت شده در ۲۱ مهرماه رخ داد.",
-    "published": "Mon, 16 Nov 2026 07:37:02 +0000",
-    "collected_at": "2026-11-16T11:43:27.182793+03:30",
-    "filter_market_score": 18,
-    "market_score": 22,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "رشد",
-      "صعود",
-      "رکورد",
-      "معاملات",
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "شاخص کل"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "پیش بینی قیمت سکه در هفته اول آذر 1405",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309538-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D8%A7%D9%88%D9%84-%D8%A2%D8%B0%D8%B1",
     "summary": "تحلیلگران محدوده ۲۴۷ تا ۲۴۸ میلیون تومان را نخستین منطقه حمایتی سکه امامی می دانند و معتقدند از دست رفتن این سطح می تواند قیمت را به سمت حمایت مهم و روانی ۲۴۵ میلیون تومان هدایت کند.",
@@ -4486,6 +4127,74 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "نقره در کف 14 ماهه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4309613-%D9%86%D9%82%D8%B1%D9%87-%D8%AF%D8%B1-%DA%A9%D9%81-%D9%85%D8%A7%D9%87%D9%87",
+    "summary": "بازار جهانی نقره در نوامبر با فشار فروش همراه شد و قیمت هر اونس این فلز با افت بیش از 3درصدی به محدوده 42 تا 46 دلار رسید؛ سطحی که حاکی از شدت اصلاح قیمت پس از رکورد تاریخی ژانویه 2026 است. آخرین باری که نقره در این محدوده معامله می شد، سپتامبر 2025 و به عبارتی 14ماه گذشته بود. این فلز از قله تاریخی خود در ژانویه 2026 که 121.65دلار بود تا امروز حدود 65درصد کاهش قیمت را تجربه کرده است. تقویت دلار آمریکا، افزایش بازده اوراق قرضه، تغییر انتظارات درباره سیاست پولی فدرال رزرو و کاهش تقاضای برخی بخش های صنعتی، از مهم ترین عوامل این عقب نشینی هستند. با این حال، پیش بینی تداوم کسری عرضه برای ششمین سال متوالی و انباشت کسری ساختاری بازار، این پرسش را مطرح می کند که آیا افت اخیر صرفا تخلیه حباب قیمتی و خروج سرمایه گذاران کوتاه مدت بوده یا بازار نقره وارد مرحله ای عمیق تر از بازنگری در عرضه و تقاضا شده است.",
+    "published": "Fri, 20 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-21T01:10:44.102359+03:30",
+    "filter_market_score": 20,
+    "market_score": 20,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "سیاست پولی",
+      "فدرال رزرو",
+      "بازده اوراق",
+      "بازده اوراق قرضه"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "کاهش",
+      "افت",
+      "رکورد",
+      "پیش‌بینی",
+      "پیش بینی",
+      "قیمت",
+      "عرضه",
+      "تقاضا",
+      "تغییر",
+      "حباب"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "فدرال رزرو"
+    ],
+    "medium_impact_matches": [
+      "بازده اوراق"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "نقشه متفاوت بازدهی در بورس تهران",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4309047-%D9%86%D9%82%D8%B4%D9%87-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
     "summary": "بررسی عملکرد ۴۱صنعت بورسی از ابتدای سال نشان می دهد که در موج صعودی بازار، سهم گروه های مختلف از بازدهی یکسان نبوده است. 9صنعت بیش از 200درصد بازدهی داشته اند و 22صنعت نیز عملکرد بهتری از شاخص کل بورس داشته اند.",
@@ -4597,62 +4306,6 @@
     "ranking_applied": true
   },
   {
-    "source": "مشرق",
-    "title": "سقوط شاخص بورس های شیخ نشینان در سایه بسته ماندن تنگه هرمز",
-    "link": "https://www.mashreghnews.ir/news/1853084/%D8%B3%D9%82%D9%88%D8%B7-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D9%87%D8%A7%DB%8C-%D8%B4%DB%8C%D8%AE-%D9%86%D8%B4%DB%8C%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D8%A8%D8%B3%D8%AA%D9%87-%D9%85%D8%A7%D9%86%D8%AF%D9%86-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2",
-    "summary": "منابع عربی از سقوط شاخص بورس های کشورهای حوزه خلیج فارس در سایه پیامدهای بسته ماندن تنگه هرمز خبر دادند.",
-    "published": "Mon, 16 Nov 2026 06:32:07 GMT",
-    "collected_at": "2026-11-16T11:43:55.251484+03:30",
-    "filter_market_score": 20,
-    "market_score": 19,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [
-      "تنگه هرمز"
-    ],
-    "signal_matches": [
-      "سقوط"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس"
-    ],
-    "high_impact_matches": [
-      "تنگه هرمز"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا ۱۸ عیار امروز سه شنبه ۲۶ آبان ۱۴۰۵ / رشد قیمت طلا",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308940-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B1%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
@@ -4707,46 +4360,46 @@
     "ranking_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا ۱۸ عیار امروز دوشنبه ۲۵ آبان ۱۴۰۵ / افت قیمت طلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4308710-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%A7%D9%81%D8%AA-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
-    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت گرم طلا ۱۸ عیار با کاهش، به 24 میلیون و 329 هزار و 400 تومان رسید.",
-    "published": "Mon, 16 Nov 2026 07:42:11 +0000",
-    "collected_at": "2026-11-16T11:43:27.182765+03:30",
-    "filter_market_score": 16,
+    "source": "خبرآنلاین اقتصادی",
+    "title": "سهام عدالت در مسیر تغییر/ تعیین تکلیف ۱۹ میلیون جامانده و ۷۰ همت سود پرداخت نشده",
+    "link": "https://www.khabaronline.ir/news/2304694/%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AA%D8%B9%DB%8C%DB%8C%D9%86-%D8%AA%DA%A9%D9%84%DB%8C%D9%81-%DB%B1%DB%B9-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AC%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D9%88-%DB%B7%DB%B0",
+    "summary": "سهام عدالت در آستانه بررسی مجموعه ای از تغییرات مدیریتی و قانونی قرار گرفته است؛ تغییراتی که در صورت تصویب می تواند بر نحوه اداره این دارایی، میزان بازدهی آن و وضعیت میلیون ها جامانده تأثیر بگذارد.",
+    "published": "Fri, 20 Nov 2026 15:01:00 GMT",
+    "collected_at": "2026-11-21T01:10:52.352365+03:30",
+    "filter_market_score": 14,
     "market_score": 19,
     "market_matches": {
-      "gold": [
-        "طلا"
+      "stock": [
+        "سهام"
       ]
     },
     "title_market_matches": {
-      "gold": [
-        "طلا"
+      "stock": [
+        "سهام"
       ]
     },
     "summary_market_matches": {
-      "gold": [
-        "طلا"
+      "stock": [
+        "سهام"
       ]
     },
     "full_text_market_matches": {},
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "افت",
-      "قیمت",
-      "کاهش"
+      "تغییر",
+      "تصویب",
+      "بازدهی"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "high",
     "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
+    "gold_matches": [],
     "currency_matches": [],
-    "stock_matches": [],
+    "stock_matches": [
+      "سهام"
+    ],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
@@ -5040,6 +4693,67 @@
   },
   {
     "source": "دنیای اقتصاد",
+    "title": "محاصره نباید ادامه پیدا کند",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AE%D8%A8%D8%B1-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-64/4309638-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D9%86%D8%AF",
+    "summary": "تحرک نفتکش های ایرانی و تاکید مقامات درباره پایان دادن به محاصره، از تغییر محاسبات تهران در مواجهه با جنگ فرسایشی حکایت دارد. در شرایطی که افق توافق همچنان مبهم و محاصره به ابزاری برای فشار مستمر تبدیل شده، ایران شکستن این وضعیت را نه صرفا راهی برای احیای صادرات و درآمد ارزی، بلکه ضرورتی برای خروج از «نه جنگ، نه صلح» می بیند. هزینه محاصره همچنین خود را در کاهش مزیت رقابتی پالایشگاه های چینی بروز داده است؛ وضعیتی که پایداری آن به تداوم مازاد عرضه و امکان جایگزینی نفت ایران بستگی دارد.",
+    "published": "Fri, 20 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-21T01:10:44.102396+03:30",
+    "filter_market_score": 15,
+    "market_score": 18,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نفت",
+      "صادرات"
+    ],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [
+      "کاهش",
+      "عرضه",
+      "تغییر",
+      "توافق",
+      "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
     "title": "قیمت طلا ۱۸ عیار امروز پنجشنبه ۲۸ آبان ۱۴۰۵ / کاهش قیمت طلا",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309388-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D9%BE%D9%86%D8%AC%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
     "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت گرم طلا ۱۸ عیار با کاهش، به 24 میلیون و 299 هزار و 400 تومان رسید.",
@@ -5198,59 +4912,6 @@
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
       "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "ایسنا",
-    "title": "شرایط صدور کارت گردشگری در بانک ها و صرافی ها اعلام شد/ مبلغ شارژ در هر مرحله ۵۰۰۰ یورو",
-    "link": "https://www.isna.ir/news/1405082517099/%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%B5%D8%AF%D9%88%D8%B1-%DA%A9%D8%A7%D8%B1%D8%AA-%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D9%86%DA%A9-%D9%87%D8%A7-%D9%88-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D9%87%D8%A7-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D9%85%D8%A8%D9%84%D8%BA",
-    "summary": "بانک مرکزی در راستای تسهیل خدمات پرداخت برای گردشگران خارجی به ویژه گردشگران درمانی و زائران، ضوابط صدور کارت برای گردشگران خارجی تحت عنوان دستورالعمل ناظر بر نحوه فروش کارت ریالی گردشگری را به شبکه بانکی و و صرافی های کشور ابلاغ کرده که بر اساس آن، شش بانک این خدمت را ارائه می دهند و توسعه خدمت \"صدور کارت گردشگری\" توسط سایر بانک ها در حال انجام است.",
-    "published": "Mon, 16 Nov 2026 07:50:20 GMT",
-    "collected_at": "2026-11-16T11:43:06.965821+03:30",
-    "filter_market_score": 10,
-    "market_score": 18,
-    "market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "اعلام شد",
-      "ابلاغ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -5731,60 +5392,6 @@
       "سهام",
       "بازار سهام"
     ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "کاهش قیمت خودرو کلید خورد/ هایما ۲۵۰ میلیون تومان ارزان شد و ۸ میلیارد و۲۵۰ میلیون تومان فروش رفت/ قیمت خودرو امروز ۲۵ آبان ماه ۱۴۰۵ + جدول",
-    "link": "https://www.khabaronline.ir/news/2302657/%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%DA%A9%D9%84%DB%8C%D8%AF-%D8%AE%D9%88%D8%B1%D8%AF-%D9%87%D8%A7%DB%8C%D9%85%D8%A7-%DB%B2%DB%B5%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86-%D8%B4%D8%AF-%D9%88",
-    "summary": "بازار خودرو امروز، پس از جهش قیمت ها در روز گذشته، با کاهش نرخ ارز وارد مسیر نزولی شد و قیمت تمامی محصولات خودرویی کاهش یافت. بر همین اساس، هایما ۲۵۰ میلیون تومان ارزان شد و ۸ میلیارد و ۲۵۰ میلیون تومان قیمت خورد.",
-    "published": "Mon, 16 Nov 2026 05:15:00 GMT",
-    "collected_at": "2026-11-16T11:43:37.296963+03:30",
-    "filter_market_score": 12,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "نزول",
-      "جهش",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "نرخ ارز",
-      "ارز"
-    ],
-    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
@@ -6654,6 +6261,52 @@
     "ranking_applied": true
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "خبر خوش وزیر اقتصاد درباره سهام عدالت و زمان اجرای طرح اعتبار ملی +فیلم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309685-%D8%AE%D8%A8%D8%B1-%D8%AE%D9%88%D8%B4-%D9%88%D8%B2%DB%8C%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%B2%D9%85%D8%A7%D9%86-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1-%D9%85%D9%84%DB%8C-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "وزیر اقتصاد: طرح اعتبار ملی پس از فاز آزمایشی برای خرید کالای ایرانی و حمایت از قشر متوسط اجرا می شود",
+    "published": "Fri, 20 Nov 2026 20:11:06 +0000",
+    "collected_at": "2026-11-21T01:10:44.102486+03:30",
+    "filter_market_score": 7,
+    "market_score": 11,
+    "market_matches": {
+      "stock": [
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "سهام"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "حمایت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true
+  },
+  {
     "source": "مشرق",
     "title": "تکرار سناریو دخالت در تجمع چینی ها در ملبورن/ چرا در آبدانان شعارهای سلطنت طلبی شنیده شد؟",
     "link": "https://www.mashreghnews.ir/news/1853512/%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1-%D8%B3%D9%86%D8%A7%D8%B1%DB%8C%D9%88-%D8%AF%D8%AE%D8%A7%D9%84%D8%AA-%D8%AF%D8%B1-%D8%AA%D8%AC%D9%85%D8%B9-%DA%86%DB%8C%D9%86%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D9%84%D8%A8%D9%88%D8%B1%D9%86-%DA%86%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%A8%D8%AF%D8%A7%D9%86%D8%A7%D9%86",
@@ -6898,49 +6551,6 @@
     "summary": "فرمانده انتظامی شهرستان البرز از کشف شش دستگاه ماینر غیر مجاز به ارزش چهار میلیارد ریال از یک واحد مسکونی در شهر مهرگان خبر داد.",
     "published": "Tue, 17 Nov 2026 10:46:50 GMT",
     "collected_at": "2026-11-17T14:30:18.907757+03:30",
-    "filter_market_score": 6,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "هشدار به دولت در باره موج جدید گرانی به دنبال حذف ارز مبادله ای / به مردم فشار مضاعف وارد نکنید",
-    "link": "https://www.khabaronline.ir/news/2302673/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%A8%D9%87-%D8%AF%D9%88%D9%84%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%AC-%D8%AC%D8%AF%DB%8C%D8%AF-%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%AD%D8%B0%D9%81-%D8%A7%D8%B1%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%DB%8C",
-    "summary": "همزمان که طرح های جدید بنزینی دولت نگرانی افکار عمومی را برانگیخته و جامعه نمی داند اثر این طرح ها بر کار و زندگی و سفره اش چیست، طرح مشابه و نگران کننده دیگری مطرح شده که به طور جدی نیازمند شفاف سازی و توضیح واضح و قانع کننده است.",
-    "published": "Mon, 16 Nov 2026 02:55:00 GMT",
-    "collected_at": "2026-11-16T11:43:37.297024+03:30",
     "filter_market_score": 6,
     "market_score": 10,
     "market_matches": {
