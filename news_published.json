@@ -42758,5 +42758,77 @@
     "group_message_id": 3154,
     "fully_published": true,
     "last_checked_at": "2026-11-19T23:46:36.434290+00:00"
+  },
+  "1d77cc85b152d90a9a04051e61faee6e6b0953b2ada6c02465e322e62fe98699": {
+    "title": "صادرات کره جنوبی تاریخ ساز شد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405082819928/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B3%D8%A7%D8%B2-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      3394
+    ],
+    "eitaa_message_ids": [
+      182902689
+    ],
+    "group_message_ids": [
+      3155
+    ],
+    "content_hash": "9a890426582ba1f1c6bb1bbc06e31fc03f9e01ae13dd8af62463da01fbeaf14b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-20T04:50:40.134231+00:00",
+    "telegram_message_id": 3394,
+    "eitaa_last_sent_at": "2026-11-20T04:50:41.842236+00:00",
+    "eitaa_message_id": 182902689,
+    "group_last_sent_at": "2026-11-20T04:50:43.642716+00:00",
+    "group_message_id": 3155,
+    "fully_published": true,
+    "last_checked_at": "2026-11-20T04:50:43.709894+00:00"
+  },
+  "516edc2a850c49fee302fe8f67f35e381b6a9b1befcd062ac0346619bfe76829": {
+    "title": "قیمت طلا امروز جمعه ۲۹ آبان ۱۴۰۵/ قیمت طلا کاهشی شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309516-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AC%D9%85%D8%B9%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%DA%A9%D8%A7%D9%87%D8%B4%DB%8C-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      3395
+    ],
+    "eitaa_message_ids": [
+      182902695
+    ],
+    "group_message_ids": [
+      3156
+    ],
+    "content_hash": "f2ca6e694ab25aae6a0422f59ad6717f8af1c3635fa7f89fdc5ceb7fa163032d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-20T04:50:45.545471+00:00",
+    "telegram_message_id": 3395,
+    "eitaa_last_sent_at": "2026-11-20T04:50:46.826131+00:00",
+    "eitaa_message_id": 182902695,
+    "group_last_sent_at": "2026-11-20T04:50:48.644401+00:00",
+    "group_message_id": 3156,
+    "fully_published": true,
+    "last_checked_at": "2026-11-20T04:50:48.711493+00:00"
+  },
+  "b87159b2b1b9d26a55b26332df2489d51af9b604b423c16f34f7a9e05f6b2f0a": {
+    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۲۸ آبان ۱۴۰۵/ دلار ۲۷۰ هزار و ۶۷۵ تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2304256/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B8-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B7%DB%B0",
+    "telegram_message_ids": [
+      3396
+    ],
+    "eitaa_message_ids": [
+      182902707
+    ],
+    "group_message_ids": [
+      3157
+    ],
+    "content_hash": "c16daf6afa7e26d0f28808046476aa88b2de8152b00770ab5490bf6afe15cb3e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-20T04:50:50.595589+00:00",
+    "telegram_message_id": 3396,
+    "eitaa_last_sent_at": "2026-11-20T04:50:52.265377+00:00",
+    "eitaa_message_id": 182902707,
+    "group_last_sent_at": "2026-11-20T04:50:54.012786+00:00",
+    "group_message_id": 3157,
+    "fully_published": true,
+    "last_checked_at": "2026-11-20T04:50:54.079284+00:00"
   }
 }
