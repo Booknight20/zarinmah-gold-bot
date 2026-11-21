@@ -43718,5 +43718,245 @@
     "group_message_id": 3214,
     "fully_published": true,
     "last_checked_at": "2026-11-21T10:33:30.016805+00:00"
+  },
+  "84ddfc83be0ea32de5b55468c4da8a1ad3bfe3e4ae54abde7e455c00a5c265bd": {
+    "title": "صفرزاده: درد زیادی تحمل کردم اما به طلا ناگویا رسیدم",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405083020935/%D8%B5%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1%D8%AF-%D8%B2%DB%8C%D8%A7%D8%AF%DB%8C-%D8%AA%D8%AD%D9%85%D9%84-%DA%A9%D8%B1%D8%AF%D9%85-%D8%A7%D9%85%D8%A7-%D8%A8%D9%87-%D8%B7%D9%84%D8%A7-%D9%86%D8%A7%DA%AF%D9%88%DB%8C%D8%A7-%D8%B1%D8%B3%DB%8C%D8%AF%D9%85",
+    "telegram_message_ids": [
+      3469
+    ],
+    "eitaa_message_ids": [
+      183178103
+    ],
+    "group_message_ids": [
+      3230
+    ],
+    "content_hash": "8f57569798f5df4cd9e33aba8518ad54e0bd5c2d6eeea499264cf36794906322",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-21T17:47:35.699822+00:00",
+    "telegram_message_id": 3469,
+    "eitaa_last_sent_at": "2026-11-21T17:47:39.462476+00:00",
+    "eitaa_message_id": 183178103,
+    "group_last_sent_at": "2026-11-21T17:47:41.600091+00:00",
+    "group_message_id": 3230,
+    "fully_published": true,
+    "last_checked_at": "2026-11-21T17:47:41.651244+00:00"
+  },
+  "5955abb1c23c293782ebb29bde5a958e0dd842b24fa7bcbf332e3de02fe2ad31": {
+    "title": "از بحران آب و کمبود سوخت دوم صنایع تا چالش تعهدات ارزی و گره ترافیکی جنوب غربی تبریز",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405083021090/%D8%A7%D8%B2-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%A2%D8%A8-%D9%88-%DA%A9%D9%85%D8%A8%D9%88%D8%AF-%D8%B3%D9%88%D8%AE%D8%AA-%D8%AF%D9%88%D9%85-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%AA%D8%A7-%DA%86%D8%A7%D9%84%D8%B4-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88-%DA%AF%D8%B1%D9%87",
+    "telegram_message_ids": [
+      3470
+    ],
+    "eitaa_message_ids": [
+      183178154
+    ],
+    "group_message_ids": [
+      3231
+    ],
+    "content_hash": "3818b79451536fa6e53136e936a6e736aa17e4d967932d71ff8ef8528c9faabe",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-21T17:47:43.491070+00:00",
+    "telegram_message_id": 3470,
+    "eitaa_last_sent_at": "2026-11-21T17:47:47.505398+00:00",
+    "eitaa_message_id": 183178154,
+    "group_last_sent_at": "2026-11-21T17:47:49.258870+00:00",
+    "group_message_id": 3231,
+    "fully_published": true,
+    "last_checked_at": "2026-11-21T17:47:49.316966+00:00"
+  },
+  "3b9d9a687b793f1ea6663a0447f987a85a109c42174f2844eb3f30c7fa3f40db": {
+    "title": "۷۰ همت از منابع سهام عدالت رسوب کرده است",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/7018448/%DB%B7%DB%B0-%D9%87%D9%85%D8%AA-%D8%A7%D8%B2-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%B1%D8%B3%D9%88%D8%A8-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      3471
+    ],
+    "eitaa_message_ids": [
+      183178188
+    ],
+    "group_message_ids": [
+      3232
+    ],
+    "content_hash": "da564e4a11d9f3a5921459999700221e7b240be726aceccab1d616963157008a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-21T17:47:51.167334+00:00",
+    "telegram_message_id": 3471,
+    "eitaa_last_sent_at": "2026-11-21T17:47:53.042810+00:00",
+    "eitaa_message_id": 183178188,
+    "group_last_sent_at": "2026-11-21T17:47:54.825611+00:00",
+    "group_message_id": 3232,
+    "fully_published": true,
+    "last_checked_at": "2026-11-21T17:47:54.884967+00:00"
+  },
+  "f94afc3f7c55c4df289fa8f47c73a49056edd8b8e8f5a8122c9ad82b8f9407ce": {
+    "title": "زمان واریز سود سهام عدالت اعلام شد +فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309864-%D8%B2%D9%85%D8%A7%D9%86-%D9%88%D8%A7%D8%B1%DB%8C%D8%B2-%D8%B3%D9%88%D8%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      3472
+    ],
+    "eitaa_message_ids": [
+      183178235
+    ],
+    "group_message_ids": [
+      3233
+    ],
+    "content_hash": "7021226aee0416b961c81dc77bbb96238b9abaf9aafa8d1caf2e5d06dc2f20fb",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-21T17:47:56.722548+00:00",
+    "telegram_message_id": 3472,
+    "eitaa_last_sent_at": "2026-11-21T17:48:00.434692+00:00",
+    "eitaa_message_id": 183178235,
+    "group_last_sent_at": "2026-11-21T17:48:02.241207+00:00",
+    "group_message_id": 3233,
+    "fully_published": true,
+    "last_checked_at": "2026-11-21T17:48:02.332147+00:00"
+  },
+  "86cc58e11c19a2c3fdeed472d8b6fca9edd2268fc08a43c4a5f26668d35ab22e": {
+    "title": "فرار پول حقیقی از بورس؛ بررسی بازدهی بازارهای دارایی در آبان +فیلم",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309818-%D9%81%D8%B1%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C-%D8%A7%D8%B2-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%A8%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85",
+    "telegram_message_ids": [
+      3473
+    ],
+    "eitaa_message_ids": [
+      183178273
+    ],
+    "group_message_ids": [
+      3234
+    ],
+    "content_hash": "8eb868af393b976670f54341cee506e85026cefdee47c6bfcedb45a792d7b62b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-21T17:48:04.196826+00:00",
+    "telegram_message_id": 3473,
+    "eitaa_last_sent_at": "2026-11-21T17:48:06.361374+00:00",
+    "eitaa_message_id": 183178273,
+    "group_last_sent_at": "2026-11-21T17:48:08.148889+00:00",
+    "group_message_id": 3234,
+    "fully_published": true,
+    "last_checked_at": "2026-11-21T17:48:08.204998+00:00"
+  },
+  "2e02db0c3e4bd80d369b9d912ce6e808f061d31157adf2deecabfbd1be541d4e": {
+    "title": "فردا قرعه کشی «فرمان طلایی طلاین» برگزار می شود؛ لحظه شماری برای تویوتا کرولای طلایی",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2305207/%D9%81%D8%B1%D8%AF%D8%A7-%D9%82%D8%B1%D8%B9%D9%87-%DA%A9%D8%B4%DB%8C-%D9%81%D8%B1%D9%85%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C%D9%86-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D9%84%D8%AD%D8%B8%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      3474
+    ],
+    "eitaa_message_ids": [
+      183178328
+    ],
+    "group_message_ids": [
+      3235
+    ],
+    "content_hash": "b5571e78d19a8edd3fc4ef279b20a33b210d545adf5849e65972210a64ca9c2c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-21T17:48:10.023865+00:00",
+    "telegram_message_id": 3474,
+    "eitaa_last_sent_at": "2026-11-21T17:48:15.719740+00:00",
+    "eitaa_message_id": 183178328,
+    "group_last_sent_at": "2026-11-21T17:48:17.519789+00:00",
+    "group_message_id": 3235,
+    "fully_published": true,
+    "last_checked_at": "2026-11-21T17:48:17.570531+00:00"
+  },
+  "fc0493f51050939e3635e8c1d92a2b83871a682559f7a265a52d4c34ee7cd8c1": {
+    "title": "ریزش ۹.۴ درصدی قیمت طلا در یک هفته/احتمال کاهش بیشتر قیمت ها وجود دارد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2305192/%D8%B1%DB%8C%D8%B2%D8%B4-%DB%B9-%DB%B4-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%87%D9%81%D8%AA%D9%87-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%DA%A9%D8%A7%D9%87%D8%B4-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%87%D8%A7",
+    "telegram_message_ids": [
+      3475
+    ],
+    "eitaa_message_ids": [
+      183178357
+    ],
+    "group_message_ids": [
+      3236
+    ],
+    "content_hash": "68e907d9b69cc8fe3ae1e5c108343a7d75de39ccd3c1afa68872238e42845ab1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-21T17:48:19.384794+00:00",
+    "telegram_message_id": 3475,
+    "eitaa_last_sent_at": "2026-11-21T17:48:22.612901+00:00",
+    "eitaa_message_id": 183178357,
+    "group_last_sent_at": "2026-11-21T17:48:24.382170+00:00",
+    "group_message_id": 3236,
+    "fully_published": true,
+    "last_checked_at": "2026-11-21T17:48:24.440976+00:00"
+  },
+  "d07ccd143608e2f85f72b5a1ccea95be28076f4ab3b74ccc221fe5d42f3d8a81": {
+    "title": "پرداخت سود سهام عدالت پس از تجمیع سود شرکت ها انجام می شود/ آقاپور: در اولین فرصت سود سهام عدالت به حساب مشمولان واریز خواهد شد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2304872/%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%B3%D9%88%D8%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AA%D8%AC%D9%85%DB%8C%D8%B9-%D8%B3%D9%88%D8%AF-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D8%A2%D9%82%D8%A7%D9%BE%D9%88%D8%B1",
+    "telegram_message_ids": [
+      3476
+    ],
+    "eitaa_message_ids": [
+      183178377
+    ],
+    "group_message_ids": [
+      3237
+    ],
+    "content_hash": "cdc5cc31b41b5770a442bd0b2c956ed6039c555dd57369d17541b0688a75a101",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-21T17:48:26.330390+00:00",
+    "telegram_message_id": 3476,
+    "eitaa_last_sent_at": "2026-11-21T17:48:29.492878+00:00",
+    "eitaa_message_id": 183178377,
+    "group_last_sent_at": "2026-11-21T17:48:31.241329+00:00",
+    "group_message_id": 3237,
+    "fully_published": true,
+    "last_checked_at": "2026-11-21T17:48:31.296945+00:00"
+  },
+  "2cdee823f4458002b14c3350c740ef119718a4fc4ad2dd6945ff8d3c6757529d": {
+    "title": "۴ مطالبه بازار سرمایه از زبان رییس سازمان بورس/ بورس تشنه ورود سهام شرکت های بزرگ است",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2304985/%DB%B4-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%A7%D8%B2-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B1%DB%8C%DB%8C%D8%B3-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D8%B4%D9%86%D9%87-%D9%88%D8%B1%D9%88%D8%AF",
+    "telegram_message_ids": [
+      3477
+    ],
+    "eitaa_message_ids": [
+      183178393
+    ],
+    "group_message_ids": [
+      3238
+    ],
+    "content_hash": "b43d073ec6b33ca0ba41d7a50b86cce96408b756c6557996f02aa2807cc00d71",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-21T17:48:33.108484+00:00",
+    "telegram_message_id": 3477,
+    "eitaa_last_sent_at": "2026-11-21T17:48:39.125791+00:00",
+    "eitaa_message_id": 183178393,
+    "group_last_sent_at": "2026-11-21T17:48:40.915614+00:00",
+    "group_message_id": 3238,
+    "fully_published": true,
+    "last_checked_at": "2026-11-21T17:48:40.973003+00:00"
+  },
+  "f0c8466565d50d35da2932fa75d24e70c0c11f34215de0d8a206e83b287c1068": {
+    "title": "سهمیه بندی نان، خروجی وابستگی به واردات گندم و محاصره است / ولخرجی های بودجه ای باید به پایان برسد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2303994/%D8%B3%D9%87%D9%85%DB%8C%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D9%86%D8%A7%D9%86-%D8%AE%D8%B1%D9%88%D8%AC%DB%8C-%D9%88%D8%A7%D8%A8%D8%B3%D8%AA%DA%AF%DB%8C-%D8%A8%D9%87-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%DA%AF%D9%86%D8%AF%D9%85-%D9%88-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA-%D9%88%D9%84%D8%AE%D8%B1%D8%AC%DB%8C-%D9%87%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      3478
+    ],
+    "eitaa_message_ids": [
+      183178400
+    ],
+    "group_message_ids": [
+      3239
+    ],
+    "content_hash": "f43088955009308d9252b3570556e3138c1bc37b622ac3dd75a967036630ef3c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-21T17:48:42.821323+00:00",
+    "telegram_message_id": 3478,
+    "eitaa_last_sent_at": "2026-11-21T17:48:44.970598+00:00",
+    "eitaa_message_id": 183178400,
+    "group_last_sent_at": "2026-11-21T17:48:46.853145+00:00",
+    "group_message_id": 3239,
+    "fully_published": true,
+    "last_checked_at": "2026-11-21T17:48:46.940641+00:00"
   }
 }
