@@ -1,5 +1,7 @@
 """Build the website-only public analysis archive.
 
+# Fresh run after the archive JSON cleanup.
+
 This script scans the five approved public Telegram analyst channels for the
 latest seven days. It does not publish to Telegram or Eitaa and does not
 modify analyst_ready.json / analyst_published.json.
