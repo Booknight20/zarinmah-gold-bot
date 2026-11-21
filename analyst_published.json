@@ -54199,5 +54199,65 @@
     "group_sent_at": "2026-11-21T21:19:44.825404+03:30",
     "group_message_id": 3253,
     "published_at": "2026-11-21T21:19:44.875636+03:30"
+  },
+  "https://t.me/drarashamini/7478": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "شبکه ۱۳ اسرائیل مدعی شد: ارتش اسرائیل و سنتکام درباره طرح‌های مشترک در صورت تشدید تنش با ایران به توافق رسیدند.",
+      "summary": "شبکه ۱۳ اسرائیل مدعی شد: ارتش اسرائیل و سنتکام درباره طرح‌های مشترک در صورت تشدید تنش با ایران به توافق رسیدند. \n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "شبکه ۱۳ اسرائیل مدعی شد: ارتش اسرائیل و سنتکام درباره طرح‌های مشترک در صورت تشدید تنش با ایران به توافق رسیدند. \n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7478",
+      "analysis_score": 7,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای داده عددی",
+        "دارای استدلال"
+      ],
+      "priority": "medium",
+      "content_length": 237,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-22T02:10:00.435312+03:30"
+    },
+    "content_signature": "78d387e4cf1b49e52070b00d7ab881e809a845e0444e417324330ec7831d6c11",
+    "first_seen_at": "2026-11-22T02:10:37.765307+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3500
+    ],
+    "telegram_last_success_at": "2026-11-22T02:10:38.120342+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-22T02:10:38.174252+03:30",
+    "telegram_message_id": 3500,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      183213743
+    ],
+    "eitaa_last_success_at": "2026-11-22T02:10:39.333101+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-22T02:10:39.385790+03:30",
+    "eitaa_message_id": 183213743,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3261
+    ],
+    "group_last_success_at": "2026-11-22T02:10:39.800865+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-22T02:10:39.853425+03:30",
+    "group_message_id": 3261,
+    "published_at": "2026-11-22T02:10:39.904937+03:30"
   }
 }
