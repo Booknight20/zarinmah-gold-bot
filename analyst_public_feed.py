@@ -51,7 +51,11 @@ def load_list(path):
     if not os.path.exists(path):
         return []
     with open(path, "r", encoding="utf-8") as file:
-        value = json.load(file)
+        raw = file.read().strip()
+    # Clean up legacy files that ended with the two literal characters \\ and n.
+    while raw.endswith("\\\\n"):
+        raw = raw[:-2].rstrip()
+    value = json.loads(raw)
     if not isinstance(value, list):
         raise ValueError(f"{path} must contain a JSON array")
     return [item for item in value if isinstance(item, dict)]
