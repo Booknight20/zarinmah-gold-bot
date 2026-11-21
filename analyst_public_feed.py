@@ -63,6 +63,62 @@ def load_list(path):
     return [item for item in value if isinstance(item, dict)]
 
 
+def analysis_core(item):
+    body = str(item.get("full_text") or item.get("summary") or item.get("title") or "")
+    kept = []
+    footer_markers = (
+        "اگر در بازارهای مالی",
+        "برای عضویت",
+        "جهت عضویت",
+        "کانال زیر را دنبال",
+        "کانال زیر رو دنبال",
+        "برای تبلیغات",
+        "جهت تبلیغات",
+        "ثبت نام",
+        "ثبت‌نام",
+    )
+    for line in body.splitlines():
+        normalized = analyst_bot.normalize(line)
+        if any(analyst_bot.normalize(marker) in normalized for marker in footer_markers):
+            break
+        if re.fullmatch(r"@?[A-Za-z0-9_]{3,}", line.strip()):
+            continue
+        if line.strip().startswith("#"):
+            continue
+        kept.append(line)
+    return analyst_bot.clean_html("\n".join(kept))
+
+
+def passes_public_quality(item):
+    core = analysis_core(item)
+    if len(core) < 180:
+        return False
+
+    evaluation = analyst_bot.evaluate_analysis(core)
+    if not evaluation.get("relevant"):
+        return False
+
+    normalized = analyst_bot.normalize(core)
+    tokens = set(re.findall(r"[\w]+", normalized))
+    # Exact word tokens prevent false matches such as «ریسکه» being
+    # mistaken for «سکه». A post must explicitly discuss a gold asset.
+    specific_gold_terms = {"طلا", "طلای", "اونس", "انس", "آبشده", "شمش", "سکه"}
+    if not (tokens & specific_gold_terms):
+        return False
+
+    unique_signals = {
+        analyst_bot.normalize(value)
+        for value in evaluation.get("analysis_matches", [])
+        if analyst_bot.normalize(value)
+    }
+    return len(unique_signals) >= 2
+
+
+def content_fingerprint(item):
+    core = analyst_bot.normalize(analysis_core(item))
+    return re.sub(r"[^\w]+", " ", core).strip()
+
+
 def save_atomic(path, data):
     fd, temporary = tempfile.mkstemp(prefix=".analyst_public_", suffix=".tmp", dir=".")
     try:
@@ -175,7 +231,7 @@ def main():
     # Keep only still-fresh records from the current website archive.
     for item in load_list(PUBLIC_FILE):
         timestamp = parse_datetime(item.get("published_at") or item.get("collected_at"))
-        if timestamp and cutoff <= timestamp <= now + timedelta(minutes=10):
+        if timestamp and cutoff <= timestamp <= now + timedelta(minutes=10) and passes_public_quality(item):
             merged[item_key(item)] = item
 
     stats = {}
@@ -200,6 +256,8 @@ def main():
                 continue
 
             item = build_public_item(source_name, post, evaluation)
+            if not passes_public_quality(item):
+                continue
             merged[item_key(item)] = item
             accepted += 1
 
@@ -225,13 +283,17 @@ def main():
     result = []
     per_source = {}
     used = set()
+    fingerprints = set()
     for item in candidates:
         key = item_key(item)
+        fingerprint = content_fingerprint(item)
         source = str(item.get("analyst") or item.get("source") or "نامشخص")
-        if key in used or per_source.get(source, 0) >= MAX_PER_ANALYST:
+        if (key in used or fingerprint in fingerprints
+                or per_source.get(source, 0) >= MAX_PER_ANALYST):
             continue
         result.append(item)
         used.add(key)
+        fingerprints.add(fingerprint)
         per_source[source] = per_source.get(source, 0) + 1
         if len(result) >= MAX_ITEMS:
             break
