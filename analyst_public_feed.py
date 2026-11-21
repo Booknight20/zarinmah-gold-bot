@@ -62,7 +62,7 @@ def save_atomic(path, data):
     try:
         with os.fdopen(fd, "w", encoding="utf-8") as file:
             json.dump(data, file, ensure_ascii=False, indent=2)
-            file.write("\\n")
+            file.write("\n")
         os.replace(temporary, path)
     except Exception:
         try:
@@ -99,7 +99,7 @@ def parse_posts(page_html, channel):
         if not message_text:
             continue
 
-        match = re.search(r"/(\\d+)$", post_id)
+        match = re.search(r"/(\d+)$", post_id)
         if match:
             ids.append(int(match.group(1)))
 
