@@ -8,8 +8,8 @@ PUBLIC_FILE = "analyst_public.json"
 MAX_ITEMS = 100
 
 GOLD_RE = re.compile(r"طلا|سکه|اونس|انس جهانی|حباب|عیار|حمایت|مقاومت|بازار طلا|gold", re.I)
-LINK_RE = re.compile(r"https?://t\\.me/\\S+", re.I)
-CTA_RE = re.compile(r"اگر در بازارهای مالی و طلا فعال هستی[\\s\\S]*", re.I)
+LINK_RE = re.compile(r"https?://t\.me/\S+", re.I)
+CTA_RE = re.compile(r"اگر در بازارهای مالی و طلا فعال هستی[\s\S]*", re.I)
 
 
 def load_list(path):
@@ -49,7 +49,7 @@ def save_atomic(path, data):
     try:
         with os.fdopen(fd, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-            f.write("\\n")
+            f.write("\n")
         os.replace(tmp, path)
     except Exception:
         try:
