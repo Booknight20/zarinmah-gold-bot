@@ -1,6 +1,9 @@
 name: ZarinMah Preview Analysis Archive
 
 on:
+  push:
+    branches:
+      - feature/public-analysis-feed-preview-2026-11-21
   workflow_dispatch:
 
 permissions:
