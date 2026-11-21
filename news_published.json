@@ -43286,5 +43286,29 @@
     "group_message_id": 3183,
     "fully_published": true,
     "last_checked_at": "2026-11-20T21:41:53.819189+00:00"
+  },
+  "a07f363b48627a5ac8f18b3b43dbc0c0befc0003f532f873fd6e376aa2fb6e22": {
+    "title": "از شوک جهانی به بازار طلا تا مطالبه چهار قدرت غربی از تهران",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4309706-%D8%A7%D8%B2-%D8%B4%D9%88%DA%A9-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D8%AA%D8%A7-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D9%87-%DA%86%D9%87%D8%A7%D8%B1-%D9%82%D8%AF%D8%B1%D8%AA-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%A7%D8%B2-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      3435
+    ],
+    "eitaa_message_ids": [
+      183036611
+    ],
+    "group_message_ids": [
+      3196
+    ],
+    "content_hash": "b7b333fc3e89804faf943ca44898131fd2b2a650c7907480d95fb3bb8075a870",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-21T03:00:37.019026+00:00",
+    "telegram_message_id": 3435,
+    "eitaa_last_sent_at": "2026-11-21T03:00:38.863404+00:00",
+    "eitaa_message_id": 183036611,
+    "group_last_sent_at": "2026-11-21T03:00:40.650953+00:00",
+    "group_message_id": 3196,
+    "fully_published": true,
+    "last_checked_at": "2026-11-21T03:00:40.700887+00:00"
   }
 }
