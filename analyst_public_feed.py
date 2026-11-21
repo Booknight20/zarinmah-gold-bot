@@ -53,7 +53,7 @@ def load_list(path):
     with open(path, "r", encoding="utf-8") as file:
         raw = file.read().strip()
     # Clean up legacy files that ended with the two literal characters \\ and n.
-    while raw.endswith("\\\\n"):
+    while raw.endswith("\\n"):
         raw = raw[:-2].rstrip()
     value = json.loads(raw)
     if not isinstance(value, list):
