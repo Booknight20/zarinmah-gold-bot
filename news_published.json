@@ -44126,5 +44126,581 @@
     "group_message_id": 3260,
     "fully_published": true,
     "last_checked_at": "2026-11-21T22:40:37.507681+00:00"
+  },
+  "c5e636079259a9f360ccea540464d0f61a903fdc06ee5a04c605fc1121085c1e": {
+    "title": "پزشکیان: خروج با اقتدار و عزت از وضعیت «نه جنگ و نه صلح» ضروری است",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405090100458/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A8%D8%A7-%D8%A7%D9%82%D8%AA%D8%AF%D8%A7%D8%B1-%D9%88-%D8%B9%D8%B2%D8%AA-%D8%A7%D8%B2-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D9%86%D9%87-%D8%AC%D9%86%DA%AF-%D9%88-%D9%86%D9%87-%D8%B5%D9%84%D8%AD-%D8%B6%D8%B1%D9%88%D8%B1%DB%8C",
+    "telegram_message_ids": [
+      3501
+    ],
+    "eitaa_message_ids": [
+      183294060
+    ],
+    "group_message_ids": [
+      3262
+    ],
+    "content_hash": "3427b1182b57a2af4b1d2aa581377667e65b0cb679991002e6d89d5e8832aa38",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:34:27.430841+00:00",
+    "telegram_message_id": 3501,
+    "eitaa_last_sent_at": "2026-11-22T10:34:29.156724+00:00",
+    "eitaa_message_id": 183294060,
+    "group_last_sent_at": "2026-11-22T10:34:30.958274+00:00",
+    "group_message_id": 3262,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:34:31.008418+00:00"
+  },
+  "7a0ba8017623b6c04d815a8ff5e183deee8eeb1c6951c4d40f8aff84511c225e": {
+    "title": "بازگشت تقاضا به بورس تهران/ شاخص کل بیش از ۶۴ هزار واحد رشد کرد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405090100440/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7-%D8%A8%D9%87-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B6%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      3502
+    ],
+    "eitaa_message_ids": [
+      183294069
+    ],
+    "group_message_ids": [
+      3263
+    ],
+    "content_hash": "8ccb66811db25e5e87a297cb0f94f4eeef8aafc4764a49632f69979b89549cf4",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:34:32.958674+00:00",
+    "telegram_message_id": 3502,
+    "eitaa_last_sent_at": "2026-11-22T10:34:33.818918+00:00",
+    "eitaa_message_id": 183294069,
+    "group_last_sent_at": "2026-11-22T10:34:35.615837+00:00",
+    "group_message_id": 3263,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:34:35.673868+00:00"
+  },
+  "1025ae3dfe208995645bc0b2bddb05fe7ea04dca70d6cb80722b6b8e336db04e": {
+    "title": "سارق ۹۰ گرم طلا و جواهرات در کهگیلویه دستگیر شد",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/7019332/%D8%B3%D8%A7%D8%B1%D9%82-%DB%B9%DB%B0-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7-%D9%88-%D8%AC%D9%88%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1-%DA%A9%D9%87%DA%AF%DB%8C%D9%84%D9%88%DB%8C%D9%87-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      3503
+    ],
+    "eitaa_message_ids": [
+      183294081
+    ],
+    "group_message_ids": [
+      3264
+    ],
+    "content_hash": "cf637d2d59f23dcef0e9d8382663a79ea19b974b3984f7b4fbe87c36a68fb16e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:34:37.477635+00:00",
+    "telegram_message_id": 3503,
+    "eitaa_last_sent_at": "2026-11-22T10:34:39.068799+00:00",
+    "eitaa_message_id": 183294081,
+    "group_last_sent_at": "2026-11-22T10:34:40.860738+00:00",
+    "group_message_id": 3264,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:34:40.916714+00:00"
+  },
+  "b0a34cd2dd0a79564992cca3112e01f93169f0d5f0aa482928c81cad195f73cd": {
+    "title": "شاخص کل بورس صعودی شد/ ورود ۴ هزار میلیارد تومان پول به بازار سهام",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310019-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%B4%D8%AF-%D9%88%D8%B1%D9%88%D8%AF-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D9%BE%D9%88%D9%84-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85",
+    "telegram_message_ids": [
+      3504
+    ],
+    "eitaa_message_ids": [
+      183294087
+    ],
+    "group_message_ids": [
+      3265
+    ],
+    "content_hash": "036dbc870d88dda8e7439b99ec01e01107964d82451fee9995b273a679302de9",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:34:42.734262+00:00",
+    "telegram_message_id": 3504,
+    "eitaa_last_sent_at": "2026-11-22T10:34:44.399923+00:00",
+    "eitaa_message_id": 183294087,
+    "group_last_sent_at": "2026-11-22T10:34:46.258035+00:00",
+    "group_message_id": 3265,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:34:46.315683+00:00"
+  },
+  "e54f3c3f74e69cdc350bcf7f7a058a6fd4102c9083955a5d5a0d34472c900793": {
+    "title": "قیمت سکه، نیم سکه و ربع سکه امروز یکشنبه ۱ آذر ۱۴۰۵ / کاهش قیمت سکه",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309992-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87",
+    "telegram_message_ids": [
+      3505
+    ],
+    "eitaa_message_ids": [
+      183294096
+    ],
+    "group_message_ids": [
+      3266
+    ],
+    "content_hash": "e5fe1bf50e5511771a4c0c685d7f40edc16836dae9f99f6787be986f5fbff9a5",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:34:48.174578+00:00",
+    "telegram_message_id": 3505,
+    "eitaa_last_sent_at": "2026-11-22T10:34:49.355783+00:00",
+    "eitaa_message_id": 183294096,
+    "group_last_sent_at": "2026-11-22T10:34:51.154080+00:00",
+    "group_message_id": 3266,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:34:51.210656+00:00"
+  },
+  "1352b1325eebe20a612304d452918c165a8c931fd6c379e4c39181028249e096": {
+    "title": "بورس پس از ۳ روز سبز شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4309991-%D8%A8%D9%88%D8%B1%D8%B3-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B1%D9%88%D8%B2-%D8%B3%D8%A8%D8%B2-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      3506
+    ],
+    "eitaa_message_ids": [
+      183294107
+    ],
+    "group_message_ids": [
+      3267
+    ],
+    "content_hash": "48100b027bb88bc44e8ae61cdd2b422f70a9fd8d61710ffb3f9fb9402b72dc22",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:34:53.063711+00:00",
+    "telegram_message_id": 3506,
+    "eitaa_last_sent_at": "2026-11-22T10:34:53.989081+00:00",
+    "eitaa_message_id": 183294107,
+    "group_last_sent_at": "2026-11-22T10:34:55.775159+00:00",
+    "group_message_id": 3267,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:34:55.826154+00:00"
+  },
+  "e50bfe92887819264189a0b106d3e2e68f0eb09559addb95b8b72b93c5f0a20c": {
+    "title": "قیمت طلا و سکه امروز یکشنبه ۱ آذر ۱۴۰۵ / کاهش قیمت طلای ۱۸ عیار و سکه امامی",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309956-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%A7%D9%85%DB%8C",
+    "telegram_message_ids": [
+      3507
+    ],
+    "eitaa_message_ids": [
+      183294121
+    ],
+    "group_message_ids": [
+      3268
+    ],
+    "content_hash": "4fc99360097aed805af1fcda3b18d82c569f557f63d634927ccc9e8850d6ccaf",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:34:57.628774+00:00",
+    "telegram_message_id": 3507,
+    "eitaa_last_sent_at": "2026-11-22T10:34:59.292890+00:00",
+    "eitaa_message_id": 183294121,
+    "group_last_sent_at": "2026-11-22T10:35:01.067043+00:00",
+    "group_message_id": 3268,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:01.117898+00:00"
+  },
+  "7f70683bc241f1e37036117519edc2456840b3e4d43939368241e28025453ef9": {
+    "title": "قیمت طلا ۱۸ عیار امروز یکشنبه ۱ آذر ۱۴۰۵ / کاهش قیمت طلا",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309958-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      3508
+    ],
+    "eitaa_message_ids": [
+      183294141
+    ],
+    "group_message_ids": [
+      3269
+    ],
+    "content_hash": "07941ad3ec3f4d8bb374fc3741f13477ae0b38f3012152ad147e800bb9494e1f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:02.924421+00:00",
+    "telegram_message_id": 3508,
+    "eitaa_last_sent_at": "2026-11-22T10:35:04.479659+00:00",
+    "eitaa_message_id": 183294141,
+    "group_last_sent_at": "2026-11-22T10:35:06.306149+00:00",
+    "group_message_id": 3269,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:06.357879+00:00"
+  },
+  "c17bcb998df2db38482294ad2383e250ea899e8f5d1c2d5da192664a5fe51aa5": {
+    "title": "قیمت طلا امروز یکشنبه ۱ آذر ۱۴۰۵",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309957-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1",
+    "telegram_message_ids": [
+      3509
+    ],
+    "eitaa_message_ids": [
+      183294156
+    ],
+    "group_message_ids": [
+      3270
+    ],
+    "content_hash": "1bccf38e459d1e216b29b965a018df817757e05a53a945483e4e54d0a3805c2a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:08.157122+00:00",
+    "telegram_message_id": 3509,
+    "eitaa_last_sent_at": "2026-11-22T10:35:09.757277+00:00",
+    "eitaa_message_id": 183294156,
+    "group_last_sent_at": "2026-11-22T10:35:11.546027+00:00",
+    "group_message_id": 3270,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:11.603526+00:00"
+  },
+  "deb7e5e7620ae0c38b49f2f5811baa6ce879ee5febf45b1561e7f9a8d576c9f7": {
+    "title": "قیمت دلار، یورو و درهم امروز یکشنبه ۱ آذر ۱۴۰۵ / دلار گران شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309989-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      3510
+    ],
+    "eitaa_message_ids": [
+      183294182
+    ],
+    "group_message_ids": [
+      3271
+    ],
+    "content_hash": "06759638ad7cd004fba519a80c65b43632351e745c5b3f0e3366a9a0fc2e3d9a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:13.419659+00:00",
+    "telegram_message_id": 3510,
+    "eitaa_last_sent_at": "2026-11-22T10:35:14.988914+00:00",
+    "eitaa_message_id": 183294182,
+    "group_last_sent_at": "2026-11-22T10:35:16.820799+00:00",
+    "group_message_id": 3271,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:16.876548+00:00"
+  },
+  "bb1d16648da0ca47a954c535d26f320b0b4b4302704332422e304e0da4a93a6f": {
+    "title": "قیمت سکه ظهر امروز ۱ آذر ۱۴۰۵/ سکه به قیمت ۲۳۸ میلیون و ۱۰۰ هزار تومان فروش رفت + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2305468/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%DB%B2%DB%B3%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B1%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1",
+    "telegram_message_ids": [
+      3511
+    ],
+    "eitaa_message_ids": [
+      183294205
+    ],
+    "group_message_ids": [
+      3272
+    ],
+    "content_hash": "1eb8e5ef207aa03a1c8102e7b57e6056284329e1c49216228cd64ec2cc331eef",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:18.747995+00:00",
+    "telegram_message_id": 3511,
+    "eitaa_last_sent_at": "2026-11-22T10:35:19.695454+00:00",
+    "eitaa_message_id": 183294205,
+    "group_last_sent_at": "2026-11-22T10:35:21.464612+00:00",
+    "group_message_id": 3272,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:21.516289+00:00"
+  },
+  "1b4bb18ae02a77e82874b752402b7f215efad97efa7efad3e016a943e3e963b6": {
+    "title": "قیمت یورو، دلار و انواع ارزها ظهر امروز ۱ آذر ۱۴۰۵/دلار روی قیمت ۲۶۸ هزار و ۹۷۰ تومان ایستاد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2305471/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D9%88%DB%8C",
+    "telegram_message_ids": [
+      3512
+    ],
+    "eitaa_message_ids": [
+      183294219
+    ],
+    "group_message_ids": [
+      3273
+    ],
+    "content_hash": "5e9f83a0370d5a115ff85856b45425210c8cdb3b4c1436d8cebd652210a90386",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:23.339629+00:00",
+    "telegram_message_id": 3512,
+    "eitaa_last_sent_at": "2026-11-22T10:35:24.984758+00:00",
+    "eitaa_message_id": 183294219,
+    "group_last_sent_at": "2026-11-22T10:35:26.899178+00:00",
+    "group_message_id": 3273,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:26.955541+00:00"
+  },
+  "8c982100e62a1eed7e7d0bd786e1cfeb091b51d2c568008709fa245f86fba9f3": {
+    "title": "قیمت طلا ظهر امروز ۱ آذر ۱۴۰۵/ هر گرم طلای ۱۸عیار ۲۳ میلیون و ۱۴۵ هزار تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2305463/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88",
+    "telegram_message_ids": [
+      3513
+    ],
+    "eitaa_message_ids": [
+      183294228
+    ],
+    "group_message_ids": [
+      3274
+    ],
+    "content_hash": "236f554d8d885fc73c13031704b154040b6aefb18e7611f8c3d3db86e691ed19",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:28.818673+00:00",
+    "telegram_message_id": 3513,
+    "eitaa_last_sent_at": "2026-11-22T10:35:29.707945+00:00",
+    "eitaa_message_id": 183294228,
+    "group_last_sent_at": "2026-11-22T10:35:31.493278+00:00",
+    "group_message_id": 3274,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:31.546696+00:00"
+  },
+  "f66a6bd0bd4ca75a5406fef1b900744cbcbed6498cf423b88cbde3fe6cd41a5a": {
+    "title": "۵ دلیل ریزش سنگین قیمت طلا/ طلا ۸ درصد ریزش کرد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2305372/%DB%B5-%D8%AF%D9%84%DB%8C%D9%84-%D8%B1%DB%8C%D8%B2%D8%B4-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B7%D9%84%D8%A7-%DB%B8-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%B1%DB%8C%D8%B2%D8%B4-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      3514
+    ],
+    "eitaa_message_ids": [
+      183294236
+    ],
+    "group_message_ids": [
+      3275
+    ],
+    "content_hash": "8f71abe013084e593ee4ffbe04efbaabc5691ba78983c24cd77a0310687f69ef",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:33.362637+00:00",
+    "telegram_message_id": 3514,
+    "eitaa_last_sent_at": "2026-11-22T10:35:34.914686+00:00",
+    "eitaa_message_id": 183294236,
+    "group_last_sent_at": "2026-11-22T10:35:36.691232+00:00",
+    "group_message_id": 3275,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:36.742002+00:00"
+  },
+  "631a3cc85f62f81ce490ad7d5af743044a0f2c6a6307fd8e6bc8aec965fb0fbc": {
+    "title": "سقوط ۹ تریلیون دلاری بازارهای سهام جهان/ نگرانی از حباب هوش مصنوعی و افزایش نرخ بهره",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2305444/%D8%B3%D9%82%D9%88%D8%B7-%DB%B9-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%B3%D9%87%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%AD%D8%A8%D8%A7%D8%A8-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C",
+    "telegram_message_ids": [
+      3515
+    ],
+    "eitaa_message_ids": [
+      183294246
+    ],
+    "group_message_ids": [
+      3276
+    ],
+    "content_hash": "e9b83f429ca771d93e319bda09118e5d64921ab766b65eda3f1f3e89a2401502",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:38.562203+00:00",
+    "telegram_message_id": 3515,
+    "eitaa_last_sent_at": "2026-11-22T10:35:39.447514+00:00",
+    "eitaa_message_id": 183294246,
+    "group_last_sent_at": "2026-11-22T10:35:41.196639+00:00",
+    "group_message_id": 3276,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:41.253472+00:00"
+  },
+  "c4aa5f7f853de8953730fe0a5e85f89530ac0793a87521dea82807ca5439db5b": {
+    "title": "گزارش بازار بورس امروز یکشنبه ۱ آذر ۱۴۰۵ / شاخص کل ۷۰ هزار واحد رشد کرد",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/live/2305389/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%DB%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%DB%B7%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF",
+    "telegram_message_ids": [
+      3516
+    ],
+    "eitaa_message_ids": [
+      183294252
+    ],
+    "group_message_ids": [
+      3277
+    ],
+    "content_hash": "166c94d6a192a7d307c591997314c8df3db79d43aeac5e0884d3c1798cb68995",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:43.062698+00:00",
+    "telegram_message_id": 3516,
+    "eitaa_last_sent_at": "2026-11-22T10:35:44.607493+00:00",
+    "eitaa_message_id": 183294252,
+    "group_last_sent_at": "2026-11-22T10:35:46.380970+00:00",
+    "group_message_id": 3277,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:46.437474+00:00"
+  },
+  "b506e9a8716597a1aca6c72cdbe1857d3eab0a1ad326bda7c8fe246472fdb147": {
+    "title": "قیمت یورو، دلار و انواع ارزها امروز ۱ آذر ۱۴۰۵ در زمان بازگشایی بازار/ یورو نزدیک به ۸ هزار تومان ارزان شد و ۲۹۵ هزار و ۵۶۰ تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2305300/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
+    "telegram_message_ids": [
+      3517
+    ],
+    "eitaa_message_ids": [
+      183294260
+    ],
+    "group_message_ids": [
+      3278
+    ],
+    "content_hash": "5a5deaf2cf22e6fa7e831b6e92f324aa850c12ff9616a4b6c89339da812f9361",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:48.270184+00:00",
+    "telegram_message_id": 3517,
+    "eitaa_last_sent_at": "2026-11-22T10:35:49.144631+00:00",
+    "eitaa_message_id": 183294260,
+    "group_last_sent_at": "2026-11-22T10:35:50.889865+00:00",
+    "group_message_id": 3278,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:50.947470+00:00"
+  },
+  "d3e34afd09a5212a433a433af51233033ff079614fefea48e639bbff82eedd9a": {
+    "title": "قیمت سکه امروز ۱ آذر ۱۴۰۵ در زمان بازگشایی بازار/ سکه بهار آزادی ۴۰ میلیون تومان ارزان شد و به قیمت ۲۲۸ میلیون تومان رسید + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2305298/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87%D8%A7%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C",
+    "telegram_message_ids": [
+      3518
+    ],
+    "eitaa_message_ids": [
+      183294272
+    ],
+    "group_message_ids": [
+      3279
+    ],
+    "content_hash": "60783baad0401d0eb9875eb3f4b880928eb8fad24a4e4bdba0bb8fe9e1e27d50",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:52.761621+00:00",
+    "telegram_message_id": 3518,
+    "eitaa_last_sent_at": "2026-11-22T10:35:54.305576+00:00",
+    "eitaa_message_id": 183294272,
+    "group_last_sent_at": "2026-11-22T10:35:56.086487+00:00",
+    "group_message_id": 3279,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:35:56.142468+00:00"
+  },
+  "1a85da618f37743839fbd9805945b49dd35e879fa0645301140ed359baaced14": {
+    "title": "قیمت طلا امروز ۱ آذر ۱۴۰۵ در زمان بازگشایی بازار/هر مثقال طلا نزدیک به ۱۷ میلیون تومان ارزان شد و تا قیمت ۱۰۰میلیون و ۲۲۰ هزار تومان ریزش کرد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2305296/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      3519
+    ],
+    "eitaa_message_ids": [
+      183294282
+    ],
+    "group_message_ids": [
+      3280
+    ],
+    "content_hash": "61e1272e2df44a7349840f9d1800f706488cc1c2c56994315920c992907bf942",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:35:57.981316+00:00",
+    "telegram_message_id": 3519,
+    "eitaa_last_sent_at": "2026-11-22T10:35:58.857394+00:00",
+    "eitaa_message_id": 183294282,
+    "group_last_sent_at": "2026-11-22T10:36:00.622600+00:00",
+    "group_message_id": 3280,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:36:00.673332+00:00"
+  },
+  "93b599cffa907df088a0c785ef1f9f3e06b6b051a216d0efb7d4af0c413e5669": {
+    "title": "قیمت طلا و سکه امروز 1 آذر / صعود قیمت ها با حباب خطرناک همراه است!",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/4203530/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-1-%D8%A2%D8%B0%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF-%D9%82%DB%8C%D9%85%D8%AA%D9%87%D8%A7-%D8%A8%D8%A7-%D8%AD%D8%A8%D8%A7%D8%A8-%D8%AE%D8%B7%D8%B1%D9%86%D8%A7%DA%A9-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA-56fb7db149d748a8a110f202",
+    "telegram_message_ids": [
+      3520
+    ],
+    "eitaa_message_ids": [
+      183294301
+    ],
+    "group_message_ids": [
+      3281
+    ],
+    "content_hash": "b144f890aacc209075cec666b1fcb301c51c3aff2fc5657aec7dc0f0e7b2be31",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:36:02.469386+00:00",
+    "telegram_message_id": 3520,
+    "eitaa_last_sent_at": "2026-11-22T10:36:04.034777+00:00",
+    "eitaa_message_id": 183294301,
+    "group_last_sent_at": "2026-11-22T10:36:05.897395+00:00",
+    "group_message_id": 3281,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:36:05.954448+00:00"
+  },
+  "2acaeae4404404a1f627d84c3afcfdda12e553887a5f207802821fb46820b3b6": {
+    "title": "قیمت دلار امروز یکشنبه ۱ آذر ۱۴۰۵؛ نرخ ارز کاهشی شد",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/4203517/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%DB%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%DA%A9%D8%A7%D9%87%D8%B4%DB%8C-%D8%B4%D8%AF-fa4b39a43c6a47c8982b7ec8",
+    "telegram_message_ids": [
+      3521
+    ],
+    "eitaa_message_ids": [
+      183294308
+    ],
+    "group_message_ids": [
+      3282
+    ],
+    "content_hash": "68c2125b396f712f4a0d8f9b989f2a85be0a2a8322bb11c7db2aea85060505df",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:36:07.797848+00:00",
+    "telegram_message_id": 3521,
+    "eitaa_last_sent_at": "2026-11-22T10:36:09.137196+00:00",
+    "eitaa_message_id": 183294308,
+    "group_last_sent_at": "2026-11-22T10:36:12.174125+00:00",
+    "group_message_id": 3282,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:36:12.230435+00:00"
+  },
+  "cecba75b4f86e214c1c7f1c6a33b0e43e6f133e52275c865669eba2c2d435590": {
+    "title": "دلار حواله امروز چند؟",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1854516/%D8%AF%D9%84%D8%A7%D8%B1-%D8%AD%D9%88%D8%A7%D9%84%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%86%D8%AF",
+    "telegram_message_ids": [
+      3522
+    ],
+    "eitaa_message_ids": [
+      183294324
+    ],
+    "group_message_ids": [
+      3283
+    ],
+    "content_hash": "f6f88f68450dba7b91c2ffcc89b6eb3c945dabb6a2f34d904326b318f7f06906",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:36:14.316970+00:00",
+    "telegram_message_id": 3522,
+    "eitaa_last_sent_at": "2026-11-22T10:36:15.167856+00:00",
+    "eitaa_message_id": 183294324,
+    "group_last_sent_at": "2026-11-22T10:36:16.947083+00:00",
+    "group_message_id": 3283,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:36:17.003380+00:00"
+  },
+  "8a91204ee72fac3533ecbd48edcedebefd3a8df1c7c7fc9dfc71200beb11f880": {
+    "title": "نهادهای امنیتی و قضایی با فروش سهام شرکای ارتش آمریکا برخورد قاطع کنند",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1854510/%D9%86%D9%87%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D9%88-%D9%82%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D9%81%D8%B1%D9%88%D8%B4-%D8%B3%D9%87%D8%A7%D9%85-%D8%B4%D8%B1%DA%A9%D8%A7%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      3523
+    ],
+    "eitaa_message_ids": [
+      183294334
+    ],
+    "group_message_ids": [
+      3284
+    ],
+    "content_hash": "1595bed03dcad5ae4452a44a8903e96be9f0ce801cfec34cad490c30b67bda0a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:36:18.865064+00:00",
+    "telegram_message_id": 3523,
+    "eitaa_last_sent_at": "2026-11-22T10:36:19.734778+00:00",
+    "eitaa_message_id": 183294334,
+    "group_last_sent_at": "2026-11-22T10:36:21.490729+00:00",
+    "group_message_id": 3284,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:36:21.547383+00:00"
+  },
+  "57923d876542a57269211b1ec11d1e07040899ad960fbd4935fc0eef8feae3ca": {
+    "title": "چگونه جلوی دلار ۳۰۰ هزار تومانی و تورم ۳۰۰ درصدی گرفته شد؟",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1854508/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%AC%D9%84%D9%88%DB%8C-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B3%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D9%88-%D8%AA%D9%88%D8%B1%D9%85-%DB%B3%DB%B0%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%DA%AF%D8%B1%D9%81%D8%AA%D9%87-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      3524
+    ],
+    "eitaa_message_ids": [
+      183294341
+    ],
+    "group_message_ids": [
+      3285
+    ],
+    "content_hash": "4fe1813dbf4e42dc34ddf8d43ccf23d264eac126d0d017c0896fb85b46a3f107",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-22T10:36:23.381653+00:00",
+    "telegram_message_id": 3524,
+    "eitaa_last_sent_at": "2026-11-22T10:36:24.235835+00:00",
+    "eitaa_message_id": 183294341,
+    "group_last_sent_at": "2026-11-22T10:36:26.055341+00:00",
+    "group_message_id": 3285,
+    "fully_published": true,
+    "last_checked_at": "2026-11-22T10:36:26.113373+00:00"
   }
 }
