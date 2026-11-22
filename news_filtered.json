@@ -322,61 +322,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "افت ۸۷ هزار واحدی شاخص کل بورس در ۲۷ آبان / شاخص هم وزن ۸ هزار واحد کاهش یافت، فرابورس مثبت شد",
-    "link": "https://www.khabaronline.ir/live/2303743/%D8%A7%D9%81%D8%AA-%DB%B8%DB%B7-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%DB%B2%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%87%D9%85-%D9%88%D8%B2%D9%86-%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1",
-    "summary": "شاخص کل بورس تهران تا ساعت ۱۰:۲۵ با افت ۸۷ هزار و ۳۴۰ واحدی به ۸ میلیون و ۴۱۰ هزار واحد رسید؛ شاخص هم وزن نیز ۸ هزار و ۲۲۴ واحد کاهش یافت، اما شاخص کل فرابورس ۱۵۷ هزار و ۶۲۷ واحد رشد کرد.",
-    "published": "Wed, 18 Nov 2026 07:05:24 GMT",
-    "collected_at": "2026-11-18T12:59:47.049786+03:30",
-    "filter_market_score": 41,
-    "market_score": 41,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس",
-        "شاخص کل بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس",
-        "شاخص کل بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس",
-        "شاخص کل بورس"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "فرابورس",
-        "شاخص کل بورس"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "افت",
-      "رشد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "طلا دوباره افزایشی شد؛ اونس طلا ۳. ۷۴۳ دلار قیمت پیدا کرد/ قیمت جدید طلای جهانی امروز ۲۸ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2304177/%D8%B7%D9%84%D8%A7-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4%DB%8C-%D8%B4%D8%AF-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%DB%B3-%DB%B7%DB%B4%DB%B3-%D8%AF%D9%84%D8%A7%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%BE%DB%8C%D8%AF%D8%A7-%DA%A9%D8%B1%D8%AF-%D9%82%DB%8C%D9%85%D8%AA",
     "summary": "قیمت طلا پس از اینکه روز گذشته، به پایین ترین سطح خود در بیش از یک سال گذشته سقوط کرد، در معاملات روز پنج شنبه بازار جهانی، تحت تاثیر چشم انداز نرخ بهره آمریکا، افزایش یافت. قیمت هر اونس طلا برای تحویل فوری، با ۰.۶ درصد افزایش، به ۳۷۴۳ دلار و ۲۶ سنت رسید.",
@@ -869,64 +814,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "طلا باز هم ریزش کرد؛ قیمت اونس طلا در معاملات آتی ۳.۸۸۹ دلار شد/ قیمت جدید طلای جهانی امروز ۲۷ آبان ۱۴۰۵",
-    "link": "https://www.khabaronline.ir/news/2303686/%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D8%B1%DB%8C%D8%B2%D8%B4-%DA%A9%D8%B1%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D8%AA%DB%8C-%DB%B3-%DB%B8%DB%B8%DB%B9-%D8%AF%D9%84%D8%A7%D8%B1",
-    "summary": "طلا باز هم ریزش کرد و قیمت اونس طلا در معاملات آتی ۳.۸۸۹ دلار شد.",
-    "published": "Wed, 18 Nov 2026 06:15:04 GMT",
-    "collected_at": "2026-11-18T12:59:47.049808+03:30",
-    "filter_market_score": 34,
-    "market_score": 34,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا",
-        "طلای جهانی"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "ریزش",
-      "قیمت",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۱ آذر ۱۴۰۵ در زمان بازگشایی بازار/هر مثقال طلا نزدیک به ۱۷ میلیون تومان ارزان شد و تا قیمت ۱۰۰میلیون و ۲۲۰ هزار تومان ریزش کرد + جدول",
     "link": "https://www.khabaronline.ir/news/2305296/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
     "summary": "قیمت طلا در بازار تهران اول آذر ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۳ میلیون و ۱۳۵ هزار تومان قیمت خورد. هر مثقال طلا هم با کاهش نزدیک به ۱۷ میلیون تومانی در طول یک ماه گذشته، تا قیمت ۱۰۰ میلیون و ۲۲۰ هزار تومان ریزش کرد.",
@@ -1222,62 +1109,6 @@
       "قیمت",
       "رشد",
       "افت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "قیمت دلار امروز چهارشنبه ۲۷ آبان ۱۴۰۵؛ کاهش تقاضای هیجانی در بازار",
-    "link": "https://tabnak.ir/fa/news/4202714/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%DB%B2%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7%DB%8C-%D9%87%DB%8C%D8%AC%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-7a8b8bec4faa4148a37d9a53",
-    "summary": "بازار ارز امروز در حالی با کاهش محدود قیمت دلار در بازار آزاد همراه شده که نرخ حواله دلار، یورو و درهم در مرکز مبادله افزایش یافته است.",
-    "published": "Wed, 18 Nov 2026 09:02:07 +0000",
-    "collected_at": "2026-11-18T12:59:53.615159+03:30",
-    "filter_market_score": 30,
-    "market_score": 30,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "بازار ارز",
-        "یورو",
-        "درهم",
-        "مرکز مبادله"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "بازار ارز",
-        "یورو",
-        "درهم",
-        "مرکز مبادله"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "بازار ارز",
-        "یورو",
-        "درهم",
-        "مرکز مبادله"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "تقاضا",
-      "افزایش",
-      "نرخ"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -1866,53 +1697,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت یورو، دلار و انواع ارزها امروز ۲۷ آبان ۱۴۰۵ در زمان بازگشایی بازار/ یورو به قیمت ۲۹۴ هزار و ۴۴۰ تومان فروخته شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2303665/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C",
-    "summary": "قیمت دلار، یورو و سایر ارزها ۲۷ آبان ۱۴۰۵ اعلام شد. بر این اساس بهای هر دلار ۲۶۶ هزار و ۹۰۰ تومان قیمت خورد و یورو نیز به قیمت ۲۹۴ هزار و ۴۴۰ تومان فروخته شد.",
-    "published": "Wed, 18 Nov 2026 04:45:00 GMT",
-    "collected_at": "2026-11-18T12:59:47.049856+03:30",
-    "filter_market_score": 27,
-    "market_score": 27,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "بازگشایی",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت یورو، دلار و انواع ارزها ظهر امروز ۱ آذر ۱۴۰۵/دلار روی قیمت ۲۶۸ هزار و ۹۷۰ تومان ایستاد + جدول",
     "link": "https://www.khabaronline.ir/news/2305471/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D9%88%DB%8C",
     "summary": "قیمت یورو، دلار و سایر ارزها اول آذر ۱۴۰۵ اعلام شد. بر این اساس بهای هر دلار ۲۶۸ هزار و ۹۷۰ تومان قیمت خورد. یورو نیز به قیمت ۲۹۵ هزار تومان فروخته شد.",
@@ -2291,52 +2075,6 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۲۷ آبان ۱۴۰۵/ دلار روی قیمت ۲۶۶ هزار و ۹۹۰ تومان ایستاد + جدول",
-    "link": "https://www.khabaronline.ir/news/2303786/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D9%88%DB%8C",
-    "summary": "قیمت دلار، یورو و سایر ارزها ۲۷ آبان ۱۴۰۵ اعلام شد. بر این اساس بهای هر دلار ۲۶۶ هزار و ۹۹۰ تومان قیمت خورد و یورو نیز به قیمت ۲۹۳ هزار و ۲۵۰ تومان فروخته شد.",
-    "published": "Wed, 18 Nov 2026 08:40:00 GMT",
-    "collected_at": "2026-11-18T12:59:47.049766+03:30",
-    "filter_market_score": 26,
-    "market_score": 26,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "بازگشت تقاضا به بورس تهران/ شاخص کل بیش از ۶۴ هزار واحد رشد کرد",
     "link": "https://www.isna.ir/news/1405090100440/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7-%D8%A8%D9%87-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B6%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF",
@@ -2380,6 +2118,55 @@
       "صعود",
       "معاملات",
       "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "می گفتند تورم ۳۰۰ درصد و دلار ۳۰۰ هزار تومان می شود، اما نشد/ ماجد: استفاده از ابزارهای سیاست گذاری پولی اجازه نداد تورم های ۳ و ۴ رقمی را تجربه کنیم",
+    "link": "https://www.khabaronline.ir/news/2305562/%D9%85%DB%8C-%DA%AF%D9%81%D8%AA%D9%86%D8%AF-%D8%AA%D9%88%D8%B1%D9%85-%DB%B3%DB%B0%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B3%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D8%A7%D9%85%D8%A7-%D9%86%D8%B4%D8%AF",
+    "summary": "وحید ماجد، معاون بانک مرکزی با اشاره به برخی پیش بینی های مطرح شده درباره آینده اقتصاد ایران گفت: مدتی پیش گفته می شد اقتصاد کشور ظرف دو هفته از بین خواهد رفت، نرخ ارز به ۳۰۰ هزار تومان خواهد رسید، تورم به ۳۰۰ درصد افزایش پیدا خواهد کرد و اقتصاد ایران وارد شرایط ابرتورمی خواهد شد. این پیش بینی ها در عمل محقق نشد و آنچه مانع ورود اقتصاد به چنین شرایطی شد، توان سیاست گذار پولی و استفاده از ابزارهای سیاست گذاری پولی بود. همین اقدامات اجازه نداد اقتصاد ایران تورم های سه رقمی و چهاررقمی را که حتی برخی تحلیلگران داخلی نیز درباره آن هشدار داده بودند، تجربه کند.",
+    "published": "Sun, 22 Nov 2026 16:00:00 GMT",
+    "collected_at": "2026-11-22T21:33:06.191290+03:30",
+    "filter_market_score": 23,
+    "market_score": 23,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "نرخ ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز",
+        "نرخ ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "نرخ ارز"
+      ]
+    },
+    "driver_matches": [
+      "بانک مرکزی",
+      "تورم"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "پیش‌بینی",
+      "پیش بینی",
+      "نرخ",
+      "داده"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -2672,54 +2459,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "قیمت سکه، نیم سکه و ربع سکه امروز چهارشنبه ۲۷ آبان ۱۴۰۵ / کاهش قیمت سکه",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309207-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%B1%D8%A8%D8%B9-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87",
-    "summary": "طبق اعلام سایت اتحادیه طلا و جواهر قیمت سکه امامی امروز با کاهش، در نرخ 250 میلیون و 500 هزار تومان در معامله بود.",
-    "published": "Wed, 18 Nov 2026 07:55:41 +0000",
-    "collected_at": "2026-11-18T12:59:38.531351+03:30",
-    "filter_market_score": 23,
-    "market_score": 23,
-    "market_matches": {
-      "gold": [
-        "نیم سکه",
-        "ربع سکه",
-        "طلا",
-        "سکه امامی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "نیم سکه",
-        "ربع سکه"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه امامی"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه امامی",
-        "نیم سکه",
-        "ربع سکه"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "نرخ",
-      "معامله"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "قیمت دلار، یورو و درهم امروز یکشنبه ۱ آذر ۱۴۰۵ / دلار گران شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309989-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1-%D8%AF%D9%84%D8%A7%D8%B1-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
     "summary": "قیمت دلار حواله ای امروز، با افزایش نسبت به روز گذشته از 194,020 (یکصد و نود و چهار هزار و بیست) به 194,408 (یکصد و نود و چهار هزار و چهارصد و هشت) تومان رسید.",
@@ -2807,50 +2546,90 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "پیش بینی قیمت طلا، سکه و دلار امروز چهارشنبه ۲۷ آبان ۱۴۰۵",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309193-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86",
-    "summary": "به اعتقاد تحلیلگران، دلار در معاملات روز چهارشنبه بیش از هر چیز تحت تأثیر اخبار سیاسی و تحولات نظامی منطقه قرار خواهد داشت.",
-    "published": "Wed, 18 Nov 2026 06:17:31 +0000",
-    "collected_at": "2026-11-18T12:59:38.531501+03:30",
-    "filter_market_score": 22,
-    "market_score": 22,
+    "source": "خبرآنلاین اقتصادی",
+    "title": "تغییرات مهم کالابرگ از سال آینده:مابه التفاوت نرخ ارز ۲۸ هزار و ۲۲۰ هزار تومانی به کالابرگ اختصاص یابد/اعتبار کالابرگ دربودجه سال آینده افزایش می یابد",
+    "link": "https://www.khabaronline.ir/news/2305676/%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%D8%A7%D8%AA-%D9%85%D9%87%D9%85-%DA%A9%D8%A7%D9%84%D8%A7%D8%A8%D8%B1%DA%AF-%D8%A7%D8%B2-%D8%B3%D8%A7%D9%84-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%85%D8%A7%D8%A8%D9%87-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%DB%B2%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1",
+    "summary": "رئیس کمیسیون برنامه، بودجه و محاسبات مجلس پیشنهاد کرد مابه التفاوت نرخ ارز در بودجه سال آینده برای افزایش اعتبار کالابرگ اختصاص یابد.",
+    "published": "Sun, 22 Nov 2026 16:37:26 GMT",
+    "collected_at": "2026-11-22T21:33:06.191269+03:30",
+    "filter_market_score": 21,
+    "market_score": 21,
     "market_matches": {
-      "gold": [
-        "طلا"
-      ],
       "currency": [
-        "دلار"
+        "ارز",
+        "نرخ ارز"
       ]
     },
     "title_market_matches": {
-      "gold": [
-        "طلا"
-      ],
       "currency": [
-        "دلار"
+        "ارز",
+        "نرخ ارز"
       ]
     },
     "summary_market_matches": {
       "currency": [
-        "دلار"
+        "ارز",
+        "نرخ ارز"
       ]
     },
     "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ],
       "currency": [
-        "دلار"
+        "ارز",
+        "نرخ ارز"
+      ]
+    },
+    "driver_matches": [
+      "بودجه"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "بازگشت پول حقیقی پس از ۴ روز خروج؛ بازیگران فعال بازار سهام ۳ برابر شدند +فیلم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310061-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B1%D9%88%D8%B2-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A8%D8%A7%D8%B2%DB%8C%DA%AF%D8%B1%D8%A7%D9%86-%D9%81%D8%B9%D8%A7%D9%84-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%B4%D8%AF%D9%86%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+    "summary": "بورس تهران در اول آذر با رشد شاخص ها و ورود ۴.۸ همت پول حقیقی پس از ۴ روز خروج مواجه شد. بررسی روند بازار از اسفند تا آبان نیز از رشد بیش از سه برابری سهام داران فعال حکایت دارد؛ هرچند در دو هفته پایانی آبان، جریان پول معکوس و تعداد سهام داران فعال کاهشی شد.",
+    "published": "Sun, 22 Nov 2026 15:38:34 +0000",
+    "collected_at": "2026-11-22T21:32:53.876712+03:30",
+    "filter_market_score": 21,
+    "market_score": 21,
+    "market_matches": {
+      "stock": [
+        "سهام",
+        "بازار سهام",
+        "بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "سهام",
+        "بازار سهام"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "پیش‌بینی",
-      "پیش بینی",
-      "قیمت",
-      "معاملات"
+      "کاهش",
+      "رشد",
+      "روند"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3276,49 +3055,44 @@
     "filter_applied": true
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "قیمت طلا امروز چهارشنبه ۲۷ آبان ۱۴۰۵ / کاهش قیمت طلا",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309181-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DA%86%D9%87%D8%A7%D8%B1%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
-    "summary": "قیمت طلا امروز با کاهش 90 دلاری نسبت به روز گذشته، 3772 (سه هزار و هفتصد و هفتاد و دو) دلار نرخ گذاری شد.",
-    "published": "Wed, 18 Nov 2026 07:51:03 +0000",
-    "collected_at": "2026-11-18T12:59:38.531379+03:30",
-    "filter_market_score": 19,
-    "market_score": 19,
+    "source": "خبرآنلاین اقتصادی",
+    "title": "نفت طی روزهای آینده در بورس عرضه می شود/امکان افزایش تولید نفت وجود دارد/ مشکل صادرات باید برطرف شود",
+    "link": "https://www.khabaronline.ir/news/2305646/%D9%86%D9%81%D8%AA-%D8%B7%DB%8C-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B9%D8%B1%D8%B6%D9%87-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D8%A7%D9%85%DA%A9%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%86%D9%81%D8%AA",
+    "summary": "سرپرست وزارت نفت گفت: تدابیر لازم برای فروش نفت در بورس اتخاذ شده است و در روزهای آینده از ظرفیت بورس برای فروش نفت استفاده خواهیم کرد.",
+    "published": "Sun, 22 Nov 2026 13:39:47 GMT",
+    "collected_at": "2026-11-22T21:33:06.191349+03:30",
+    "filter_market_score": 18,
+    "market_score": 18,
     "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
+      "stock": [
+        "بورس"
       ]
     },
     "title_market_matches": {
-      "gold": [
-        "طلا"
+      "stock": [
+        "بورس"
       ]
     },
     "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
+      "stock": [
+        "بورس"
       ]
     },
     "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
+      "stock": [
+        "بورس"
       ]
     },
-    "driver_matches": [],
+    "driver_matches": [
+      "نفت",
+      "صادرات"
+    ],
     "major_event_matches": [],
     "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "نرخ"
+      "افزایش",
+      "عرضه",
+      "تولید",
+      "صادرات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3622,48 +3396,6 @@
       "قیمت",
       "افزایش",
       "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "واگرایی شاخص های بورسی",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4309195-%D9%88%D8%A7%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D9%87%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3%DB%8C",
-    "summary": "دنیای اقتصاد: بورس تهران معاملات امروز را با افت شاخص ها آغاز کرد، اما در ادامه با حضور خریداران در محدوده های منفی، بخشی از فشار فروش اولیه کاهش یافت. شاخص کل که در ابتدای معاملات با افت ۱.۳ درصدی همراه شده بود، اکنون به کاهش یک درصدی رضایت داد و در محدوده ۸ میلیون و ۴۱۰ هزار واحد قرار گرفته است.",
-    "published": "Wed, 18 Nov 2026 06:22:22 +0000",
-    "collected_at": "2026-11-18T12:59:38.531493+03:30",
-    "filter_market_score": 16,
-    "market_score": 16,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "افت",
-      "معاملات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3995,46 +3727,6 @@
     "filter_applied": true
   },
   {
-    "source": "مهر",
-    "title": "صادقی: رفع موانع تعهدات ارزی اولویت توسعه صادرات است",
-    "link": "https://www.mehrnews.com/news/7015320/%D8%B5%D8%A7%D8%AF%D9%82%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D9%88%D8%A7%D9%86%D8%B9-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%D9%88%D9%84%D9%88%DB%8C%D8%AA-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA",
-    "summary": "زنجان- استاندار زنجان گفت: ارتقای کیفیت و ارزش افزوده محصولات، تنوع بخشی به بازارهای هدف، تقویت همکاری میان بنگاه های اقتصادی و رفع مشکلات تعهدات ارزی در اولویت برنامه های اقتصادی قرار گیرد.",
-    "published": "Wed, 18 Nov 2026 09:17:22 GMT",
-    "collected_at": "2026-11-18T12:59:29.984298+03:30",
-    "filter_market_score": 14,
-    "market_score": 14,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "صادرات",
-      "هدف"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "مشرق",
     "title": "چگونه جلوی دلار ۳۰۰ هزار تومانی و تورم ۳۰۰ درصدی گرفته شد؟",
     "link": "https://www.mashreghnews.ir/news/1854508/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%AC%D9%84%D9%88%DB%8C-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B3%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D9%88-%D8%AA%D9%88%D8%B1%D9%85-%DB%B3%DB%B0%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%DA%AF%D8%B1%D9%81%D8%AA%D9%87-%D8%B4%D8%AF",
@@ -4160,45 +3852,6 @@
     "summary": "قیمت سکه در بازار تهران ۲۷ آبان ۱۴۰۵ اعلام شد و سکه به قیمت ۲۵۰ میلیون و ۷۰۰ هزار تومان رسید و سکه بهار آزادی با نرخ ۲۴۰ میلیون و ۸۰۰ هزار تومان به فروش رفت.",
     "published": "Wed, 18 Nov 2026 19:45:00 GMT",
     "collected_at": "2026-11-19T04:10:22.323691+03:30",
-    "filter_market_score": 13,
-    "market_score": 13,
-    "market_matches": {
-      "gold": [
-        "سکه بهار آزادی"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "سکه بهار آزادی"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "سکه بهار آزادی"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "سکه بهار آزادی"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "نرخ",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه ظهر امروز ۲۷ آبان ۱۴۰۵/ سکه بهار آزادی ۲۴۱ میلیون و ۶۰۰ هزار تومان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2303783/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B7-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87%D8%A7%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%DB%B2%DB%B4%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88",
-    "summary": "قیمت سکه در بازار تهران ۲۷ آبان ۱۴۰۵ اعلام شد و سکه به قیمت ۲۵۰ میلیون و ۳۰۰ هزار تومان رسید و سکه بهار آزادی با نرخ ۲۴۱ میلیون و ۶۰۰ هزار تومان به فروش رفت.",
-    "published": "Wed, 18 Nov 2026 09:00:00 GMT",
-    "collected_at": "2026-11-18T12:59:47.049755+03:30",
     "filter_market_score": 13,
     "market_score": 13,
     "market_matches": {
@@ -4614,6 +4267,79 @@
     "filter_applied": true
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "از بانک محوری به تأمین مالی متوازن/ ضرورت بازتعریف نقش بازار پول و سرمایه",
+    "link": "https://www.khabaronline.ir/news/2305506/%D8%A7%D8%B2-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%AD%D9%88%D8%B1%DB%8C-%D8%A8%D9%87-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D9%85%D8%A7%D9%84%DB%8C-%D9%85%D8%AA%D9%88%D8%A7%D8%B2%D9%86-%D8%B6%D8%B1%D9%88%D8%B1%D8%AA-%D8%A8%D8%A7%D8%B2%D8%AA%D8%B9%D8%B1%DB%8C%D9%81-%D9%86%D9%82%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1",
+    "summary": "دومین همایش سالانه بازار سرمایه از این جهت اهمیت داشت که در آن، مسئولان ارشد اقتصادی کشور از زوایای مختلف به جایگاه بازار سرمایه در تأمین مالی اقتصاد و ضرورت حمایت از توسعه آن پرداختند. سخنان رئیس جمهور، وزیر امور اقتصادی و دارایی، رئیس کل بانک مرکزی و رئیس سازمان بورس و اوراق بهادار نشان داد که اهمیت بازار سرمایه و نقش آن در عبور اقتصاد ایران از محدودیت های موجود، به موضوعی جدی در سطح سیاست گذاری اقتصادی تبدیل شده است.",
+    "published": "Sun, 22 Nov 2026 12:31:00 GMT",
+    "collected_at": "2026-11-22T21:33:06.191365+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه"
+      ]
+    },
+    "full_text_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه"
+      ]
+    },
+    "driver_matches": [
+      "بانک مرکزی"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "حمایت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "چه کسی به صنعت تلفن همراه سلیقه ای ارز تخصیص می دهد؟ چه کسی پاسخگوست؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4310058-%DA%86%D9%87-%DA%A9%D8%B3%DB%8C-%D8%A8%D9%87-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AA%D9%84%D9%81%D9%86-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B3%D9%84%DB%8C%D9%82%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF-%DA%86%D9%87-%DA%A9%D8%B3%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88%D8%B3%D8%AA",
+    "summary": "رئیس انجمن تلفن همراه، تبلت و لوازم جانبی ایران: تخصیص غیرشفاف ارز، ایجاد رانت و نوعی خودتحریمی علیه فعالان اقتصادی کشور است.",
+    "published": "Sun, 22 Nov 2026 15:39:00 +0000",
+    "collected_at": "2026-11-22T21:32:53.876698+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "مشرق",
     "title": "نهادهای امنیتی و قضایی با فروش سهام شرکای ارتش آمریکا برخورد قاطع کنند",
     "link": "https://www.mashreghnews.ir/news/1854510/%D9%86%D9%87%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D9%88-%D9%82%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D9%81%D8%B1%D9%88%D8%B4-%D8%B3%D9%87%D8%A7%D9%85-%D8%B4%D8%B1%DA%A9%D8%A7%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF",
@@ -4935,44 +4661,6 @@
     "filter_applied": true
   },
   {
-    "source": "ایسنا",
-    "title": "معاون وزارت صمت: بیش از ۸۵ درصد واحدهای صنعتی کشور فعالند",
-    "link": "https://www.isna.ir/news/1405082718949/%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B8%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%88%D8%A7%D8%AD%D8%AF%D9%87%D8%A7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D9%81%D8%B9%D8%A7%D9%84-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
-    "summary": "معاون صنایع عمومی وزارت صنعت، معدن و تجارت با تشریح برنامه های این وزارتخانه برای حمایت از تولیدکنندگان و صادرکنندگان، گفت: تسهیل استفاده از ارز حاصل از صادرات، اصلاح اولویت های ارزی و حمایت از تأمین نهاده های تولید، از جمله اقدامات وزارت صمت برای تقویت توان صادراتی و افزایش تاب آوری بنگاه های اقتصادی است.",
-    "published": "Wed, 18 Nov 2026 09:09:02 GMT",
-    "collected_at": "2026-11-18T12:59:22.098749+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "حمایت",
-      "تولید",
-      "صادرات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "سهمیه بندی نان، خروجی وابستگی به واردات گندم و محاصره است / ولخرجی های بودجه ای باید به پایان برسد",
     "link": "https://www.khabaronline.ir/news/2303994/%D8%B3%D9%87%D9%85%DB%8C%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D9%86%D8%A7%D9%86-%D8%AE%D8%B1%D9%88%D8%AC%DB%8C-%D9%88%D8%A7%D8%A8%D8%B3%D8%AA%DA%AF%DB%8C-%D8%A8%D9%87-%D9%88%D8%A7%D8%B1%D8%AF%D8%A7%D8%AA-%DA%AF%D9%86%D8%AF%D9%85-%D9%88-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA-%D9%88%D9%84%D8%AE%D8%B1%D8%AC%DB%8C-%D9%87%D8%A7%DB%8C",
@@ -5078,6 +4766,40 @@
     ],
     "signal_matches": [
       "توافق"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "مسکن دلار را شکست داد؛ چرا بازار مسکن تهران با واقعیت فاصله دارد؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310098-%D9%85%D8%B3%DA%A9%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF-%DA%86%D8%B1%D8%A7-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B3%DA%A9%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
+    "summary": "در حال حاضر سطح قیمت فروشنده ها برای آپارتمان ۸۰ مترمربعی، متوسط ۲۲ میلیارد تومان برآورد است؛ با این وجود، «قیمت قطعی» معاملات مسکن در ماه گذشته، با اختلاف چشمگیر، پایین تر از این رقم قرار گرفت.",
+    "published": "Sun, 22 Nov 2026 16:49:19 +0000",
+    "collected_at": "2026-11-22T21:32:53.876592+03:30",
+    "filter_market_score": 8,
+    "market_score": 8,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "معاملات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -5665,34 +5387,33 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "آغاز به کار سامانه معاملاتی اختصاصی لقمان",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%88%D8%A8-%DA%AF%D8%B1%D8%AF%DB%8C-96/4309214-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D9%84%D9%82%D9%85%D8%A7%D9%86",
-    "summary": "گروه سرمایه گذاری لقمان در نخستین روز حضور خود در نمایشگاه نظام مالی، سرمایه گذاری و زیرساخت های دیجیتال (بورس، بانک و بیمه)، به عنوان بزرگ ترین گردهمایی فعالان حوزه های بورس، بانک، بیمه و فین تک که با هدف ایجاد بستری برای تعامل، هم افزایی و توسعه پایدار بازارهای مالی کشور برگزار می شود؛ حضور صیدی رییس سازمان بورس، مهدی جهانگیری رئیس گروه مالی گردشگری و افسانه اروجی مدیرعامل سرمایه گذاری لقمان، بهاالدین حسینی هاشمی عضو هیات مدیره گروه مالی گردشگری، محمدرضا قنبری مدیرعامل کارگزاری لقمان از سامانه معاملاتی اختصاصی خود رونمایی کرد.",
-    "published": "Wed, 18 Nov 2026 09:00:00 +0000",
-    "collected_at": "2026-11-18T12:59:38.531276+03:30",
-    "filter_market_score": 6,
-    "market_score": 6,
+    "title": "خصوصی سازی سایپا چه نفعی برای مردم خواهد داشت؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4310045-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B3%D8%A7%DB%8C%D9%BE%D8%A7-%DA%86%D9%87-%D9%86%D9%81%D8%B9%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%AF%D8%A7%D8%B4%D8%AA",
+    "summary": "دنیای اقتصاد: خصوصی سازی شرکت خودروسازی سایپا می تواند به نفع مردم تمام شود؟ دولت تصمیم گرفته سهام شرکت خودروسازی سایپا را واگذار کند، اما آیا این اتفاق خوبی است؟",
+    "published": "Sun, 22 Nov 2026 14:30:50 +0000",
+    "collected_at": "2026-11-22T21:32:53.876775+03:30",
+    "filter_market_score": 5,
+    "market_score": 5,
     "market_matches": {
       "stock": [
-        "بورس"
+        "سهام"
       ]
     },
     "title_market_matches": {},
     "summary_market_matches": {
       "stock": [
-        "بورس"
+        "سهام"
       ]
     },
     "full_text_market_matches": {
       "stock": [
-        "بورس"
+        "سهام"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "معاملات",
-      "هدف"
+      "تصمیم"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
