@@ -193,6 +193,95 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "پیش بینی بازار سهام در آذر ۱۴۰۵ / بورس در مسیر فتح قله ۱۰ میلیون واحدی / ورود ۶ همت پول حقیقی؛ پتروشیمی ها، سرب و روی و بانک ها در فهرست صنایع جذاب",
+    "link": "https://www.khabaronline.ir/news/2306467/%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%AF%D8%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D9%81%D8%AA%D8%AD-%D9%82%D9%84%D9%87-%DB%B1%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "summary": "بهناز اکبرپور، کارشناس بازار سرمایه، با اشاره به ورود ۶ همت پول حقیقی و ثبت ارزش ۴۵ همتی معاملات خرد در بورس، معتقد است تداوم ورود نقدینگی، گزارش های مناسب شرکت ها و رشد نرخ ارز می تواند مسیر صعود بازار سهام را تقویت کند؛ هرچند متغیرهای سیاسی و بودجه ای همچنان از عوامل اثرگذار بر معاملات آذرماه خواهند بود.",
+    "published": "Tue, 24 Nov 2026 19:01:00 GMT",
+    "collected_at": "2026-11-25T00:58:31.829390+03:30",
+    "filter_market_score": 45,
+    "market_score": 46,
+    "market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ],
+      "stock": [
+        "بورس",
+        "سهام",
+        "بازار سهام",
+        "بازار سرمایه"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ],
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نقدینگی",
+      "بودجه"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "پیش‌بینی",
+      "پیش بینی",
+      "رشد",
+      "صعود",
+      "نرخ",
+      "معاملات",
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [
+      "بورس",
+      "سهام",
+      "بازار سهام",
+      "بازار سرمایه"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "نقدینگی",
+      "بودجه"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا باز هم ریخت؛ اونس طلا ۳۵۱۵ دلار شد/ قیمت جدید طلای جهانی امروز ۳۰ آبان ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2304867/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D8%B1%DB%8C%D8%AE%D8%AA-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%DB%B3%DB%B5%DB%B1%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B7%D9%84%D8%A7%DB%8C",
     "summary": "روند نزولی طلا در معاملات روز جمعه بازار جهانی ادامه یافت و تحت تاثیر فشارهای ناشی از نرخ بهره بالاتر در آمریکا و ریزش گسترده سهام مرتبط با هوش مصنوعی، به پایین ترین سطح خود در ۱۴ ماه گذشته رسید و بدترین عملکرد هفتگی خود را در هشت ماه گذشته ثبت کرد. به این ترتیب قیمت هر اونس طلا در بازار معاملات آتی آمریکا برای تحویل در دسامبر با ۴.۶ درصد کاهش، در ۳۵۱۵ دلار و ۴۰ سنت بسته شد.",
@@ -274,6 +363,99 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "بورس و دلار در قله",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4310560-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%82%D9%84%D9%87",
+    "summary": "روز گذشته، همزمان با ورود دلار به کانال ۲۸۰هزار تومان، بورس تهران نیز رکورد جدیدی را ثبت کرد. شاخص کل بورس با رشد 2.4درصدی به قله تاریخی رسید و حدود ۷همت پول وارد بازار سهام شد. در بازار ارز، تداوم نااطمینانی های اقتصادی و سیاسی، ابهام در جریان درآمدهای ارزی، تشدید محدودیت ها و تحریم ها و نگرانی از کاهش دسترسی به منابع ارزی، انتظارات افزایشی را تقویت کرده است. تداوم رشد نرخ ارز نیز از طریق افزایش ارزش ریالی درآمدها و دارایی های ارزی شرکت ها، بر انتظارات سرمایه گذاران و تقاضا برای سهام اثر گذاشته است.",
+    "published": "Tue, 24 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-25T00:58:24.095699+03:30",
+    "filter_market_score": 45,
+    "market_score": 44,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "بازار ارز",
+        "نرخ ارز",
+        "ارز"
+      ],
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "بورس"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "بازار ارز",
+        "نرخ ارز",
+        "ارز"
+      ],
+      "stock": [
+        "بورس",
+        "شاخص کل",
+        "سهام",
+        "بازار سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تحریم"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "کاهش",
+      "رشد",
+      "رکورد",
+      "نرخ",
+      "تقاضا"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "بازار ارز",
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [
+      "بورس",
+      "شاخص کل",
+      "سهام",
+      "بازار سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "تحریم"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
@@ -688,6 +870,92 @@
       "نرخ دلار",
       "بازار ارز",
       "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "رکورد جدید قیمت دلار",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4310558-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1",
+    "summary": "روز سه شنبه، بازار ارز سومین روز پرنوسان خود در آذرماه را پشت سر گذاشت. در این روز، نرخ نقدی دلار با افزایش ۱۱هزار و ۸۰۰تومانی، معادل 4.3درصد، به ۲۸۴هزار و ۳۰۰تومان رسید و تتر نیز برای نخستین بار وارد کانال ۲۹۰هزار تومان شد. همزمان، قیمت قطعات سکه و طلای ۱۸عیار نیز با رشد بیش از ۵درصدی همراه شدند. به نظر می رسد در شرایط تداوم ابهامات سیاسی و اقتصادی، همراه با عوامل بنیادین، تقاضای احتیاطی، جابه جایی احتمالی تقاضای سرمایه ای و افزایش نیازهای فصلی ارز، به تقویت روند افزایشی بازار کمک کرده است.",
+    "published": "Tue, 24 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-25T00:58:24.095548+03:30",
+    "filter_market_score": 35,
+    "market_score": 38,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ],
+      "currency": [
+        "دلار",
+        "بازار ارز",
+        "ارز",
+        "تتر"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "سکه",
+        "طلای ۱۸ عیار",
+        "طلای 18 عیار"
+      ],
+      "currency": [
+        "دلار",
+        "بازار ارز",
+        "ارز",
+        "تتر"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رکورد",
+      "قیمت",
+      "افزایش",
+      "رشد",
+      "نرخ",
+      "تقاضا",
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "سکه",
+      "طلای ۱۸ عیار",
+      "طلای 18 عیار"
+    ],
+    "currency_matches": [
+      "دلار",
+      "بازار ارز",
+      "ارز",
+      "تتر"
     ],
     "stock_matches": [],
     "high_impact_matches": [],
@@ -1213,6 +1481,87 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "سقوط هم زمان سهام، طلا و نقره؛ بازارها در محاصره نرخ بهره و تردید به بازده هوش مصنوعی",
+    "link": "https://www.khabaronline.ir/news/2306492/%D8%B3%D9%82%D9%88%D8%B7-%D9%87%D9%85-%D8%B2%D9%85%D8%A7%D9%86-%D8%B3%D9%87%D8%A7%D9%85-%D8%B7%D9%84%D8%A7-%D9%88-%D9%86%D9%82%D8%B1%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%AF%D8%B1-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D9%86%D8%B1%D8%AE-%D8%A8%D9%87%D8%B1%D9%87-%D9%88-%D8%AA%D8%B1%D8%AF%DB%8C%D8%AF",
+    "summary": "افت ۸.۸۶ درصدی اونس طلا در هفته منتهی به ۲۰ نوامبر، قیمت این فلز را به محدوده ۳۵۰۰ دلار و پایین ترین سطح ۱۴ ماه اخیر رسانده است. قرار گرفتن شاخص RSI در محدوده اشباع فروش، احتمال بازگشت کوتاه مدت را تقویت می کند؛ با این حال، تسلط فروشندگان و فاصله قیمت از میانگین های متحرک نشان می دهد هنوز نمی توان از تشکیل کف قطعی سخن گفت.",
+    "published": "Tue, 24 Nov 2026 11:59:10 GMT",
+    "collected_at": "2026-11-25T00:58:31.829525+03:30",
+    "filter_market_score": 30,
+    "market_score": 36,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نرخ بهره"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "سقوط",
+      "نرخ",
+      "افت",
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا",
+      "اونس طلا"
+    ],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [
+      "سهام"
+    ],
+    "high_impact_matches": [
+      "نرخ بهره"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 3,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
@@ -2624,6 +2973,68 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت دلار، یورو و انواع ارزها امروز ۳ آذر ۱۴۰۵ در زمان بسته شدن بازار/ دلار به قیمت ۲۸۳ هزار و ۸۹۰ تومان رسید + جدول",
+    "link": "https://www.khabaronline.ir/news/2306623/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86",
+    "summary": "قیمت دلار، یورو و سایر ارزها ۳ آذر ۱۴۰۵ اعلام شد. بر این اساس بهای هر دلار ۲۸۳ هزار و ۸۹۰ تومان قیمت خورد. یورو نیز به قیمت ۳۱۱ هزار و ۶۸۰ تومان فروخته شد.",
+    "published": "Tue, 24 Nov 2026 19:31:00 GMT",
+    "collected_at": "2026-11-25T00:58:31.829367+03:30",
+    "filter_market_score": 26,
+    "market_score": 30,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز",
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز",
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت یورو، دلار و انواع ارزها ظهر امروز ۱ آذر ۱۴۰۵/دلار روی قیمت ۲۶۸ هزار و ۹۷۰ تومان ایستاد + جدول",
     "link": "https://www.khabaronline.ir/news/2305471/%D9%82%DB%8C%D9%85%D8%AA-%DB%8C%D9%88%D8%B1%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B1-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D9%88%DB%8C",
     "summary": "قیمت یورو، دلار و سایر ارزها اول آذر ۱۴۰۵ اعلام شد. بر این اساس بهای هر دلار ۲۶۸ هزار و ۹۷۰ تومان قیمت خورد. یورو نیز به قیمت ۲۹۵ هزار تومان فروخته شد.",
@@ -2872,68 +3283,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها ظهر امروز ۲۸ آبان ۱۴۰۵/ دلار ۲۷۰ هزار و ۶۷۵ تومان قیمت خورد + جدول",
-    "link": "https://www.khabaronline.ir/news/2304256/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B8-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B2%DB%B7%DB%B0",
-    "summary": "قیمت دلار، یورو و سایر ارزها ۲۸ آبان ۱۴۰۵ اعلام شد. بر این اساس بهای هر دلار ۲۷۰ هزار و ۶۷۵ تومان قیمت خورد و یورو نیز به قیمت ۲۹۸ هزار و ۱۹۰ تومان فروخته شد.",
-    "published": "Thu, 19 Nov 2026 09:58:00 GMT",
-    "collected_at": "2026-11-20T08:20:05.398539+03:30",
-    "filter_market_score": 26,
-    "market_score": 30,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "می گفتند تورم ۳۰۰ درصد و دلار ۳۰۰ هزار تومان می شود، اما نشد/ ماجد: استفاده از ابزارهای سیاست گذاری پولی اجازه نداد تورم های ۳ و ۴ رقمی را تجربه کنیم",
     "link": "https://www.khabaronline.ir/news/2305562/%D9%85%DB%8C-%DA%AF%D9%81%D8%AA%D9%86%D8%AF-%D8%AA%D9%88%D8%B1%D9%85-%DB%B3%DB%B0%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B3%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D8%A7%D9%85%D8%A7-%D9%86%D8%B4%D8%AF",
     "summary": "وحید ماجد، معاون بانک مرکزی با اشاره به برخی پیش بینی های مطرح شده درباره آینده اقتصاد ایران گفت: مدتی پیش گفته می شد اقتصاد کشور ظرف دو هفته از بین خواهد رفت، نرخ ارز به ۳۰۰ هزار تومان خواهد رسید، تورم به ۳۰۰ درصد افزایش پیدا خواهد کرد و اقتصاد ایران وارد شرایط ابرتورمی خواهد شد. این پیش بینی ها در عمل محقق نشد و آنچه مانع ورود اقتصاد به چنین شرایطی شد، توان سیاست گذار پولی و استفاده از ابزارهای سیاست گذاری پولی بود. همین اقدامات اجازه نداد اقتصاد ایران تورم های سه رقمی و چهاررقمی را که حتی برخی تحلیلگران داخلی نیز درباره آن هشدار داده بودند، تجربه کند.",
@@ -3055,6 +3404,68 @@
     ],
     "currency_matches": [],
     "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "گزارش بازار سرمایه امروز ۳ آذر ۱۴۰۵ / شاخص کل بورس ۲۰۱ هزار واحد رشد کرد و به ۸ میلیون و ۵۹۱ هزار واحد رسید",
+    "link": "https://www.khabaronline.ir/live/2306324/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%DB%B1%DB%B8%DB%B9-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF",
+    "summary": "شاخص کل بورس در پایان معاملات امروز سه شنبه ۳ آذر ۱۴۰۵ با رشد ۲۰۱ هزار و ۶۸۲ واحدی به ۸ میلیون و ۵۹۱ هزار و ۴۹۹ واحد رسید.",
+    "published": "Tue, 24 Nov 2026 11:30:00 GMT",
+    "collected_at": "2026-11-25T00:58:31.829534+03:30",
+    "filter_market_score": 32,
+    "market_score": 29,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "شاخص کل"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "شاخص کل"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "رشد",
+      "گزارش",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "بازار سرمایه",
+      "شاخص کل"
+    ],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": true,
@@ -3656,6 +4067,73 @@
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت نفت به کف سه ماهه رسید / برنت ۸۹ دلار شد؛ افزایش عرضه، اثر تهدید تنگه هرمز را کاهش داد",
+    "link": "https://www.khabaronline.ir/news/2306421/%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%A8%D9%87-%DA%A9%D9%81-%D8%B3%D9%87-%D9%85%D8%A7%D9%87%D9%87-%D8%B1%D8%B3%DB%8C%D8%AF-%D8%A8%D8%B1%D9%86%D8%AA-%DB%B8%DB%B9-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B4%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B9%D8%B1%D8%B6%D9%87-%D8%A7%D8%AB%D8%B1",
+    "summary": "قیمت نفت در معاملات سه شنبه ۲۴ نوامبر ۲۰۲۶ برای دومین روز متوالی کاهش یافت؛ به طوری که نفت برنت با افت ۰.۳ درصدی به ۸۹ دلار و ۱۰ سنت و نفت آمریکا به ۷۹ دلار و ۹۷ سنت در هر بشکه رسید. افزایش ذخایر جهانی و احتمال مازاد عرضه، مهم ترین عوامل افت قیمت ها بودند.",
+    "published": "Tue, 24 Nov 2026 18:34:00 GMT",
+    "collected_at": "2026-11-25T00:58:31.829402+03:30",
+    "filter_market_score": 21,
+    "market_score": 28,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [
+      "تنگه هرمز"
+    ],
+    "signal_matches": [
+      "افزایش",
+      "کاهش",
+      "قیمت",
+      "عرضه",
+      "افت",
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تنگه هرمز",
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -4786,70 +5264,6 @@
   },
   {
     "source": "دنیای اقتصاد",
-    "title": "قیمت طلا امروز جمعه ۲۹ آبان ۱۴۰۵/ قیمت طلا کاهشی شد",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309516-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%AC%D9%85%D8%B9%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%DA%A9%D8%A7%D9%87%D8%B4%DB%8C-%D8%B4%D8%AF",
-    "summary": "قیمت طلا امروز با کاهش نسبت به روز گذشته، 3536 (سه هزار و پانصد و سی و شش) دلار نرخ گذاری شد.",
-    "published": "Fri, 20 Nov 2026 04:03:09 +0000",
-    "collected_at": "2026-11-20T08:19:58.537525+03:30",
-    "filter_market_score": 18,
-    "market_score": 25,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "قیمت",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 2,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
     "title": "پیام بازدهی بازارها در آبان",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4309841-%D9%BE%DB%8C%D8%A7%D9%85-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%A8%D8%A7%D9%86",
     "summary": "بازار دارایی ها در آبان ۱۴۰۵ شاهد افت قابل توجه قیمت طلا و سکه بود؛ به طوری که بازدهی این دارایی ها و صندوق های طلای بورسی بین منفی ۱۱ تا منفی ۱۵درصد قرار گرفت. در مقابل، دلار در بازار آزاد نوسان محدودی داشت و شاخص بورس نیز تنها حدود یک درصد رشد کرد. در چنین شرایطی، سرمایه گذاران با فاصله گرفتن از دارایی های پرنوسان، شاهد عملکرد بهتر گزینه های کم ریسک تر بودند؛ به طوری که صندوق های درآمد ثابت و سپرده های بانکی در صدر بازدهی بازارهای سرمایه گذاری قرار گرفتند.",
@@ -5828,6 +6242,66 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت سکه امروز ۳ آذر ۱۴۰۵ در زمان بسته شدن بازار/ سکه به قیمت ۲۶۲ میلیون تومان فروش رفت + جدول",
+    "link": "https://www.khabaronline.ir/news/2306622/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA",
+    "summary": "قیمت سکه در بازار تهران ۳ آذر ۱۴۰۵ اعلام شد و سکه امامی به قیمت ۲۶۲ میلیون تومان فروش رفت. نیم سکه هم به قیمت ۱۴۰ میلیون و ۵۰۰ هزار تومان به فروش رفت.",
+    "published": "Tue, 24 Nov 2026 20:02:00 GMT",
+    "collected_at": "2026-11-25T00:58:31.829329+03:30",
+    "filter_market_score": 9,
+    "market_score": 22,
+    "market_matches": {
+      "gold": [
+        "سکه",
+        "سکه امامی",
+        "نیم سکه"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "سکه"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "سکه",
+        "سکه امامی",
+        "نیم سکه"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت",
+      "اعلام شد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "سکه",
+      "سکه امامی",
+      "نیم سکه"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت سکه امروز ۳۰ آبان ۱۴۰۵ در زمان بازگشایی بازار/ سکه تا نرخ ۲۴۲ میلیون و ۳۰۰ هزار تومان ریزش کرد + جدول",
     "link": "https://www.khabaronline.ir/news/2304843/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3%DB%B0-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D8%AA%D8%A7-%D9%86%D8%B1%D8%AE",
     "summary": "قیمت سکه در بازار تهران ۳۰ آبان ۱۴۰۵ اعلام شد و سکه تا قیمت ۲۴۲ میلیون و ۳۰۰ هزار تومان ریزش کرد و نیم سکه ۱۲۸ میلیون و ۵۰۰ هزار تومان به فروش رفت.",
@@ -6241,6 +6715,64 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "یک فعال صنفی خبر داد: گردش مالی ۴.۵ میلیارد دلاری قاچاق لوازم آرایشی و بهداشتی/ ایران دومین کشور پرمصرف لوازم آرایش در منطقه",
+    "link": "https://www.khabaronline.ir/news/2306498/%DB%8C%DA%A9-%D9%81%D8%B9%D8%A7%D9%84-%D8%B5%D9%86%D9%81%DB%8C-%D8%AE%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF-%DA%AF%D8%B1%D8%AF%D8%B4-%D9%85%D8%A7%D9%84%DB%8C-%DB%B4-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D9%84%D9%88%D8%A7%D8%B2%D9%85",
+    "summary": "رئیس اتحادیه آرایشی تهران با انتقاد از ممنوعیت واردات از سال ۱۳۹۷، قاچاق ۴.۵ میلیارد دلاری این محصولات را نتیجه نیاز بازار دانست و خواستار واردات هوشمند شد.",
+    "published": "Tue, 24 Nov 2026 13:51:28 GMT",
+    "collected_at": "2026-11-25T00:58:31.829476+03:30",
+    "filter_market_score": 14,
+    "market_score": 19,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "ممنوعیت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "سهام عدالت در مسیر تغییر/ تعیین تکلیف ۱۹ میلیون جامانده و ۷۰ همت سود پرداخت نشده",
     "link": "https://www.khabaronline.ir/news/2304694/%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D8%AA%D8%B9%DB%8C%DB%8C%D9%86-%D8%AA%DA%A9%D9%84%DB%8C%D9%81-%DB%B1%DB%B9-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AC%D8%A7%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D9%88-%DB%B7%DB%B0",
     "summary": "سهام عدالت در آستانه بررسی مجموعه ای از تغییرات مدیریتی و قانونی قرار گرفته است؛ تغییراتی که در صورت تصویب می تواند بر نحوه اداره این دارایی، میزان بازدهی آن و وضعیت میلیون ها جامانده تأثیر بگذارد.",
@@ -6635,6 +7167,64 @@
     "duplicate_count": 1
   },
   {
+    "source": "دنیای اقتصاد",
+    "title": "واکنش بازارها به بازگشت هوانگ",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4310555-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%87%D9%88%D8%A7%D9%86%DA%AF",
+    "summary": "بیت کوین در حالی بار دیگر به زیر مرز روانی ۶۰ هزار دلار سقوط کرد که جهش خیره کننده بازارهای سهام جهانی پس از بازگشت «جنسن هوانگ» به صندلی مدیرعاملی انویدیا، نتوانست سپر پایداری در برابر بادهای مخالف ساختاری بازار رمزارزها ایجاد کند.",
+    "published": "Tue, 24 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-25T00:58:24.095572+03:30",
+    "filter_market_score": 12,
+    "market_score": 18,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ],
+      "stock": [
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "سقوط",
+      "جهش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [
+      "سهام"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 2,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "همتی: به جایگاه بازار سرمایه در اقتصاد ایران اعتقاد راسخ دارم/ بازار سرمایه باید سهم بیشتری در تامین مالی سرمایه گذاری بلندمدت برعهده گیرد",
     "link": "https://www.khabaronline.ir/news/2304917/%D9%87%D9%85%D8%AA%DB%8C-%D8%A8%D9%87-%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AF%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF-%D8%B1%D8%A7%D8%B3%D8%AE-%D8%AF%D8%A7%D8%B1%D9%85",
@@ -6742,6 +7332,61 @@
       "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "آغاز جمع آوری سود سهام عدالت؛ واریزی ها تا پایان آذر انجام می شود",
+    "link": "https://www.khabaronline.ir/news/2306491/%D8%A2%D8%BA%D8%A7%D8%B2-%D8%AC%D9%85%D8%B9-%D8%A2%D9%88%D8%B1%DB%8C-%D8%B3%D9%88%D8%AF-%D8%B3%D9%87%D8%A7%D9%85-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D9%88%D8%A7%D8%B1%DB%8C%D8%B2%DB%8C-%D9%87%D8%A7-%D8%AA%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "واریز سود سهام عدالت مشخص شد و سازمان بورس از آغاز فرایند جمع آوری سود شرکت های سرمایه پذیر خبر داده است؛ فرایندی که قرار است به پرداخت سود به حساب سهامداران تا پایان آذرماه منتهی شود.",
+    "published": "Tue, 24 Nov 2026 12:01:53 GMT",
+    "collected_at": "2026-11-25T00:58:31.829513+03:30",
+    "filter_market_score": 15,
+    "market_score": 17,
+    "market_matches": {
+      "stock": [
+        "سهام",
+        "بورس"
+      ]
+    },
+    "title_market_matches": {
+      "stock": [
+        "سهام"
+      ]
+    },
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "سهام"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "داده"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "سهام",
+      "بورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -6856,6 +7501,65 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "ظرفیت 2500 همتی تامین مالی تولید",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%84%D8%A7-13/4310548-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D9%87%D9%85%D8%AA%DB%8C-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%85%D8%A7%D9%84%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF",
+    "summary": "توسعه ابزارهای مالی کالامحور و اعتبارمحور در بورس کالای ایران، در حالی به یکی از محورهای اصلی بحث تامین مالی تولید تبدیل شده است که محدودیت منابع بانکی، نیاز روزافزون بنگاه ها به سرمایه در گردش و دشواری تامین نقدینگی در حلقه های مختلف زنجیره تولید، ضرورت استفاده از مسیرهای جایگزین را بیش از گذشته برجسته کرده است. در همین راستا، فعالان و کارشناسان بازار سرمایه در پنل تخصصی «تامین مالی زنجیره ارزش از طریق بورس کالای ایران» به تشریح ظرفیت ابزارهای مالی این بازار، الزامات توسعه تسویه اعتباری و چالش های پیش روی تامین مالی زنجیره ای پرداختند؛ رویکردی که در صورت توسعه زیرساخت های حقوقی، اعتباری و معاملاتی می تواند بخش قابل توجهی از نیاز نقدینگی بنگاه ها را از مسیر معاملات واقعی کالا تامین کند.",
+    "published": "Tue, 24 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-25T00:58:24.095563+03:30",
+    "filter_market_score": 14,
+    "market_score": 17,
+    "market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "بورس کالا"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "stock": [
+        "بورس",
+        "بازار سرمایه",
+        "بورس کالا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نقدینگی"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس",
+      "بازار سرمایه",
+      "بورس کالا"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "نقدینگی"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -7138,6 +7842,56 @@
       "عامل پراثر اقتصادی یا سیاسی",
       "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "طلا از سبد هدایای روز مادر حذف شد/ دستمزد یک ماه کارگر به یک گرم طلا هم نمی رسد",
+    "link": "https://www.khabaronline.ir/news/2306526/%D8%B7%D9%84%D8%A7-%D8%A7%D8%B2-%D8%B3%D8%A8%D8%AF-%D9%87%D8%AF%D8%A7%DB%8C%D8%A7%DB%8C-%D8%B1%D9%88%D8%B2-%D9%85%D8%A7%D8%AF%D8%B1-%D8%AD%D8%B0%D9%81-%D8%B4%D8%AF-%D8%AF%D8%B3%D8%AA%D9%85%D8%B2%D8%AF-%DB%8C%DA%A9-%D9%85%D8%A7%D9%87-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1-%D8%A8%D9%87-%DB%8C%DA%A9",
+    "summary": "حداقل دستمزد کارگر در سال ۱۳۸۵ با حدود ۱۲ گرم طلا برابری می کرد. کف دستمزد کارگری در سال جاری به یک گرم طلا ۱۸ عیار نمی رسد",
+    "published": "Tue, 24 Nov 2026 14:56:48 GMT",
+    "collected_at": "2026-11-25T00:58:31.829467+03:30",
+    "filter_market_score": 17,
+    "market_score": 16,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [
+      "طلا"
+    ],
+    "currency_matches": [],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
@@ -7564,6 +8318,66 @@
     "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "رکود زیر سایه محدودیت عرضه",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-3/4310579-%D8%B1%DA%A9%D9%88%D8%AF-%D8%B2%DB%8C%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%B9%D8%B1%D8%B6%D9%87",
+    "summary": "برآوردها از افت ۱۰درصدی رشد بخش صنعت و معدن در سه ماه منتهی به شهریور۱۴۰۵ حکایت دارد؛ وضعیتی که همزمان با کاهش 12.5درصدی تولید شرکت های بورسی و افت موجودی انبار محصولات صنعتی، از تشدید محدودیت های سمت عرضه خبر می دهد. کارشناسان معتقدند این افت به یک عامل محدود نیست و مجموعه ای از اختلالات تجاری، دشواری تامین مواد اولیه، محدودیت انرژی، کمبود سرمایه در گردش و مداخلات سیاستی، ظرفیت تولید را تحت فشار قرار داده اند. در صنایع معدنی نیز تولید فلزات اساسی و محصولات فلزی کاهش یافته و همزمان شاخص قیمت این گروه ها افزایش پیدا کرده است. در مقابل، رشد کوتاه مدت تولید کانی های غیرفلزی نیز با کاهش موجودی انبار همراه بوده است. کنار هم قرار گرفتن این تحولات نشان می دهد مساله صنعت تنها کاهش تولید نیست، بلکه توان بنگاه ها برای تامین نهاده، حفظ موجودی و استمرار عرضه نیز تضعیف شده است؛ روندی که تداوم محدودیت های داخلی و تجاری می تواند آن را تشدید کند.",
+    "published": "Tue, 24 Nov 2026 20:30:00 +0000",
+    "collected_at": "2026-11-25T00:58:24.095632+03:30",
+    "filter_market_score": 11,
+    "market_score": 16,
+    "market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "stock": [
+        "بورس"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "رکود"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "عرضه",
+      "افزایش",
+      "کاهش",
+      "رشد",
+      "افت",
+      "قیمت",
+      "داده",
+      "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [],
+    "stock_matches": [
+      "بورس"
+    ],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "رکود"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -8385,6 +9199,111 @@
     "duplicate_count": 1
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "قیمت تمام شده گندم حداقل ۸۵ هزار تومان است/ هاشمی: گندم خارجی را کیلویی ۹۲ هزار تومان وارد می کنند",
+    "link": "https://www.khabaronline.ir/news/2306355/%D9%82%DB%8C%D9%85%D8%AA-%D8%AA%D9%85%D8%A7%D9%85-%D8%B4%D8%AF%D9%87-%DA%AF%D9%86%D8%AF%D9%85-%D8%AD%D8%AF%D8%A7%D9%82%D9%84-%DB%B8%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%D8%B4%D9%85%DB%8C-%DA%AF%D9%86%D8%AF%D9%85-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C",
+    "summary": "عضو شورای قیمت گذاری محصولات اساسی کشاورزی از برگزاری این شورا تا لحظاتی دیگر خبر داد و گفت: موضوع اصلی جلسه امروز، تعیین قیمت خرید تضمینی گندم است. با توجه به اینکه آنالیز قیمت تمام شده تولید گندم نشان می دهد هر کیلوگرم محصول حداقل ۸۵ هزار تومان هزینه دارد، ما طبق مکانیسم قانونی رای گیری خواهیم کرد. اکنون شاهد واردات گندم با قیمت های بسیار بالا هستیم. بر اساس محاسبات، قیمت ۹۲ هزار تومان برای هر کیلوگرم (معادل ۳۵۵ دلار) که توسط شرکت های بازرگانی دولتی برای گندم خارجی پرداخت می شود، بسیار نگران کننده است.",
+    "published": "Tue, 24 Nov 2026 17:31:00 GMT",
+    "collected_at": "2026-11-25T00:58:31.829430+03:30",
+    "filter_market_score": 9,
+    "market_score": 13,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "تابناک",
+    "title": "محسن رضایی: مصمم به شکستن محاصره هستیم",
+    "link": "https://tabnak.ir/fa/news/4204104/%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D9%85%D8%B5%D9%85%D9%85-%D8%A8%D9%87-%D8%B4%DA%A9%D8%B3%D8%AA%D9%86-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D9%87%D8%B3%D8%AA%DB%8C%D9%85",
+    "summary": "به گزارش تابناک، محسن رضایی، دبیر شورای عالی امنیت ملی در توییتی به زبان انگلیسی نوشت: طرح های ترامپ و تیم شکست خورده اش برای محاصره ایران، به همان اندازه که استراتژی جنگی ناکامشان توهم آمیز و بیهوده بود، توهم آمیز و بی نتیجه است. وی تأکید کرد: ملت ایران، نیروهای مسلح و تمام ارکان حاکمیت، با عزمی راسخ مصمم هستند که این محاصره را درهم بشکنند و به هرگونه تجاوز جدید، با تمام قوا پاسخ دهند.",
+    "published": "Tue, 24 Nov 2026 18:36:24 +0000",
+    "collected_at": "2026-11-25T00:58:40.724304+03:30",
+    "filter_market_score": 7,
+    "market_score": 13,
+    "market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "درهم"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [
+      "جنگ"
+    ],
+    "signal_matches": [
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "درهم"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "جنگ"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "بحران هویت صندوق تریلیون دلاری سعودی",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%86%DB%8C%D8%A7-5/4310241-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D9%87%D9%88%DB%8C%D8%AA-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C",
@@ -8725,55 +9644,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "ایسنا",
-    "title": "صادرات کره جنوبی تاریخ ساز شد",
-    "link": "https://www.isna.ir/news/1405082819928/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B3%D8%A7%D8%B2-%D8%B4%D8%AF",
-    "summary": "صادرات کره جنوبی امسال با بهره گیری از رونق جهانی تراشه های هوش مصنوعی، از مرز یک تریلیون دلار فراتر رفت و کره جنوبی به چهارمین کشور جهان پس از آلمان، آمریکا و چین تبدیل شد که به این نقطه عطف دست می یابد.",
-    "published": "Fri, 20 Nov 2026 01:30:00 GMT",
-    "collected_at": "2026-11-20T08:19:38.119516+03:30",
-    "filter_market_score": 7,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "هشدار بازتولید انحصار در خودرو",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-17/4309900-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A7%D9%86%D8%AD%D8%B5%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88",
@@ -8952,6 +9822,53 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "مشرق",
+    "title": "بازگشت مدیرعامل انویدیا؛ معامله ای پرسود برای ترامپ؟",
+    "link": "https://www.mashreghnews.ir/news/1854995/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84-%D8%A7%D9%86%D9%88%DB%8C%D8%AF%DB%8C%D8%A7-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D9%87-%D8%A7%DB%8C-%D9%BE%D8%B1%D8%B3%D9%88%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE",
+    "summary": "فایننشال تایمز گزارش داد ترامپ ممکن است از بازگشت جنسن هوانگ به سمت مدیرعاملی انویدیا ده ها میلیون دلار سود کرده باشد.",
+    "published": "Tue, 24 Nov 2026 21:00:00 GMT",
+    "collected_at": "2026-11-25T00:58:49.879066+03:30",
+    "filter_market_score": 7,
+    "market_score": 9,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -9217,50 +10134,6 @@
     "currency_matches": [
       "ارز"
     ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "مشرق",
-    "title": "قهرمان جهان مدالش را به موزه امام رضا (ع) اهدا کرد",
-    "link": "https://www.mashreghnews.ir/news/1853949/%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D9%86-%D9%85%D8%AF%D8%A7%D9%84%D8%B4-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%85%D9%88%D8%B2%D9%87-%D8%A7%D9%85%D8%A7%D9%85-%D8%B1%D8%B6%D8%A7-%D8%B9-%D8%A7%D9%87%D8%AF%D8%A7-%DA%A9%D8%B1%D8%AF",
-    "summary": "امیرحسین زارع مدال های طلای جهان و بازی های آسیایی خود را به موزه آستان قدس رضوی اهدا کرد.",
-    "published": "Thu, 19 Nov 2026 18:42:16 GMT",
-    "collected_at": "2026-11-20T03:16:04.849418+03:30",
-    "filter_market_score": 3,
-    "market_score": 5,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 3,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
