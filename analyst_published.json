@@ -57214,10 +57214,10 @@
     "content_signature": "616e7e100acdaca199a4631d13eb09773431028031885ce2b7ab21d5c5e68739",
     "first_seen_at": "2026-11-23T17:24:52.931992+03:30",
     "telegram_parts_sent": [
-      false
+      true
     ],
     "telegram_part_message_ids": [
-      null
+      3619
     ],
     "errors": [
       {
@@ -57241,14 +57241,23 @@
     ],
     "eitaa_last_success_at": "2026-11-23T17:24:54.117472+03:30",
     "eitaa_sent": true,
-    "eitaa_sent_at": "2026-11-23T17:24:54.154955+03:30",
+    "eitaa_sent_at": "2026-11-24T04:54:43.114872+03:30",
     "eitaa_message_id": 183503340,
     "group_parts_sent": [
-      false
+      true
     ],
     "group_part_message_ids": [
-      null
-    ]
+      3381
+    ],
+    "telegram_last_success_at": "2026-11-24T04:54:43.041409+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-24T04:54:43.074722+03:30",
+    "telegram_message_id": 3619,
+    "group_last_success_at": "2026-11-24T04:54:43.561137+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-24T04:54:43.595787+03:30",
+    "group_message_id": 3381,
+    "published_at": "2026-11-24T04:54:43.635775+03:30"
   },
   "https://t.me/drarashamini/7497": {
     "item": {
@@ -57286,10 +57295,10 @@
     "content_signature": "624cf170e888a76dc14c2b361ea4e25c6dfba96c80bd136a1cba30cef56abada",
     "first_seen_at": "2026-11-23T17:24:54.703308+03:30",
     "telegram_parts_sent": [
-      false
+      true
     ],
     "telegram_part_message_ids": [
-      null
+      3620
     ],
     "errors": [
       {
@@ -57307,7 +57316,7 @@
     ],
     "eitaa_last_success_at": "2026-11-23T17:25:02.932430+03:30",
     "eitaa_sent": true,
-    "eitaa_sent_at": "2026-11-23T17:25:02.971327+03:30",
+    "eitaa_sent_at": "2026-11-24T04:54:44.166930+03:30",
     "eitaa_message_id": 183503364,
     "group_parts_sent": [
       true
@@ -57317,8 +57326,13 @@
     ],
     "group_last_success_at": "2026-11-23T17:25:06.490453+03:30",
     "group_sent": true,
-    "group_sent_at": "2026-11-23T17:25:06.533131+03:30",
-    "group_message_id": 3365
+    "group_sent_at": "2026-11-24T04:54:44.206922+03:30",
+    "group_message_id": 3365,
+    "telegram_last_success_at": "2026-11-24T04:54:44.090159+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-24T04:54:44.126931+03:30",
+    "telegram_message_id": 3620,
+    "published_at": "2026-11-24T04:54:44.247140+03:30"
   },
   "https://t.me/rahavard365/58754": {
     "item": {
@@ -57639,5 +57653,556 @@
     "group_sent_at": "2026-11-23T17:25:19.323021+03:30",
     "group_message_id": 3370,
     "published_at": "2026-11-23T17:25:19.364242+03:30"
+  },
+  "https://t.me/drarashamini/7507": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "💧 عرض اولیه «آب آسیا»؛ نخستین شرکت تولیدکننده آب شیرین در فرابورس",
+      "summary": "💧 عرض اولیه «آب آسیا»؛ نخستین شرکت تولیدکننده آب شیرین در فرابورس \nشرکت مهندسی توسعه آب آسیا با نماد «آب۱» روز چهارشنبه ۴ آذر ۱۴۰۵ ساعت 12:45 به روش ترکیبی وارد فرابورس می‌شود.\n 🔹 تعداد کل سهام شرکت: ۷۵ میلیارد سهم\n 🔹 سهام قابل عرضه: ۳ میلیارد سهم معادل ۴ درصد شرکت\n 🔹 ارزش‌گذاری شرکت: حدود ۴۰ هزار میلیارد تومان\n 🔹 قیمت مبنای ارزش‌گذاری: ۵٬۳۴۷ ریال\nعرضه در دو مرحله انجام می‌شود:\n 🔸 مرحله اول: عرضه ۲ درصد سهام به صندوق‌های سرمایه‌گذاری از طریق حراج\n 🔸 مرحله دوم: عرضه حداقل ۲ درصد سهام به عموم سرمایه‌گذاران با سقف خرید ۳ هزار سهم برای هر کد معاملاتی. قیمت نهایی پس از مرحله اول مشخص می‌شود.\n ⭐️ ویژگی جذاب عرضه: اختصاص اختیار فروش تبعی یک‌ساله با قیمت اعمال ۳۵ درصد بالاتر از قیمت کشف‌شده به خریداران مرحله دوم، مشروط به رعایت ضوابط.\nاز مزیت‌های بنیادی شرکت نیز می‌توان به ظرفیت تولید روزانه ۴۰۰ هزار مترمکعب آب شیرین، فروش ارزی ۹۵ درصد محصول و قرارداد ۲۰ ساله فروش با نرخ ۱.۱۵ یورو برای هر مترمکعب اشاره کرد.\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "💧 عرض اولیه «آب آسیا»؛ نخستین شرکت تولیدکننده آب شیرین در فرابورس \nشرکت مهندسی توسعه آب آسیا با نماد «آب۱» روز چهارشنبه ۴ آذر ۱۴۰۵ ساعت 12:45 به روش ترکیبی وارد فرابورس می‌شود.\n 🔹 تعداد کل سهام شرکت: ۷۵ میلیارد سهم\n 🔹 سهام قابل عرضه: ۳ میلیارد سهم معادل ۴ درصد شرکت\n 🔹 ارزش‌گذاری شرکت: حدود ۴۰ هزار میلیارد تومان\n 🔹 قیمت مبنای ارزش‌گذاری: ۵٬۳۴۷ ریال\nعرضه در دو مرحله انجام می‌شود:\n 🔸 مرحله اول: عرضه ۲ درصد سهام به صندوق‌های سرمایه‌گذاری از طریق حراج\n 🔸 مرحله دوم: عرضه حداقل ۲ درصد سهام به عموم سرمایه‌گذاران با سقف خرید ۳ هزار سهم برای هر کد معاملاتی. قیمت نهایی پس از مرحله اول مشخص می‌شود.\n ⭐️ ویژگی جذاب عرضه: اختصاص اختیار فروش تبعی یک‌ساله با قیمت اعمال ۳۵ درصد بالاتر از قیمت کشف‌شده به خریداران مرحله دوم، مشروط به رعایت ضوابط.\nاز مزیت‌های بنیادی شرکت نیز می‌توان به ظرفیت تولید روزانه ۴۰۰ هزار مترمکعب آب شیرین، فروش ارزی ۹۵ درصد محصول و قرارداد ۲۰ ساله فروش با نرخ ۱.۱۵ یورو برای هر مترمکعب اشاره کرد.\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7507",
+      "analysis_score": 36,
+      "market_matches": [
+        "طلا",
+        "ارز",
+        "یورو",
+        "ریال",
+        "بورس",
+        "فرابورس",
+        "نماد"
+      ],
+      "analysis_matches": [
+        "خرید",
+        "فروش",
+        "ارزش گذاری",
+        "ارزش‌گذاری",
+        "بنیادی",
+        "عرضه",
+        "نرخ",
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 1036,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-24T04:54:03.268798+03:30"
+    },
+    "content_signature": "87878f154db93ea55f5b97f94fa18e15903c91a03df11e3db70cbd31f8b2e395",
+    "first_seen_at": "2026-11-24T04:54:34.373944+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3615
+    ],
+    "telegram_last_success_at": "2026-11-24T04:54:34.819405+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-24T04:54:34.859157+03:30",
+    "telegram_message_id": 3615,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      183575751
+    ],
+    "eitaa_last_success_at": "2026-11-24T04:54:36.177494+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-24T04:54:36.211316+03:30",
+    "eitaa_message_id": 183575751,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3377
+    ],
+    "group_last_success_at": "2026-11-24T04:54:36.693223+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-24T04:54:36.732325+03:30",
+    "group_message_id": 3377,
+    "published_at": "2026-11-24T04:54:36.772384+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26435": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "خلاصه بازار 2 آذر 1405",
+      "summary": "خلاصه بازار 2 آذر 1405 \n\n ۱- طلا فیزیکی 18 عیار 24/088/000 تومان \n ۲- صندوق طلا 15197 میلیارد تومان ارزش معاملات ، 2606 میلیارد ورود پول (حباب نداشتن)\n ۳- شمش طلای 24 عیار 32/999/000 تومان\n ۴- صندوق نقره 620 میلیارد تومان ارزش معاملات ، 60 میلیارد ورود پول (میانگین حباب ۱٪+)\n ۵- شمش 999‌ نقره 423/000 تومان \n ۶- صندوق درآمد ثابت 42544 میلیارد تومان ارزش معاملات ، 754 میلیارد تومان خروج پول\n ۷- انس طلا 3683 $ انس نقره 44 $\nنسبت طلا به نقره 83 \n ۸- بین‌کوین 63000 $ معادل 17/000 میلیارد تومان\n\n @payamelyaskordi ✅",
+      "full_text": "خلاصه بازار 2 آذر 1405 \n\n ۱- طلا فیزیکی 18 عیار 24/088/000 تومان \n ۲- صندوق طلا 15197 میلیارد تومان ارزش معاملات ، 2606 میلیارد ورود پول (حباب نداشتن)\n ۳- شمش طلای 24 عیار 32/999/000 تومان\n ۴- صندوق نقره 620 میلیارد تومان ارزش معاملات ، 60 میلیارد ورود پول (میانگین حباب ۱٪+)\n ۵- شمش 999‌ نقره 423/000 تومان \n ۶- صندوق درآمد ثابت 42544 میلیارد تومان ارزش معاملات ، 754 میلیارد تومان خروج پول\n ۷- انس طلا 3683 $ انس نقره 44 $\nنسبت طلا به نقره 83 \n ۸- بین‌کوین 63000 $ معادل 17/000 میلیارد تومان\n\n @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26435",
+      "analysis_score": 26,
+      "market_matches": [
+        "طلا",
+        "طلای ۲۴",
+        "طلای 24",
+        "ارز",
+        "ارزش معاملات",
+        "صندوق طلا",
+        "صندوق نقره"
+      ],
+      "analysis_matches": [
+        "ورود",
+        "خروج",
+        "حباب"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "stock"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 514,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-24T04:54:02.791411+03:30"
+    },
+    "content_signature": "bf7fe8c39cfbb022cff6ab5b0e32634e4fb63df33cf431171968cda5247d23b8",
+    "first_seen_at": "2026-11-24T04:54:36.813569+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3616
+    ],
+    "telegram_last_success_at": "2026-11-24T04:54:37.218921+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-24T04:54:37.256345+03:30",
+    "telegram_message_id": 3616,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      183575753
+    ],
+    "eitaa_last_success_at": "2026-11-24T04:54:38.528911+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-24T04:54:38.565938+03:30",
+    "eitaa_message_id": 183575753,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3378
+    ],
+    "group_last_success_at": "2026-11-24T04:54:39.053489+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-24T04:54:39.086859+03:30",
+    "group_message_id": 3378,
+    "published_at": "2026-11-24T04:54:39.127009+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26432": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "حد ضرر بانک مرکزی نخورد امروز طلا رفت بالای گرمی 24 میلیون تومان و 455 هزارتومان هم بالای قیمته و 2 درصد حباب مثبت دا...",
+      "summary": "حد ضرر بانک مرکزی نخورد امروز طلا رفت بالای گرمی 24 میلیون تومان و 455 هزارتومان هم بالای قیمته و 2 درصد حباب مثبت داره حالا داستان چیه بانک مرکزی 18 شهریور ماه اوراق سلف سکه منتشر کرد با نماد عسکه 2 به قیمت 235 میلیون تومان با سر رسید 3 ماهه که میشه تا 18…",
+      "full_text": "حد ضرر بانک مرکزی نخورد امروز طلا رفت بالای گرمی 24 میلیون تومان و 455 هزارتومان هم بالای قیمته و 2 درصد حباب مثبت داره حالا داستان چیه بانک مرکزی 18 شهریور ماه اوراق سلف سکه منتشر کرد با نماد عسکه 2 به قیمت 235 میلیون تومان با سر رسید 3 ماهه که میشه تا 18…",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26432",
+      "analysis_score": 22,
+      "market_matches": [
+        "طلا",
+        "سکه",
+        "نماد",
+        "بانک مرکزی",
+        "اوراق"
+      ],
+      "analysis_matches": [
+        "قیمت",
+        "حباب",
+        "حد ضرر"
+      ],
+      "market_groups": [
+        "gold",
+        "stock",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای داده عددی",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 257,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-24T04:54:02.787793+03:30"
+    },
+    "content_signature": "d0e0b3337c7bc981ee4652c20429cf819c681ad7882dba8d2976fce53b9570e5",
+    "first_seen_at": "2026-11-24T04:54:39.168175+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3617
+    ],
+    "telegram_last_success_at": "2026-11-24T04:54:39.575837+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-24T04:54:39.607972+03:30",
+    "telegram_message_id": 3617,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      183575754
+    ],
+    "eitaa_last_success_at": "2026-11-24T04:54:40.297176+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-24T04:54:40.339349+03:30",
+    "eitaa_message_id": 183575754,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3379
+    ],
+    "group_last_success_at": "2026-11-24T04:54:40.767975+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-24T04:54:40.810309+03:30",
+    "group_message_id": 3379,
+    "published_at": "2026-11-24T04:54:40.850193+03:30"
+  },
+  "https://t.me/drarashamini/7508": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "یک نگاهی به انس جهانی بندازیم و ببینم در چه شرایطی قرار داریم.",
+      "summary": "یک نگاهی به انس جهانی بندازیم و ببینم در چه شرایطی قرار داریم. اگه پست آخر اینستاگرام رو نگاه کرده باشید عرض شد که در کوتاه مدت شاید نگهداری دلار بهتر از نگهداری طلا باشه ولی بلند مدت داستان تا حدودی متفاوت هست. شرایط تورمی آمریکا و افزایش نرخ بهره باعث…",
+      "full_text": "یک نگاهی به انس جهانی بندازیم و ببینم در چه شرایطی قرار داریم. اگه پست آخر اینستاگرام رو نگاه کرده باشید عرض شد که در کوتاه مدت شاید نگهداری دلار بهتر از نگهداری طلا باشه ولی بلند مدت داستان تا حدودی متفاوت هست. شرایط تورمی آمریکا و افزایش نرخ بهره باعث…",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7508",
+      "analysis_score": 19,
+      "market_matches": [
+        "طلا",
+        "دلار",
+        "نرخ بهره",
+        "تورم"
+      ],
+      "analysis_matches": [
+        "افزایش",
+        "نرخ"
+      ],
+      "market_groups": [
+        "gold",
+        "currency",
+        "economy"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای استدلال",
+        "ارتباط میان چند حوزه بازار"
+      ],
+      "priority": "high",
+      "content_length": 254,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-24T04:54:03.269938+03:30"
+    },
+    "content_signature": "a04c9685c1082bbdb0f2df64a62cae4009b39cd7eb5fab4c1841e6e8f77e73b8",
+    "first_seen_at": "2026-11-24T04:54:40.891391+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3618
+    ],
+    "telegram_last_success_at": "2026-11-24T04:54:41.286936+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-24T04:54:41.321254+03:30",
+    "telegram_message_id": 3618,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      183575755
+    ],
+    "eitaa_last_success_at": "2026-11-24T04:54:42.028365+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-24T04:54:42.062740+03:30",
+    "eitaa_message_id": 183575755,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3380
+    ],
+    "group_last_success_at": "2026-11-24T04:54:42.508956+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-24T04:54:42.543658+03:30",
+    "group_message_id": 3380,
+    "published_at": "2026-11-24T04:54:42.583609+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26436": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "وقت خرید یا فروش طلاست؟",
+      "summary": "وقت خرید یا فروش طلاست؟\nتو این پست توضیح دادم چرا طلا داره رشد میکنه و بهتری زمان برای خرید و فروش کی هستش .\n\n 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 \n https://www.instagram.com/reel/DgFraR7oXrW/?gwpx=MWxsdzI5cTZsMXk0dQ==",
+      "full_text": "وقت خرید یا فروش طلاست؟\nتو این پست توضیح دادم چرا طلا داره رشد میکنه و بهتری زمان برای خرید و فروش کی هستش .\n\n 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 \n https://www.instagram.com/reel/DgFraR7oXrW/?gwpx=MWxsdzI5cTZsMXk0dQ==",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26436",
+      "analysis_score": 10,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "رشد",
+        "خرید",
+        "فروش"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 202,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-24T04:54:02.792558+03:30"
+    },
+    "content_signature": "7e6eb071c1d467beaad208ff7efffe068a36776d923cea013d16162da8dd62b3",
+    "first_seen_at": "2026-11-24T04:54:44.288041+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3621
+    ],
+    "telegram_last_success_at": "2026-11-24T04:54:44.693786+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-24T04:54:44.728055+03:30",
+    "telegram_message_id": 3621,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      183575757
+    ],
+    "eitaa_last_success_at": "2026-11-24T04:54:45.420442+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-24T04:54:45.459503+03:30",
+    "eitaa_message_id": 183575757,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3382
+    ],
+    "group_last_success_at": "2026-11-24T04:54:45.906143+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-24T04:54:45.940416+03:30",
+    "group_message_id": 3382,
+    "published_at": "2026-11-24T04:54:45.980379+03:30"
+  },
+  "https://t.me/PayamElyaskordi/26441": {
+    "item": {
+      "analyst": "پیام الیاس کردی",
+      "title": "سهام انویدیا هم ۲۸ درصد رشد کرد و ۱ تریلیون دلار ارزش بازارش بالا رفت ترامپ بازگشت جنسن هوانگ به شرکت انویدیا را تبری...",
+      "summary": "سهام انویدیا هم ۲۸ درصد رشد کرد و ۱ تریلیون دلار ارزش بازارش بالا رفت ترامپ بازگشت جنسن هوانگ به شرکت انویدیا را تبریک گفت شاید ترامپ یه نوسان دیگه گرفته. @payamelyaskordi ✅",
+      "full_text": "سهام انویدیا هم ۲۸ درصد رشد کرد و ۱ تریلیون دلار ارزش بازارش بالا رفت ترامپ بازگشت جنسن هوانگ به شرکت انویدیا را تبریک گفت شاید ترامپ یه نوسان دیگه گرفته. @payamelyaskordi ✅",
+      "source": "پیام الیاس کردی",
+      "link": "https://t.me/PayamElyaskordi/26441",
+      "analysis_score": 10,
+      "market_matches": [
+        "دلار",
+        "ارز",
+        "ارزش بازار"
+      ],
+      "analysis_matches": [
+        "رشد"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 173,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-24T04:54:02.797870+03:30"
+    },
+    "content_signature": "f24589da5fa166c03e64a03b89250c316b21c1a2fd91673655f832d4b86661f4",
+    "first_seen_at": "2026-11-24T04:54:46.021331+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3622
+    ],
+    "telegram_last_success_at": "2026-11-24T04:54:46.438127+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-24T04:54:46.471465+03:30",
+    "telegram_message_id": 3622,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      183575758
+    ],
+    "eitaa_last_success_at": "2026-11-24T04:54:47.778782+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-24T04:54:47.814132+03:30",
+    "eitaa_message_id": 183575758,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3383
+    ],
+    "group_last_success_at": "2026-11-24T04:54:48.245211+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-24T04:54:48.285162+03:30",
+    "group_message_id": 3383,
+    "published_at": "2026-11-24T04:54:48.325025+03:30"
+  },
+  "https://t.me/AlirezaMehrabi_ir/9134": {
+    "item": {
+      "analyst": "علیرضا محرابی",
+      "title": "میگن طلا تا ۱۵ میریزه ؟؟",
+      "summary": "میگن طلا تا ۱۵ میریزه ؟؟\nکف اونس؟؟ \nصعود جذاب بازار ها\n\nو مهمترین بخش\nبزرگترین تخفیف واقعیِ سال تا جمعه شب\nبلک فرایدی آرم اینوست 👇 \n\n https://alirezamehrabi.com/blackfriday \n\n قیمت ها قابل باور نیست 👆 \n \nخودتون برید ببینید",
+      "full_text": "میگن طلا تا ۱۵ میریزه ؟؟\nکف اونس؟؟ \nصعود جذاب بازار ها\n\nو مهمترین بخش\nبزرگترین تخفیف واقعیِ سال تا جمعه شب\nبلک فرایدی آرم اینوست 👇 \n\n https://alirezamehrabi.com/blackfriday \n\n قیمت ها قابل باور نیست 👆 \n \nخودتون برید ببینید",
+      "source": "علیرضا محرابی",
+      "link": "https://t.me/AlirezaMehrabi_ir/9134",
+      "analysis_score": 10,
+      "market_matches": [
+        "طلا",
+        "اونس"
+      ],
+      "analysis_matches": [
+        "صعود",
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "medium",
+      "content_length": 222,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-24T04:54:04.225714+03:30"
+    },
+    "content_signature": "337dfca32c9f496f0cdcf2d196aebcd131a9e2b40aaa2502865a288b72ff3e07",
+    "first_seen_at": "2026-11-24T04:54:48.366081+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3623
+    ],
+    "telegram_last_success_at": "2026-11-24T04:54:48.761944+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-24T04:54:48.796049+03:30",
+    "telegram_message_id": 3623,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      183575759
+    ],
+    "eitaa_last_success_at": "2026-11-24T04:54:49.510046+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-24T04:54:49.547512+03:30",
+    "eitaa_message_id": 183575759,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3384
+    ],
+    "group_last_success_at": "2026-11-24T04:54:50.007039+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-24T04:54:50.048565+03:30",
+    "group_message_id": 3384,
+    "published_at": "2026-11-24T04:54:50.088523+03:30"
+  },
+  "https://t.me/drarashamini/7506": {
+    "item": {
+      "analyst": "دکتر آرش امینی",
+      "title": "جنسن مدیر عامل انویدیا باقی موند و شاهد پرواز قیمت سهام این شرکت هستیم.",
+      "summary": "جنسن مدیر عامل انویدیا باقی موند و شاهد پرواز قیمت سهام این شرکت هستیم.\nیکی از مهمترین ارکان هر شرکت مدیریتش هست و به قول کانسلیم کارها، مدیریت رو جدی بگیرید\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "full_text": "جنسن مدیر عامل انویدیا باقی موند و شاهد پرواز قیمت سهام این شرکت هستیم.\nیکی از مهمترین ارکان هر شرکت مدیریتش هست و به قول کانسلیم کارها، مدیریت رو جدی بگیرید\n\n———————————————————————-\n ✅ اگر در بازارهای مالی و طلا فعال هستی کانال زیر رو دنبال کن:\n\n @DrArashAmini \n @drarashamini_bot",
+      "source": "دکتر آرش امینی",
+      "link": "https://t.me/drarashamini/7506",
+      "analysis_score": 8,
+      "market_matches": [
+        "طلا"
+      ],
+      "analysis_matches": [
+        "قیمت"
+      ],
+      "market_groups": [
+        "gold"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای توضیح",
+        "دارای استدلال"
+      ],
+      "priority": "medium",
+      "content_length": 282,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-24T04:54:03.267124+03:30"
+    },
+    "content_signature": "1058ad37d7c07d544beded95c354cdf7b21f14f44024ebaa78f080619a6a9aaa",
+    "first_seen_at": "2026-11-24T04:54:50.129382+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3624
+    ],
+    "telegram_last_success_at": "2026-11-24T04:54:50.532068+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-24T04:54:50.569573+03:30",
+    "telegram_message_id": 3624,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      183575760
+    ],
+    "eitaa_last_success_at": "2026-11-24T04:54:51.955012+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-24T04:54:51.992512+03:30",
+    "eitaa_message_id": 183575760,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3385
+    ],
+    "group_last_success_at": "2026-11-24T04:54:52.429715+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-24T04:54:52.463430+03:30",
+    "group_message_id": 3385,
+    "published_at": "2026-11-24T04:54:52.503387+03:30"
   }
 }
