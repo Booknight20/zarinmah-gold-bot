@@ -45710,5 +45710,557 @@
     "group_message_id": 3376,
     "fully_published": true,
     "last_checked_at": "2026-11-24T01:24:34.203793+00:00"
+  },
+  "e04436cce88352f94d4f4ac4894f3485d6ca6274ae502a6f41595e845fdaeeb2": {
+    "title": "اعطای «بورس نخبگان» دانشگاه تهران به رتبه های برتر المپیادهای دانش آموزی",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405090302117/%D8%A7%D8%B9%D8%B7%D8%A7%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%86%D8%AE%D8%A8%DA%AF%D8%A7%D9%86-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B1%D8%AA%D8%A8%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF%D9%87%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      3625
+    ],
+    "eitaa_message_ids": [
+      183663531
+    ],
+    "group_message_ids": [
+      3386
+    ],
+    "content_hash": "9290f5ad11f4ab27dd8d6c38daaf77915f30547a9ba337e0929122d4db05fa3e",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:20:45.779600+00:00",
+    "telegram_message_id": 3625,
+    "eitaa_last_sent_at": "2026-11-24T11:20:47.231994+00:00",
+    "eitaa_message_id": 183663531,
+    "group_last_sent_at": "2026-11-24T11:20:48.870529+00:00",
+    "group_message_id": 3386,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:20:48.951657+00:00"
+  },
+  "274d60673d397fe167a9efab63df1301566c77e0ab9223308798f80cb8cee887": {
+    "title": "واکنش رئیس کل بانک مرکزی به تحریم مرکز مبادله ارز و طلای ایران",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405090302102/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%B1%D8%A6%DB%8C%D8%B3-%DA%A9%D9%84-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D9%87-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%D8%B1%D8%B2-%D9%88-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "telegram_message_ids": [
+      3626
+    ],
+    "eitaa_message_ids": [
+      183663540
+    ],
+    "group_message_ids": [
+      3387
+    ],
+    "content_hash": "9cd121e03cbff336b3fa84d11bc037c65c83223550fda2f5f51775ac94dbc7b6",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:20:50.632449+00:00",
+    "telegram_message_id": 3626,
+    "eitaa_last_sent_at": "2026-11-24T11:20:51.865378+00:00",
+    "eitaa_message_id": 183663540,
+    "group_last_sent_at": "2026-11-24T11:20:53.480747+00:00",
+    "group_message_id": 3387,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:20:53.552516+00:00"
+  },
+  "41ceeb79aebcdc6090708f411751681dcf6cfe6d3508496a6a1d8371d3900f75": {
+    "title": "صعود پرقدرت بورس/ شاخص ۸.۵ میلیون را رد کرد",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405090302094/%D8%B5%D8%B9%D9%88%D8%AF-%D9%BE%D8%B1%D9%82%D8%AF%D8%B1%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B4%D8%A7%D8%AE%D8%B5-%DB%B8-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%B1%D8%A7-%D8%B1%D8%AF-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      3627
+    ],
+    "eitaa_message_ids": [
+      183663550
+    ],
+    "group_message_ids": [
+      3388
+    ],
+    "content_hash": "6858b7501d5f9cb29b25a6ab9be3bc1316ea2822530e9befea05784e55c5c0fd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:20:55.251376+00:00",
+    "telegram_message_id": 3627,
+    "eitaa_last_sent_at": "2026-11-24T11:20:56.410190+00:00",
+    "eitaa_message_id": 183663550,
+    "group_last_sent_at": "2026-11-24T11:20:58.021351+00:00",
+    "group_message_id": 3388,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:20:58.094050+00:00"
+  },
+  "c64db0c377ed5fb5e47d616d43e18b69a1c723adad64afdf2f00757a0adaf9ad": {
+    "title": "۱.۱ میلیارد دلار کالا از گمرکات اصفهان صادر شد؛ افزایش ۳۰ درصدی واردات",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/7021761/%DB%B1-%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A7%D8%B2-%DA%AF%D9%85%D8%B1%DA%A9%D8%A7%D8%AA-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B4%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C",
+    "telegram_message_ids": [
+      3628
+    ],
+    "eitaa_message_ids": [
+      183663562
+    ],
+    "group_message_ids": [
+      3389
+    ],
+    "content_hash": "31f5620a0989f2c7b5bc76fcff5d749941080a212ffdd0dd51399e446dd5330a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:20:59.805733+00:00",
+    "telegram_message_id": 3628,
+    "eitaa_last_sent_at": "2026-11-24T11:21:00.954568+00:00",
+    "eitaa_message_id": 183663562,
+    "group_last_sent_at": "2026-11-24T11:21:02.572163+00:00",
+    "group_message_id": 3389,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:02.645251+00:00"
+  },
+  "28b40e2f5a912ed7dd487a0f78cd1fd5e85760d7bedc2ab7552cdd7e862215f5": {
+    "title": "صادرات ۱۷ میلیون دلاری تعاونی های خراسان جنوبی در ۸ ماه",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/7021798/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DB%B1%DB%B7-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AA%D8%B9%D8%A7%D9%88%D9%86%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AF%D8%B1-%DB%B8-%D9%85%D8%A7%D9%87",
+    "telegram_message_ids": [
+      3629
+    ],
+    "eitaa_message_ids": [
+      183663587
+    ],
+    "group_message_ids": [
+      3390
+    ],
+    "content_hash": "ea7eb790a463404964b087a07434a626632d356dec026a15087d47564c542f1f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:04.334037+00:00",
+    "telegram_message_id": 3629,
+    "eitaa_last_sent_at": "2026-11-24T11:21:05.638525+00:00",
+    "eitaa_message_id": 183663587,
+    "group_last_sent_at": "2026-11-24T11:21:07.245745+00:00",
+    "group_message_id": 3390,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:07.319707+00:00"
+  },
+  "fb6074b95fbf174d18a43929043cf5fa2d162017bffe42109f175dfc2f870a5e": {
+    "title": "برنامه ۷۰ میلیارد دلاری بانک توسعه آسیایی برای تحول اقتصادی آسیا",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/7021801/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%DB%B7%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D8%A2%D8%B3%DB%8C%D8%A7",
+    "telegram_message_ids": [
+      3630
+    ],
+    "eitaa_message_ids": [
+      183663600
+    ],
+    "group_message_ids": [
+      3391
+    ],
+    "content_hash": "d89c96af7ddb5f6053ec9e97304068668668e7187e4ceb4c21d0defe3f1837d2",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:09.052422+00:00",
+    "telegram_message_id": 3630,
+    "eitaa_last_sent_at": "2026-11-24T11:21:10.261479+00:00",
+    "eitaa_message_id": 183663600,
+    "group_last_sent_at": "2026-11-24T11:21:11.916240+00:00",
+    "group_message_id": 3391,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:11.989062+00:00"
+  },
+  "0f1d174198ca88931241e25247af9ebcf374e9be7b9da4d9fa87769c812631f9": {
+    "title": "قیمت طلا امروز سه شنبه ۳ آذر ۱۴۰۵ / کاهش قیمت طلا",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310425-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1-%DA%A9%D8%A7%D9%87%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      3631
+    ],
+    "eitaa_message_ids": [
+      183663611
+    ],
+    "group_message_ids": [
+      3392
+    ],
+    "content_hash": "eb99d139e0a164af78864dc712bc3104b7f0da3a739ab3cd81bbb78cb7cc5e26",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:13.699232+00:00",
+    "telegram_message_id": 3631,
+    "eitaa_last_sent_at": "2026-11-24T11:21:14.981381+00:00",
+    "eitaa_message_id": 183663611,
+    "group_last_sent_at": "2026-11-24T11:21:16.582219+00:00",
+    "group_message_id": 3392,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:16.654687+00:00"
+  },
+  "2efa22227c1fbb6bed16e21d1a1c804b2ace58ba634ba2ff79ebbd8fa615ccc2": {
+    "title": "قیمت طلا ۱۸ عیار امروز سه شنبه ۳ آذر ۱۴۰۵ / افزایش قیمت طلا",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310424-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      3632
+    ],
+    "eitaa_message_ids": [
+      183663624
+    ],
+    "group_message_ids": [
+      3393
+    ],
+    "content_hash": "182abe94115fbf0c36451441bb071012301a23fe52d1f9906ad40fc2d42afa87",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:18.370381+00:00",
+    "telegram_message_id": 3632,
+    "eitaa_last_sent_at": "2026-11-24T11:21:19.633936+00:00",
+    "eitaa_message_id": 183663624,
+    "group_last_sent_at": "2026-11-24T11:21:21.268735+00:00",
+    "group_message_id": 3393,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:21.342271+00:00"
+  },
+  "fa57f17e932aa2d253ad5a1251a473218a019cdd208cae959801f6844015f103": {
+    "title": "عرضه ۲۱ هزار پنل خورشیدی در بورس کالا؛ برنامه فروش نقدی، سلف و اعتباری اعلام شد",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4310473-%D8%B9%D8%B1%D8%B6%D9%87-%D9%87%D8%B2%D8%A7%D8%B1-%D9%BE%D9%86%D9%84-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%81%D8%B1%D9%88%D8%B4-%D9%86%D9%82%D8%AF%DB%8C-%D8%B3%D9%84%D9%81-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      3633
+    ],
+    "eitaa_message_ids": [
+      183663636
+    ],
+    "group_message_ids": [
+      3394
+    ],
+    "content_hash": "d3a77b73b3d540ae0c7cc10b052b5136983b68520fba5557ee4be450df2232dd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:23.032492+00:00",
+    "telegram_message_id": 3633,
+    "eitaa_last_sent_at": "2026-11-24T11:21:24.287375+00:00",
+    "eitaa_message_id": 183663636,
+    "group_last_sent_at": "2026-11-24T11:21:25.898154+00:00",
+    "group_message_id": 3394,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:25.970806+00:00"
+  },
+  "40f1690320d9859539fe82ae02ae53678f6c174ed0bb2de9af69d9a04f86b9de": {
+    "title": "بورس به مسیر صعودی برگشت/ ورود نزدیک به ۶ هزار میلیارد تومان پول حقیقی به بازار سهام",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310471-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D9%87-%D9%85%D8%B3%DB%8C%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA-%D9%88%D8%B1%D9%88%D8%AF-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%A8%D9%87-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85",
+    "telegram_message_ids": [
+      3634
+    ],
+    "eitaa_message_ids": [
+      183663651
+    ],
+    "group_message_ids": [
+      3395
+    ],
+    "content_hash": "2b04a5e67769a436896215fb3fe9b8fa0c9e33013b02ee232ea13e4bf8881db2",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:27.658368+00:00",
+    "telegram_message_id": 3634,
+    "eitaa_last_sent_at": "2026-11-24T11:21:28.829086+00:00",
+    "eitaa_message_id": 183663651,
+    "group_last_sent_at": "2026-11-24T11:21:30.429798+00:00",
+    "group_message_id": 3395,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:30.503144+00:00"
+  },
+  "864253b006b1b906737053225218593dd3d898bd4e695c1047d6e7f7d521b849": {
+    "title": "صادرات کره جنوبی برای نخستین بار از مرز یک تریلیون دلار گذشت",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%AF%D9%86%DB%8C%D8%A7-5/4310437-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%A8%D8%A7%D8%B1-%D8%A7%D8%B2-%D9%85%D8%B1%D8%B2-%DB%8C%DA%A9-%D8%AA%D8%B1%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%DA%AF%D8%B0%D8%B4%D8%AA",
+    "telegram_message_ids": [
+      3635
+    ],
+    "eitaa_message_ids": [
+      183663659
+    ],
+    "group_message_ids": [
+      3396
+    ],
+    "content_hash": "46d870825adba0866d89701f52ba2ab2d9d81a3357aa03cc78ffd944fa9fbf4a",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:32.180751+00:00",
+    "telegram_message_id": 3635,
+    "eitaa_last_sent_at": "2026-11-24T11:21:33.319365+00:00",
+    "eitaa_message_id": 183663659,
+    "group_last_sent_at": "2026-11-24T11:21:34.923623+00:00",
+    "group_message_id": 3396,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:34.996629+00:00"
+  },
+  "9b02d4d504c0640624a0bf990230d4ab32ad6f675ba27ab779e79a916f7d2a96": {
+    "title": "همتی به تحریم مرکز مبادله ارز و طلا واکنش نشان داد/ ظاهراً دیگر تیری در ترکش تحریم کنندگان نمانده است",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310464-%D9%87%D9%85%D8%AA%DB%8C-%D8%A8%D9%87-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%85%D8%B1%DA%A9%D8%B2-%D9%85%D8%A8%D8%A7%D8%AF%D9%84%D9%87-%D8%A7%D8%B1%D8%B2-%D8%B7%D9%84%D8%A7-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D9%86%D8%B4%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF-%D8%B8%D8%A7%D9%87%D8%B1%D8%A7-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AA%DB%8C%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%AA%D8%B1%DA%A9%D8%B4-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D9%86%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+    "telegram_message_ids": [
+      3636
+    ],
+    "eitaa_message_ids": [
+      183663671
+    ],
+    "group_message_ids": [
+      3397
+    ],
+    "content_hash": "7d3a46a3672f2f406ddebdc9b3c895e1ff903cb439792facb0f1e70db680beb2",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:36.673462+00:00",
+    "telegram_message_id": 3636,
+    "eitaa_last_sent_at": "2026-11-24T11:21:37.327768+00:00",
+    "eitaa_message_id": 183663671,
+    "group_last_sent_at": "2026-11-24T11:21:38.979180+00:00",
+    "group_message_id": 3397,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:39.052373+00:00"
+  },
+  "6ceb1f628ed3773041df7d96cc80f8c1af3a0f7646120b9f93842063b3620249": {
+    "title": "بورس در سقف تاریخی",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4310457-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%B3%D9%82%D9%81-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C",
+    "telegram_message_ids": [
+      3637
+    ],
+    "eitaa_message_ids": [
+      183663676
+    ],
+    "group_message_ids": [
+      3398
+    ],
+    "content_hash": "76b9849b60f25208c219eebf773f46b1a5257868d7ec96bb007f888b220352dd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:40.765212+00:00",
+    "telegram_message_id": 3637,
+    "eitaa_last_sent_at": "2026-11-24T11:21:41.432962+00:00",
+    "eitaa_message_id": 183663676,
+    "group_last_sent_at": "2026-11-24T11:21:43.062735+00:00",
+    "group_message_id": 3398,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:43.136278+00:00"
+  },
+  "441fa91647c3837e9290981aa05f0e1efc36b0cebfeb2d1dcb8f7111d2d59f0e": {
+    "title": "رشد اقتصادی کشور در خوش بینانه ترین حالت به منفی ۶ و تورم عمومی تا ۱۰۰ درصد می رسد / نخستین اولویت، محدود کردن رشد نقدینگی به حداکثر ۴۰ درصد است",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2305604/%D8%B1%D8%B4%D8%AF-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D8%AE%D9%88%D8%B4-%D8%A8%DB%8C%D9%86%D8%A7%D9%86%D9%87-%D8%AA%D8%B1%DB%8C%D9%86-%D8%AD%D8%A7%D9%84%D8%AA-%D8%A8%D9%87-%D9%85%D9%86%D9%81%DB%8C-%DB%B6-%D9%88-%D8%AA%D9%88%D8%B1%D9%85-%D8%B9%D9%85%D9%88%D9%85%DB%8C",
+    "telegram_message_ids": [
+      3638
+    ],
+    "eitaa_message_ids": [
+      183663682
+    ],
+    "group_message_ids": [
+      3399
+    ],
+    "content_hash": "8e4cf6a9c96b9916aec20afffbcfdc50fedefb28a238d85bc24d2d16b5aae88d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:44.871294+00:00",
+    "telegram_message_id": 3638,
+    "eitaa_last_sent_at": "2026-11-24T11:21:45.523689+00:00",
+    "eitaa_message_id": 183663682,
+    "group_last_sent_at": "2026-11-24T11:21:47.155621+00:00",
+    "group_message_id": 3399,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:47.228873+00:00"
+  },
+  "53916bbb67afe7911971d873abeaee33d8629ceaf1f43328ef184651ba4913e9": {
+    "title": "قیمت جهانی طلا امروز سه شنبه ۳ آذر ۱۴۰۵/ طلا باز هم گران شد؛ هر اونس طلا به قیمت ۳ هزار و ۶۴۳ دلار رسید",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2306296/%D9%82%DB%8C%D9%85%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%DB%B3-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B7%D9%84%D8%A7-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%DA%AF%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      3639
+    ],
+    "eitaa_message_ids": [
+      183663692
+    ],
+    "group_message_ids": [
+      3400
+    ],
+    "content_hash": "a35db6a7e266201f13c9dd734d3db5344efc6cb8bbdb049d9b5935cb17ca5009",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:48.914098+00:00",
+    "telegram_message_id": 3639,
+    "eitaa_last_sent_at": "2026-11-24T11:21:49.650443+00:00",
+    "eitaa_message_id": 183663692,
+    "group_last_sent_at": "2026-11-24T11:21:51.271174+00:00",
+    "group_message_id": 3400,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:51.344309+00:00"
+  },
+  "a33db63008bc9bfd4194be455a29c557939315f38984a778d62da5082b76f3ad": {
+    "title": "قیمت خودرو امروز ۳ آذرماه ۱۴۰۵/ شاهین ۳ میلیارد و ۳۸۳ میلیون تومان شد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2306268/%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%B0%D8%B1%D9%85%D8%A7%D9%87-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B4%D8%A7%D9%87%DB%8C%D9%86-%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D9%88-%DB%B3%DB%B8%DB%B3-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86",
+    "telegram_message_ids": [
+      3640
+    ],
+    "eitaa_message_ids": [
+      183663701
+    ],
+    "group_message_ids": [
+      3401
+    ],
+    "content_hash": "9d4bce3741402955a88e5816e0f528e47007c2b8d3a087bc616095af3fb6da4b",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:53.065100+00:00",
+    "telegram_message_id": 3640,
+    "eitaa_last_sent_at": "2026-11-24T11:21:53.719298+00:00",
+    "eitaa_message_id": 183663701,
+    "group_last_sent_at": "2026-11-24T11:21:55.344477+00:00",
+    "group_message_id": 3401,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:55.417484+00:00"
+  },
+  "d00897203615685ba2864bec48bbd56e27571bb5ade9b35adfa8ef8471c8dbea": {
+    "title": "قیمت درهم امارات، دلار، یورو و انواع ارزها امروز ۳ آذر ۱۴۰۵ در زمان بازگشایی بازار/ درهم امارات ۷۳ هزار و ۹۳۱ تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2306266/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D8%B1%D9%87%D9%85-%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1",
+    "telegram_message_ids": [
+      3641
+    ],
+    "eitaa_message_ids": [
+      183663705
+    ],
+    "group_message_ids": [
+      3402
+    ],
+    "content_hash": "671a7850d4ec49cb9d9f9cd5506dd853aebede0a94ed53ff64fff3e1dd6b3ddd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:21:57.219486+00:00",
+    "telegram_message_id": 3641,
+    "eitaa_last_sent_at": "2026-11-24T11:21:57.887645+00:00",
+    "eitaa_message_id": 183663705,
+    "group_last_sent_at": "2026-11-24T11:21:59.487064+00:00",
+    "group_message_id": 3402,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:21:59.560159+00:00"
+  },
+  "5896805368da3f060e62d91004797070642c36f0743731510ef7dc0427e2595f": {
+    "title": "قیمت سکه امروز ۳ آذر ۱۴۰۵ در زمان بازگشایی بازار/ نیم سکه بیش از ۱۱ میلیون تومان گران شد و به قیمت ۱۳۷ میلیون و ۵۰۰ هزار تومان فروش رفت + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2306265/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%D8%A8%DB%8C%D8%B4",
+    "telegram_message_ids": [
+      3642
+    ],
+    "eitaa_message_ids": [
+      183663710
+    ],
+    "group_message_ids": [
+      3403
+    ],
+    "content_hash": "9e587163884acafb014ad1ada370c0ec9af23860436a12ae2614f24ed85bf5a0",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:22:01.240157+00:00",
+    "telegram_message_id": 3642,
+    "eitaa_last_sent_at": "2026-11-24T11:22:02.407065+00:00",
+    "eitaa_message_id": 183663710,
+    "group_last_sent_at": "2026-11-24T11:22:04.012028+00:00",
+    "group_message_id": 3403,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:22:04.085365+00:00"
+  },
+  "72e2f5f09ecaecbe887dae5f830f9deed12e9657d47e517c06b457ad6e4fa5a1": {
+    "title": "قیمت طلا امروز ۳ آذر ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۱۸ عیار بیش از ۱.۵ میلیون تومان گران شد و ۲۴ میلیون و ۹۷۸ هزار تومان قیمت خورد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2306264/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      3643
+    ],
+    "eitaa_message_ids": [
+      183663744
+    ],
+    "group_message_ids": [
+      3404
+    ],
+    "content_hash": "26595359018f4336775a873fa9d26b1827aad3f8f66b64a5207b9eacc4c42234",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:22:05.764528+00:00",
+    "telegram_message_id": 3643,
+    "eitaa_last_sent_at": "2026-11-24T11:22:06.916783+00:00",
+    "eitaa_message_id": 183663744,
+    "group_last_sent_at": "2026-11-24T11:22:08.519510+00:00",
+    "group_message_id": 3404,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:22:08.592581+00:00"
+  },
+  "d8017cb1b7e810dcee771ba6a2b4b582cbfccc97d9638c26241410bf70581698": {
+    "title": "جهش ۲۰۱ هزار واحدی شاخص بورس در سایه صعود دلار / ۶ همت وارد بورس شد",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/4203998/%D8%AC%D9%87%D8%B4-%DB%B2%DB%B0%DB%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%B3%D8%A7%DB%8C%D9%87-%D8%B5%D8%B9%D9%88%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B6-%D9%87%D9%85%D8%AA-%D9%88%D8%A7%D8%B1%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      3644
+    ],
+    "eitaa_message_ids": [
+      183663806
+    ],
+    "group_message_ids": [
+      3405
+    ],
+    "content_hash": "0715faec59b94e7ab757fe5268b3558ddfc383818daaa02f77af387a9d35db20",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:22:10.288493+00:00",
+    "telegram_message_id": 3644,
+    "eitaa_last_sent_at": "2026-11-24T11:22:11.468202+00:00",
+    "eitaa_message_id": 183663806,
+    "group_last_sent_at": "2026-11-24T11:22:13.072126+00:00",
+    "group_message_id": 3405,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:22:13.144936+00:00"
+  },
+  "2359e343ee9cb5cb1574b8aaab38ea258f84a526c376d7ebb3888276dce46b2b": {
+    "title": "قیمت سکه و طلا امروز 3 آذر / سکه ۱۲ میلیون تومان گران تر شد !",
+    "source": "تابناک",
+    "link": "https://tabnak.ir/fa/news/4203988/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D9%88-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-3-%D8%A2%D8%B0%D8%B1-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%DA%AF%D8%B1%D8%A7%D9%86%D8%AA%D8%B1-%D8%B4%D8%AF",
+    "telegram_message_ids": [
+      3645
+    ],
+    "eitaa_message_ids": [
+      183663833
+    ],
+    "group_message_ids": [
+      3406
+    ],
+    "content_hash": "456588d867a376762713119807889a39504a65b1903748b9e35d922eaa91690d",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:22:14.889439+00:00",
+    "telegram_message_id": 3645,
+    "eitaa_last_sent_at": "2026-11-24T11:22:15.554746+00:00",
+    "eitaa_message_id": 183663833,
+    "group_last_sent_at": "2026-11-24T11:22:17.176910+00:00",
+    "group_message_id": 3406,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:22:17.249990+00:00"
+  },
+  "7c9710e2443152379e934eb0d3483d5e14f3ead14ac6d9409e8de7c5cf8f421d": {
+    "title": "شاخص کل بورس بیش از ۲۰۱ هزار واحد رشد کرد",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1854975/%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B2%DB%B0%DB%B1-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF",
+    "telegram_message_ids": [
+      3646
+    ],
+    "eitaa_message_ids": [
+      183663845
+    ],
+    "group_message_ids": [
+      3407
+    ],
+    "content_hash": "89c6b9de12c0ece4735547311aa1e6434372ec15b9032b7f1e10af9ffb19301f",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:22:18.960794+00:00",
+    "telegram_message_id": 3646,
+    "eitaa_last_sent_at": "2026-11-24T11:22:19.647111+00:00",
+    "eitaa_message_id": 183663845,
+    "group_last_sent_at": "2026-11-24T11:22:21.263616+00:00",
+    "group_message_id": 3407,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:22:21.336704+00:00"
+  },
+  "399abeec495ba1413f6c88b514aca8716c09b02698ff8d68fe0a96f318cae514": {
+    "title": "قیمت طلا و سکه امروز سه شنبه ۳ آذر ۱۴۰۵",
+    "source": "مشرق",
+    "link": "https://www.mashreghnews.ir/news/1854972/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D9%88-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%DB%B3-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5",
+    "telegram_message_ids": [
+      3647
+    ],
+    "eitaa_message_ids": [
+      183663853
+    ],
+    "group_message_ids": [
+      3408
+    ],
+    "content_hash": "a9e74e6da39a2496ff1e50d849cbe5ee08fc581dfe935fc61cb9e897fae4dbcd",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-24T11:22:23.041923+00:00",
+    "telegram_message_id": 3647,
+    "eitaa_last_sent_at": "2026-11-24T11:22:24.251986+00:00",
+    "eitaa_message_id": 183663853,
+    "group_last_sent_at": "2026-11-24T11:22:25.863822+00:00",
+    "group_message_id": 3408,
+    "fully_published": true,
+    "last_checked_at": "2026-11-24T11:22:25.937421+00:00"
   }
 }
