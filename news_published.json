@@ -47198,5 +47198,125 @@
     "group_message_id": 3490,
     "fully_published": true,
     "last_checked_at": "2026-11-25T14:49:07.211685+00:00"
+  },
+  "faa3010385e9ab98c5682a08a28067b31ea5e41b4cca4ae756f23ab62b71e9ad": {
+    "title": "موافقت آمریکا با فروش ۶۲۲ میلیون دلار تجهیزات اف-۱۶ به اوکراین",
+    "source": "ایسنا",
+    "link": "https://www.isna.ir/news/1405090503215/%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%D9%81%D8%B1%D9%88%D8%B4-%DB%B6%DB%B2%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D8%A7%D9%81-%DB%B1%DB%B6-%D8%A8%D9%87-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86",
+    "telegram_message_ids": [
+      3758
+    ],
+    "eitaa_message_ids": [
+      183939810
+    ],
+    "group_message_ids": [
+      3519
+    ],
+    "content_hash": "7ed9353a97c548490d002d692eba67ba1352cf01aec42ad66d9e59bec9ce5eb1",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-25T23:30:02.388181+00:00",
+    "telegram_message_id": 3758,
+    "eitaa_last_sent_at": "2026-11-25T23:30:03.722465+00:00",
+    "eitaa_message_id": 183939810,
+    "group_last_sent_at": "2026-11-25T23:30:05.556280+00:00",
+    "group_message_id": 3519,
+    "fully_published": true,
+    "last_checked_at": "2026-11-25T23:30:05.604480+00:00"
+  },
+  "890bfd114bd058a8168d41bc60890809ef638c1ba458d0a3ff4034e8edce0c58": {
+    "title": "موافقت آمریکا با فروش بسته ۶۲۲ میلیون دلاری نظامی به اوکراین",
+    "source": "مهر",
+    "link": "https://www.mehrnews.com/news/7023618/%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%D9%81%D8%B1%D9%88%D8%B4-%D8%A8%D8%B3%D8%AA%D9%87-%DB%B6%DB%B2%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A8%D9%87-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86",
+    "telegram_message_ids": [
+      3759
+    ],
+    "eitaa_message_ids": [
+      183939824
+    ],
+    "group_message_ids": [
+      3520
+    ],
+    "content_hash": "ee7a1134a755638d06b368295a4f9f012b986dc56a8f7c5f51e67cf8a6e8ad1c",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-25T23:30:07.450989+00:00",
+    "telegram_message_id": 3759,
+    "eitaa_last_sent_at": "2026-11-25T23:30:08.256560+00:00",
+    "eitaa_message_id": 183939824,
+    "group_last_sent_at": "2026-11-25T23:30:10.059774+00:00",
+    "group_message_id": 3520,
+    "fully_published": true,
+    "last_checked_at": "2026-11-25T23:30:10.107217+00:00"
+  },
+  "cd3ccbd8cf2ca0f7491e70db77d89bad0651711b98e1e477bdd8421057dec374": {
+    "title": "شتاب بورس برای کانال 9 میلیونی",
+    "source": "دنیای اقتصاد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4310728-%D8%B4%D8%AA%D8%A7%D8%A8-%D8%A8%D9%88%D8%B1%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C",
+    "telegram_message_ids": [
+      3760
+    ],
+    "eitaa_message_ids": [
+      183939832
+    ],
+    "group_message_ids": [
+      3521
+    ],
+    "content_hash": "0737dad7450efd20c6461759ad5f26ff04c514933280d94944e778a7cc5bcc56",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-25T23:30:11.967046+00:00",
+    "telegram_message_id": 3760,
+    "eitaa_last_sent_at": "2026-11-25T23:30:12.765173+00:00",
+    "eitaa_message_id": 183939832,
+    "group_last_sent_at": "2026-11-25T23:30:14.761605+00:00",
+    "group_message_id": 3521,
+    "fully_published": true,
+    "last_checked_at": "2026-11-25T23:30:14.809520+00:00"
+  },
+  "e4d7afc3951465195e9ebfa2cff8a83cee80ba87e0bbe7bb4de9d9f74645e705": {
+    "title": "قیمت طلا امروز ۴ آذر ۱۴۰۵ در زمان بسته شدن بازار/ هر گرم طلای ۱۸ عیار روی قیمت ۲۵ میلیون و ۴۲۶ هزار تومان ایستاد + جدول",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2307041/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B4-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
+    "telegram_message_ids": [
+      3761
+    ],
+    "eitaa_message_ids": [
+      183939839
+    ],
+    "group_message_ids": [
+      3522
+    ],
+    "content_hash": "33cf502846d8dd11d6aefdc256d7a7f11e835480f7e4bd61ae73b6f6d2d61859",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-25T23:30:16.684379+00:00",
+    "telegram_message_id": 3761,
+    "eitaa_last_sent_at": "2026-11-25T23:30:17.492466+00:00",
+    "eitaa_message_id": 183939839,
+    "group_last_sent_at": "2026-11-25T23:30:19.326586+00:00",
+    "group_message_id": 3522,
+    "fully_published": true,
+    "last_checked_at": "2026-11-25T23:30:19.373908+00:00"
+  },
+  "0c0f0bfb41f7873e5abf0a32b0d706f6c82c95611c0908c70699d96dd4981784": {
+    "title": "دلار باز هم به ۳۰۰ هزار تومان نزدیک تر شد؛ مسیر صعودی نرخ طلا با وجود کاهش جهانی نرخ انس",
+    "source": "خبرآنلاین اقتصادی",
+    "link": "https://www.khabaronline.ir/news/2306994/%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B2-%D9%87%D9%85-%D8%A8%D9%87-%DB%B3%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%AA%D8%B1-%D8%B4%D8%AF-%D9%85%D8%B3%DB%8C%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D9%86%D8%B1%D8%AE-%D8%B7%D9%84%D8%A7",
+    "telegram_message_ids": [
+      3762
+    ],
+    "eitaa_message_ids": [
+      183939846
+    ],
+    "group_message_ids": [
+      3523
+    ],
+    "content_hash": "a450891f76a999149e5c3cf4f664efe7c9c187a2eefe2e99b05f1f72a7e9cfa3",
+    "expected_parts": 1,
+    "telegram_last_sent_at": "2026-11-25T23:30:21.226042+00:00",
+    "telegram_message_id": 3762,
+    "eitaa_last_sent_at": "2026-11-25T23:30:22.028956+00:00",
+    "eitaa_message_id": 183939846,
+    "group_last_sent_at": "2026-11-25T23:30:23.842868+00:00",
+    "group_message_id": 3523,
+    "fully_published": true,
+    "last_checked_at": "2026-11-25T23:30:23.890193+00:00"
   }
 }
