@@ -60977,5 +60977,74 @@
     "group_sent_at": "2026-11-25T01:01:21.595111+03:30",
     "group_message_id": 3466,
     "published_at": "2026-11-25T01:01:21.635310+03:30"
+  },
+  "https://t.me/rahavard365/58767": {
+    "item": {
+      "analyst": "ره‌آورد ۳۶۵",
+      "title": "✔️ عرضه اولیه آب",
+      "summary": "✔️ عرضه اولیه آب \n\n 🗓 تاریخ عرضه: ۱۴۰۵/۰۹/۰۴\n\n شرکت: مهندسی توسعه آب آسیا \n\n ⬅ روش عرضه: دو مرحله‌ای (حراج و قیمت ثابت)\n\n ⬅ قیمت ارزش‌گذاری: ۵,۳۴۷ ریال\n ⬅ حداکثر سهمیه هر کد: ۳,۰۰۰ سهم\n\n ✔️ حداکثر نقدینگی موردنیاز: ۱,۶۰۴,۱۰۰ تومان\n\n ✉️ @rahavard365",
+      "full_text": "✔️ عرضه اولیه آب \n\n 🗓 تاریخ عرضه: ۱۴۰۵/۰۹/۰۴\n\n شرکت: مهندسی توسعه آب آسیا \n\n ⬅ روش عرضه: دو مرحله‌ای (حراج و قیمت ثابت)\n\n ⬅ قیمت ارزش‌گذاری: ۵,۳۴۷ ریال\n ⬅ حداکثر سهمیه هر کد: ۳,۰۰۰ سهم\n\n ✔️ حداکثر نقدینگی موردنیاز: ۱,۶۰۴,۱۰۰ تومان\n\n ✉️ @rahavard365",
+      "source": "ره‌آورد ۳۶۵",
+      "link": "https://t.me/rahavard365/58767",
+      "analysis_score": 20,
+      "market_matches": [
+        "ارز",
+        "ریال",
+        "عرضه اولیه",
+        "نقدینگی"
+      ],
+      "analysis_matches": [
+        "ارزش گذاری",
+        "ارزش‌گذاری",
+        "نقدینگی",
+        "عرضه",
+        "قیمت"
+      ],
+      "market_groups": [
+        "currency"
+      ],
+      "analysis_reasons": [
+        "ارتباط با بازار",
+        "دارای نشانه‌های تحلیل",
+        "دارای داده عددی"
+      ],
+      "priority": "high",
+      "content_length": 248,
+      "content_complete_from_source": true,
+      "collected_at": "2026-11-25T08:00:54.418721+03:30"
+    },
+    "content_signature": "788fc5d1149f06b701b307511e5a148baecd99632e43da349b9ccaf679f6afaf",
+    "first_seen_at": "2026-11-25T08:01:22.192614+03:30",
+    "telegram_parts_sent": [
+      true
+    ],
+    "telegram_part_message_ids": [
+      3712
+    ],
+    "telegram_last_success_at": "2026-11-25T08:01:22.552435+03:30",
+    "telegram_sent": true,
+    "telegram_sent_at": "2026-11-25T08:01:22.620262+03:30",
+    "telegram_message_id": 3712,
+    "eitaa_parts_sent": [
+      true
+    ],
+    "eitaa_part_message_ids": [
+      183773409
+    ],
+    "eitaa_last_success_at": "2026-11-25T08:01:23.785664+03:30",
+    "eitaa_sent": true,
+    "eitaa_sent_at": "2026-11-25T08:01:23.845147+03:30",
+    "eitaa_message_id": 183773409,
+    "group_parts_sent": [
+      true
+    ],
+    "group_part_message_ids": [
+      3473
+    ],
+    "group_last_success_at": "2026-11-25T08:01:24.274752+03:30",
+    "group_sent": true,
+    "group_sent_at": "2026-11-25T08:01:24.334274+03:30",
+    "group_message_id": 3473,
+    "published_at": "2026-11-25T08:01:24.393623+03:30"
   }
 }

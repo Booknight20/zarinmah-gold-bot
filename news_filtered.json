@@ -96,81 +96,6 @@
     "filter_applied": true
   },
   {
-    "source": "تابناک",
-    "title": "عملکرد بورس در آبان ؛ خروج بیش از ۱۱ همت از صندوق طلا و بانک ها",
-    "link": "https://tabnak.ir/fa/news/4203120/%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%A2%D8%A8%D8%A7%D9%86-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B1-%D9%87%D9%85%D8%AA-%D8%A7%D8%B2-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%B7%D9%84%D8%A7-%D9%88-%D8%A8%D8%A7%D9%86%DA%A9%D9%87%D8%A7-c1cc9366b87d4154af678563",
-    "summary": "بازار سهام در هفته گذشته در حالی با افت شاخص کل بورس و رشد شاخص هم وزن همراه شد که بررسی ورود و خروج پول حقیقی در بورس نشان می دهد نقدینگی از گروه های بزرگ مانند بانکی، شیمیایی و فلزی خارج شده و به سمت گروه دارویی، نفتی و صندوق های درآمد ثابت حرکت کرده است.",
-    "published": "Fri, 20 Nov 2026 12:25:44 +0000",
-    "collected_at": "2026-11-20T17:19:02.897281+03:30",
-    "filter_market_score": 49,
-    "market_score": 49,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "صندوق طلا"
-      ],
-      "stock": [
-        "بورس",
-        "صندوق طلا",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "خروج پول حقیقی",
-        "سهام",
-        "شاخص کل بورس",
-        "بازار سهام"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "صندوق طلا"
-      ],
-      "stock": [
-        "بورس",
-        "صندوق طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "خروج پول حقیقی",
-        "سهام",
-        "شاخص کل بورس",
-        "بازار سهام"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "صندوق طلا"
-      ],
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "شاخص هم وزن",
-        "خروج پول حقیقی",
-        "صندوق طلا",
-        "سهام",
-        "شاخص کل بورس",
-        "بازار سهام"
-      ]
-    },
-    "driver_matches": [
-      "نقدینگی",
-      "نفت"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "رشد",
-      "افت",
-      "خروج پول"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "نرخ دلار، طلا و یورو امروز شنبه ۳۰ آبان ۱۴۰۵ / طلا و سکه نزولی شدند",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309750-%D9%86%D8%B1%D8%AE-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%DB%8C%D9%88%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D9%86-%D8%B7%D9%84%D8%A7-%D8%B3%DA%A9%D9%87-%D9%86%D8%B2%D9%88%D9%84%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF",
@@ -595,6 +520,72 @@
       "نرخ",
       "معاملات",
       "روند"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "حرکت دلار به سوی مرز ۳۰۰ هزار تومان / چرا طلای ایران ساز مخالف جهان را می زند؟ / پای بازیگران بزرگ در میان است",
+    "link": "https://www.khabaronline.ir/news/2306494/%D8%AD%D8%B1%DA%A9%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D8%B3%D9%88%DB%8C-%D9%85%D8%B1%D8%B2-%DB%B3%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%DA%86%D8%B1%D8%A7-%D8%B7%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D8%A7%D8%B2-%D9%85%D8%AE%D8%A7%D9%84%D9%81",
+    "summary": "دبیر پیشین کانون صرافان ارزی، با اشاره به احتمال مداخله بازیگران بزرگ در بازار ارز، معتقد است انتظارات شکل گرفته درباره تحولات ارزی و صادرات نفت نیز در تغییر مسیر بازار مؤثر بوده است. سلطانی با اشاره به تحولات اخیر بازار می گوید قیمت جهانی طلا در روز سه شنبه با افزایشی حدود ۳۰ دلار نسبت به روز دوشنبه به ۳۶۳۰ دلار رسید؛ با این حال، میزان افزایش قیمت طلا در بازار داخلی بسیار بیشتر از رشد اونس جهانی بوده است.",
+    "published": "Wed, 25 Nov 2026 03:08:00 GMT",
+    "collected_at": "2026-11-25T08:00:11.143551+03:30",
+    "filter_market_score": 40,
+    "market_score": 40,
+    "market_matches": {
+      "gold": [
+        "طلا",
+        "اونس جهانی"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "بازار ارز"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ],
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس جهانی"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "بازار ارز"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا",
+        "اونس جهانی"
+      ],
+      "currency": [
+        "دلار",
+        "ارز",
+        "بازار ارز"
+      ]
+    },
+    "driver_matches": [
+      "نفت",
+      "صادرات نفت",
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "رشد",
+      "قیمت",
+      "تغییر",
+      "صادرات"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -1058,59 +1049,6 @@
       "صعود",
       "نرخ",
       "معامله"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۲۹ آبان ۱۴۰۵/ هر گرم طلای ۱۸عیار ۲۴ میلیون و ۲۰۴ هزار تومان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2304472/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C-%DB%B1%DB%B8%D8%B9%DB%8C%D8%A7%D8%B1-%DB%B2%DB%B4-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B2%DB%B0%DB%B4",
-    "summary": "قیمت طلا در بازار تهران ۲۹ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۴ میلیون و ۲۰۴ هزار تومان قیمت خورد. هر مثقال طلا هم به قیمت ۱۰۴ میلیون و ۸۵۰ هزار تومان رسید.",
-    "published": "Fri, 20 Nov 2026 04:58:39 GMT",
-    "collected_at": "2026-11-20T17:18:52.018232+03:30",
-    "filter_market_score": 36,
-    "market_score": 36,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار",
-        "مثقال طلا"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "گرم طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا",
-        "گرم طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا",
-        "گرم طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -3001,104 +2939,6 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار، یورو و انواع ارزها امروز ۲۹ آبان ۱۴۰۵/ دلار به قیمت ۲۶۹ هزار و ۹۷۰ تومان رسید + جدول",
-    "link": "https://www.khabaronline.ir/news/2304476/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA",
-    "summary": "قیمت دلار، یورو و سایر ارزها ۲۹ آبان ۱۴۰۵ اعلام شد. بر این اساس بهای هر دلار ۲۶۹ هزار و ۹۷۰ تومان قیمت خورد و یورو نیز به قیمت ۲۹۴ هزار و ۴۴۰ تومان فروخته شد.",
-    "published": "Fri, 20 Nov 2026 05:16:00 GMT",
-    "collected_at": "2026-11-20T17:18:52.018218+03:30",
-    "filter_market_score": 26,
-    "market_score": 26,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "سنگین ترین ریزش قیمت طلا رقم خورد؛ اونس طلا ۳۵۵۱ شد",
-    "link": "https://www.khabaronline.ir/news/2304506/%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B1%DB%8C%D8%B2%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B1%D9%82%D9%85-%D8%AE%D9%88%D8%B1%D8%AF-%D8%A7%D9%88%D9%86%D8%B3-%D8%B7%D9%84%D8%A7-%DB%B3%DB%B5%DB%B5%DB%B1-%D8%B4%D8%AF",
-    "summary": "اونس طلا جمعه ۲۹ آبان به زیر ۳۶۰۰ دلار رفت و در مسیر سنگین ترین افت هفتگی هشت ماه اخیر قرار گرفت. بر همین اساس، اونس طلا سنگین ترین ریزش قیمت طلا رقم خورد؛ اونس طلا ۳۵۵۱ قیمت گذاری شد.",
-    "published": "Fri, 20 Nov 2026 06:16:05 GMT",
-    "collected_at": "2026-11-20T17:18:52.018189+03:30",
-    "filter_market_score": 26,
-    "market_score": 26,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا",
-        "اونس طلا"
-      ],
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "ریزش",
-      "قیمت",
-      "افت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "ایسنا",
     "title": "بازگشت تقاضا به بورس تهران/ شاخص کل بیش از ۶۴ هزار واحد رشد کرد",
     "link": "https://www.isna.ir/news/1405090100440/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%AA%D9%82%D8%A7%D8%B6%D8%A7-%D8%A8%D9%87-%D8%A8%D9%88%D8%B1%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D8%A7%D8%AE%D8%B5-%DA%A9%D9%84-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B6%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D8%B1%D8%B4%D8%AF-%DA%A9%D8%B1%D8%AF",
@@ -4094,51 +3934,6 @@
       "افزایش",
       "قیمت",
       "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "چرخش فضای معاملات بورس",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4309552-%DA%86%D8%B1%D8%AE%D8%B4-%D9%81%D8%B6%D8%A7%DB%8C-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A8%D9%88%D8%B1%D8%B3",
-    "summary": "دنیای اقتصاد: معاملات بورس تهران در هفته گذشته با واگرایی شاخص کل و هم وزن دنبال شد؛ به طوری که در شرایط افت نماگر اصلی بازار، سهام کوچک و متوسط عملکرد بهتری را به ثبت رساندند. شاخص کل در این هفته 0.4 درصد کاهش یافت و در سطح ۸ میلیون و ۳۹۱ هزار واحد قرار گرفت.",
-    "published": "Fri, 20 Nov 2026 12:04:15 +0000",
-    "collected_at": "2026-11-20T17:18:37.638876+03:30",
-    "filter_market_score": 19,
-    "market_score": 19,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "سهام"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {
-      "stock": [
-        "بورس",
-        "شاخص کل",
-        "سهام"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "معاملات",
-      "کاهش",
-      "افت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -5147,6 +4942,46 @@
     "filter_applied": true
   },
   {
+    "source": "مشرق",
+    "title": "قاچاق ۴.۵ میلیارد دلاری در بازار آرایشی و بهداشتی",
+    "link": "https://www.mashreghnews.ir/news/1854998/%D9%82%D8%A7%DA%86%D8%A7%D9%82-%DB%B4-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A2%D8%B1%D8%A7%DB%8C%D8%B4%DB%8C-%D9%88-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C",
+    "summary": "رئیس اتحادیه آرایشی تهران با انتقاد از ممنوعیت واردات از سال ۱۳۹۷، قاچاق ۴.۵ میلیارد دلاری این محصولات را نتیجه نیاز بازار دانست و خواستار واردات هوشمند شد.",
+    "published": "Wed, 25 Nov 2026 01:00:00 GMT",
+    "collected_at": "2026-11-25T08:00:28.010574+03:30",
+    "filter_market_score": 14,
+    "market_score": 14,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "driver_matches": [
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "ممنوعیت",
+      "واردات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "یک فعال صنفی خبر داد: گردش مالی ۴.۵ میلیارد دلاری قاچاق لوازم آرایشی و بهداشتی/ ایران دومین کشور پرمصرف لوازم آرایش در منطقه",
     "link": "https://www.khabaronline.ir/news/2306498/%DB%8C%DA%A9-%D9%81%D8%B9%D8%A7%D9%84-%D8%B5%D9%86%D9%81%DB%8C-%D8%AE%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF-%DA%AF%D8%B1%D8%AF%D8%B4-%D9%85%D8%A7%D9%84%DB%8C-%DB%B4-%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%AF%D9%84%D8%A7%D8%B1%DB%8C-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D9%84%D9%88%D8%A7%D8%B2%D9%85",
@@ -5423,6 +5258,45 @@
       "سود",
       "تصویب",
       "بازدهی"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true
+  },
+  {
+    "source": "تابناک",
+    "title": "شگردهای کلاهبرداران بازار سکه و طلا / اینطوری سرمان را کلاه میگذارند!",
+    "link": "https://tabnak.ir/fa/news/4204131/%D8%B4%DA%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%DA%A9%D9%87-%D9%88-%D8%B7%D9%84%D8%A7-%D8%A7%DB%8C%D9%86%D8%B7%D9%88%D8%B1%DB%8C-%D8%B3%D8%B1%D9%85%D8%A7%D9%86-%D8%B1%D8%A7-%DA%A9%D9%84%D8%A7%D9%87-%D9%85%DB%8C%DA%AF%D8%B0%D8%A7%D8%B1%D9%86%D8%AF",
+    "summary": "بازار طلا در ایران همیشه یکی از پناهگاه های سنتی مردم برای حفظ ارزش پس انداز بوده است؛ اما حالا با افزایش قیمت ها، گسترش خریدوفروش در اینستاگرام و تلگرام و رواج پلتفرم های فروش آنلاین، شکل تازه ای از کلاهبرداری در این بازار شکل گرفته است. کلاهبرداری هایی که گاهی با یک صفحه اینستاگرامی و چند عکس از شمش و سکه آغاز می شوند و گاهی حتی در یک معامله حضوری، پشت پیشخوان طلافروشی اتفاق می افتند.",
+    "published": "Wed, 25 Nov 2026 03:25:40 +0000",
+    "collected_at": "2026-11-25T08:00:18.712288+03:30",
+    "filter_market_score": 13,
+    "market_score": 13,
+    "market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "title_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "summary_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "full_text_market_matches": {
+      "gold": [
+        "طلا"
+      ]
+    },
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "قیمت",
+      "معامله"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -5872,39 +5746,40 @@
     "filter_applied": true
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت سکه امروز ۲۹ آبان ۱۴۰۵/ نیم سکه ۱۳۰ میلیون تومان به فروش رفت + جدول",
-    "link": "https://www.khabaronline.ir/news/2304474/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%A8%D9%87-%D9%81%D8%B1%D9%88%D8%B4",
-    "summary": "قیمت سکه در بازار تهران ۲۹ آبان ۱۴۰۵ اعلام شد و سکه به قیمت ۲۴۸ میلیون و ۳۰۰ هزار تومان رسید و نیم سکه ۱۳۰ میلیون تومان به فروش رفت.",
-    "published": "Fri, 20 Nov 2026 05:42:00 GMT",
-    "collected_at": "2026-11-20T17:18:52.018203+03:30",
-    "filter_market_score": 12,
-    "market_score": 12,
+    "source": "مشرق",
+    "title": "غول هوش مصنوعی آمریکا سقوط کرد",
+    "link": "https://www.mashreghnews.ir/news/1854997/%D8%BA%D9%88%D9%84-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B3%D9%82%D9%88%D8%B7-%DA%A9%D8%B1%D8%AF",
+    "summary": "شرکت آنتروپیک، سازنده ربات گفت وگوی «کلود» که رقیب چت جی پی تی محسوب می شود، تنها چند روز پس از یک عرضه پرهیاهو در بورس آمریکا، زیر قیمت عرضه اولیه خود سقوط کرد.",
+    "published": "Wed, 25 Nov 2026 00:00:00 GMT",
+    "collected_at": "2026-11-25T08:00:28.010588+03:30",
+    "filter_market_score": 11,
+    "market_score": 11,
     "market_matches": {
-      "gold": [
-        "نیم سکه"
+      "stock": [
+        "بورس",
+        "عرضه اولیه"
       ]
     },
-    "title_market_matches": {
-      "gold": [
-        "نیم سکه"
-      ]
-    },
+    "title_market_matches": {},
     "summary_market_matches": {
-      "gold": [
-        "نیم سکه"
+      "stock": [
+        "بورس",
+        "عرضه اولیه"
       ]
     },
     "full_text_market_matches": {
-      "gold": [
-        "نیم سکه"
+      "stock": [
+        "بورس",
+        "عرضه اولیه"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
+      "سقوط",
       "قیمت",
-      "اعلام شد"
+      "عرضه",
+      "عرضه اولیه"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -6103,39 +5978,37 @@
     "filter_applied": true
   },
   {
-    "source": "مشرق",
-    "title": "سامانه ناظر معاملات طلا فعال شد؛ اتصال برخی پلتفرم ها به زیرساخت نظارت",
-    "link": "https://www.mashreghnews.ir/news/1854079/%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%86%D8%A7%D8%B8%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B7%D9%84%D8%A7-%D9%81%D8%B9%D8%A7%D9%84-%D8%B4%D8%AF-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%B1%D8%AE%DB%8C-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D9%87%D8%A7-%D8%A8%D9%87-%D8%B2%DB%8C%D8%B1%D8%B3%D8%A7%D8%AE%D8%AA",
-    "summary": "سامانه ناظر معاملات برخط طلا راه اندازی شده و برخی پلتفرم ها پس از انجام آزمون های فنی به آن متصل شده اند.",
-    "published": "Fri, 20 Nov 2026 13:40:00 GMT",
-    "collected_at": "2026-11-20T17:19:15.851307+03:30",
-    "filter_market_score": 11,
-    "market_score": 11,
+    "source": "دنیای اقتصاد",
+    "title": "پیام جدید سردار رضایی درباره محاصره ایران / محاصره را درهم می شکنیم و به هرگونه تجاوز پاسخ می دهیم",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310621-%D9%BE%DB%8C%D8%A7%D9%85-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%B1%D8%A7-%D8%AF%D8%B1%D9%87%D9%85-%D9%85%DB%8C-%D8%B4%DA%A9%D9%86%DB%8C%D9%85-%D8%A8%D9%87-%D9%87%D8%B1%DA%AF%D9%88%D9%86%D9%87-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%85%DB%8C-%D8%AF%D9%87%DB%8C%D9%85",
+    "summary": "سرلشکر رضایی با اشاره به طرح آمریکا برای محاصره ایران تأکید کرد ملت ایران و نیروهای مسلح مصمم هستند این محاصره را درهم بشکنند و به هرگونه تجاوز جدید با تمام قوا پاسخ دهند.",
+    "published": "Wed, 25 Nov 2026 00:30:01 +0000",
+    "collected_at": "2026-11-25T07:59:57.646347+03:30",
+    "filter_market_score": 10,
+    "market_score": 10,
     "market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "درهم"
       ]
     },
     "title_market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "درهم"
       ]
     },
     "summary_market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "درهم"
       ]
     },
     "full_text_market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "درهم"
       ]
     },
     "driver_matches": [],
     "major_event_matches": [],
-    "signal_matches": [
-      "معاملات"
-    ],
+    "signal_matches": [],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
   },
@@ -6535,112 +6408,36 @@
     "filter_applied": true
   },
   {
-    "source": "مشرق",
-    "title": "آیلار جامی طلا گرفت؛ زهرا رحیمی به مدال نقره رسید",
-    "link": "https://www.mashreghnews.ir/news/1854045/%D8%A2%DB%8C%D9%84%D8%A7%D8%B1-%D8%AC%D8%A7%D9%85%DB%8C-%D8%B7%D9%84%D8%A7-%DA%AF%D8%B1%D9%81%D8%AA-%D8%B2%D9%87%D8%B1%D8%A7-%D8%B1%D8%AD%DB%8C%D9%85%DB%8C-%D8%A8%D9%87-%D9%85%D8%AF%D8%A7%D9%84-%D9%86%D9%82%D8%B1%D9%87-%D8%B1%D8%B3%DB%8C%D8%AF",
-    "summary": "روز نخست رقابت های پاراتکواندو قهرمانی جهان با کسب یک مدال طلا و یک مدال نقره برای کشورمان به پایان رسید.",
-    "published": "Fri, 20 Nov 2026 11:18:28 GMT",
-    "collected_at": "2026-11-20T17:19:15.851664+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
+    "source": "دنیای اقتصاد",
+    "title": "از تحریم پلتفرم معاملات ارزی ایران تا پیام میانجی قطری از قلب آمریکا",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-201/4309967-%D8%A7%D8%B2-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%BE%D9%84%D8%AA%D9%81%D8%B1%D9%85-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%A7%D9%85-%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C-%D9%82%D8%B7%D8%B1%DB%8C-%D8%A7%D8%B2-%D9%82%D9%84%D8%A8-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+    "summary": "دنیای اقتصاد؛ دنیای اقتصاد هرصبح در پادکست«دشت اول» به بررسی مهم ترین اخبار اقتصادی و سیاسی ایران و جهان به صورت خلاصه می پردازد تا بتوانید در کوتاه ترین زمان از مهم ترین تحولات داخلی و بین المللی باخبر شوید.",
+    "published": "Wed, 25 Nov 2026 03:24:58 +0000",
+    "collected_at": "2026-11-25T07:59:57.646224+03:30",
+    "filter_market_score": 9,
+    "market_score": 9,
     "market_matches": {
-      "gold": [
-        "طلا"
+      "currency": [
+        "ارز"
       ]
     },
     "title_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت خودرو امروز ۲۹ آبان ماه ۱۴۰۵/ سمند سورن ۱۳۰ میلیون تومان گران شد و ۳ میلیارد و ۳۶۰ میلیون تومان فروش رفت + جدول",
-    "link": "https://www.khabaronline.ir/news/2304502/%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2%DB%B9-%D8%A2%D8%A8%D8%A7%D9%86-%D9%85%D8%A7%D9%87-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%B3%D9%85%D9%86%D8%AF-%D8%B3%D9%88%D8%B1%D9%86-%DB%B1%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
-    "summary": "با وجود رکود معاملات و نوسانات ارزی، بازار خودرو امروز با موجی قدرتمند و صعودی مواجه شد و تمامی محصولات خودرویی جهش سنگینی را ثبت کردند. بر همین اساس، سمند سورن ۱۳۰ میلیون تومان گران شد و ۳ میلیارد و ۳۶۰ میلیون تومان فروش رفت.",
-    "published": "Fri, 20 Nov 2026 08:32:00 GMT",
-    "collected_at": "2026-11-20T17:18:52.018111+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
       "currency": [
         "ارز"
       ]
     },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "ارز"
-      ]
-    },
+    "summary_market_matches": {},
     "full_text_market_matches": {
       "currency": [
         "ارز"
       ]
     },
     "driver_matches": [
-      "رکود"
+      "تحریم"
     ],
     "major_event_matches": [],
     "signal_matches": [
-      "قیمت",
-      "صعود",
-      "جهش",
       "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "گزارش رویترز از احتمال تعطیلی دولت ترامپ برای اختلاف بر سر جنگ ایران",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309548-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%B1%D9%88%DB%8C%D8%AA%D8%B1%D8%B2-%D8%A7%D8%B2-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D8%A8%D8%B1-%D8%B3%D8%B1-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-    "summary": "کنگره ممکن است به سمت تعطیلی دولت قبل از کریسمس پیش برود، چون از یک سو اختلافات بر سر جنگ ایران و از سوی دیگر درخواست دونالد ترامپ، رئیس جمهور، برای ۳۵۰ میلیارد دلار بودجه جدید برای پنتاگون، هرگونه توافق بودجه ای را تهدید می کند.",
-    "published": "Fri, 20 Nov 2026 11:32:23 +0000",
-    "collected_at": "2026-11-20T17:18:37.638902+03:30",
-    "filter_market_score": 10,
-    "market_score": 10,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "بودجه"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "گزارش",
-      "توافق"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -6830,43 +6627,6 @@
     "filter_applied": true
   },
   {
-    "source": "مشرق",
-    "title": "احتمال تعطیلی دولت آمریکا در پی اختلاف بر سر جنگ علیه ایران",
-    "link": "https://www.mashreghnews.ir/news/1854062/%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D8%A8%D8%B1-%D8%B3%D8%B1-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-    "summary": "اختلاف جمهوری خواهان و دموکرات ها بر سر تأمین مالی جنگ ایران و درخواست ۳۵۰ میلیارد دلاری ترامپ برای بودجه نظامی، توافق کنگره برای جلوگیری از تعطیلی دولت آمریکا را با مشکل مواجه کرده است.",
-    "published": "Fri, 20 Nov 2026 12:15:00 GMT",
-    "collected_at": "2026-11-20T17:19:15.851564+03:30",
-    "filter_market_score": 9,
-    "market_score": 9,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [
-      "بودجه"
-    ],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [
-      "توافق"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "مسکن دلار را شکست داد؛ چرا بازار مسکن تهران با واقعیت فاصله دارد؟",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310098-%D9%85%D8%B3%DA%A9%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF-%DA%86%D8%B1%D8%A7-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B3%DA%A9%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
@@ -6896,42 +6656,6 @@
     "signal_matches": [
       "قیمت",
       "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "پیش بینی قیمت سکه در هفته اول آذر 1405",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309538-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D8%A7%D9%88%D9%84-%D8%A2%D8%B0%D8%B1",
-    "summary": "تحلیلگران محدوده ۲۴۷ تا ۲۴۸ میلیون تومان را نخستین منطقه حمایتی سکه امامی می دانند و معتقدند از دست رفتن این سطح می تواند قیمت را به سمت حمایت مهم و روانی ۲۴۵ میلیون تومان هدایت کند.",
-    "published": "Fri, 20 Nov 2026 08:51:02 +0000",
-    "collected_at": "2026-11-20T17:18:37.639082+03:30",
-    "filter_market_score": 8,
-    "market_score": 8,
-    "market_matches": {
-      "gold": [
-        "سکه امامی"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "سکه امامی"
-      ]
-    },
-    "full_text_market_matches": {
-      "gold": [
-        "سکه امامی"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "پیش‌بینی",
-      "پیش بینی",
-      "قیمت",
-      "حمایت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
@@ -7402,39 +7126,6 @@
     "major_event_matches": [],
     "signal_matches": [
       "هدف"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true
-  },
-  {
-    "source": "تابناک",
-    "title": "درآمد میلیونی آقای مشاور فقط در یک سال",
-    "link": "https://tabnak.ir/fa/news/4203110/%D8%AF%D8%B1%D8%A2%D9%85%D8%AF-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%A2%D9%82%D8%A7%DB%8C-%D9%85%D8%B4%D8%A7%D9%88%D8%B1-%D9%81%D9%82%D8%B7-%D8%AF%D8%B1-%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84-831635447b774fef82886e83",
-    "summary": "روزنامه واشنگتن پست گزارش داد مشاور باسابقه دونالد ترامپ، طی ۱۲ ماه منتهی به سپتامبر ۲۰۲۶ حدود ۱۵ میلیون دلار درآمد کسب کرده است.",
-    "published": "Fri, 20 Nov 2026 11:01:14 +0000",
-    "collected_at": "2026-11-20T17:19:02.897580+03:30",
-    "filter_market_score": 5,
-    "market_score": 5,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "گزارش"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true
