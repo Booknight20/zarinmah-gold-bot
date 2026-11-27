@@ -3352,68 +3352,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت دلار یورو و انواع ارزها امروز ۳۰ آبان ۱۴۰۵ در زمان بسته شدن بازار/ دلار ۲۶۹ هزار و ۹۷۰ تومان قیمت خورد + جدول",
-    "link": "https://www.khabaronline.ir/news/2305263/%D9%82%DB%8C%D9%85%D8%AA-%D8%AF%D9%84%D8%A7%D8%B1-%DB%8C%D9%88%D8%B1%D9%88-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D8%B1%D8%B2%D9%87%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3%DB%B0-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87",
-    "summary": "قیمت دلار، یورو و سایر ارزها ۳۰ آبان ۱۴۰۵ اعلام شد. بر این اساس بهای هر دلار ۲۶۹ هزار و ۹۷۰ تومان قیمت خورد و یورو نیز به قیمت ۲۹۵ هزار و ۵۶۰ تومان فروخته شد.",
-    "published": "Sat, 21 Nov 2026 19:26:05 GMT",
-    "collected_at": "2026-11-22T02:09:14.348074+03:30",
-    "filter_market_score": 26,
-    "market_score": 30,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز",
-        "یورو"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز",
-      "یورو"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "مقایسه بازدهی خودرو با دلار و طلا / پژو ۲۰۷ یکه تاز شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310821-%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D9%BE%DA%98%D9%88-%DB%8C%DA%A9%D9%87-%D8%AA%D8%A7%D8%B2-%D8%B4%D8%AF",
@@ -3785,71 +3723,6 @@
     "signal_matches": [
       "قیمت",
       "افزایش",
-      "اعلام شد"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "مثقال طلا",
-      "طلای ۱۸ عیار",
-      "طلای 18 عیار"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "قیمت طلا امروز ۳۰ آبان ۱۴۰۵ در زمان بسته شدن بازار/ مثقال طلا ۱۰۰ میلیون و ۲۲۰ هزار تومان شد + جدول",
-    "link": "https://www.khabaronline.ir/news/2305259/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B3%DB%B0-%D8%A2%D8%A8%D8%A7%D9%86-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%B3%D8%AA%D9%87-%D8%B4%D8%AF%D9%86-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%AB%D9%82%D8%A7%D9%84-%D8%B7%D9%84%D8%A7",
-    "summary": "قیمت طلا در بازار تهران ۳۰ آبان ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸عیار ۲۳ میلیون و ۱۳۵ هزار تومان قیمت خورد. هر مثقال طلا هم تا قیمت ۱۰۰ میلیون و ۲۲۰ هزار تومان ریزش کرد.",
-    "published": "Sat, 21 Nov 2026 18:57:55 GMT",
-    "collected_at": "2026-11-22T02:09:14.348091+03:30",
-    "filter_market_score": 29,
-    "market_score": 29,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "title_market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا"
-      ]
-    },
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "مثقال طلا",
-        "طلای ۱۸ عیار",
-        "طلای 18 عیار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "قیمت",
-      "ریزش",
       "اعلام شد"
     ],
     "filter_reason": "relevant_market_news",
@@ -4339,6 +4212,70 @@
     "duplicate_count": 1
   },
   {
+    "source": "تابناک",
+    "title": "تزریق سنگین دلار صادراتی به منابع ارزی ایران",
+    "link": "https://tabnak.ir/fa/news/4204519/%D8%AA%D8%B2%D8%B1%DB%8C%D9%82-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%DB%8C-%D8%A8%D9%87-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "summary": "۲۸ میلیارد دلار حاصل از صادرات نفتی و غیرنفتی در ۶ ماه، حساب ارزی کشور را شارژ کرده است.",
+    "published": "Thu, 26 Nov 2026 21:03:01 +0000",
+    "collected_at": "2026-11-27T03:46:07.248272+03:30",
+    "filter_market_score": 23,
+    "market_score": 28,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "نفت",
+      "صادرات نفت",
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "صادرات نفت"
+    ],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "عرضه ۲۱ هزار پنل خورشیدی در بورس کالا؛ برنامه فروش نقدی، سلف و اعتباری اعلام شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4310473-%D8%B9%D8%B1%D8%B6%D9%87-%D9%87%D8%B2%D8%A7%D8%B1-%D9%BE%D9%86%D9%84-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%DA%A9%D8%A7%D9%84%D8%A7-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%81%D8%B1%D9%88%D8%B4-%D9%86%D9%82%D8%AF%DB%8C-%D8%B3%D9%84%D9%81-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
@@ -4796,6 +4733,74 @@
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "پیش بینی از اقتصاد ۱۴۰۶؛ رکود تورمی تشدید می شود",
+    "link": "https://www.khabaronline.ir/news/2306988/%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A7%D8%B2-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%DB%B1%DB%B4%DB%B0%DB%B6-%D8%B1%DA%A9%D9%88%D8%AF-%D8%AA%D9%88%D8%B1%D9%85%DB%8C-%D8%AA%D8%B4%D8%AF%DB%8C%D8%AF-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+    "summary": "یک اقتصاددان با پیش بینی تورم ۹۰ تا ۱۰۰ درصدی و رشد اقتصادی منفی ۶ درصد در پایان سال ۱۴۰۵، معتقد است اقتصاد ایران در سال ۱۴۰۶ به برنامه ای جدی برای مهار تورم، کنترل نقدینگی، مدیریت بازار ارز و اصلاح ساختار بودجه نیاز دارد؛ برنامه ای که محدود کردن رشد نقدینگی به ۴۰ درصد و رساندن تورم به سقف ۵۰ درصد را در اولویت قرار می دهد.",
+    "published": "Thu, 26 Nov 2026 17:32:24 GMT",
+    "collected_at": "2026-11-27T03:46:02.161193+03:30",
+    "filter_market_score": 20,
+    "market_score": 27,
+    "market_matches": {
+      "currency": [
+        "بازار ارز",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "بازار ارز",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تورم",
+      "نقدینگی",
+      "بودجه",
+      "رشد اقتصادی",
+      "رکود"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "پیش‌بینی",
+      "پیش بینی",
+      "رشد"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "بازار ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تورم"
+    ],
+    "medium_impact_matches": [
+      "رکود",
+      "نقدینگی",
+      "بودجه",
+      "رشد اقتصادی"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -5725,78 +5730,6 @@
     "market_count": 2,
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "پیام بازدهی بازارها در آبان",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D9%88%D8%B1%D8%B3-6/4309841-%D9%BE%DB%8C%D8%A7%D9%85-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A2%D8%A8%D8%A7%D9%86",
-    "summary": "بازار دارایی ها در آبان ۱۴۰۵ شاهد افت قابل توجه قیمت طلا و سکه بود؛ به طوری که بازدهی این دارایی ها و صندوق های طلای بورسی بین منفی ۱۱ تا منفی ۱۵درصد قرار گرفت. در مقابل، دلار در بازار آزاد نوسان محدودی داشت و شاخص بورس نیز تنها حدود یک درصد رشد کرد. در چنین شرایطی، سرمایه گذاران با فاصله گرفتن از دارایی های پرنوسان، شاهد عملکرد بهتر گزینه های کم ریسک تر بودند؛ به طوری که صندوق های درآمد ثابت و سپرده های بانکی در صدر بازدهی بازارهای سرمایه گذاری قرار گرفتند.",
-    "published": "Sat, 21 Nov 2026 20:30:00 +0000",
-    "collected_at": "2026-11-22T02:09:00.885753+03:30",
-    "filter_market_score": 31,
-    "market_score": 24,
-    "market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ],
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا",
-        "سکه"
-      ],
-      "currency": [
-        "دلار"
-      ],
-      "stock": [
-        "بورس"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "بازدهی",
-      "رشد",
-      "افت",
-      "نوسان",
-      "قیمت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا",
-      "سکه"
-    ],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [
-      "بورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 3,
-    "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
@@ -6941,59 +6874,6 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "پیش بینی بورس فردا یکشنبه ۱ آذر ۱۴۰۵/ احتمال بهبود بازار سرمایه در معاملات فردا وجود دارد؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4309915-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D9%88%D8%B1%D8%B3-%D9%81%D8%B1%D8%AF%D8%A7-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%81%D8%B1%D8%AF%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%AF%D8%A7%D8%B1%D8%AF",
-    "summary": "تجربه هفته گذشته نشان داد که بازار در روزهای یکشنبه می تواند عملکرد بهتری نسبت به شنبه داشته باشد. این الگو در چند هفته اخیر تکرار شده و به نظر می رسد بخشی از آن به نگرانی معامله گران درباره احتمال تشدید تنش های نظامی در روزهای تعطیلی بازارهای جهانی مربوط باشد.",
-    "published": "Sat, 21 Nov 2026 19:49:30 +0000",
-    "collected_at": "2026-11-22T02:09:00.885893+03:30",
-    "filter_market_score": 15,
-    "market_score": 19,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه"
-      ]
-    },
-    "summary_market_matches": {},
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "پیش‌بینی",
-      "پیش بینی",
-      "معاملات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -8220,64 +8100,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "سقوط بیت کوین به کف دوساله",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%84-%D8%A7%D8%B1%D8%B2-116/4309858-%D8%B3%D9%82%D9%88%D8%B7-%D8%A8%DB%8C%D8%AA-%DA%A9%D9%88%DB%8C%D9%86-%D8%A8%D9%87-%DA%A9%D9%81-%D8%AF%D9%88%D8%B3%D8%A7%D9%84%D9%87",
-    "summary": "بازار رمزارزها روز گذشته یکی از پرالتهاب ترین روزهای خود را در دو سال اخیر پشت سر گذاشت؛ جایی که بیت کوین، بزرگ ترین ارز دیجیتال جهان، با افتی بیش از ۵ درصد در مقاطعی از معاملات روز گذشته تا سطح ۵۵ هزار و ۸۳۰ دلار سقوط کرد و پایین ترین قیمت خود از سپتامبر ۲۰۲۴ را به ثبت رساند. اگرچه این رمزارز در ادامه معاملات توانست بخشی از زیان خود را جبران کند و با رشدی حدود 7.5 درصدی درصدی نسبت به کف روزانه، خود را به محدوده 60هزاردلاری برساند، اما بررسی ها نشان می دهد این نوسان شدید، نشانه ای از یک چالش عمیق تر در اقتصاد کلان و تغییر نگاه سرمایه گذاران به دارایی های پرریسک است. بیت کوین که در اکتبر سال گذشته قله تاریخی بالای ۱۲۶ هزار دلار را فتح کرده بود، اکنون در آستانه ثبت هفتمین هفته نزولی پیاپی قرار دارد؛ اتفاقی که از مه ۲۰۲۲ تاکنون بی سابقه بوده است.",
-    "published": "Sat, 21 Nov 2026 20:30:00 +0000",
-    "collected_at": "2026-11-22T02:09:00.885733+03:30",
-    "filter_market_score": 12,
-    "market_score": 16,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "سقوط",
-      "رشد",
-      "افت",
-      "نزول",
-      "نوسان",
-      "قیمت",
-      "معاملات",
-      "تغییر"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "خبرآنلاین اقتصادی",
     "title": "جهش سنگین قیمت خودرو؛ پژو ۲۰۷ اتوماتیک ۲۰۰ میلیون تومان گران شد و ۴ میلیارد و ۳۰۰ میلیون فروش رفت/ جدول قیمت خودرو امروز ۴ آذرماه ۱۴۰۵",
     "link": "https://www.khabaronline.ir/news/2306669/%D8%AC%D9%87%D8%B4-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D9%BE%DA%98%D9%88-%DB%B2%DB%B0%DB%B7-%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%DB%B2%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%DA%AF%D8%B1%D8%A7%D9%86",
@@ -8743,6 +8565,58 @@
     "market_count": 1,
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "حساب چند صرافی رمز ارزی مسدود شدند",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310936-%D8%AD%D8%B3%D8%A7%D8%A8-%DA%86%D9%86%D8%AF-%D8%B5%D8%B1%D8%A7%D9%81%DB%8C-%D8%B1%D9%85%D8%B2-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%85%D8%B3%D8%AF%D9%88%D8%AF-%D8%B4%D8%AF%D9%86%D8%AF",
+    "summary": "​بانک مرکزی دستور مسدودسازی حساب های بانکی سکوهای متخلف رمزارز را به شبکه بانکی ابلاغ کرد.",
+    "published": "Thu, 26 Nov 2026 23:31:33 +0000",
+    "collected_at": "2026-11-27T03:45:48.146298+03:30",
+    "filter_market_score": 8,
+    "market_score": 15,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {},
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "ابلاغ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
       "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
@@ -9608,55 +9482,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "ایسنا",
-    "title": "پزشکیان: خروج با اقتدار و عزت از وضعیت «نه جنگ و نه صلح» ضروری است",
-    "link": "https://www.isna.ir/news/1405090100458/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A8%D8%A7-%D8%A7%D9%82%D8%AA%D8%AF%D8%A7%D8%B1-%D9%88-%D8%B9%D8%B2%D8%AA-%D8%A7%D8%B2-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D9%86%D9%87-%D8%AC%D9%86%DA%AF-%D9%88-%D9%86%D9%87-%D8%B5%D9%84%D8%AD-%D8%B6%D8%B1%D9%88%D8%B1%DB%8C",
-    "summary": "رئیس جمهوری با اشاره به اینکه قرار گرفتن در وضعیت «نه جنگ و نه صلح» زیان بار است، تصریح کرد: ضرورت دارد هرچه سریع تر با عزت و اقتدار از این وضعیت که نوعی بلاتکلیفی است، خارج شویم؛ زیرا کشورمان در جغرافیایی قرار دارد که مملو از سرمایه های معدنی و ذخایر به ارزشمندی طلا است و با روشن شدن منطقی تکلیف وضعیت نه جنگ و نه صلح، می توان بسیاری از مشکلات را حل کرد.",
-    "published": "Sun, 22 Nov 2026 10:18:57 GMT",
-    "collected_at": "2026-11-22T14:03:06.857873+03:30",
-    "filter_market_score": 7,
-    "market_score": 12,
-    "market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "gold": [
-        "طلا"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [
-      "جنگ"
-    ],
-    "signal_matches": [],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [
-      "طلا"
-    ],
-    "currency_matches": [],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "جنگ"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "مشرق",
     "title": "نماینده پیشین کنگره آمریکا خواستار محاکمه ترامپ و وزیر جنگ آمریکا شد",
     "link": "https://www.mashreghnews.ir/news/1855242/%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%BE%DB%8C%D8%B4%DB%8C%D9%86-%DA%A9%D9%86%DA%AF%D8%B1%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D9%85%D8%AD%D8%A7%DA%A9%D9%85%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%88-%D9%88%D8%B2%DB%8C%D8%B1-%D8%AC%D9%86%DA%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
@@ -9700,6 +9525,56 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل پراثر اقتصادی یا سیاسی",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "مهر",
+    "title": "آیت الله مکارم: دولت برای رفع مشکلات معیشتی مردم تدبیر عملی اتخاد کند",
+    "link": "https://www.mehrnews.com/news/7024425/%D8%A2%DB%8C%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D9%85%DA%A9%D8%A7%D8%B1%D9%85-%D8%AF%D9%88%D9%84%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%85%D8%B9%DB%8C%D8%B4%D8%AA%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%AA%D8%AF%D8%A8%DB%8C%D8%B1-%D8%B9%D9%85%D9%84%DB%8C-%D8%A7%D8%AA%D8%AE%D8%A7%D8%AF",
+    "summary": "قم- مرجع تقلید شیعیان با تأکید بر ضرورت رسیدگی جدی به مشکلات اقتصادی و معیشتی مردم، خواستار تدابیر عملی دولت برای مهار گرانی، مدیریت بازار ارز، ساماندهی مسکن و حمایت از جوانان شد.",
+    "published": "Thu, 26 Nov 2026 21:33:45 GMT",
+    "collected_at": "2026-11-27T03:45:37.198404+03:30",
+    "filter_market_score": 8,
+    "market_score": 11,
+    "market_matches": {
+      "currency": [
+        "بازار ارز",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "بازار ارز",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "حمایت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "بازار ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -9883,53 +9758,6 @@
     "stock_matches": [
       "سهام"
     ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "تابناک",
-    "title": "بازخوانی تاریخ/ ایران در دویست سال اخیر از کدام کشورها غرامت گرفته است؟",
-    "link": "https://tabnak.ir/fa/news/4203394/%D8%A8%D8%A7%D8%B2%D8%AE%D9%88%D8%A7%D9%86%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AF%D9%88%DB%8C%D8%B3%D8%AA-%D8%B3%D8%A7%D9%84-%D8%A7%D8%AE%DB%8C%D8%B1-%D8%A7%D8%B2-%DA%A9%D8%AF%D8%A7%D9%85-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7-%D8%BA%D8%B1%D8%A7%D9%85%D8%AA-%DA%AF%D8%B1%D9%81%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA-b1726d99295c4bd0bd806fa8",
-    "summary": "از سرمایه گذاری هسته ای دوران پهلوی در فرانسه تا پول های تسلیحاتی بلوکه شده در آمریکا؛ مرور پرونده هایی که با پیگیری حقوقی و مذاکرات طولانی به بازگشت میلیاردها دلار از دارایی های ایران انجامید.",
-    "published": "Sat, 21 Nov 2026 17:57:55 +0000",
-    "collected_at": "2026-11-22T02:09:19.191902+03:30",
-    "filter_market_score": 5,
-    "market_score": 8,
-    "market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "مذاکرات"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "low",
-    "filter_score_bonus": 5,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار"
-    ],
-    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": false,
