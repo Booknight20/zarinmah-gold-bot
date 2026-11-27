@@ -1942,6 +1942,77 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
+    "title": "سخنگوی دیوان محاسبات: سهمیه بندی نان ضرورتی ندارد / افزایش نرخ ارز، دولت را هم وارد چرخه کسری و تورم می کند",
+    "link": "https://www.khabaronline.ir/news/2307558/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%AF%DB%8C%D9%88%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%D8%B3%D9%87%D9%85%DB%8C%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D9%86%D8%A7%D9%86-%D8%B6%D8%B1%D9%88%D8%B1%D8%AA%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%86%D8%B1%D8%AE",
+    "summary": "سخنگوی دیوان محاسبات با انتقاد از احتمال سهمیه بندی نان، می گوید خرید ۸.۵ میلیون تن گندم از کشاورزان داخلی و تأمین منابع واردات، نگرانی از بابت کمبود این محصول را برطرف کرده است. او با انتقاد از اجرای بودجه ۱۴۰۴، هزینه نشدن ۳۸ همت منابع اشتغال در محل قانونی و تبعات افزایش نرخ ارز برای دولت، هشدار می دهد تداوم سیاست های ارزی فعلی می تواند به تشدید کسری بودجه و تورم منجر شود.",
+    "published": "Fri, 27 Nov 2026 10:34:53 GMT",
+    "collected_at": "2026-11-27T22:08:49.315521+03:30",
+    "filter_market_score": 28,
+    "market_score": 34,
+    "market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "نرخ ارز",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "تورم",
+      "کسری بودجه",
+      "بودجه",
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "افزایش",
+      "نرخ"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "نرخ ارز",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "تورم"
+    ],
+    "medium_impact_matches": [
+      "کسری بودجه",
+      "بودجه",
+      "واردات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت طلا امروز ۲ آذر ۱۴۰۵ در زمان بازگشایی بازار/ هر گرم طلای ۱۸ عیار ۲۳ میلیون و ۵۷۹ هزار تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2305761/%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B2-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D8%AF%D8%B1-%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%87%D8%B1-%DA%AF%D8%B1%D9%85-%D8%B7%D9%84%D8%A7%DB%8C",
     "summary": "قیمت طلا در بازار تهران ۲ آذر ۱۴۰۵ اعلام شد و هر گرم طلای ۱۸ عیار ۲۳ میلیون و ۵۷۹ هزار تومان قیمت خورد. هر مثقال طلا هم به قیمت ۱۰۲ میلیون و ۱۴۰ هزار تومان رسید.",
@@ -2327,6 +2398,76 @@
     "ranking_reasons": [
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "رئیس کل بانک مرکزی: کاهش درآمدهای نفتی و دشواری انتقال منابع ارزی را انکار نمی کنیم / در برابر اخلال در بازار ارز منفعل نخواهیم بود",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4311026-%D8%B1%D8%A6%DB%8C%D8%B3-%DA%A9%D9%84-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF%D9%87%D8%A7%DB%8C-%D9%86%D9%81%D8%AA%DB%8C-%D8%AF%D8%B4%D9%88%D8%A7%D8%B1%DB%8C-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%A7%D8%B1%D8%B2%DB%8C-%D8%B1%D8%A7-%D8%A7%D9%86%DA%A9%D8%A7%D8%B1-%D9%86%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A7%D8%AE%D9%84%D8%A7%D9%84-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D9%85%D9%86%D9%81%D8%B9%D9%84-%D9%86%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%D8%A8%D9%88%D8%AF",
+    "summary": "رئیس بانک مرکزی گفت: ۳۲ میلیارد دلار ارز برای واردات رسمی تأمین شده و این بانک با در اختیار داشتن ذخایر کافی اسکناس ارزی، برای مداخله هدفمند در بازار ارز و مقابله با بی ثباتی ها آماده است.",
+    "published": "Fri, 27 Nov 2026 15:35:27 +0000",
+    "collected_at": "2026-11-27T22:08:38.327970+03:30",
+    "filter_market_score": 28,
+    "market_score": 31,
+    "market_matches": {
+      "currency": [
+        "بازار ارز",
+        "ارز",
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "بازار ارز",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "بازار ارز",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی",
+      "نفت",
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "بازار ارز",
+      "ارز",
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -2867,6 +3008,72 @@
     "duplicate_count": 1
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "همتی: در برابر اخلال در بازار ارز منفعل نخواهیم بود",
+    "link": "https://www.khabaronline.ir/news/2307633/%D9%87%D9%85%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A7%D8%AE%D9%84%D8%A7%D9%84-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D9%85%D9%86%D9%81%D8%B9%D9%84-%D9%86%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%D8%A8%D9%88%D8%AF",
+    "summary": "رئیس بانک مرکزی گفت: ۳۲ میلیارد دلار ارز برای واردات رسمی تأمین شده و این بانک با در اختیار داشتن ذخایر کافی اسکناس ارزی، برای مداخله هدفمند در بازار ارز و مقابله با بی ثباتی ها آماده است.",
+    "published": "Fri, 27 Nov 2026 13:54:55 GMT",
+    "collected_at": "2026-11-27T22:08:49.315461+03:30",
+    "filter_market_score": 25,
+    "market_score": 30,
+    "market_matches": {
+      "currency": [
+        "بازار ارز",
+        "ارز",
+        "دلار"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "بازار ارز",
+        "ارز"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "بازار ارز",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "بانک مرکزی",
+      "واردات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "بازار ارز",
+      "ارز",
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "بانک مرکزی"
+    ],
+    "medium_impact_matches": [
+      "واردات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "عامل اقتصادی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "دنیای اقتصاد",
     "title": "مقایسه بازدهی خودرو با دلار و طلا / پژو ۲۰۷ یکه تاز شد",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310821-%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%A8%D8%A7%D8%B2%D8%AF%D9%87%DB%8C-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%A8%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7-%D9%BE%DA%98%D9%88-%DB%8C%DA%A9%D9%87-%D8%AA%D8%A7%D8%B2-%D8%B4%D8%AF",
@@ -3000,75 +3207,6 @@
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "ارتباط با چند بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "می گفتند تورم ۳۰۰ درصد و دلار ۳۰۰ هزار تومان می شود، اما نشد/ ماجد: استفاده از ابزارهای سیاست گذاری پولی اجازه نداد تورم های ۳ و ۴ رقمی را تجربه کنیم",
-    "link": "https://www.khabaronline.ir/news/2305562/%D9%85%DB%8C-%DA%AF%D9%81%D8%AA%D9%86%D8%AF-%D8%AA%D9%88%D8%B1%D9%85-%DB%B3%DB%B0%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%88-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B3%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D8%A7%D9%85%D8%A7-%D9%86%D8%B4%D8%AF",
-    "summary": "وحید ماجد، معاون بانک مرکزی با اشاره به برخی پیش بینی های مطرح شده درباره آینده اقتصاد ایران گفت: مدتی پیش گفته می شد اقتصاد کشور ظرف دو هفته از بین خواهد رفت، نرخ ارز به ۳۰۰ هزار تومان خواهد رسید، تورم به ۳۰۰ درصد افزایش پیدا خواهد کرد و اقتصاد ایران وارد شرایط ابرتورمی خواهد شد. این پیش بینی ها در عمل محقق نشد و آنچه مانع ورود اقتصاد به چنین شرایطی شد، توان سیاست گذار پولی و استفاده از ابزارهای سیاست گذاری پولی بود. همین اقدامات اجازه نداد اقتصاد ایران تورم های سه رقمی و چهاررقمی را که حتی برخی تحلیلگران داخلی نیز درباره آن هشدار داده بودند، تجربه کند.",
-    "published": "Sun, 22 Nov 2026 16:00:00 GMT",
-    "collected_at": "2026-11-22T21:33:06.191290+03:30",
-    "filter_market_score": 23,
-    "market_score": 30,
-    "market_matches": {
-      "currency": [
-        "دلار",
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "دلار"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی",
-      "تورم"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "پیش‌بینی",
-      "پیش بینی",
-      "نرخ",
-      "داده"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "دلار",
-      "نرخ ارز",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [
-      "تورم",
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -4574,69 +4712,6 @@
   },
   {
     "source": "خبرآنلاین اقتصادی",
-    "title": "تغییرات مهم کالابرگ از سال آینده:مابه التفاوت نرخ ارز ۲۸ هزار و ۲۲۰ هزار تومانی به کالابرگ اختصاص یابد/اعتبار کالابرگ دربودجه سال آینده افزایش می یابد",
-    "link": "https://www.khabaronline.ir/news/2305676/%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%D8%A7%D8%AA-%D9%85%D9%87%D9%85-%DA%A9%D8%A7%D9%84%D8%A7%D8%A8%D8%B1%DA%AF-%D8%A7%D8%B2-%D8%B3%D8%A7%D9%84-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%85%D8%A7%D8%A8%D9%87-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D9%86%D8%B1%D8%AE-%D8%A7%D8%B1%D8%B2-%DB%B2%DB%B8-%D9%87%D8%B2%D8%A7%D8%B1",
-    "summary": "رئیس کمیسیون برنامه، بودجه و محاسبات مجلس پیشنهاد کرد مابه التفاوت نرخ ارز در بودجه سال آینده برای افزایش اعتبار کالابرگ اختصاص یابد.",
-    "published": "Sun, 22 Nov 2026 16:37:26 GMT",
-    "collected_at": "2026-11-22T21:33:06.191269+03:30",
-    "filter_market_score": 21,
-    "market_score": 26,
-    "market_matches": {
-      "currency": [
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "title_market_matches": {
-      "currency": [
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "summary_market_matches": {
-      "currency": [
-        "نرخ ارز",
-        "ارز"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بودجه"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "نرخ"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "نرخ ارز",
-      "ارز"
-    ],
-    "stock_matches": [],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "بودجه"
-    ],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
     "title": "قیمت سکه امروز ۶ آذر ۱۴۰۵/ نیم سکه ۱۴۱ میلیون و ۶۰۰ هزار تومان شد + جدول",
     "link": "https://www.khabaronline.ir/news/2307434/%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%DA%A9%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%DB%B6-%D8%A2%D8%B0%D8%B1-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%86%DB%8C%D9%85-%D8%B3%DA%A9%D9%87-%DB%B1%DB%B4%DB%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D9%88-%DB%B6%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86",
     "summary": "قیمت سکه در بازار تهران ۶ آذر ۱۴۰۵ اعلام شد و سکه امامی به قیمت ۲۶۴ میلیون و ۵۰۰ هزار تومان فروش رفت. نیم سکه هم در بازار با قیمت ۱۴۱ میلیون و ۶۰۰ هزار تومان به فروش رفت.",
@@ -4863,67 +4938,6 @@
       "بورس",
       "شاخص کل",
       "فرابورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": true,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "نشانه اطلاعات کاربردی بازار",
-      "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "دنیای اقتصاد",
-    "title": "بازگشت پول حقیقی پس از ۴ روز خروج؛ بازیگران فعال بازار سهام ۳ برابر شدند +فیلم",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310061-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%BE%D9%88%D9%84-%D8%AD%D9%82%DB%8C%D9%82%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B1%D9%88%D8%B2-%D8%AE%D8%B1%D9%88%D8%AC-%D8%A8%D8%A7%D8%B2%DB%8C%DA%AF%D8%B1%D8%A7%D9%86-%D9%81%D8%B9%D8%A7%D9%84-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%B3%D9%87%D8%A7%D9%85-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%B4%D8%AF%D9%86%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
-    "summary": "بورس تهران در اول آذر با رشد شاخص ها و ورود ۴.۸ همت پول حقیقی پس از ۴ روز خروج مواجه شد. بررسی روند بازار از اسفند تا آبان نیز از رشد بیش از سه برابری سهام داران فعال حکایت دارد؛ هرچند در دو هفته پایانی آبان، جریان پول معکوس و تعداد سهام داران فعال کاهشی شد.",
-    "published": "Sun, 22 Nov 2026 15:38:34 +0000",
-    "collected_at": "2026-11-22T21:32:53.876712+03:30",
-    "filter_market_score": 21,
-    "market_score": 25,
-    "market_matches": {
-      "stock": [
-        "سهام",
-        "بازار سهام",
-        "بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "سهام",
-        "بازار سهام"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "سهام"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [],
-    "major_event_matches": [],
-    "signal_matches": [
-      "کاهش",
-      "رشد",
-      "روند"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "سهام",
-      "بازار سهام",
-      "بورس"
     ],
     "high_impact_matches": [],
     "medium_impact_matches": [],
@@ -5437,6 +5451,67 @@
       "ارتباط بازار در عنوان",
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "دلار پس از رسیدن به بالاترین سطح از مارس ۲۰۲۵ عقب نشست/ شاخص روی ۱۰۳.۸۱ واحد ایستاد",
+    "link": "https://www.khabaronline.ir/news/2307674/%D8%AF%D9%84%D8%A7%D8%B1-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B1%D8%B3%DB%8C%D8%AF%D9%86-%D8%A8%D9%87-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%B7%D8%AD-%D8%A7%D8%B2-%D9%85%D8%A7%D8%B1%D8%B3-%DB%B2%DB%B0%DB%B2%DB%B5-%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%D8%B3%D8%AA-%D8%B4%D8%A7%D8%AE%D8%B5",
+    "summary": "شاخص دلار که ارزش این ارز را در برابر سبدی متشکل از شش ارز مهم جهانی اندازه گیری می کند، در معاملات ابتدایی روز جمعه در سطح ۱۰۳.۸۱ واحد قرار داشت.",
+    "published": "Fri, 27 Nov 2026 16:02:00 GMT",
+    "collected_at": "2026-11-27T22:08:49.315410+03:30",
+    "filter_market_score": 16,
+    "market_score": 23,
+    "market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "دلار",
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "شاخص دلار"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "معاملات"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "high",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار",
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "شاخص دلار"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -6274,65 +6349,6 @@
     "duplicate_count": 1
   },
   {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "نفت طی روزهای آینده در بورس عرضه می شود/امکان افزایش تولید نفت وجود دارد/ مشکل صادرات باید برطرف شود",
-    "link": "https://www.khabaronline.ir/news/2305646/%D9%86%D9%81%D8%AA-%D8%B7%DB%8C-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A8%D9%88%D8%B1%D8%B3-%D8%B9%D8%B1%D8%B6%D9%87-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF-%D8%A7%D9%85%DA%A9%D8%A7%D9%86-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%86%D9%81%D8%AA",
-    "summary": "سرپرست وزارت نفت گفت: تدابیر لازم برای فروش نفت در بورس اتخاذ شده است و در روزهای آینده از ظرفیت بورس برای فروش نفت استفاده خواهیم کرد.",
-    "published": "Sun, 22 Nov 2026 13:39:47 GMT",
-    "collected_at": "2026-11-22T21:33:06.191349+03:30",
-    "filter_market_score": 18,
-    "market_score": 18,
-    "market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "title_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "summary_market_matches": {
-      "stock": [
-        "بورس"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "نفت",
-      "صادرات"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "افزایش",
-      "عرضه"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "high",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس"
-    ],
-    "high_impact_matches": [],
-    "medium_impact_matches": [
-      "صادرات"
-    ],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در عنوان",
-      "ارتباط بازار در خلاصه",
-      "عامل اقتصادی",
-      "نشانه اطلاعات کاربردی بازار",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
     "source": "دنیای اقتصاد",
     "title": "قیمت طلا ۱۸ عیار امروز سه شنبه ۳ آذر ۱۴۰۵ / افزایش قیمت طلا",
     "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310424-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7-%D8%B9%DB%8C%D8%A7%D8%B1-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-%D8%A2%D8%B0%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B7%D9%84%D8%A7",
@@ -6950,6 +6966,62 @@
     "ranking_reasons": [
       "ارتباط بازار در خلاصه",
       "عامل اقتصادی",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "قیمت نفت صعودی شد",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4311016-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C-%D8%B4%D8%AF",
+    "summary": "قیمت نفت خام برنت در زمان نگارش این خبر، پس از افزایش حدود ۲ دلاری در روز پنجشنبه و رسیدن به بالاترین سطح خود از ۶ نوامبر، با ۰.۷۹ درصد افزایش به ۹۷.۳۳ دلار در هر بشکه رسید.",
+    "published": "Fri, 27 Nov 2026 14:01:21 +0000",
+    "collected_at": "2026-11-27T22:08:38.328075+03:30",
+    "filter_market_score": 11,
+    "market_score": 17,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "قیمت نفت",
+      "نفت"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [
+      "صعود",
+      "قیمت",
+      "افزایش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [
+      "قیمت نفت"
+    ],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل پراثر اقتصادی یا سیاسی",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
       "امتیاز کمکی مرحله فیلتر"
@@ -7638,6 +7710,58 @@
     "duplicate_count": 1
   },
   {
+    "source": "مشرق",
+    "title": "اتحادیه اروپا در تدارک ده ها میلیارد یورو وام نظامی",
+    "link": "https://www.mashreghnews.ir/news/1855545/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AF%D8%B1-%D8%AA%D8%AF%D8%A7%D8%B1%DA%A9-%D8%AF%D9%87-%D9%87%D8%A7-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88-%D9%88%D8%A7%D9%85-%D9%86%D8%B8%D8%A7%D9%85%DB%8C",
+    "summary": "منابع آگاه گزارش دادند اتحادیه اروپا در حال تدارک وام ها و کمک های مالی جدیدی به ارزش ده ها میلیارد یورو است.",
+    "published": "Fri, 27 Nov 2026 14:12:23 GMT",
+    "collected_at": "2026-11-27T22:09:06.593770+03:30",
+    "filter_market_score": 11,
+    "market_score": 15,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "title_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "summary_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "گزارش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": false,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در عنوان",
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "خبرآنلاین اقتصادی",
     "title": "موج تازه گرانی ها در بازار خودرو؛ تارا ۱۰۰ میلیون تومان گران شد و ۳ میلیارد و ۲۹۰ میلیون تومان قیمت خورد/ قیمت جدید خودرو ۵ آذر ۱۴۰۶ + جدول",
     "link": "https://www.khabaronline.ir/news/2307094/%D9%85%D9%88%D8%AC-%D8%AA%D8%A7%D8%B2%D9%87-%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AA%D8%A7%D8%B1%D8%A7-%DB%B1%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%DA%AF%D8%B1%D8%A7%D9%86",
@@ -7685,61 +7809,6 @@
       "ارتباط بازار در خلاصه",
       "نشانه اطلاعات کاربردی بازار",
       "وجود عدد در متن",
-      "امتیاز کمکی مرحله فیلتر"
-    ],
-    "ranking_applied": true,
-    "duplicate_count": 1
-  },
-  {
-    "source": "خبرآنلاین اقتصادی",
-    "title": "از بانک محوری به تأمین مالی متوازن/ ضرورت بازتعریف نقش بازار پول و سرمایه",
-    "link": "https://www.khabaronline.ir/news/2305506/%D8%A7%D8%B2-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%AD%D9%88%D8%B1%DB%8C-%D8%A8%D9%87-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D9%85%D8%A7%D9%84%DB%8C-%D9%85%D8%AA%D9%88%D8%A7%D8%B2%D9%86-%D8%B6%D8%B1%D9%88%D8%B1%D8%AA-%D8%A8%D8%A7%D8%B2%D8%AA%D8%B9%D8%B1%DB%8C%D9%81-%D9%86%D9%82%D8%B4-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1",
-    "summary": "دومین همایش سالانه بازار سرمایه از این جهت اهمیت داشت که در آن، مسئولان ارشد اقتصادی کشور از زوایای مختلف به جایگاه بازار سرمایه در تأمین مالی اقتصاد و ضرورت حمایت از توسعه آن پرداختند. سخنان رئیس جمهور، وزیر امور اقتصادی و دارایی، رئیس کل بانک مرکزی و رئیس سازمان بورس و اوراق بهادار نشان داد که اهمیت بازار سرمایه و نقش آن در عبور اقتصاد ایران از محدودیت های موجود، به موضوعی جدی در سطح سیاست گذاری اقتصادی تبدیل شده است.",
-    "published": "Sun, 22 Nov 2026 12:31:00 GMT",
-    "collected_at": "2026-11-22T21:33:06.191365+03:30",
-    "filter_market_score": 10,
-    "market_score": 15,
-    "market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه"
-      ]
-    },
-    "title_market_matches": {},
-    "summary_market_matches": {
-      "stock": [
-        "بورس",
-        "بازار سرمایه"
-      ]
-    },
-    "full_text_market_matches": {},
-    "driver_matches": [
-      "بانک مرکزی"
-    ],
-    "major_event_matches": [],
-    "signal_matches": [
-      "حمایت"
-    ],
-    "filter_reason": "relevant_market_news",
-    "filter_applied": true,
-    "priority": "medium",
-    "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "بورس",
-      "بازار سرمایه"
-    ],
-    "high_impact_matches": [
-      "بانک مرکزی"
-    ],
-    "medium_impact_matches": [],
-    "has_numeric_evidence": false,
-    "market_count": 1,
-    "ranking_reasons": [
-      "ارتباط بازار در خلاصه",
-      "عامل پراثر اقتصادی یا سیاسی",
-      "نشانه اطلاعات کاربردی بازار",
       "امتیاز کمکی مرحله فیلتر"
     ],
     "ranking_applied": true,
@@ -7949,27 +8018,27 @@
     "duplicate_count": 1
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "چه کسی به صنعت تلفن همراه سلیقه ای ارز تخصیص می دهد؟ چه کسی پاسخگوست؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%A9%D8%B3%D8%A8-%DA%A9%D8%A7%D8%B1-104/4310058-%DA%86%D9%87-%DA%A9%D8%B3%DB%8C-%D8%A8%D9%87-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AA%D9%84%D9%81%D9%86-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%B3%D9%84%DB%8C%D9%82%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B1%D8%B2-%D8%AA%D8%AE%D8%B5%DB%8C%D8%B5-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF-%DA%86%D9%87-%DA%A9%D8%B3%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88%D8%B3%D8%AA",
-    "summary": "رئیس انجمن تلفن همراه، تبلت و لوازم جانبی ایران: تخصیص غیرشفاف ارز، ایجاد رانت و نوعی خودتحریمی علیه فعالان اقتصادی کشور است.",
-    "published": "Sun, 22 Nov 2026 15:39:00 +0000",
-    "collected_at": "2026-11-22T21:32:53.876698+03:30",
-    "filter_market_score": 10,
+    "source": "ایسنا",
+    "title": "طلای کشوری پیلاتس بانوان برای قم شد",
+    "link": "https://www.isna.ir/news/1405090604034/%D8%B7%D9%84%D8%A7%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1%DB%8C-%D9%BE%DB%8C%D9%84%D8%A7%D8%AA%D8%B3-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%82%D9%85-%D8%B4%D8%AF",
+    "summary": "نماینده استان قم در نهمین دوره مسابقات قهرمانی کشور پیلاتس مت بانوان، مدال طلا را کسب کرد.",
+    "published": "Fri, 27 Nov 2026 17:08:51 GMT",
+    "collected_at": "2026-11-27T22:08:18.998120+03:30",
+    "filter_market_score": 9,
     "market_score": 14,
     "market_matches": {
-      "currency": [
-        "ارز"
+      "gold": [
+        "طلا"
       ]
     },
     "title_market_matches": {
-      "currency": [
-        "ارز"
+      "gold": [
+        "طلا"
       ]
     },
     "summary_market_matches": {
-      "currency": [
-        "ارز"
+      "gold": [
+        "طلا"
       ]
     },
     "full_text_market_matches": {},
@@ -7980,10 +8049,10 @@
     "filter_applied": true,
     "priority": "medium",
     "filter_score_bonus": 6,
-    "gold_matches": [],
-    "currency_matches": [
-      "ارز"
+    "gold_matches": [
+      "طلا"
     ],
+    "currency_matches": [],
     "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
@@ -8104,12 +8173,12 @@
     "duplicate_count": 1
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "مسکن دلار را شکست داد؛ چرا بازار مسکن تهران با واقعیت فاصله دارد؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4310098-%D9%85%D8%B3%DA%A9%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%B1%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AF%D8%A7%D8%AF-%DA%86%D8%B1%D8%A7-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D9%85%D8%B3%DA%A9%D9%86-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA-%D9%81%D8%A7%D8%B5%D9%84%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
-    "summary": "در حال حاضر سطح قیمت فروشنده ها برای آپارتمان ۸۰ مترمربعی، متوسط ۲۲ میلیارد تومان برآورد است؛ با این وجود، «قیمت قطعی» معاملات مسکن در ماه گذشته، با اختلاف چشمگیر، پایین تر از این رقم قرار گرفت.",
-    "published": "Sun, 22 Nov 2026 16:49:19 +0000",
-    "collected_at": "2026-11-22T21:32:53.876592+03:30",
+    "source": "خبرآنلاین اقتصادی",
+    "title": "کالابرگ یک میلیونی با دلار ۱۹۵ هزار تومانی تناسب ندارد/ درخواست افزایش اعتبار حمایتی مردم",
+    "link": "https://www.khabaronline.ir/news/2307663/%DA%A9%D8%A7%D9%84%D8%A7%D8%A8%D8%B1%DA%AF-%DB%8C%DA%A9-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%A8%D8%A7-%D8%AF%D9%84%D8%A7%D8%B1-%DB%B1%DB%B9%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C-%D8%AA%D9%86%D8%A7%D8%B3%D8%A8-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA",
+    "summary": "افزایش هزینه های زندگی، بار دیگر موضوع حمایت مالی از خانوارها را به یکی از مطالبات جدی تبدیل کرده است.",
+    "published": "Fri, 27 Nov 2026 17:02:00 GMT",
+    "collected_at": "2026-11-27T22:08:49.315397+03:30",
     "filter_market_score": 8,
     "market_score": 14,
     "market_matches": {
@@ -8127,8 +8196,8 @@
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "قیمت",
-      "معاملات"
+      "افزایش",
+      "حمایت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
@@ -8613,6 +8682,56 @@
     "duplicate_count": 1
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "هشدار نسبت به خطر ایجاد رانت در تجارت خارجی/ حریری: با هر روشی محاصره را بشکنید",
+    "link": "https://www.khabaronline.ir/news/2307568/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%86%D8%B3%D8%A8%D8%AA-%D8%A8%D9%87-%D8%AE%D8%B7%D8%B1-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D8%B1%D8%A7%D9%86%D8%AA-%D8%AF%D8%B1-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D8%AD%D8%B1%DB%8C%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%87%D8%B1-%D8%B1%D9%88%D8%B4%DB%8C",
+    "summary": "رئیس اتاق بازرگانی ایران و چین با هشدار درباره تبعات ادامه محاصره دریایی می گوید هزینه حمل برخی کانتینرها به ۱۲ تا ۱۵ هزار دلار رسیده؛ در حالی که ارزش کالای صادراتی داخل آن ها گاه به ۷۵۰۰ دلار می رسد. مجیدرضا حریری با اشاره به گرفتار شدن ۱۷ هزار کامیون در مرزها، محدودیت ظرفیت مسیرهای زمینی و خطر شکل گیری رانت در تجارت خارجی، معتقد است ادامه این وضعیت فشار سنگینی بر صادرات و اقتصاد کشور تحمیل خواهد کرد.",
+    "published": "Fri, 27 Nov 2026 11:37:00 GMT",
+    "collected_at": "2026-11-27T22:08:49.315495+03:30",
+    "filter_market_score": 7,
+    "market_score": 12,
+    "market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "دلار"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [
+      "صادرات"
+    ],
+    "major_event_matches": [],
+    "signal_matches": [],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 6,
+    "gold_matches": [],
+    "currency_matches": [
+      "دلار"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [
+      "صادرات"
+    ],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "عامل اقتصادی",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "ایسنا",
     "title": "جذب ۱۵ میلیون گردشگر خارجی به ایران در ۵ سال آینده/ ۵۰درصد گردشگران ایران عراقی هستند",
     "link": "https://www.isna.ir/news/1405090403036/%D8%AC%D8%B0%D8%A8-%DB%B1%DB%B5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DB%B5-%D8%B3%D8%A7%D9%84-%D8%A2%DB%8C%D9%86%D8%AF%D9%87",
@@ -8861,6 +8980,102 @@
     "duplicate_count": 1
   },
   {
+    "source": "خبرآنلاین اقتصادی",
+    "title": "برنج پاکستانی کیلویی ۳۵۰ هزار تومان شد/ مطالبات ۹۶۰ میلیون یورویی واردکنندگان پرداخت نشده است",
+    "link": "https://www.khabaronline.ir/news/2307664/%D8%A8%D8%B1%D9%86%D8%AC-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%DA%A9%DB%8C%D9%84%D9%88%DB%8C%DB%8C-%DB%B3%DB%B5%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%88%D9%85%D8%A7%D9%86-%D8%B4%D8%AF-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA-%DB%B9%DB%B6%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C",
+    "summary": "دبیر انجمن واردکنندگان برنج درباره اینکه برنج پاکستانی درجه یک به طور میانگین ۳۵۰ هزار تومان و برنج هندی حدود ۳۰۰ هزار تومان قیمت گذاری می شود، درباره بلاتکلیفی مطالبات ارزی ۹۶۰ میلیون یورویی واردکنندگان هشدار داد .",
+    "published": "Fri, 27 Nov 2026 15:31:00 GMT",
+    "collected_at": "2026-11-27T22:08:49.315423+03:30",
+    "filter_market_score": 5,
+    "market_score": 10,
+    "market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "ارز"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "قیمت"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [],
+    "currency_matches": [
+      "ارز"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
+    "source": "دنیای اقتصاد",
+    "title": "خیز اروپا برای کاهش وابستگی نظامی به آمریکا/ طرح میلیارد یورویی اتحادیه اروپا کلید خورد؟",
+    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4311027-%D8%AE%DB%8C%D8%B2-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%D9%88%D8%A7%D8%A8%D8%B3%D8%AA%DA%AF%DB%8C-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B7%D8%B1%D8%AD-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%DB%8C%D9%88%D8%B1%D9%88%DB%8C%DB%8C-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%DA%A9%D9%84%DB%8C%D8%AF-%D8%AE%D9%88%D8%B1%D8%AF",
+    "summary": "برنامه «SAFE» که در ماه مه ۲۰۲۵ راه اندازی شد، تا سقف ۱۵۰ میلیارد یورو وام های بلندمدت ترجیحی را برای خرید مشترک تجهیزات نظامی و تقویت پایگاه صنعتی-نظامی اتحادیه اروپا فراهم می کند.",
+    "published": "Fri, 27 Nov 2026 15:43:43 +0000",
+    "collected_at": "2026-11-27T22:08:38.327957+03:30",
+    "filter_market_score": 5,
+    "market_score": 10,
+    "market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "title_market_matches": {},
+    "summary_market_matches": {
+      "currency": [
+        "یورو"
+      ]
+    },
+    "full_text_market_matches": {},
+    "driver_matches": [],
+    "major_event_matches": [],
+    "signal_matches": [
+      "کاهش"
+    ],
+    "filter_reason": "relevant_market_news",
+    "filter_applied": true,
+    "priority": "medium",
+    "filter_score_bonus": 5,
+    "gold_matches": [],
+    "currency_matches": [
+      "یورو"
+    ],
+    "stock_matches": [],
+    "high_impact_matches": [],
+    "medium_impact_matches": [],
+    "has_numeric_evidence": true,
+    "market_count": 1,
+    "ranking_reasons": [
+      "ارتباط بازار در خلاصه",
+      "نشانه اطلاعات کاربردی بازار",
+      "وجود عدد در متن",
+      "امتیاز کمکی مرحله فیلتر"
+    ],
+    "ranking_applied": true,
+    "duplicate_count": 1
+  },
+  {
     "source": "تابناک",
     "title": "رقیب جدید آیفون ایر از راه رسید",
     "link": "https://tabnak.ir/fa/news/4204307/%D8%B1%D9%82%DB%8C%D8%A8-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B2-%D8%B1%D8%A7%D9%87-%D8%B1%D8%B3%DB%8C%D8%AF",
@@ -9004,40 +9219,40 @@
     "duplicate_count": 1
   },
   {
-    "source": "دنیای اقتصاد",
-    "title": "خصوصی سازی سایپا چه نفعی برای مردم خواهد داشت؟",
-    "link": "https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%DA%AF%D8%B1%D9%88%D9%87-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%86%DB%8C%D8%A7%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-192/4310045-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B3%D8%A7%DB%8C%D9%BE%D8%A7-%DA%86%D9%87-%D9%86%D9%81%D8%B9%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%AF%D8%A7%D8%B4%D8%AA",
-    "summary": "دنیای اقتصاد: خصوصی سازی شرکت خودروسازی سایپا می تواند به نفع مردم تمام شود؟ دولت تصمیم گرفته سهام شرکت خودروسازی سایپا را واگذار کند، اما آیا این اتفاق خوبی است؟",
-    "published": "Sun, 22 Nov 2026 14:30:50 +0000",
-    "collected_at": "2026-11-22T21:32:53.876775+03:30",
+    "source": "تابناک",
+    "title": "فعالان صنعت معدن و فلزات می توانند از ظرفیت های تأمین مالی بانک شهر بهره مند شوند",
+    "link": "https://tabnak.ir/fa/news/4204651/%D9%81%D8%B9%D8%A7%D9%84%D8%A7%D9%86-%D8%B5%D9%86%D8%B9%D8%AA-%D9%85%D8%B9%D8%AF%D9%86-%D9%88-%D9%81%D9%84%D8%B2%D8%A7%D8%AA-%D9%85%DB%8C%D8%AA%D9%88%D8%A7%D9%86%D9%86%D8%AF-%D8%A7%D8%B2-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA%D9%87%D8%A7%DB%8C-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D8%B4%D9%87%D8%B1-%D8%A8%D9%87%D8%B1%D9%87%D9%85%D9%86%D8%AF-%D8%B4%D9%88%D9%86%D8%AF",
+    "summary": "مدیرعامل بانک شهر با تأکید بر آمادگی این بانک برای توسعه همکاری با فعالان صنعت معدن و فلزات، گفت: فعالان این حوزه می توانند با بهره گیری از ظرفیت های ارزی و ریالی و ابزارهای نوین تأمین مالی بانک شهر، از خدمات و حمایت های مالی این بانک برای پیشبرد فعالیت ها و طرح های توسعه ای خود استفاده کنند.",
+    "published": "Fri, 27 Nov 2026 16:24:34 +0000",
+    "collected_at": "2026-11-27T22:08:56.928407+03:30",
     "filter_market_score": 5,
     "market_score": 8,
     "market_matches": {
-      "stock": [
-        "سهام"
+      "currency": [
+        "ارز"
       ]
     },
     "title_market_matches": {},
     "summary_market_matches": {
-      "stock": [
-        "سهام"
+      "currency": [
+        "ارز"
       ]
     },
     "full_text_market_matches": {},
     "driver_matches": [],
     "major_event_matches": [],
     "signal_matches": [
-      "تصمیم"
+      "حمایت"
     ],
     "filter_reason": "relevant_market_news",
     "filter_applied": true,
     "priority": "low",
     "filter_score_bonus": 5,
     "gold_matches": [],
-    "currency_matches": [],
-    "stock_matches": [
-      "سهام"
+    "currency_matches": [
+      "ارز"
     ],
+    "stock_matches": [],
     "high_impact_matches": [],
     "medium_impact_matches": [],
     "has_numeric_evidence": false,
